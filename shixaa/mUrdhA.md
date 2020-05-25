@@ -44,6 +44,9 @@ unicode_script: devanagari
 - "This “phonological retroflexion” may be viewed in a functional sense in that all three sounds ऋ, र्, and ष् are “cerebralizers,” if not all cerebrals themselves in the view of the Pratisakhyas. In later texts such as the Paniniya-SiksA, both ऋ and र्, along with ष् are classified as retroflexes, and thus all of them become “cerebralizers” and cerebrals."
   - "This “development” may be viewed as a phonetic development, but at the same time one may speculate that the phonological behavior of these sounds—their phonological or functional retroflexion- may have at least partially contributed to this phonetic shift. Thus, we find that the phonological requirements in Paninian grammar are greatly facilitated if we assume that r and r had the same point-of-articulation classification (Bare 1976:171)."
 
+### मूर्धन्यस्वीकारः
+"The Aitareya Āraṇyaka already records a debate on whether the Saṃhitā of the R̥gveda is अणकार and अषकार, or सणकार and सषकार, and concludes that the tradition represented by the author of this Āraṇyaka follows the lineage of Māṇḍūkeya, and that the Saṃhitā should be recited सणकार and सषकार.  But the discussion attests to the historical fact that some reciters were in favor of an अणकार and अषकार recitation of the R̥gveda."
+
 ### ऋकार-रेफयोः
 - Varied classification despite functional similarity
   - "no Pratisakhyas consider r and ऋ to be retroflex sounds ( murdhanya ), and to find them classified as retroflexes we have to come down to such late texts as the Paniniya-Siksa."
