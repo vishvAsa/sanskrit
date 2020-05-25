@@ -103,11 +103,11 @@ title: Misconceptions
 - Sanskrit is the mother of all languages / most languages/ Indo European languages.
     - As suhAsa says: _"She’s just one of the close relatives of the actual mother - The Proto Indo-European Language. Calling Sanskrit the "Mother of Languages" is like saying "The Chimpanzee is the father of man""_
 
-## Known sources of errors
+### Known sources of errors
 
 - As of 2016 - some Samsrita Bharati books including "Pride of India" \[[TW16](https://twitter.com/sudarshanhs/status/774433418515849216)\] and "kovida text". \[[TW16](https://twitter.com/blog_supplement/status/774418049642487810)\]
 
-## Negative Impact, addenda
+### Negative Impact, addenda
 
 - Falsehood in favor of Sanskrit damages the respectability of both the language and its lovers.
     - As suhAsa says: "Word-offerings of praises (read lies) will do nothing to revive the language. Learn the language, speak it, enjoy its literary richness and then proudly wear the badge of Sanskrit on your chest."
