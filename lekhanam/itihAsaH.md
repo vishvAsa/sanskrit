@@ -6,7 +6,7 @@ unicode_script: devanagari
 ## Early inadequacy
 - "All indications are that the spoken language for which the early scripts (brahmi & kharosthi) were invented did not follow a fully scientific (or standardized) mapping of sounds to script, so the early scripts did not allow for phonetically accurate representation of the spoken language."
 - "In fact the kharosthi script in its early centuries did not even show vowel length distinctions but this is no evidence to show that the underlying spoken Indo-Aryan language in the 4th century BCE had shed its all its long vowels. It is only an evidence that the script did not allow such vowel length distinctions to be orthographically represented (until that script evolved enough over the centuries to allow fully phonetic representation of the spoken language -- and voila, you have phonetically accurate sanskrit appearing after centuries of apparent written "prakrit" -- when really all that had happened is only that the script had evolved, not so much the spoken language)." [रामकृष्णः](https://groups.google.com/forum/#!topic/bvparishat/e26Gh14ohxI)
-- Even in later scripts, there is problem writing तल्ँ लाति (writ as तँल्लाति), or समा॒नय्ँ योनि॒म् (writ as समा॒नँय्योनि॒म्). 
+- Even in later scripts, there is problem writing तल्ँ लाति (writ as तँल्लाति), अ॒मुष्मि॑ल्ँ लो॒के (writ as अ॒मुष्मि॑ल्लोँ॒के) or समा॒नय्ँ योनि॒म् (writ as समा॒नँय्योनि॒म्). 
 
 ## Later script degeneracy
 In many medieval and modern scripts, vargIya-panchama-s stopped being used - substituted by anusvAra-s. In Hindi, anusvAra also came to be used in place of anunAsika - as in हैँ. Also in Hindi, is written as हैं though pronounced as हॆँ (similar with मैं). 
