@@ -33,5 +33,10 @@ Before the 1980’s this saṃvṛta ukāram was shown in writing by placing the
 
 As a result of the script reform of the 1970=80, the saṃvṛta ukāram was dropped.  It was decided to write വാക്കു് (Vākkŭ) as വാക്ക്  (Vākk) under the assumption that Malayali would anyway read it as വാക്കു് (Vākkŭ).​
 
+### Telugu and Kannada "reform" attempts
+"It was on the lines of 'simplification' removing the vestigial elements in the script which are no longer required for a new changed modern 'colloquial' language that acquired the position of the  standard language. Removal of script symbols  ఋ (r̥) both independent and mātrā aspects , ఱ ( originally retroflex r, called śakaṭa rēpha) , longer ఋ (r̥), dantya ch and j etc., were all proposed on the basis of the argument that they were no longer pronounced the way they were supposed to be."
+
+
+
 ### Failed attempt to retard Grantha
 - "See [Tamil Tribune archive](https://web.archive.org/web/20200306030655/http://www.tamiltribune.com/18/1201.html) and its 5 references at the bottom. I think first their concern was with the proposal to add Grantha letters to the Tamil block. Fine, so it was created as a separate block, as "not Tamil". Then there was also a serious protest when it was proposed to add letters like short-e to the Grantha block! The fear seems to have been that if Grantha becomes a strict superset of Tamil, then people may actually use it instead. So even though Grantha is not "their script", they still want to keep it crippled so that one cannot write Tamil using the script."
