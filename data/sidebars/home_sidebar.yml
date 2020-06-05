@@ -10,9 +10,11 @@ contents:
       - title: Categories
         url: /categories/
   - title: Notes Home
-    url: https://vvasuki.github.io/notes/
+    url: ../notes/
+  - title: मीमांसा
+    url: ../mImAMsA/
   - title: काव्यम्
-    url: https://vvasuki.github.io/kAvya/
+    url: ../kAvya/
   - title: Vishvas's home page
     url: https://vvasuki.github.io/
 #  - title: <i class="fas fa-hand-holding-heart"></i>Donate Via Vishvas
