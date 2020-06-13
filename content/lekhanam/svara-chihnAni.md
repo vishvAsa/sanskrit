@@ -22,7 +22,7 @@ unicode_script: devanagari
 
 ### एकश्रुतिः
 - प्रायेणाचिह्नितः।
-- वाक्यादाव् अन्यथा - - "When there is no Udātta throughout an initial set of syllables in a sentence then they all acquire an Anudātta (sign) till the first Udātta is encountered i.e. X-X...n-U=> A-A...n-U सु॒रु॒प॒कृ॒त्नुम्"। - [MT](https://manasataramgini.files.wordpress.com/2008/09/svaras_new.pdf)
+- वाक्यादाव् अन्यथा - - "When there is no Udātta throughout an initial set of syllables in a sentence then they all acquire an Anudātta (sign) till the first Udātta is encountered i.e. X-X...n-U=> A-A...n-U सु॒रु॒प॒कृ॒त्नुम्"। - [MT](https://manasataramgini.files.wordpress.com/2008/09/svaras_new.pdf) नाम, विरामात्परम् अनुदात्ततायास् सूचनार्थम् एव `अ॒सृ॒ज्य॒त॒` इति सन्ततम् ॒चिह्नानि प्रयुज्यन्ते, न हि प्रायेण वाक्यमध्ये।
 
 ## स्वरितः
 - `क॑` इति यथा।
