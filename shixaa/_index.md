@@ -18,6 +18,9 @@ title: +शिक्षा
 - नाट्यशास्त्रे - विपरीतं हमयोगे ब्रह्मादौ… २३ (नाट्यशास्त्र, अध्याय १७) इति प्राकृत एव विपरीतोच्चारणं विधत्ते।
 - "हकारान्नणमपरान्नासिक्यम् " इति तैत्तिरीयप्रातिशाख्यसूत्रमिमं यजुर्वेदिनामुच्चारणविशेषमनुविधत्ते ।
 
+## वबयोः
+"there is a specific text called Dantyoṣṭhyavidhi to teach the distinction between व and ब, as these were confusing to some reciter, perhaps in Eastern India."
+
 ## शिष्टाः शिक्षाविचाराः
 - ऋ-ऌ-वर्णयोः असावर्ण्ये
     - [अत्र](https://groups.google.com/forum/#!topic/bvparishat/HuVB9kVGJrI)
