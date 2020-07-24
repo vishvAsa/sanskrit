@@ -4,8 +4,8 @@ unicode_script: devanagari
 ---
 
 ## परिवर्तनक्रमः
-{{< figure src="../images/phonetic_transformation.png" attribution>}}
-{{< figure src="../images/phonetic_transformation_text.png" attribution>}}
+{{< figure src="../images/phonetic_transformation.png"  >}}
+{{< figure src="../images/phonetic_transformation_text.png"  >}}
 
 - "The orthodox Indian tradition has greatly respected the relationship of a teacher and his disciple and has continued to believe that nothing ever changed in this oral transmission. It is believed that the oral text has been handed down from one generation to the next without any changes. However, we must view a preliterate oral tradition with a fresh linguistic and analytical approach. We must distinguish a “pseudo-connection” from a “real connection” between two successive synchronic states of a preliterate oral text."
 - Within the veda-s, one finds great inconsistency in applicaiton of phonetic rules ("प्र णो " इत्यपि दृश्यते, "प्र नो" इत्यपि।) - so that "the preredaction oral traditions were extremely irregular, imperfect, flexible and, therefore, ironically, more “natural” to ancient oral literature, and that a major amount of the phonetic “information” which we find in the existing Vedic recensions can hardly be considered to represent the original compositions."
