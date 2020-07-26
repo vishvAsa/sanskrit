@@ -1,8 +1,6 @@
 ---
-title: +प्रकीर्णांशाः
+title: +स्वरः
 unicode_script: devanagari
-
-practice_weight: 0
 ---
 
 व्याकरणविशेषा [अत्र](../../vyAkaraNam/svaraH/)। वेदपाठे [ऽत्र](https://docs.google.com/spreadsheets/d/1VJPgfgzE6S2J18R7MO4YK4wWi-bQ4qiwP5ldJLKxuZM/edit#gid=209823179)।
