@@ -1,5 +1,5 @@
 ---
-title: स्वरितवचनम्
+title: +स्वरितवचनम्
 unicode_script: devanagari
 
 ---
