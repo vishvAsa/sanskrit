@@ -75,4 +75,4 @@ unicode_script: devanagari
 
 
 ## सूत्राणि
-<div class="spreadsheet" src="../svara-sUtrANi.json"></div>
+<div class="spreadsheet" src="../svara-sUtrANi.toml"></div>
