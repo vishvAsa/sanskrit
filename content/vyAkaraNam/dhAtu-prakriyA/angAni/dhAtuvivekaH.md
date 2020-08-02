@@ -12,9 +12,14 @@ unicode_script: devanagari
 - क्वचिद् धातोर् गणः साम्प्रतो भवति - सार्वधातुकविकरणप्रत्ययचितौ यथा। 
 - इडानुकूल्यम् [अन्यत्रोक्तम्](../iDAgama-nishcayaH/)।
 
+## आत्मनेपदिता
+<div class="spreadsheet" src="../AtmanepaditA.toml"> </div>  
+
 ## धात्वादेशः
 - ज्ञाजनोर्जा (७.३.७९) /...
-- पूर्णावल्य् [अत्र](https://docs.google.com/spreadsheets/d/1DVFj51q9dd34v_-78pAZ3zyNsaUrMO6NPm2JzGeQFDw/edit#gid=29)।
+
+<div class="spreadsheet" src="../dhAtvAdeshaH.toml"> </div>  
+
 
 ### विशेषाः
 हनो वध लिङि।
