@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 +++
 
 ## साधारणानि
-<div class="spreadsheet" src="../shabda-gatAH.json5"></div>
+<div class="spreadsheet" src="../shabda-gatAH.toml"></div>
 
 ## प्रादयः
-<div class="spreadsheet" src="../prAdayaH.json5"></div>
+<div class="spreadsheet" src="../prAdayaH.toml"></div>
