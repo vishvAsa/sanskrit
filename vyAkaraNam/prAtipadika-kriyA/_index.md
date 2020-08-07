@@ -3,4 +3,11 @@ title: प्रातिपदिक-क्रिया
 unicode_script: devanagari
 ---
 
-स्त्रीप्रत्ययविधाने [ऽत्र](https://docs.google.com/spreadsheets/d/1kd_XbHjiFyR8Jf8isX67jLgJmoYenQpNs0sAB9yBPiI/edit#gid=8)।
+## संज्ञा
+<div class="spreadsheet" src="saMjJNA.toml"></div>
+
+## भस्य
+<div class="spreadsheet" src="bhasya.toml"></div>
+
+## वृद्धिः
+<div class="spreadsheet" src="vRddhiH.toml"></div>
