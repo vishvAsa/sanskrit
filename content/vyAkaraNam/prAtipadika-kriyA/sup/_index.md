@@ -1,5 +1,5 @@
 ---
-title: सुबन्तसिद्धिः
+title: +सुप्
 unicode_script: devanagari
 ---
 
