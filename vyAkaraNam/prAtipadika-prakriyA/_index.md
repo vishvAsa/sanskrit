@@ -1,5 +1,5 @@
 ---
-title: प्रातिपदिक-क्रिया
+title: प्रातिपदिक-प्रक्रिया
 unicode_script: devanagari
 ---
 
