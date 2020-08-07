@@ -1,5 +1,5 @@
 ---
-title: सिद्धप्रत्ययाः
+title: रूपावलिः
 unicode_script: devanagari
 ---
 
