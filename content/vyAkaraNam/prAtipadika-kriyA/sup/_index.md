@@ -7,7 +7,7 @@ unicode_script: devanagari
 - अन्तिमः प्रत्ययः/ अक्षरम्
 - संज्ञा - नदी | घी | सर्वनाम
 
-विस्तारो [ऽत्र](https://docs.google.com/spreadsheets/d/1kd_XbHjiFyR8Jf8isX67jLgJmoYenQpNs0sAB9yBPiI/edit#gid=7)।
+विस्तारो [ऽत्र](../)।
 
 ## प्रत्ययविधानम्
 १। सु, औ, जस्,  
@@ -23,7 +23,7 @@ unicode_script: devanagari
 केषुचित् सिद्धरूपरटनम् वरम् प्रक्रियाया लाघवात् -
  - इदम् अदस् अस्मत् युष्मत् 
 
-प्रत्ययादेशविस्तारो [ऽत्र](https://docs.google.com/spreadsheets/d/1kd_XbHjiFyR8Jf8isX67jLgJmoYenQpNs0sAB9yBPiI/edit#gid=12)।
+प्रत्ययादेशविस्तारो [ऽत्र](subantam/)।
 
 सिद्धप्रत्यय-विस्तारो [ऽत्र](https://docs.google.com/spreadsheets/d/1kd_XbHjiFyR8Jf8isX67jLgJmoYenQpNs0sAB9yBPiI/edit#gid=4)।
 
@@ -42,7 +42,7 @@ unicode_script: devanagari
 
 
 ## अङ्गकार्यम्
-- भस्य - विस्तारो [ऽत्र](https://docs.google.com/spreadsheets/d/1kd_XbHjiFyR8Jf8isX67jLgJmoYenQpNs0sAB9yBPiI/edit#gid=11)।
+- भस्य - विस्तारो [ऽत्र](../)।
 
 ### नलोपः
 नलोपः प्रातिपदिकान्तस्य । न ङिसम्बुद्ध्योः ।
