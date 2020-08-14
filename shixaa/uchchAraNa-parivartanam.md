@@ -22,6 +22,12 @@ unicode_script: devanagari
 ## वेदेषु परिवर्तनम्
 - "The three volumes of Vedic Variants noted by Franklin Edgerton and Murray Emeneau amply attest to the variants found among the various Veda Śākhās, and some of these are probably attributable to regional variation in the pronunciation of Sanskrit."
 
+### ऋग्वेदे पादशो वचनम्
+- अनुदात्तं सर्वमपादादौ ८.१.१८ इति पाणिनिः। तेन विषमपादादाव् अपि न स्वरनिघातः, यथा- "जी॒वात॑वे प्रत॒रं सा॑धया॒ धियोऽग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥" [इत्यत्र](http://rigveda.sanatana.in/describe/pada/%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A5%91)। तथा, "the enclitic forms such as ते and मे, as they come under the Pāṇinian restriction of अपादादौ cannot occur at the beginning of any pādas" इत्यपि वर्तते।
+- It is interesting to note that lots of Rk-s preserved in other vaidika texts, such as [naxatra sUkta from TB](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n249/mode/2up) are indeed split pAda-wise. This can still be heard in current recitations. Ditto in case of sAma reciters (at least the one tradition I've heard) chanting Rks such as ["आ꣡क्र꣢न्दय कु꣣रु꣡ घोष꣢꣯म् म꣣हा꣢न्तम्... "](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n443/mode/2up). They were probably received at a similar time.
+- Timing. This pAda-wise recitation may have been before kramapATha production: "However, beginning with the Kramapāṭha, the half-verses [ardharca] are treated as units, and the end of the half-verse [ardharca] is marked with a repetition of the last word like X iti X." 
+
+
 ### तैत्तिरीयशाख्या
 - आरण्यके तु स्वरविकृतिर् विद्यते काचित्। तदन्यत्रोक्तम्।
 - तैत्तिरीयशाखायाम् अप्य् आन्ध्र-द्राविडपाठयोर् भेदो वर्तते।
