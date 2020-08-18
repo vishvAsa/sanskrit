@@ -53,7 +53,7 @@ or three vertical strokes above it or a dot below it
 
 ## मात्राचिह्नानि
 - "In rare cases a syllable may be marked by a २ or ३ sign in the Saṃhitāpāṭha. In such cases the syllable has to be lengthened by that many morae"
-- स्विदा॒सी३दु॒पिरस्विदासी३त् ||(ṚV10.129.4)
+- स्वि॑दा॒सी३दु॒पिर॑स्विदासी३त् ||(ṚV10.129.4)
 
 ## एकश्रुतीभावः
 - "n some special cases a long section of the Saṃhitāpāṭha suppress all inherent accents and is rendered purely in Ekaśruti. This is mainly seen in KṛYV tradition." तैत्तिरीयारण्यक आरण्यकशिक्षानुसारं वाक्यस्वराधीनम् - अग्निश्च मा मन्युश्च मन्युपतयश्च मन्यु॑कृते॒भ्यः ।"
