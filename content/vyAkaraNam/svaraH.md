@@ -17,6 +17,9 @@ unicode_script: devanagari
     - "When an originally unaccented syllable is sandwiched between an upstream Udātta syllable and a downstream Udātta or Svarita  syllable then it becomes an Anudātta syllable i.e. U-X-U=>U-A- यद् अ॒ङ्ग दा॒शुशे॒ त्वम्" - [MT](https://manasataramgini.files.wordpress.com/2008/09/svaras_new.pdf)
 - स्वरितात् संहितायामनुदात्तानाम् एकश्रुतिः।
 
+## द्व्युदात्ताः
+- वाव = वा + ए॒व प्रायेण।  (प्र॒जाप॑ति॒र्वाव । प्र॒जाप॑ति॒रिति॑ प्र॒जा-प॒तिः॒ । वावैषः ।)
+
 ## उदात्तस्थानम्
 - प्रत्ययः। परश् च। आद्युदात्तश्च। अपवादाः 
   - `अनुदत्तौ सुप्पितौ`। (सुबन्तेष्व् अपवादा अन्यत्रोक्ताः।)
