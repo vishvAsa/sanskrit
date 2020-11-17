@@ -1,10 +1,13 @@
 +++
-title = "वर्णव्यत्ययः"
+title = "+वर्णव्यत्ययः"
 unicode_script = "devanagari"
 +++
 
 ## परिचयः
 - शिक्षाग्रन्थानाम् पात्रम् [अन्यत्रोक्तम्](../shixaa/uchchAraNa-parivartanam/)।
+
+## सार्वत्रिकविकल्पाः
+- "यरो द्वे वा" इत्यादिसूत्रैर् जन्यानि नैकानि रूपाण्य् [अन्यत्रोक्तानि](yaro_dve)।
 
 ## ह्मकारे ह्नकारे ह्णकारे च
 - नाट्यशास्त्रे - विपरीतं हमयोगे ब्रह्मादौ… २३ (नाट्यशास्त्र, अध्याय १७) इति प्राकृत एव विपरीतोच्चारणं विधत्ते।
@@ -12,7 +15,6 @@ unicode_script = "devanagari"
 
 ## वबयोः
 "there is a specific text called Dantyoṣṭhyavidhi to teach the distinction between व and ब, as these were confusing to some reciter, perhaps in Eastern India."
-
 
 ## तैत्तिरीयशाखायाम्
 ### नकारस्य ञकारः
