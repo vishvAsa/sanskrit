@@ -13,7 +13,7 @@ unicode_script: devanagari
 
 ## पाठः
 ॐ  
-तैत्तिरीयप्रातिशाख्य  
+तैत्तिरीयप्रातिशाख्यम्  
 (Translation by W.D. Whitney, 1868)  
 
 ॥१॥  
