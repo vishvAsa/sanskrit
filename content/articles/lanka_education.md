@@ -2,6 +2,8 @@
 title: लङ्कायां संस्कृतम्
 ---
 
+Below are excerpts from Rohana Seneviratne's article.
+
 - "Buddhist monks from their early Samanera age, are “required” to learn Sanskrit alongside Pali  ... it is Pali – not Sanskrit – that is expected to sustain the local version of Theravada Buddhism on this land."
 - "The academic contexts where Sanskrit is taught in support of the study of disciplines such as the Sinhala and Tamil languages and literature, History, Religious Studies, Archaeology, and Philosophy often confine Sanskrit scholarship to the basics. "
 - "I encounter more students, mostly Buddhist monks, for whom Sanskrit has been made compulsory by the UGC but often whining about their inability and unwillingness to continue offering Sanskrit. One of the justifications they produce is that they have sufficient knowledge of Sanskrit and the university must allow them to pursue new knowledge – new in the sense unrelated to Sanskrit. Most interestingly, I am striving to teach the rudiments of Sanskrit grammar to the holders of Rajakiya Pandita degree from the Pracina Bhasopakara Samagama. Most of those titular Rajakiya Panditas I encounter – to my chagrin – often fail to parse a simple sentence or work out basic declensions of Sanskrit nouns."
