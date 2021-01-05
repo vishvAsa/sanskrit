@@ -316,7 +316,7 @@ circumflexed: always the former, if the `ya` follow a vowel.
 964\. a. The suffix `tavya` is a secondary adjective derivative from the
 infinitival noun in `tu` (below, 968), made by adding the suffix `ya`
 (properly `ía`, whence the accent `yà`), before which the final `u`, as
-usual (1203 a), has `guṇa`-strengthening, and is resolved into `av`.
+usual (1203 a), has `guṇa`-strengthening, and is resolved into `av`.+++(5)+++
 
 b\. Hence, as regards both the form taken by the root and the use or
 omission of an auxiliary vowel `i` before the `tavya`, the rules are the
