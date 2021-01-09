@@ -7,7 +7,7 @@ No other language allowed.
 This group aims to facilitate samskrita conversation by enabling immersion into it. This is it's limited goal.'''
 "स्तरः (1-5)" = 'मध्यमः'
 "क्रियाशीलता (1-5)" = 4
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/3VZF9eQ34dbKgl1vahiieQ'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -21,7 +21,7 @@ No other language allowed.
 This group aims to facilitate samskrita conversation by enabling immersion into it. This is it's limited goal.'''
 "स्तरः (1-5)" = 'मध्यमः'
 "क्रियाशीलता (1-5)" = 2
-"IM Name" = 'Telegram'
+"Platform" = 'Telegram'
 "सङ्केतः" = 'https://rebrand.ly/sam-jalpa'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -32,7 +32,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = ''
 "स्तरः (1-5)" = 'मध्यमः'
 "क्रियाशीलता (1-5)" = ''
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/0OAomzAt6HP0qIEHr3cG2L'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -51,7 +51,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 4         विवादाः न भवन्तु।'''
 "स्तरः (1-5)" = 'प्रगतः'
 "क्रियाशीलता (1-5)" = 4
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/4jtNNFWCV4LC3CZpRDvaN8'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -62,7 +62,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'संस्कृतस्यैव प्रयोगः। (अनुप्रेषणेष्वपि)'
 "स्तरः (1-5)" = 'सार्वत्रिकः'
 "क्रियाशीलता (1-5)" = 3
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = '<सद्यो गुप्तः>'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -77,7 +77,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 जिज्ञासूनां प्रश्नानां, सन्देहानाञ्च समाधानं, स्वलिखितकृतीनां विमर्शनादिकं च सप्रेम प्राप्यते।'''
 "स्तरः (1-5)" = 'मध्यमः'
 "क्रियाशीलता (1-5)" = 3
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/3BPRh8eLd642M303n6gnpk'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -88,7 +88,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'नास्ति भाषानियमः। संस्कृतं प्रायेण।'
 "स्तरः (1-5)" = 'सार्वत्रिकः'
 "क्रियाशीलता (1-5)" = 2
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/2rn1j1RQxzK57Rh2V11JAL'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -99,7 +99,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'नास्ति भाषानियमः। संस्कृतं प्रायेण।'
 "स्तरः (1-5)" = 'सार्वत्रिकः'
 "क्रियाशीलता (1-5)" = 1
-"IM Name" = 'Telegram'
+"Platform" = 'Telegram'
 "सङ्केतः" = 'https://t.me/shrI_vaiShNava_sabhA'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -110,7 +110,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = ''
 "स्तरः (1-5)" = ''
 "क्रियाशीलता (1-5)" = 1
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/JOkURaEpX350uMTJ8FooLJ'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -119,17 +119,12 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नाम" = 'द्वैतप्रतिष्ठानम्'
 "विषयः" = 'माध्व-सम्प्रदायः'
 "नियमाः" = '''
-१) सर्वेपि स्व अभिप्रायं वक्तुं स्वतन्त्राः।
-(२) गणोsयं  द्वैत वेदान्त विचारार्थं तथा व्याकरण , मीमांसा, तर्क , ज्योतिष ,न्याय  
+१) सर्वेपि स्व अभिप्रायं वक्तुं स्वतन्त्राः। (२) गणोऽयं  द्वैत वेदान्त विचारार्थं तथा व्याकरण , मीमांसा, तर्क , ज्योतिष ,न्याय  
 शास्त्रादिकानां विचारार्थं च प्रारब्ध:। अतः अन्यविचाराः उत चित्रानि तथा videos , व्यर्थ सन्देशान् अत्र वितरणं नार्हन्ति।
-(३) संभाषणमाध्यमः प्रायः केवलं संस्कृतमेव भवेत्  । संस्कृतमाध्यमः उचितः, साधु: अपि च ।
-(४) विवादाः अत्र नार्हन्ति। केवलं , मैत्री विचारा: एव।
-(५) अत्र व्यर्थ सन्देशानां प्रेषणं , कोपि न इच्छति । अतः तद्  न कर्तव्यम्।
-(६) मध्वशास्त्रं तथा व्याकरण, न्याय , तर्क, मीमांसा ,ज्योतिष शास्त्राणि एव केवलं उद्दिश्य विचारा: भवेयु: , तदा वेदानाम् अङ्गानि अपि। 
-(७) मठीयभेददर्शनं अत्र न भवेत्'''
+… मठीयभेददर्शनं अत्र न भवेत्'''
 "स्तरः (1-5)" = 'प्रगतः'
 "क्रियाशीलता (1-5)" = 2
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'message +91 98413 43265'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -143,7 +138,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 ३) व्यर्थचित्रसन्देशादिप्रेषणं अत्र न कर्तव्यम् |'''
 "स्तरः (1-5)" = 'प्रगतः'
 "क्रियाशीलता (1-5)" = 2
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'message +91 98413 43265'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -154,7 +149,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'संस्कृतस्यैव प्रयोगः। (अनुप्रेषणेष्वपि)। व्याकरविषयश्चैव स्यात्।'
 "स्तरः (1-5)" = 'प्रगतः'
 "क्रियाशीलता (1-5)" = 2
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = ''
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -165,7 +160,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'संस्कृतं प्रायेण।'
 "स्तरः (1-5)" = 'प्रगतः'
 "क्रियाशीलता (1-5)" = 2
-"IM Name" = 'Telegram'
+"Platform" = 'Telegram'
 "सङ्केतः" = 'https://t.me/kalpaH'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -178,7 +173,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 भाषा - संस्कृतम् आङ्ग्लिकी वा।'''
 "स्तरः (1-5)" = ''
 "क्रियाशीलता (1-5)" = 1
-"IM Name" = 'Telegram'
+"Platform" = 'Telegram'
 "सङ्केतः" = 'https://t.me/joinchat/IJu_TkduB-Q-P9nsxb0G0w'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -189,7 +184,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = ''
 "स्तरः (1-5)" = 'प्रगतः'
 "क्रियाशीलता (1-5)" = 4
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://t.co/O7xR9Vh8C5'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -200,7 +195,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'https://groups.google.com/forum/#!forum/sanskrit-programmers'
 "स्तरः (1-5)" = 'सार्वत्रिकः'
 "क्रियाशीलता (1-5)" = 2
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'http://bit.ly/sanskrit-code-whatsapp'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -211,7 +206,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'https://groups.google.com/forum/#!forum/sanskrit-programmers'
 "स्तरः (1-5)" = 'सार्वत्रिकः'
 "क्रियाशीलता (1-5)" = 2
-"IM Name" = 'Telegram'
+"Platform" = 'Telegram'
 "सङ्केतः" = 'https://t.me/sanskrit_coders'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -222,7 +217,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'संस्कृतस्यैव प्रयोगः। (अनुप्रेषणेष्वपि)'
 "स्तरः (1-5)" = 'सार्वत्रिकः'
 "क्रियाशीलता (1-5)" = 2
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/5ZPSKhaBHmkF500yfyK4UJ'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = 'https://archive.org/search.php?query=uploader%3A%22vishvas.vasuki%40gmail.com%22%20subhAShita'
@@ -233,7 +228,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'नास्ति भाषानियमः। संस्कृतं प्रायेण।'
 "स्तरः (1-5)" = ''
 "क्रियाशीलता (1-5)" = 2
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = ''
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -244,7 +239,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'संस्कृतस्यैव प्रयोगः। (अनुप्रेषणेष्वपि)'
 "स्तरः (1-5)" = 'प्रगतः'
 "क्रियाशीलता (1-5)" = 1.5
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'http://bit.ly/veda-mantra-whatsapp'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -255,7 +250,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'संस्कृतस्यैव प्रयोगः। (अनुप्रेषणेष्वपि)'
 "स्तरः (1-5)" = 'माध्यमिकः'
 "क्रियाशीलता (1-5)" = 1
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = ''
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = 'https://archive.org/search.php?query=uploader%3A%22vishvas.vasuki%40gmail.com%22%20bhAgavata'
@@ -266,7 +261,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'संस्कृतस्यैव प्रयोगः। (अनुप्रेषणेष्वपि)'
 "स्तरः (1-5)" = 'माध्यमिकः'
 "क्रियाशीलता (1-5)" = 1
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = ''
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -277,7 +272,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'संस्कृतस्यैव प्रयोगः। (अनुप्रेषणेष्वपि)'
 "स्तरः (1-5)" = 'माध्यमिकः'
 "क्रियाशीलता (1-5)" = 1
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = ''
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -288,7 +283,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'ಕನ್ನಡಪ್ರಯೋಗವೇ ಉಚಿತ.'
 "स्तरः (1-5)" = 'माध्यमिकः'
 "क्रियाशीलता (1-5)" = 1
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = ''
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = 'https://archive.org/search.php?query=uploader%3A%22vishvas.vasuki%40gmail.com%22%20kumAra'
@@ -299,7 +294,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'संस्कृतस्यैव प्रयोगः। (अनुप्रेषणेष्वपि)'
 "स्तरः (1-5)" = 'माध्यमिकः'
 "क्रियाशीलता (1-5)" = 1
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = ''
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -310,7 +305,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'हिन्दी/संस्कृत-प्रयोगः।'
 "स्तरः (1-5)" = 'सार्वत्रिकः'
 "क्रियाशीलता (1-5)" = 1
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = ''
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -321,7 +316,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'संस्कृतस्यैव प्रयोगः। (अनुप्रेषणेष्वपि)'
 "स्तरः (1-5)" = 'प्रगतः'
 "क्रियाशीलता (1-5)" = 1
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = ''
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -334,7 +329,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 स्वीयपद्यप्रस्तुतिर् एवात्र भूयात्।'''
 "स्तरः (1-5)" = 'प्रगतः'
 "क्रियाशीलता (1-5)" = 1
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/1aWrHDRwAGCAcWHvNmc65G'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -345,7 +340,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = '?'
 "स्तरः (1-5)" = '?'
 "क्रियाशीलता (1-5)" = ''
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/1ak9KArEjXN6NMleCA7UMm'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -356,7 +351,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = ''
 "स्तरः (1-5)" = ''
 "क्रियाशीलता (1-5)" = ''
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/HOtXh9MXVyeLLs7MKX3jUX'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -369,7 +364,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 (३) अत्र संस्कृतेनैव विचाराः स्युः ।'''
 "स्तरः (1-5)" = 'प्रगतः'
 "क्रियाशीलता (1-5)" = 3
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'message +91 98413 43265'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -380,7 +375,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = 'यह समूह हिन्दी-संस्कृत समूह है । यहाँ केवल लघुसिद्धान्तकौमुदी के ही लेख /आडियो/विडियो ही प्रेषित करना है, नित्य 3 से 5 सूत्रों पर विस्तृत चर्चा हो । आगे के सूत्र अगले दिन । अत: धैर्य आवश्यक है ।'
 "स्तरः (1-5)" = ''
 "क्रियाशीलता (1-5)" = ''
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/HykECf2l3ut67wZWHQOAA3'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -391,7 +386,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = ''
 "स्तरः (1-5)" = ''
 "क्रियाशीलता (1-5)" = ''
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/GMrF97BSylCCpsqi7DyQbt'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -402,7 +397,7 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = ''
 "स्तरः (1-5)" = ''
 "क्रियाशीलता (1-5)" = ''
-"IM Name" = 'Discord'
+"Platform" = 'Discord'
 "सङ्केतः" = 'https://discord.gg/bFWFxZ'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
@@ -413,7 +408,72 @@ This group aims to facilitate samskrita conversation by enabling immersion into 
 "नियमाः" = ''
 "स्तरः (1-5)" = 1
 "क्रियाशीलता (1-5)" = ''
-"IM Name" = 'Whatsapp'
+"Platform" = 'Whatsapp'
 "सङ्केतः" = 'https://chat.whatsapp.com/HsCzwQT3BAsKpLHosdpjwx'
 "उदाहरणसन्देशाः" = ''
 "विवरणानि" = ''
+
+[[data]]
+"नाम" = 'samskrita'
+"विषयः" = 'अनिश्चितः'
+"नियमाः" = 'संस्कृतस्यैव प्रयोगः। (अनुप्रेषणेष्वपि)'
+"स्तरः (1-5)" = 'सार्वत्रिकः'
+"क्रियाशीलता (1-5)" = 1
+"Platform" = 'slack'
+"सङ्केतः" = 'https://join.slack.com/t/samskrita/shared_invite/enQtMjYwNDgyNzYxMzkyLTU4ZTRjMDA0MTcwNWU2MzM0ODQyMzNkMmFmYjlhN2YyYmU4NGU5MGNiZWIzNzFlMWYxNDQ1MjMzNTYyNmY4ZDU'
+"उदाहरणसन्देशाः" = ''
+"विवरणानि" = ''
+
+[[data]]
+"विषयः" = 'संस्कृतम्'
+"नाम" = 'संस्कृतयूथम्'
+"सङ्केतः" = 'https://groups.google.com/forum/#!forum/samskrita'
+"भाषा\n" = 'संस्कृतम्, आङ्ग्लिकम्'
+"नियमाः" = ''
+"सक्रियता" = ''
+"Platform" = 'Google groups'
+
+[[data]]
+"विषयः" = 'भारतीय-विद्याः'
+"नाम" = 'भारतीयविद्वत्-परिषत्'
+"सङ्केतः" = 'https://groups.google.com/forum/#!forum/bvparishat'
+"भाषा\n" = 'संस्कृतम्, आङ्ग्लिकम्'
+"नियमाः" = ''
+"सक्रियता" = ''
+"Platform" = 'Google groups'
+
+[[data]]
+"विषयः" = 'भारतीय-विद्याः'
+"नाम" = 'शास्त्रम्'
+"सङ्केतः" = 'https://groups.google.com/forum/#!forum/shaastram'
+"भाषा\n" = 'संस्कृतम्'
+"नियमाः" = ''
+"सक्रियता" = ''
+"Platform" = 'Google groups'
+
+[[data]]
+"विषयः" = ''
+"नाम" = 'संस्कृते संवदेम'
+"सङ्केतः" = 'https://groups.google.com/forum/#!forum/samskrte-samvadema'
+"भाषा\n" = 'संस्कृतम्'
+"नियमाः" = 'संस्कृतेनैव भाषणम्'
+"सक्रियता" = ''
+"Platform" = 'Google groups'
+
+[[data]]
+"विषयः" = 'संस्कृत-साङ्गणकाः / sanskrit code'
+"नाम" = 'sanskrit code'
+"सङ्केतः" = 'https://groups.google.com/forum/#!forum/sanskrit-programmers'
+"भाषा\n" = 'संस्कृतम्, आङ्ग्लिकम्'
+"नियमाः" = ''
+"सक्रियता" = ''
+"Platform" = 'Google groups'
+
+[[data]]
+"विषयः" = 'पद्यम्'
+"नाम" = 'कवयो वयममी'
+"सङ्केतः" = 'https://www.facebook.com/groups/padyadhaaraa/?fref=ts'
+"भाषा\n" = 'संस्कृतम्'
+"नियमाः" = ''
+"सक्रियता" = ''
+"Platform" = 'Facebook groups'

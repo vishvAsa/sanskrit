@@ -4,6 +4,7 @@ title = "Groups"
 
 For bots, see sanskrit-coders site.
 
-## Sheet
-<div class="spreadsheet" src="../groups.toml" fullHeightWithRowsPerScreen=8> </div>  
+## Instant Messaging
+<div class="spreadsheet" src="../groups_IM.toml" fullHeightWithRowsPerScreen=8> </div>  
 
+## Fora
