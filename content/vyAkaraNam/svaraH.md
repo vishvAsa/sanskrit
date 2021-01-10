@@ -2,8 +2,7 @@
 title: स्वरः
 unicode_script: devanagari
 ---
-
-सूत्राण्य् [अत्र](https://docs.google.com/spreadsheets/d/1208pyOsYiZlS5fmm8tYEq2qbCzqWgPnMYNUf1-1uRJM/edit#gid=4)।
+लिखितपाठे स्वराङ्कनम्, लिखितपाठे स्वराभिज्ञानं [चान्यत्रोक्तम्](../../lekhanam/svara-chihnAni)।
 
 ## उच्चारणविशेषाः
 - विस्तारः शिक्षाभागे [ऽत्र](../../shixaa/svaraH/)।
