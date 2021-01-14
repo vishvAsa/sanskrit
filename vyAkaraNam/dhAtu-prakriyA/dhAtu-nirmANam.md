@@ -11,4 +11,4 @@ unicode_script: devanagari
 - ङिदन्तत्वादात्मनेपदम् । 1-3-12 अनुदात्तङित आत्मनेपदम् it
 
 ## सूत्राणि
- <div class="spreadsheet" src="../sanAdi-prakaraNam.toml"></div>
+ <div class="spreadsheet" src="../sanAdi-prakaraNam.toml" fullHeightWithRowsPerScreen=8></div>
