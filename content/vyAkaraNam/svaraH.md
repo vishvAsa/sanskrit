@@ -84,4 +84,4 @@ unicode_script: devanagari
 
 
 ## सूत्राणि
-<div class="spreadsheet" src="../svara-sUtrANi.toml"></div>
+<div class="spreadsheet" src="../svara-sUtrANi.toml" fullHeightWithRowsPerScreen=8></div>

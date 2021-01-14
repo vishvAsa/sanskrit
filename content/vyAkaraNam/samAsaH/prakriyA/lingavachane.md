@@ -10,5 +10,5 @@ unicode_script = "devanagari"
 
 
 ## सूत्राणि
-<div class="spreadsheet" src="../lingavachane.toml"> </div>  
+<div class="spreadsheet" src="../lingavachane.toml" fullHeightWithRowsPerScreen=8> </div>  
 

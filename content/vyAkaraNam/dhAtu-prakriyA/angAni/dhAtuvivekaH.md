@@ -13,12 +13,12 @@ unicode_script: devanagari
 - इडानुकूल्यम् [अन्यत्रोक्तम्](../iDAgama-nishcayaH/)।
 
 ## आत्मनेपदिता
-<div class="spreadsheet" src="../AtmanepaditA.toml"> </div>  
+<div class="spreadsheet" src="../AtmanepaditA.toml" fullHeightWithRowsPerScreen=8> </div>  
 
 ## धात्वादेशः
 - ज्ञाजनोर्जा (७.३.७९) /...
 
-<div class="spreadsheet" src="../dhAtvAdeshaH.toml"> </div>  
+<div class="spreadsheet" src="../dhAtvAdeshaH.toml" fullHeightWithRowsPerScreen=8> </div>  
 
 
 ### विशेषाः

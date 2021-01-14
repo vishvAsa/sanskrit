@@ -9,5 +9,5 @@ unicode_script: devanagari
   - योगविभागेन `सह` इति गृहीत्वा खादतमोदत, एहियवम् इति तिङन्तेन समासो ऽपि भवति!
   
 ## संज्ञा
-<div class="spreadsheet" src="../saMjJNA.toml"> </div>  
+<div class="spreadsheet" src="../saMjJNA.toml" fullHeightWithRowsPerScreen=8> </div>  
 

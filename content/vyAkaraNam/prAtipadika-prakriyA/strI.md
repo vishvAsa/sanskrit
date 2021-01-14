@@ -4,4 +4,4 @@ unicode_script: devanagari
 ---
 
 ## सूत्राणि
-<div class="spreadsheet" src="../strI.toml"></div>
+<div class="spreadsheet" src="../strI.toml" fullHeightWithRowsPerScreen=8></div>
