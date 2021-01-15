@@ -37,11 +37,11 @@ or three vertical strokes above it or a dot below it
 
 ### जात्यः
 - विवरणान्य् [अत्र](../../shixaa/svaraH/svaritaH/prabhedAH/)।
-- `'` इति पाश्चात्याः। "sam.hita text in transliteration: at best only the udatta and jatya svarita are marked."
+- `'` इति पाश्चात्याः। "saMhita text in transliteration: at best only the udAtta and jAtya svarita are marked."
 - पाश्चात्याः - S_i
 - मैत्रायणीयाः - curve below
 - काठक-संहिता - curve below only if an anudAtta follows, otherwise by a hook below.
-- शौनकशाखा - ‘᳡’ is used to depict such Svarita -s, i.e.: त॒न्वा᳡म॒हे. 
+- शौनकशाखा - ‘᳡’ is used to depict such Svarita -s, i.e. वी॒र्या॑᳡णि. 
 
 ### अनित्यः
 - कम्पः - `सु॒प्र॒ऽअ॒व्ये॑ + यज॑मानाय → सुप्रा॒व्ये॒३॒॑ यज॑मानाय`। विवरणान्य् [अत्र](../../shixaa/svaraH/svaritaH/kampaH/)।
