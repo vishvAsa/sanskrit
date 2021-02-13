@@ -3,7 +3,7 @@ title: +व्याकरणम्
 unicode_script: devanagari
 ---
 
-टिप्पण्यो ऽन्विष्यन्ताम् [अत्र](https://docs.google.com/spreadsheets/d/1YTU1e2CIeUXqsu06z_pfugpt3lkMeXeZLbLauOtksCQ/edit#gid=1755855185)।
+टिप्पन्यो ऽन्विष्यन्ताम् [अत्र](https://docs.google.com/spreadsheets/d/1YTU1e2CIeUXqsu06z_pfugpt3lkMeXeZLbLauOtksCQ/edit#gid=1755855185)।
 - सूत्रपाठः, गणपाठः, वार्त्तिकानि, उणादिसूत्राणि, परिभाषाः, वर्णः - [अत्र](https://docs.google.com/spreadsheets/d/1208pyOsYiZlS5fmm8tYEq2qbCzqWgPnMYNUf1-1uRJM/edit#gid=0), अत्र च। 
 
 ## पाणिनीयम्
