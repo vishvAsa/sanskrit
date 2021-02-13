@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 +++
 
 - पित्-संज्ञा-कलनम् [अत्र](https://docs.google.com/spreadsheets/d/1qksFPpuCp6KSlzr3Msub3nQxuAFB2dOVryt2LWRafIg/edit#gid=179890870) नीलेशकृतम्।
-- अव्यवस्थितटिप्पण्यो [ऽत्र](https://docs.google.com/spreadsheets/d/1qksFPpuCp6KSlzr3Msub3nQxuAFB2dOVryt2LWRafIg/edit#gid=2)।
+- अव्यवस्थितटिप्पन्यो [ऽत्र](https://docs.google.com/spreadsheets/d/1qksFPpuCp6KSlzr3Msub3nQxuAFB2dOVryt2LWRafIg/edit#gid=2)।
 
 ## प्रक्रियाविशेषाः
 - प्रकृत्यादेशः
