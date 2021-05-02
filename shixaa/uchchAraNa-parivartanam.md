@@ -42,5 +42,18 @@ unicode_script: devanagari
 
 ### Role of shixA texts
 - From vyAkaraNa and prAtishAkhya to later shixA texts, one observes an evolution. At various stages of drift in pronunciation, these texts aimed to "justify" the current pronunciation and freeze it (ie prevent further drift). They were partially successful.
+
+Example:
+
+> किमर्थम् अनुवारस्य दीर्घपूर्वस्य पद-मध्ये वर्तमानस्य वज्झभिः+++(??)+++ श्लोकैर् लक्षणं क्रियते । - ननु पाठाद् एव सिद्धं यथान्येषां वर्णानां । सत्यम् । किं तु दुराम्नान-निवृत्त्यर्थं अनयोः शिक्षापटलयोर् बहूनां वर्णानां लक्षणं क्रियते । यथा समापाद्यान्य् उत्तरे षट्-पकार - शनः शेपो निष्षपौ शासिनिष्षालविक्रमान् । एयरित्येकार मकारम् आहुर् इत्य् एवमादौनि ।
+>
+> कथं पुनर् दुराम्नान-प्रसंगः? सन्ति हि - तीर्थोषिताः अलसाः अगुणदोषज्ञाः अन्योन्याध्यापकाः । सर्ववर्णान्यत्व-जनयितारस् - तद्-दोष-निवृत्यर्थं आचार्येण शिष्यहितार्थम् इदम् आरब्धम् । अनुवारस्य स्थाने तावत् ङकारं जनयन्ति - तस्मात् ङकारात् परं ककारम् अन्तःपातं जनयन्ति - हवींषि, सर्पींषि, भासांसि, अवांसीत्य् एवम्। तन्निवृत्त्यर्थम् अनुस्वार-लक्षणं क्रियते ।
+>
+> इत्य् उव्वट ऋक्प्रातिशाख्यभाष्ये।
+
+To this day, you find (particularly N Indian) pAThaka-s mispronouncing anusvAra as indicated.
+
 - Hasta-svara-s, keraLa-style mudra-s and vikRti-pATha-s serve similar conservative purpose.
 - "Once personalities like Sakalya and Mandukeya had fixed the texts of their respective recensions, the orally preserved texts were as if quickly frozen with all the changes that had taken place so far, and then texts like PratishAkhyas were composed to describe in detail the features of these “frozen” texts. Staal (1967:17) rightly points out that the PratishAkhyas were “not interested in the Vedic language as such, but in the utterances handed down ” by the oral tradition. However, phenomena like retroflexion had set in (but not completely pervaded) before the process of “text freezing” had begun. The same phenomenon is seen in the application of other sandhi rules in the preserved recensions."
+
+
