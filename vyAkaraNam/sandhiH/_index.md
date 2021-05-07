@@ -5,7 +5,7 @@ unicode_script: devanagari
 
 बहुशः स्वाभाविकः। अतो नाप्क्ष्यन्ते बहूनां नियमानां स्मरणम्।
 
-विस्तारो [अत्र](https://docs.google.com/spreadsheets/d/1GP8Ps_hmgCGLZPWKIVBCfQB9ZmPQOaCwTrH9OybaWaQ/edit#gid=0)।
+विस्तारो [अत्र](https://docs.google.com/spreadsheets/d/1GP8Ps_hmgCGLZPWKIVBCfQB9ZmPQOaCwTrH9OybaWaQ/edit#gid=0) ।
 
 ## नित्यता
 संहितैकपदे नित्या नित्या धातूपसर्गयजोः।  
@@ -15,3 +15,11 @@ unicode_script: devanagari
 ## संज्ञा
 <div class="spreadsheet" src="saMjJNA.toml" fullHeightWithRowsPerScreen=8> </div>  
 
+
+## सुलोपः
+- एतत्तदोः सुलोपोकोरनञ्समासे हलि (6.1.132)
+  - स खलु, एष हि। सुग्रहणं किम्? एतौ गावौ चरतः।
+  - अकोः इति किम्? एषको ददाति। सको ददाति। 
+  - अनञ्समासे इति किम्? अनेषो ददाति। असो ददाति।
+- स्यश्+++(←त्यद्)+++ छन्दसि बहुलम् ।
+  - एष स्य ते पवत इन्द्र सोमः।
