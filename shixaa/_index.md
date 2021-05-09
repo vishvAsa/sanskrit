@@ -3,10 +3,13 @@ title: +शिक्षा
 ---
 
 ## उच्चारण-प्रदर्शनानि सूचनाश्च।
-- धनञ्जयो वैद्यः \- [अकारे](http://deejayvaidya.tumblr.com/post/42275194921/sanskrit-pronunciation-podcast-1-introduction)। [स्पर्शवर्ण](http://deejayvaidya.tumblr.com/post/42275304138/sanskrit-pronunciation-podcast-2-the-stop)। [इच्](http://deejayvaidya.tumblr.com/post/42275475669/sanskrit-pronunciation-podcast-3-the-vowels)।  [य र ल व श ष स ह](http://deejayvaidya.tumblr.com/post/42427396743/sanskrit-pronunciation-podcast-4-the-semivowels)। [अनुस्वारः](http://deejayvaidya.tumblr.com/post/42427477788/sanskrit-pronunciation-podcast-5-anusvara-the)।
+- धनञ्जयो वैद्यः \- [अकारे](http://deejayvaidya.tumblr.com/post/42275194921/sanskrit-pronunciation-podcast-1-introduction)। [स्पर्शवर्ण](http://deejayvaidya.tumblr.com/post/42275304138/sanskrit-pronunciation-podcast-2-the-stop)। [इच्](http://deejayvaidya.tumblr.com/post/42275475669/sanskrit-pronunciation-podcast-3-the-vowels)।  [य र ल व श ष स ह](http://deejayvaidya.tumblr.com/post/42427396743/sanskrit-pronunciation-podcast-4-the-semivowels)। [अनुस्वारः](http://deejayvaidya.tumblr.com/post/42427477788/sanskrit-pronunciation-podcast-5-anusvara-the)।
 - विश्वासः [अत्र](https://goo.gl/htvxdN)। सूचनान्तराण्य् [अत्र](https://sanskrit.github.io/projects/audio/mbh-audio/how.html#expected-recording-quality)।
 - नरसिंहरायः \- [अत्र](https://www.youtube.com/watch?v=cMhe2QgDm28), मुखपुस्तकचर्चा [अत्र](https://www.facebook.com/pvr108/posts/10153038114188284?pnref=story)। 
-- श्रीरमणशर्मणः शिक्षाप्रथमक्लृप्तिः [अत्र](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqYW1hZGFnbml8Z3g6MjQ2OTU1MTg0YTUwOTFkMg)।
+- श्रीरमणशर्मणः शिक्षाप्रथमक्लृप्तिः [अत्र](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqYW1hZGFnbml8Z3g6MjQ2OTU1MTg0YTUwOTFkMg)।
+
+### प्रादेशिकविकाराः
+-  rAjashekhara says that the saMskRtochchAraNa of Kashmirians, despite being great kavi-s was like having a mouth full of guDuchi.
 
 ## क्लिष्टप्रयासे दोषः
 - प्रसन्न-वेङ्कटाचार्य-चतुर्वेदी [ह्यत्र](https://www.youtube.com/watch?v=xpxZY9XEIs4&feature=youtu.be&t=2135)।
