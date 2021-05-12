@@ -5,7 +5,8 @@ unicode_script: devanagari
 
 बहुशः स्वाभाविकः। अतो नाप्क्ष्यन्ते बहूनां नियमानां स्मरणम्।
 
-विस्तारो [अत्र](https://docs.google.com/spreadsheets/d/1GP8Ps_hmgCGLZPWKIVBCfQB9ZmPQOaCwTrH9OybaWaQ/edit#gid=0) ।
+वर्ण-व्यत्यय-विचारो [ऽन्यत्र](../../varNa-vyatyayaH/)।
+विस्तारो [अत्र](https://docs.google.com/spreadsheets/d/1GP8Ps_hmgCGLZPWKIVBCfQB9ZmPQOaCwTrH9OybaWaQ/edit#gid=0) । 
 
 ## नित्यता
 संहितैकपदे नित्या नित्या धातूपसर्गयजोः।  
