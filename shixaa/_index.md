@@ -3,8 +3,9 @@ title: +शिक्षा
 ---
 
 ## उच्चारण-प्रदर्शनानि सूचनाश्च।
-- धनञ्जयो वैद्यः \- [अकारे](http://deejayvaidya.tumblr.com/post/42275194921/sanskrit-pronunciation-podcast-1-introduction)। [स्पर्शवर्ण](http://deejayvaidya.tumblr.com/post/42275304138/sanskrit-pronunciation-podcast-2-the-stop)। [इच्](http://deejayvaidya.tumblr.com/post/42275475669/sanskrit-pronunciation-podcast-3-the-vowels)।  [य र ल व श ष स ह](http://deejayvaidya.tumblr.com/post/42427396743/sanskrit-pronunciation-podcast-4-the-semivowels)। [अनुस्वारः](http://deejayvaidya.tumblr.com/post/42427477788/sanskrit-pronunciation-podcast-5-anusvara-the)।
+- धनञ्जयो वैद्यः \- [अकारे](http://deejayvaidya.tumblr.com/post/42275194921/sanskrit-pronunciation-podcast-1-introduction)। [स्पर्शवर्ण](http://deejayvaidya.tumblr.com/post/42275304138/sanskrit-pronunciation-podcast-2-the-stop)। [इच्](http://deejayvaidya.tumblr.com/post/42275475669/sanskrit-pronunciation-podcast-3-the-vowels)। [य र ल व श ष स ह](http://deejayvaidya.tumblr.com/post/42427396743/sanskrit-pronunciation-podcast-4-the-semivowels)। [अनुस्वारः](http://deejayvaidya.tumblr.com/post/42427477788/sanskrit-pronunciation-podcast-5-anusvara-the)।
 - विश्वासः [अत्र](https://goo.gl/htvxdN)। सूचनान्तराण्य् [अत्र](https://sanskrit.github.io/projects/audio/mbh-audio/how.html#expected-recording-quality)।
+- वर्णविशेषोच्चारणदोषा अन्यत्रापि - यथा [विसर्गे](visargaH/) ।
 - नरसिंहरायः \- [अत्र](https://www.youtube.com/watch?v=cMhe2QgDm28), मुखपुस्तकचर्चा [अत्र](https://www.facebook.com/pvr108/posts/10153038114188284?pnref=story)। 
 - श्रीरमणशर्मणः शिक्षाप्रथमक्लृप्तिः [अत्र](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqYW1hZGFnbml8Z3g6MjQ2OTU1MTg0YTUwOTFkMg)।
 
@@ -27,5 +28,8 @@ title: +शिक्षा
     - तत्प्रदर्शनानि [१](https://www.youtube.com/watch?v=TmEyYPGKpG8&feature=youtu.be)।
     - संहितापाठनन्तरं गुरुणा निर्णियते शिष्याणां सामर्थ्यानुसारमिति श्रूयते, पूर्वस्मिन् काले । इदानीं तु नष्टप्रायः ।
 - माध्यन्दिनेषु
-    - [अत्र](https://www.youtube.com/watch?v=y_C6H6b5xTI&feature=youtu.be)।  
+    - [अत्र](https://www.youtube.com/watch?v=y_C6H6b5xTI&feature=youtu.be) ।  
 
+## व्यञ्जनान्तोच्चारणम्
+- बहवो जना व्यञ्जनान्तानां (हलन्तानाम्) संवृताकारसहितम् उच्चारणं कुर्वन्ति। यथा - अकरोत् → अकरोत। तद् असाधु। 
+- पेजावरयतिर् [अत्र](https://www.youtube.com/watch?v=CneiXuhU35Y) विचारयति - स तु पृथक् अल्पस्वरम् एव कल्पयितुम् इच्छति!

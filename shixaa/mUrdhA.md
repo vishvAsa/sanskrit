@@ -58,3 +58,6 @@ unicode_script: devanagari
 ### क्वचिद् Alveolar-पुनर्भवः
 - In Assamese : "The O.I.A. dental and cerebral series lost their original sound values and became alveolars, i.e., the point of articulation for the dentals is pushed back and for the cerebrals pushed forward” due to the Tibeto-Burman influence which had this leveling effect." 
 - "The Cambodians also adopted several aspects of Indian culture, but not retroflexion. In old and modern Cambodian, the Sanskrit and Pali retroflexes are are reduced to dentals. The same Phenomenon takes place in Old and Modern Siamese. Burmese does have separate characters for retroflex sounds, which are only used in writing Pali words, but the Burmese pronounce them exactly as the corresponding alveolars." 
+
+## ऋकारभेदाः
+- "ऋति सवर्णे ऋ वा" इति वार्तिकम् आश्रित्य "होतृ-ऋकारः = होतृकारः" इत्यत्र भाटोजीदीक्षितो नृसिंहाकृतिं काञ्चित् कल्पयति (पेजावरयतिर् [अत्र](https://youtu.be/CfmxMxgLHPI?t=1579) )। तद् अनपेक्षितम्। +++(कन्नडे लोपसन्धिर् इव।)+++ 
