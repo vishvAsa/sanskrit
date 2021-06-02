@@ -1,9 +1,8 @@
 +++
 title = "Sanskrit as a supreme language - AA"
-unicode_script = "devanagari"
 +++
 
-"Sanskrit as a supreme language" by Ashok Aklujkar \[[Arch](https://archive.org/stream/paNDit-papers/AklujkarAEarlyHistorySktSuprem#page/n9/mode/2up)\] is a very pertinent read. Some excerpts follow, with some added formatting. My notes are marked in bold like this: (**KV: …**). The most important section is the one titled: "Emergence of dominance".
+"Sanskrit as a supreme language" by Ashok Aklujkar \[[Arch](https://archive.org/stream/paNDit-papers/AklujkarAEarlyHistorySktSuprem#page/n9/mode/2up)\] is a very pertinent read. Some excerpts follow, with some added formatting. My notes are marked in bold like this: (**VV: …**). The most important section is the one titled: "Emergence of dominance".
 
 ## History
 - Languages very close to Sanskrit was spoken by nearly ALL classes of people in the first millennium BC \[[Q13](https://www.quora.com/What-percentage-of-people-on-the-Indian-subcontinent-used-or-knew-Sanskrit-during-the-2nd-and-1st-millennium-BC)\]. "The available evidence, from the earliest Sanskrit plays and other literary works around the time of the Buddha, is that Sanskrit and the early Prakrits were mutually intelligible. ... Pāṇini did indeed base his grammar on the speech of the "cultured" or "educated" (śiṣṭa) people, but the fact that his discussion (and the later one of Patañjali) includes idiomatic usage and much slang does indicate it was spoken for all purposes (i.e., including worldly everyday stuff) at least." \[खट्वारूढः, तीर्थध्वाङ्क्षः\]
@@ -107,7 +106,7 @@ the higher standing of what we call Sanskrit are sam + kr and its deriva-
 tives. Not only is Samskrta claimed to have undergone samskara, the  
 other languages are given a relatively low ranking in its favour because  
 they lack samskara (Deshpande 1979a: 22).  
-(**KV:What is samskAra? See below:**)
+(**VV:What is samskAra? See below:**)
 
 - Now, at least from the days of Yaska, the Nirukta author, one com-  
     ponent of the meaning of saiiiskara is clear: ‘subjecting to, or being  
@@ -189,7 +188,7 @@ emergence,
     pened to be new, had won wide acceptance,
 - (b) the institution of at-  
     taching some kind of special power and sanctity to the Veda sound had  
-    already come into effect, (**KV: Recall vedic prayoga-s**)
+    already come into effect, (**VV: Recall vedic prayoga-s**)
 - (c) the followers of the Vedic way of life had  
     already instituted certain educational mechanisms to maintain the pu-  
     rity of their language, and
@@ -226,5 +225,5 @@ The foregoing thoughts should not be viewed as excluding causes
 such as Brahmin-Ksatriya collaboration, utility as a language of re-  
 ligious life, usefulness as a link language, 44 advantages a frozen lan-  
 guage has, 45 refusal to degrade the language by allowing its use for low-  
-level vyavahara (**KV: Strongly disagree**), repeated efforts to Sanskritize, etc .  
+level vyavahara (**VV: Strongly disagree**), repeated efforts to Sanskritize, etc .  
  Some of them are  subsumed by the elements I have noted. Others are applicable only to the times in which Sanskrit had already assumed a leading role.

@@ -1,6 +1,5 @@
 +++
 title = "Different sociolinguistics"
-unicode_script = "devanagari"
 +++
 
 A Different Sociolinguistics for Brahmins, Buddhists 
@@ -128,52 +127,25 @@ Nor is there any evidence of contemporary Brahmanical authors taking umbrage at 
 
 In consonance with the foregoing reading of the evidence is the fact that, when our ancient sources speak of varņa-samkara 'genetic mixing of social classes', the Jains and the Buddhists do not figure as culprits. 
 
-7. A possible piece of evidence intended by D to establish that the Brahmanical concept of Arya was conservative could be Manu 10.73: anāryam ārya-karmāṇam áryam çānārya-karmiņam / sampradharyūbravid dhātā na samau nāsamāv iti // "Having considered the case of a non-Aryan who acts like an Aryan, and that of an Aryan who acts like a non-Aryan, the creator declared, 'Those two are neither equal nor unequal.' ” D (1979: 53) takes this as implying that, according to the Brahmanical tradition, acting like an Aryan cannot make a non-Aryan an Aryan. However, would Manu, regarding whose preference for Arya there can be no doubt, have responded the way he does-like a hung, undecided jury-ifa certain mentality and conduct were not a part of his criterion of aryatva? Would he have rather not said that the question of āryatva does not arisc or that an Arya is superior, no matter what? It is precisely because he recognizes the possibility of an Anārya being eligible for Arya treatment and of an Arya losing his claim for such treatment that he takes the position that no generalization be made. This understanding of Manu's position is supported by Manu 7.211 and 10.58. 
+7. A possible piece of evidence intended by D to establish that the Brahmanical concept of Arya was conservative could be Manu 10.73:  
 
-Another Manu verse to which D refcrs is 10.57: varṇapetam avijñātam naram kaluşa-yonijam / ārya-rūpam ivānāryam karmabhiḥ svair vibhāvavet // "One should cause a man who is not an Arya (but) has, as it were, the look of an Arya to appear (in his true identity, that is, one should trace out a man of possible but doubtful membership in the Arya community) through (one's own (testing) actions or his) own actions (or responses)—a man) who is not associated with any vara, who is not specifically known (to oneself and) who is born of obscure parentage." 
-I think D (1979: 118 note 173) does injustice to the verse by concentrating only on its third quarter--ārya-rūpam ivānāryam--and interpreting it merely as an expression of the possibility of a non-Aryan person who may look exactly like an Aryan." The verse does refer to appearance as Ārya of someone who (in Manu's view) is not an Arya. However, this appearance need not be only in terms of what we may call racial, physical or bodily features. It could also be in terms of dress, mannerisms, speech, behaviour or conduct, etc. Secondly, the rest of the words in the verse make it clear that Manu is talking about a person whom he considers to be born in a society in which varṇa designations are not conferred and in whose case the process of varṇa-samkara has gone so far that not even a relative varṇa determination can be made. And what criterion does Manu advise us to apply to arrive at a determination? karmans 'actions and the presence or absence of mental qualities mentioned in the next verse (especially, nişthuratā, krūrată, nişkriyātmatā). 
-TITT 
-12 
-+ 
-TIT 
-Y 
-L 
-IT IL TO 
-T SL 
-2. LYD 
-0 
-TTTTT 
-TI 
-3 
-i 
-TFT 
-CELTET 
-TI 
-LP 
-+ + 
-LC LY 
-IT 
-- 
-L2 
-F 
-LI 
-VL 
-1 
-. 
-LVL 
-LT 
-2 
-U 
-1 
-112 
-LL 
-8. One must also remember in this context that, in the 'historical perspective of Manu and other Brahmanical thinkers, there are no natural Anāryas. All Anāryas64 
-Contemporary Views on Indian Civilization 
-LFL 
-LLI 
-were Aryas in a pristine past; they had descended to their present status because of failure to observe a certain mode of thinking and behaviour, especially the varṇa social class' norms. 
+>   anāryam ārya-karmāṇam áryam çānārya-karmiņam /  
+   sampradharyābravid dhātā na samau nāsamāv iti //  
+>  "Having considered the case of a non-Aryan who acts like an Aryan, and that of an Aryan who acts like a non-Aryan, the creator declared, 'Those two are neither equal nor unequal.' ”  
 
-Note also that the early literatures of both the Buddhists and the Jains simply apply the term Arya. They do not secm to be concerned that they may be misunderstood and hence should clarify the racially or ethnically non-restrictive sense they are said to have in mind. A juxtaposition of the current sense and the sense they prefer to read in the term is not found, as it is found (cf. Mālavaniyā 1983: 20-25) in the case of Brāhmaṇa, yajña and sauca in the Pāli and Ardha-māgadhi canons. The impression one gets is that an easily understood and already respectable term has been picked up from the street and used. 
+D (1979: 53) takes this as implying that, according to the Brahmanical tradition, acting like an Aryan cannot make a non-Aryan an Aryan. However, would Manu, regarding whose preference for Arya there can be no doubt, have responded the way he does- like a hung, undecided jury- if a certain mentality and conduct were not a part of his criterion of aryatva? Would he have rather not said that the question of āryatva does not arise or that an Arya is superior, no matter what? It is precisely because he recognizes the possibility of an Anārya being eligible for Arya treatment and of an Arya losing his claim for such treatment that he takes the position that no generalization be made. This understanding of Manu's position is supported by Manu 7.211 and 10.58. 
+
+Another Manu verse to which D refers is 10.57:  
+
+> varṇāpetam avijñātam naram kaluşa-yonijam /  
+> ārya-rūpam ivānāryam karmabhiḥ svair vibhāvayet //  
+> "One should cause a man who is not an Arya (but) has, as it were, the look of an Arya to appear (in his true identity, that is, one should trace out a man of possible but doubtful membership in the Arya community) through (one's own (testing) actions or his) own actions (or responses)—a man) who is not associated with any varṇa, who is not specifically known (to oneself and) who is born of obscure parentage." 
+
+I think D (1979: 118 note 173) does injustice to the verse by concentrating only on its third quarter--ārya-rūpam ivānāryam--and interpreting it merely as an expression of the possibility of a "non-Aryan person who may look exactly like an Aryan." The verse does refer to appearance as Ārya of someone who (in Manu's view) is not an Arya. However, this appearance need not be only in terms of what we may call racial, physical or bodily features. It could also be in terms of dress, mannerisms, speech, behaviour or conduct, etc. Secondly, the rest of the words in the verse make it clear that Manu is talking about a person whom he considers to be born in a society in which varṇa designations are not conferred and in whose case the process of varṇa-saṅkara has gone so far that not even a relative varṇa determination can be made. And what criterion does Manu advise us to apply to arrive at a determination? karmans 'actions and the presence or absence of mental qualities mentioned in the next verse (especially, nişṭhuratā, krūrată, nişkriyātmatā). 
+
+8. One must also remember in this context that, in the 'historical perspective of Manu and other Brahmanical thinkers, there are no natural Anāryas. All Anāryas64 were Aryas in a pristine past; they had descended to their present status because of failure to observe a certain mode of thinking and behaviour, especially the varṇa social class' norms. 
+
+Note also that the early literatures of both the Buddhists and the Jains simply apply the term Arya. They do not seem to be concerned that they may be misunderstood and hence should clarify the racially or ethnically non-restrictive sense they are said to have in mind. A juxtaposition of the current sense and the sense they prefer to read in the term is not found, as it is found (cf. Mālavaniyā 1983: 20-25) in the case of Brāhmaṇa, yajña and sauca in the Pāli and Ardha-māgadhi canons. The impression one gets is that an easily understood and already respectable term has been picked up from the street and used. 
 
 Moreover, in the Jain list of Aryas (note 3), no common logical basis or application of a specific set of criteria can be detected. All we have are groupings which need not be mutually exclusive. This would hardly be the situation if the Jains had a fundamentally or significantly different kind of understanding of Arya to put forward-an essentially philosophical or theoretical stance to defend. Especially, why would they retain categories such as jātyārya 'Aryan by birth' and kulārya 'Aryan by clan'? 
    
@@ -448,31 +420,11 @@ Y-
 T 
 11 
 r CLIVE 
-13. A view like D's of Bralunin puritanism or conservatism and of the Brahmins' ability to influence society is extreme, static and one-sided. There is usually no recognition in such a view of the undeniable historical reality that there were various kinds of Brahmins, whose interests and notions about their relative 
-standing in society are unlikely to have always coincided. There is also no 
-· recognition of what the Brahmins achieved in the area of race relations or spread 
-of the Aryan, Vedic or Sanskritic culture to southern and eastern India. One must see in the Brahmins' linguistic behaviour the possibility that they could be making a sagacious use of white lies—that they could have had (a) a well-thought-out view of social change and (b) institutions necessary to implement that view. Without discounting the possibility that their motives could have had a selfish political-economic underbelly, one must attribute to them some decency, some 
-TT 
-y 
-LL 
-12 
-. 
-ST 
-YUL 
-IT T 
-L2 
-1 
-1 
-1 
-SIL. 
-1 
-2 
-L 
-2 
-. 
-This possibility is yet to be proved with strong evidence in the case of the period with which we are concerned. Yet one may entertain it because there is frequently a gap between what the leaders of social groups proclaim and what they actually intend or do. 
 
-vision, and some capacity for flexibility, Otherwise, how could they have achieved what they did while remaining a minority with no direct control over physical power and with no passion or egalitarianism necessary for increasing their number and without giving rise to any long class warfare? In spite of their exclusivism and emphasis on purity in diet, marital relations etc., the Brahmins were probably not all that puritanical or lacking in diversity. Their puritanism in the period we have considered could have been highly pragmatic, probably directed more toward assimilating communities through a step-by-step process than toward excluding them. 
+
+13. A view like D's of Bralunin puritanism or conservatism and of the Brahmins' ability to influence society is extreme, static and one-sided. There is usually no recognition in such a view of the undeniable historical reality that there were various kinds of Brahmins, whose interests and notions about their relative standing in society are unlikely to have always coincided. There is also no recognition of what the Brahmins achieved in the area of race relations or spread of the Aryan, Vedic or Sanskritic culture to southern and eastern India. One must see in the Brahmins' linguistic behaviour the possibility that they could be making a sagacious use of white lies—that they could have had (a) a well-thought-out view of social change and (b) institutions necessary to implement that view. Without discounting the possibility that their motives could have had a selfish political-economic underbelly, one must attribute to them some decency, some vision, and some capacity for flexibility. Otherwise, how could they have achieved what they did while remaining a minority with no direct control over physical power and with no passion or egalitarianism necessary for increasing their number and without giving rise to any long class warfare? In spite of their exclusivism and emphasis on purity in diet, marital relations etc., the Brahmins were probably not all that puritanical or lacking in diversity. Their puritanism in the period we have considered could have been highly pragmatic, probably directed more toward assimilating communities through a step-by-step process than toward excluding them. 
+
+- 7 This possibility is yet to be proved with strong evidence in the case of the period with which we are concerned. Yet one may entertain it because there is frequently a gap between what the leaders of social groups proclaim and what they actually intend or do.
 
 ## REFERENCES 
 - Aklujkar, Ashok. 1996. "The Early History of Sanskrit as Supreme Language." Ideology and Status of Sanshorit: Contributions to the History of the Sanskrit Language. (ed.)Jan E.M. Houben, Leiden-New York-Köln: E.J. Brill. \
