@@ -6,7 +6,7 @@ publishDir = "build_github"
 disablePathToLower = true
 
 [params]
-  githubEditMePathBase = "https://github.com/vvasuki/sanskrit/edit/content/"
+  githubEditMePathBase = "https://github.com/vishvAsa/sanskrit/edit/content/"
   contactLink = "https://github.com/vvasuki/sanskrit/issues/new"
   fullSearchURL = "/full_search"
   env = "production"  
