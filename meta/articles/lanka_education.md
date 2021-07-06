@@ -2,7 +2,7 @@
 title: लङ्कायां संस्कृतम्
 ---
 
-Below are excerpts from Rohana Seneviratne's article.
+Below are excerpts from Rohana Seneviratne's [article](../seneviratne_lanka-sanskrit).
 
 - "Buddhist monks from their early Samanera age, are “required” to learn Sanskrit alongside Pali  ... it is Pali – not Sanskrit – that is expected to sustain the local version of Theravada Buddhism on this land."
 - "The academic contexts where Sanskrit is taught in support of the study of disciplines such as the Sinhala and Tamil languages and literature, History, Religious Studies, Archaeology, and Philosophy often confine Sanskrit scholarship to the basics. "
