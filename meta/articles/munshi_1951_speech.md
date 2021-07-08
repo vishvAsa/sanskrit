@@ -84,3 +84,49 @@ When the Moghul empire faded away, the vestige of a shadowy political bond disap
 Enlightened officials of the East India Company were fascinated by Sanskrit at a very early stage. They tried to preserve the great pathashalas. They collected Sanskrit manuscripts, edited and published them. When the universities were founded in the middle of the 19th century, they made Sanskrit the predominant second language in the country.
 
 The Indian Universities were the birth-place of the powerful Sanskrit revival which in association with Western culture led to the modern Indian renaissance, and to the growth and enrichment of all our spoken languages and the development of Hindi. Sanskrit has been the language of gods; for it has brought us their gifts.
+
+## Current problems
+-X-
+
+Sanskrit, thus being the natural basis of our unity, culture and vitality, its future deserves a careful consideration.
+
+First, the highly placed persons in this country, who have studied Sanskrit and believe in it as an integral element of our national life, are unorganized in their efforts to maintain Sanskrit in its pre-eminent position.
+
+Secondly, in our Universities, and in the higher educational systems, there is a growing outlook borrowed largely from the West, that the study of a classical language is a superfluity, an outlook based on ignorance. However, for India, Sanskrit is not a classical language which serves but to add to the accomplishment of an educated man, it is a vital link in the nation’s evolution.+++(5)+++
+
+Thirdly, the elimination of the princely order which, in spite of its many faults, gave generous patronage to the pathashalas, the centers of traditional Sanskrit learning which so far kept the language alive as a spoken language, and the decay of religious belief which denies to their products the means of livelihood.
+
+
+ Lastly, the outlook, fashionable in some westernized sections of the people, that a faith in Sanskrit as a vitalizing force in the modern world is a sign of revivalism. Their children no longer learn our Epics, which have made and preserved India, from the mother’s lips. Nothing could be more saddening than the fact that over sixty per cent of candidates for the I. A. S., the prospective rulers of India, did not know of Kunti, the noble mother, or of Karna, the soul of honour and generosity.+++(5)+++
+
+With the dawn of freedom, one would have thought that the encouragement to the study of Sanskrit would have been accepted as one of the first responsibilities of our Governments. Some Governments like that of the Uttar Pradesh have done so. Others, however, have lacked the time or inclination to do so. But it is only a question of time. The basic importance of Sanskrit which underlies our lives, has had no opportunity to express itself fully through the governing class which the struggle for freedom threw up. To anyone, who does not bring to bear a superficial outlook, it would be clear that our freedom would have no meaning if India lost her soul; that we would have no future if she abandoned the principal source of her strength.+++(5)+++ I go one step further; the world could only be redeemed by a wider appreciation of what Sanskrit stands for; the efficacy of non-violence and Truth, Non-waste, Non-stealing and Non-possession, and faith in the integration of human personality, in the supremacy of the moral order and in the divine essence in man.
+
+## Path to revitalisation
+ 
+The only way to vitalize the study of Sanskrit not merely as a matter of learning or research, but as a cultural force of universal value is to draw upon all the energy and resources which, at present, are being spent in promoting Sanskrit in diverse ways. At the same time, the general interest and widespread support for Sanskrit should not, by being too regulated or centralized, lose the element of spontaneity. The movement should, therefore, be vitalizing and not controlling or regulating.
+
+At the same time, persons interested in Sanskrit should study the condition of Sanskrit studies each in his own sphere from the following points of view:
+
+(i) the place occupied by Sanskrit in our Universities and system of higher education;
+
+(ii) the assistance given by the Central and the State Governments to Sanskrit studies;
+
+(iii) the recognition of Sastric titles as qualifying for University degrees;
+
+(iv) the position of Pathashalas, their economic condition and the way of providing economic assistance to them and career possibilities to their students;
+
+(v) the position of Sanskrit research;
+
+(vi) the desirability of having easy examination programmes for those anxious to study Sanskrit privately;
+
+(vii) the desirability of holding conferences of those interested in Sanskrit;
+
+(viii) the ways and means to make Sanskrit literature and particularly the Epics an element in mass education.
+
+
+ 
+Our appeal must necessarily be to the educationists, the professors, the school-masters, the lawyers, the men of literature and education, a vast majority of whom are interested in Sanskrit in one way or another.
+
+It is for them to develop a conscious response to this movement. In the Universities and the colleges, particularly, groups of educationists, teachers and students could be found who can easily form themselves into centers of study.
+
+Naturally, every Pathashala is a center of Sanskrit. On the Ministers, Vice-Chancellors and high officials who have interest in Sanskrit, lies a great responsibility; and if each one of them acts effectively in his own sphere, we can still preserve the vital strength which Sanskrit has given us through the ages.
