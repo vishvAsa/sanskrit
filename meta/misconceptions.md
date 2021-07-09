@@ -23,7 +23,7 @@ title: Misconceptions
 
 ### Sanskrit is a hard language.
 - Not so - the "grammar translation method" introduced and imposed by the British causes this wrong impression. See this [detailed speech](http://www.youtube.com/watch?v=ZoS1nA8RVko). With an immersive approach, conversational Sanskrit is as easy as any other language. Of course, advanced/ masterful usage requires serveral years of dedicated effort - like in any other language. \[Funny "Hitler learns Sanskrit" [video](https://www.youtube.com/watch?v=xv87qb1is9M).\]
-- If the right register ([Simple Standard Sanskrit](https://archive.org/details/simple-standard-sanskrit/mode/2up)) is used, sanskrit is quite easy for all Indians. \[chamu [video](https://www.youtube.com/watch?v=yr8iB6cscjM)\] It can be learned in a few days. Samskrita bhArati routinely teaches this.
+- If the right register ([Simple Standard Sanskrit](../../simple_standard) -  [archive](https://archive.org/details/simple-standard-sanskrit/mode/2up)) is used, sanskrit is quite easy for all Indians. \[chamu [video](https://www.youtube.com/watch?v=yr8iB6cscjM)\] It can be learned in a few days. Samskrita bhArati routinely teaches this.
   - I know idiots who've learned. So have lakhs of people. I know very intelligent people (superspecialized famous doctors) who haven't - despite me taking them to a camp. What matters is simply honesty and the lack of fear of "mistakes" (and looking silly).
 
 #### Simple sanskrit is good only for gimmicks.
@@ -45,6 +45,12 @@ In fact there is a famous nyAya quote reg. this. to
 > The Vaiyyākaraṇi plaintively wails, "कथम् कथम्?!!!"  
 > Pat comes the reply: "कथम् इव यथं, यथम् इव तथं, तथम् इव घटम्, घटम् इव पटम्". Even 'Katham' has been enlisted, and the poor Vaiyyākaraṇi gives up and asks, "कथं कथं व्याकरणम् एव उल्लङ्घ्यते?" ("You're violating every rule of grammar!")  
 > The Tārkika's reply shuts him up permanently: "अस्माकोणां तार्किकेषाम् अर्थनि आसक्तिम्, न तु शब्दरि" (Every word here is wrong -- it should read अस्माकं तार्किकाणाम् अर्थे आसक्तिः न तु शब्दे, "We logicians are interested only in meanings, not in sounds")
+
+#### Can't read dramas and texts
+Some object: "Simple Sanskrit is like Butler English only less useful. One can't read any classic Sanskrit Dramas, or Kavyas with that knowledge."
+
+- You can be taught classic Sanskrit Dramas, or Kavyas using Simple sanskrit register.
+- You can consume lots of modern novels, texts and speeches using Simple sanskrit.
 
 ### Restricted social role
 - Accusation: Sanskrit is the language of Brahmins, and that too male brahmins. Further, it was only used for shAstra-s and kAvya-s.
