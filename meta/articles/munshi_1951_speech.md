@@ -85,6 +85,8 @@ Enlightened officials of the East India Company were fascinated by Sanskrit at a
 
 The Indian Universities were the birth-place of the powerful Sanskrit revival which in association with Western culture led to the modern Indian renaissance, and to the growth and enrichment of all our spoken languages and the development of Hindi. Sanskrit has been the language of gods; for it has brought us their gifts.
 
+<Missing text>
+
 ## Current problems
 -X-
 
