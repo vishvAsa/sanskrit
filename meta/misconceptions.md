@@ -22,7 +22,7 @@ title: Misconceptions
     - As suhAsa says [here](http://swarajyamag.com/columns/verses-which-produce-magic-when-re-read/): "The Rāmāyaṇa is atleast 2500 years old. The hanumannāṭaka came more than 1500 years after it. And more than a millennium later came Rāma Śāstrī. And half a century later came Bacchu Subbarāyagupta. This literary chain may not seem unusual at first glance, yet it is an extraordinary thing to happen in a language. Languages come with lifetimes of less than a millennium. Old English is as intelligible to me as Hebrew. Reading Geoffrey Chaucer is like wading through quicksand. Time will ensure libraries move Shakespeare from the literature section to history section. But frozen in time by the spell of Pāṇini, only Classical Sanskrit will remain untouched. A few hundred years from now, a young boy (or girl), having taught himself Sanskrit, may decide to write a work to top Rāma Śāstrī. The poet to top Kālidasa may well be born a thousand years from now. My own descendants may spend a sunday afternoon, sipping soylent, and laughing at their ancestor’s metrical misadventures. How absurd it is to label such a language dead! Immortal is more like it."
 
 ### Sanskrit is a hard language.
-- Not so - the "grammar translation method" introduced and imposed by the British causes this wrong impression. See this [detailed speech](http://www.youtube.com/watch?v=ZoS1nA8RVko). With an immersive approach, conversational Sanskrit is as easy as any other language. Of course, advanced/ masterful usage requires serveral years of dedicated effort - like in any other language. \[Funny "Hitler learns Sanskrit" [video](https://www.youtube.com/watch?v=xv87qb1is9M).\]
+- Not so - the "grammar translation method" introduced and imposed by the British causes this wrong impression. See this [detailed speech](http://www.youtube.com/watch?v=ZoS1nA8RVko). With an immersive approach, conversational Sanskrit is as easy as any other language. Of course, advanced/ masterful usage requires serveral years of dedicated effort - like in any other language. \[Funny "Hitler learns Sanskrit" [video](https://www.youtube.com/watch?v=xv87qb1is9M).\]
 - If the right register ([Simple Standard Sanskrit](../../simple_standard) -  [archive](https://archive.org/details/simple-standard-sanskrit/mode/2up)) is used, sanskrit is quite easy for all Indians. \[chamu [video](https://www.youtube.com/watch?v=yr8iB6cscjM)\] It can be learned in a few days. Samskrita bhArati routinely teaches this.
   - I know idiots who've learned. So have lakhs of people. I know very intelligent people (superspecialized famous doctors) who haven't - despite me taking them to a camp. What matters is simply honesty and the lack of fear of "mistakes" (and looking silly).
 
@@ -51,6 +51,10 @@ Some object: "Simple Sanskrit is like Butler English only less useful. One can't
 
 - You can be taught classic Sanskrit Dramas, or Kavyas using Simple sanskrit register.
 - You can consume lots of modern novels, texts and speeches using Simple sanskrit.
+
+#### Simple sanskrit register is a recent fake neo-language.
+- "There are several offshoots of Sanskrit that already exist and have evolved organically ... Why engineer a neo-language?"
+- Simple standard sanskrit is an organic, well-attested register of the language. Listen to this 1961 radio broadcast - https://www.youtube.com/watch?v=1oH80EHYu4I .
 
 ### Restricted social role
 - Accusation: Sanskrit is the language of Brahmins, and that too male brahmins. Further, it was only used for shAstra-s and kAvya-s.
