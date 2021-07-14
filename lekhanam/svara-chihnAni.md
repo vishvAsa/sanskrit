@@ -12,7 +12,7 @@ unicode_script: devanagari
 ## उदात्तः
 - प्रसिद्धभारतीयविधिः - अचिह्नितः, परिवेश्य् अनुदात्त-स्वरिताभ्यां पदपाठज्ञानेन च ज्ञेयः।
 - पाश्चात्याः - `\``
-- शतपथब्राह्मणे ऽनुदात्तीकृत्य रक्षितः - `अ॒`
+- शतपथब्राह्मणे - `अ॒`
 - काठक-संहिता - `॑`
 
 ## अनुदात्तः
@@ -37,7 +37,7 @@ or three vertical strokes above it or a dot below it
 
 ### जात्यः
 - विवरणान्य् [अत्र](../../shixaa/svaraH/svaritaH/prabhedAH/)।
-- `'` इति पाश्चात्याः। "saMhita text in transliteration: at best only the udAtta and jAtya svarita are marked."
+- `'`, "`" इति पाश्चात्याः। "saMhita text in transliteration: at best only the udAtta and jAtya svarita are marked."
 - पाश्चात्याः - S_i
 - मैत्रायणीयाः - curve below
 - काठक-संहिता - curve below only if an anudAtta follows, otherwise by a hook below.
