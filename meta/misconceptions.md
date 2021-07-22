@@ -62,7 +62,7 @@ Some object: "Simple Sanskrit is like Butler English only less useful. One can't
 ### Restricted social role
 - Accusation: Sanskrit is the language of Brahmins, and that too male brahmins. Further, it was only used for shAstra-s and kAvya-s.
 - In the past - see note on "history" above, which indicates clear usage outside ritual.  
-    
+
 - There are plenty of Sanskrit scholars (right from upaniShadic seers such as Aitreya mahidAsa to dArA-shikoh / [Abdul Rahim Khan](http://en.wikipedia.org/wiki/Abdul_Rahim_Khan-I-Khana)) who were not brahmaNa-s or kShatriya-s. Eg: mAtanga-divAkara the chaNDAla \[[TW](https://twitter.com/blog_supplement/status/632370949975883776)\]. bhartRmENTa the mahout.
 - Sanskrit is also a liturgical language of buddhism, jainism: even Zoroastrians used it when they came to India and recognized the sanskrit-avestan-monophyly! ([Q1](http://www.quora.com/Why-did-Buddhism-and-Jainism-adopted-Prakrit-instead-of-Sanskrit/answer/Vishvas-Vasuki), [YT15](https://www.youtube.com/watch?v=1NRLdoV_Vw8&index=69&list=WL))
 - shatAvadhAnI gaNesh on this: [video](https://www.youtube.com/watch?v=ff6mVQ_yn2s). Other examples: Abhinavabharatasarasangraha  Mummadi Cikkabhupala (= sippgowDa, a chieftain of Madhugiri, Karnataka), Pedakomati Vemareddy, who wrote an extensive vyAkhyAna to Amaru Shatakam.
@@ -73,8 +73,13 @@ Some object: "Simple Sanskrit is like Butler English only less useful. One can't
 - Modern experience with dalits acquiring sanskrit scholarship shows more support than deprecation.
     - Kumud Pawde (Mahar 1960-s [GB](https://books.google.com/books?id=NN48WUBx_54C&lpg=PP1&pg=PA85#v=onepage&q&f=false)) 
 
+#### Sanskrit was forbidden for some.
+> 'संस्कृत भाषा ही सबकी भाषा है' यह कहना प्रत्यक्ष विरुद्ध है। शास्त्र की दृष्टि से भी संस्कृत द्विजातियों की ही भाषा कही गयी है । कई लोगों के लिए तो संस्कृत शब्दों का उच्चारण भी निषिद्ध है । 'नोच्चरेत् संस्कृतां गिरम्' (स्कन्दपुराण)। यही कारण है कि नाटकों में प्राकृत का प्रयोग अबाध रूप से होता है । - claim by karpatri svAmI
+
+Sorry to say - karapAtrI svAmI was fooled by some fake quote. I have not been able to find "नोच्चरेत् संस्कृतां गिरम्" in a critical edition of the skandapurANa text ([github gretil](https://github.com/sanskrit/raw_etexts/blob/master/mixed/sarit-markdown/skandapurana.md)).
+
 ### Sanskrit literature reinforces the hindu caste system.
-- Why single out Sanskrit epics for this analysis? What about Hindi, Tamil, Kannada, Telugu epics that also reinforce that system? All ancient scholarship (irrespective of language and country), was to a huge degree, elite scholarship.
+- Why single out Sanskrit epics for this analysis? What about Hindi, Tamil, Kannada, Telugu epics that also reinforce that system? And some counter-religious bauddha and jaina texts? All ancient scholarship (irrespective of language and country), was to a huge degree, elite scholarship.
 - Why would you turn a blind eye to mountains of Sanskrit works which talk nothing about caste or gender roles in a way you dislike?
 
 ### Money
