@@ -71,16 +71,18 @@ Some object: "Simple Sanskrit is like Butler English only less useful. One can't
     - "पुरुषवद्योषितोऽपि कवीभवेयुः । संस्कारो ह्यात्मनि समवैति, न स्त्रैणं वा पौरुषं वा विभागमपेक्षते । श्रूयन्ते दृश्यन्ते च राजपुत्र्यो महामात्रदुहितरो गणिकाः कौतुकिभार्याश्च शास्त्रप्रहतबुद्धयः कवयश्च ।"
 - An excerpt from the education of Princess belavADi mallamma, as recorded by Shesho Srinivas Muthalik in 1705 \[[KPP](http://www.kamat.com/database/books/kareducation/appendix_a.htm#_ftnref1)\] \- "When Mallamma reached five years of age, her education began, along with that of her brother Sadashiva Nayaka. Both of them were taught Kannada, Marathi, Urdu, and Sanskrit . It took them ten years to learn all these languages. The brother and sister were very close and studied together. A school was built for their education and ten senior shāstris were appointed as teachers. In the classes there were boys and girls belonging to various castes (Havyaks, Gouda Saraswats, Nadavars, and Madhwas) in about equal numbers. Shankar Bhat was the principal of the school and was a great scholar. Mallamma was a very good student and an intelligent girl. Everybody admired her intellect. She was drawn to poetry when she was about twelve years old. Sadashiva Nayaka was also fond of poetry and wrote poems in Kannada. Their father, king Madhulinga Nayaka arranged for all the boys to undergo military training and appointed a brave man called Ranavir Singh as the trainer. Mallamma showed an interest in fencing and archery. She also equalled the boys in horse riding and throwing the javelin."
 - Modern experience with dalits acquiring sanskrit scholarship shows more support than deprecation.
-    - Kumud Pawde (Mahar 1960-s [GB](https://books.google.com/books?id=NN48WUBx_54C&lpg=PP1&pg=PA85#v=onepage&q&f=false)) 
+    - Kumud Pawde (Mahar 1960-s [GB](https://books.google.com/books?id=NN48WUBx_54C&lpg=PP1&pg=PA85#v=onepage&q&f=false))
 
-#### Sanskrit was forbidden for some.
-> 'संस्कृत भाषा ही सबकी भाषा है' यह कहना प्रत्यक्ष विरुद्ध है। शास्त्र की दृष्टि से भी संस्कृत द्विजातियों की ही भाषा कही गयी है । कई लोगों के लिए तो संस्कृत शब्दों का उच्चारण भी निषिद्ध है । 'नोच्चरेत् संस्कृतां गिरम्' (स्कन्दपुराण)। यही कारण है कि नाटकों में प्राकृत का प्रयोग अबाध रूप से होता है । - claim by karpatri svAmI
-
-Sorry to say - karapAtrI svAmI was fooled by some fake quote. I have not been able to find "नोच्चरेत् संस्कृतां गिरम्" in a critical edition of the skandapurANa text ([github gretil](https://github.com/sanskrit/raw_etexts/blob/master/mixed/sarit-markdown/skandapurana.md)).
+#### Sanskrit was forbidden for some jAti-s.
+- Some cite a pair of verses from skanda-purANa ("नोच्चरेत् प्रणवं मन्त्रं... न शिखां नोपवीतं च नोच्चरेत् संस्कृतां गिरम्।") and padma-purANa (न‌ शिखी नोपवीती स्यान्नोच्चरेत्संस्कृतां गिरम्). Details [here](https://groups.google.com/g/bvparishat/c/7aihuwshbl4/m/moEQCAqcAgAJ)). 
+  - The verse of स्कान्दपुराण is said to be 'अपकृष्टशूद्रपरम्' in शूद्राचारशिरोमणि. The verse of पाद्मपुराण (न शिखी नोपवीती...) is said to be 'असच्छूद्रपरम्' in संस्कारदीपक.
+  - So, these commentaries clarify that they refer to partuclar subclasses of shUdra-s with low religious commitment. Such people would first need to elevate themselves by greater religious commitment and training (which was easily available if desired).
+  - Even otherwise, orthodox dharmashAstra tradition admits the possibility of change in "dharma" based on changes in circumstance (including time and place).
+- It is a matter of fact that various religious streams - Hindu Agamas and tantras and jaina/ bauddha traditions - allowed instruction and utilization of sanskrit by adherents irrespective of jAti.
 
 ### Sanskrit literature reinforces the hindu caste system.
 - Why single out Sanskrit epics for this analysis? What about Hindi, Tamil, Kannada, Telugu epics that also reinforce that system? And some counter-religious bauddha and jaina texts? All ancient scholarship (irrespective of language and country), was to a huge degree, elite scholarship.
-- Why would you turn a blind eye to mountains of Sanskrit works which talk nothing about caste or gender roles in a way you dislike?
+- Why would you turn a blind eye to mountains of Sanskrit works (hindu, buddhist, jain) which talk nothing about caste or gender roles in a way you dislike?
 
 ### Money
 - Sanskrit is not the optimal language to learn in order to earn more money. So, we should ditch it and teach German, Chinese, etc.. \[[FP](http://www.firstpost.com/india/speak-german-smriti-iranis-hindutva-agenda-dims-prospects-kendriya-vidyalaya-students-1802783.html)\]
