@@ -75,7 +75,7 @@ Some object: "Simple Sanskrit is like Butler English only less useful. One can't
 
 #### Sanskrit was forbidden for some jAti-s.
 - Some cite a pair of verses from skanda-purANa ("नोच्चरेत् प्रणवं मन्त्रं... न शिखां नोपवीतं च नोच्चरेत् संस्कृतां गिरम्।") and padma-purANa (न‌ शिखी नोपवीती स्यान्नोच्चरेत्संस्कृतां गिरम्). Details [here](https://groups.google.com/g/bvparishat/c/7aihuwshbl4/m/moEQCAqcAgAJ)). 
-  - The verse of स्कान्दपुराण is said to be 'अपकृष्टशूद्रपरम्' in शूद्राचारशिरोमणि. The verse of पाद्मपुराण (न शिखी नोपवीती...) is said to be 'असच्छूद्रपरम्' in संस्कारदीपक.
+  - The verse of पाद्मपुराण (न शिखी नोपवीती...) is said to be 'असच्छूद्रपरम्' in संस्कारदीपक.
   - So, these commentaries clarify that they refer to partuclar subclasses of shUdra-s with low religious commitment. Such people would first need to elevate themselves by greater religious commitment and training (which was easily available if desired).
   - Even otherwise, orthodox dharmashAstra tradition admits the possibility of change in "dharma" based on changes in circumstance (including time and place).
 - It is a matter of fact that various religious streams - Hindu Agamas and tantras and jaina/ bauddha traditions - allowed instruction and utilization of sanskrit by adherents irrespective of jAti.
