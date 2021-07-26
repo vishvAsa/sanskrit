@@ -74,11 +74,11 @@ Some object: "Simple Sanskrit is like Butler English only less useful. One can't
     - Kumud Pawde (Mahar 1960-s [GB](https://books.google.com/books?id=NN48WUBx_54C&lpg=PP1&pg=PA85#v=onepage&q&f=false))
 
 #### Sanskrit was forbidden for some jAti-s.
-- Some cite a pair of verses from skanda-purANa ("नोच्चरेत् प्रणवं मन्त्रं... न शिखां नोपवीतं च नोच्चरेत् संस्कृतां गिरम्।") and padma-purANa (न‌ शिखी नोपवीती स्यान्नोच्चरेत्संस्कृतां गिरम्). Details [here](https://groups.google.com/g/bvparishat/c/7aihuwshbl4/m/moEQCAqcAgAJ)). 
-  - The verse of पाद्मपुराण (न शिखी नोपवीती...) is said to be 'असच्छूद्रपरम्' in संस्कारदीपक.
-  - So, these commentaries clarify that they refer to partuclar subclasses of shUdra-s with low religious commitment. Such people would first need to elevate themselves by greater religious commitment and training (which was easily available if desired).
-  - Even otherwise, orthodox dharmashAstra tradition admits the possibility of change in "dharma" based on changes in circumstance (including time and place).
 - It is a matter of fact that various religious streams - Hindu Agamas and tantras and jaina/ bauddha traditions - allowed instruction and utilization of sanskrit by adherents irrespective of jAti.
+- Some cite a pair of verses from skanda-purANa ("नोच्चरेत् प्रणवं मन्त्रं... न शिखां नोपवीतं च नोच्चरेत् संस्कृतां गिरम्।") and padma-purANa (न‌ शिखी नोपवीती स्यान्नोच्चरेत्संस्कृतां गिरम्). Details [here](https://groups.google.com/g/bvparishat/c/7aihuwshbl4/m/moEQCAqcAgAJ)). These have been interpreted by medieval dharmashAstra nibandha writers, some of their modern adherents and anti-hindu activists as barring sanskrit speech by certain jAti-s. Note: Some of these dharmashAstra compilers proposed that the "न शिखां नोपवीतं" part to refer to social classes with low religious commitment ('असच्छूद्रपरम्' and 'अपाकृष्टशूद्रपरम्').
+  - The latter cannot be traced in current published recensions (though cited by dharmashAstra writers in 17th CE). The former, being followed by "नमस्कारेण मन्त्रेण क्रियासिद्धिर् भवेद् ध्रुवम्" clearly implies that it refers to the use of generic scriptural sanskrit mantra-s should not be used by certain classes of people in the context of rituals (with bountiful exceptions among paurANika and Agama literature).
+- The orthodox vaidika/ paurANika tradition forbids the study of particular classes of sanskrit literature (veda-s and their literal meaning) for certain jAti-s. For other categories (purANa-s, smRti-s, itihAsa-s, vedAnga-s), they allow and encourage these jAti-s to hear the lore when recited by a brAhmaNa (in whom the ultimate religious interpretive authority rests). Direct study of particular subsets of these texts was forbidden.
+- Orthodox dharmashAstra tradition admits the possibility of change in "dharma" based on changes in circumstance (including time and place). Clearly, the current context, with it's advent of such innovations such as the printing press, social and audio-visual media, mass literacy requires orthodox hindu paurANika tradition to adapt in order to compete with inimical doctrines.
 
 ### Sanskrit literature reinforces the hindu caste system.
 - Why single out Sanskrit epics for this analysis? What about Hindi, Tamil, Kannada, Telugu epics that also reinforce that system? And some counter-religious bauddha and jaina texts? All ancient scholarship (irrespective of language and country), was to a huge degree, elite scholarship.
@@ -155,12 +155,11 @@ Some object: "Simple Sanskrit is like Butler English only less useful. One can't
 - Other analyses:
     - Suhasa's [post](https://www.facebook.com/photo.php?fbid=10200606487618941&set=a.2863903190992.141823.1062114412&type=1).
 
-## Who are the anti-sanskrit campaigners?
+## Anti-sanskrit campaigners
 
-- General anti-intellectual idiots. Eg. [NE16](http://kathmandupost.ekantipur.com/news/2016-09-08/tongue-tied.html)
+- General anti-intellectual idiots. Eg. [NE16](http://kathmandupost.ekantipur.com/news/2016-09-08/tongue-tied.html)
 - Anti hindu groups
     - Various communist groups. Eg. [NE16](http://kathmandupost.ekantipur.com/news/2016-09-08/tongue-tied.html)
     - Various muslim groups.
     - Various Christian groups.
 - Regionalists who are afraid (without much basis, and shortsightedly) that sanskrit popularization will reduce the influence of their regional language.
--
