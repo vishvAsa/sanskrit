@@ -13,3 +13,7 @@ For suggesting ways and means of defining
 Simple Standard Sanskrit (SSS)  
 For the specific purpose of using it as the medium of general communication, teaching, news, entertainment, internet, Administration of Sanskrit institutions, 
 Sanskrit journalism etc. 
+
+
+## विप्रतिपत्तयः
+- एकस्मिन्नेव विषये विप्रतिपत्तिः।  "Ms Sarasvati Ramesh" इति काचित्। तस्या निर्देशः संस्कृते कथं स्यादिति प्रश्नः। रमेशसरस्वतीति स्यादित्यहम्।

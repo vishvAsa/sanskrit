@@ -5,7 +5,7 @@ title = "Sanskrit Phobia"
 - Other analyses:
     - \[Rajiv Malhotra does a [more thorough job](http://rajivmalhotra.com/library/articles/geopolitics-sanskrit-phobia/).\]
 
-## Sanskrit is a dead language.
+## Dead language.
 - Some limited decline:
     - [Q15](https://www.quora.com/Why-isnt-sanskrit-used-anymore).
 - Lay use
@@ -20,7 +20,7 @@ title = "Sanskrit Phobia"
 - Immortality due to early and respected standardization by the grammarians.
     - As suhAsa says [here](http://swarajyamag.com/columns/verses-which-produce-magic-when-re-read/): "The Rāmāyaṇa is atleast 2500 years old. The hanumannāṭaka came more than 1500 years after it. And more than a millennium later came Rāma Śāstrī. And half a century later came Bacchu Subbarāyagupta. This literary chain may not seem unusual at first glance, yet it is an extraordinary thing to happen in a language. Languages come with lifetimes of less than a millennium. Old English is as intelligible to me as Hebrew. Reading Geoffrey Chaucer is like wading through quicksand. Time will ensure libraries move Shakespeare from the literature section to history section. But frozen in time by the spell of Pāṇini, only Classical Sanskrit will remain untouched. A few hundred years from now, a young boy (or girl), having taught himself Sanskrit, may decide to write a work to top Rāma Śāstrī. The poet to top Kālidasa may well be born a thousand years from now. My own descendants may spend a sunday afternoon, sipping soylent, and laughing at their ancestor’s metrical misadventures. How absurd it is to label such a language dead! Immortal is more like it."
 
-## Sanskrit is a hard language.
+## Hard language.
 - Not so - the "grammar translation method" introduced and imposed by the British, and exposure to only hard registers of sanskrit causes this wrong impression. See this [detailed speech](http://www.youtube.com/watch?v=ZoS1nA8RVko). With an immersive approach, conversational Sanskrit is as easy as any other language. Of course, advanced/ masterful usage requires serveral years of dedicated effort - like in any other language. \[Funny "Hitler learns Sanskrit" [video](https://www.youtube.com/watch?v=xv87qb1is9M).\]
 - If the right register ([Simple Standard Sanskrit](../../simple_standard) -  [archive](https://archive.org/details/simple-standard-sanskrit/mode/2up)) is used, sanskrit is quite easy for all Indians. \[chamu [video](https://www.youtube.com/watch?v=yr8iB6cscjM)\] It can be learned in a few days. Samskrita bhArati routinely teaches this.
   - I know idiots who've learned. So have lakhs of people. I know very intelligent people (superspecialized famous doctors) who haven't - despite me taking them to a camp. What matters is simply honesty and the lack of fear of "mistakes" (and looking silly).
@@ -79,7 +79,8 @@ Some object: "Simple Sanskrit is like Butler English only less useful. One can't
 - The orthodox vaidika/ paurANika tradition forbids the study of particular classes of sanskrit literature (veda-s and their literal meaning) for certain jAti-s. For other categories (purANa-s, smRti-s, itihAsa-s, vedAnga-s), they allow and encourage these jAti-s to hear the lore when recited by a brAhmaNa (in whom the ultimate religious interpretive authority rests). Direct study of particular subsets of these texts was forbidden.
 - Orthodox dharmashAstra tradition admits the possibility of change in "dharma" based on changes in circumstance (including time and place). Clearly, the current context, with it's advent of such innovations such as the printing press, social and audio-visual media, mass literacy requires orthodox hindu paurANika tradition to adapt in order to compete with inimical doctrines.
 
-## Sanskrit literature reinforces the hindu caste system.
+## Caste system
+- Claim: "Sanskrit literature reinforces the hindu caste system."
 - Why single out Sanskrit epics for this analysis? What about Hindi, Tamil, Kannada, Telugu epics that also reinforce that system? And some counter-religious bauddha and jaina texts? All ancient scholarship (irrespective of language and country), was to a huge degree, elite scholarship.
 - Why would you turn a blind eye to mountains of Sanskrit works (hindu, buddhist, jain) which talk nothing about caste or gender roles in a way you dislike?
 
