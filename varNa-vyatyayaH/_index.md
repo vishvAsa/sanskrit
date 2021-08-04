@@ -19,6 +19,9 @@ unicode_script = "devanagari"
 ## वबयोः
 "there is a specific text called Dantyoṣṭhyavidhi to teach the distinction between व and ब, as these were confusing to some reciter, perhaps in Eastern India."
 
+## पद्येषु
+- "अपि माषं मषं कुर्यात् छन्दोभङ्गं न कारयेत्" इति प्रसिद्धा। रामायणे - " तस्याभिषेकसंभारान् दृष्ट्वा भार्या ऽथ कैकयी ।"
+
 ## तैत्तिरीयशाखायाम्
 ### चयो द्वितीयाः शरि
 अयं नियमः सर्वत्रैव प्रायेणानुसृतः - यद्यपि शाखान्तरे भाषायां च क्वचिद् एव विकल्पेन वर्तते। पाणिनीये विवरणम् उपरि दत्तम्। प्रातिशाख्ये "प्रथम ऊष्मपरो द्वितीयम्॥१४.१२॥ " इति।

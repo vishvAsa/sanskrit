@@ -39,7 +39,7 @@ For 200 years, people have been reading translations, not Samskrit.
 Other languages have thus gotten enriched by such translations, and not
 Samskrit literature. Samskrit scholars have gotten enriched, not
 Samskrit language. The publishers got enriched, not the Samskrit
-language. Those who read translations remained as readers of
+language.+++(5)+++ Those who read translations remained as readers of
 translations all their life and few learnt Samskrit language. People buy
 Gita Press’ Bhagavadgita and read the translation, but not the
 Bhagavadgita, because they never learn the Samskrit language, they have
@@ -49,10 +49,10 @@ Translated books are the preferred texts in Ayurveda colleges and the
 referred books for Samskrit papers in BA and MA courses.  
   
 Translation from Samskrit language to other languages has become a great
-obstruction to the development of Samskrit language. For those people
+obstruction to the development of Samskrit language.+++(5)+++ For those people
 who do not know the Samskrit language, it is the easiest way to know the
 content without the difficulty of learning the language. For young
-scholars, it is the easiest way to increase their list of publications.
+scholars, it is the easiest way to increase their list of publications.+++(5)+++
 For publishers, it is the easiest product to sell and make money. For
 scholars it fetches both good royalty and plenty of awards. For the
 politicians it gives them a feeling of satisfaction that they did
