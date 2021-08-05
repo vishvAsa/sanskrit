@@ -2,8 +2,8 @@
 	path = themes/sanskrit-documentation-theme-hugo
 	url = https://github.com/sanskrit-coders/sanskrit-documentation-theme-hugo.git
 	update = merge
+
 [submodule "content"]
 	path = content
 	url = https://github.com/vishvAsa/sanskrit.git
-	update = merge
 	branch = content
