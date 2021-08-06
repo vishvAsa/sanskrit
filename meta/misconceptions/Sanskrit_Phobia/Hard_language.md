@@ -17,6 +17,12 @@ title = "Hard language"
 - People routinely teach and learn complex jargon-laden concepts such as vedAnta (via bhagavadgIta), vyAkaraNa and nyAya using the Simple Standard Sanskrit register. 
 - Open sambhAShaNa sandesha magazines and tell me there's only quotidian stuff there.
 
+### Disservice to traditional scholars
+> Samskrita Bharati and RSS have done a disservice to traditional scholars by making Sanskrit learning free for everyone. Completely pro-bono work earns goodwill but eliminates opportunities. Who will pay a Sanskrit scholar to learn when SB is teaching half-baked Skt for free?
+
+There are lot of matters to teach beyond basic sanskrit conversation, and people are willing to pay for it (plus the certificates).
+
+
 ## High register not required for shAstra
 In fact there is a famous nyAya quote reg. this. to
 
