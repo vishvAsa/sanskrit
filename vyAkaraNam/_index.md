@@ -21,7 +21,7 @@ unicode_script: devanagari
 
 
 ### स्थानिवद्भावः
-{{< figure src="images/sthAnivad-bhAva-nirNayaH.png title="स्थानिवद्भाव-निर्णये नित्यानन्दमिश्रचित्रम्" class="thumbnail">}}
+{{< figure src="images/sthAnivad-bhAva-nirNayaH.png" title="स्थानिवद्भाव-निर्णये नित्यानन्दमिश्रचित्रम्" class="thumbnail">}}
 
 ## अर्थबोधे मितिः
 - काकं निम्बमपेक्षते  That was corrected like काकः इति भवेत्  But काकानां समूहः काकम्
