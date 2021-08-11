@@ -1,0 +1,6 @@
++++
+title = "+धातुकारिकाः"
+unicode_script = "devanagari"
++++
+
+सोर्तः [अत्र](https://paryayavak.blogspot.com/2020/05/dhatukarika-bhvadiganah.html) ।
