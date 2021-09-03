@@ -1,5 +1,5 @@
 ---
-title: इडागमनिश्चयः
+title: इट्-आगम-निश्चयः
 unicode_script: devanagari
 ---
 
