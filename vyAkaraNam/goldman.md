@@ -129,7 +129,7 @@ R. P. Goldman and S. J. Sutherland Berkeley 1986.
 
 ### TABLE OF CONTENTS
 
-### 01:
+#### 01:
 
 1.4
 
@@ -144,7 +144,7 @@ samyukta-complex vowels), 2 295 (vyañjana) sounds; qof-s (varga-s—classes) an
 1.8 1.14 1.15 1.17 1.18
 
 1.19 
-### 02:
+#### 02:
 
 2.1 2.2 2.3 2.9 2.11 2.13
 
@@ -173,7 +173,7 @@ xxi
 3.13
 
 
-### 03: Sandhi (See Index of Important Sandhi Rules)
+#### 03: Sandhi (See Index of Important Sandhi Rules)
 
 3.0 Definition of HF(sandhi), 23 3.1 Internal and external Hau (sandhi), 23 3.2 External vowel Hau (sandhi), 23 3.5 Vowel strength, 25 3.6 Ju (guņa) and area (vrddhi), 25 3.10 Complex vowels, 27
 
@@ -194,7 +194,7 @@ Original final“-T' (-s) after “31” (a) vowels, 35 3.40 Original final “-
 (sparśa) sounds, 38 3.46 External Hau (sandhi) of nasals, 40 3.48 Afu (sandhi) of absolute final nasals, 40 3.50 Treatment of absolute final “-T' (-n), 41
 
 3.57 Internal Au (sandhi), 42 
-### 04: Parts of Speech and the Sanskrit Sentence 4.0 Conjugation of verbs; declension of nouns and
+#### 04: Parts of Speech and the Sanskrit Sentence 4.0 Conjugation of verbs; declension of nouns and
 
 pronouns, 47 4.3 The finite verb, fasa (tiñanta); the nominal item,
 
@@ -229,7 +229,7 @@ xxiii
 SIRIH (trtīyā vibhakti —the instrumental case), 68 4.43 goo auf (sasthi vibhakti —the genitive case), 69 4.44 Word order, 70 4.45 Personal pronouns, 71 4.46 364 (aham—I); c014 (tvam—you), 71
 
 4.47 4ra (nipāta—particles): 4 (sma); Sta (iti), 73 
-### 05: FE (strilinga-Feminine) Nouns in - 371 (-ā);
+#### 05: FE (strilinga-Feminine) Nouns in - 371 (-ā);
 
 चतुर्थी, पञ्चमी and सप्तमी विभक्ति-s (Caturthi, Palicami and Saptami Vibhakti-s); Demonstrative
 
@@ -238,7 +238,7 @@ Pronouns 5.1 Paradigm of Fiş (strilinga) nouns in -311 (ā), 79 5.2 agleff auf 
 4 4 fauts (pañcami vibhakti—the ablative case), 80 5.4 Hafa (saptami vibhakti —the locative case), 81 5.5 HAA14] (sarvanāman demonstrative pronouns), 82 5.6 The pronoun Ha (etat), 85
 
 5.7 Adjectives of pronominal declension, 85 
-### 06: Nominal Stems in-3 (-i) and -3 (-u);
+#### 06: Nominal Stems in-3 (-i) and -3 (-u);
 
 Interrogative, Relative, and Correlative Clauses: The 7-4-2 (k-y-t) Series of Indeclinables and
 
@@ -263,7 +263,7 @@ xxiv
 6.20
 
 6.21 
-### 07:
+#### 07:
 
 7.9 7.12 7.14 7.15 7.16 7.17 7.18 7.19 7.20 7.21 7.22 7.23 7.25
 
@@ -290,7 +290,7 @@ XXV
 7.33 The seventh, or 54 70 (Vrudh gana) roots, 129 7.36 The ninth, or 71 (Vkri gaņa), 131 7.37 The root g (Vjña), 131
 
 7.38 The tenth, or 10 (Vcur gana), 132 
-### 08: Noun Stem Strength; Noun Stems in -371 (-an);
+#### 08: Noun Stem Strength; Noun Stems in -371 (-an);
 
 अनघ
 
@@ -307,7 +307,7 @@ Formation of the 5 (lan), 142 8.9 The secondary endings of the SE (lan), 143 8.1
 analytic; idiomatic, 145 8.15. List of the major 341-s (upasarga-s), 146
 
 8.18 Placement of 34021-s (upasarga-s), 152 
-### 09; Noun Stems in -31: (-ah); The foyer
+#### 09; Noun Stems in -31: (-ah); The foyer
 
 (Karmaņi Prayoga) Noun stems in -31: (-ah), 157
 
@@ -332,7 +332,7 @@ XXVI
 166 9.27 Exceptions to the basic rule of effor (karmaņi) stem
 
 formation, 167 
-### 10: Nominal Stems in - (-r); Verbal Adjectives;
+#### 10: Nominal Stems in - (-r); Verbal Adjectives;
 
 The EGR (Bhūte Kędanta) 10.0 Kinship and adjectival agent nouns in-(-r), 173 10.1 Gender of stems in - 7 (-), 174 10.2 Declension of stems in -#(-1), 174 10.3 Paradigms of -73 (-r) stem nouns, 174 10.4 Verbal adjectives: Sanskrit participles, 176 10.5 The va G. (bhūte krdanta–past passive participle),
 
@@ -343,7 +343,7 @@ The EGR (Bhūte Kędanta) 10.0 Kinship and adjectival agent nouns in-(-r), 173 1
 183 10.11. The root te (Vgrah) with -a (-ta), 184
 
 10.12 The La G (bhūte kşdanta) in - - (n), 184 
-### 11: Stems in-TR (-ant); Adjectival Suffixes in - Red
+#### 11: Stems in-TR (-ant); Adjectival Suffixes in - Red
 
 (-mant) and OR (-vant); The (ktavatu) (Past Active Participle); The calm (tvānta)/CIGRI
 
@@ -356,7 +356,7 @@ XXVII
 197 11.16 The color reitl (karmaņi prayoga) of the stę (lot), 201
 
 11.18 The negative particle 1 (mā), 201 
-### 12: Nominal Stems in -57(-in); H4TH (Samāsa)
+#### 12: Nominal Stems in -57(-in); H4TH (Samāsa)
 
 (Nominal Composition) 12. The suffix-51 (-in), 207 12.1 Paradigms of पुंलिङ्ग (pumlinga) and नपुंसकलिङ्ग
 
@@ -369,7 +369,7 @@ compound), 214 12.13 Notes on the formation of ey (tatpuruşa) and
 ART 4TH-s (karmadhāraya samāsa-s), 215 12.17 3446 44TH-s (upapada samāsa-s, "reduced word"
 
 compounds), 219 
-### 13: 945R (The Infinitive); H418 (Samāsa) Continued;
+#### 13: 945R (The Infinitive); H418 (Samāsa) Continued;
 
 बहुव्रीहि (Bahuvrihi) Application of कर्मधारय (Karmadhāraya) and aeyo HATH-(Tatpuruṣa
 
@@ -386,7 +386,7 @@ criteria and formal criteria, 229 13.10 faue (vigraha) of Califa-s (bahuvrihi-s)
 (tatpuruşa samāsa-s), 234 13.16 The fac H41H-s (dvigu samāsa-s-compounds with an
 
 initial numeral), 235 
-### 14: HATH (Samāsa) Concluded; && (Dvandva) and
+#### 14: HATH (Samāsa) Concluded; && (Dvandva) and
 
 TORTA H418-s (Avyayibhāva Samāsa-s); The
 
@@ -399,7 +399,7 @@ compound'), 241 14.5 The order of words in a && (dvandva), 242 14.6 Kinship term
 compound), 244 14.12 The fat fis (vidhi liñ— optative mode), 245 14.14 Mode sign of the fare foss (vidhi lin), 247 14.15 Formation of the fara fog (vidhi lin), 247
 
 14.16 The 311R1R Poss, or the benedictive, 249 
-### 15:
+#### 15:
 
 (Vartamāne Krdanta) (The Present Participle) 15.1 The use of the adH GRI (vartamāne krdanta), 255 15.6 Formation of the Rosa (parasmai pada) stem of the
 
@@ -414,7 +414,7 @@ krdanta), 266
 XXIX
 
 
-### 16: Non-147 (Gaņa) Conjugations; 2, 125, C (Lệt,
+#### 16: Non-147 (Gaņa) Conjugations; 2, 125, C (Lệt,
 
 Lịñ and Lut) (Future System and the Conditional);
 
@@ -429,14 +429,14 @@ participle), 278 16.9 3 4 at 25 (ati pattau lrñ—the conditional), 279 16.10 F
 -bhavisyatkāle lut—the periphrastic future), 279 16.12 Formation of the C (lut), 279 16.13 The paradigm of 4 (Vbhū) in the (lut), 280 16.16 The "gerundive," or prescriptive passive participle,
 
 281 16.19 Formation of the gerundive, 283 
-### 17: era poc (Parokşabhūte Lit) (The Perfect);
+#### 17: era poc (Parokşabhūte Lit) (The Perfect);
 
 The Perfect Participle 17.3 Use of the fear (lit), 293 17.4 Formation of the fest (lit), 294 17.6 392118 (abhyāsa—reduplication), 295 17.7 Exceptions to the rules of 3P 2H (abhyāsa), 297 17.8 Stem strength in the force (lit), 298 17.14 The foc(lis) endings, 301 17.17 Some examples of the foc (lit), 303 17.18 foc (lit) continued: the periphrastic perfect, 304 17.19 Formation of the periphrastic perfect, 304
 
 XXX
 
 17.23 The perfect participle, 305 
-### 18: णिजन्त, सनन्त and यङन्त (Nijanta, Sannanta and
+#### 18: णिजन्त, सनन्त and यङन्त (Nijanta, Sannanta and
 
 Yañanta) (Secondary Conjugations); 7144
 
@@ -453,7 +453,7 @@ Yañanta) (Secondary Conjugations); 7144
 XXXi
 
 
-### 19: Halle (Sarvanāman) (Additional Pronouns);
+#### 19: Halle (Sarvanāman) (Additional Pronouns);
 
 Falls (Sankhyā-s) Numerals; 3ECh Tags:
 
@@ -464,7 +464,7 @@ Falls (Sankhyā-s) Numerals; 3ECh Tags:
 the [sis] aorist and the H (sa) aorist), 353 19.16 The reduplicated aorist, 357
 
 19.18 The injunctive, 358 
-### 20: and at 4 -s (Kịt and Taddhita Pratyaya-s);
+#### 20: and at 4 -s (Kịt and Taddhita Pratyaya-s);
 
 The fea 44 (Cvi Pratyaya); Nominal Derivation
 
@@ -479,7 +479,7 @@ pi-s (taddhita pratyaya-s-secondary suffixes), 367 20.4 Major 2-s (krt pratyaya-
 390
 
 Xxxii
-### 21: Additional Consonantal Stem Formations; Stems
+#### 21: Additional Consonantal Stem Formations; Stems
 
 with Final HYA (Samyukta) Vowels; Some Irregu lar Nominal Declensions; Declension of the Com parative Suffix H/9: (Yāms/Yah) Some Remarks
 
@@ -502,7 +502,7 @@ The comparative suffix - JH / -4: (-yams/yah), 405 21.5
 Adverbial suffixes: -:(-tah), - OC (-vat), -ET (-dhā), - 7: (-sah); 7 (sup) endings that are stereotyped as adverb
 
 ial markers, 406 
-### 22: Readings from the Valmiki Rāmāyaṇa, 419 GLOSSARY OF GRAMMATICAL TERMS, 429 SANSKRIT-ENGLISH GLOSSARY, 435 ENGLISH-SANSKRIT GLOSSARY, 497 INDEX, 525
+#### 22: Readings from the Valmiki Rāmāyaṇa, 419 GLOSSARY OF GRAMMATICAL TERMS, 429 SANSKRIT-ENGLISH GLOSSARY, 435 ENGLISH-SANSKRIT GLOSSARY, 497 INDEX, 525
 
 xxxiii
 
@@ -924,7 +924,7 @@ patrarathaḥ jyāḥ
 
 dịśyamānāḥ dūrgāt khadgāni labdhvā dāridryam gacchanti manasvinaḥ şşabhaḥ
 
-## 0 3 सन्धि
+## 03 सन्धि
 
 3.0
 
@@ -1432,7 +1432,7 @@ days are gone.) 5. so 'ham (as + a). (I am he!)
 
 dharmakşetra ity ārabhyate bhagavad-gitā (e + non-“2” vowel; i + a; t + g). (“On the field of the dharma," so begins the Bhagavad gitā.)
 
-## 0 4 Parts of Speech and the Sanskrit Sentence
+## 04 Parts of Speech and the Sanskrit Sentence
 
 4.0
 
@@ -2426,7 +2426,7 @@ he (ind)—vocative particle ("O')
 
 precedes vocative 
 
-## 0 5 स्त्रीलिङ्ग—Feminine Nouns in आ ; चतुर्थी, पञ्चमी and सप्तमी विभक्ति-s; Demonstrative Pronouns
+## 05 स्त्रीलिङ्ग Feminine Nouns in आ ; चतुर्थी, पञ्चमी and सप्तमी विभक्ति-s; Demonstrative Pronouns
 
 5.0
 
@@ -2578,7 +2578,6 @@ tebhyah तेषाम् teşām
 
 तेष teşu
 
-# 
 
 नपुंसकलिङ्ग (napumsakalinga)
 
@@ -2876,7 +2875,7 @@ Rāma's brothers
 
 शान्त Santa (adj) calm, peaceful
 
-## 0 6 Nominal Stems in -इ and -उ; Interrogative, Relative, and Correlative Clauses: The क्-य-त् Series of Indeclinables and Pronouns
+## 06 Nominal Stems in -इ and -उ; Interrogative, Relative, and Correlative Clauses: The क्-य-त् Series of Indeclinables and Pronouns
 
 6.0
 
@@ -3602,7 +3601,7 @@ extent that
 
 svargah (m)—heaven हननम् hananam (n)-killing
 
-## 0 7 स्त्रीलिङ्ग (Feminine) Stems in ई; The गण-s of the Present System
+## 07 स्त्रीलिङ्ग (Feminine) Stems in ई; The गण-s of the Present System
 
 7.0
 
@@ -4554,7 +4553,7 @@ ramaniya (adj) beautiful
 
 | Vha (3P) → jahati abandon
 
-## 0 8 Noun Stem Strength; Noun Stems in-अन्; अनद्यतनभूते लङ्, The Imperfect; उपसर्ग-s (Upasarga-s)
+## 08 Noun Stem Strength; Noun Stems in-अन्; अनद्यतनभूते लङ्, The Imperfect; उपसर्ग-s (Upasarga-s)
 
 8.0
 
@@ -5320,7 +5319,7 @@ mony at which a princess Vbhañj (7P) → bhanakti-break chooses a husband, or h
 
 chosen by contest. Vbhuj (7P) → bhunakti-eat
 
-## 0 9 Noun Stems in अः; The कर्मणि प्रयोग
+## 09 Noun Stems in अः; The कर्मणि प्रयोग
 
 ar
 
@@ -8668,7 +8667,6 @@ ative or "imperfective." This is done by making use of the simultaneity of the p
 
 (He comes singing.)
 
-#4 + VH14 (1Ā)
 
 (speak)
 
@@ -13162,7 +13160,7 @@ does, makes or causes'
 
 कर
 
-## 21 Additional Consonantal Stem Formations; Stems with Final संयुक्त Vowels; Some Irregular Nominal Declensions; Declension of the Comparative Suffix यांस्/यः; Some Remarks on Adverbial Formation
+## 21 Additional Consonantal Stem Formations; Stems with Final संयुक्त Vowels; Some Irregular Nominal Declensions; Declension of the Comparative Suffix यांस्, यः; Some Remarks on Adverbial Formation
 
 21.0
 
