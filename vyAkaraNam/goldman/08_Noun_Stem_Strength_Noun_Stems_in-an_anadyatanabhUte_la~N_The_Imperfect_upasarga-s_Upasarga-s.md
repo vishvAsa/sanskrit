@@ -10,25 +10,20 @@ short_title = "08 Noun Stem Strength;"
 
 8.1
 
-All the noun stems introduced thus far have ended in vowels. This is not the case, however, with all nouns. Several classes of nouns have stems with consonant finals. These stems (and some vowel stems—see below, 10.0), unlike the nouns so far learned, have a distinction of stem strength. Noun Stem Strength a. Of पुंलिङ्ग and स्त्रीलिङ्ग stems, the only strong forms are प्रथमा
+All the noun stems introduced thus far have ended in vowels. This is not the case, however, with all nouns. Several classes of nouns have stems with consonant finals. These stems (and some vowel stems—see below, 10.0), unlike the nouns so far learned, have a distinction of stem strength. 
 
-Pahit, 2004, ferea, and bea; and the reciten fant, एकवचन, and द्विवचन. The rest are weaker. Some stems further distinguish, among the weaker forms, a weak and a weakest, depending upon whether the inflectional ending
+## Noun Stem Strength 
 
-begins with a consonant (weak) or a vowel (weakest). b. Of नपुंसकलिङ्ग stems, only the प्रथमा and द्वितीया बहुवचन are
+a. Of पुंलिङ्ग and स्त्रीलिङ्ग stems, the only strong forms are प्रथमा विभक्ति, एकवचन, द्विवचन, and बहुवचन. The rest are weaker. Some stems further distinguish, among the weaker forms, a weak and a weakest, depending upon whether the inflectional ending begins with a consonant (weak) or a vowel (weakest). 
 
-strong. If the stem distinguishes degree of weakness, the प्रथमा and द्वितीया एकवचन are weak while the same cases of the face are the weakest. Other cases are, as usual, the
+b. Of नपुंसकलिङ्ग stems, only the प्रथमा and द्वितीया बहुवचन are strong. If the stem distinguishes degree of weakness, the प्रथमा and द्वितीया एकवचन are weak while the same cases of the face are the weakest. Other cases are, as usual, the same as the corresponding is stems. 
 
-same as the corresponding is stems. Noun Stems in -37 (-an)
+## Noun Stems in -अन् (-an)
 
-An important class of consonant stems ends in -367 (-an). These stems are all पुंलिङ्ग or नपुंसकलिङ्ग. Try to learn these nouns in both stem and nominative singular form. If only the first is leamed, you will not know the gender; if only the second, you are apt to forget the stem ending and confuse the nouns with those of the -31 (-a) or -371 (-a) classes. Strength in-341 (-an) Stems The strong forms show the last vowel of the stem as - 31 (-ā), the weak as - 31 (-a), and the weakest as Ø (i.e., the vowel is lost). The difference in the degree of the strong-weak distinc
+An important class of consonant stems ends in -अन् (-an). These stems are all पुंलिङ्ग or नपुंसकलिङ्ग. Try to learn these nouns in both stem and nominative singular form. If only the first is leamed, you will not know the gender; if only the second, you are apt to forget the stem ending and confuse the nouns with those of the -अ (-a) or -आ (-a) classes. 
 
-8.2
-
-8.3
-
-138
-
-tion has to do with the place of accentual strength at an earlier stage of the language. This also accounts for the strength in the present system. This type of accentuation is absent in clas sical Sanskrit, although its effects are clearly seen. In dealing with this class of nouns, it is wise to learn the paradigms of the important items thoroughly. As an aid to memory, however, keep in mind a short sentence incorporating the instrumental singular form of each item. This case shows the weakest form if there is one. For practical purposes keep in mind that stems whose second consonant is part of a conjunct (e.g., 3114427 (ātman), ci [karman]) show the strong/weak alternation while others (e.g., T5F! [rājan), 147] [nāman]) show the strong/weak/ weakest alternation. Examples:
+### Strength in-अन् (-an) 
+Stems The strong forms show the last vowel of the stem as - आ (-ā), the weak as - अ (-a), and the weakest as Ø (i.e., the vowel is lost). The difference in the degree of the strong-weak distinction has to do with the place of accentual strength at an earlier stage of the language.+++(5)+++ This also accounts for the strength in the present system. This type of accentuation is absent in classical Sanskrit, although its effects are clearly seen. In dealing with this class of nouns, it is wise to learn the paradigms of the important items thoroughly. As an aid to memory, however, keep in mind a short sentence incorporating the instrumental singular form of each item. This case shows the weakest form if there is one. For practical purposes keep in mind that stems whose second consonant is part of a conjunct (e.g., आत्मन् (ātman), कर्मन् [karman]) show the strong/weak alternation while others (e.g., राजन् [rājan] नामन् [nāman]) show the strong/weak/ weakest alternation. Examples:
 
 राज्ञा विना राज्यं नश्यति । rājñā vinā rājyam naśyati. (Without a king, the kingdom perishes.)
 
@@ -40,199 +35,65 @@ tion has to do with the place of accentual strength at an earlier stage of the l
 
 8.4
 
-Typical Case Endings Note the case endings of these nouns. Although these and other stems are statistically outnumbered by the -31 (-a) and - 371 (-ā) classes, these endings are really the typical" ones for each case. This is especially important to note in the social139
 
-weak cases. The proper endings then, for consonant and many vowel stems are: तृतीया_आ चतुर्थी—ए पञ्चमी—अः षष्ठी-अः सप्तमी—इ Memorize these endings as quickly as possible.
+## Typical Case Endings 
+Note the case endings of these nouns. Although these and other stems are statistically outnumbered by the -अ (-a) and - आ (-ā) classes, these endings are really the typical" ones for each case. This is especially important to note in the एकवचन weak cases. The proper endings then, for consonant and many vowel stems are: तृतीया_आ चतुर्थी—ए पञ्चमी—अः षष्ठी-अः सप्तमी—इ Memorize these endings as quickly as possible. +++(एषां चारु प्रदर्शनम् [अत्र](https://ubcsanskrit.ca/lesson8/nouns-an.html) ।)+++
 
-Paradigms of -अन् (-an) stems a. i. gitess; 311647 (ātman—the soul, self) (strong/weak)
+Paradigms of -अन् (-an) stems 
 
-वचन
+a. i. पुंलिङ्ग; आत्मन् (ātman—the soul, self) (strong/weak)
 
-बहु vacana →
+|   पुंलिङ्ग(masculine)   | एक° (singular) | द्वि° (dual) | बहु° (plural) |
+|:--------------------:|:--------------:|:-----------:|:------------:|
+|  प्रथमा (nominative)  |      आत्मा      |    आत्मानौ   |    आत्मानः    |
+| द्वितीया (accusative) |     आत्मानम्     |    आत्मानौ   |     आत्मनः    |
+| तृतीया (instrumental) |      आत्मना     |   आत्मभ्याम्   |    आत्मभिः    |
+|    चतुर्थी (dative)    |      आत्मने      |   आत्मभ्याम्   |    आत्मभ्यः    |
+|   पञ्चमी (ablative)   |      आत्मनः     |   आत्मभ्याम्   |    आत्मभ्यः    |
+|    षष्ठी (genitive)   |      आत्मनः     |    आत्मनोः   |    आत्मनाम्    |
+|   सप्तमी (locative)   |      आत्मनि     |    आत्मनोः   |     आत्मसु     |
+|   सम्बोधन (vocative)  |      आत्मन्      |    आत्मानौ   |    आत्मानः    |
 
-dvi°
+ii. पुंलिङ्ग; राजन् (rajan-king) (strong/weak/weakest) 
 
-bahu° विभक्ति
-
-8.5
-
-ekao
-
-vibhakti
-
-आत्मा ātmā
-
-आत्मानः ātmānah
-
-आत्मानम् ātmānam
-
-आत्मनः ātmanah
-
-आत्मभिः ātmabhiḥ
-
-आत्मना ātmanā आत्मने ātmane
-
-आत्मानौ ātmānau आत्मानौ ātmānau
-
-आत्मभ्याम् . ātmabhyām
-
-आत्मभ्याम् ātmabhyām
-
-आत्मभ्याम् ātmabhyām
-
-आत्मनः ātmanoh आत्मनोः ātmanoh आत्मानौ ātmānau
-
-आत्मभ्यः ātmabhyah
-
-आत्मभ्यः ātmabhyaḥ
-
-आत्मनः ātmanaḥ
-
-आत्मनाम् ātmanām
-
-आत्मनः ātmanaḥ
-
-आत्मनि ātmani
-
-आत्मसु
-
-ātmasu
-
-आत्मन् ātman
-
-आत्मानः ātmānaḥ
-
-140
-
-dvi°
-
-राज्ञा
-
-ii. पुंलिङ्ग; राजन् (rajan-king) (strong/weak/weakest) वचन
-
-एक
-
-बह vacana → eka°
-
-bahu° विभक्ति | vibhakti
-
-राजा
-
-राजानौ
-
-राजानः raja rājānau rājānaḥ राजानम् राजानौ राज्ञः rājānam rājānau rājñaḥ राजभ्याम्
-
-राजभिः rājñā rājabhyām rājabhih राजे
-
-राजभ्याम् राजभ्यः rājñe rājabhyām rājabhyaḥ
-
-राज्ञः
-
-राजभ्याम राजभ्यः rājñaḥ rājabhyām rājabhyaḥ
-
-राज्ञोः rājñaḥ rājñoḥ rājñām राज्ञि / राजनि राज्ञोः
-
-राजसु rājñi / rājani rājñoh
-
-rājasu
-
-राजन्
-
-राजानौ
-
-राजानः sam.
-
-rājan rājānau rajānaḥ
-
-राज्ञः
-
-राज्ञाम्
-
-dvi°
+|   पुंलिङ्ग(masculine)   | एक° (singular) | द्वि° (dual) | बहु° (plural) |
+|:--------------------:|:--------------:|:-----------:|:------------:|
+|  प्रथमा (nominative)  |      राजा      |    राजानौ   |    राजानः    |
+| द्वितीया (accusative) |     राजानम्     |    राजानौ   |     राज्ञः    |
+| तृतीया (instrumental) |      राज्ञा     |   राजभ्याम्   |    राजभिः    |
+|    चतुर्थी (dative)    |      राज्ञे      |   राजभ्याम्   |    राजभ्यः    |
+|   पञ्चमी (ablative)   |      राज्ञः     |   राजभ्याम्   |    राजभ्यः    |
+|    षष्ठी (genitive)   |      राज्ञः     |    राज्ञोः   |    राज्ञाम्    |
+|   सप्तमी (locative)   |  राज्ञि / राजनि |    राज्ञोः   |     राजसु     |
+|   सम्बोधन (vocative)  |      राजन्      |    राजानौ   |    राजानः    |
 
 b. i. नपुंसकलिङ्ग; कर्मन् (karman-action) (strong/weak)
 
-वचन
+|   नपुंसकलिङ्ग(neuter)   | एक° (singular) | द्वि° (dual) | बहु° (plural) |
+|:--------------------:|:--------------:|:-----------:|:------------:|
+|  प्रथमा (nominative)  |       कर्म      |    कर्मणी    |    कर्माणि    |
+| द्वितीया (accusative) |       कर्म      |    कर्मणी    |    कर्माणि    |
+| तृतीया (instrumental) |      कर्मणा     |   कर्मभ्याम्   |    कर्मभिः    |
+|    चतुर्थी (dative)    |      कर्मणे      |   कर्मभ्याम्   |    कर्मभ्यः    |
+|   पञ्चमी (ablative)   |      कर्मणः     |   कर्मभ्याम्   |    कर्मभ्यः    |
+|    षष्ठी (genitive)   |      कर्मणः     |    कर्मणोः   |    कर्मणाम्    |
+|   सप्तमी (locative)   |      कर्मणि     |    कर्मणोः   |     कर्मसु     |
+|   सम्बोधन (vocative)  |   कर्मन् / कर्म   |    कर्मणी    |    कर्माणि    |
 
-एक
+ii. नपुंसकलिङ्ग, नामन् (nāman-name) (strong/weak/weakest)
 
-बहु vacana → eka
+|   नपुंसकलिङ्ग(neuter)   | एक° (singular) |  द्वि° (dual)  | बहु° (plural) |
+|:--------------------:|:--------------:|:-------------:|:------------:|
+|  प्रथमा (nominative)  |       नाम      | नामनी / नाम्नी |    नामानि    |
+| द्वितीया (accusative) |       नाम      | नामनी / नाम्नी |    नामानि    |
+| तृतीया (instrumental) |      नाम्ना     |    नामभ्याम्    |    नामभिः    |
+|    चतुर्थी (dative)    |      नाम्ने      |    नामभ्याम्    |    नामभ्यः    |
+|   पञ्चमी (ablative)   |      नाम्नः     |    नामभ्याम्    |    नामभ्यः    |
+|    षष्ठी (genitive)   |      नाम्नः     |     नाम्नोः    |    नाम्नाम्    |
+|   सप्तमी (locative)   |  नाम्नि / नामनि |     नाम्नोः    |     नामसु     |
+|   सम्बोधन (vocative)  |   नामन् / नाम   | नामनी / नाम्नि |    नामानि    |
 
-bahu विभक्ति vibhakti
-
-कर्मणी कर्माणि karma karmaņi karmāņi
-
-कर्मणी कर्माणि karma karmani karmāņi कर्मणा कर्मभ्याम् कर्मभिः karmaņā karmabhyām karmabhiḥ
-
-कर्म
-
-कर्म
-
-141
-
-. . . .
-
-कर्मणे
-
-कर्मभ्याम् कर्मभ्यः karmane karmabhyām karmabhyaḥ कर्मणः कर्मभ्याम् कर्मभ्यः karmaṇaḥ karmabhyām karmabhyaḥ कर्मणः कर्मणोः कर्मणाम् karmanah karmaņoh karmaņām कर्मणि कर्मणोः कर्मसु karmaņi karmaņoh karmasu कर्मन/कर्म कर्मणी कर्माणि karman/karma karmaņi karmāņi
-
-sam.
-
-बह
-
-ii. नपुंसकलिङ्ग, नामन् (nāman-name) (strong/weak/weakest) वचन
-
-एक
-
-द्वि vacana → eka°
-
-dvi°
-
-bahu° विभक्ति vibhakti
-
-नामनी/ नाम्नी नामानि nāma
-
-nāmani/nāmnī nāmāni
-
-नाम
-
-नामनी / नाम्नी . नामानि nāma
-
-nāmanī/nāmnī nāmāni
-
-नाम
-
-नाना nāmnā
-
-नामभ्याम् nāmabhyām
-
-नामभिः nāmabhiḥ
-
-नाने
-
-. . . . . .
-
-नामभ्याम् नामभ्यः nāmne nāmabhyām nāmabhyah
-
-नाम्रः
-
-नामभ्याम् नामभ्यः nāmnah nāmabhyām nāmabhyah
-
-नानः
-
-नाम्रोः
-
-नानाम् nāmnaḥ nāmnoh nāmnām नाम्नि / नामनि नाम्रोः
-
-नामसु nāmni/nāmani nāmnoh nāmasu नामन् / नाम नामनी / नाम्नी नामानि nāman/nāma nāmani/nāmni nāmāni
-
-sam.
-
-142
-
-8.6
-
-अनघ
+## अनद्यतनभूते लङ्
 
 (Anadyatanabhūte Lan); The Imperfect This is one of the several verbal (and nominal-verbal) forms used to indicate preterite or "past" time in Sanskrit. All of these forms are best translated as “simple past" tenses in En glish. Keep clearly in mind that terms like "imperfect" have been given by Western grammarians as classifiers on the basis of parallels with grammars of classical languages. They do not indicate anything with regard to the "aspect" or degree of duration or repetition of the action or state suggested by a ver bal root. Even the Sanskrit name 3AERAYA (past time prior to today) serves now only as a classifier. The form is by no means actually restricted in its application as the name would sug gest. The 5 is formed mechanically from the present stems of the previous lesson. Once these are learned, the 35 is quite simple and so has the virtue of greatly expanding your ability to use the language with a minimum of new memorization. Formation of the लङ् The 5 is formed from the appropriate present stems by two simple steps: 1. A preterite augment: the syllable 37 (a) is prefixed to the
 
