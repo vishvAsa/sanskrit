@@ -3,14 +3,7 @@ title = "16 Chapter XII FUTURE-SYSTEMS"
 
 +++
 
-
-
-
-## CHAPTER XII.
-
-  
-
-THE FUTURE-SYSTEMS.
+CHAPTER XII. THE FUTURE-SYSTEMS.
 
 931\. THE verb has two futures, of very different age and character. The
 one has for tense-sign a sibilant followed by य `ya`, and is an
@@ -22,7 +15,7 @@ The former may be called the `s`-future (or the old future, or simply
 the future); the latter may be distinguished as the periphrastic future.
 
 
-I. The `s`-future.
+## I. The `s`-future.
 
 932\. The tense-sign of this future is the syllable स्य `syá`, added to
 the root either directly or by an auxiliary vowel इ `i` (in the latter
@@ -43,112 +36,18 @@ ending in अ `a` (second general conjugation: 733 a). We may take as
 models of inflection the future of √दा `dā` *give*, and that of √कृ `kṛ`
 *make*. Thus:
 
-active.
 
-middle.
+- active. s\. d\. p\.
+  - middle.
+- 1 दास्यामि `dāsyā́mi` दास्यावस् `dāsyā́vas` दास्यामस् `dāsyā́mas`
+  - दास्ये `dāsyé` दास्यावहे `dāsyā́vahe` दास्यामहे `dāsyā́mahe`
+- 2 दास्यसि`dāsyási` दास्यथस् `dāsyáthas` दास्यथ `dāsyátha`
+  - दास्यसे `dāsyáse` दास्येथे `dāsyéthe` दास्यध्वे `dāsyádhve`
+- 3 दास्यति `dāsyáti` दास्यतस् `dāsyátas` दास्यन्ति `dāsyánti`
+  - दास्यते `dāsyáte`दास्येते `dāsyéte` दास्यन्ते `dāsyánte`
 
-s\.
-
-d\.
-
-p\.
-
-s\.
-
-d\.
-
-p\.
-
-1
-
-दास्यामि  
-`dāsyā́mi`
-
-दास्यावस्  
-`dāsyā́vas`
-
-दास्यामस्  
-`dāsyā́mas`
-
-दास्ये  
-`dāsyé`
-
-दास्यावहे  
-`dāsyā́vahe`
-
-दास्यामहे  
-`dāsyā́mahe`
-
-2
-
-दास्यसि  
-`dāsyási`
-
-दास्यथस्  
-`dāsyáthas`
-
-दास्यथ  
-`dāsyátha`
-
-दास्यसे  
-`dāsyáse`
-
-दास्येथे  
-`dāsyéthe`
-
-दास्यध्वे  
-`dāsyádhve`
-
-3
-
-दास्यति  
-`dāsyáti`
-
-दास्यतस्  
-`dāsyátas`
-
-दास्यन्ति  
-`dāsyánti`
-
-दास्यते  
-`dāsyáte`
-
-दास्येते  
-`dāsyéte`
-
-दास्यन्ते  
-`dāsyánte`
-
-1
-
-करिष्यामि  
-`kariṣyā́mi`
-
-करिष्यावस्  
-`kariṣyā́vas`
-
-करिष्यामस्  
-`kariṣyā́mas`
-
-करिष्ये  
-`kariṣyé`
-
-करिष्यावहे  
-`kariṣyā́vahe`
-
-करिष्यामहे  
-`kariṣyā́mahe`
-
-etc.
-
-etc.
-
-etc.
-
-etc.
-
-etc.
-
+- करिष्यामि `kariṣyā́mi` करिष्यावस् `kariṣyā́vas` करिष्यामस् `kariṣyā́mas`
+- करिष्ये `kariṣyé` करिष्यावहे `kariṣyā́vahe` करिष्यामहे `kariṣyā́mahe`
 etc.
 
 a\. In the epics are found occasional cases of 1st du. and pl. in `va`
@@ -259,7 +158,7 @@ as it does also in the aorist and elsewhere.
 
 937\. This future is comparatively rare in the oldest language — in
 part, apparently, because the uses of a future are to a large extent
-answered by subjunctive forms — but becomes more and more common later.
+answered by subjunctive+++(=आशीः)+++ forms — but becomes more and more common later.
 Thus, the RV. has only seventeen occurrences of personal forms, from
 nine different roots (with participles from six additional roots); the
 AV. has fifty occurrences, from twenty-five roots (with participles from
@@ -267,11 +166,11 @@ seven more); but the TS. has occurrences (personal forms and participles
 together) from over sixty roots; and forms from more than a hundred and
 fifty roots are quotable from the older texts.
 
-Modes of the `s`-future.
+### Modes of the `s`-future.
 
 938\. Mode-forms of the future are of the utmost rarity. The only
 example in the older language is `kariṣyā́s`, 2d sing. subj. act.,
-occurring once (or twice) in RV. (AB. has once `notsyāvahāi`, and GB.
+occurring once (or twice) in RV. (AB.) has once `notsyāvahāi`, and GB.
 has `eṣyāmahāi, taṅsyāmahāi, sthāsyāmahāi`, but they are doubtless false
 readings for -`he`. Two or three optative forms are found in the epics:
 thus, `dhakṣyet` and `maṅsyeran` (MBh.), and `drakṣyeta` (R.); also an
@@ -284,7 +183,7 @@ question whether these are to be accounted a real imperative formation,
 or an epic substitution of secondary for primary endings (compare 542
 a).
 
-Participles of the `s`-future.
+### Participles of the `s`-future.
 
 939\. Participles are made from the future-stem precisely as from a
 present-stem in अ `a`: namely, by adding in the active the ending न्त्
@@ -301,7 +200,7 @@ extremely rare: see above, 449 e,f.
 b\. In RV. occurs once `sū́ṣyantī`, from √`sū`, with anomalous
 accentuation.
 
-Preterit of the `s`-future: Conditional.
+### Preterit of the `s`-future: Conditional.
 
 940\. From the future-stem is made an augment-preterit, by prefixing the
 augment and adding the secondary endings, in precisely the same manner
@@ -315,117 +214,21 @@ haben*.
 
 b\. Thus, from the roots already instanced:
 
-active.
+- active. s\. d\.  p\.
+  - middle. s\. d\.  p\.
+- 1  अदास्यम्   `ádāsyam`  अदास्याव   `ádāsyāva`  अदास्याम   `ádāsyāma`  
+  - अदास्ये   `ádāsye`  अदास्यावहि   `ádāsyāvahi`  अदास्यामहि   `ádāsyāmahi`   
+- 2  अदास्यस्   `ádāsyas`  अदास्यतम्   `ádāsyatam`  अदास्यत   `ádāsyata`  
+  - अदास्यथास्   `ádāsyathās`  अदास्येथाम्   `ádāsyethām`  अदास्यध्वम्   `ádāsyadhvam`  
+- 3  अदास्यत्   `ádāsyat`  अदास्यताम्   `ádāsyatām`  अदास्यन्   `ádāsyan`  
+  - अदास्यत   `ádāsyata`  अदास्येताम्   `ádāsyetām`  अदास्यन्त   `ádāsyanta` 
 
-middle.
-
-s\.
-
-d\.
-
-p\.
-
-s\.
-
-d\.
-
-p\.
-
-1
-
-अदास्यम्  
-`ádāsyam`
-
-अदास्याव  
-`ádāsyāva`
-
-अदास्याम  
-`ádāsyāma`
-
-अदास्ये  
-`ádāsye`
-
-अदास्यावहि  
-`ádāsyāvahi`
-
-अदास्यामहि  
-`ádāsyāmahi` 
-
-2
-
-अदास्यस्  
-`ádāsyas`
-
-अदास्यतम्  
-`ádāsyatam`
-
-अदास्यत  
-`ádāsyata`
-
-अदास्यथास्  
-`ádāsyathās`
-
-अदास्येथाम्  
-`ádāsyethām`
-
-अदास्यध्वम्  
-`ádāsyadhvam`
-
-3
-
-अदास्यत्  
-`ádāsyat`
-
-अदास्यताम्  
-`ádāsyatām`
-
-अदास्यन्  
-`ádāsyan`
-
-अदास्यत  
-`ádāsyata`
-
-अदास्येताम्  
-`ádāsyetām`
-
-अदास्यन्त  
-`ádāsyanta`
-
-1
-
-अकरिष्यम्  
-`ákariṣyam`
-
-अकरिष्याव  
-`ákariṣyāva`
-
-अकरिष्याम  
-`ákariṣyāma`
-
-अकरिष्ये  
-`ákariṣye`
-
-अकरिष्यावहि  
-`ákariṣyāvahi`
-
-अकरिष्यामहि  
-`ákariṣyāmahi`
-
-etc.
-
-etc.
-
-etc.
-
-etc.
-
-etc.
-
-etc.
+- 1  अकरिष्यम्   `ákariṣyam`  अकरिष्याव   `ákariṣyāva`  अकरिष्याम   `ákariṣyāma`  
+  - अकरिष्ये   `ákariṣye`  अकरिष्यावहि   `ákariṣyāvahi`  अकरिष्यामहि   `ákariṣyāmahi` etc.
 
 941\. The conditional is the rarest of all the forms of the Sanskrit
 verb. The RV. has but a single example, `ábhariṣyat` *was going to carry
-off*, and none of the Vedic texts furnishes another. In the Brāhmaṇas it
+off*, and none of the Vedic texts furnishes another.+++(5)+++- In the Brāhmaṇas it
 is hardly more common — except in ÇB., where it is met with more than
 fifty times. Nor does it, like the future, become more frequent later:
 not an example occurs in Nala, Bhagavad-Gītā, or Hitopadeça; only one in
