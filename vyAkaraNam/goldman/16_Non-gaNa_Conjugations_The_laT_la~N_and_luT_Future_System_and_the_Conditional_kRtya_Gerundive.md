@@ -178,7 +178,7 @@ Participle Stem vai (P) दास्यन्त
 
 16.10
 
-अतिपत्तौ लङ् : The Conditional Classical Sanskrit has a special tense formation specifically reserved for hypotheses or situations contrary to fact. This is called 3ta4all 25, or "25 in the sense of nonexistence, non coming to pass (31104fet:)." This is actually of rather rare oc currence and is included here only because its formation, once the 2 is learned, presents no difficulty whatever. The 25 is formed from the future stem, exactly as the 5 (imperfect) is formed from the present stem. The stem is pre ceded by the augment 37 and followed by the appropriate sec ondary ending (8.9). A few examples will suffice: Root
+अतिपत्तौ लृङ् : The Conditional Classical Sanskrit has a special tense formation specifically reserved for hypotheses or situations contrary to fact. This is called 3ta4all 25, or "25 in the sense of nonexistence, non coming to pass (31104fet:)." This is actually of rather rare oc currence and is included here only because its formation, once the 2 is learned, presents no difficulty whatever. The 25 is formed from the future stem, exactly as the 5 (imperfect) is formed from the present stem. The stem is pre ceded by the augment 37 and followed by the appropriate sec ondary ending (8.9). A few examples will suffice: Root
 
 लट् लङ् गम् (P) (go) गमिष्यति अगमिष्यत् (he would have gone) भाष (A) (speak) भाषिष्यते अभाषिष्यत (he would have spoken) Vत्यज् (P) (leave) त्यक्ष्यति अत्यक्ष्यत् (he would have left)
 
@@ -186,9 +186,7 @@ The form, when it occurs, is used in reference to situations that are hypothetic
 
 16.11 386 ( a) Hoteles ce : The Periphrastic Future
 
-The second of the two future formations is considerably less common. Its formation is peculiar in that it is periphrastic, or made up of two distinct forms. One of these forms is nominal and one verbal. This peculiarity is enhanced by the fact that in the most frequently used person, the gems, the finite verbal
-
-form is omitted. 16.12 Formation of the e
+The second of the two future formations is considerably less common. Its formation is peculiar in that it is periphrastic, or made up of two distinct forms. One of these forms is nominal and one verbal. This peculiarity is enhanced by the fact that in the most frequently used person, the gems, the finite verbal form is omitted. 16.12 Formation of the e
 
 a. The C of a given verbal root, except in the ho form,
 
