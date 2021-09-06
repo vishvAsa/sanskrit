@@ -6597,7 +6597,7 @@ reality, truth
 
 सेव Vsev (1Ā)-attend on, serve सेवित sevita (adj)—served
 
-## 11 Stems in -अन्त; Adjectival Suffixes in-मन्त् and -वन्तः The क्तवतु (Past Active Participle); । The त्वान्त/ल्यबन्त (Gerund); The लोट् (Imperative)
+## 11 Stems in -अन्त; Adjectival Suffixes in-मन्त् and -वन्तः The क्तवतु (Past Active Participle); । The त्वान्त, ल्यबन्त (Gerund); The लोट् (Imperative)
 
 11.0
 
