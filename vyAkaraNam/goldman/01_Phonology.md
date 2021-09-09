@@ -34,7 +34,14 @@ or "pa" varga, named either for the point of articulation or the initial sound i
 
 (-V-A) (-V+A) (+V-A) (+V+A] The varga-s then are: (with vowel "a" to permit articulation)
 
--V-A -V+A +V-A +V+A NASAL 1. kanthya ka kha ga gha na 2. tālavya ca cha ja jha ña 3. mūrdhanya ţa ţha da dha ņa 4. dantya ta t ha da dha na 5. oșthya . pa pha ba bha ma Most of these sounds occur in some environments in the various dialects of English. Thus, for example, most English speakers habitually use a somewhat retroflex "t" and "d." Others use a more dental "t" and "d," but since no one English dialect is apt to use both (i.e., make a distinction), some care is required in learning to distinguish, both in hearing and speaking, the two different series. (See 1.186.1.c-d for pronunciation.) The other major problem that English speakers are likely to encounter with the sparsa-sounds arises from the juxtaposition of the phenomena of voicing and aspiration. English speakers maintain distinctions of aspiration and non-aspiration, but these distinctions are intimately related to the question of voicing and position. Thus, for example, non-voiced stops (sparśa-s) in English are generally aspirated when in word-initial position,
+-V-A -V+A +V-A +V+A NASAL 
+1. kanthya ka kha ga gha ṅa 
+2. tālavya ca cha ja jha ña 
+3. mūrdhanya ţa ţha da dha ņa 
+4. dantya ta t ha da dha na 
+5. oșthya . pa pha ba bha ma 
+
+Most of these sounds occur in some environments in the various dialects of English. Thus, for example, most English speakers habitually use a somewhat retroflex "t" and "d." Others use a more dental "t" and "d," but since no one English dialect is apt to use both (i.e., make a distinction), some care is required in learning to distinguish, both in hearing and speaking, the two different series.+++(5)+++ (See 1.186.1.c-d for pronunciation.) The other major problem that English speakers are likely to encounter with the sparsa-sounds arises from the juxtaposition of the phenomena of voicing and aspiration.+++(5)+++ English speakers maintain distinctions of aspiration and non-aspiration, but these distinctions are intimately related to the question of voicing and position. Thus, for example, non-voiced stops (sparśa-s) in English are generally aspirated when in word-initial position,
 
 1.11
 
@@ -114,7 +121,7 @@ produced with the tongue-tip further back in the mūrdhanya position) than for t
 
 c. additional sounds The following two sounds, although they frequently are the forms taken by certain consonants in certain environments, are not, themselves, consonants. Rather they generally are to be regarded as "colorations" of a preceding vowel. 
 
-  - 1. m anusvāra: This sound is realized by permitting the air used in the articulation of a preceding vowel to escape through the nose. If, however, the anusvāra is immediately followed by a sparsa consonant, it will be realized as the nasal belonging to the same varga as that consonant: e.g., vanam gacchati would be pronounced "vanañ gacchati." 
+  - 1. m anusvāra: This sound is realized by permitting the air used in the articulation of a preceding vowel to escape through the nose. If, however, the anusvāra is immediately followed by a sparsa consonant, it will be realized as the nasal belonging to the same varga as that consonant: e.g., vanam gacchati would be pronounced "vanaṅ gacchati." 
   - 2. h visarga: The visarga is an aspiration of a preceding vowel and is pronounced, almost like an echo, as an "h" followed by the short form of the preceding vowel. The samyukta vowels e ando will echo as themselves, respectively. After long samyukta vowels, the "echo" vowel will be the short form of the simple vowel corresponding in point of articulation to the samyukta vowel. Thus, for ai the "echo" will be i, while for au, the echo will be u. The following are some examples. Echo sounds are put in brackets. devah
 
 pronounced as deva(ha) devāh
