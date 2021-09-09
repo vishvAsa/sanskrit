@@ -112,13 +112,10 @@ less than that used for English v (as in "vile") 3. ūşman sounds
 
 produced with the tongue-tip further back in the mūrdhanya position) than for the śș, but giving a very similar sound. like the s in "so" like the h in "hope.” Make sure that the sound is fully voiced.
 
-c. additional sounds The following two sounds, although they frequently are the forms taken by certain consonants in certain environments, are not, themselves, consonants. Rather they generally are to be regarded as "colorations" of a preceding vowel. 1. m anusvāra: This sound is realized by permitting the air
+c. additional sounds The following two sounds, although they frequently are the forms taken by certain consonants in certain environments, are not, themselves, consonants. Rather they generally are to be regarded as "colorations" of a preceding vowel. 
 
-used in the articulation of a preceding vowel to escape through the nose. If, however, the anusvāra is immediately followed by a sparsa consonant, it will be realized as the nasal belonging to the same varga as that consonant: e.g., vanam gacchati would be
-
-pronounced "vanañ gacchati." 2. h visarga: The visarga is an aspiration of a preceding
-
-vowel and is pronounced, almost like an echo, as an "h" followed by the short form of the preceding vowel. The samyukta vowels e ando will echo as themselves, respectively. After long samyukta vowels, the "echo" vowel will be the short form of the simple vowel corresponding in point of articulation to the samyukta vowel. Thus, for ai the "echo" will be i, while for au, the echo will be u. The following are some examples. Echo sounds are put in brackets. devah
+  - 1. m anusvāra: This sound is realized by permitting the air used in the articulation of a preceding vowel to escape through the nose. If, however, the anusvāra is immediately followed by a sparsa consonant, it will be realized as the nasal belonging to the same varga as that consonant: e.g., vanam gacchati would be pronounced "vanañ gacchati." 
+  - 2. h visarga: The visarga is an aspiration of a preceding vowel and is pronounced, almost like an echo, as an "h" followed by the short form of the preceding vowel. The samyukta vowels e ando will echo as themselves, respectively. After long samyukta vowels, the "echo" vowel will be the short form of the simple vowel corresponding in point of articulation to the samyukta vowel. Thus, for ai the "echo" will be i, while for au, the echo will be u. The following are some examples. Echo sounds are put in brackets. devah
 
 pronounced as deva(ha) devāh
 

@@ -452,7 +452,7 @@ b. In a small number of words, mostly of rare occurrence, the
 reduplicated root is used without suffix.
 
 c\. The Vedic cases are: with simple reduplication, `sasyád`, `cikít`,
-`dadṛ́h`, `didyú` and `didyút`, `juhū́`, and perhaps `gán̄gā` and `çíçu`;
+`dadṛ́h`, `didyú` and `didyút`, `juhū́`, and perhaps `gán̄gā` and `śíśu`;
 with intensive reduplication, -`nenī́`, `malimluc`, `yavīyúdh`, and
 `jógū` and `vánīvan` (with the intensive instead of the usual radical
 accent). In `dáridra` is seen a transfer to the `a`-declension. `Asūsū́`
@@ -464,7 +464,7 @@ added (383f–h).
 e\. Examples have been given at the place just quoted. In `jágat` the
 `t` is added to the mutilated form of √`gam` reduplicated, and `ṛṇayā́t`
 (TS., once) appears to put it after a long vowel. In a single instance,
-`çrútkarṇa` (RV.) *of listening ears*, a stem of this class occurs as
+`śrútkarṇa` (RV.) *of listening ears*, a stem of this class occurs as
 prior member of a compound.
 
 f\. Words of this form in combination with verbal prefixes are very
@@ -487,7 +487,7 @@ but in part they have been individualized into more special senses.
 235, 240). These are the great majority, being more than twice as
 numerous as all others together.
 
-b\. Many *nomina actionis*: as, `çráma` *weariness*, `gráha` *seizure*,
+b\. Many *nomina actionis*: as, `śráma` *weariness*, `gráha` *seizure*,
 `áya` *movement*, `véda` *knowledge*, `háva` *call*, `kródha` *wrath*,
 `jóṣa` *enjoyment*, `tára` *crossing*, `sárga` *emission*.
 
@@ -503,10 +503,10 @@ that, taken in connection with kindred facts as to other suffixes, it
 hints at such a difference of accent as a general tendency of the
 language. A few sporadic instances are met with of the same form having
 the one or the other value according to its accent: thus, `éṣa` *haste*,
-`eṣá` *hasting;* `çā́sa` *order*, `çāsá` *orderer* (other examples are
-`coda`, `çāka`, `çoka`: compare a similar difference with other
+`eṣá` *hasting;* `śā́sa` *order*, `śāsá` *orderer* (other examples are
+`coda`, `śāka`, `śoka`: compare a similar difference with other
 derivatives in `as`, `ana`, `an`, `man`). But exceptions are numerous —
-thus, for example, `jayá`, `javá`, `smará`, action-nouns; `çráva`,
+thus, for example, `jayá`, `javá`, `smará`, action-nouns; `śráva`,
 `mógha`, `stáva`, agent-nouns — and the subject calls for a much wider
 and deeper investigation than it has yet received, before the
 accentuation referred to can be set up as a law of the language in
@@ -523,23 +523,23 @@ derivation and meaning are quotable with accent on the root-syllable.
 g\. Examples of agent-nouns are: `grābhá` *seizing*, `vāhá` *carrying*,
 `nāyá` *leading*, `jārá` *lover*.
 
-3\. h. With unstrengthened root, the examples are few: e. g. `kṛçá`
+3\. h. With unstrengthened root, the examples are few: e. g. `kṛśá`
 *lean*, `turá` *rapid*, `yugá` *yoke*, `sruvá` *spoon*, `priyá` *dear*,
-`vrá` *troop*, `çucá` bright.
+`vrá` *troop*, `śucá` bright.
 
 i\. A number of words of this class, especially as occurring in
 composition, are doubtless results of the transfer of root-stems to the
-a-declension: e. g. -`ghuṣa`, -`sphura`, -`tuda`, -`dṛça`, -`vida`,
+a-declension: e. g. -`ghuṣa`, -`sphura`, -`tuda`, -`dṛśa`, -`vida`,
 -`kira`.
 
 j\. A few `a`-stems are made, especially in the older language, from
 conjugation-stems, mostly causative: thus, -`āmaya`, `ilaya`,
--`in̄khaya`, -`ejaya`, -`dhāraya`, -`pāraya`, -`mṛḍaya`, -`çamaya`
+-`in̄khaya`, -`ejaya`, -`dhāraya`, -`pāraya`, -`mṛḍaya`, -`śamaya`
 (compare the `ā`-stems, 1149 c,d); also desiderative, as `bībhatsa`
 (compare 1038). Occasional examples also occur from tense-stems: thus,
 from `nu`-stems, or secondary stems made from such, `hinvá`, -`inva`,
--`jinva`, -`pinva`, -`sinva`, -`sunva`, -`açnuva`; from others, -`pṛṇa`,
--`mṛṇa`, -`stṛṇa`, -`puna`, -`jāna`, -`paçya`, -`manya`, -`dasya`,
+-`jinva`, -`pinva`, -`sinva`, -`sunva`, -`aśnuva`; from others, -`pṛṇa`,
+-`mṛṇa`, -`stṛṇa`, -`puna`, -`jāna`, -`paśya`, -`manya`, -`dasya`,
 -`jurya`, -`kṣudhya`, -`sya`, -`tiṣṭha`, -`jighra`, -`piba`; from
 future-stems, `kariṣya` (JB.), `janiṣya`, `bhaviṣya`, `ruciṣya` (?);
 apparently from aorist-stems, `jeṣá`, `néṣa`-, `parṣá`, `pṛkṣá` (?),
@@ -548,15 +548,15 @@ apparently from aorist-stems, `jeṣá`, `néṣa`-, `parṣá`, `pṛkṣá` (?
 4\. k. Derivatives in a from a reduplicated root-form are a considerable
 class, mostly occurring in the older language. They are sometimes made
 with a simple reduplication: thus, `cacará`, `cikita`, `dṛdhrá`,
-`dadhṛṣá`, `babhasa`, -`babhra`, `vavrá`, `çiçayá`, `çiçnátha` (an
+`dadhṛṣá`, `babhasa`, -`babhra`, `vavrá`, `śiśayá`, `śiśnátha` (an
 action-noun), `sasrá`; but oftener with an intensive reduplication:
 thus, merely strengthened, `cākṣmá`, -`cācala`, `jāgara`, `nānada`,
 `lālasa`, `vīvadhá` (?), -`memiṣa`, `rerihá` and `leliha`, `vevijá`,
 `nonuva`, `momughá`, -`roruda`, `lolupa`; with consonant added,
--`can̄kaça`-, -`can̄krama`, `jan̄gama`, `cañcala`, -`jañjapa`, `dandhvana`,
+-`can̄kaśa`-, -`can̄krama`, `jan̄gama`, `cañcala`, -`jañjapa`, `dandhvana`,
 -`nannama`, -`jarjalpa`, `jarjara`, -`tartura`, -`dardira`, `múrmura`,
 `gadgada`; dissyllabic, -`karikra`, `kanikradá`, `carācará` and
-`calācalá`, `marīmṛçá`, `malimlucá`, `varīvṛtá`, `sarīsṛpá`,
+`calācalá`, `marīmṛśá`, `malimlucá`, `varīvṛtá`, `sarīsṛpá`,
 `paniṣpadá`, `saniṣyadá`, `sanisrasá`, `patāpata`, `madāmada`,
 -`vadāvada`, `` `ghanāghaná`. Many of these are to be regarded as from
 an intensive conjugation-stem; but some of them show a form not met with
@@ -571,7 +571,7 @@ with few exceptions, on the ending — and that, without any reference to
 the value of the stem as action-noun or agent-noun.
 
 m\. Examples are: `saṁgamá` *assembly*, `nimeṣá` *wink*, `abhidrohá`
-*enmity*, `anukará` *assistance*, `udāná` *inspiration*, `pratyāçrāvá`
+*enmity*, `anukará` *assistance*, `udāná` *inspiration*, `pratyāśrāvá`
 *response*; — `paricará` *wandering*, `saṁjayá` *victorious*, `vibodhá`
 *wakeful*, `atiyājá` *over-pious*, `udārá` *inciting, elevated*,
 `uttudá` *rousing*, `saṁgirá` *swallowing*, `ādardirá` *crushing*,
@@ -580,10 +580,10 @@ m\. Examples are: `saṁgamá` *assembly*, `nimeṣá` *wink*, `abhidrohá`
 n\. The only definite class of exceptions in regard to accent appears to
 be that of the adverbial gerunds in `am` (above, 995), which are
 accented on the root-syllable. A very few other stems have the same
-tone: for example, `utpā́ta` *portent*, `āçréṣa` *plague*. A few others,
+tone: for example, `utpā́ta` *portent*, `āśréṣa` *plague*. A few others,
 mostly agent-nouns, have the accent on the prefix: for example, `vyòṣa`
-(i. e. `ví-oṣa`) *burning*, `prátiveça` *neighbor*, `ā́bhaga` *sharing*;
-but also `sáṁkāça` *appearance*.
+(i. e. `ví-oṣa`) *burning*, `prátiveśa` *neighbor*, `ā́bhaga` *sharing*;
+but also `sáṁkāśa` *appearance*.
 
 o\. For the remaining compounds of these derivatives, with the
 inseparable prefixes and with other elements, see the next chapter. It
@@ -607,8 +607,8 @@ aspect; though they are doubtless in part transfers from the root-noun
 (1147). Usually they show an unstrengthened form of root, and (such as
 occur in accented texts) an accented suffix.
 
-b. Examples are `īçā́` *lordship*, `krīdā́` *play*, `dayā́` *pity*,
-`nindā́` *reproach*, `çan̄kā́` *doubt*, `hiṅsā` *injury*, `kṣamā`
+b. Examples are `īśā́` *lordship*, `krīdā́` *play*, `dayā́` *pity*,
+`nindā́` *reproach*, `śan̄kā́` *doubt*, `hiṅsā` *injury*, `kṣamā`
 *patience*, `kṣudhā` *hunger*, `bhāṣā` *speech*, `sevā` *service*,
 `spṛhā` *eagerness*.
 
@@ -619,11 +619,11 @@ d\. Thus, especially from desiderative stems, as `jigīṣā́`, `bhikṣā́`,
 `vīrtsā́`, `bībhatsā́`, etc. (see 1038); in the formation of periphrastic
 perfects, especially from causative stems, but also from desiderative
 and intensive, and even from primary present-stems (1071 c–f); from
-denominative stems, in the older language, as `açvayā́`, `sukratūyā́`,
-`apasyā́`, `uruṣyā́`, `asūyā́`, `açanayā́`, `jīvanasyā́`, etc., and quite
+denominative stems, in the older language, as `aśvayā́`, `sukratūyā́`,
+`apasyā́`, `uruṣyā́`, `asūyā́`, `aśanayā́`, `jīvanasyā́`, etc., and quite
 rarely in the later, as `mṛgayā`.
 
-e\. The only example from a reduplicated stem is the late `paspaçā`; for
+e\. The only example from a reduplicated stem is the late `paspaśā`; for
 `sūṣā́`, `ján̄ghā`, and `jihvā́`, which have a reduplicated aspect, are of
 doubtful origin. From present-stems come `icchā` and probably -`ṛcchā`.
 
@@ -652,18 +652,18 @@ c\. With `guṇa`-strengthening: examples of action-nouns are `sádana`
 
 d\. With `vṛddhi`-strengthening (only in such circumstances that `ā`
 remains as vowel of the radical syllable): examples are -`cā́tana`,
-`nā́çana`, `mā́dana`, -`vā́cana`, -`vā́sana`, -`vā́hana`, `sā́dana`,
--`spā́çana`, `svā́dana`, -`ā́yana`, -`yā́vana`, -`srāvaṇa`, -`pā́raṇa`.
+`nā́śana`, `mā́dana`, -`vā́cana`, -`vā́sana`, -`vā́hana`, `sā́dana`,
+-`spā́śana`, `svā́dana`, -`ā́yana`, -`yā́vana`, -`srāvaṇa`, -`pā́raṇa`.
 
 e\. From roots with prefixes, the derivatives of this formation are very
 numerous, being exceeded in frequency only by those made with the
 suffix `a` (above, 1148 l, m). A few examples are: `ākrámaṇa` *striding
 on*, `udyā́na` *upgoing*, `nidhā́na` *receptacle*, `prā́ṇana` *expiration*,
 `vimócana` *release* and *releasing*, `saṁgámana` *assembly* and
-*assembler*, `adhivikártana` *cutting off*, `avaprabhráṅçana` *falling
+*assembler*, `adhivikártana` *cutting off*, `avaprabhráṅśana` *falling
 away down*. For other compounds of these derivatives, showing the same
 accent (and the same feminine stem), see the next chapter (below, 1271).
-A few exceptions occur: `vicakṣaṇá`, `upariçayaná`, and the feminines
+A few exceptions occur: `vicakṣaṇá`, `upariśayaná`, and the feminines
 `pramandanī́` and `nirdahanī́`.
 
 f\. The adjectives of this formation, simple or compound, make their
@@ -679,18 +679,18 @@ feminine in `ā`: thus, `sūpasarpaṇā́` *of easy approach*, `ṣáḍvidhān
 g\. With accent on the final: a number of agent-nouns and adjectives, as
 `karaṇá` *active* (against `káraṇa` *act*), `kṛpaṇá` *miserable*
 (against `kṛpáṇa` *misery*), `tvaraṇá` *hasting*, `rocaná` *shining*,
-`kroçaná` *yelling*, `svapaná` *sleepy*, `kṣayaṇá` *habitable*.
+`krośaná` *yelling*, `svapaná` *sleepy*, `kṣayaṇá` *habitable*.
 
 h\. These, unlike the preceding class, make their feminine in `ā`: e. g.
 `tvaraṇā́`, `spandanā́`. A few feminine action-nouns in the older language
-have the same form: thus, `açanā́`, `asanā́`, `mananā́`, `dyotanā́`,
-`rodhanā́`, `çvetanā́`, `hasanā́` (and compare `kapanā́`, `raçanā́`); those
+have the same form: thus, `aśanā́`, `asanā́`, `mananā́`, `dyotanā́`,
+`rodhanā́`, `śvetanā́`, `hasanā́` (and compare `kapanā́`, `raśanā́`); those
 of the later language in `anā` (rather numerous) are doubtful as regards
 accent.
 
 i\. Beside these may be mentioned a few feminines in `anī́`, of more or
 less doubtful character: `arṣaṇī́`, `cetanī́` (to `cétana`), `tapanī́` (to
-`tápana`), `pṛçanī́`, `vṛjanī́` (with `vṛjána`), `rajanī`, `tedanī́`.
+`tápana`), `pṛśanī́`, `vṛjanī́` (with `vṛjána`), `rajanī`, `tedanī́`.
 
 j\. With accent on the penult: a small number of adjectives: as `turáṇa`
 *hasting*, `dohána` *milking*, `manána` *considerate*, `bhandánā` and
@@ -703,12 +703,12 @@ town*, `veṣáṇa` *service*, `kṛpáṇa` *misery* (against `kṛpaṇá`
 k\. The only noticed example of a feminine is in `ā`: `turáṇā`. And a
 few feminine nouns have the same form: `arháṇā`, `jaráṇā`, `barháṇā`,
 `bhandánā`, `maṅhánā`, `mehánā`, `vadhánā`, `vanánā`, `vakṣáṇā`. (And
-compare the anomalous masc. name `uçánā`: 355 a.)
+compare the anomalous masc. name `uśánā`: 355 a.)
 
 l\. Without strengthening of the root are made a small number of
 derivatives: thus (besides those already noted, `kṛpáṇa` and `kṛpaṇá`,
 `vṛjána` and `vṛjanī́`, `kiráṇa`, `turáṇa`), further accented examples
-are `úraṇa`, `dhúvana`, `pṛ́çana`, `bhúvana`, `vṛ́jana`, `vṛ́ṣaṇa`,
+are `úraṇa`, `dhúvana`, `pṛ́śana`, `bhúvana`, `vṛ́jana`, `vṛ́ṣaṇa`,
 -`súvana`; and later are found `sphuraṇa`, `sphuṭana`, `spṛhaṇa`,
 -`hnuvana`, `likhana`, `rudana`, etc. RV. makes denominatives from
 `riṣaṇa`-, `ruvaṇa`-, `vipana`-, `huvana`-.
@@ -716,12 +716,12 @@ are `úraṇa`, `dhúvana`, `pṛ́çana`, `bhúvana`, `vṛ́jana`, `vṛ́ṣa
 m. Stems in `ana` are made also from secondary conjugation-stems: thus,
 from desideratives, as `cikitsana` (see 1038); from causatives, as
 `hāpana`, `bhīṣaṇa` (see 1051 g); from denominatives, with great
-freedom, in the later language, as `ākarṇana`, `unmūlana`, `çlakṣṇana`,
+freedom, in the later language, as `ākarṇana`, `unmūlana`, `ślakṣṇana`,
 `cihnana`; from intensives and other reduplicated stems, only
 `can̄kramaṇa`, `jan̄gamana`, `jāgaraná`, `yoyupana`.
 
 n\. A few isolated cases may be further mentioned: from tense-stems,
--`jighraṇa`, -`ūrṇavana`, -`paçyana`, `yacchana`, -`siñcana`; from
+-`jighraṇa`, -`ūrṇavana`, -`paśyana`, `yacchana`, -`siñcana`; from
 prepositions, `antaraṇa` and `sámana`; `astamana` from the quasi-prefix
 (1092 b) `astam`. Feminines in `anā` of doubtful connection are `yóṣaṇā`
 *woman* (beside `yóṣan`, `yoṣā`, etc.) and `pṛ́tanā`.
@@ -739,14 +739,14 @@ have for the most part the accent on the suffix.
 
 1\. b. Examples of the first and principal class are: `ávas` *aid,
 favor*, `tápas` *warmth*, `práyas` *pleasure*, `téjas` *splendor*,
-`çrávas` *fame*, `dóhas` *milking*, `káras` *deed*, `práthas` *breadth*,
+`śrávas` *fame*, `dóhas` *milking*, `káras` *deed*, `práthas` *breadth*,
 `cétas` and `mánas` *mind*, `cákṣas` *eye*, `sáras` *pond*, `vácas`
 *speech*.
 
 c\. A few words of this class are of irregular formation: thus, without
 strengthening of the root, `júvas` *quickness* (beside `jávas`), `úras`
 *breast*, `mṛ́dhas` *contempt;* and `iras`- (`irasy`-) and `vipas`-, and
-the adverbs `tirás`, `mithás`, `huras`-, also `çíras` *head*, are to be
+the adverbs `tirás`, `mithás`, `huras`-, also `śíras` *head*, are to be
 compared; — with `vṛddhi`-strengthening, -`vā́cas`, `vā́sas`, `vā́has`,
 -`svādas`, and, of doubtful connections, `pā́jas`, `pā́thas`, and
 -`hāyas`; — perhaps with an aoristic `s`, `héṣas` *missile;* — `pī́vas`
@@ -761,16 +761,16 @@ and `dā`.
 
 2\. e. The instances in which an agent-noun is differentiated by its
 accent from an action-noun are: `ápas` *work*, and `apás` *active;*
-`yáças` *beauty*, and `yaçás` *beauteous;* `táras` *quickness*, and
+`yáśas` *beauty*, and `yaśás` *beauteous;* `táras` *quickness*, and
 `tarás` (VS., once) *quick;* `távas` *strength*, and `tavás` *strong;*
 `dúvas` *worship*, and `duvás` *lively (?);* `máhas` *greatness*, and
 `mahás` *great;* between `rákṣas` n. and `rakṣás` m., both meaning
 *demon*, and between `tyájas` n. *abandonment (?)* and `tyajás` m.
 *descendant (?)*, the antithesis is much less clear.
 
-f\. Adjectives in `ás` without corresponding abstracts are: `toçás`
+f\. Adjectives in `ás` without corresponding abstracts are: `tośás`
 *bestowing*, `yajás` *offering*, `vedhás` *pious*, probably `āhanás`
-*heady;* and a few other words of isolated occurence, as `veçás`,
+*heady;* and a few other words of isolated occurence, as `veśás`,
 `dhvarás`. From a denominative stem is made `mṛgayás` *wild animal*
 (RV., once).
 
@@ -818,7 +818,7 @@ b\. With `nas` are made `ápnas` *acquisition*, `árṇas` *wave*,
 and `párīṇas` *fulness* is apparently to be seen the same suffix, with
 prefixed elements having the present value of union-vowels. Probably the
 same is true of `dámūnas` *house-friend*, and `ṛ́jūnas` (RV.) n. pr.,
-`uçánas` (or -nā) n. pr.
+`uśánas` (or -nā) n. pr.
 
 c\. With `sas` is perhaps made `vápsas` *beauty;* and `tárūṣas` may be
 mentioned with it (rather `tarus`-`a`?). 1153. इस् `is`. With the
@@ -827,11 +827,11 @@ suffix `is` is formed a small number (about a dozen) of nouns.
 a\. They are in part nouns of action, but most are used concretely. The
 radical syllable has the `guṇa`-strengthening, and the accent is on the
 suffix (except in `jyótis` *light*, `vyáthis`, and `ā́mis`, *raw meat*).
-Examples are: `arcís`, `rocís`, and `çocís` *light*, `chadís` or
+Examples are: `arcís`, `rocís`, and `śocís` *light*, `chadís` or
 `chardís` *cover*, `barhís` *straw*, `vartís` *track*, `sarpís`
 *butter*, `havís` *oblation*, `dyotis` *light*, and `kravís` *raw
 flesh*. `Avis`-, `pā́this`, `bhrājis`-, and `máhis`- are isolated
-variants of stems in `as`; and `túvis`-, `çucis`-, and `surabhis`-
+variants of stems in `as`; and `túvis`-, `śucis`-, and `surabhis`-
 appear inorganically for `tuvi` etc. in a few compounds or derivatives.
 
 1154\. उस् `us`. With this suffix are made a few words, of various
@@ -842,7 +842,7 @@ meanings, without difference of accent: thus, `tápus` *heat* and *hot;*
 `árus` *wound* and *sore;* `cákṣus` *brightness* and *seeing, eye;*
 `vápus` *wonderful* and *wonder*. The nouns are mostly neuter, and
 accented on the root-syllable: thus, `ā́yus`, `tárus`, `púrus`, `múhus`
-(? only adverbial), `míthus` (do.), `yájus`, `çā́sus`; exceptions are: in
+(? only adverbial), `míthus` (do.), `yájus`, `śā́sus`; exceptions are: in
 regard to accent, `janús` *birth;* in regard to gender, `mánus` *man*,
 and `náhus`, proper name. Of adjectives, are accented on the ending
 `jayús`, `vanús`, and `dakṣús` *burning* (which appears to attach itself
@@ -859,7 +859,7 @@ demonstrable.
 1\. a. The feminine action-nouns are of very various form: thus, with
 weak root-form, `rúci` brightness, `tvíṣi` *sheen;* `kṛṣí` *ploughing*,
 `nṛtí` *dance;* — with `guṇa`-strengthening (where possible), `rópi`
-*pain*, `çocí` *heat*, `vaní` and `saní` *gain;* — with
+*pain*, `śocí` *heat*, `vaní` and `saní` *gain;* — with
 `vṛddhi`-strengthening, `grā́hi` *seizure*, `dhrā́ji` *course*, `ājí`
 *race;* from √`duṣ` comes `dū́ṣi` (compare `dūṣayati`, 1042 b). The
 variety of accent, which seems reducible to no rule, is illustrated by
@@ -869,20 +869,20 @@ the examples given. The few infinitively used words of this formation
 2\. b. The adjectives and masculine agent-nouns exhibit tho same
 variety. Thus:
 
-c\. With unstrengthened root: `çúci` *bright*, `bhṛ́mi` *lively*
+c\. With unstrengthened root: `śúci` *bright*, `bhṛ́mi` *lively*
 (√`bhram`), `gṛ́bhi` *container*. d. With unstrengthened root (or root
 incapable of `guṇa`-change): `arí` *enemy*, `máhi` *great*, `arcí`
 *beam*, `granthí` *knot*, `krīḍí` *playing;* with `vṛddhi`-increment,
-`kā́rṣi`, `jā́ni`, -`dhāri`, `çā́ri`, `sācí`, `sādi`, -`sāhi`, and a few
-words of obscure connections: thus, `drāpí` *mantle*, `rāçí` *heap*,
-`pāṇí` *hand*, etc. The isolated -`ānaçi` appears to come from the
-perfect-stem (788) of √`aç`.
+`kā́rṣi`, `jā́ni`, -`dhāri`, `śā́ri`, `sācí`, `sādi`, -`sāhi`, and a few
+words of obscure connections: thus, `drāpí` *mantle*, `rāśí` *heap*,
+`pāṇí` *hand*, etc. The isolated -`ānaśi` appears to come from the
+perfect-stem (788) of √`aś`.
 
 e\. With reduplicated root. This is in the older language a considerable
 class, of quite various form. Thus: with weak or abbreviated root,
 `cákri`, `jághri` (√`ghar`), `pápri`, `sásri`, -`amri`, `babhrí`,
 `vavrí`, `jágmi`, -`jájñi` (√`jan`), -`tatni`, `jághni`, `sásni`,
-`súṣvi`, -`çiçvi`; and, with displacement of final `ā` (or its weakening
+`súṣvi`, -`śiśvi`; and, with displacement of final `ā` (or its weakening
 to the semblance of the suffix), `dadí`, `papí`, `yayí` (with a case or
 two from `yayī́`), -`jajñi`, `dádhi`; — from the `ur`-form of roots in
 changeable `ṛ`, `jáguri`, `táturi`, `pápuri` (`púpuri` SV.); — with
@@ -898,7 +898,7 @@ the accusative, like a present participle.
 
 f\. Formations in `i` from the root compounded with prefixes are not at
 all numerous. They are accented usually on the suffix. Examples arc:
-`āyají`, `vyānaçí`, `nijaghní`, `parādadí`, `viṣāsahí`; but also
+`āyají`, `vyānaśí`, `nijaghní`, `parādadí`, `viṣāsahí`; but also
 `ājā́ni`, `āmúri`, `vívavri`. As compounded with other preceding words,
 the adjectives or agent-nouns in `i` are not rare, and are regularly
 accented on the root: see the next chapter, 1276.
@@ -925,8 +925,8 @@ a).
 
 b\. But there are also a few stems in `ī` wearing the aspect of
 independent derivatives. Examples are `dakṣī`, `dehī́`, `nadī́`, `nāndī́`,
-`péṣī`, `vakṣī́` (apparently with aoristic `a`), `veçī́`, `çā́kī`, `çácī`,
-`çámī`, `çímī`, `tarī`, `vāpī`; they are either action-nouns or
+`péṣī`, `vakṣī́` (apparently with aoristic `a`), `veśī́`, `śā́kī`, `śácī`,
+`śámī`, `śímī`, `tarī`, `vāpī`; they are either action-nouns or
 agent-nouns. In the later language (as noticed at 344 a) there is very
 frequent interchange of `i`- and `ī`-stems and the forms from them.
 
@@ -945,14 +945,14 @@ condition of the language it does so only in a minority of cases:
 namely, about fifty, against sixty cases of accent an the radical
 syllable, and a hundred and forty of undetermined accent; a number of
 words — `iti`, `ṛti`, `citti`, `tṛpti`, `pakti`, `puṣṭi`, `bhūti`,
-`bhṛti`, `vṛṣṭi`, `çakti`, `çruṣṭi`, `sṛṣṭi`, `sthiti` — have both
+`bhṛti`, `vṛṣṭi`, `śakti`, `śruṣṭi`, `sṛṣṭi`, `sthiti` — have both
 accentuations.
 
 1\. b. Examples of the normal formation are: `rātí` *gift*, `ūtí` *aid*,
 `rītí` *flow*, `stutí` *praise*, `bhaktí` *division*, `viṣṭí` *service*,
 `stutí` *praise*, `kīrtí` *fame*, `pūrtí` *bestowal*, `matí` *thought*,
 `pītí` *drink* (√`pā`; pple `pīta`), `dhāutí` *stream* (√`dhāv`; pple
-`dhāuta`); — and with accented root, `gáti` *motion*, `çā́ṁti` *repose*,
+`dhāuta`); — and with accented root, `gáti` *motion*, `śā́ṁti` *repose*,
 `díti` *division* (√`dā`; pple `ditá`), `dṛ́ṣṭi` *sight*, `íṣṭi`
 *offering* (√`yaj`: pple `iṣṭá`), `úkti` *speech* (√`vac`: pple `uktá`),
 `vṛ́ddhi` *increase*.
@@ -965,7 +965,7 @@ also in `ni` (below, 1158). And from the roots `tan` and `ran` occur
 `áhanti` (once; VS.) beside `áhati`. From roots having the form `dā`,
 the derivative in composition is sometimes -`tti` (for `dāti`, with loss
 of radical vowel: compare the participle-form -`tta`, above, 955 f):
-thus, `niravatti` (K.), `samprátti` (ÇB.), `páritti` (TB.), `vásutti`,
+thus, `niravatti` (K.), `samprátti` (śB.), `páritti` (TB.), `vásutti`,
 `bhágatti`, `maghátti` (all RV.).
 
 d\. A few derivatives are made from reduplicated roots; their accent is
@@ -994,7 +994,7 @@ root: 900 b), `paṭhiti`, `bhaṇiti`; and with them may be mentioned the
 adjective `ṛ́jīti`, the proper names `turvī́ti` and `dabhī́ti`, and
 `snī́hitī` and `snéhitī`, notwithstanding their long final. With `ati`
 are made a few derivatives, variously accented: thus, the action-nouns
-`aṅhatí`, `dṛçatí`, `pakṣatí`, `mithatí`, `vasatí`, `ramáti`, `vratáti`,
+`aṅhatí`, `dṛśatí`, `pakṣatí`, `mithatí`, `vasatí`, `ramáti`, `vratáti`,
 `amáti` and `ámati`, -`dhrajati`; and the agent-words `aratí`,
 `khalatí`, `vṛkáti`, `rámati`, `dahati`. In some of these is to be seen
 with probability a stem-vowel, as also in `jánayati` and `rasayati` (and
@@ -1007,7 +1007,7 @@ older language: e. g. `étivant` (TB.), `kṣetivant` (AB.), `yajati` and
 h\. In some of the words instanced in the last paragraph, `ti` is
 perhaps applied as a secondary suffix. A kindred character belongs to it
 in the numeral derivatives from pronominal roots, `káti`, `táti`,
-`yáti`, and from numerals, as `daçati`, `viṅçatí`, `ṣaṣṭí`, etc., with
+`yáti`, and from numerals, as `daśati`, `viṅśatí`, `ṣaṣṭí`, etc., with
 `pan̄ktí` (from `páñca`); in `padāti`; and in `addhātí`, from the
 particle `addhā́`.
 
@@ -1022,12 +1022,12 @@ in `ni` instead of `ti`. From the older language are quotable `jyāní`
 *injury*, `jūrní` *heat*, `hāni` *abandonment* (and the masculines
 `ghṛ́ṇi` and `jī́rṇi`); later occur `glāni`, -`mlāni`, `sanni`-.
 
-b\. Words of the other class are: `açni` *eating*, -`uṣṇi` *burning*,
+b\. Words of the other class are: `aśni` *eating*, -`uṣṇi` *burning*,
 `váhni` *carrying*, `jū́rṇi` *singing*, `tū́rṇi` *hasty*, `bhū́rṇi`
 *excited*, `dharṇí` *sustaining*, `preṇí` *loving*, `vṛṣṇí` and `vṛ́ṣṇi`
-*virile;* and with them may be mentioned `pṛ́çni` *speckled*.
+*virile;* and with them may be mentioned `pṛ́śni` *speckled*.
 
-c\. In `preṇí`, `yóni`, `mení`, `çréṇi`, `çróṇi` is seen a strengthening
+c\. In `preṇí`, `yóni`, `mení`, `śréṇi`, `śróṇi` is seen a strengthening
 of the radical syllable, such as does not appear among the derivatives
 in `ti`.
 
@@ -1043,8 +1043,8 @@ value with those made by the preceding suffixes. Their accent is
 various. Thus:
 
 a\. Feminine action-nouns, sometimes with concreted meaning: as, `iṣáṇi`
-*impulse*, `çaráṇi` *injury*, `dyotaní` *brightness*, `kṣipaṇí` *blow*,
-`açáni` *missile*, `vartaní` *track;* and -`arçani`, `udani`-,
+*impulse*, `śaráṇi` *injury*, `dyotaní` *brightness*, `kṣipaṇí` *blow*,
+`aśáni` *missile*, `vartaní` *track;* and -`arśani`, `udani`-,
 `jaraṇi`-.
 
 b\. Adjectives and other agent-words are: `aráṇi` *fire-stick*, `caráṇi`
@@ -1053,7 +1053,7 @@ b\. Adjectives and other agent-words are: `aráṇi` *fire-stick*, `caráṇi`
 `Dharaṇi` and one or two other late words are probably variants to stems
 in `anī`. From a reduplicated root-form comes -`paptani`. From
 desiderative stems are made `rurukṣáṇi`, `siṣāsáni`, and (with prefix)
-`ā-çuçukṣáṇi`. And a small number of words appear to attach themselves
+`ā-śuśukṣáṇi`. And a small number of words appear to attach themselves
 to an `s`-aorist stem: thus, `parṣáṇi`, `sakṣáṇi`, `carṣaṇí`.
 
 c\. It is questionable whether the infinitives in `ṣaṇí` (978) are to be
@@ -1079,7 +1079,7 @@ c\. Agent-nouns (in part of doubtful connection) are: `ukṣán` *ox*,
 `cákṣan` *eye*, `tákṣan` *carpenter*, `dhvasán` proper name, `pūṣán`
 name of a god, `majján` *marrow*, `rā́jan` *king*, `vṛ́ṣan` *virile,
 bull*, `sághan`, `snīhán` (`snūhan` Āpast.); also -`gman`, `jmán`,
--`bhvan`, -`çvan`, with `çván`, `yúvan`, `yóṣan`, and the stems `áhan`,
+-`bhvan`, -`śvan`, with `śván`, `yúvan`, `yóṣan`, and the stems `áhan`,
 `ū́dhan`, etc. (430–4), filling up the inflection of other defective
 stems.
 
@@ -1135,7 +1135,7 @@ b\. Thus: `kṣepnú` *jerk*, `bhānú` *light* (later *sun*), `vagnú`
 c. This also (like `tu`) appears sometimes with a prefixed `a`: thus,
 `kṣipaṇú` *missile*, `krandanú` and `nadanú` *roaring*, `nabhanú` (and
 -`nū́`, f.) *fountain*, `vibhañjanú` (only instance with prefix)
-*breaking to pieces;* and perhaps the proper names `dāsanu` and `kṛçā́nu`
+*breaking to pieces;* and perhaps the proper names `dāsanu` and `kṛśā́nu`
 belong here.
 
 1163\. थ `tha`. The words made with this suffix are almost without
@@ -1145,13 +1145,13 @@ the accent usually on the suffix.
 
 a\. Thus: masc., -`itha` *going*, `ártha` *goal*, -`kṛtha` *making*,
 `gāthá` *song*, `pakthá` n. pr., `bhṛthá` *offering*, -`yātha` *road*,
--`çītha` *lying down*, `çotha` *swelling*, `sīktha` *sediment;* and, of
+-`śītha` *lying down*, `śotha` *swelling*, `sīktha` *sediment;* and, of
 less clear connections, `yūthá` *herd*, `rátha` *chariot;* — neut.,
 `ukthá` *saying*, `tīrthá` *ford*, `nīthá` *song*, `rikthá` *heritage*,
 and apparently `pṛṣṭhá` *back;* — fem. (with `ā`), `gā́thā` *song*,
 `nī́thā` *way*. Radical `ā` is weakened to `ī` in `gī́tha` *song* and
 -`pītha` *drink* and -`pītha` *protection;* a final nasal is lost in
--`gatha` *going* and `hathá` *slaying*. In `vijigīthá` (ÇB.; but BAU.
+-`gatha` *going* and `hathá` *slaying*. In `vijigīthá` (śB.; but BAU.
 -`īta`) is apparently seen a formation from a reduplication of √`jī`,
 *victorious*.
 
@@ -1163,9 +1163,9 @@ which has become prefixed an `á`, which is probably of thematic origin,
 though become a union-vowel. Thus: -`anátha` *breathing*, `ayátha`
 *foot*, `carátha` *mobility*, `tveṣátha` *vehemence*, and so
 `prothátha`, `yajátha`, `ravátha`, `vakṣátha`, `ucátha`, `vidátha`,
-`çaṅsatha`, `çapátha`, `çayátha`, `çvayátha`, `çvasátha`, `sacátha`,
+`śaṅsatha`, `śapátha`, `śayátha`, `śvayátha`, `śvasátha`, `sacátha`,
 `stanátha`, `stavátha`, `sravátha`, and, with weak root-form, `ruvátha`;
-the later language adds `karatha`, `taratha`, `çamatha`, `savatha`. With
+the later language adds `karatha`, `taratha`, `śamatha`, `savatha`. With
 a prefix, the accent is thrown forward upon the final: thus, `āvasathá`
 *abode*, `pravasathá` *absence;* but `prāṇátha` *breath* is treated as
 if prān were an integral root.
@@ -1180,8 +1180,8 @@ to it, and, in the very few derivatives which it makes, appears only as
 
 a\. The only Vedic examples are `ejáthu` *quaking*, `vepáthu`
 *trembling*, `stanáthu` *roaring*. Later cases are `nandáthu` (TS.),
-`nadathu` (U.), `kṣavathu` (S.), `davathu`, `bhraṅçathu`, `majjathu`,
-`vamathu`, `çvayathu`, `sphūrjathu`.
+`nadathu` (U.), `kṣavathu` (S.), `davathu`, `bhraṅśathu`, `majjathu`,
+`vamathu`, `śvayathu`, `sphūrjathu`.
 
 1165\. यु `yu`. With this suffix are made a very few nouns, both of
 agent and of action, with unstrengthened root and various accent. Thus:
@@ -1190,7 +1190,7 @@ a\. Abstracts (masc.) are manyú *wrath*, mṛtyú *death* (with t added to
 the short final of the root).
 
 b\. Adjectives etc. are druhyú n. pr., bhujyú *pliable*, mucyu (GB. i.
-1.7), çundhyú *pure;* yájyu *pious*, sáhyu *strong*, dásyu *enemy;* and,
+1.7), śundhyú *pure;* yájyu *pious*, sáhyu *strong*, dásyu *enemy;* and,
 with vṛddhi-strengthening, jāyú *victorious*.
 
 c\. For other derivatives ending in yu, see the suffix u, below, 1178 h,
@@ -1204,21 +1204,21 @@ a\. Examples of action-nouns are: ajmá *course*, gharmá *heat;* éma
 *progress*, bhā́ma *brightness*, sárna *flow*, stóma *song of praise*.
 
 b\. Examples of agent-nouns etc. are: tigmá *sharp*, bhīmá *terrible*,
-çagmá *mighty*, idhmá *fuel*, yudhmá *warrior*. A single instance from a
+śagmá *mighty*, idhmá *fuel*, yudhmá *warrior*. A single instance from a
 reduplicated root is tūtumá *powerful*. Sarámā f., with a before the
 suffix, is of doubtful connection.
 
 c\. A number of stems in ma have stems in man beside them, and appear,
 at least in part, to be transfers from the an- to the a-declension. Such
 are ajma, oma, ema, arma, tókma, darmá, dhárma, narmá, yā́ma, yugma,
-vema, çuṣma, sóma, sárma, hóma.
+vema, śuṣma, sóma, sárma, hóma.
 
 1167\. मि mi. A very small number of nouns, masculine and feminine,
 formed with mi, may be conveniently noticed here.
 
 Thus, from ṛ-roots, ūrmí *wave*, -kūrmi *action*, sūrmī́ f. *tube;* from
 others, jāmí *relation*, bhū́mi or bhū́mī f. *earth*, lakṣmī́ *sign;* also
-probably raçmí *line, ray;* and the adjective krúdhmi (? RV., once).
+probably raśmí *line, ray;* and the adjective krúdhmi (? RV., once).
 
 1168\. मन् man. The numerous derivatives made with this suffix are
 almost only action-nouns. The great majority of them are neuter, and
@@ -1229,7 +1229,7 @@ masculine, of the one and the other value and accent, stand side by
 side. The root has in general the guṇa-strengthening.
 
 1\. a. Examples of regularly formed neuters are: kárman *action*, jánman
-*birth*, nā́man *name*, vártman *track*, véçman *dwelling*, hóman
+*birth*, nā́man *name*, vártman *track*, véśman *dwelling*, hóman
 *sacrifice*, -dyótman *splendor*.
 
 b. Examples of masculine abstracts are: `omán` *favor*, `ojmán`
@@ -1247,7 +1247,7 @@ d\. On the other hand, `jeman` and `varṣman` and `svādman` (and
 `variman`) have the difference of gender and accent without a
 corresponding difference of meaning.
 
-e\. The noun `áçman` *stone*, though masculine, is accented on the
+e\. The noun `áśman` *stone*, though masculine, is accented on the
 radical syllable; and two or three other questionable cases of the same
 kind occur.
 
@@ -1256,8 +1256,8 @@ part the accent of neuters: the only exception is `vidmáne`.
 
 g\. A few words, of either class, have an irregular root-form: thus,
 `údman`, `ūṣmán` or `uṣman`, `bhū́man` *earth*, `bhūmán` *abundance*,
-`syū́man`, `sīmán`, `bhujmán`, `vidmán`, `çíkman`, `çuṣman`, `sidhman`;
-and `kā́rṣman`, `bhā́rman`, `çā́kman`.
+`syū́man`, `sīmán`, `bhujmán`, `vidmán`, `śíkman`, `śuṣman`, `sidhman`;
+and `kā́rṣman`, `bhā́rman`, `śā́kman`.
 
 h\. Derivatives in `man` from roots with prefixes are not numerous. They
 are usually accented on the prefix, whether action-nouns or adjectives:
@@ -1292,10 +1292,10 @@ etc.); `váriman` etc. (to `urú`, `várīyas`, etc.); `práthiman` (to
 etc. (to `várṣīyas` etc.); `svā́dman` etc. (to `svādú`, `svā́dīyas`,
 etc.). Then in the Brāhmaṇa language are found further examples: thus,
 `dhūmrimán` (TS. K.), `draḍhimán` (MS. K.: to `dṛdhá`, `dráḍhīyas`,
-etc.), `aṇimán` (ÇB.; and `áṇiman` n. *bit*), `sthemán`, `stháviman` (n.
+etc.), `aṇimán` (śB.; and `áṇiman` n. *bit*), `sthemán`, `stháviman` (n.
 *big piece*), `taruṇiman` (K.), `paruṣiman` (AB.), `abaliman` (ChU.),
 `lohitiman` (KB.); and still later such as `laghiman`, `kṛṣṇiman`,
-`pūrṇiman`, `madhuriman`, `çoṇiman`, etc., etc.
+`pūrṇiman`, `madhuriman`, `śoṇiman`, etc., etc.
 
 1169\. वन् `van`. By this suffix are made almost only agent-words,
 adjectives and nouns, the latter chiefly masculines. The root is
@@ -1309,7 +1309,7 @@ are originally made by the addition of `an` to derivatives in `u` and
 language, and must be treated as such.
 
 b\. Examples of the usual formation are: masc. `yájvan` *offering*,
-`drúhvan` *harming*, `çákvan` *capable*, -`ríkvan` *leaving*, -`jítvan`
+`drúhvan` *harming*, `śákvan` *capable*, -`ríkvan` *leaving*, -`jítvan`
 *conquering*, `sútvan` *pressing*, `kṛ́tvan` *active*, -`gátvan` (like
 -`gat`, -`gatya`) *going*, `sátvan` (√`san`) *warrior;* neut. `párvan`
 *joint*, `dhánvan` *bow*. Irregular, with strengthened root, are `árvan`
@@ -1341,11 +1341,11 @@ these suffixes may best be noticed here, in connection with वन् `van`
 (of which the others are probably secondary extensions).
 
 a\. With `vana` are made `vagvaná` *talkative*, `satvaná` warrior
-(beside `sátvan`, above); and, from a reduplicated root, `çuçukvaná`
+(beside `sátvan`, above); and, from a reduplicated root, `śuśukvaná`
 *shining*.
 
 b\. With `vani` are made from simple roots `turváṇi` *excelling*, and
-`bhurváṇi` *restless*, and, from reduplicated roots, `çuçukváni`
+`bhurváṇi` *restless*, and, from reduplicated roots, `śuśukváni`
 *shining*, `dadhṛṣváṇi` *daring*, `tuturváṇi` *striving after*, and
 `jugurváṇi` *praising;* `arhariṣváṇi` is obscure.
 
@@ -1359,18 +1359,18 @@ masculine stems in वन् `van`.
 
 a\. A few masculine adjectives in `vará` occur, formally accordant
 (except in accent) with the feminines: thus, `itvará` *going*, -`advara`
-*eating;* and so, further, in the older language, `īçvará`, -`jāvara`,
+*eating;* and so, further, in the older language, `īśvará`, -`jāvara`,
 `phárvara`, `bhārvará`, `bhāsvará`, `vyadhvará` (?), -`sadvara`,
 `sthāvará`, and doubtless with them belongs `vidvalá`; later,
 -`kasvara`, `gatvara`, `ghasvara` (also `ghasmara`), -`jitvara`,
-`naçvara`, `pīvara`, `madvara`, -`sṛtvara`; from a reduplicated root,
+`naśvara`, `pīvara`, `madvara`, -`sṛtvara`; from a reduplicated root,
 `yāyāvará` (B. and later). Many of these have feminines in `ā`.
 
 b\. The feminines in `varī` accord in treatment of the root and in
 accent with the masculines in `van` to which they correspond: thus,
-`yájvarī`, -`jítvarī`, `sṛ́tvarī`, -`çī́varī`, -`yāvarī`, and so on (about
+`yájvarī`, -`jítvarī`, `sṛ́tvarī`, -`śī́varī`, -`yāvarī`, and so on (about
 twenty-five such formations in RV.); from a reduplicated root,
--`çiçvarī`.
+-`śiśvarī`.
 
 c\. A very small number of neuters occur, with accent on the root: thus,
 `kárvara` *deed*, `gáhvara` (later also `gabhvara`) *thicket;* and a
@@ -1403,7 +1403,7 @@ a\. A few words of irregular and questionable formation were noticed at
 vocalizes the `v` once, in `jujuruā́n`.
 
 b\. The oldest language (RV.) has a very few words in `vas`, of doubtful
-relations: `ṛ́bhvas` and `çíkvas` *skilful* (beside words in `va` and
+relations: `ṛ́bhvas` and `śíkvas` *skilful* (beside words in `va` and
 `van`), and perhaps `khidvas` (√`khād`). The neuter abstract `várivas`
 *breadth, room* (belonging to `urú` *broad*, in the same manner with
 `várīyas` and `varimán`), is quite isolated. MBh. makes a nominative
@@ -1422,7 +1422,7 @@ a\. A few other words ending in the same manner in the old language may
 be mentioned here. The RV. has the adjectives `tákavāna`, `bhṛ́gavāṇa`,
 `vásavāna`, `ūrdhvasāná`, apparently made on the model of participial
 stems. Also the proper names `ápnavāna`, `pṛ́thavāna`, and `cyávāna` and
-`cyávatāna`. `Párçāna` *abyss* is doubtful; `rujā́nā` (RV., once) is
+`cyávatāna`. `Párśāna` *abyss* is doubtful; `rujā́nā` (RV., once) is
 probably a false reading; `ā́pnāna` is of doubtful character.
 
 1176\. त `ta`. The use of this suffix in forming participles directly
@@ -1432,7 +1432,7 @@ great part passive in value (like those made by the two preceding
 suffixes, but in much larger measure, and more decidedly).
 
 a\. A few general adjectives, or nouns with concrete meaning, are
-adaptations of this participle. Examples are: `tṛṣṭá` *rough*, `çītá`
+adaptations of this participle. Examples are: `tṛṣṭá` *rough*, `śītá`
 *cold*, `dṛḍhá` (for `dṝḍhá`: 224 a) *firm;* `dūtá` *messenger*, `sūtá`
 *charioteer;* `ṛtá` *right*, `gḥṛtá` *ghee*, `jātá` *kind*, `dyūtá`
 *gambling*, `nṛttá` *dance*, `jīvitá` *life*, `caritá` *behavior*,
@@ -1448,7 +1448,7 @@ of *endowed with, affected by, made to be*, and the like (compare the
 similar English formation in *ed*, as *horned*, *barefooted*,
 *bluecoated*). Examples are `rathita` *furnished with a chariot*,
 `duḥkhita` *pained*, `kusumita` *flowered*, `durbalita` *weakened*,
-`niḥsaṁçayita` *indubitable*, etc. etc.
+`niḥsaṁśayita` *indubitable*, etc. etc.
 
 c\. A few words ending in `ta` are accented on the radical syllable, and
 their relation to the participial derivatives is very doubtful: such are
@@ -1461,16 +1461,16 @@ from √`vṛt` (`vrat`-`á`, like `tradá`, `vrajá`) and means originally
 d\. Several adjectives denoting color end in `ita`, but are hardly
 connectible with roots of kindred meaning: thus, `palitá` *gray*,
 `ásita` *black*, `róhita` and `lóhita` *red*, `hárita` *green;* akin
-with them are `éta` *variegated*, `çyetá` *white*. The feminines of
-these stems are in part irregular: thus, `énī` and `çyénī`; `róhiṇī` and
+with them are `éta` *variegated*, `śyetá` *white*. The feminines of
+these stems are in part irregular: thus, `énī` and `śyénī`; `róhiṇī` and
 `lóhinī`, and `háriṇī` (but the corresponding masc. `háriṇa` also
 occurs); and `ásiknī`, `páliknī`, and `háriknī`.
 
 e\. A small number of adjectives in the older language ending in `ata`
 are not to be separated from the participial words in `ta`, although
 their specific meaning is in part gerundive. They are: `pacatá`
-*cooked*, `darçatá` and `paçyata` *seen, to be seen, worth seeing;* and
-so `yajatá`, `haryatá`, `bharatá`. The `y` of `paçyata` and `haryatá`
+*cooked*, `darśatá` and `paśyata` *seen, to be seen, worth seeing;* and
+so `yajatá`, `haryatá`, `bharatá`. The `y` of `paśyata` and `haryatá`
 indicates pretty plainly that the `a` also is that of a present
 tense-stem. `Rajatá` *silvery* is of more obscure relation to √`raj`
 *color;* `párvata` *mountain* must be secondary.
@@ -1482,8 +1482,8 @@ either alongside the latter or instead of them, was explained above, at
 
 a\. With the same suffix are made a number of general adjectives, and of
 nouns of various gender (fem. in `nā`). The accent is on the suffix or
-on the root. A few examples are: `uṣṇá` *hot*, `çuná` *fortunate*,
-`áçna` *ravenous*, `çvítna` *white;* masc., `praçná` *question*, `yajñá`
+on the root. A few examples are: `uṣṇá` *hot*, `śuná` *fortunate*,
+`áśna` *ravenous*, `śvítna` *white;* masc., `praśná` *question*, `yajñá`
 *offering*, `ghṛṇá` *heat*, `várṇa` *color*, `svápna` *sleep;* neut.,
 `parṇá` *wing*, `rátna` *jewel* (?); fem. `tṛ́ṣṇa` *thirst*, `yācn̄ā́`
 *supplication*. But many of the stems ending in `na` are not readily
@@ -1492,13 +1492,13 @@ and `karṇá` *eared*.
 
 b\. The few words ending in `ina` are of doubtful connection, but may be
 mentioned here: thus, `aminá` *violent*, `vṛjiná` *crooked*, `dákṣiṇa`
-*right*, `dráviṇa` *property*, `druhiṇa`, `çreṣiṇa`, `hariṇá`; and
+*right*, `dráviṇa` *property*, `druhiṇa`, `śreṣiṇa`, `hariṇá`; and
 `kanī́na` may be added.
 
 c\. The words ending in `una` are of various meaning and accent, like
 those in `ana`: they are `árjuna`, `karúṇa`, -`cetúna`, `táruṇa`,
-`dāruṇá`, `dharúṇa`, `narúṇa`, `píçuna`, `mithuná`, `yatúna`, `vayúna`,
-`varuṇa`, `çalúna`, and the feminine `yamúnā`; and `bhrūṇá` may be
+`dāruṇá`, `dharúṇa`, `narúṇa`, `píśuna`, `mithuná`, `yatúna`, `vayúna`,
+`varuṇa`, `śalúna`, and the feminine `yamúnā`; and `bhrūṇá` may be
 added.
 
 d\. These are all the proper participial endings of the language. The
@@ -1527,12 +1527,12 @@ those that have an obvious etymology.
 
 b\. Examples of ordinary adjectives are: `urú` *wide*, `ṛjú` *straight*,
 `pṛthú` *broad*, `mṛdú` *soft*, `sādhú` *good*, `svādú` *sweet*, `tápu`
-*hot*, `vásu` *good;* `jāyú` *conquering*, `dārú` *bursting;* `çayú`
+*hot*, `vásu` *good;* `jāyú` *conquering*, `dārú` *bursting;* `śayú`
 *lying*, `réku` *empty;* `dhāyú` *thirsty*, `pāyú` *protecting*. Final
 `ā` appears to be lost before the suffix in -`sthu` (`suṣṭhú`,
 `anuṣṭhú`), and perhaps in `yú`, -`gu` (`agregú`), and -`khu` (`ākhú`).
 
-c\. Examples of nouns are: masc., `aṅçú` *ray*, `ripú` *deceiver*,
+c\. Examples of nouns are: masc., `aṅśú` *ray*, `ripú` *deceiver*,
 `vāyú` *wind-god*, `ásu` *life*, `mánu` *man, Manu;* fem., `íṣu` (also
 masc.) *arrow*, `síndhu` (also masc.) *river*, `tanū́` or `tanú` *body;*
 neut., `kṣú` *food*.
@@ -1545,7 +1545,7 @@ d\. Derivatives from reduplicated roots are: `cikitú`, `jágmu`, `jigyú`,
 
 e\. A few derivatives are made from roots with prefixes, with various
 accentuation: for example, `upāyú` *on-coming*, `pramayú` *going to
-destruction*, `viklíndu` a certain disease, `abhī́çu` *rein (director)*,
+destruction*, `viklíndu` a certain disease, `abhī́śu` *rein (director)*,
 `sáṁvasu` *dwelling together*.
 
 f\. From tense-stems, apparently, are made `tanyú` *thundering*,
@@ -1558,13 +1558,13 @@ language (RV. has more than a dozen of them, AV. not quite so many) to
 show that the formation was already a regular one, extensible at will;
 and later such adjectives may be made from every desiderative. Examples
 (older) are: `ditsú`, `dipsú`, `cikitsú`, `titikṣú`, `pipīṣu`,
-`mumukṣú`, `iyakṣú`, `çiçlikṣú`; with prefix, `abhidipsú`; with
+`mumukṣú`, `iyakṣú`, `śiślikṣú`; with prefix, `abhidipsú`; with
 anomalous accent, `didṛ́kṣu`. These adjectives, both earlier and later,
 may take an object in the accusative (271 a).
 
 h\. A few similar adjectives are made in the older language from
 causatives: thus, `dhārayú` (persistent), `bhājayú`, `bhāvayú`,
-`maṅhayú`, `mandayú`, `çramayú`; and `mṛgayú` from the caus.-denom.
+`maṅhayú`, `mandayú`, `śramayú`; and `mṛgayú` from the caus.-denom.
 `mṛgáya`.
 
 i\. Much more numerous, however, are such formations from the more
@@ -1598,7 +1598,7 @@ masculines in `u` (344 b), with half-a-dozen more independent feminines
 (see 355 c).
 
 a\. To those already mentioned above are to be added `karṣū́` *pit*,
--`calū` (in `puṁçcalū́`), -`janū` (in `prajanū́`), `çumbhū́`.
+-`calū` (in `puṁścalū́`), -`janū` (in `prajanū́`), `śumbhū́`.
 
 1180\. उक `uka`. With this suffix are made derivatives having the
 meaning and construction (271 g) of a present participle. The root is
@@ -1617,19 +1617,19 @@ b\. The root is only so far strengthened that the radical syllable is a
 heavy (79) one; and it has the accent, whether the derivative is made
 from a simple root or from one with prefix.
 
-c\. Examples, from the Brāhmaṇa language, are: `vā́duka`, `nā́çuka`,
+c\. Examples, from the Brāhmaṇa language, are: `vā́duka`, `nā́śuka`,
 `upakrā́muka`, `prapā́duka`, `upasthāyuka` (258), `vyāyuka`, `véduka`,
-`bhā́vuka`, `kṣódhuka`, `hā́ruka`, `várṣuka`, `samárdhuka`, `dáṅçuka`,
-`ālambuka`, `çikṣuka` (GB.: RV. has `çikṣú`), `pramā́yuka` (ṢB. has
+`bhā́vuka`, `kṣódhuka`, `hā́ruka`, `várṣuka`, `samárdhuka`, `dáṅśuka`,
+`ālambuka`, `śikṣuka` (GB.: RV. has `śikṣú`), `pramā́yuka` (ṢB. has
 `pramāyu`).
 
 d\. Exceptions as regards root-form are: `nirmā́rguka` (with
 `vṛddhi`-strengthening, as is usual with this root: 627), -`kasuka`,
 `ṛdhnuka` (from a tense-stem; beside `árdhuka`). AV. accents `sáṁkasuka`
-(ÇB. has `saṁkásuka`) and `víkasuka`; RV. has `sānuká` (which is its
+(śB. has `saṁkásuka`) and `víkasuka`; RV. has `sānuká` (which is its
 only example of the formation, if it be one; AV. has also `ghā́tuka` from
 √`han`, and `ápramāyuka`); `vasuká` (TS. et al.) is probably of another
-character. `Açanāyuka` (PB. et al.) is the only example noticed from a
+character. `Aśanāyuka` (PB. et al.) is the only example noticed from a
 conjugation-stem.
 
 e\. Of later occurrence are a few words whose relation to the others is
@@ -1642,7 +1642,7 @@ derivatives.
 f\. A formation in `ūka` (a suffix of like origin, perhaps, with `uka`)
 may be mentioned here: namely, `indhūka`, `majjūka`, and, from plicated
 roots, `jāgarū́ka` *wakeful*, `jañjapūka` (later) *muttering*,
-`dandaçū́ka` *biting*, `yāyajū́ka` *sacrificing much*, `vāvadūka` (later)
+`dandaśū́ka` *biting*, `yāyajū́ka` *sacrificing much*, `vāvadūka` (later)
 *talkative;* `salalū́ka` is questionable.
 
 1181\. अक `aka`. Here, as in the preceding case, we doubtless have a
@@ -1653,7 +1653,7 @@ date than that of `uka`; it has very few examples in the older language.
 
 a\. In RV. is found (besides `pāvaká`, which has a different accent, and
 which, as the metre shows, is really `pavāka`) only `sā́yaka` *missile;*
-AV. adds `pī́yaka` and `vádhaka`, and VS. `abhikróçaka`. But in the later
+AV. adds `pī́yaka` and `vádhaka`, and VS. `abhikróśaka`. But in the later
 language, such derivatives are common, more usually with raising of the
 root-syllable by strengthening to heavy quantity: thus, `nāyaka`,
 `dāyaka` (258), `pācaka`, `grāhaka`, `bodhaka`, `jāgaraka`; but also
@@ -1711,7 +1711,7 @@ few instances (four), a word with accented suffix has an accusative
 object; very much more often, accent on the root appears along with
 ordinary noun value. The accent, as well as the form, of `manótṛ` is an
 isolated irregularity. Examples are: `jétā dhánāni` *winning treasures;*
-`yūyám mártaṁ çrótāraḥ` *ye listen to a mortal;* but, on the other hand,
+`yūyám mártaṁ śrótāraḥ` *ye listen to a mortal;* but, on the other hand,
 `yaṁtā́ vásūni vidhaté` *bestowing good things on the pious;* and
 `jétā jánānām` *conqueror of peoples*.
 
@@ -1742,8 +1742,8 @@ a\. How far it had gained a primary value in the early language is not
 easy to determine. Most of the words in `in` occurring in RV. and AV.
 are explainable as possessives; in many the other value is possible, and
 in a few it is distinctly suggested: thus,
-`kevalādín, bhadravādín, nitodín, āçārāiṣín, ánāmin, vivyādhín`; from a
-tense-stem, `-açnuvin, -paçyin` (late); with aoristic `s, -sakṣín`; and,
+`kevalādín, bhadravādín, nitodín, āśārāiṣín, ánāmin, vivyādhín`; from a
+tense-stem, `-aśnuvin, -paśyin` (late); with aoristic `s, -sakṣín`; and,
 with reduplication, `niyayín`, `vadāvadin`. As the examples indicate,
 composition, both with prefixes and with other elements, is frequent;
 and, in all cases alike, the accent is on the suffix.
@@ -1789,12 +1789,12 @@ originally secondary, made by adding a to the primary `tṛ` or `tar`
 (1182); but its use is in great part that of a primary suffix.
 
 b\. Examples of neuter nouns are: `gā́tra` *limb*, `páttra` *wing*,
-`pā́tra` *cup*, `yóktra` *bond*, `vástra` *garment*, `çrótra` *ear;*
+`pā́tra` *cup*, `yóktra` *bond*, `vástra` *garment*, `śrótra` *ear;*
 `astrá` *missile*, `stotrá` *song of praise*, `potrá` *vesel;* of more
 general meaning, `dáttra` *gift*, `kṣétra` *field*, `mū́tra` *urine*,
 `hotrá` *sacrifice*. The words accented on the final have often an
 abstract meaning: thus, `kṣatrá` *authority*, `rāṣṭrá` *kingdom*,
-`çāstrá` *doctrine*, `sattrá` *sacrificial session* (also `jñā́tra`
+`śāstrá` *doctrine*, `sattrá` *sacrificial session* (also `jñā́tra`
 *knowledge*).
 
 c\. Masculines are: `dáṅṣṭra` *tusk*, `mántra` *prayer*, `attrá` (or
@@ -1812,7 +1812,7 @@ not usually the equivalent of the union-vowel used with `tṛ` (above,
 1182 a). For the words in `itra` have the accent on `i`: thus, `arítra`
 (`áritra` AV., once) *impelling, oar*, `khanítra` *shovel*, `pavítra`
 *sieve*, `janítra` *birth-place*, `sanítra` *gift;* and so -`avitra`,
-`açítra`, `carítra`, -`taritra`, `dhamitra`, `dhavítra`, `bhavítra`,
+`aśítra`, `carítra`, -`taritra`, `dhamitra`, `dhavítra`, `bhavítra`,
 `bharítra`, `vāditra` (with causative root-strengthening), `vahitra`:
 the combination `ítra` has almost won the character of an independent
 suffix. The preceding vowel is also in a few cases `a` (sometimes
@@ -1829,7 +1829,7 @@ root is `johū́tra` *crying out*.
 
 g\. A word or two in `tri` and `tru` may be added here, as perhaps of
 kindred formation with those in `tra`: thus, `áttri` *devouring*,
-`arcátri` *beaming*, `rā́tri` or `rā́trī` *night;* `çátru` (`çáttru`: 232)
+`arcátri` *beaming*, `rā́tri` or `rā́trī` *night;* `śátru` (`śáttru`: 232)
 *enemy*.
 
 1186\. क `ka`. The suffix क `ka` is of very common use in secondary
@@ -1838,8 +1838,8 @@ almost questionable: at any rate, extremely few primary derivatives are
 made with it.
 
 a\. The words which have most distinctly the aspect of being made from
-roots are `puṣka`-, -`meka` (√`mi` *fix*), `yaska` n. pr., `çúṣka`
-*dry*, `çlóka` (√`çru` *hear*} *noise, report*, etc., and -`sphāka`
+roots are `puṣka`-, -`meka` (√`mi` *fix*), `yaska` n. pr., `śúṣka`
+*dry*, `ślóka` (√`śru` *hear*} *noise, report*, etc., and -`sphāka`
 *teeming;* and `stúkā` *flake* and `stoká` *drop* seem to belong
 together to a root `stu`; `rākā́` f., n. pr., may be added.
 
@@ -1849,9 +1849,9 @@ certain suffixes reckoned as primary: see `aka` and `uka` (above, 1180,
 
 c\. A few words in which `ika` and `īka` seem added to a root, though
 they are really of a kindred formation with the preceding, may be most
-conveniently noticed here: thus, `vṛ́çcika` (√`vraçc`) *scorpion;*
-`ánīka` (?) *face*, `dṛ́çīka` *aspect*, `dṛ́bhīka` n. pr., `mṛḍīká`
-*grace*, vṛdhīká *increaser*, `ā́çarīka` and `víçarīka` *gripes*,
+conveniently noticed here: thus, `vṛ́ścika` (√`vraśc`) *scorpion;*
+`ánīka` (?) *face*, `dṛ́śīka` *aspect*, `dṛ́bhīka` n. pr., `mṛḍīká`
+*grace*, vṛdhīká *increaser*, `ā́śarīka` and `víśarīka` *gripes*,
 -`ṛjīka` *beaming*, `ṛṣīka`; `ṛkṣī́kā`; and, from reduplicated root,
 `parpharī́ka` *scattering* (?). Compare secondary suffix `ka` (below,
 1222).
@@ -1871,7 +1871,7 @@ cases, the suffix is found with a preceding vowel, having the aspect of
 a union-vowel.
 
 a\. Examples of adjectives in `ra` are: `kṣiprá` *quick*, `chidrá`
-*split*, `turá` *strong*, `bhadrá` *pleasing*, `çakrá` *mighty*, `çukrá`
+*split*, `turá` *strong*, `bhadrá` *pleasing*, `śakrá` *mighty*, `śukrá`
 *bright*, `hiṅsrá` *injurious;* with accent on the root, only `gṛ́dhra`
 *greedy*, `túmra` *stout*, `dhī́ra` *wise* (secondary?), `vípra`
 *inspired*, `túgra` n. pr.
@@ -1880,9 +1880,9 @@ b\. From roots with prefixes come only an example or two: thus, `nicirá`
 *attentive*, `nímṛgra` *joining on*.
 
 c\. Nouns in `ra` are: masc., `ájra` *field*, `vīrá` *man*, `vájra`
-*thunderbolt*, `çū́ra` *hero;* neut., `ágra` *point*, `kṣīrá` *milk*,
+*thunderbolt*, `śū́ra` *hero;* neut., `ágra` *point*, `kṣīrá` *milk*,
 `rándhra` *hollow*, `riprá` *defilement;* fem., `dhā́rā` *stream*,
-`çíprā` *jaw*, `súrā` *intoxicating drink*.
+`śíprā` *jaw*, `súrā` *intoxicating drink*.
 
 The forms of this suffix with preceding vowel may best be considered
 here, although some of them have nearly or quite gained the value of
@@ -1902,7 +1902,7 @@ thus, `ajirá` *quick*, `khadirá` a tree, `timira` *dark*, `dhvasirá`
 `rucira` *bright*, `iṣirá` *lively*, ásira *missile*, sthávira *firm;*
 and sthira *hard*, and sphirá *fat*, with displacement of final radical
 ā; also sarirá *wave* (usually salilá). With īra are made gabhīrá or
-gambhīrá *profound* and çávīra *mighty*, and perhaps çárīra *body*.
+gambhīrá *profound* and śávīra *mighty*, and perhaps śárīra *body*.
 
 f\. With ura are made a few words, of some of which the secondary
 character is probable: thus, aṅhurá (aṅhu-ra?) *narrow*, ásura (ásu-ra?)
@@ -1916,8 +1916,8 @@ are made sthūrá *stout* (compare sthávira), kharjū́ra a tree, mayū́ra
 exchanging with it in certain words, in others prevalently or solely
 used from their first appearance.
 
-a\. Conspicuous examples of the interchange are çuklá, sthūlá, -miçla,
-çithilá, salilá.
+a\. Conspicuous examples of the interchange are śuklá, sthūlá, -miśla,
+śithilá, salilá.
 
 b\. Examples of the more independent use are: pālá *protecting*, ánila
 (or aníla) *wind*, tṛpála *joyous;* later capala and tarala (said to be
@@ -1929,9 +1929,9 @@ suffix — too few to be worth classifying. They are of various meaning
 and accent, and generally show a weak root-form.
 
 a\. Thus: ṛkvá *praising*, ṛṣvá *lofty*, takvá *quick*, dhruvá *fixed*,
-pakvá *ripe*, padva *going*, yahvá *quick* (?), çarvá n. pr., hrasvá
-*short*, çikvá *artful*, raṇvá *joyful*, ūrdhvá *lofty*, vákva
-*twisting*, ūrvá *stall;* éva *quick, course*, áçva *horse*, srákva or
+pakvá *ripe*, padva *going*, yahvá *quick* (?), śarvá n. pr., hrasvá
+*short*, śikvá *artful*, raṇvá *joyful*, ūrdhvá *lofty*, vákva
+*twisting*, ūrvá *stall;* éva *quick, course*, áśva *horse*, srákva or
 sṛkva *corner;* and perhaps úlba *caul;* a feminine is prúṣvā (TS.
 pṛ́ṣvā, AV. pruṣvā́); with union-vowel are made saciva *companion*, ámīva
 *disease*, and vidhávā *widov*.
@@ -1942,18 +1942,18 @@ ending into ua.
 1191\. रि ri. With this suffix are formed, directly or with preceding u,
 a small number of derivatives.
 
-a\. Thus: án̄ghri or aṅhri *foot*, áçri *edge*, úsri *dawn*, tandri or
+a\. Thus: án̄ghri or aṅhri *foot*, áśri *edge*, úsri *dawn*, tandri or
 -drī́ *weariness*, bhū́ri *abundant*, ván̄kri *rib*, sūrí *patron*, -takri
-*quick*, vádhri *eunuch*, çubhrí *beautiful*, sthúri *single (team);*
-and, with uri, jásuri *exhausted*, dā́çuri *pious*, bhāguri n. pr.,
+*quick*, vádhri *eunuch*, śubhrí *beautiful*, sthúri *single (team);*
+and, with uri, jásuri *exhausted*, dā́śuri *pious*, bhāguri n. pr.,
 sáhuri *mighty;* an̄gúri (or an̄gúli) *finger*.
 
 1192\. रु ru. This suffix makes a few adjectives and neuter nouns,
 either directly or with a preceding vowel.
 
-a. Thus: `áçru` '*tear*, `cā́ru` *dear*, `dhārú` *sucking*, `bhīrú`
+a. Thus: `áśru` '*tear*, `cā́ru` *dear*, `dhārú` *sucking*, `bhīrú`
 *timid;* — with preceding `a`-vowel: `aráru` *inimical*, `patáru`
-*flying*, `vandā́ru` *praising*, `píyāru` *scoffing*, `çarā́ru` *harming;*
+*flying*, `vandā́ru` *praising*, `píyāru` *scoffing*, `śarā́ru` *harming;*
 — with preceding `e`, `tameru` *relaxed*, `maderú` *rejoicing*, `sanéru`
 *obtaining*, `himerú` *chilly*, the evidently secondary `mitréru`
 *ally*, and `péru` (of doubtful meaning).
@@ -1980,14 +1980,14 @@ stems.
 a\. From simple roots: direct, `kṣeṣṇú` *perishable*, -`glāsnu` *sick*,
 `jiṣṇú` *victorious*, `dan̄kṣṇú` *biting*, `bhūṣṇu` *thriving*,
 `ni`-`ṣatsnú` *sitting down*, `sthāsnu` *fixed;* with union-vowel `i`,
-`kariṣṇu, kāçiṣṇu, kṣayiṣṇu, gamiṣṇú, grasiṣṇu, grahiṣṇu, cariṣṇú, -janiṣṇu, jayiṣṇu, tapiṣṇu, -trapiṣṇu, -patiṣṇu, -bhaviṣṇu, bhrājiṣṇu, madíṣṇu, -maviṣṇu, yajiṣṇu, yāciṣṇu, -vadiṣṇu, vardhiṣṇu, -sahiṣṇu`.
+`kariṣṇu, kāśiṣṇu, kṣayiṣṇu, gamiṣṇú, grasiṣṇu, grahiṣṇu, cariṣṇú, -janiṣṇu, jayiṣṇu, tapiṣṇu, -trapiṣṇu, -patiṣṇu, -bhaviṣṇu, bhrājiṣṇu, madíṣṇu, -maviṣṇu, yajiṣṇu, yāciṣṇu, -vadiṣṇu, vardhiṣṇu, -sahiṣṇu`.
 
 b\. From secondary conjugation-stems:
-`kopayiṣṇu, kṣapayiṣṇu, cyāvayiṣṇú, janayiṣṇu, tāpayiṣṇu, namayiṣṇu, patayiṣṇu, poṣayiṣṇú, pārayiṣṇú, bodhayiṣṇu, mādayiṣṇú, yamayiṣṇú, ropayiṣṇu, -vārayiṣṇu, -çocayiṣṇú`;
+`kopayiṣṇu, kṣapayiṣṇu, cyāvayiṣṇú, janayiṣṇu, tāpayiṣṇu, namayiṣṇu, patayiṣṇu, poṣayiṣṇú, pārayiṣṇú, bodhayiṣṇu, mādayiṣṇú, yamayiṣṇú, ropayiṣṇu, -vārayiṣṇu, -śocayiṣṇú`;
 and `jāgariṣṇu`. An anomalous formation is `ulbaniṣṇu`.
 
 c\. These derivatives are freely compounded with prefixes: e. g.
-`niṣatsnú, prajaniṣṇú, abhiçocayiṣṇú, saṁvārayisṇu`.
+`niṣatsnú, prajaniṣṇú, abhiśocayiṣṇú, saṁvārayisṇu`.
 
 d\. It is not unlikely that the s of this suffix is originally that of a
 stem, to which `nu` was added. Such a character is still apparent in
@@ -1997,7 +1997,7 @@ stem, to which `nu` was added. Such a character is still apparent in
 1195\. स्न `sna`. Extremely few words have this ending.
 
 a\. It is seen in `tīkṣṇá` *sharp*, and perhaps in
-`çlakṣṇá, -rūkṣṇá, mārtsna`; and in `geṣṇa` and `deṣṇá` (usually
+`ślakṣṇá, -rūkṣṇá, mārtsna`; and in `geṣṇa` and `deṣṇá` (usually
 trisyllabic: `daīṣṇa`) *gift*. Unless in the last, it is not found
 preceded by `i`; but it has (like `snu`, above) `a` before it in
 `vadhasná` *deadly weapon*, `karásna` *fore-arm;* `nadīṣṇa` *skilled*
@@ -2013,7 +2013,7 @@ is then added: thus, `kṛtnú` *active*, `gatnú` (? RV.), `hatnú`
 *deadly*, -`tatnu` (?) *stretching;* and, from reduplicated roots,
 `jigatnú` *hasting*, and `jighatnú` *harming;* but also `dartnú`
 *bursting*. Also, with union-vowel, `dravitnú` *running*, `dayitnu` (?
-LÇS.).
+LśS.).
 
 b\. With causative stems: for example, `drāvayitnú` *hasting*,
 `poṣayitnú` *nourishing*, `mādayitnú` *intoxicating*, `tanayitnú` and
@@ -2037,7 +2037,7 @@ b\. With preceding `i`-vowel: `taviṣá` (f. `táviṣī`) *strong*, `mahiṣá
 *rushing*, `púrīṣa` *rubbish*, `manīṣā́` f. *devotion;* and compare
 `rayīṣín` (? SV.).
 
-c\. With preceding `u`-vowel: `aruṣá` (f. `áruṣī`) *red*, `açúṣa`
+c\. With preceding `u`-vowel: `aruṣá` (f. `áruṣī`) *red*, `aśúṣa`
 *ravenous*, `táruṣa` *overcomer*, `púruṣa` and `mánuṣa` (-`us`-`a`?)
 *man;* `pīyū́ṣa` *biestings*.
 
@@ -2051,9 +2051,9 @@ a\. Thus, `atasí` *vagabond*, `dharnasí` *firm*, `sānasí` *winning;* and
 1199\. अभ `abha`. A few names of animals, for the most part of obscure
 derivation, show this ending.
 
-a\. Thus, `vṛṣabhá` and `ṛṣabhá` *bull*, `çarabhá` a certain fabulous
-animal, `çerabha` a certain snake, `gardabhá` and `rā́sabha` *ass;*
-further, `kanabha`, `karabha` and `kalabha`, `laṭabha`, `çalabha`; and,
+a\. Thus, `vṛṣabhá` and `ṛṣabhá` *bull*, `śarabhá` a certain fabulous
+animal, `śerabha` a certain snake, `gardabhá` and `rā́sabha` *ass;*
+further, `kanabha`, `karabha` and `kalabha`, `laṭabha`, `śalabha`; and,
 with other union-vowels, `tuṇḍibha`, `nuṇḍibha`, and `kukkubha`. The
 feminine, if occurring, is in `ī`; and `kaṭabhī` is found without
 corresponding masculine. AV. has the adjective `sthūlabhá`, equivalent
@@ -2114,8 +2114,8 @@ rare cases in which the feminine is taken instead; examples are
 the other hand, a final long vowel — `ī`, much more rarely `ā` —
 generally of a feminine stem, is sometimes shortened in derivation:
 thus,
-`yājyàvant, praçākhavant, goṣátama, vaçátamā, sadhanitvá, jaratikā, `
-`annādítamā` (cf. 471 b), `rohinitvá` (TB.; -`nītvá` ÇB.),
+`yājyàvant, praśākhavant, goṣátama, vaśátamā, sadhanitvá, jaratikā, `
+`annādítamā` (cf. 471 b), `rohinitvá` (TB.; -`nītvá` śB.),
 `pṛhivitvá, pratipatnivat, sárasvativant`.
 
 e\. As was pointed out above (111 c, d), the combination of a secondary
@@ -2130,10 +2130,10 @@ e), `ka` (1222 m), `maya` (1225 a), `min` (1231 b), `vin` (1232 c),
 suffix is added.
 
 a\. The strengthened syllable may be of any character: radical, of a
-prefix, or of the first member of a compound: thus, `āçviná` (`açvín`),
+prefix, or of the first member of a compound: thus, `āśviná` (`aśvín`),
 `sāumyá` (`sóma`), `pā́rthiva` (`pṛthivī́`), `āmitrá` (`amítra`),
 `sā́mrājya` (`samrā́j`), `sāúkṛtya` (`sukṛtá`), `māitrāvaruṇá`
-(`mitrā́váruṇā`), `āuccāiḥçravasá` (`uccāíḥçravas`). As to the
+(`mitrā́váruṇā`), `āuccāiḥśravasá` (`uccāíḥśravas`). As to the
 accompanying accent, see the next paragraph.
 
 b\. If a stem begins with a consonant followed by `y` or `v`, the
@@ -2143,10 +2143,10 @@ succeeding vowel.
 
 c\. This is most frequent where the `y` or `v` belongs to a prefix — as
 `ni, vi, su` — altered before a following initial vowel: thus,
-`nāiyāyika` from `nyāya` (as if `niyāya`), `vāiyaçvá` from `vyàçva` (as
-if `viyaçva`), `sāúvaçvya` from `sváçva` (as if `suvaçva`); but it
-occurs also in other cases, as `sāuvará` from `svára`, `çāuva` from
-`çvan`, against `svāyambhuva` (`svayambhū`), and so on. AV. has
+`nāiyāyika` from `nyāya` (as if `niyāya`), `vāiyaśvá` from `vyàśva` (as
+if `viyaśva`), `sāúvaśvya` from `sváśva` (as if `suvaśva`); but it
+occurs also in other cases, as `sāuvará` from `svára`, `śāuva` from
+`śvan`, against `svāyambhuva` (`svayambhū`), and so on. AV. has
 irregularly `kāveraká` from `kúvera` (as if from `kvéra`, without the
 euphonic `y` inserted).
 
@@ -2159,12 +2159,12 @@ later `aki`; and, in single sporadic examples before, `na, ena, ra`, and
 e\. Sometimes an unstrengthened word is prefixed to one thus
 strengthened, as if the composition were made after instead of before
 the strengthening: e. g. `indradāivatya` *having Indra as divinity*
-(instead of `āindradevatya`), `caramaçāirṣika` *with head to the west*,
+(instead of `āindradevatya`), `caramaśāirṣika` *with head to the west*,
 `jīvalāukika` *belonging to the world of the living*, `antarbhāuma`
 *within the earth*, `somārāudra, gurulāghava` (cf.
 `tāmasaṁ guṇalakṣaṇam` M. xii. 35). But especially when the first word
-is of numeral value: as `çatáçārada` *of a hundred years*,
-`pañcaçāradī́ya, trisāṁvatsara, bahuvārṣika, aṣṭavārṣika, anekavarṣasāhasra, daçasāhasra, trisāhasrī, tripāuruṣa, caturādhyāyī`
+is of numeral value: as `śatáśārada` *of a hundred years*,
+`pañcaśāradī́ya, trisāṁvatsara, bahuvārṣika, aṣṭavārṣika, anekavarṣasāhasra, daśasāhasra, trisāhasrī, tripāuruṣa, caturādhyāyī`
 or -`yikā` *of four chapters*, etc. etc.
 
 f. More often, both members of a compound word have the initial
@@ -2175,7 +2175,7 @@ Such cases are not rare.
 g\. The `guṇa`-strengthening (except of a final `u`-vowel: 1203 a) is
 only in the rarest cases an accompaniment of secondary derivation.
 Exceptions are `dvayá` and `trayá` and `náva` (1200 i), `bheṣajá` and
-`devá` (1209 j), `dróna` (1223 g), `çekhara` (1226 a).
+`devá` (1209 j), `dróna` (1223 g), `śekhara` (1226 a).
 
 1205\. Accent. a. The derivatives with initial `vṛddhi`-strengthening
 always have their accent on either the first or the last syllable. And
@@ -2290,7 +2290,7 @@ treated is here added:
 
 1226
 
-`ça`
+`śa`
 
 1229
 
@@ -2400,7 +2400,7 @@ accent, `āyasá` *of metal* (`áyas`), `mānasá` *relating to the mind*
 (`bráhman`), `hāimavatá` *from the Himalaya* (`himávant`), `ān̄girasá`
 *of the Angiras family* (`án̄giras`); `hā́stina` *elephantine* (`hastín`),
 `mā́ruta` *pertaining to the Maruts* (`marút`); — with accent thrown
-forward from the final upon the suffix, `çāradá` *autumnal*, `vāirājá`
+forward from the final upon the suffix, `śāradá` *autumnal*, `vāirājá`
 *relating to the `virā́j`*`, pāuṣṇá` *belonging to Pūshán;* `gāirikṣitá`
 *son of Girikshít;* — with accent unchanged, `mā́nuṣa` *descendant of
 Mánus*.
@@ -2408,7 +2408,7 @@ Mánus*.
 c\. The suffix is added (as above instanced) to the middle stem-form of
 stems in `vant`; it is added to the weakest in `mā́ghona` and
 `vā́rtraghna`; the ending in remains unchanged; an usually does the same,
-but sometimes loses its `a`, as in `pāuṣṇá, trāivṛṣṇá, dāçarājñá`; and
+but sometimes loses its `a`, as in `pāuṣṇá, trāivṛṣṇá, dāśarājñá`; and
 sometimes its `n`, as in `brāhmá, āukṣá, bārhatsāma`.
 
 d\. From primitives in `ṛ`: `jāítra` *victorious* (`jetṛ́` or `jétṛ`
@@ -2419,14 +2419,14 @@ e\. From primitives in `u`: usually with `guṇa`-strengthening of the
 `u`, as `vāsavá` *relating to the Vásus*, `ārtavá` *concerning the
 seasons* (`ṛtú`), `dānavá` *child of Dānu* (`dā́nu`), `sāindhavá` *from
 the Indus* (`síndhu`); — but sometimes without, as `mā́dhva` *full of
-sweets* (`mádhu`), `pārçva` *side* (`párçu` *rib*), `pāidvá` *belonging
+sweets* (`mádhu`), `pārśva` *side* (`párśu` *rib*), `pāidvá` *belonging
 to Pedú*, `tā́nva` *of the body* (`tanū́`), `yā́dva` *of Yádu*.
 
 f\. From primitives in `i` and `ī`, which vowels are supplanted by the
 added suffix: `pā́rthiva` *earthly* (`pṛthivī́`), `sārasvatá` *of the
 `Sárasvatī`*, `āindrāgná` *belonging to Indra and Agni* (`indrāgnī́`);
 `pā́n̄kta` *five-fold* (`pan̄ktí`), `nāirṛtá` *belonging to Nírṛti*,
-`pārthuraçmá` *of Pṛthuraçmi*, `pāçupatá` *of Paçupáti*.
+`pārthuraśmá` *of Pṛthuraśmi*, `pāśupatá` *of Paśupáti*.
 
 g\. From primitives in `ā`, which in like manner disappears: `yāmuná`
 *of the Yamúnā*, `sāraghá` *honey* etc. (`sarághā` *bee*), `kānīná`
@@ -2435,12 +2435,12 @@ g\. From primitives in `ā`, which in like manner disappears: `yāmuná`
 h\. A large number (more than all the rest together) from primitives in
 `a`, of which the final is replaced by the suffix: for example, with the
 usual shift of accent, `āmitrá` *inimical* (`amítra` *enemy*), `vāruṇá`
-*of Váruṇa*, `vāiçvadevá` *belonging to all the gods* (`viçvádeva`),
-`nāirhastá` *handlessness* (`nírhasta`), `vāiçvadevá` *descendant of
-Vyàçva;* `gā́rdabha` *asinine* (`gardabhá`), `dāíva` *divine* (`devá`),
+*of Váruṇa*, `vāiśvadevá` *belonging to all the gods* (`viśvádeva`),
+`nāirhastá` *handlessness* (`nírhasta`), `vāiśvadevá` *descendant of
+Vyàśva;* `gā́rdabha` *asinine* (`gardabhá`), `dāíva` *divine* (`devá`),
 `mā́dhyaṁdina` *meridional* (`madhyáṁdina`), `pāútra` *grandchild*
-(`putrá` *son*), `sāúbhaga` *good fortune* (`subhága`), `vā́dhryaçva` *of
-Vadhryaçvá's race;* with unchanged accent (comparatively few), `vāsantá`
+(`putrá` *son*), `sāúbhaga` *good fortune* (`subhága`), `vā́dhryaśva` *of
+Vadhryaśvá's race;* with unchanged accent (comparatively few), `vāsantá`
 *vernal* (`vasantá` *spring*), `māitrá` *Mitrá's*, `ātithigvá` *of
 Atithigvá's race*, `dāívodāsa` *Dívodāsa's*. In a few instances, `ya` is
 replaced by the suffix: thus, `sāura, pāuṣá, yājñavalka`.
@@ -2482,8 +2482,8 @@ grammarians as made with the suffix `ina`: thus, `malina` *polluted*,
 
 d\. A number of words formed with the so-called suffix `anta` are
 evident transfers from stems in `ant`. A few of them are found even from
-the earliest period: thus, `pā́nta` *draught*, `çvāntá` (?), `vasantá`
-*spring*, `hemantá` *winter*, `veçantá` etc. *tank*, `jīvantī`́ a
+the earliest period: thus, `pā́nta` *draught*, `śvāntá` (?), `vasantá`
+*spring*, `hemantá` *winter*, `veśantá` etc. *tank*, `jīvantī`́ a
 certain healing plant; and others occur later, as
 `jayanta, taranta, madhumanta`, etc. They are said to be accented on the
 final.
@@ -2491,11 +2491,11 @@ final.
 e\. From `añc`-stems (407) are made a few nouns ending in `k-a`: thus,
 `ánūka, ápāka, upā́ka, prátīka, parāká`, etc.
 
-f\. From stems in `ṛ`, `hotrá, netrá, neṣṭrá, potrá, praçāstrá`, etc.,
+f\. From stems in `ṛ`, `hotrá, netrá, neṣṭrá, potrá, praśāstrá`, etc.,
 from titles of priests; also `dhātrá, bhrātrá`, etc.
 
 g\. Other scattering cases are:
-`savidyutá, āvyuṣá, vī́rudha, kákuda, kakubhá, açúṣa, bhūmyá, sakhyá, ádhipatya, jāspatyá, araṭvá, pānḍvá`.
+`savidyutá, āvyuṣá, vī́rudha, kákuda, kakubhá, aśúṣa, bhūmyá, sakhyá, ádhipatya, jāspatyá, araṭvá, pānḍvá`.
 
 h\. The Vedic gerundives in `tva` (`tua`), made by addition of `a` to
 abstract noun-stems in `tu`, have been already (966 a) fully given.
@@ -2542,8 +2542,8 @@ initial syllable.
 c\. Adjectives in `ya`, of both these divisions, make their feminines
 regularly in `yā`. But in a number of cases, a feminine in `ī` is made,
 either alone or beside one in `yā`: e. g.
-`cāturmāsī, āgniveçī, çāṇḍilī, ā́rī` (and `ā́ryā`), `dāívī` (and
-`dāívyā`), `sāumī` (and `sāumyā`); `dhīrī́, çīrṣaṇī, svarī`, etc.
+`cāturmāsī, āgniveśī, śāṇḍilī, ā́rī` (and `ā́ryā`), `dāívī` (and
+`dāívyā`), `sāumī` (and `sāumyā`); `dhīrī́, śīrṣaṇī, svarī`, etc.
 
 1211\. Derivatives in य `ya` with initial `vṛddhi`-strengthening follow
 quite closely, in form and meaning, the analogy of those in अ `a`
@@ -2554,8 +2554,8 @@ a\. Examples are: with the usual shift of accent, `dāívya` *divine*
 (`devá`), `pā́litya` *grayness* (`palitá`), `grāívya` *cervical*
 (`grīvā́`), `ā́rtvijya` *priestly office* (`ṛtvíj`), `gā́rhapatya`
 *householder's* (`gṛhápati`), `jā́narājya` *kingship* (`janarā́j`),
-`sā́ṁgrāmajitya` *victory in battle* (`saṁgrāmajít`), `sāúvaçvya` *wealth
-in houses* (`sváçva`), `āúpadraṣṭrya` *witness* (`upadraṣṭṛ́`); `ādityá`
+`sā́ṁgrāmajitya` *victory in battle* (`saṁgrāmajít`), `sāúvaśvya` *wealth
+in houses* (`sváśva`), `āúpadraṣṭrya` *witness* (`upadraṣṭṛ́`); `ādityá`
 *Aditya* (`áditi`), `sāumyá` *relating to sóma*, `ātithyá` *hospitality*
 (`átithi`), `prājāpatyá` *belonging to Prajā́pati*, `vāimanasyá`
 *mindlessness* (`vímanas`), `sā́hadevya` *descendant of Sahádeva;* — with
@@ -2563,8 +2563,8 @@ accent thrown forward from the final upon the ending, `lāukyá` *of the
 world* (`loká`), `kāvyá` *of the Kaví-race*, `ārtvyá` *descendant of
 Ritú*, `vāyavyá` *belonging to the wind* (`vāyú`), `rāivatyá` *wealth*
 (`revánt`); with unchanged accent (very few), `ā́dhipatya` *lordship*
-(`ádhipati`), `çrāíṣṭhya` *excellence* (`çréṣṭha`), `vāíçya` *belonging
-to the third class* (`víç` *people*), `pāúṁsya` *manliness* (`púṁs`).
+(`ádhipati`), `śrāíṣṭhya` *excellence* (`śréṣṭha`), `vāíśya` *belonging
+to the third class* (`víś` *people*), `pāúṁsya` *manliness* (`púṁs`).
 
 b. The AV. has once `nāirbādhyà`, with circumflexed final; if not an
 error, it is doubtless made through `nāirbādha`; `vāiṣṇavyāú` (VS. i.
@@ -2584,19 +2584,19 @@ gerundives and action-nouns, which have the aspect of primary
 derivatives.
 
 1\. b. Examples of derivatives in `ya` retaining the accent of their
-primitives are: `áçvya` *equine* (`áçva`), `án̄gya` *of the limbs*
+primitives are: `áśvya` *equine* (`áśva`), `án̄gya` *of the limbs*
 (`án̄ga`), `múkhya` *foremost* (`múkha` *mouth*), `ávya` *ovine* (`ávi`),
-`gávya` *bovine* (`gó`), `víçya` *of the people* (`víç`), `dúrya` *of
+`gávya` *bovine* (`gó`), `víśya` *of the people* (`víś`), `dúrya` *of
 the door* (`dúr`), `nárya` *manly* (`nṛ́`), `vṛ́ṣṇya` *virile* (`vṛ́ṣan`),
 `svarā́jya` *autocracy* (`svarā́j`), `suvī́rya` *wealth in retainers*
-(`suvī́ra`), `viçvájanya` *of all men*, `viçvádevya` of all the gods
-(`viçvádeva`), `mayū́raçepya` *peacock-tailed*.
+(`suvī́ra`), `viśvájanya` *of all men*, `viśvádevya` of all the gods
+(`viśvádeva`), `mayū́raśepya` *peacock-tailed*.
 
 c\. In the last words, and in a few others, the `ya` appears to be used
 (like ka, 1222 h: cf. 1212 m) as a suffix simply helping to make a
 possessive compound: and so further `suhástya` (beside the equivalent
 `suhásta`),
-`mádhuhastya, dáçamāsya, miçrádhānya, anyódarya, samānodarya`.
+`mádhuhastya, dáśamāsya, miśrádhānya, anyódarya, samānodarya`.
 
 2\. d. Examples with retraction of the accent to the first syllable (as
 in derivation with `vṛddhi`-increment) are: `káṇṭhya` *guttural*
@@ -2617,10 +2617,10 @@ retaining the final `a` of the primitive; and `gavyáya` and `avyáya`
 considerably more numerous than all the three preceding classes
 together), examples are as follows:
 
-g. From consonant-stems: `viçyà` *of the clan* (RV.: `víç`), `hṛdyá`
+g. From consonant-stems: `viśyà` *of the clan* (RV.: `víś`), `hṛdyá`
 *of the heart* (`hṛ́d`), `vidyutyà` *of the lightning* (`vidyút`),
 `rājanyà` *of the royal class* (`rā́jan`), `doṣaṇyà` *of the arm*
-(`doṣán`), `çīrṣaṇyà` *of the head* (`çīrṣán`), `karmaṇyà` *active*
+(`doṣán`), `śīrṣaṇyà` *of the head* (`śīrṣán`), `karmaṇyà` *active*
 (`kárman`), `dhanvanyà` *of the plain* (`dhánvan`), `namasyà` *reverend*
 (`námas`), `tvacasyà` *cuticular* (`tvácas`), `barhiṣyà` *of barhís*,
 `āyuṣyà` *giving life* (`ā́yus`), `bhasadyà` *of the buttocks*
@@ -2629,13 +2629,13 @@ is `aryamyà` *intimate* (`aryamán`), with which doubtless belong
 `sātmya` (`sātman`) and `sākṣya` (`sākṣin`).
 
 h\. From `u`-stems: `hanavyà` *of the jaws* (`hánu`), `vāyavya`
-*belonging to Vāyú*, `paçavyà` *relating to rattle* (`paçú`), `iṣavyà`
+*belonging to Vāyú*, `paśavyà` *relating to rattle* (`paśú`), `iṣavyà`
 *relating to arrows* (`íṣu`), `madhavyà` *of the sweet* (`mádhu`),
 `apsavyà` *of the waters* (`apsú` lo.), `rajjavyà` *of rope* (`rájju`);
-`çaravyā̀` f. *arrow* (`çáru`, do.); and there may be added `nāvyà`
+`śaravyā̀` f. *arrow* (`śáru`, do.); and there may be added `nāvyà`
 *navigable* (especially in fem., `nāvyā̀` *navigable stream:* `nāú`
-*boat*). The RV. has `prāçavyà` *to be partaken of* (`pra`+√`aç`),
-without any corresponding noun `prāçu`; and also `ūrjavyà` *rich in
+*boat*). The RV. has `prāśavyà` *to be partaken of* (`pra`+√`aś`),
+without any corresponding noun `prāśu`; and also `ūrjavyà` *rich in
 nourishment* (`ūrj`), without any intermediate `ūrju`.
 
 i\. Under this head belong, as was pointed out above (964), the
@@ -2666,8 +2666,8 @@ thus, `apikakṣyà` *about the arm-pit*, `upapakṣyà` *upon the sides*,
 `udāpyà` *up-stream;* and perhaps `upatṛṇyà` *lying in the grass*
 (occurs only in voc.). But, with other accent, `ánvāntrya` *through the
 entrails*, `úpamāsya` *in each month*, `abhinabhyá` *up to the clouds*,
-`antaḥparçavyá` *between the ribs*, `ádhigartya` *on the chariot sent;*
-of unknown accent, `adhihastya, anupṛṣṭhya, anunāsikya, anuvaṅçya`.
+`antaḥparśavyá` *between the ribs*, `ádhigartya` *on the chariot sent;*
+of unknown accent, `adhihastya, anupṛṣṭhya, anunāsikya, anuvaṅśya`.
 
 1213\. The derivatives in य `ya` as to which it may be questioned
 whether they are not, a least in part, primary derivatives from the
@@ -2679,12 +2679,12 @@ a\. In RV. occur about forty instances of gerundives in `ya`, of
 tolerably accordant form: the root usually unstrengthened (but
 `cétya, bhávya, -hávya, márjya, yódhya`; also `-mā́dya, -vā́cya, bhāvyá`);
 the accent on the radical syllable when the word is simple, or
-compounded with prepositions: thus, `praçásya, upasádya, vihávya` (but
+compounded with prepositions: thus, `praśásya, upasádya, vihávya` (but
 usually on the final after the negative prefix: thus,
 `anāpyá, anapavṛjyá`) — exceptions are only `bhāvyá` and the doubtful
 `ākāyyà`; the `ya` resolved into `ia` in the very great majority of
 occurrences; a final short vowel followed by `t` (in
--`ítya, -kṛtya, -çrútya, -stútya`, and the reduplicated `carkṛ́tya`,
+-`ítya, -kṛtya, -śrútya, -stútya`, and the reduplicated `carkṛ́tya`,
 beside `carkṛ́ti`: not in `návya` and -`hávya`), and `ā` changed to `e`
 (in -`deya` only). If regarded as secondary, they might be made with
 `ya`, in accordance with other formations by this suffix, in part from
@@ -2706,8 +2706,8 @@ abstract nouns of the same make with the former of these classes. They
 are rarely found except in composition (in AV., only `cítya` and `stéya`
 as simple), and are often used in the dative, after the manner of a
 dative infinitive. Examples are:
-`brahmajyéya, vasudéya, bhāgadhéya, pūrvapéya, çataséya, abhibhū́ya, devahū́ya, mantraçrútya, karmakṛ́tya, vṛtratū́rya, hotṛvū́rya, ahihátya, sattrasádya, çirṣabhídya, brahmacárya, nṛṣáhya`.
-Of exceptional form are `ṛtódya` (√`vad`) and `sahaçéyya` (√`çī`); of
+`brahmajyéya, vasudéya, bhāgadhéya, pūrvapéya, śataséya, abhibhū́ya, devahū́ya, mantraśrútya, karmakṛ́tya, vṛtratū́rya, hotṛvū́rya, ahihátya, sattrasádya, śirṣabhídya, brahmacárya, nṛṣáhya`.
+Of exceptional form are `ṛtódya` (√`vad`) and `sahaśéyya` (√`śī`); of
 exceptional accent, `sadhástutya`. And AV. has one example, `raṇyà`,
 with circumflexed final.
 
@@ -2739,7 +2739,7 @@ b\. With accent `iyá` (= `ía` or `yà`): for example, `agriyá` (also
 `agríya`) *foremost* (`ágra`), `indriyá` *Indra's* (later, *sense:*
 `índra`), `kṣetriyá` *of the field* (`kṣétra`).
 
-c\. With accent on the primitive: `çrótriya` *learned* (`çrótra`),
+c\. With accent on the primitive: `śrótriya` *learned* (`śrótra`),
 `ṛ́tviya` (also `ṛtvíya`) *in season* (`ṛtú`).
 
 1215\. ईय `īya`. This suffix also is apparently by origin a `ya` (`īa`)
@@ -2751,7 +2751,7 @@ a\. In RV. occur, of general adjectives, only `ārjikī́ya` and
 `parvatī́ya` *mountainous* (AV., beside RV. `parvatyà`). In the Brāhmaṇas
 are found a number of adjectives, some of them from phrases (first words
 of verses and the like): thus,
-`anyarāṣṭrī́ya, pan̄cavātī́ya, mārjālī́ya, kayāçubhīya, svāduṣkilīya, apohiṣṭhīya`,
+`anyarāṣṭrī́ya, pan̄cavātī́ya, mārjālī́ya, kayāśubhīya, svāduṣkilīya, apohiṣṭhīya`,
 etc.
 
 b\. It was pointed out above (965) that derivative adjectives in `īya`
@@ -2779,9 +2779,9 @@ metronymic value. Their neuter is sometimes used as abstract noun. The
 accent rests usually on the final in adjectives of descent, and on the
 first syllable in others.
 
-a\. Examples are: `ārṣeyá` *descendant of a sage* (`ṛ́ṣi`), `jānaçruteyá`
-*son of Jānacruti*, `sārameyá` *of Sarámā's race*, `çātavaneyá`
-*Çatavani's descendant*, `rāthajiteyá` *son of Rathajít;* `ā́sneya` *of
+a\. Examples are: `ārṣeyá` *descendant of a sage* (`ṛ́ṣi`), `jānaśruteyá`
+*son of Jānacruti*, `sārameyá` *of Sarámā's race*, `śātavaneyá`
+*śatavani's descendant*, `rāthajiteyá` *son of Rathajít;* `ā́sneya` *of
 the blood* (`asán`), `vā́steya` *of the bladder* (`vastí`), `pāúruṣeya`
 *coming from man* (`púruṣa`), `pāitṛsvaseya` *of a paternal aunt*
 (`pitṛsvasṛ`), etc.
@@ -2801,9 +2801,9 @@ d\. Derivatives in the so-called suffix `ineyá` — as
 proximate derivatives in -`inī` (fem.).
 
 e\. In `eyya` (i. e. `eyia`) end, besides the neuter abstract
-`sahaçéyya` (above, 1213 c), the adjective of gerundival meaning
-`stuṣéyya` (with aoristic `s` added to the root), and `çapatheyyà`
-*curse-bringing* (or *accursed*), from `çapátha`.
+`sahaśéyya` (above, 1213 c), the adjective of gerundival meaning
+`stuṣéyya` (with aoristic `s` added to the root), and `śapatheyyà`
+*curse-bringing* (or *accursed*), from `śapátha`.
 
 1217\. एन्य `enya`. This suffix is doubtless secondary in origin, made
 by the addition of य `ya` to derivatives in a `na`-suffix; but, like
@@ -2817,9 +2817,9 @@ accent is (except in `váreṇya`) on the `e`: thus -`énia`.
 b\. The gerundives have been all given above, under the different
 conjugations to which they attach themselves (966 b, 1019 b, 1038). The
 RV. has also two non-gerundival adjectives, `vīréṇya` *manly* (`vīrá`),
-and `kīrténya` *famous* (`kīrtí`), and TS. has `anabhiçastenyá`
-(`abhíçasti`); `vijenyà` (RV.) is a word of doubtful connections;
-`çikṣeṇya` *instructive* is found in a Sūtra; `prāvṛṣeṇya` *of the rainy
+and `kīrténya` *famous* (`kīrtí`), and TS. has `anabhiśastenyá`
+(`abhíśasti`); `vijenyà` (RV.) is a word of doubtful connections;
+`śikṣeṇya` *instructive* is found in a Sūtra; `prāvṛṣeṇya` *of the rainy
 season* occurs later.
 
 1218. आय्य `āyya`. With this suffix are made gerundival adjectives,
@@ -2841,14 +2841,14 @@ suffix are not rare. They come from stems in, अ `a`, and have
 
 a\. In RV., the only example of this formation is `kāṇvāyana` (voc.:
 `káṇva`); AV. has in metrical parts `dākṣāyaṇá` and the fem. `rāmāyaṇī́`;
-and `āmuṣyāyaṇá` *son of so-and-so* (516) in its prose; ÇB. has
+and `āmuṣyāyaṇá` *son of so-and-so* (516) in its prose; śB. has
 `rājastambā́yana` beside -`bāyaná`. The RV. name `ukṣaṇyā́yana` is of a
 different make, elsewhere unknown.
 
 1220\. आयी `āyī`. Only a very few words are made with this suffix,
 namely `agnā́yī` (`agní`) *Agni's wife*, `vṛṣākapāyī` *wife of
 Vrishā́kapi;* and later `pūtakrātayī`, and `manāyī` *Manu's wife* (but
-`manāvī́` ÇB.).
+`manāvī́` śB.).
 
 a\. They seem to be feminines of a derivative in `a` made with
 `vṛddhi`-increment of the final `i` of the primitive.
@@ -2858,7 +2858,7 @@ nouns in `a`. The accent rests on the initial syllable, which has the
 `vṛddhi`-strengthening.
 
 a\. In RV. are found half-a-dozen patronymics in `i`: for example,
-`ā́gniveçi, pāúrukutsi, prā́tardani, sā́ṁvaraṇi`; AV. has but one,
+`ā́gniveśi, pāúrukutsi, prā́tardani, sā́ṁvaraṇi`; AV. has but one,
 `prā́hrādi`; in the Brāhmaṇas they are more common: thus, in AB.,
 `sāuyavasi, jānaṁtapi, āruṇi, jānaki`, etc. A single word of other value
 — `sā́rathi` *charioteer* (`sarátham`) — is found from RV. down.
@@ -2870,7 +2870,7 @@ made by addition of `ka` to a derivative in `i` is pointed out below
 (1222 j).
 
 c\. RV. has `tápuṣi`, apparently from `tápus` with a secondary `i`
-added, and the n. pr. `çucantī́`; `bhuvantí` is found in B., and
+added, and the n. pr. `śucantī́`; `bhuvantí` is found in B., and
 `jīvanti` later.
 
 1222\. क `ka`. This is doubtless originally one of the class of suffixes
@@ -2906,9 +2906,9 @@ and, with accent retracted to the initial syllable (besides `áṣṭaka` and
 anomalous initial `vṛddhi`.
 
 d\. Of words in which a diminutive meaning is more or less probable:
-`açvaká` *nag*, `kanī́naka` and `kumāraká` *boy*, `kanīnakā́` or
+`aśvaká` *nag*, `kanī́naka` and `kumāraká` *boy*, `kanīnakā́` or
 `kanī́nikā` *girl*, `pādaká` *little foot*, `putraká` *little son*,
-`rājaká` *princeling*, `çakuntaká` *birdling*. Sometimes a contemptuous
+`rājaká` *princeling*, `śakuntaká` *birdling*. Sometimes a contemptuous
 meaning is conveyed by such a diminutive: for formations with this value
 from pronominal stems, see above, 521; other examples are `anyaká`
 (RV.), `álakam` (RV.: from `álam`), and even the verb-form `yāmaki` (for
@@ -2924,7 +2924,7 @@ f\. From simple nouns and adjectives: `ástaka` *home*, `nā́sikā`
 *distant*, `sarvaká` *all*, `dhénukā` (`dhenú`) *cow*, `nágnaka`
 (`nagná`) *naked*, `báddhaka` (`baddhá`) *captive*, `abhinnataraka` *by
 no means different*, `anastamitaké` before sunset, `vamraká` *ant*,
-`arbhaká` *small*, `çiçuká` *young*, `aṇīyaska` *finer*, `ejatká`
+`arbhaká` *small*, `śiśuká` *young*, `aṇīyaska` *finer*, `ejatká`
 *trembling*, `abhimādyatká` *intoxicated*, `patayiṣṇuká` *flying*. Such
 derivatives in the later language are innumerable; from almost any given
 noun or adjective may be made an equivalent, ending in `ka` or `kā`
@@ -2938,7 +2938,7 @@ h\. In the Brāhmaṇas and later, `ka` is often added to a possessive
 adjective compound (1307), sometimes redundantly, but usually in order
 to obtain a more manageable stem for inflection: thus, `anakṣíka`
 *eyeless*, `atvakká` *skinless*, `aretáska` *without seed*, `vyasthaka`
-*boneless*, `saçiraska` *along with the head*, `ekagāyatrīka`
+*boneless*, `saśiraska` *along with the head*, `ekagāyatrīka`
 *containing a single* `gāyatrī`*-verse*, `gṛhītávasatīvarīka` *one who
 has taken yesterday's water*, `sapatnīka` *with his spouse*,
 `bahuhastíka` *having many elephants*, `sadīkṣopasátka` *with* `dīkṣā`
@@ -2960,7 +2960,7 @@ final `i` or `a`, though coming to be used independently.
 
 k\. Of `vṛddhi`-derivatives in aka no examples have been noted from the
 older language (unless `māmaká` *mine* is to be so regarded); and they
-are not common in the later: thus, `āvaçyaka` *necessary*, `vārddhaka`
+are not common in the later: thus, `āvaśyaka` *necessary*, `vārddhaka`
 *old age*, `rāmaṇīyaka` *delightfulness*.
 
 l\. Of `vṛddhi`-derivatives in `ika`, the Veda furnishes a very few
@@ -2980,8 +2980,8 @@ a palatal becomes guttural (as before `t` etc.: 217): e. g. -`srukka`,
 -`rukka`, -`tvakka`, `anṛkka`. A `s` remains after `ā˘`, and becomes `ṣ`
 after an alterant vowel (180): e. g. `sadyaska, jyotiṣka, dirghāyuṣka`.
 But the other sibilants take the form they would have in composition:
-thus, `adíkka` (`diç`), `ṣaṭka, -viṭka, -tviṭka` (`ṣaṣ` etc.).
-`Anāçīrka` (TS.: `āçis`) is anomalous; and so is `parutka` (Āpast.), if
+thus, `adíkka` (`diś`), `ṣaṭka, -viṭka, -tviṭka` (`ṣaṣ` etc.).
+`Anāśīrka` (TS.: `āśis`) is anomalous; and so is `parutka` (Āpast.), if
 it comes from `parus`.
 
 1223\. Several suffixes, partly of rare occurrence and questionable
@@ -2992,9 +2992,9 @@ a\. A few derivatives in `āna` in RV. were given above (1175 a).
 
 b\. With `ānī` (which is perhaps the corresponding feminine) are made a
 small number of words, chiefly wife-names: thus, `indrāṇī́, varuṇānī́`
-(these, with `uçīnárāṇī, purukútsānī, mudgā́lanī, ūrjā́nī`, are found in
+(these, with `uśīnárāṇī, purukútsānī, mudgā́lanī, ūrjā́nī`, are found in
 RV.), `rudrāṇī, mātulānī` *maternal uncle's wife*,
-`çarvāṇī, bhavānī, içānānī, çakrāṇī, upādhyāyānī, mṛḍānī, brahmāṇī`; and
+`śarvāṇī, bhavānī, iśānānī, śakrāṇī, upādhyāyānī, mṛḍānī, brahmāṇī`; and
 `yavānī`.
 
 c\. The feminines in `nī` and `knī` from masculine stems in `ta` have
@@ -3010,9 +3010,9 @@ penult, but sometimes on the final; and the same word has sometimes both
 accents: for example, `apācī́na, nīcī́na, prācī́na, arvācī́na` and
 `arvācīná, pratīcī́na` and `pratīcīná, samīcīná`. Besides these, a number
 of other adjectives, earlier and later: examples are `saṁvatsarī́na`
-*yearly*, `prāvṛṣī́ṇa` *of the rainy season*, `viçvajanī́na` *of all
+*yearly*, `prāvṛṣī́ṇa` *of the rainy season*, `viśvajanī́na` *of all
 people*, `jñātakulī́na` *of known family*, `adhvanīna` *traveller*
-(`ádhvan` *way*), `āçvīna` *day's journey on horseback* (`áçva`
+(`ádhvan` *way*), `āśvīna` *day's journey on horseback* (`áśva`
 *horse*). RV. has once `mā́kīna` *mine*.
 
 e\. With `ena` is made `sāmidhená` (f. -`nī́`), from `samídh`, with
@@ -3021,8 +3021,8 @@ initial strengthening.
 f\. As to a few words in `ina`, compare 1209 c.
 
 g\. The adjectives made with simple `na` fall partly under another head
-(below, 1245 f); here may be noted `çū́raṇa` *heroic* (?),
-`phálguna, çmaçruṇá, dadruṇa`, and, with `vṛddhi`-strengthening,
+(below, 1245 f); here may be noted `śū́raṇa` *heroic* (?),
+`phálguna, śmaśruṇá, dadruṇa`, and, with `vṛddhi`-strengthening,
 `strāíṇa` *woman's* (its correlative, `pāuṁsna`, occurs late) and
 `cyāutná` *inciting*. If `dróṇa` comes from `dru` *wood*, it has the
 anomaly of a `guṇa`-strengthening.
@@ -3056,7 +3056,7 @@ but `d` is treated as in external combination: thus, `mṛnmáya`; and in
 the Brāhmaṇas and later, finals in general have the latter treatment: e.
 g.
 `tejomáya, adomáya, āpomáya, jyotirmaya, yajurmáya, etanmáya, asṝn̄maya, vān̄máya, ammaya, prāvṛṇmaya`.
-RV. has `açmanmáya` (later `açmamaya`). In `hiraṇmáya` (B. and later)
+RV. has `aśmanmáya` (later `aśmamaya`). In `hiraṇmáya` (B. and later)
 the primitive (`hiraṇya`) is peculiarly mutilated. RV. has `sūmáya` *of
 good make*, and `kimmáya` *made of what?*
 
@@ -3067,15 +3067,15 @@ language.
 Accent and treatment of the primitive are various.
 
 a\. With simple addition of `ra` are made, for example: `pāṅsurá`
-*dusty*, -`çrīra` (also -`çlīla`) in `açrīrá` *ugly*, `dhūmrá` *dusky*
+*dusty*, -`śrīra` (also -`ślīla`) in `aśrīrá` *ugly*, `dhūmrá` *dusky*
 (`dhūmá` *smoke*), `madhura` (late) *sweet*. In an example or two, there
 appears to be accompanying initial strengthening: thus, `ā́gnīdhra` *of
-the fire-kindler* (`agnī́dh`), `çān̄kura` *stake-like* (`çan̄kú`); and in
-`çekhara` (also `çikhara`), a `guṇa`-strengthening.
+the fire-kindler* (`agnī́dh`), `śān̄kura` *stake-like* (`śan̄kú`); and in
+`śekhara` (also `śikhara`), a `guṇa`-strengthening.
 
 b\. With an inorganic vowel before the ending are made, for example,
 `médhira` *wise*, `rathirá` *in a chariot;* `karmā́ra` *smith;* `dantura`
-(late) *tusked;* `acchéra` (? MS.), `çrāmaṇera, saṁgamanera`.
+(late) *tusked;* `acchéra` (? MS.), `śrāmaṇera, saṁgamanera`.
 
 c\. The use of `ra` in forming a few words of comparative meaning was
 noticed above (474), and the words so made were given.
@@ -3085,44 +3085,44 @@ the same. In some words they exchange with one another, and ल `la` is
 usually, but not always, the later form in use.
 
 a\. Examples are: `bahulá` *abundant*, `madhulá` (later `madhura`) and
-`madhūla` *sweet*, `bhīmala` *fearful*, `jīvalá` *lively*, `açlīlá` (and
-`açrīrá`) *wretched;* with `ā`, `vācāla` *talkative* (late); with `i`,
+`madhūla` *sweet*, `bhīmala` *fearful*, `jīvalá` *lively*, `aślīlá` (and
+`aśrīrá`) *wretched;* with `ā`, `vācāla` *talkative* (late); with `i`,
 `phenila` *foamy* (late: `phéna`); with `u`, `vātula` and `vātūla`
 *windy* (late: `vā́ta`); and `mātula` *maternal uncle* is a somewhat
 irregular formation from `mātṛ́` *mother*.
 
 b\. In the later language are found a few adjectives in `lu`, always
 preceded by `ā`; examples are: `kṛpālu` and `dayālu` *compassionate*,
-`īrṣyālu` *jealous*, `uṣṇālu` *heated*, `çayālu` and `svapnālu`
-*sleepy*, `lajjālu` *modest*, `lālālu` *drooling*, `çraddhālu`
+`īrṣyālu` *jealous*, `uṣṇālu` *heated*, `śayālu` and `svapnālu`
+*sleepy*, `lajjālu` *modest*, `lālālu` *drooling*, `śraddhālu`
 *trusting*, `krodhālu` *passionate*. One or two such derivatives having
 a primary aspect were noticed at 1192 b.
 
 1228\. व `va`. A small number of adjectives have this ending (accented,
 added to an unaltered primitive).
 
-a\. Examples are: `arṇavá` *billowy*, `keçavá` *hairy;* `rāsnāvá`
-*girded;* `añjivá` *slippery*, `çantivá` *tranquillizing*, `çraddhivá`
+a\. Examples are: `arṇavá` *billowy*, `keśavá` *hairy;* `rāsnāvá`
+*girded;* `añjivá` *slippery*, `śantivá` *tranquillizing*, `śraddhivá`
 *credible*, `amaṇiva` *jewelless*, `rājīva` *striped*.
 
 b\. There are a very few adjectives in `vala` and `vaya` which may be
 noticed here: thus, `kṛṣīvalá` *peasant* (`kṛṣi` *ploughing*),
 `ūrṇāvalá` *wooly*,
-`rajasvala, ūrjasvala, payasvala, çādvala, naḍvala, çikhāvala, dantāvala`;
+`rajasvala, ūrjasvala, payasvala, śādvala, naḍvala, śikhāvala, dantāvala`;
 `druváya` *wooden dish*, `caturvaya` *fourfold*.
 
 c\. With `vya` are made two or three words from names of relationship:
 thus, `pítṛvya` *paternal uncle*, `bhrā́tṛvya` *nephew, enemy*.
 
-1229\. श `ça`. A very few adjectives appear to be made by an added
+1229\. श `śa`. A very few adjectives appear to be made by an added
 ending of this form.
 
-a\. Thus, `romaçá` or `lomaçá` *hairy*, `étaça` (also `etaçá`)
-*variegated*, `arvaçá` or `árvaça` *hasting*, `babhluçá` or `babhruçá`
-and `kapiça` *brownish*, `kṛṣṇaça` *blackish*, `yuvaçá` *youthful*,
-`bāliça` *childish*, `karkaça` *harsh*, `karmaça` (?) n. pr.; and
-`giriça, vāriça` (?), `vṛkṣaça` are doubtless of the same character (not
-containing the root `çī`). The character of `harīmaçá, káçmaça, kaláça`
+a\. Thus, `romaśá` or `lomaśá` *hairy*, `étaśa` (also `etaśá`)
+*variegated*, `arvaśá` or `árvaśa` *hasting*, `babhluśá` or `babhruśá`
+and `kapiśa` *brownish*, `kṛṣṇaśa` *blackish*, `yuvaśá` *youthful*,
+`bāliśa` *childish*, `karkaśa` *harsh*, `karmaśa` (?) n. pr.; and
+`giriśa, vāriśa` (?), `vṛkṣaśa` are doubtless of the same character (not
+containing the root `śī`). The character of `harīmaśá, káśmaśa, kaláśa`
 is doubtful.
 
 b\. Many of the adjective derivatives already treated have sometimes a
@@ -3142,24 +3142,24 @@ suffix. As to the inflection of these adjectives, see above, 438 ff.
 They are to be counted by hundreds in the older language, and are
 equally or more numerous in the later.
 
-b. Examples from `a`-stems are: `açvín` *possessing horses*, `dhanín`
+b. Examples from `a`-stems are: `aśvín` *possessing horses*, `dhanín`
 *wealthy*, `pakṣín` *winged*, `balín` *strong*, `bhagín` *fortunate*,
-`vajrín` *wielding the thunderbolt*, `çikhaṇḍín` *crested*, `hastín`
-*possessing hands*, `ṣoḍaçín` *of sixteen*, `gardabhanādín` *having an
+`vajrín` *wielding the thunderbolt*, `śikhaṇḍín` *crested*, `hastín`
+*possessing hands*, `ṣoḍaśín` *of sixteen*, `gardabhanādín` *having an
 ass's voice*, `brahmavarcasín` *of eminent sanctity*, `sādhudevín`
 *having luck at play*, `kūcidarthín` *having errands everywhither;* —
-from `ā`-stems, `manīṣín` *wise*, `çikhín` *crested*, `ṛtāyín` *pious*.
+from `ā`-stems, `manīṣín` *wise*, `śikhín` *crested*, `ṛtāyín` *pious*.
 
 c\. Derivatives from other stems are very few in comparison: thus, from
 `i`-stems, `atithin` (?),
-`abhimātín, arcín, açanin, ūrmin, kālanemin, khādín, -pāṇin, marīcin, mauñjin, māulin, -yonin, venin, saṁdhin, samṛddhin, surabhin`
+`abhimātín, arcín, aśanin, ūrmin, kālanemin, khādín, -pāṇin, marīcin, mauñjin, māulin, -yonin, venin, saṁdhin, samṛddhin, surabhin`
 (of those found only at the end of a possessive compound the character
 is doubtful, since case-forms of `i`- and `in`-stems are not seldom
-exchanged); from `u`-stems, `gurvin, çatagvín` (?), `veṇavin` (with
+exchanged); from `u`-stems, `gurvin, śatagvín` (?), `veṇavin` (with
 `guna` of the `u`); — from stems in `an`,
-`varmín,  karmin, carmin, -chadmin, janmin, dhanvin, -dharmin, nāmin, brahmin, yakṣmin, çarmin`,
-and `çvanin`; — in `as`, `retín` *rich in seed*, and probably `varcin`
-n. pr.; also (perhaps through stems in -`sa`) `çavasín` and
+`varmín,  karmin, carmin, -chadmin, janmin, dhanvin, -dharmin, nāmin, brahmin, yakṣmin, śarmin`,
+and `śvanin`; — in `as`, `retín` *rich in seed*, and probably `varcin`
+n. pr.; also (perhaps through stems in -`sa`) `śavasín` and
 `sahasin, manasín, -vayasín`; — isolated are `parisrajín` *garlanded*,
 and `hiranín` (`hiránya`).
 
@@ -3169,21 +3169,21 @@ with the significance of present participles, especially at the end of
 compounds. The properly secondary character of the whole formation is
 shown, on the one hand, by the frequent use in the same manner of words
 bearing an unmistakably secondary form, as
-`praçnín, garbhín, jūrṇín, dhūmín, snānin, homin, matsarín, paripanthín, pravepanín, saṁgatin`;
+`praśnín, garbhín, jūrṇín, dhūmín, snānin, homin, matsarín, paripanthín, pravepanín, saṁgatin`;
 and, on the other hand, by the occurrence of reverted palatals (216)
 before the `in`, which could only be as `in` replaced `a`: thus,
 `arkín, -bhan̄gín, -san̄gín, -rokín`.
 
 e\. In a few cases, there appears before the `in` a `y` preceded by an
 `ā` of inorganic character: thus,
-`dhanvāyín, tantrāyín, çvetāyín, sṛkāyín, ātatāyín, pratihitāyín, marāyín, ṛtāyín, svadhāyín`
+`dhanvāyín, tantrāyín, śvetāyín, sṛkāyín, ātatāyín, pratihitāyín, marāyín, ṛtāyín, svadhāyín`
 (VS.: TB. -`vín`). The `y` in all such words is evidently the inserted
 `y` after `ā` (258 a), and to assume for them a suffix `yin` is quite
 needless.
 
 f\. The accentuation `pravrā́jin, prasyándin`, in the concluding part of
-ÇB., is doubtless false; and the same is to be suspected for
-`çā́kī, sárī, írī` (RV., each once).
+śB., is doubtless false; and the same is to be suspected for
+`śā́kī, sárī, írī` (RV., each once).
 
 g\. A very few words in `in` have not suffered the possessive
 specialization. Such are `vanín` *tree, hermit*, `kapotín` *dovelike*,
@@ -3194,7 +3194,7 @@ of possessive adjectives.
 
 a\. In the old language, the words in min have the aspect of derivatives
 in `in` from nouns in `ma`, although in two or three cases — `iṣmín`
-and `ṛgmín` in RV., `vāgmín` in ÇB. — no such nouns are found in actual
+and `ṛgmín` in RV., `vāgmín` in śB. — no such nouns are found in actual
 use beside them. In the later language, `min` is used as independent
 element in a very few words: thus, `gomin` *possessing cattle*, `svāmin`
 (Sūtras and later) *master, lord* (`sva` *own*), `kakudmin` *humped*.
@@ -3211,16 +3211,16 @@ later. Though for them may be suspected a similar origin to those in
 `yin` and `min` (above), signs of it are much less clearly traceable.
 
 b\. The great majority have `vin` added after as: e. g. `namasvín`
-*reverential*, `tapasvín` *heated*, `tejasvín` *brilliant*, `yaçasvín`
+*reverential*, `tapasvín` *heated*, `tejasvín` *brilliant*, `yaśasvín`
 *beautiful*, and so `retasvín, enasvín, harasvín`, etc.; and
-`çatasvín, çrotrasvín, rūpasvin` have an inserted `s`, by analogy with
+`śatasvín, śrotrasvín, rūpasvin` have an inserted `s`, by analogy with
 them. Most others have ā (sometimes, by lengthening): thus,
 `glāvín, medhāvín, māyāvín, sabhāvín, aṣṭrāvín` *obedient to the goad*,
 `dvayāvín` *double-minded*, `ubhayāvín` *possessing of both kinds*,
 `dhanvāvin, tandrāvin, āmayāvín, ātatāvín`. More rarely, `vin` is added
 after another consonant than `s`: thus,
 `vāgvín, dhṛṣadvín, ātmanvín, kumudvin, sragvin, yajvin, ajvin`. The
-doubtful word `vyaçnuvín` (VS., once: TB. `vyáçniya`) appears to add the
+doubtful word `vyaśnuvín` (VS., once: TB. `vyáśniya`) appears to add the
 ending (or `in`, with euphonic `v`) to a present tense-stem.
 
 c\. An external form of combination is seen only in `vāgvín` and
@@ -3241,28 +3241,28 @@ lengthened in the older language (247) before this ending, as in
 composition. Nouns in `an` more often retain the `n`.
 
 c\. Examples of the normal formation are: with unchanged accent,
-`kéçavant` *hairy*, `putrávant` *having a son*, `prajánanavant`
+`kéśavant` *hairy*, `putrávant` *having a son*, `prajánanavant`
 *procreative*, `puṇḍárīkavant` *rich in lotuses*, `híraṇyavant` *rich in
 gold*, `apūpávant` *having cakes*, `rājanyàvant` *allied with a
 kshatriya;* `prajā́vant` *having progeny*, `ū́rṇāvant` *wooly*,
 `dákṣiṇāvant` *rich in sacrificial gifts;* `sákhivant` *having friends*,
-`saptarṣívant` *accompanied by the seven sages;* `çácīvant` *powerful*,
+`saptarṣívant` *accompanied by the seven sages;* `śácīvant` *powerful*,
 `táviṣīvant` *vehement*, `pátnīvant` *with spouse*, `dhī́vant` *devoted*,
 `dyā́vāpṛthivī́vant` (94 b) *with heaven and earth;* `víṣṇuvant`
 *accompanied by Vishnu;* `háritvant` *golden*, `āvṛ́tvant` *hither
-turned*, `āçī́rvant` *mixed with milk*, `svàrvant` *splendid*,
-`çarádvant` *full of years*, `púṁsvant` *having a male*, `páyasvant`
+turned*, `āśī́rvant` *mixed with milk*, `svàrvant` *splendid*,
+`śarádvant` *full of years*, `púṁsvant` *having a male*, `páyasvant`
 *rich*, `támasvant` *dark*, `bráhmaṇvant` *accompanied with worship*,
 `rómaṇvant` *hairy* (but also `romavant, lómavant, vṛtrahavant`, etc.),
 `kakúbhvant` *containing a* `kakúbh`; — with accent on the suffix,
 `agnivánt` *having fire*, `rayivánt` *wealthy*, `nṛvánt` *manly*,
 `padvánt` *having feet*, `nasvánt` *with nose*, `āsanvánt` *having a
-mouth*, `çīrṣaṇvánt` *headed* (also `çīrṣavant`).
+mouth*, `śīrṣaṇvánt` *headed* (also `śīrṣavant`).
 
-d\. With final stem-vowel lengthened: for example, `áçvāvant` (beside
-`áçvavant`) *possessing horses*, `sutā́vant` *having soma expressed*,
+d\. With final stem-vowel lengthened: for example, `áśvāvant` (beside
+`áśvavant`) *possessing horses*, `sutā́vant` *having soma expressed*,
 `vṛ́ṣṇyāvant` *of virile force* (about thirty such cases occur in V.);
-`çáktīvant` *mighty*, `svádhitīvant` *having axes*, `ghṛ́ṇīvant` *hot;*
+`śáktīvant` *mighty*, `svádhitīvant` *having axes*, `ghṛ́ṇīvant` *hot;*
 `viṣūvánt` *dividing* (`víṣu` *apart*).
 
 e\. Certain special irregularities are as follows: an inserted `s` in
@@ -3270,9 +3270,9 @@ e\. Certain special irregularities are as follows: an inserted `s` in
 `vánanvant, búdhanvant, vádhanvant, gartanvánt, māṅsanvánt`; shortening
 of a final of the primitive in
 `māyávant, yājyàvant, puronuvākyàvant, āmíkṣavant, sarasvativant`;
-abbreviation in `hiraṇvant`; inserted `ā` in `çavasāvant, sahasāvant`,
-and the odd `mahimāvant`; anomalous accent in `kṛçanā́vant` (if from
-`kṛ́çana` *pearl*); derivation from particles in `antárvant` *pregnant*,
+abbreviation in `hiraṇvant`; inserted `ā` in `śavasāvant, sahasāvant`,
+and the odd `mahimāvant`; anomalous accent in `kṛśanā́vant` (if from
+`kṛ́śana` *pearl*); derivation from particles in `antárvant` *pregnant*,
 `viṣūvánt` (above, d).
 
 f\. Instead of the specialized meaning of *possessing*, the more general
@@ -3299,7 +3299,7 @@ and becomes more common later: thus, `tapovant, tejovant, an̄girovant`
 (beside `tápasvant` etc.); `vidyúdvant` (beside `vidyutvant`),
 `bṛhadvant, jagadvant, sadvant`, etc.; `triṣṭubvant` (against
 `kakúbhvant`), `samidvant, vimṛdvant`; `vāgvant` (against `ṛkvant`);
-`svarāḍvant`; `havyavāḍvant`; `āçīrvant`.
+`svarāḍvant`; `havyavāḍvant`; `āśīrvant`.
 
 j\. None of the suffixes beginning with `v` show in the Veda resolution
 of `v` to `u`.
@@ -3317,7 +3317,7 @@ primary `van`: 1169 f) is in `varī`.
 b\. The Vedic examples are: from `a`-stems, `ṛṇāván` or `ṛṇaván, ṛtā́van`
 (and f. -`varī`), `ṛ́ghāvan, dhitā́van, satyā́van, sumnāvarī`, and
 `maghávan`; from `ā`-stems, `sūnṛ́tāvarī, svadhā́van` (and f. -`varī`);
-from `i`-stems, `amatīván, arātīván, çruṣṭīván, muṣīván`, and `kṛṣīvan`
+from `i`-stems, `amatīván, arātīván, śruṣṭīván, muṣīván`, and `kṛṣīvan`
 (only in the further derivative kā́rṣīvaṇa); dhī́van; from
 consonant-stems, `átharvan, samádvan, sáhovan` (bad AV. variant to RV.
 `sahā́van`); `hā́rdvan` (TA. also `hārdivan`). Somewhat anomalous are
@@ -3342,8 +3342,8 @@ before the suffix is in only a few cases made long. Examples are:
 b\. With the accent of the primitive unchanged: `káṇvamant, yávamant`
 *rich in barley*, and `vibhavamant` n. pr. (these alone from `a`-stems,
 and the first only occurring once); `ávimant` *possessing sheep*,
-`açánimant` *bearing the thunderbolt*, `óṣadhīmant` *rich in herbs*,
-`vā́çīmant` *carrying an axe*, `vásumant` *possessing good things*,
+`aśánimant` *bearing the thunderbolt*, `óṣadhīmant` *rich in herbs*,
+`vā́śīmant` *carrying an axe*, `vásumant` *possessing good things*,
 `mádhumant` *rich in sweets*, `tváṣṭṛmant` *accompanied by Tvashtar*,
 `hótṛmant` *provided with priests*, `ā́yuṣmant` *long-lived*,
 `jyótiṣmant` *full of brightness;* — `ulkuṣī́mant` *accompanied with
@@ -3355,7 +3355,7 @@ VS. has also `kakúnmant`) *gleaming*, `virúkmant` *shining*, `havíṣmant`
 
 c. With the accent thrown forward upon the ending: `asimánt` *with
 knives*, `agnimánt` *having fire*, `iṣudhimánt` *with a quiver*,
-`paçumánt` *possessing cattle*, `vāyumánt` *with wind*, `pitṛmánt` (AV.
+`paśumánt` *possessing cattle*, `vāyumánt` *with wind*, `pitṛmánt` (AV.
 `pitṛ́mant`) *accompanied by the Fathers*, `mātṛmánt` *having a mother;*
 no long final vowels are found before the suffix in this division, and
 only once a consonant, in `dasmát` (RV., once).
@@ -3363,15 +3363,15 @@ only once a consonant, in `dasmát` (RV., once).
 d\. Protraction of a final vowel is seen in
 `tvíṣīmant, dhrájīmant, hírīmant`; in `jyótiṣīmant` is irregularly
 inserted an `ī` (after the analogy of `táviṣīmant`); in
-`çuciṣmant, mahiṣmant`, an `s`; `suṣumánt` (RV., once) appears to be
+`śuciṣmant, mahiṣmant`, an `s`; `suṣumánt` (RV., once) appears to be
 primary.
 
-e\. The adverb `āçumát` appears to be related to adverbs in `vát` as the
+e\. The adverb `āśumát` appears to be related to adverbs in `vát` as the
 suffix `mant` to `vant`.
 
 f\. By the side of derivatives made with internal combination appears
 `vidyúnmant` even in RV.; and other like cases occur later: thus,
-`parisrúnmant, kakunmant, kṣunmant, puronún̄mant, vān̄mant, kakummant, gudaliṇmant, yaçomant`.
+`parisrúnmant, kakunmant, kṣunmant, puronún̄mant, vān̄mant, kakummant, gudaliṇmant, yaśomant`.
 
 1236\. It has been seen above (especially in connection with the
 suffixes `a` and `ya`) that the neuter of a derivative adjective is
@@ -3393,12 +3393,12 @@ on the syllable preceding the suffix.
 
 b\. Examples (from the older language) are: `devátā` *divinity*,
 `vīrátā` *manliness*, `puruṣátā` *human nature*, `agnítā` *firehood*,
-`apaçútā` *cattle-lessness*, `bandhútā` *relationship*, `vasútā`
+`apaśútā` *cattle-lessness*, `bandhútā` *relationship*, `vasútā`
 *wealth;* `nagnátā` *nakedness*, `suvīrátā` *wealth in retainers*,
 `anapatyátā` *lack of descendants*, `agótā` *poverty in cattle*,
 `abrahmátā` *lack of devotion*, `aprajástā` *absence of progeny;* also
 doubtless `sūnṛ́tā` (from `sūnára`), although the word is a few times
-used as an adjective (like `çaṁtāti` and `satyatāti`: see next
+used as an adjective (like `śaṁtāti` and `satyatāti`: see next
 paragraph).
 
 c\. Of special formation are `mamátā` *selfishness*, `trétā`
@@ -3415,11 +3415,11 @@ as in the derivatives with `tā`.
 a\. The quotable examples in tāti are: `ariṣṭátāti` *uninjuredness*,
 `ayakṣmátāti` *freedom from disease*, `gṛbhītátāti` *the being seized*,
 `jyeṣṭhátāti` *supremacy*, `devátāti` *divinity*, `vasútāti` *wealth*,
-`çáṁtāti` *good-fortune*, `sarvátāti` *completeness;* and, with
+`śáṁtāti` *good-fortune*, `sarvátāti` *completeness;* and, with
 exceptional accent, `ástatāti` *home*, and `dákṣatāti` *cleverness;*
-`çivatāti` and `çubhatāti` occur (once each) in the later language. Two
+`śivatāti` and `śubhatāti` occur (once each) in the later language. Two
 words in `tāti` are used adjectively (inorganically, by apposition?):
-`çáṁtāti` (RV., twice; and AV. xix. 44. 1, in manuscripts), and
+`śáṁtāti` (RV., twice; and AV. xix. 44. 1, in manuscripts), and
 `satyatāti` (RV., once: voc.).
 
 b\. The words in `tāt` (apparently made by abbreviation from `tāti`)
@@ -3435,8 +3435,8 @@ very numerous. The accent is without exception on the suffix.
 
 b\. Examples (from the older language) are: `amṛtatvá` *immortality*,
 `devatvá` *divinity*, `subhagatvá` *good-fortune*, `ahamuttaratvá`
-*struggle for precedency*, `çucitvá` *purity*, `patitvá` *husbandship*,
-`taraṇitvá` *energy*, `dīrghāyutvá` *long life*, `çatrutvá` *enmity*,
+*struggle for precedency*, `śucitvá` *purity*, `patitvá` *husbandship*,
+`taraṇitvá` *energy*, `dīrghāyutvá` *long life*, `śatrutvá` *enmity*,
 `bhrātṛtvá` *brotherhood*, `vṛṣatvá` *virility*, `sātmatvá`
 *soulfulness*, `maghavattvá` *liberality*, `rakṣastvá` *sorcery*. In
 `anāgāstvá` and -`prajāstvá` there is a lengthening of the final
@@ -3483,12 +3483,12 @@ prepositions etc., see 1111 e.
 
 b\. In `vṛtratára` and `purutáma` (RV.) the, accent is anomalous; in
 `mṛdayáttama`, it is drawn forward to the final of the participle, as
-often in composition (1309); `çaçvattamá` (RV.) has the ordinal accent;
-`saṁvatsaratamá` (ÇB.) is an ordinal; `dívātara` (RV., once: an error?)
+often in composition (1309); `śaśvattamá` (RV.) has the ordinal accent;
+`saṁvatsaratamá` (śB.) is an ordinal; `dívātara` (RV., once: an error?)
 is an ordinary adjective, *of the day;* `surabhíṣṭama` and `tuvíṣṭama`
 insert a `s`; `kārotará` and `kāulitará` are probably
 `vṛddhi`-derivatives in `a`. In `vatsatará` (f. -`rī́`) *weanling*,
-`açvatará` *mule*, and `dhenuṣṭarī́` *cow losing her milk*, the
+`aśvatará` *mule*, and `dhenuṣṭarī́` *cow losing her milk*, the
 application of the suffix is peculiar and obscure; so also in
 `rathaṁtará`, name of a certain *sāman*.
 
@@ -3522,8 +3522,8 @@ and special classes of words, as numerals and particles. Thus:
 a\. तय `taya` makes a few adjectives, meaning *of so many divisions* or
 *kinds* (used in the neuter as collectives), from numerals: thus,
 `ékataya` (MS.), `dvitaya, tritaya, cátuṣṭaya` (AV.), `ṣaṭtaya` (KB.:
-with external combination), `saptátaya` (ÇB.), `aṣṭātaya` (AB.),
-`dáçataya` (RV.), `bahútaya` (TS.). Their fem. is in -`yī`.
+with external combination), `saptátaya` (śB.), `aṣṭātaya` (AB.),
+`dáśataya` (RV.), `bahútaya` (TS.). Their fem. is in -`yī`.
 
 b\. त्य `tya` makes a class of adjectives from particles: e. g. `nítya`
 *own*, `níṣṭya` *foreign*, `amā́tya` *companion*, etc. As the examples
@@ -3533,7 +3533,7 @@ c\. The other quotable examples are
 `ápatya, āvíṣṭya, sánutya, antastya, anyatastya-, tatastya, kutastya, atratya, tatratya, yatratya, kutratya, ihatya, upatya, adhitya, prātastya, dakṣiṇātya`
 (instead of which, the regular form, is generally found `dākṣiṇātya`,
 apparently a further `vṛddhi`-derivative from it: as if *belonging to
-the southerners*), and `pāçcāttya` and `pāurastya` (of a similar
+the southerners*), and `pāścāttya` and `pāurastya` (of a similar
 character: these three last are said by the grammarians to be accented
 on the final, as is proper for `vṛddhi`-derivatives); `aptyá` and
 `āptyá` perhaps contain the same suffix. In `antastya` and `prātastya`
@@ -3551,7 +3551,7 @@ perhaps `samāná` *like*.
 g\. With तन `tana` or (in a few cases) त्न `tna` are made adjectives
 from adverbs, nearly always of time: e. g. `pratná` *ancient*, `nū́tana`
 or `nū́tna` *present*, `sanātána` or `sanátna` *lasting*, `divātana` *of
-the day*, `çvástana` *of tomorrow*, `hyastana` *of yesterday*. The
+the day*, `śvástana` *of tomorrow*, `hyastana` *of yesterday*. The
 accent is various. The feminine is in `nī́`.
 
 h\. The other quotable examples are:

@@ -176,10 +176,10 @@ b.
 
 `avyayībhāva`, 1111 d, 1313.
 
-√`aç` *attain*, pf., 788; aor., 834 b, 837–9, 847; fut., 936 c; inf.,
+√`aś` *attain*, pf., 788; aor., 834 b, 837–9, 847; fut., 936 c; inf.,
 968 d.
 
-√`aç` *eat*, pf., 803 a des., 1029 b, 1031; caus., 1042 n.
+√`aś` *eat*, pf., 803 a des., 1029 b, 1031; caus., 1042 n.
 
 √`as` *be*, pres., 636, 621 e; pf., 800 m; in periphr. conjn, 1070–2,
 1073 d; in ppial periphr. phrases, 1075 d; in cmpd conjn, 1093, 1094.
@@ -418,9 +418,9 @@ compsn, 1249 d.
 
 \-`īva`, see 1190 a.
 
-√`īç`, pres., 628, 630.
+√`īś`, pres., 628, 630.
 
-`īçvara`, with infin., 984, 987.
+`īśvara`, with infin., 984, 987.
 
 √`īṣ`, euph., 225 a.
 
@@ -491,7 +491,7 @@ accus., 271 a.
 
 `uv` in euph. comb'n from an u-vowel, 129 a, c, d, 352 b, 697 a.
 
-`uçánas, uçánā`, dcln, 355 a, 416.
+`uśánas, uśánā`, dcln, 355 a, 416.
 
 √`uṣ`, pres., 608 b; `ya`-ger'd, 992 b; periphr. pf., 1071 f.
 
@@ -620,7 +620,7 @@ f.
 
 `éka`, dcln, 482 a, b; used as article, 482 c; in making 9's 477 a, b.
 
-`ekaçruti`, 90 c.
+`ekaśruti`, 90 c.
 
 √`edh`, pf., 790 c; desid., 1029 b, 1031 b; periph. pf., 1071 c.
 
@@ -681,9 +681,9 @@ final, 148; allows change of `s` to `ṣ`, 183; occurrence, 204, 212, 213
 e.
 
   
-`k`, pron. etc., 39, 40; relation to `c`, 42; to `ç`, 64; `s` to `ṣ`
+`k`, pron. etc., 39, 40; relation to `c`, 42; to `ś`, 64; `s` to `ṣ`
 after, 180 ff.; added to final `n̄`, 211; from `c`, by reversion, 214
-ff.; as final, and in internal combination, 142, 217; from `ç`, do.,
+ff.; as final, and in internal combination, 142, 217; from `ś`, do.,
 145, 218; from `ṣ`, 226 e; anomalously from `t`, 151 a; to `t`, 151 c.
 
 \-`ka`, prmy, 1186; scdry, 1222; `ka` in -`uka`, 1180 a; in -`aka`,
@@ -721,7 +721,7 @@ ff.; as final, and in internal combination, 142, 217; from `ç`, do.,
 
 `kāra`, in sound-names, 18.
 
-√`kāç`, int., 1017.
+√`kāś`, int., 1017.
 
 √`kās`, periph. pf., 1071 f.
 
@@ -760,7 +760,7 @@ d.
 
 √`kṛp`, pres., 745 b; aor., 834 b; cans., 1042 b.
 
-`kṛçá` as pple, 958.
+`kṛśá` as pple, 958.
 
 √`kṛṣ`, 102 a; euph., 226 f; pf. 790 c; aor., 916 a, 920 a; fut., 935 d,
 936 d; inf., 968 d.
@@ -783,7 +783,7 @@ periphr. conj., 1070 c.
 
 √`krudh`, aor., 847.
 
-√`kruç`, aor., 916 a, 920 a.
+√`kruś`, aor., 916 a, 920 a.
 
 `króṣṭu, kroṣṭṛ́`, 343 k, 374.
 
@@ -791,7 +791,7 @@ periphr. conj., 1070 c.
 
 √`klid`, pple, 957 d.
 
-√`kliç`, aor., 916 a.
+√`kliś`, aor., 916 a.
 
 `kṣ`, combinations of, 146, 221.
 
@@ -924,7 +924,7 @@ duplication as final, 210; adds `k` before sibilant, 211.
 reversion to `k`, 216 ff.; in pres., 681; pf., 787; int., 1002 i; des.,
 1028 f.
 
-√`cakās` or `cakāç`, so-called, 677.
+√`cakās` or `cakāś`, so-called, 677.
 
 √`cakṣ`, pres., 444 a, 621 a, 628, 675.
 
@@ -959,9 +959,9 @@ pf., 1071 f.
 caus., 1042 e.
 
   
-`ch`, pron. etc., 42, 44; as final, 142; from `ç` after `t` or `n`, 203;
+`ch`, pron. etc., 42, 44; as final, 142; from `ś` after `t` or `n`, 203;
 after other mutes, 203 a; in internal combination, 220; duplication
-between vowels, 227; `çch` for, 227 a.
+between vowels, 227; `śch` for, 227 a.
 
 `cha` present-stems, 608.
 
@@ -1045,10 +1045,10 @@ pres., 756, 766; pf., 793 h, 794 k; pple, 957 b; caus., 1042 e.
 
   
 `ñ`, pron. etc., 42; from `n` after a palatal, 201; before `j`, 202 b;
-`ç`, 203; c, 208 b.
+`ś`, 203; c, 208 b.
 
   
-`ṭ`, pron. etc., 45, 46; from a final palatal, 142; `ç`, 145, 218; `ṣ`,
+`ṭ`, pron. etc., 45, 46; from a final palatal, 142; `ś`, 145, 218; `ṣ`,
 145; `h`, 147; adds `t` before `s`, 199 e; added to final `ṇ` before
 sibilant, 211; from `j` in internal combination, 219; `ch`, 220; `kṣ`,
 221; `h`, 222; `ṣ`, 226 b.
@@ -1075,7 +1075,7 @@ final, 210; adds `ṭ` before a sibilant, 211.
 `t`, pron. etc., 47, 48; from final radical `s`, 145; do. in internal
 combn, 167, 168; with preceding sonant aspirate, 160; assim. to
 following `l`, 162; added after `ṭ` before `s`, 199 e; after `n` before
-`s` or `ṣ`, 207; to palatal before palatal, 202; before `ç`, 203;
+`s` or `ṣ`, 207; to palatal before palatal, 202; before `ś`, 203;
 anomalously changed to `k`, 151 a; to `ṭ`, 151 b; from `k` and `j`, 151
 c.
 
@@ -1192,7 +1192,7 @@ verbal use of, 946; make periphr. fut, 942–7.
 √`tṛh` or `tṛṅh`, euph., 223 b, 224 b; pres., 694 a, 695; aor., 847, 916
 a.
 
-`toçás`, dcln, 415 b.
+`tośás`, dcln, 415 b.
 
 \-`tos`, infln. in, 970 b, 972.
 
@@ -1303,7 +1303,7 @@ a.
 
 √`dal`, caus., 1042 g.
 
-√`daç` or `daṅç`, pres., 746; pf., 794 d; `tvā`-ger'd, 991 d.
+√`daś` or `daṅś`, pres., 746; pf., 794 d; `tvā`-ger'd, 991 d.
 
 √`das`, aor., 847, 852 b, 899 d.
 
@@ -1325,7 +1325,7 @@ f, 957 a, 1087 e, 1157 c; `ya`-ger'd, 992 a.
 
 \-`dānīm`, advbl, 1103 c.
 
-√`dāç`, pres., 444, 639 c; pf., 790 b, 803 a.
+√`dāś`, pres., 444, 639 c; pf., 790 b, 803 a.
 
 √`dās`, pres., 444.
 
@@ -1337,7 +1337,7 @@ f, 957 a, 1087 e, 1157 c; `ya`-ger'd, 992 a.
 
 `dív`, dcln, 361 d.
 
-√`diç`, euph., 218 a; aor., 916, 920 a; int., 1017.
+√`diś`, euph., 218 a; aor., 916, 920 a; int., 1017.
 
 √`dih`, euph., 155 b, 223 a; aor., 916.
 
@@ -1373,11 +1373,11 @@ f, 957 a, 1087 e, 1157 c; `ya`-ger'd, 992 a.
 
 √`dṛp`, aor., 847; fut., 935 b, 936 d.
 
-√`dṛç`, euph., 218 a; pf., 790 c, 801 e, 805 b; aor., 832, 834 b, 836,
+√`dṛś`, euph., 218 a; pf., 790 c, 801 e, 805 b; aor., 832, 834 b, 836,
 840 b, 847, 890 a, 894 a; fut., 936 d; pass., 998 f; root-noun, dcln,
 386. 3.
 
-`dṛç, dṛça, drkṣa`, with pron.-stems, 518.
+`dṛś, dṛśa, drkṣa`, with pron.-stems, 518.
 
 √`dṛh` or `dṛúh`, euph., 155 b, 223 b, d; pres., 758, 761 b, 767; pf.,
 786 a.
@@ -1487,10 +1487,10 @@ d; inf., 968 d; int., 1017; caus., 1042 g.
 
 \-`nam`, advbl, 1109 a.
 
-√`naç` *be lost*, euph., 192 a; aor., 847, 854 b, 867; fut., 935 d, 936
+√`naś` *be lost*, euph., 192 a; aor., 847, 854 b, 867; fut., 935 d, 936
 a; des., 1028.
 
-√`naç` *attain*, euph., 218 a; pf.,801 g; aor., 833, 834 b, 837 b; des.,
+√`naś` *attain*, euph., 218 a; pf.,801 g; aor., 833, 834 b, 837 b; des.,
 1029 c.
 
 √`nas`, aor., 837 b.
@@ -1521,7 +1521,7 @@ a; des., 1028.
 
 `nilay`, quasi-root, 1087 c.
 
-`níç` and `níçā`, 397.
+`níś` and `níśā`, 397.
 
 `nis`, loss of initial of, 1087 a.
 
@@ -1591,9 +1591,9 @@ a.
 
 `palyay`, quasi-root, 1087 c.
 
-√`paç`, pres., 761 c.
+√`paś`, pres., 761 c.
 
-`paçcima`, dcln, 525 c.
+`paścima`, dcln, 525 c.
 
 √`pā` *drink*, pres., 671, 749 a, 855 a; aor., 830, 838; pple, 954 c;
 `ya`-ger'd, 992 a; des., 1028 d; caus., 1042 k.
@@ -1608,7 +1608,7 @@ a.
 
 √`pinv`, 699 b, 716 a, 749 b.
 
-√`piç`, pres., 758; aor. 840 b; pple, 956 b.
+√`piś`, pres., 758; aor. 840 b; pple, 956 b.
 
 √`piṣ` or `piṅṣ`, euph., 226 d, f; pres., 694 a, 920 a; aor., 190 c, 758
 a.
@@ -1664,7 +1664,7 @@ pple, 957 c.
 
 `prabhṛti`, in compsn, 1302 e.
 
-`praçliṣṭa`-circumflex, 84 d.
+`praśliṣṭa`-circumflex, 84 d.
 
 √`prā`, aor., 830, 889.
 
@@ -1765,7 +1765,7 @@ h, 1003; periphr. pf., 1071 f.
 
 `bhos`, 456; euph., 174 b.
 
-√`bhraṅç` or `bhraç`, pres., 767; aor., 847; pple, 954 b; caus., 1042 h.
+√`bhraṅś` or `bhraś`, pres., 767; aor., 847; pple, 954 b; caus., 1042 h.
 
 √`bhrajj` or `bhṛjj`, euph., 219 b.
 
@@ -1893,7 +1893,7 @@ a; des., 1030.
 
 √`mṛdh`, aor., 838, 847.
 
-√`mṛç`, pf., 786 a; aor., 916, 920; pple, 956 b; int., 1002 g, 1003,
+√`mṛś`, pf., 786 a; aor., 916, 920; pple, 956 b; int., 1002 g, 1003,
 1017.
 
 √`mṛṣ`, aor., 834 c, 840 a, 847.
@@ -2012,7 +2012,7 @@ caus., 1042 g.
 
 √`ric`, pres., 761 b; aor., 834 c, 839, 847, 890.
 
-√`riç`, aor., 916.
+√`riś`, aor., 916.
 
 √`riṣ`, euph., 226 f; aor., 847, 852 a, 853, 870; caus., 1042 b.
 
@@ -2033,9 +2033,9 @@ caus., 1042 g.
 √`rudh`, pres., 694 a, 758 a, 855 a; pf., 801 h; aor., 832, 834 d, 847,
 887 a, 890 a; inf., 968 d; `ya`-ger'd, 992 b.
 
-√`ruç`, aor., 916; caus., 1042 b.
+√`ruś`, aor., 916; caus., 1042 b.
 
-`rúçant`, dcln, 450 c.
+`rúśant`, dcln, 450 c.
 
 √`ruṣ`, pple, 956 b.
 
@@ -2071,7 +2071,7 @@ after, 230 d.
 
 √`lip`, pres., 753, 758: aor., 834 d; 847.
 
-√`liç`, aor., 916.
+√`liś`, aor., 916.
 
 √`lih`, euph., 223 b; aor., 916, 920 a.
 
@@ -2146,7 +2146,7 @@ des., 1028 g.
 
 \-`vala`, 1228 b.
 
-√`vaç`, pres., 638, 660; pf., 784, 786 a.
+√`vaś`, pres., 638, 660; pf., 784, 786 a.
 
 √`vas` *shine*, euph., 167; pres., 608 b, 753 b; pf., 784; aor., 834 b;
 pple, 956 b, d.
@@ -2175,7 +2175,7 @@ c; periphr. pf., 1071 f.
 
 `vāgháṭ`, dcln, 444 a.
 
-√`vāç`, pf., 786 a; aor., 861 a.
+√`vāś`, pf., 786 a; aor., 861 a.
 
 `ví`, dcln, 343 b.
 
@@ -2207,9 +2207,9 @@ aor. and pres., 1073 b, c.
 
 `virāma`, 11.
 
-√`viç`, euph., 218 a; pf., 803 a, 805 b; aor., 834 b, 916, 920 a.
+√`viś`, euph., 218 a; pf., 803 a, 805 b; aor., 834 b, 916, 920 a.
 
-`víçva`, dcln, 524; in compsn, 1251 e, 1280 c, 1298 c.
+`víśva`, dcln, 524; in compsn, 1251 e, 1280 c, 1298 c.
 
 √`viṣ`, euph., 225 a, 226 d, f; aor., 916; int., 1024.
 
@@ -2263,119 +2263,119 @@ e.
 
 √`vraj`, euph., 219 b; aor., 899 d.
 
-√`vraçc`, euph., 221 b; pple, 957 c; `tvā`-ger'd, 991 c.
+√`vraśc`, euph., 221 b; pple, 957 c; `tvā`-ger'd, 991 c.
 
 √`vlī`, pres., 728 b; pple, 957 a; int, 1017; caus., 1042 l.
 
   
-`ç`, pron., etc., 59, 63, 64, 119; relation to `ṣ`, 63 a; as final, 145;
+`ś`, pron., etc., 59, 63, 64, 119; relation to `ṣ`, 63 a; as final, 145;
 in intrnl combn, 218; with preceding `t` or `n`, 203.
 
-\-`ça`, 1229.
+\-`śa`, 1229.
 
-√`çaṅs`, pf., 790 c; `ya`-ger'd, 992 c.
+√`śaṅs`, pf., 790 c; `ya`-ger'd, 992 c.
 
-√`çak`, aor., 837 a, 839, 847; pple, 956 b; des., 1030, 1040.
+√`śak`, aor., 837 a, 839, 847; pple, 956 b; des., 1030, 1040.
 
-`çakán, çákṛt`, 398, 432.
+`śakán, śákṛt`, 398, 432.
 
-√`çan̄k`, aor., 904 d.
+√`śan̄k`, aor., 904 d.
 
-√`çad` *prevail*, pf., 786.
+√`śad` *prevail*, pf., 786.
 
-√`çad` *fall*, pple, 957 d.
+√`śad` *fall*, pple, 957 d.
 
-√`çap`, aor., 233 e; inf., 968 c.
+√`śap`, aor., 233 e; inf., 968 c.
 
-√`çam` *labor*, pres., 634, 763.
+√`śam` *labor*, pres., 634, 763.
 
-√`çam` *be quiet*, pres., 763; aor., 847; pple, 955 a; caus., 1042 g.
+√`śam` *be quiet*, pres., 763; aor., 847; pple, 955 a; caus., 1042 g.
 
-√`çaç`, pf., 794 j.
+√`śaś`, pf., 794 j.
 
-√`ças`, aor., 839.
+√`śas`, aor., 839.
 
-\-`ças`, advbl, 1106.
+\-`śas`, advbl, 1106.
 
-√`çā`, pres., 660, 662, 753 c, 761 g; aor., 834 a; pple, 954 c; caus.,
+√`śā`, pres., 660, 662, 753 c, 761 g; aor., 834 a; pple, 954 c; caus.,
 1042 k.
 
-√`çās` (or `çiṣ`), pres., 444, 639, 675; aor., 847, 852 a, 854 c; pple,
-954 e, 956 b; inf., 968 c; `ya`-ger'd, 992 c; desid., 1031 b; `āçís`
+√`śās` (or `śiṣ`), pres., 444, 639, 675; aor., 847, 852 a, 854 c; pple,
+954 e, 956 b; inf., 968 c; `ya`-ger'd, 992 c; desid., 1031 b; `āśís`
 from, 225 a, 392 b.
 
-√`çiñj`, euph., 219 a; pres., 628.
+√`śiñj`, euph., 219 a; pres., 628.
 
-√`çiṣ` *leave*, euph., 226 f; pres., 694 a, 758 a; aor., 847, 853.
+√`śiṣ` *leave*, euph., 226 f; pres., 694 a, 758 a; aor., 847, 853.
 
-√`çiṣ`, see `çās`.
+√`śiṣ`, see `śās`.
 
-√`çī` *lie*, pres., 628, 629; pf., 806 a; fut, 935 a; pple, 956 c;
+√`śī` *lie*, pres., 628, 629; pf., 806 a; fut, 935 a; pple, 956 c;
 `ya`-ger'd, 992 c.
 
-√`çuc`, pres., 631 a; aor., 847; int, 968 d; `tvā`-ger'd, 991 c; caus.,
+√`śuc`, pres., 631 a; aor., 847; int, 968 d; `tvā`-ger'd, 991 c; caus.,
 1042 b.
 
-√`çudh`, caus., 1042 h.
+√`śudh`, caus., 1042 h.
 
-√`çubh`, pres., 758; aor., 852 a, b, 840 b; caus., 1042 b.
+√`śubh`, pres., 758; aor., 852 a, b, 840 b; caus., 1042 b.
 
-√`çuṣ`, pres., 761 a.
+√`śuṣ`, pres., 761 a.
 
-`çúṣka` as pple, 958.
+`śúṣka` as pple, 958.
 
-√`çū`, see `çvā`.
+√`śū`, see `śvā`.
 
-√`çūṣ`, euph., 240 b.
+√`śūṣ`, euph., 240 b.
 
-√`çṛ` *crush*, euph., 242 b; pres., 731; pf., 793 h; aor., 900 a, 904 b;
+√`śṛ` *crush*, euph., 242 b; pres., 731; pf., 793 h; aor., 900 a, 904 b;
 pple, 955 d, 957 b; inf., 968 d.
 
-√`çcand`, int, 1002 g.
+√`ścand`, int, 1002 g.
 
-√`çnath`, pres., 631 a; aor., 867.
+√`śnath`, pres., 631 a; aor., 867.
 
-√`çyā` or `çī`, pres., 761 e; pple, 954 c, 957 a.
+√`śyā` or `śī`, pres., 761 e; pple, 954 c, 957 a.
 
-√`çrath`, pres., 732, 1066 b, 758; pf, 794h; pple, 956 d.
+√`śrath`, pres., 732, 1066 b, 758; pf, 794h; pple, 956 d.
 
-√`çram`, pres., 763; pf., 794 h; aor., 847; pple, 955 a; caus., 1042 g.
+√`śram`, pres., 763; pf., 794 h; aor., 847; pple, 955 a; caus., 1042 g.
 
-√`çrā`, pres., 761 e; pple, 954 b; caus. 1042 j; caus. aor., 861 b,
+√`śrā`, pres., 761 e; pple, 954 b; caus. 1042 j; caus. aor., 861 b,
 1047.
 
-√`çri`, aor., 831, 867, 868, 889 a; inf., 968 e; caus., 1042 l.
+√`śri`, aor., 831, 867, 868, 889 a; inf., 968 e; caus., 1042 l.
 
-√`çriṣ`, aor., 847.
+√`śriṣ`, aor., 847.
 
-√`çrī`, pple, 955 d.
+√`śrī`, pple, 955 d.
 
-√`çrīv`, see `srīv`.
+√`śrīv`, see `srīv`.
 
-√`çru`, euph., 243; pres., 699 b, 711; pf., 797 c; aor., 831, 836, 838,
+√`śru`, euph., 243; pres., 699 b, 711; pf., 797 c; aor., 831, 836, 838,
 839, 853, 866, 867; desid., 1040; caus., 1042 e.
 
-√`çruṣ`, 102 a.
+√`śruṣ`, 102 a.
 
-√`çliṣ`, euph., 226 d, f; pres., 761 c; aor., 847, 916.
+√`śliṣ`, euph., 226 d, f; pres., 761 c; aor., 847, 916.
 
-√`çvañc`, aor., 863 a.
+√`śvañc`, aor., 863 a.
 
-`çván`, dcln, 427.
+`śván`, dcln, 427.
 
-√`çvas`, pres., 631; pple, 956 b; caus., 1042 g.
+√`śvas`, pres., 631; pple, 956 b; caus., 1042 g.
 
-√`çvā` or `çvi` or `çū`, pf., 786 c, 791 b; aor., 847, 868, 897 b; pple,
+√`śvā` or `śvi` or `śū`, pf., 786 c, 791 b; aor., 847, 868, 897 b; pple,
 957 a; inf., 968 e.
 
-√`çvit`, aor., 832, 890.
+√`śvit`, aor., 832, 890.
 
   
-`ṣ`, pron. etc., 59, 61, 62, 120, 182; relation to `ç`, 63 a; ordinary
+`ṣ`, pron. etc., 59, 61, 62, 120, 182; relation to `ś`, 63 a; ordinary
 derivation, 46; exceptional occurrence, 182; as final, 145, 145 b; `s`
 changed to, 180–8; recurrence avoided, 181 c, 184 e, 1028 i; as root
 final, 182 a, 184 c, 225, 226; changes succeding `n` to `ṇ`, 189 ff.;
-assim. of dental after, 197; from `ç`, 218.
+assim. of dental after, 197; from `ś`, 218.
 
 \-`ṣaṇi`, (or -`sani`), infln in, 970 h, 978, 1159 c, 1160 a.
 
@@ -2414,7 +2414,7 @@ from final root-consonant, 406 a; `s` before `ām` of gen. pl., 313 a,
 
 √`sagh`, aor., 836 b.
 
-√`sac`, pres., 660; pf., 794f; aor., 840 b; `saçc` from, 673, 675.
+√`sac`, pres., 660; pf., 794f; aor., 840 b; `saśc` from, 673, 675.
 
 √`saj` or `sañj`, euph., 219 a; pres., 746; pf., 794 d, h, 801 h; aor.,
 834 c, 887 a; inf., 968 f; des., 1028 i; caus., 1042 h.
@@ -2447,7 +2447,7 @@ g; des., 1028 g, i, 1032 a.
 
 `sárva`, dcln, 524; in compsn, 1251 e, 1298 c.
 
-√`saçc`, pres., 444, 673, 673.
+√`saśc`, pres., 444, 673, 673.
 
 `sás`, euph., 176 a, b.
 
@@ -2552,15 +2552,15 @@ pple, 957 b; inf., 968 d; `ya`-ger'd, 992 a.
 
 \-`snu`, 1194.
 
-`sparça`, 31, 32.
+`sparśa`, 31, 32.
 
-√`spaç`, aor., 834 c.
+√`spaś`, aor., 834 c.
 
 √`spṛ`, aor., 831, 836 b, 839.
 
 √`spṛdh`, euph., 242 d; aor., 834 b, 840 b.
 
-√`spṛç`, euph., 218 a; aor., 916, 920 a; fut., 936 d.
+√`spṛś`, euph., 218 a; aor., 916, 920 a; fut., 936 d.
 
 √`spṛh`, euph., 223 b, d; caus., 1042 d.
 
@@ -2598,7 +2598,7 @@ pple, 957 b; inf., 968 d; `ya`-ger'd, 992 a.
 
 √`sridh`, aor., 847, 852 b.
 
-√`srīv` (or `çrīv`), euph., 240 b; pres., 765; caus., 1042 b.
+√`srīv` (or `śrīv`), euph., 240 b; pres., 765; caus., 1042 b.
 
 √`sru`, pf., 797 c; aor., 868; caus., 1042 e.
 

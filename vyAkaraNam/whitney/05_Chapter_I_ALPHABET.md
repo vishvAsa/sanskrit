@@ -25,12 +25,12 @@ name is **nāgarī** (perhaps, *of the city*); and **deva-nāgarī** is
 
 **2.** Much that relates to the history of the Indian alphabets is still
 obscure. The earliest written monuments of known date in the country are
-the inscriptions containing the edicts of Açoka or Piyadasi, of about
+the inscriptions containing the edicts of Aśoka or Piyadasi, of about
 the middle of the third century B.C. They are in two different systems
 of characters, of which one shows distinct signs of derivation from a
 Semitic source, while the other is also probably, though much less
 evidently, of the same origin. From the latter, the Laṭh, or Southern
-Açoka character (of Girnar), come the later Indian alphabets, both those
+Aśoka character (of Girnar), come the later Indian alphabets, both those
 of the northern Aryan languages and those of the southern Dravidian
 languages. The **nāgarī**, **devanāgarī**, Bengālī, Guzerātī, and
 others, are varieties of its northern derivatives; and with them are
@@ -226,7 +226,7 @@ Sibilants
 
 palatal
 
-46 **श** **ç**
+46 **श** **ś**
 
 lingual
 
@@ -291,11 +291,11 @@ admitted such treatment; nor to begin a paragraph on a new line; nor to
 write one line of verse under another: everything, without exception, is
 written solid by them, filling the whole page.
 
-**b.** Thus, the sentence and verse-line **ahaṁ rudrebhir vasubhiç
-carāmy aham ādityāir uta viçvadevāiḥ** (**Rig-Veda X, 125. 1**: see
+**b.** Thus, the sentence and verse-line **ahaṁ rudrebhir vasubhiś
+carāmy aham ādityāir uta viśvadevāiḥ** (**Rig-Veda X, 125. 1**: see
 Appendix **B**) *I wander with the Vasus, the Rudras, I with the Ādityas
-and the All-Gods* is thus syllabized: **a haṁ ru dre bhi rva su bhi çca
-rā mya ha mā di tyāi ru ta vi çva de vāiḥ**, with each syllable ending
+and the All-Gods* is thus syllabized: **a haṁ ru dre bhi rva su bhi śca
+rā mya ha mā di tyāi ru ta vi śva de vāiḥ**, with each syllable ending
 with a vowel (or a vowel modified by the nasal-sign **anusvāra**, or
 having the sign of a final breathing, **visarga**, added: these being
 the only elements that can follow a vowel in the same syllable); and it
@@ -457,17 +457,17 @@ Thus,
 **क्य kya**, **क्म kma**, **ङ्य ñya**, **द्म dma**, **द्य dya**, **ह्म
 hma**, **ह्य hya**, **छ्य chya**, **ड्य ḍhya**.
 
-**e.** Of **श ç**, which generally becomes [![Sanskrit grammar old
-ç.png](//upload.wikimedia.org/wikipedia/commons/2/23/Sanskrit_grammar_old_%C3%A7.png)](/wiki/File:Sanskrit_grammar_old_%C3%A7.png)
-when followed by a consonant: thus, **श्च çca**, **श्न çna**, **श्व
-çva**, **[![Sanskrit grammar old
-çya.png](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sanskrit_grammar_old_%C3%A7ya.png/20px-Sanskrit_grammar_old_%C3%A7ya.png)](/wiki/File:Sanskrit_grammar_old_%C3%A7ya.png)
-çya**. The same change is usual when a vowel-sign is added below: thus
+**e.** Of **श ś**, which generally becomes [![Sanskrit grammar old
+ś.png](//upload.wikimedia.org/wikipedia/commons/2/23/Sanskrit_grammar_old_%C3%A7.png)](/wiki/File:Sanskrit_grammar_old_%C3%A7.png)
+when followed by a consonant: thus, **श्च śca**, **श्न śna**, **श्व
+śva**, **[![Sanskrit grammar old
+śya.png](//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sanskrit_grammar_old_%C3%A7ya.png/20px-Sanskrit_grammar_old_%C3%A7ya.png)](/wiki/File:Sanskrit_grammar_old_%C3%A7ya.png)
+śya**. The same change is usual when a vowel-sign is added below: thus
 [![Sanskrit grammar old
-çu.png](//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sanskrit_grammar_old_%C3%A7u.png/20px-Sanskrit_grammar_old_%C3%A7u.png)](/wiki/File:Sanskrit_grammar_old_%C3%A7u.png)
-çu, [![Sanskrit grammar old
-çṛ.png](//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sanskrit_grammar_old_%C3%A7%E1%B9%9B.png/20px-Sanskrit_grammar_old_%C3%A7%E1%B9%9B.png)](/wiki/File:Sanskrit_grammar_old_%C3%A7%E1%B9%9B.png)
-çṛ.
+śu.png](//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sanskrit_grammar_old_%C3%A7u.png/20px-Sanskrit_grammar_old_%C3%A7u.png)](/wiki/File:Sanskrit_grammar_old_%C3%A7u.png)
+śu, [![Sanskrit grammar old
+śṛ.png](//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sanskrit_grammar_old_%C3%A7%E1%B9%9B.png/20px-Sanskrit_grammar_old_%C3%A7%E1%B9%9B.png)](/wiki/File:Sanskrit_grammar_old_%C3%A7%E1%B9%9B.png)
+śṛ.
 
 **f.** Other combinations, of not quite obvious value, are **ण्ण ṇṇa**,
 **ल्ल lla**, **द्ध ddha**, **द्भ dbha**, **ष्ट ṣṭa**, **ष्ठ ṣṭha**; and
@@ -503,7 +503,7 @@ grya.png](//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sanskrit_grammar_o
 srva.png](//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sanskrit_grammar_old_srva.png/20px-Sanskrit_grammar_old_srva.png)](/wiki/File:Sanskrit_grammar_old_srva.png)
 `srva`, न्त्र्य `ntrya`; and, with modifications of a preceding
 consonant-sign like those noticed above (13), त्र `tra`, द्र `dra`, श्र
-`çra`, ह्र `hra`.
+`śra`, ह्र `hra`.
 
 d. When र `r` is to be combined with a following ऋ `ṛ`, it is the vowel
 which is written in full, with its initial character, and the consonant
@@ -515,7 +515,7 @@ rṛ.png](//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sanskrit_grammar_o
 are made according to the same rules. Examples are:
 
 of three consonants, त्त्व `ttva`, द्ध्य `ddhya`, द्व्य `dvya`, द्र्य
-`drya`, ध्र्य `dhrya`, प्स्व `psva`, श्च्य `çcya`, ष्ठ्य `ṣṭhya`, ह्व्य
+`drya`, ध्र्य `dhrya`, प्स्व `psva`, श्च्य `ścya`, ष्ठ्य `ṣṭhya`, ह्व्य
 `hvya`;
 
 of four consonants, क्त्र्य `ktrya`, ङ्क्ष्य `n̄kṣya`, ष्ट्र्य `ṣṭrya`,
@@ -543,7 +543,7 @@ and to that alone: thus, ते ऽब्रुवन् `te 'bruvan`, सो �
 b\. If the elided initial-vowel is nasal, and has the `anusvāra`-sign
 (70, 71) written above, this is usually and more properly transferred to
 the eliding vowel; but sometimes it is written instead over the
-`avagraha`-sign: thus, for `so 'ṅçumān`, from `so aṅçumān`, either सों
+`avagraha`-sign: thus, for `so 'ṅśumān`, from `so aṅśumān`, either सों
 ऽशुमान् or सो ऽंशुमान्.
 
 c\. The sign ॰ is used in place of something that is omitted, and to be

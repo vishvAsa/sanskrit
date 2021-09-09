@@ -74,7 +74,7 @@ mad; roots in ā and in a nasal, as khā and khan, gā and gam, jā and jan;
 roots made by an added ā, as trā from tṛ, mnā from man, psā from bhas,
 yā from i; roots the product of reduplication, as jakṣ from ghas, dudh
 from dhū; roots with a final sibilant of formative origin, as bhakṣ and
-bhikṣ from bhaj, nakṣ from naç, çruṣ from çru, hās from hā; root-forms
+bhikṣ from bhaj, nakṣ from naś, śruṣ from śru, hās from hā; root-forms
 held apart by a well-established discordance of inflection and meaning,
 which yet are probably different sides of one root, as kṛṣ *drag* and
 kṛṣ *plough', vid* know *and vid* find*, vṛ* enclose *and vṛ* choose*;
@@ -126,7 +126,7 @@ e\. The roots, on the other hand, showing a variation between ṛ and ar
 (rarely ra) as weak and strong forms will be here written with ṛ, as by
 the native grammarians, although many European authorities prefer the
 other or strong form. So long as we write the unstrengthened vowel in
-vid and çī, in mud and bhū, and their like, consistency seems to be
+vid and śī, in mud and bhū, and their like, consistency seems to be
 require that we write it in sṛj and kṛ also—in all cases alike, without
 reference to what may have been the more original Indo-European form.
 
@@ -229,7 +229,7 @@ examples are sporadic in character, and no rule can be given to cover
 them: for details, see the various suffixes, in chap. XVII. In the RV.
 (as may be mentioned here) the only examples are vidyúnmant (beside
 garútmant, kakúdmant, etc.), pṛ́ṣadvant (beside datvánt, marútvant,
-etc.), dhṛṣadvín (beside namasvín etc.), and ahaṁyú, kiṁyú, çaṁyú, and
+etc.), dhṛṣadvín (beside namasvín etc.), and ahaṁyú, kiṁyú, śaṁyú, and
 aṅhoyú, duvoyú, áskṛdhoyu (beside namasyú, vacasyú, etc.); and the AV.
 adds only sáhovan (RV. savā́van).
 
@@ -256,7 +256,7 @@ abundantly admitted. This appears plainly from the *mantras*, or
 metrical parts of the Veda, where in innumerable instances y and v are
 to be read as i and u, and, less often, a long vowel is to be resolved
 into two vowels, in order to make good the metre; e.g. vāryāṇām has to
-be read as vā-ri-ā-ṇa-ām, svaçvyam as su-aç-vi-am, and so on. In the
+be read as vā-ri-ā-ṇa-ām, svaśvyam as su-aś-vi-am, and so on. In the
 Brāhmaṇas, also, we find tvac, svar, dyāus described as dissyllables,
 vyāna and satyam as trisyllables, rājanya as of four syllables, and the
 like. See further 129 e.
@@ -342,7 +342,7 @@ complicated by two circumstances: their reversion to a guttural form (or
 the appearance of the unaltered guttural instead of them: 43); and the
 different treatment of j and h according as they represent one or
 another degree of alteration—the one tending, like c, more to the
-guttural reversion, the other showing, like ç, a more sibilant and
+guttural reversion, the other showing, like ś, a more sibilant and
 lingual character.
 
 120\. The lingual sibilant ṣ, also of derivative character (from dental
@@ -445,7 +445,7 @@ case ever practically occurs. Examples are:
 
 राजासीत् rājā ”sīt (rājā + āsīt);
 
-अधीश्वरः adhīçvaraḥ (adhi-īçvaraḥ);
+अधीश्वरः adhīśvaraḥ (adhi-īśvaraḥ);
 
 जुहूपभृत् juhūpabhṛt (juhū—upabhṛt).
 
@@ -463,13 +463,13 @@ al; with ए e or ऐ āi, to ऐ āi; with ओ o or औ āu, to औ āu. Exampl
 
 राजेन्द्र rājendra (rāja-indra);
 
-हितोपदेशः hitopadeçaḥ (hita-upadeçaḥ);
+हितोपदेशः hitopadeśaḥ (hita-upadeśaḥ);
 
 महर्षिः maharṣiḥ (mahā-ṛṣiḥ);
 
 सैव sāi ’va (sā + eva);
 
-राजैश्वर्यम् rājāiçvaryam (rājā-āiçvaryam);
+राजैश्वर्यम् rājāiśvaryam (rājā-āiśvaryam);
 
 दिवौकसः divāukasaḥ (divā-okasaḥ);
 
@@ -494,7 +494,7 @@ slide of the voice on a syllable is acknowledged in the language; but,
 3. when the former of the fused elements is acute and the latter grave,
 we might expect the resulting syllable to be in general circumflex, to
 represent both the original tones. Pāṇini in fact allows this accent in
-every such case; and in a single accented Brāhmaṇa text (ÇB.), the
+every such case; and in a single accented Brāhmaṇa text (śB.), the
 circumflex is regularly written. But the language shows, on the whole,
 an indisposition to allow the circumflex to rest on either long vowel or
 diphthong as its sole basis, and the acute element is suffered to raise
@@ -571,7 +571,7 @@ Examples are:
 
 a\. Of a similar combination of acute ṛ́ with following grave, only a
 single case has been noted in accented texts: namely, vijñātr ètát (i.e.
-vijñātṛ́ etát: ÇB. xiv. 6. 8¹¹); the accentuation is in accordance with
+vijñātṛ́ etát: śB. xiv. 6. 8¹¹); the accentuation is in accordance with
 the rules for i and u.
 
 131\. Of a diphthong, the final i- or u-element is changed to its
@@ -611,7 +611,7 @@ both then remain unchanged; and a final ऐ āi, in like manner, becomes
 a\. The latter grammarians allow the y in such combinations to be either
 retained or dropped; but the uniform practice of the manuscripts, of
 every age, in accordance with the strict requirement of the Vedic
-grammars (Prātiçākhyas), is to omit the semivowel and leave the hiatus.
+grammars (Prātiśākhyas), is to omit the semivowel and leave the hiatus.
 
 b\. The persistence of the hiatus caused by this omission is a plain
 indication of the comparatively recent loss of the intervening
@@ -711,14 +711,14 @@ insertions, see below, 249 ff., 257–8.
 
 a\. The final a or ā of a preposition, with initial ṛ of a root, makes
 ār instead of ar: Thus, ārchati (ā + ṛchati), avārchati (ava + ṛchati),
-upārṣati (ÇB.: upa + ṛṣati; but A.V. uparṣanti).
+upārṣati (śB.: upa + ṛṣati; but A.V. uparṣanti).
 
 b\. Instances are occasionally met with a final a or ā being lost
 entirely before initial e or o: thus, in verb-forms, av’ eṣyāmas AB.,
 up’ eṣatu etc. AV.; in derivatives, as upetavya, upetṛ; in compounds, as
-daçoni, yathetam, and (permissibly) compounds with oṣṭha (not rare), otu
+daśoni, yathetam, and (permissibly) compounds with oṣṭha (not rare), otu
 (not quotable), odana, as adharoṣṭha or adharāuṣṭha, tilodana or
-tilāudana; and even in sentence-combination, as iv’ etayas, açvin’ eva,
+tilāudana; and even in sentence-combination, as iv’ etayas, aśvin’ eva,
 yath’ ociṣe (all RV.), tv’ odman B.; and always with the exclamation om
 or oṁkára.
 
@@ -771,7 +771,7 @@ a\. But neither ṝ nor ḷ ever actually occurs; and ṛ is rare (only as
 neuter sing. of a stem in ṛ or ar, or as final of such a stem in
 composition).
 
-Thus, índra, çiváyā, ákāri, nadī́, dā́tu, camū́, janayitṛ́, ágne, çivā́yāi,
+Thus, índra, śiváyā, ákāri, nadī́, dā́tu, camū́, janayitṛ́, ágne, śivā́yāi,
 vā́yo, agnāú.
 
 141\. Of the non-nasal mutes, only the first in each series, the
@@ -812,7 +812,7 @@ words (386 b, c, 407 a); ञ् ñ never occurs.
 
 a\. But the final m of a root is changed to n (compare 212 a, below):
 thus, akran from kram, ágan, ajagan, aganīgan from gam, ánān from nam,
-ayān from yam, praçān from çam; no other cases are quotable.
+ayān from yam, praśān from śam; no other cases are quotable.
 
 144\. Of the semivowels, the ल् l alone is an admitted final, and it is
 very rare. र् r is (like its nearest surd correspondent, स् s: 145)
@@ -820,7 +820,7 @@ changed as final to visarga. Of य् y and व् v there is no occurrence.
 
 145\. Of the sibilants, none may stand unaltered at the end of a word.
 The स् s (which of all final consonants would otherwise be the
-commonest) is, like र् r, changed to a breathing, the visarga. The श् ç
+commonest) is, like र् r, changed to a breathing, the visarga. The श् ś
 either reverts (43) to its original क् k, or, in some roots, is changed
 to ट् ṭ (in accordance with its changes in inflection and derivation:
 see below, 218): thus, दिक् dik, but विट् viṭ. The ष् ṣ is likewise
@@ -848,7 +848,7 @@ b\. The numeral ṣaṣ six is perhaps better to be regarded as ṣakṣ, with
 its kṣ treated as ṣ, according to the accepted rule.
 
 147\. The aspiration ह् h is not allowed to maintain itself, but (like
-ज् j and श् ç) either reverts to its original guttural form, appearing
+ज् j and श् ś) either reverts to its original guttural form, appearing
 as क् k, or is changed to ट् ṭ—both in accordance with its treatment in
 inflection: see below, 222. And, also as in inflection, the original
 sonant aspiration of a few roots (given at 155b) reappears when their
@@ -889,17 +889,17 @@ pṛ́thak, drāk; and of kindred character is khādagdánt (TA.); 2. in here
 and there a verbal form, as sāviṣak (AV. and VS. Kāṇ.), dambhiṣak
 (Āpast.), aviṣak (Pārask.), āhalak (VS. MS.; = āharat); 3. in
 root-finals or the t added to root-stems (383 e), as -dhṛk for -dhṛt
-(Sūtras and later) at the end of compounds, suçrúk (TB.), pṛkṣú (SV.);
+(Sūtras and later) at the end of compounds, suśrúk (TB.), pṛkṣú (SV.);
 and 4. we may further note here the anomalous en̄kṣva (AB.; for intsva,
 √idh) and avāksam (AB.), and the feminines in knī from masculines in ta
 (1176 d).
 
 b\. Of final d or t to a lingual: thus, pad in Vedic paḍbhís, páḍgṛbhi,
-páḍbīça; upānáḍbhyām (ÇB.); vy avāṭ (MS. iii. 4. 9; √vas *shine*), and
+páḍbīśa; upānáḍbhyām (śB.); vy avāṭ (MS. iii. 4. 9; √vas *shine*), and
 perhaps ápā ’rāṭ (MS.; or √raj?).
 
 c\. Of k or j to t, in an isolated example or two, as samyát, ásṛt,
-viçvasṛ́t (TS. K.), and prayátsu (VS. TS.; AV. -kṣu).
+viśvasṛ́t (TS. K.), and prayátsu (VS. TS.; AV. -kṣu).
 
 d\. In Tāittirīya texts, of the final of anuṣṭúbh and triṣṭúbh to a
 guttural: as, anuṣṭúk ca, triṣṭúgbhis, anuṣṭúgbhyas.
@@ -1021,8 +1021,8 @@ assimilating the final to the following initial, or by regressive
 assimilation.
 
 Thus, in internal combination: átsi, átti, atthás, attá (√ad + si etc.);
-çagdhí, çagdhvám (√çak + dhi etc.);—in external combination, ábhūd ayám,
-jyóg jīva, ṣáḍ açītáyaḥ, triṣṭúb ápi, dig-gaja, ṣaḍ-ahá, arcád-dhūma,
+śagdhí, śagdhvám (√śak + dhi etc.);—in external combination, ábhūd ayám,
+jyóg jīva, ṣáḍ aśītáyaḥ, triṣṭúb ápi, dig-gaja, ṣaḍ-ahá, arcád-dhūma,
 bṛhád-bhānu, ab-já.
 
 160\. If, however, a final sonant aspirate of a root is followed by त् t
@@ -1056,7 +1056,7 @@ Thus, either tád námas or tán námas, vā́g me or vā́n̄ me, báḍ mahā�
 mahā́n, triṣṭúb nūnám or triṣṭúm nūnám.
 
 a\. In practice, the conversion into a nasal is almost invariably made
-in the manuscripts, as, indeed, it is by the Prātiçākhyas required and
+in the manuscripts, as, indeed, it is by the Prātiśākhyas required and
 not permitted merely. Even by the general grammarians it is required in
 the compound ṣáṇṇavati, and before mātrā, and the suffix maya (1225):
 thus, vān̄máya, mṛnmáya.
@@ -1064,7 +1064,7 @@ thus, vān̄máya, mṛnmáya.
 b\. Even in internal combination, the same assimilation is made in some
 of the derivatives noted in 111 d, and in the na-participles (957 d).
 And a few sporadic instances are met with even in verb-inflection: thus,
-stin̄noti, stin̄nuyāt (MS.; for stighn-), mṛnnīta (LÇS.; for mṛdn-),
+stin̄noti, stin̄nuyāt (MS.; for stighn-), mṛnnīta (LśS.; for mṛdn-),
 jān̄mayana (KS.; for jāgm-); these, however (like the double aspirates,
 154a), are doubtless to be rejected as false readings.
 
@@ -1077,7 +1077,7 @@ or be converted into the sonant aspirate corresponding with the former:
 thus, either तद्हि tád hí or तद्धि tád dhí.
 
 a\. In practice, the latter method is almost invariably followed; and
-the grammarians of the Prātiçākhya period are nearly unanimous in
+the grammarians of the Prātiśākhya period are nearly unanimous in
 requiring it. The phonetic difference between the two is very slight.
 
 Examples are: vā́g ghutáḥ, ṣáḍḍhotā (ṣaṭ + hotā), taddhita (tat + hita),
@@ -1101,14 +1101,14 @@ sounds, and even before su in declension: thus, píparṣi, caturthá,
 catúrṣu, pūrṣú.
 
 166\. Final radical s remains before a surd in general, and usually
-before s, as in çā́ssi, çāssva, āsse, āçī́ṣṣu (the last is also written
-āçī́ḥṣu: 172): but it is lost in ási (√as + si: 636). Before a sonant
+before s, as in śā́ssi, śāssva, āsse, āśī́ṣṣu (the last is also written
+āśī́ḥṣu: 172): but it is lost in ási (√as + si: 636). Before a sonant
 (that is, bh) in declension, it is treated as in external combination:
-thus, āçī́rbhis. Before a sonant (that is, dh) in conjugation, it appears
-to be dropped, at least after long ā: thus, çādhi, çaçādhi, cakādhi (the
+thus, āśī́rbhis. Before a sonant (that is, dh) in conjugation, it appears
+to be dropped, at least after long ā: thus, śādhi, śaśādhi, cakādhi (the
 only quotable cases); in edhí (√as + dhi: 636) the root syllable is
 irregularly altered; but in 2d perss. pl., made with dhvam, as ādhvam,
-çādhvam, arādhvam (881 a), vadhvam (√vas 
+śādhvam, arādhvam (881 a), vadhvam (√vas 
 
 *clothe*), it is, on account of the equivalence and interchangeability
 of dhv and ddvh (232), impossible to say whether the s in omitted or
@@ -1123,7 +1123,7 @@ tense-stem, see 233 b–e.
 
 167\. In a few very rare cases, final radical s before s is changed to t
 (perhaps by dissimilation): they are, from √vas *dwell* (also
-sporadically from vas *shine*, ÇB., and vas *clothe*, Har.), the future
+sporadically from vas *shine*, śB., and vas *clothe*, Har.), the future
 vatsyā́mi and aorist ávātsam; from √ghas, the desiderative stem jíghatsa.
 
 a\. For t as apparent ending of the 3d sing. in s-verbs, see 555 a.
@@ -1141,7 +1141,7 @@ substitution of a t-stem for an s-stem. The same is true of the change
 of vāṅs to vat in the declension of perfect participles (458). The stem
 anaḍvah (404), from anas-vah, is anomalous and isolated.
 
-b\. In the compound ducchúnā (dus-çunā) and párucchepa (parus-çepa), the
+b\. In the compound ducchúnā (dus-śunā) and párucchepa (parus-śepa), the
 final s of the first member is treated as if a t (203).
 
 169\. As the final consonant of derivative stems and of inflected forms,
@@ -1153,7 +1153,7 @@ a\. The r is found as original final in certain case-forms of stems in ṛ
 or ar (369 ff.); in root-stems in ir and ur from roots in ṛ (383 b); in
 a small number of other stems, as svàr, áhar and ū́dhar (beside áhan and
 ū́dhan: 430), dvā́r or dur, and the Vedic vádhar, uṣarvasar-, vanar-,
-çrutar-, sapar-, sabar-, athar- (cf. 176 c); in a few particles, as
+śrutar-, sapar-, sabar-, athar- (cf. 176 c); in a few particles, as
 antár, prātár, púnar; and in the numeral catúr (482 g).
 
 b\. The euphonic treatment of s and r yielding precisely the same result
@@ -1170,15 +1170,15 @@ surd mutes of its own class.
 
 c\. Before the palatal and lingual surd mutes—च् c and छ् ch, ट् ṭ and
 ठ् ṭh—it is assimilated, becoming the sibilant of either class
-respectively, namely श् ç or ष् ṣ.
+respectively, namely श् ś or ष् ṣ.
 
 d\. Before the guttural and labial surd mutes—क् k and ख् kh, प् p and
 फ् ph—it is also theoretically assimilated, becoming respectively the
 jihvāmūlīya and upadhmānīya spirants (69); but in practice these
 breathings are unknown and the conversion is to visarga.
 
-Examples are: to b. tatas te, cakṣus te; to c. tataç ca, tasyāç chāyā;
-pādaṣ ṭalati; to d. nalaḥ kāmam, puruṣaḥ khanati; yaçaḥ prāpa, vṛkṣaḥ
+Examples are: to b. tatas te, cakṣus te; to c. tataś ca, tasyāś chāyā;
+pādaṣ ṭalati; to d. nalaḥ kāmam, puruṣaḥ khanati; yaśaḥ prāpa, vṛkṣaḥ
 phalavān.
 
 171\. The first three of these rules are almost universal; to the last
@@ -1198,13 +1198,13 @@ stem before a derivative of √kṛ, before pati, before kalpa and kāma, and
 so on. Examples are namaskāra, vācaspati, āyuṣkāma, payaskalpa.
 
 c\. The Vedic retention of the sibilant in sentence-collocation is
-detailed in full in the Prātiçākhyas. The chief classes of cases are: 1.
+detailed in full in the Prātiśākhyas. The chief classes of cases are: 1.
 the final of a preposition or its like before a verbal form; 2. of a
 genitive before a governing noun: as divás putráḥ, iḍás padé; 3. of an
 ablative before pári: as himávatas pári; 4. of other less classifiable
 cases: as dyāúṣ pitā́, tríṣ pūtvā́, yás pátiḥ, paridhíṣ pátāti, etc.
 
-172\. Before an initial sibilant—श् ç, ष् ṣ, स् s—स् s is either
+172\. Before an initial sibilant—श् ś, ष् ṣ, स् s—स् s is either
 assimilated, becoming the same sibilant, or it is changed into visarga.
 
 a\. The native grammarians are in some measure at variance (see APr. ii.
@@ -1216,8 +1216,8 @@ South-Indian manuscripts. European editors generally write visarga; but
 the later dictionaries and glossaries generally make the alphabetic
 place of a word the same as if the sibilant were read instead.
 
-Examples are: manuḥ svayam or manus svayam; indraḥ çūraḥ or indraç
-çūraḥ; tā́ḥ ṣaṭ or tāṣ ṣaṭ.
+Examples are: manuḥ svayam or manus svayam; indraḥ śūraḥ or indraś
+śūraḥ; tā́ḥ ṣaṭ or tāṣ ṣaṭ.
 
 173\. There are one or two exceptions to these rules:
 
@@ -1234,10 +1234,10 @@ retained.
 स् s is changed to the sonant र् r—unless, indeed, it be preceded by अ a
 or आ ā.
 
-Examples are: devapatir iva, çrīr iva; manur gacchati, tanūr apsu;
+Examples are: devapatir iva, śrīr iva; manur gacchati, tanūr apsu;
 svasṝr ajanayat; tayor adṛṣṭakāmaḥ; sarvāir guṇāiḥ; agner manve.
 
-a\. For a few cases like dūḍāça, dūṇāça, see below, 199d.
+a\. For a few cases like dūḍāśa, dūṇāśa, see below, 199d.
 
 b\. The exclamation bhos (456) loses its s before vowels and sonant
 consonants: thus, bho nāiṣadha (and the s is sometimes found omitted
@@ -1254,7 +1254,7 @@ occasional in the older language of the Veda, have been pointed out
 above, 135a, c.
 
 Examples are: nalo nāma, brahmaṇyo vedavit; manobhava; hantavyo ‘smi;
-anyonya (anyas + anya), yaçortham (yaças + artham).
+anyonya (anyas + anya), yaśortham (yaśas + artham).
 
 c\. Final अस् as before any other vowel than अ a loses its स् s,
 becoming simple अ a; and the hiatus thus occasioned remains. 
@@ -1262,12 +1262,12 @@ becoming simple अ a; and the hiatus thus occasioned remains.
 d\. That is to say, the o from as is treated as an original e is treated
 in same situation: see 132–3.
 
-Examples are: bṛhadaçva uvāca, āditya iva, námaükti, vásyaïṣṭi.
+Examples are: bṛhadaśva uvāca, āditya iva, námaükti, vásyaïṣṭi.
 
 176\. Exceptions to the rules as to final as are:
 
 a\. The nominative masculine pronouns sás and eṣás and (Vedic) syás (495
-a, 499 a, b) lose their s before any consonant: thus, sa dadarça *he
+a, 499 a, b) lose their s before any consonant: thus, sa dadarśa *he
 saw*, eṣa puruṣaḥ *this man*; but so ‘bravīt *he said*, puruṣaḥ eṣaḥ.
 
 b\. Instances are met with, both in the earlier and in the later
@@ -1286,7 +1286,7 @@ Thus, it is changed to ar instead of o once in RV. in avás, once in SV.
 in ávas (RV. ávo), once in MS. in dambhiṣas; in bhuvas (second of the
 trio of sacred utterances bhūs, bhuvas, svar), except in its earliest
 occurrences; in a series of words in a Brāhmaṇa passage (TS. K.), viz.
-jinvár, ugrár, bhīmár, tveṣár, çrutár, bhūtár, and (K. only) pūtár; in
+jinvár, ugrár, bhīmár, tveṣár, śrutár, bhūtár, and (K. only) pūtár; in
 janar and mahar; and some of the ar-stems noted at 169 a are perhaps of
 kindred character. On the other hand, as is several times changed to o
 in RV. before a surd consonant; and sás twice, and yás once, retains its
@@ -1318,7 +1318,7 @@ under the same conditions.
 
 a\. Thus, it becomes visarga when final, and a sibilant or visarga
 before an initial surd mute or sibilant (170): thus, rudatī punaḥ, dvās
-tat, svàç ca, catúçcatvāriṅçat; and (111c, d) prātastána, antastya,
+tat, svàś ca, catúścatvāriṅśat; and (111c, d) prātastána, antastya,
 catuṣṭaya, dhūstva; prātaḥ karoti, antaḥpāta.
 
 b\. But original final r preceded by a or ā maintains itself unchanged
@@ -1327,7 +1327,7 @@ vārdhi.
 
 c\. The r is preserved unchanged even before a surd in a number of Vedic
 compounds: thus, aharpáti; svàrcanas, svàrcakṣas, svàrpati, svarṣā́,
-svàrṣāti; dhūrṣád, dhūrṣah; pū́rpati, vārkāryá, āçī́rpada, punartta; and
+svàrṣāti; dhūrṣád, dhūrṣah; pū́rpati, vārkāryá, āśī́rpada, punartta; and
 in some of these the r is optionally retained in the later language. The
 RV. also has āvar támaḥ once in sentence-combination.
 
@@ -1357,7 +1357,7 @@ during their utterance, causing its tip to reach the roof of the mouth
 more easily at a point further back than the dental one.
 
 b\. The general Hindu grammar prescribes the same change after a l also;
-but the Prātiçākhyas give no such rule, and phonetic considerations, the
+but the Prātiśākhyas give no such rule, and phonetic considerations, the
 l being a dental sound, are absolutely against it. Actual cases of the
 combination do not occur in the older language, nor have any been
 pointed out in the later.
@@ -1388,14 +1388,14 @@ below, 184e.
 
 d\. Other cases are sporadic: RV. has the forms sisice and sisicus (but
 siṣicatus), and the stems ṛbī́sa, kīstá, bísa, busá, bṛ́saya; a single
-root pis, with its derivative pesuka, is found once in ÇB.; MS. has
+root pis, with its derivative pesuka, is found once in śB.; MS. has
 mṛsmṛṣā́; músala begins to be found in AV.; and such cases grow more
 numerous; for puṁs and the roots niṅs and hiṅs, see below, 183a.
 
 182\. On the other hand (as was pointed out above, 62), the occurrence
 of ṣ in Sanskrit words is nearly limited to cases falling under this
 rule: others are rather sporadic anomalies—except where ṣ is the product
-of ç or kṣ before a dental, as in draṣṭum, caṣṭe, tvaṣṭar: see 218, 221.
+of ś or kṣ before a dental, as in draṣṭum, caṣṭe, tvaṣṭar: see 218, 221.
 Thus, we find—
 
 a\. Four roots, kaṣ, laṣ, bhaṣ, bhāṣ, of which the last is common and is
@@ -1425,14 +1425,14 @@ these:
 a\. In endings, inflectional or derivative, beginning with s—thus, su;
 si, se, sva; s of sibilant-aorist, future, and desiderative; suffixes
 sna, snu, sya, etc.—after a final alterant vowel or consonant of root or
-stem, or a union-vowel: thus, juhoṣi, çeṣe, anāiṣam, bhaviṣyāmi,
-çuçrūṣe, deṣṇa, jiṣṇu, vikṣu, akārṣam.
+stem, or a union-vowel: thus, juhoṣi, śeṣe, anāiṣam, bhaviṣyāmi,
+śuśrūṣe, deṣṇa, jiṣṇu, vikṣu, akārṣam.
 
 b\. The final s of a stem before an ending or suffix: thus: haviṣā,
-haviṣas, etc., from havis; çakṣuṣmant, çociṣka, mānuṣa, manuṣya,
+haviṣas, etc., from havis; śakṣuṣmant, śociṣka, mānuṣa, manuṣya,
 jyotiṣṭva.
 
-c\. Roots having a final sibilant (except ç) after an alterant vowel
+c\. Roots having a final sibilant (except ś) after an alterant vowel
 are—with the exception of fictitious ones and pis, niṅs, hiṅs—regarded
 as ending in ṣ, not s; and concerning the treatment of this ṣ in
 combination, see below, 225–6.
@@ -1489,7 +1489,7 @@ guttural mute (171 a), as haviṣpā́, jyotiṣkṛ́t; tapuṣpā́.
 
 188\. Once more, in the Veda, the same alteration, both of an initial
 and of a final s, is not infrequent even between the words composing a
-sentence. The cases are detailed in the Prātiçākhya belonging to each
+sentence. The cases are detailed in the Prātiśākhya belonging to each
 text, and are of very various character. Thus:
 
 a\. The initial s, especially of particles; as ū ṣú, hí ṣma, kám u
@@ -1499,7 +1499,7 @@ as hí ṣṭhá, diví ṣṭha;—and in other scattering cases: as u ṣṭuh
 ṣṭave.
 
 b\. A final s, oftenest before pronouns (especially toneless ones): as
-agníṣ ṭvā, níṣ ṭe, īyúṣ ṭé, çúciṣ ṭvám, sádhiṣ ṭáva;—but also in other
+agníṣ ṭvā, níṣ ṭe, īyúṣ ṭé, śúciṣ ṭvám, sádhiṣ ṭáva;—but also in other
 cases, and wherever a final s is preserved, instead of being turned into
 visarga, before a guttural or labial (171): as tríṣ pūtvā́, ā́yuṣ kṛṇotu,
 vā́stoṣ pátiḥ, dyāúṣ pitā́, víbhiṣ pátāt.
@@ -1537,7 +1537,7 @@ result of it.
 
 a\. When suffixes, of influence or derivation, are added to roots or
 stems containing one of the altering sounds; thus, rudréṇa, rudrā́ṇām,
-vā́riṇe, vā́riṇī, vā́rīṇi, dātṝ́ṇi, hárāṇi, dvéṣāṇi, krīṇā́mi, çṛṇóti,
+vā́riṇe, vā́riṇī, vā́rīṇi, dātṝ́ṇi, hárāṇi, dvéṣāṇi, krīṇā́mi, śṛṇóti,
 kṣubhāṇá, ghṛṇá, kárṇa, vṛkṇá, rugṇá, dráviṇa, iṣáṇi, purāṇá, rékṇas,
 cákṣaṇa, cíkīrṣamāṇa, kṛ́pamāṇa.
 
@@ -1563,9 +1563,9 @@ of a root or of its derived stems and forms. Thus:
 a\. The initial n of a root is usually and regularly so altered, in all
 forms and derivatives, after parā, pari, pra, nir (for nis), antar, dur
 (for dus): thus, párā ṇaya, pári ṇīyate, prá ṇudasva; parāṇutti,
-pariṇāma, praṇavá, nirṇíj, durṇáça. Roots suffering this change are
+pariṇāma, praṇavá, nirṇíj, durṇáśa. Roots suffering this change are
 written with initial ṇ in the native root-lists. The only exceptions of
-importance are nṛt, nabh, nand, and naç when its ç becomes ṣ (as in
+importance are nṛt, nabh, nand, and naś when its ś becomes ṣ (as in
 pránaṣṭa).
 
 b\. The final n of a root is lingualized in some of the forms of an and
@@ -1659,7 +1659,7 @@ never occurs in the older language, and very rarely in the later. For
 final n before a lingual, see 205 b.
 
 b\. An initial dental after a final lingual usually remains unchanged;
-and su of the loc. pl. follows the same rule: thus, ṣáṭtriṅçat, ā́naḍ
+and su of the loc. pl. follows the same rule: thus, ṣáṭtriṅśat, ā́naḍ
 diváḥ, ekarā́ṭ tvám; ṣaṭsú, rāṭsú.
 
 c\. Exceptions are: a few compounds with ṣaṣ *six* showing double ṇ (198
@@ -1669,10 +1669,10 @@ IB. has ṣaṇ ṇiramimīta.
 d\. In a few compounds, moreover, there appears a lingualized dental,
 with compensatory lengthening, after a lost lingual sibilant or its
 representative: namely, in certain Vedic compounds with dus: dūḍábha,
-dūḍā́ç, dūḍhī́, dūṇáça, dūṇā́ça (compare the anomalous puroḍā́ç and -ḍā́ça:
-puras + √dāç); and, in the language of every period, certain compounds
+dūḍā́ś, dūḍhī́, dūṇáśa, dūṇā́śa (compare the anomalous puroḍā́ś and -ḍā́śa:
+puras + √dāś); and, in the language of every period, certain compounds
 of ṣaṣ, with change of its vowel to an alterant quality (as in voḍhum
-and soḍhum: 224 b): ṣóḍaça, ṣoḍhā́ (also ṣaḍḍhā́ and ṣaḍdhā́), ṣoḍant.
+and soḍhum: 224 b): ṣóḍaśa, ṣoḍhā́ (also ṣaḍḍhā́ and ṣaḍdhā́), ṣoḍant.
 
 e\. Between final ṭ and initial s, the insertion of a t is permitted—or,
 according to some authorities, required: thus, ṣáṭ sahásrāḥ or ṣáṭt
@@ -1703,22 +1703,22 @@ manuscripts.
 
 d\. For n before a surd palatal, see below, 208.
 
-203\. Before the palatal sibilant श् ç, both त् t and न् n are
+203\. Before the palatal sibilant श् ś, both त् t and न् n are
 assimilated, becoming respectively च् c and ञ् ñ; and then the following
-श् ç may be, and in practice almost always is, converted to छ् ch.
+श् ś may be, and in practice almost always is, converted to छ् ch.
 
-Thus, vedavic chūraḥ (-vit çū-), tac chrutvā, hṛcchaya (hṛt + çaya);
-bṛhañ cheṣaḥ or çeṣaḥ, svapañ chete or çete.
+Thus, vedavic chūraḥ (-vit śū-), tac chrutvā, hṛcchaya (hṛt + śaya);
+bṛhañ cheṣaḥ or śeṣaḥ, svapañ chete or śete.
 
-a\. Some authorities regard the conversion of ç to ch after t or n as
+a\. Some authorities regard the conversion of ś to ch after t or n as
 everywhere obligatory, others as only optional; some except,
-peremptorily or optionally, a ç followed by a mute. And some require the
+peremptorily or optionally, a ś followed by a mute. And some require the
 same conversion after every mute save m, reading also vípāṭ chutudrī́,
-ā́naṭ chúci, anuṣṭup chāradī, çuk chuci. The manuscripts generally write
-ch, instead of cch, as result of the combination of t and ç.
+ā́naṭ chúci, anuṣṭup chāradī, śuk chuci. The manuscripts generally write
+ch, instead of cch, as result of the combination of t and ś.
 
-b\. In the MS., t and ç are anomalously combined into ñ ç: e.g. táñ
-çatám, etāvañçás. 
+b\. In the MS., t and ś are anomalously combined into ñ ś: e.g. táñ
+śatám, etāvañśás. 
 
 Combinations of final न् n.
 
@@ -1741,7 +1741,7 @@ c\. For assimilation of n to a preceding palatal, see 201.
 The remaining cases are those of external combination.
 
 205\. a. The assimilation of n in external combination to a following
-sonant palatal and the palatal sibilant ç have been already treated (202
+sonant palatal and the palatal sibilant ś have been already treated (202
 b, 203).
 
 b\. The n is also declared to be assimilated (becoming ṇ) before a
@@ -1767,20 +1767,20 @@ texts.
 unchanged; but a t may also be inserted between the nasal and the
 sibilant: thus, tā́n ṣáṭ or tā́nt ṣáṭ; mahā́n sán or mahā́nt sán.
 
-a\. According to most of the grammarians of the Prātiçākhyas (not RPr.),
+a\. According to most of the grammarians of the Prātiśākhyas (not RPr.),
 the insertion of the t in such cases is a necessary one. In the
 manuscripts it is very frequently made, but not uniformly. It is
 probably a purely phonetic phenomenon, a transition-sound to ease the
 double change of sonant to surd and nasal to non-nasal
 utterance—although the not infrequent cases in which final n stands for
 original nt (as bharan, abharan, agnimān) may have aided to establish it
-as a rule. Its analogy with the conversion of n ç into ñch (203) is
+as a rule. Its analogy with the conversion of n ś into ñch (203) is
 palpable. 
 
 208\. Before the surd palatal, lingual, and dental mutes, there is
 inserted after final n a sibilant of each of those classes respectively,
-before which the n becomes anusvāra: thus, devāṅç ca, bhavāṅç chidyate,
-kumārāṅs trīn, abharaṅs tataḥ, dadhaṅç (425 c) carum.
+before which the n becomes anusvāra: thus, devāṅś ca, bhavāṅś chidyate,
+kumārāṅs trīn, abharaṅs tataḥ, dadhaṅś (425 c) carum.
 
 a\. This rule, which in the classical language has established itself in
 the form here given, as a phonetic rule of unvarying application, really
@@ -1794,8 +1794,8 @@ involving the other initials occur either not at all, or only with
 extreme rarity (the Veda does not present an example of any of them). In
 the Veda, the insertion is not always made, and the different texts have
 with regard to its different usages, which are fully explained in the
-Prātiçākhyas; in general, it is less frequent in the older texts. When
-the ç does not appear between n and c, the n is of course assimilated,
+Prātiśākhyas; in general, it is less frequent in the older texts. When
+the ś does not appear between n and c, the n is of course assimilated,
 becoming ñ (203).
 
 209\. The same retention of original final s after a nasal, and
@@ -1812,7 +1812,7 @@ extremely common case, especially in RV. Once or twice, the s appears as
 
 b\. In like manner, s is treated after nasal ī, ū, ṝ as it would be
 after those vowels when pure, becoming r before a sonant sound (174),
-and (much more rarely) ḥ before a surd (170): thus, raçmī́ṅr iva, sūnū́ṅr
+and (much more rarely) ḥ before a surd (170): thus, raśmī́ṅr iva, sūnū́ṅr
 yuvanyū́ṅr út, nṝ́ṅr abhí; nṝ́ṅḥ pā́tram (and nṝ́ṅṣ p-, MS.).
 
 c\. RV. has once -īṅ before y. MS. usually has aṅ instead of āṅ.
@@ -1825,7 +1825,7 @@ a\. This is also to be regarded as a historical survival, the second
 nasal being an assimilation of an original consonant following the
 first. It is always written in the manuscripts, although the Vedic metre
 seems to show a duplication was sometimes omitted. The RV. has the
-compound vṛṣaṇaçva.
+compound vṛṣaṇaśva.
 
 211\. The nasals ñ and ṇ before a sibilant are allowed to insert
 respectively k and ṭ—as n (207) inserts t: thus, pratyán̄k sómaḥ. 
@@ -1839,10 +1839,10 @@ former, becoming the nasal of the same class with the mute.
 a\. Before m or v (as when final: 143 a), it is changed to n: thus, from
 √gam come áganma, aganmahi, ganvahi, jaganvā́ṅs (which appear to be the
 only quotable cases). According to the grammarians, the same change is
-made in the inflection of root-stems before bh and su: thus, praçānbhis,
-praçānsu (from praçām: pra + √çam). No derived noun-stem ends in m.
+made in the inflection of root-stems before bh and su: thus, praśānbhis,
+praśānsu (from praśām: pra + √śam). No derived noun-stem ends in m.
 
-b\. The ÇB. and KÇS. have kámvant and çāmvant, and CbU. has kamvara.
+b\. The śB. and KśS. have kámvant and śāmvant, and CbU. has kamvara.
 
 213\. Final म् m in external combination is a servile sound, being
 assimilated to any following consonant. Thus:
@@ -1869,7 +1869,7 @@ g\. But if h be immediately followed by another consonant (which can
 only be a nasal or semivowel), the m is allowed to be assimilated to
 that following consonant. This is because the h has no position of the
 mouth-organs peculiar to itself, but is uttered in the position of the
-next sound. The Prātiçākhyas do not take any notice of the case.
+next sound. The Prātiśākhyas do not take any notice of the case.
 
 h\. Cases are met with in the Veda where a final m appears to be dropped
 before a vowel, the final and initial vowels being then combined into
@@ -1896,9 +1896,9 @@ cases where other similar sounds are retained.
 reversion to guttural form is by no means rare. The cases are the
 following:
 
-a\. Before a of suffix a, final c becomes k in an̄ká, çvan̄ka, arká, pāká,
-vāká, çúka, parka, marká, vṛ́ka, prátīka etc., reka, séka, moka, roká,
-çóka, toká, mroká, vraská;—final j becomes g in tyāgá, bhága, bhāgá,
+a\. Before a of suffix a, final c becomes k in an̄ká, śvan̄ka, arká, pāká,
+vāká, śúka, parka, marká, vṛ́ka, prátīka etc., reka, séka, moka, roká,
+śóka, toká, mroká, vraská;—final j becomes g in tyāgá, bhága, bhāgá,
 yāga, an̄ga, bhan̄gá, san̄ga, svan̄ga, ṛñga, tun̄ga, yun̄ga, varga, mārga,
 mṛgá, varga, sarga, nega, vega, bhóga, yugá, yóga, loga, róga;—final h
 becomes gh in aghá, maghá, arghá, dīrghá (and drā́ghīyas, drā́ghiṣṭa),
@@ -1907,14 +1907,14 @@ In neka (√nij) we have further an anomalous substitution of a surd for
 the final sonant of the root.
 
 b\. In another series of derivatives with a, the altered sound appears:
-examples are ajá, yāja, çucá, çoca, vrajá, vevijá, yuja, ūrjā́, dóha.
+examples are ajá, yāja, śucá, śoca, vrajá, vevijá, yuja, ūrjā́, dóha.
 
 c\. Before the suffixes as and ana, the guttural only rarely appears:
-namely, in án̄kas, ókas, rókas, çókas, bhárgas, and in rogana; also in
+namely, in án̄kas, ókas, rókas, śókas, bhárgas, and in rogana; also in
 ābhogáya.
 
 d\. Before an i-vowel, the altered sound appears (except in ābhogí,
-ógīyaṅs, tigitá, mokī́, sphigī́): thus, ājí, tují, rúci, çácī, vívici,
+ógīyaṅs, tigitá, mokī́, sphigī́): thus, ājí, tují, rúci, śácī, vívici,
 rociṣṇú.
 
 e\. Before u, the guttural reappears, as a rule (the cases are few):
@@ -1935,18 +1935,18 @@ yujya, bhujyu. Such cases as bhogya, yogya, negya, okya are doubtless
 secondary derivatives from bhoga etc. 
 
 i\. Before r, the cases are few, and the usage apparently divided: thus,
-takra, sakra, vakrá, çukrá, vigrá, ugrá, túgra, mṛgra, ván̄kri; but vájra
+takra, sakra, vakrá, śukrá, vigrá, ugrá, túgra, mṛgra, ván̄kri; but vájra
 and pajrá (?).
 
 j\. Before v (of the suffixes va, van, vin, etc., and participial vāṅs)
 the guttural is regularly preserved: thus, ṛkvá, pakvá, vákva; vákvan,
-ṛ́kvan, rikvan, çukvan, mṛgvan, túgvan, yugvan; ṛ́kvant, pṛ́kvant; vāgvín,
+ṛ́kvan, rikvan, śukvan, mṛgvan, túgvan, yugvan; ṛ́kvant, pṛ́kvant; vāgvín,
 vagvaná, vagvanú (with further sonant change); vivakvā́ṅs, ririkvā́ṅs,
-vivikvā́ṅs, rurukvā́ṅs, çuçukvā́ṅs; çuçukvaná, çuçukváni: also before the
+vivikvā́ṅs, rurukvā́ṅs, śuśukvā́ṅs; śuśukvaná, śuśukváni: also before the
 union-vowel i in okivā́ṅs (RV., once). An exception is yájvan.
 
 k\. The reversion of h in derivation is comparatively rare. The final j
-which is analogous with ç (219) shows much less proclivity to reversion
+which is analogous with ś (219) shows much less proclivity to reversion
 than that which corresponds with c.
 
 l\. A like reversion shows itself also to some extent in conjugational
@@ -1973,7 +1973,7 @@ c in external combination: thus, vā́k ca, vā́g ápi, vā́n̄ me.
 Examples of c remaining unchanged in inflection are: ucyáte, riricré,
 vācí, mumucmáhe.
 
-217\. Final श् ç reverts to its original क् k, in internal combination,
+217\. Final श् ś reverts to its original क् k, in internal combination,
 only before the स् s of a verbal stem or ending (whence, by 180, क्ष्
 kṣ); before त् t and थ् th, it everywhere becomes ष् ṣ (whence, by 197,
 ष्ट् ṣṭ and ष्ठ् ṣṭh); before ध् dh, भ् bh, and सु su of the loc. pl.,
@@ -1982,18 +1982,18 @@ as when final (145), it regularly becomes the lingual mute (ट् ṭ or ड्
 
 Thus, ávikṣata, vekṣyā́mi; váṣṭi, viṣṭá, dídeṣḍu; didiḍḍhi, viḍbhís. 
 
-a\. But a few roots exhibit the reversions of final ç to k before bh and
-su, and also when final (145): they are diç, dṛç, spṛç, and optionally
-naç; and viç has in V. always vikṣú, loc. pl., but víṭ, viḍbhís, etc.
-Examples are díksaṁçita, dṛgbhís, hṛdispṛ́k, nák (or naṭ).
+a\. But a few roots exhibit the reversions of final ś to k before bh and
+su, and also when final (145): they are diś, dṛś, spṛś, and optionally
+naś; and viś has in V. always vikṣú, loc. pl., but víṭ, viḍbhís, etc.
+Examples are díksaṁśita, dṛgbhís, hṛdispṛ́k, nák (or naṭ).
 
-Examples of ç remaining unchanged before vowels etc. are: viçí,
-viviçyās, aviçran, açnomi, vacmi, uçmási.
+Examples of ś remaining unchanged before vowels etc. are: viśí,
+viviśyās, aviśran, aśnomi, vacmi, uśmási.
 
-b\. A ç remains irregularly unchanged before p in the compound viçpáti.
+b\. A ś remains irregularly unchanged before p in the compound viśpáti.
 
 219\. Final ज् j is in one set of words treated like च् c, and in
-another set like श् ç.
+another set like श् ś.
 
 Thus, from yuj: áyukthās, áyukta, yun̄kté, yukti, yóktra, yokṣyā́mi,
 yukṣú; yun̄gdhí, áyugdhvam, yugbhís.
@@ -2004,7 +2004,7 @@ mṛḍḍhí, mṛḍḍhavám, rāḍbhís, rāṭsú, rā́ṭ.
 a\. To the former or yuj-class belong (as shown by their quotable forms)
 about twenty roots and radical stems: namely, bhaj, saj, tyaj (not V.),
 raj 'color*, svaj, majj, nij, tij, vij, 1 and 2 bhuj, yuj, ruj, vṛj,
-añj, bhañj, çiñj; ū́rj, sráj, bhiṣáj, ásṛj;—also, stems formed with the
+añj, bhañj, śiñj; ū́rj, sráj, bhiṣáj, ásṛj;—also, stems formed with the
 suffixes aj and ij (383. IV), as tṛṣṇáj, vaṇíj; and ṛtvíj, though
 containing the root yaj.*
 
@@ -2020,12 +2020,12 @@ noun-inflection, by bh or su. In derivation (above, 216) we find a g
 sometimes from the mṛj-class: thus mārga, sárga, etc.; and (2161) before
 Vedic mid. endings, sasṛgmahe, asṛgran, etc. (beside sasṛjrire)—while
 from the yuj-class occur only yuyujre, ayujran, bubhujrire, with j. And
-MS. has viçvasṛ́k from (√sṛj).
+MS. has viśvasṛ́k from (√sṛj).
 
 220\. Final ch falls under the rules of combination almost only in the
-root prach, in which it is treated as if it were ç (praç being, indeed,
+root prach, in which it is treated as if it were ś (praś being, indeed,
 its more original form): thus, prakṣyā́mi, pṛṣṭá, and also the derivative
-praçná. As final and in noun-inflection (before bh and su), it is
+praśná. As final and in noun-inflection (before bh and su), it is
 changed to the lingual mute: thus, prāḍvivāka.
 
 a\. Mūrtá is called the participle of mūrch, and a gerund mūrtvā́ is
@@ -2039,15 +2039,15 @@ treated like c.
 demonstrably secondary origin), or of a tense-stem (s-aorist: see below,
 878 ff.); and, in the not very frequent cases of its internal
 combination, it is treated as if a single sound, following the rules for
-ç: thus çákṣe (cakṣ + se), cákṣva; cáṣṭe, ácaṣṭa, ásrāṣṭam, ásṛṣṭa,
+ś: thus śákṣe (cakṣ + se), cákṣva; cáṣṭe, ácaṣṭa, ásrāṣṭam, ásṛṣṭa,
 tváṣṭar. As to its treatment when final, see 146.
 
 a\. Thus, we are taught by the grammarians to make such forms as goráṭ,
 goráḍbhis, goráṭṣu (from gorákṣ); and we actually have ṣáṭ, ṣaḍbhís,
 ṣaṭsú from ṣakṣ or ṣaṣ (146 b). For jagdha etc. from √jakṣ, see 233 f.
 
-b\. In the single anomalous root vraçc, the compound çc is said to
-follow the rules for simple ç. From it are quotable the future
+b\. In the single anomalous root vraśc, the compound śc is said to
+follow the rules for simple ś. From it are quotable the future
 vrakṣyáti, the gerunds vṛṣṭvā́ (AV.) and vṛktvī́ (RV.), and the participle
 (957 c) vṛkṇá. Its c reverts to k in the derivative vraska.
 
@@ -2061,13 +2061,13 @@ thus, ádhukṣam, dhokṣyā́mi; dugdhā́m, dugdhá; ádhok, dhúk, dhugbhís
 dhukṣú.
 
 b\. In the other cases, as ruh and sah, we have a guttural reversion (as
-of ç) only before s in verb-formations and derivation: thus, árukṣat,
+of ś) only before s in verb-formations and derivation: thus, árukṣat,
 rokṣyā́mi, sākṣiyá, sakṣáṇi. As final, in external combination, and in
-noun-inflection before bh and su, the h (like ç) becomes a lingual mute:
+noun-inflection before bh and su, the h (like ś) becomes a lingual mute:
 thus, turāṣā́ṭ, pṛtanāṣā́ḍ ayodhyáḥ, turāsā́ḍbhis, turāsā́ṭsu. But before a
 dental mute (t, th, dh) in verb-inflection and in derivation, its
 euphonic effect is peculiarly complicated: in turns the dental into a
-lingual (as would ç); but it also makes it sonant and aspirate (as would
+lingual (as would ś); but it also makes it sonant and aspirate (as would
 ḍh: see 160); and further, it disappears itself, and the preceding
 vowel, if short, is lengthened: thus, from ruh with ta comes rūḍhá, from
 leh with ti comes léḍhi, from guh with tar comes gūḍhár, from meh with
@@ -2133,7 +2133,7 @@ false analogy with others).
 c\. These anomalous vowel-changes seem to stand in connection with the
 fact that the cases showing them are the only ones where other than an
 alterant vowel (180) comes before the lingualized sibilant
-representative of the h. Compare ṣóḍaça etc.
+representative of the h. Compare ṣóḍaśa etc.
 
 d\. Apparently by dissimilation, the final of vah in anomalous compound
 anaḍvah is changed to d instead of ḍ: see 404. 
@@ -2149,12 +2149,12 @@ That, however, is true only in a very few instances.
 
 a\. Namely, in the prefix dus (evidently identical with √duṣ); in sajū́s
 (adverbially used case-form from √juṣ); in (RV.) vivés and ávives, from
-√viṣ; in āíyes (RV.), from √īṣ; and in āçís, from çiṣ as secondary form
-of √çās. All these, except the first two, are more or less open in
+√viṣ; in āíyes (RV.), from √īṣ; and in āśís, from śiṣ as secondary form
+of √śās. All these, except the first two, are more or less open in
 question.
 
 226\. In general, final lingual ष् ṣ, in internal combination, is
-treated in the same manner as palatal श् ç. Thus:
+treated in the same manner as palatal श् ś. Thus:
 
 a\. Before t and th it remains unchanged, and the latter are
 assimilated: e.g. dviṣṭas, dviṣṭhas, dvéṣṭum.
@@ -2186,13 +2186,13 @@ also: in this case, too, without any conceivable reason; and no example
 of ḍhve in the 2d pl. perf. has been pointed out in the literature.
 
 d\. The conversion of ṣ to ṭ (or ḍ) as final and before bh and su is
-parallel with the like conversion of ç, and of j and h in the mṛj and
+parallel with the like conversion of ś, and of j and h in the mṛj and
 ruh classes of roots, and perhaps with the occasional change of s to t
 (167–8). It is a very infrequent case, occurring (save as it may be
 assumed in the case of ṣaṣ) only once in the RV. and once in the AV.
 (-dviṭ and -pruṭ), although those texts have more than 40 roots with
 final ṣ; in the Brāhmaṇas, moreover, have been noticed further only
--pruṭ and víṭ (ÇB.), and -çliṭ (K.). From piṅṣ, RV. has the anomalous
+-pruṭ and víṭ (śB.), and -śliṭ (K.). From piṅṣ, RV. has the anomalous
 form piṇak (2d and 3d sing., for pinaṣ-s and pinaṣ-t).
 
 e\. Before s in internal combination (except su of loc. pl.) it becomes
@@ -2202,8 +2202,8 @@ f\. This change is of anomalous phonetic character, and difficult of
 explanation. It is also practically of very rare occurrence. The only
 RV. examples (apart from piṇak, above) are vivekṣi, from √viṣ, and the
 desid. stem ririkṣa from √riṣ; AV. has only dvikṣat and dvikṣata, and
-the desid. stem çiçlikṣa from √çliṣ. Other examples are quotable from
-√√kṛṣ and piṣ and viṣ (ÇB. etc.), and çiṣ (ÇB.); and they are by the
+the desid. stem śiślikṣa from √śliṣ. Other examples are quotable from
+√√kṛṣ and piṣ and viṣ (śB. etc.), and śiṣ (śB.); and they are by the
 Hindu grammarians prescribed to be formed from about half-a-dozen other
 roots.
 
@@ -2219,9 +2219,9 @@ either a long or a short vowel; and, as initial, necessarily after a
 short and after the particles ā́ and mā́, and optionally everywhere after
 a long. In RV., initial ch is doubled after a long vowel of ā́ only, and
 certain special cases after a short vowel are excepted. For the required
-usage in the other Vedic texts, see their several Prātiçākhyas. The
+usage in the other Vedic texts, see their several Prātiśākhyas. The
 Kāṭhaka writes for original ch (not ch from combination of t or n with
-ç: 203) after a vowel everywhere çch. The manuscripts in general write
+ś: 203) after a vowel everywhere śch. The manuscripts in general write
 simple ch.
 
 b\. Opinions are still at variance as to how far this duplication has an
@@ -2258,21 +2258,21 @@ a vowel of a preceding word—is by the grammarians either allowed or
 required to be doubled.
 
 a\. This duplication is allowed by Pāṇini and required by the
-Prātiçākhyas—in both, with mention of authorities who deny it
-altogether. For certain exceptions, see the Prātiçākhyas; the meaning of
+Prātiśākhyas—in both, with mention of authorities who deny it
+altogether. For certain exceptions, see the Prātiśākhyas; the meaning of
 the whole matter is too obscure to justify the giving of details here.
 
 230\. Other cases of extension of consonant-groups, required by some of
 the grammatical authorities, are the following:
 
 a\. Between a non-nasal and a nasal mute, the insertion of so-called
-yamas (*twins*), or nasal counterparts, is taught by the Prātiçākhyas
+yamas (*twins*), or nasal counterparts, is taught by the Prātiśākhyas
 (and assumed in Pāṇini’s commentary): see APr. i. 99, note.
 
-b\. Between h and a following nasal mute the Prātiçākhyas teach the
+b\. Between h and a following nasal mute the Prātiśākhyas teach the
 insertion of a nasal sound called a nāsikya: see APr. i. 100, note.
 
-c\. Between r and a following nasal consonant the Prātiçākhyas teach the
+c\. Between r and a following nasal consonant the Prātiśākhyas teach the
 insertion of a svarabhakti or *vowel-fragment*: see APr. i. 101–2, note.
 
 d\. Some authorities assume this insertion only before a spirant; the
@@ -2288,7 +2288,7 @@ sphoṭana (*distinguisher*) between a guttural and a preceding mute of
 another class.
 
 f\. For one or two other cases of yet more doubtful value, see the
-Prātiçākhyas.
+Prātiśākhyas.
 
 231\. After a nasal, the former of two non-nasal mutes may be dropped,
 whether homogeneous only with the nasal, or with both: thus, yun̄dhí for
@@ -2296,7 +2296,7 @@ yun̄gdhí, yun̄dhvám for yun̄gdhvám, ān̄tám for ān̄ktám, pan̄tí for
 chintā́m for chinttā́m, bhinthá for bhintthá, indhé for inddhé.
 
 a\. The abbreviation, allowed by Pāṇini, is required by APr. (the other
-Prātiçākhyas take no notice of it). It is the more usual practice of the
+Prātiśākhyas take no notice of it). It is the more usual practice of the
 manuscripts, though the full group is also often written. 
 
 232\. In general, a double mute (including an aspirate which is doubled
@@ -2325,7 +2325,7 @@ language are anvart- (anu + √vart); paryan, paryanti, paryāyāt, paryāṇa
 (pari + yan, etc.); abhyàrti (abhi + iyarti); antaryāt (antar + iyāt);
 cārvāc, cārvāka, cārvadana (cāru + vāc, etc.); kyànt for kíyant; dvyoga
 (dvi + yoga); anvā, anvāsana (anu + vā, etc.); probably vyùnoti for ví
-yunoti (RV.), urváçī (uru-vaçī), çíçvarī for çíçu-varī (RV.); vyāmá (vi
+yunoti (RV.), urváśī (uru-vaśī), śíśvarī for śíśu-varī (RV.); vyāmá (vi
 + yāma); and the late svarṇa for suvarṇa. More anomalous abbreviations
 are the common tṛcá (tri + ṛca); and dvṛca (dvi + ṛca: S.) and treṇī
 (tri + eṇī: Āpast.).
@@ -2350,8 +2350,8 @@ have vidyút stanáyantī (RV.), utsthala, kakutstha, etc.
 
 e\. So also the tense-sign of the s-aorist is lost after a final
 consonant of a root before the initial consonant of an ending: thus,
-achāntta (and for this, by 231, achānta) for achāntsta, çāpta for
-çāpsta, tāptam for tāpstam, abhākta for abhāksta, amāuktam for
+achāntta (and for this, by 231, achānta) for achāntsta, śāpta for
+śāpsta, tāptam for tāpstam, abhākta for abhāksta, amāuktam for
 amāukstam. These are the only quotable cases: compare 883.
 
 f\. A final s of root or tense-stem is in a few instances lost after a
@@ -2507,7 +2507,7 @@ further description.
 
 241\. The increments of ṛ are sometimes ra and rā, instead of ar and ār:
 namely, especially, where by such reversal a difficult combination of
-consonants is avoided: thus, from √dṛç, drakṣyā́mi and ádrākṣam; but also
+consonants is avoided: thus, from √dṛś, drakṣyā́mi and ádrākṣam; but also
 pṛthú and prath, pṛch and prach, kṛpā́ and ákrapiṣṭa.
 
 242\. In a number of roots (about a dozen quotable ones) ending in ṛ
@@ -2526,7 +2526,7 @@ or with both ṛ and ṝ: no ṝ actually appears anywhere among their forms.
 
 
 b\. The (quotable) ṝ-roots are 2 kṛ *strew*, 1 gṛ *sing*, 2 gṛ
-*swallow*, 1 jṛ *wear out*, tṛ, 1 çṛ *crush*.
+*swallow*, 1 jṛ *wear out*, tṛ, 1 śṛ *crush*.
 
 c\. The (quotable) ṛ and ṝ-roots are ṛ, 1 dṛ *pierce*, 1 pṛ *fill*, 1 mṛ
 *die*, 2 vṛ *choose*, stṛ , hvṛ.
@@ -2536,7 +2536,7 @@ thus, cīrṇa, cīrtvā, carcūryá, from √car; spūrdhán and spūrdháse fr
 √spṛdh.
 
 243\. In a few cases ṛ comes from the contraction of other syllables
-than ar and ra: thus, in tṛta and tṛtīva, from ri; in çṛṇu, from ru; in
+than ar and ra: thus, in tṛta and tṛtīva, from ri; in śṛṇu, from ru; in
 bhṛkūṭi, from rū.
 
 Vowel-lengthening.
@@ -2566,15 +2566,15 @@ be classed here.
 247\. The final vowel of a former member of a compound is often made
 long, especially in the Veda. Prolongations of final a, and before v,
 are most frequent; but cases are found of every variety. Examples are:
-devāvī́, vayunāvíd, prāvṛ́ṣ, ṛtāvasu, índrāvant, sadanāsád, çatā́magha,
-viçvā́nara, ékādaça; apījū́, parīṇáh, vīrúdh, tuvīmaghá, tvíṣīmant,
-çáktīvant; vasūjū́, anūrúdh, sūmáya, purūvásu.
+devāvī́, vayunāvíd, prāvṛ́ṣ, ṛtāvasu, índrāvant, sadanāsád, śatā́magha,
+viśvā́nara, ékādaśa; apījū́, parīṇáh, vīrúdh, tuvīmaghá, tvíṣīmant,
+śáktīvant; vasūjū́, anūrúdh, sūmáya, purūvásu.
 
 248\. In the Veda, the final vowel of a word—generally a, much less
 often i and u—is in a large number of cases prolonged. Usually the
 prolongation takes place where it is favored by the metre, but sometimes
 even where the metre opposes the change (for details, see the various
-Prātiçākhyas).
+Prātiśākhyas).
 
 Words of which the finals are thus treated are: 
 
@@ -2590,13 +2590,13 @@ rarely) purū́.
 c\. Verb-forms ending in a, in great number and variety: thus (nearly in
 the order of their comparative frequency), 2d sing. impv. act., as pibā,
 syā, gamayā, dhāráyā;—2d pl. act. in ta and tha, as sthā, attā, bibhṛtā,
-jayatā, çṛṇutā, anadatā, nayathā, jīvayathā (and one or two in tana:
+jayatā, śṛṇutā, anadatā, nayathā, jīvayathā (and one or two in tana:
 aviṣṭanā, hantanā);—1st pl. act. in ma, as vidmā, riṣāmā, ṛdhyāmā,
 ruhemā, vanuyāmā, cakṛmā, marmṛjmā;—2d sing. impv. mid. in sva, as
 yukṣvā, iḍiṣvā, dadhiṣvā, vahasvā;—1st and 3d sing. perf. act., as vedā,
-viveçā, jagrabhā; 2d sing. perf. act., vetthā;——2d pl. perf. act.,
+viveśā, jagrabhā; 2d sing. perf. act., vetthā;——2d pl. perf. act.,
 anajā, cakrā. Of verb-forms ending in i, only the 2d sing. impv. act.:
-thus, kṛdhī, kṛṇuhī́, kṣidhī́, çrudhī, çṛṇudhī, çṛṇuhī, dīdihī, jahī.
+thus, kṛdhī, kṛṇuhī́, kṣidhī́, śrudhī, śṛṇudhī, śṛṇuhī, dīdihī, jahī.
 
 d\. To these may be added the gerund in ya (993 a), as abhigū́ryā, ā́cyā.
 
@@ -2683,7 +2683,7 @@ element, introduced under certain conditions in formative and inflective
 processes. 
 
 a\. Examples are, of roots: `ac` and `añc, grath` and `granth, vid` and
-`vind, daç` and `daṅç, sras` and `sraṅs, dṛh` and `dṛṅh`: of endings,
+`vind, daś` and `daṅś, sras` and `sraṅs, dṛh` and `dṛṅh`: of endings,
 `bhárantam` and `bháratā, mánasī` and `mánāṅsi`.
 
 256\. A final `n`, whether of stem or of root, is less stable than any
@@ -2697,11 +2697,11 @@ thus, from √`gam`, `gahí, gatám, gatá, gáti`.
 with great — and, in the later history of the language, with increasing
 — frequency as a union-consonant, inserted between vowels: thus, from
 `agní, agnínā` and `agnīnā́m`; from `mádhu, mádhunas, mádhunī, mádhūni`;
-from `çivá, çivéna, çīvā́ni, çīvā́nām`.
+from `śivá, śivéna, śīvā́ni, śīvā́nām`.
 
 258\. Inserted `y`. a. After final `ā` of a root, a `y` is often found
 as apparently a mere union-consonant before another vowel: thus, in
-inflection, `ádhāyi` etc. (844), `çāyáyati` etc. (1042), `çivā́yās` etc.
+inflection, `ádhāyi` etc. (844), `śāyáyati` etc. (1042), `śivā́yās` etc.
 (363 c), `gā́yati` etc. (761 e); further, in derivation,
 `-gāya, -yāyam, dāyaka` etc.;
 `-sthāyika; pāyána, -gāyana; dhā́yas, -hāyas; sthāyin` etc. (many cases);

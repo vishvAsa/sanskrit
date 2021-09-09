@@ -54,10 +54,10 @@ conjectures to rely upon. It seems, however, altogether likely that the
 grammatical sense of the ancient Hindus was awakened in great measure by
 their study of the traditional sacred texts, and by their comparison of
 its different language with that of contemporary use. It is certain that
-the grammatical study of those texts (**çākhās**, lit’ly *branches*),
+the grammatical study of those texts (**śākhās**, lit’ly *branches*),
 phonetic and other, was zealously and effectively followed in the
 Brahmanic schools; this is attested by our possession of a number of
-phonetico-grammatical treatises, **prātiçākhyas** (**prati çākhām**
+phonetico-grammatical treatises, **prātiśākhyas** (**prati śākhām**
 *belonging to each several text*), each having for subject one principal
 Vedic text, and noting all its peculiarities of form; these, both by the
 depth and exactness of their own researches and by the number of
@@ -130,7 +130,7 @@ histories (so far as anything deserving that name can be said to exist),
 and scientific treatises of every variety, are done into verse; a prose
 and prose literature hardly has an existence (the principle exceptions,
 aside from the voluminous commentaries, are a few stories, as the
-**Daçakumāracarita** and the **Vāsavadattā**). Of linguistic history
+**Daśakumāracarita** and the **Vāsavadattā**). Of linguistic history
 there is next to nothing in it all; but only a history of style, and
 this for the most part showing a gradual depravation, and increase of
 artificiality and an intensification of certain more undesirable
@@ -237,12 +237,12 @@ speculations, etymological and other, are indulged in. Such matter comes
 to be called **brāmaṇa** (apparently *relating to the brahman* or
 *worship*). In the White Yajur-Veda, it is separated into a work by
 itself, beside the **saṁhitā** or text of verse and formulas, and is
-called the **Çatapatha-Brāmaṇa** *Brāhmana of a hundred ways*. Other
+called the **śatapatha-Brāmaṇa** *Brāhmana of a hundred ways*. Other
 similar collections are found, belonging to various other schools of
 Vedic study, and they bear the common name of **Brāhmaṇa**, with the
 name of the school, or some other distinctive title, prefixed. Thus, the
 **Āitareya** and **Kāuṣītaki-Brāhmaṇas**, belonging to the schools of
-the Rig-Veda, the **Pañcaviṅça** and **Ṣaḍviṅça-Brāhmaṇas** and other
+the Rig-Veda, the **Pañcaviṅśa** and **Ṣaḍviṅśa-Brāhmaṇas** and other
 minor works, to the Sāma-Veda; the **Gopatha-Brāhmaṇa**, to the
 Atharva-Veda; and a **Jāiminīya-** or **Talavakāra-Brāhmaṇa**, to the
 Sāma-Veda, has recently (Burnell) been discovered in India; the
@@ -279,13 +279,13 @@ belong to the schools of Vedic study and are named from them, and that
 they deal with the religious ceremonies: treating them, however, in the
 way of prescription, not of dogmatic explanation. They, too, contain
 some mantra or hymn-material, not found to occur elsewhere. In part
-(**çrāuta** or **kalpa-sūtras**), they take up the great sacrificial
+(**śrāuta** or **kalpa-sūtras**), they take up the great sacrificial
 ceremonies, with which the Brāhmaṇas have to do; in part
 (**gṛhya-sūtras**), they teach the minor duties of a pious householder;
 in some cases (**sā-mayācārika-sūtras**) they lay down the general
 obligations of one whose life is in accordance with prescribed duty. And
 out of the last two, or especially the last, come by natural development
-the law-books (**dharma-çāstras**), which make a conspicuous figure in
+the law-books (**dharma-śāstras**), which make a conspicuous figure in
 later literature: the oldest and most noted of them being that called by
 the name of **Manu** (an outgrowth, it is believed by many, of the
 Mānava Vedic school); to which are added that of Yājnavalkya, and many
@@ -315,7 +315,7 @@ our time, it is the production, in the main, of a single author
 (Vālmīki); and it is generally believed to be in part allegorical,
 representing the introduction of Aryan culture and dominion into
 Southern India. By its side stand a number of minor epics, of various
-authorship and period, as the **Raghuvaṅça** (ascribed to the dramatist
+authorship and period, as the **Raghuvaṅśa** (ascribed to the dramatist
 Kālidāsa), the **Māghakāvya**, the **Bhaṭṭikāvya** (the last, written
 chiefly with the grammatical intent of illustrating by use as many as
 possible of the numerous formations which, though taught by the
@@ -348,10 +348,10 @@ which Prākrit could be made indefinitely on a substrate of Sanskrit; and
 none of the existing dramas need to date from the time of the vernacular
 use of Prākrit, while most or all of them are undoubtedly much later.
 Among the dramatic authors, Kālidāsa is incomparably the chief, and his
-**Çakuntalā** is distinctly his masterpiece. His date has been a matter
+**śakuntalā** is distinctly his masterpiece. His date has been a matter
 of much inquiry and controversy; it is doubtless some centuries later
 than our era. The only other worked deserving to be mentioned along with
-Kālidāsa’s is the **Mṛcchakaṭī** of Çūdraka, also of questionable
+Kālidāsa’s is the **Mṛcchakaṭī** of śūdraka, also of questionable
 period, but believed to be the oldest of the extant dramas.
 
 A partly dramatic character belongs also to the fable, in which animals
@@ -360,7 +360,7 @@ department are the **Pañcatantra**, which through Persian and Semitic
 versions has made its way all over the world, and contributes a
 considerable quota to the fable-literature of every European language,
 and, partly founded on it, the comparatively recent and popular
-**Hitopadeça** (*salutary instruction*).
+**Hitopadeśa** (*salutary instruction*).
 
 Two of the leading departments of Sanskrit scientific literature, the
 legal and the grammatical, have already been sufficiently noticed; of

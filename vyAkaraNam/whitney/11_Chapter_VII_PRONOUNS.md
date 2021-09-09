@@ -212,7 +212,7 @@ Veda and `Brāhmaṇa` and `Sūtra` the nominatives are (with occasional
 exceptions) āvám and yuvám, and only the accusatives `āvā́m` and `yuvā́m`
 (but in RV. the dual forms of 1st pers. chance not to occur, unless in
 `vā́m`\[?\], once, for `āvám`); the instr. in RV. is either `yuvábhyām`
-(occurs also once in AÇS.) or `yuvā́bhyām`; an abl. `yuvát` appears once
+(occurs also once in AśS.) or `yuvā́bhyām`; an abl. `yuvát` appears once
 in RV., and `āvát` twice in TS.; the gen.-loc. is in RV. (only) `yuvós`
 instead of `yuváyos`. Thus we have here a distinction (elsewhere
 unknown) of five different dual cases, by endings in part accordant with
@@ -248,15 +248,15 @@ the other pronouns). Words are thus formed from them even in the older
 language — namely, `mátkṛta` and `mátsakhi` and `asmátsakhi` (RV.),
 `tvádyoni` and `mattás` (AV.), `tvátpitṛ` and `tvádvivācana` (TS.),
 `tvátprasūta` and `tvaddevatyà` and `yuvaddevatyà` and `yuṣmaddevatyà`
-(ÇB.), `asmaddevatya` (PB.); but much more numerous are those that show
+(śB.), `asmaddevatya` (PB.); but much more numerous are those that show
 the proper stem in `a`, or with the `a` lengthened to `ā`: thus,
 `mā́vant`; `asmatrā́`, `asmadrúh`, etc.; `tváyata`, `tvā́vant`, `tvā́datta`,
 `tvāníd`, `tvā́vasu`, `tvā́hata`, etc.; `yuṣmā́datta`, `yuṣméṣita`, etc.;
 `yuvā́vant`, `yuvā́ku`, `yuvádhita`, `yuvā́datta`, `yuvā́nīta`, etc. And the
-later language also has a few words made in the same way, as `mādṛç`.
+later language also has a few words made in the same way, as `mādṛś`.
 
 a\. The Vedas have certain more irregular combinations, with complete
-forms: thus, `tvā́ṁkāma`, `tvāmāhuti`, `māmpaçyá`, `mamasatyá`,
+forms: thus, `tvā́ṁkāma`, `tvāmāhuti`, `māmpaśyá`, `mamasatyá`,
 `asméhiti`, `ahampūrvá`, `ahamuttará`, `ahaṁyú`, `ahaṁsana`.
 
 b\. From the stems of the grammarians come also the derivative
@@ -446,7 +446,7 @@ a\. In the singular, the use of `t` (properly `d`) as ending of
 nom.-acc. neut.; the combination of another element `sma` with the root
 in masc. and neut. dat., abl., and loc., and of `sy` in fem. dat,
 abl.-gen., and loc.; and the masc. and neut. loc. ending `in`, which is
-restricted to this declension (except in the anomalous `yādṛ́çmin`, RV.,
+restricted to this declension (except in the anomalous `yādṛ́śmin`, RV.,
 once). The substitution in B. of `āi` for `ās` as fem. ending (307 h)
 was illustrated at 365 d.
 
@@ -461,10 +461,10 @@ before `su` of the loc.
 from that form come, in fact, the derivative adjective `tadī́ya`, with
 `tattvá, tadvat, tanmaya`; and numerous compounds, such as
 `tacchīla, tajjña, tatkara, tadanantara, tanmātra`, etc. These compounds
-are not rare even in the Veda: so `tádanna, tadvíd, tadvaçá`, etc. But
+are not rare even in the Veda: so `tádanna, tadvíd, tadvaśá`, etc. But
 derivatives from the true root `ta` are also many: especially adverbs,
 as `tátas, tátra, táthā, tadā́`; the adjectives `tā́vant` and `táti`; and
-the compound `tādṛ́ç` etc.
+the compound `tādṛ́ś` etc.
 
 498\. Though the demonstrative root `ta` is prevailingly of the third
 person, it is also freely used, both in the earlier language and in the
@@ -491,8 +491,8 @@ prefixes `e` to the simple root, forming the nominatives
 
 c\. The stem `tya` has neither compounds nor derivatives. But from `eta`
 are formed both, in the same manner as from the simple `ta`, only much
-less numerous: thus, `etaddā́` (ÇB.), `etadartha`, etc., from the
-so-called stem `etat`; and `etādṛ́ç` and `etā́vant` from `eta`. And `eṣa`,
+less numerous: thus, `etaddā́` (śB.), `etadartha`, etc., from the
+so-called stem `etat`; and `etādṛ́ś` and `etā́vant` from `eta`. And `eṣa`,
 like `sa` (498), is used to qualify pronouns of the 1st and 2d persons:
 e. g. `eṣā ’ham, ete vayam`.
 
@@ -856,7 +856,7 @@ stems, `ana` furnishes nothing further; from `ima` comes only the adverb
 `imáthā` (RV., once); but `a` and `i` furnish a number of derivatives,
 mostly adverbial: thus, for example, `átas`, `átra`, `átha`,
 `ad-dhā́`(?); `itás`, `íd` (Vedic particle), `idā`, `ihá`, `ítara`, `īm`
-(Vedic particle), `īdṛ́ç`, perhaps `evá` and `evám`, and others.
+(Vedic particle), `īdṛ́ś`, perhaps `evá` and `evám`, and others.
 
 503\. The other pronoun, `asāú` etc., has `amú` for its leading stem,
 which in the singular takes in combination, like the `a`-stems, the
@@ -870,7 +870,7 @@ The nom. pl. `amī́` is unique in form; its `ī` is (like that of a dual)
 
 a\. The grammarians, as usual, treat `adás` as representative stem of
 the declension, and it is found in this character in an extremely small
-number of words, as `adomūla`; `adomáya` is of Brāhmaṇa age. The ÇB. has
+number of words, as `adomūla`; `adomáya` is of Brāhmaṇa age. The śB. has
 also `asāunā́man`. But most of the derivatives, as of the cases, come
 from `amu`: thus,
 `amútas, amútra, amúthā, amudā, amúrhi, amuvát, amuka`.
@@ -934,14 +934,14 @@ combinations `nákis` and `mā́kis`.
 505\. The grammarians treat `kim` as representative stem of the
 interrogative pronoun; and it is in fact so used in a not large number
 of words, of which a few —
-`kimmáya, kiṁkará, kiṁkāmyā́, kíṁdevata, kiṁçīlá`, and the peculiar
+`kimmáya, kiṁkará, kiṁkāmyā́, kíṁdevata, kiṁśīlá`, and the peculiar
 `kiṁyú` — go back even to the Veda and `Brāhmaṇa`. In closer analogy
 with the other pronouns, the form `kad`, a couple of times in the Veda
 (`katpayá, kádartha`), and not infrequently later, is found as first
 member of compounds. Then, from the real roots `ka, ki, ku` are made
 many derivatives; and from `ki` and `ku`, especially the latter, many
 compounds: thus,
-`káti, kathā́, kathám, kadā́, katará, katamá, kárhi; kíyant, kīdṛ́ç; kútas, kútra, kúha, kvà, kucará, kukarman, kumantrin`,
+`káti, kathā́, kathám, kadā́, katará, katamá, kárhi; kíyant, kīdṛ́ś; kútas, kútra, kúha, kvà, kucará, kukarman, kumantrin`,
 etc.
 
 506\. Various forms of this pronoun, as `kad, kim`, and `ku` (and,
@@ -955,7 +955,7 @@ more common in later time.
 its independent use also to an exclamatory meaning. Moreover, it is by
 various added particles converted to an indefinite meaning: thus, by
 `ca, caná, cid, ápi, vā,` either alone or with the relative `ya` (below,
-511) prefixed: thus, `káç caná` *any one*; `ná kó ‘pi` *not any one*;
+511) prefixed: thus, `káś caná` *any one*; `ná kó ‘pi` *not any one*;
 `yā́ni kā́ni cit` *whatsoever*; `yatamát katamác ca` *whatever one*.
 Occasionally, the interrogative by itself acquires a similar value.
 
@@ -1097,7 +1097,7 @@ declension.
 later it grows more general. From the proper root come also a
 considerable series of derivatives:
 `yátas, yáti, yátra, yáthā, yádā, yádi, yárhi, yā́vant, yatará, yatamá`;
-and the compound `yādṛ́ç`.
+and the compound `yādṛ́ś`.
 
 511\. The combination of `ya` with `ka` to make an indefinite pronoun
 has been noticed above (507). Its own repetition — as `yád-yat` — gives
@@ -1119,7 +1119,7 @@ in the depth, there, let the witches be*; `sahá yán me ásti téna` (TB.)
 *along with that which is mine*;
 `haṅsānāṃ vacanaṁ yat tu tan māṁ dahati` (MBh.) *but what the words of
 the swans were, that burns me*;
-`sarvasya locanaṁ çāstraṁ yasya nā ’sty andha eva saḥ` (H.) *who does
+`sarvasya locanaṁ śāstraṁ yasya nā ’sty andha eva saḥ` (H.) *who does
 not possess learning, the eye of everything, blind indeed is he*. The
 other arrangement, though frequent enough, is notably less usual.
 
@@ -1128,7 +1128,7 @@ relative into a substantive clause: thus,
 `mé ’mám prā́ ”pat pāúruṣeyo vadhó yáḥ` (AV.) *may there not reach him a
 human deadly weapon* (lit'ly, *what is such a weapon*);
 `pári ṇo pāhi yád dhánam` (AV.) *protect of us what wealth* \[*there
-is*\]; `apāmārgó ‘pa mārṣṭu kṣetriyáṃ çapáthaç ca yáh` (AV.) *may the
+is*\]; `apāmārgó ‘pa mārṣṭu kṣetriyáṃ śapáthaś ca yáh` (AV.) *may the
 cleansing plant cleanse away the disease and the curse*;
 `puṣkareṇa hṛtaṃ rājyaṁ yac cā ’nyad vasu kiṁcana` (MBh.) *by Pushkara
 was taken away the kingdom and whatever other property* \[*there was*\].
@@ -1212,13 +1212,13 @@ a\. Words of similar meaning from the roots `i` and `ki` are `íyant` and
 `kíyant`, inflected in the same manner: see above, 451.
 
 518\. The pronominal roots show a like prolongation of vowel in
-combination with the root `dṛç` *see, look*, and its derivatives `-dṛça`
+combination with the root `dṛś` *see, look*, and its derivatives `-dṛśa`
 and (quite rarely) `dṛkṣa`: thus,
-`mādṛç, -dṛça; tvādṛç, -dṛça; yuṣmādṛç, -dṛça; tādṛç, -dfta, -dṛkṣa; etādṛç, -dṛça, -dṛkṣa; yādṛç, -dṛça; īdṛ́ç, -dṛ́ça, -dṛ́kṣa; kīdṛ́ç, -dṛça, -dṛkṣa`.
+`mādṛś, -dṛśa; tvādṛś, -dṛśa; yuṣmādṛś, -dṛśa; tādṛś, -dfta, -dṛkṣa; etādṛś, -dṛśa, -dṛkṣa; yādṛś, -dṛśa; īdṛ́ś, -dṛ́śa, -dṛ́kṣa; kīdṛ́ś, -dṛśa, -dṛkṣa`.
 They mean *of my sort, like* or *resembling me*, and the like, and
-`tādṛç` and the following are not uncommon, with the sense of `talis`
-and `qualis`. The forms in `dṛç` are unvaried for gender; those in
-`dṛça` (and `dṛkṣa`?) have feminines in `ī`.
+`tādṛś` and the following are not uncommon, with the sense of `talis`
+and `qualis`. The forms in `dṛś` are unvaried for gender; those in
+`dṛśa` (and `dṛkṣa`?) have feminines in `ī`.
 
 519\. From `ta, ka, ya` come `táti` *so many*, `káti` *how many?* `yáti`
 *as many*. They have a quasi-numeral character, and are inflected (like
@@ -1259,11 +1259,11 @@ b\. `Anya` takes occasionally the form `anyat` in composition: thus,
 
 524\. Other words are so inflected except in the nom.-acc.-voc. sing,
 neut., where they have the ordinary adjective form `am`, instead of the
-pronominal `at` (`ad`). Such are `sárva` *all*, `víçva` *all, every*,
+pronominal `at` (`ad`). Such are `sárva` *all*, `víśva` *all, every*,
 `éka` *one*.
 
 a\. These, also, are not without exception, at least in the earlier
-language (e. g. `víçvāya, víçvāt, víçve` RV.; `éke` loc. sing., AV.).
+language (e. g. `víśvāya, víśvāt, víśve` RV.; `éke` loc. sing., AV.).
 
 525\. Yet other words follow the same model usually, or in some of their
 significations, or optionally; but in other senses, or without known
@@ -1280,7 +1280,7 @@ b\. Further, the superlatives (without corresponding comparatives)
 comparative belong to the class first mentioned: 523).
 
 c\. Further, the words `pára` *distant, other*; `pū́rva` *prior, east*;
-`dákṣiṇa` *right, south*; `paçcima` *behind, western*; `ubháya` (f.
+`dákṣiṇa` *right, south*; `paścima` *behind, western*; `ubháya` (f.
 `ubháyī` or `ubhayī́`) *of both kinds* or *parties*; `néma` *the one,
 half*; and the possessive `svá`.
 

@@ -89,7 +89,7 @@ full form of root in the strong persons of the singular active. Thus,
 from √`vac` *speak* come `ūc` and `uvac`; from √`vas` *dwell* come `ūṣ`
 and `uvas`; and so on.
 
-a\. The roots showing this abbreviation are `vac`, `vap`, `vad`, `vaç`,
+a\. The roots showing this abbreviation are `vac`, `vap`, `vad`, `vaś`,
 `vas`, `vah`; and `vā` *weave* is said to follow the same rule.
 
 b\. A single root beginning with `ya`, namely `yaj` *offer*, has the
@@ -117,8 +117,8 @@ below, 794.
 their reduplication.
 
 a\. Thus, of roots reduplicating with `ā`:
-`kan, kḷp, gṛdh, tṛp, tṛṣ, dṛh, dhṛ, dhṛṣ, nam, mah, mṛj, mṛç, ran, radh, rabh, vañc, van, vaç, vas`
-*clothe*, `vāç, vṛj, vṛt, vṛdh, vṛṣ, çad` *prevail*, `sah, skambh`. Some
+`kan, kḷp, gṛdh, tṛp, tṛṣ, dṛh, dhṛ, dhṛṣ, nam, mah, mṛj, mṛś, ran, radh, rabh, vañc, van, vaś, vas`
+*clothe*, `vāś, vṛj, vṛt, vṛdh, vṛṣ, śad` *prevail*, `sah, skambh`. Some
 of these occur only in isolated cases; many have also forms with short
 vowel. Most are Vedic only; but `dādhāra` is common also in the Brāhmaṇa
 language, and is even found later. As to `jāgṛ`, see 1020 a.
@@ -129,7 +129,7 @@ thus, `dīdétha, dīdā́ya; dīdhima, dīdhyus` (also `dīdhiyus, dīdiyus`).
 But `pīpī` has `pipye, pipyus`, etc., with short `i`. In AV. occurs once
 `jīhīḍa`, and in AB. (and AA.) `bībhāya`.
 
-c\. Of roots reduplicating with `ū`: `tu, jū`, and `çū` (or `çvā`).
+c\. Of roots reduplicating with `ū`: `tu, jū`, and `śū` (or `śvā`).
 
 787\. A few roots beginning with the (derivative: 42) palatal mutes and
 aspiration show a reversion to the more original guttural in the radical
@@ -147,10 +147,10 @@ a\. Thus (the forms occurring mainly in the older language only):
 √`añj` or `aj`, which forms the pres. `anákti`, has the perfect `ānañja`
 and `ānajé` etc. (with `anajā` and `anajyāt`);
 
-√`aç` *attain* (from which comes once in RV. `anáçāmahāi`), has the weak
-forms `ānaçma` etc. (with opt. `ānaçām`), `ānaçé` etc. (and LÇS. has
-`ānaçadhve`), and the strong forms `ānáṅça` and `ānāça` — along with the
-regular `āça` etc.;
+√`aś` *attain* (from which comes once in RV. `anáśāmahāi`), has the weak
+forms `ānaśma` etc. (with opt. `ānaśām`), `ānaśé` etc. (and LśS. has
+`ānaśadhve`), and the strong forms `ānáṅśa` and `ānāśa` — along with the
+regular `āśa` etc.;
 
 √`ṛdh` (from which comes once `ṛṇádhat`) has `ānṛdhús` and `ānṛdhe`;
 
@@ -180,7 +180,7 @@ b\. The root `bhṛ` *bear* has in the Veda the anomalous reduplication
 `ja` (as also in intensive: 1002); but RV. has once also the regular
 `babhre`, and pple `babhrāṇá`.
 
-c\. The root `ṣṭhīv` *spew* forms either `tiṣṭhīv` (ÇB. et al.) or
+c\. The root `ṣṭhīv` *spew* forms either `tiṣṭhīv` (śB. et al.) or
 `ṭiṣṭhīv` (not quotable).
 
 d\. `Vivakvā́n` (RV., once) is doubtless participle of √`vac`, with
@@ -197,15 +197,15 @@ b\. A few other apparently perfect forms lacking a reduplication are
 found in RV.: they are `takṣathus` and `takṣus`, `yamátus, skambháthus`
 and `skambhus, nindima` (for `ninidima`?), `dhiṣe` and `dhire` (?
 √`dhā`), and `vidré` and `arhire` (? see 613). And AV. VS. have
-`cetatus`. The participial words `dāçvā́ṅs, mīḍhvā́ṅs, sāhvā́ṅs` are common
+`cetatus`. The participial words `dāśvā́ṅs, mīḍhvā́ṅs, sāhvā́ṅs` are common
 in the oldest language; and RV. has once `jānúṣas` (√`jñā`), and
 `khidvas` (voc.), perhaps for `cikhidvas`.
 
 c\. A few sporadic cases also are quotable from the later language,
 especially from the epics: thus, `karṣatus, ceṣṭa` and
-`ceṣṭatus, bhrājatus, sarpa, çaṅsus` and
-`çaṅsire, dhvaṅsire, sraṅsire, jalpire, edhire`; also the pples
-`çaṅsivāṅs` and `darçivāṅs`, the latter being not infrequent. 
+`ceṣṭatus, bhrājatus, sarpa, śaṅsus` and
+`śaṅsire, dhvaṅsire, sraṅsire, jalpire, edhire`; also the pples
+`śaṅsivāṅs` and `darśivāṅs`, the latter being not infrequent. 
 
 791\. For an anomalous case or two of reduplicated preposition, see
 below, 1087f.
@@ -235,12 +235,12 @@ optionally in the first: thus, from √तप् `tap`, 1st ततप् `tatáp
 d\. In the earlier language, however, the weaker of the two forms
 allowed by these rules in the first person is almost exclusively in use:
 thus, 1st only `bibháya`, `tatápa`; 3d `bibhā́ya`, `tatā́pa`. Exceptions
-are `cakāra` and `jagrā́ha` (doubtful reading) in AV., `cakāra` in AÇS.
-and BAU. (ÇB. `cakara`), `jigāya` in AÇS., as first persons.
+are `cakāra` and `jagrā́ha` (doubtful reading) in AV., `cakāra` in AśS.
+and BAU. (śB. `cakara`), `jigāya` in AśS., as first persons.
 
 e\. A medial short vowel has in all three persons alike the
 `guṇa`-strengthening (where this is possible: 240): thus, from √द्रुह्
-`druh` comes दुद्रोह् `dudróh`; from √विश् `viç` comes विवेश् `vivéç`;
+`druh` comes दुद्रोह् `dudróh`; from √विश् `viś` comes विवेश् `vivéś`;
 from √कृत् `kṛt` comes चकर्त् `cakárt`.
 
 f\. An initial short vowel before a single final consonant is to be
@@ -260,10 +260,10 @@ other than the radical syllable, or failing to conform to the rules of
 strengthening as given above (in a, c, e).
 
 h\. Occasional instances of strengthening in other than the singular
-persons are met with: thus, `yuyopima` and `viveçus` (RV.), `pasparçus`
+persons are met with: thus, `yuyopima` and `viveśus` (RV.), `pasparśus`
 (KeU.), and, in the epics, `cakartus` and `cakartire`, `cakarṣatus`,
-`jugūhire`, `nanāmire`, `bibhedus`, `vavāhatus`, `viveçatus`,
-`vavarṣus`. The roots `dṛ`, `pṛ`, and `çṛ`, and optionally `jṛ`, are
+`jugūhire`, `nanāmire`, `bibhedus`, `vavāhatus`, `viveśatus`,
+`vavarṣus`. The roots `dṛ`, `pṛ`, and `śṛ`, and optionally `jṛ`, are
 said by the grammarians to have the strong stem in weak forms; but no
 examples appear to be quotable. AV., however, has once `jaharus`
 (probably a false reading); and in the later language occur `caskare`
@@ -285,9 +285,9 @@ b\. A few roots having `ya` and `va` after a first initial consonant,
 and reduplicating from the semivowel (785), contract the `ya` and `va`
 to `i` and `u`: thus, `vivic` from √`vyac`, `vividh` from √`vyadh` (but
 `vivyadhus` MBh.), `suṣup` from √`svap`. The extended roots `jyā`,
-`pyā`, `vyā`, `çvā`, `hvā` show a similar apparent contraction, making
-their weak forms from the simpler roots `jī, pī, vī, çū, hū`, while
-`hvā` must and `çvā` may get their strong forms also from the same (and
+`pyā`, `vyā`, `śvā`, `hvā` show a similar apparent contraction, making
+their weak forms from the simpler roots `jī, pī, vī, śū, hū`, while
+`hvā` must and `śvā` may get their strong forms also from the same (and
 only `jijyāú` is quotable from the others).
 
 c\. The root `grabh` or `grah` (if it be written thus: see 729 a)
@@ -297,8 +297,8 @@ written: see 756 a) remains unchanged throughout.
 
 d\. Some roots omit in weak forms of this tense, or in some of them, a
 nasal which is found in its strong forms: thus, we have `cakradé` etc.
-(RV.) from √`krand`; `tatasré` (RV.) from √`taṅs`; `dadaçvā́ṅs` (RV.)
-from √`daṅç`; `bedhús, bedhé`, etc. (AV.) from √`bandh`; `sejus` (ÇB.)
+(RV.) from √`krand`; `tatasré` (RV.) from √`taṅs`; `dadaśvā́ṅs` (RV.)
+from √`daṅś`; `bedhús, bedhé`, etc. (AV.) from √`bandh`; `sejus` (śB.)
 from √`sañj`; `caskabhāná` (AV.) from √`skambh`; `tastabhús` etc. (V.),
 `tastabhāná` (V.B.), from √`stambh`. Compare also 788 a.
 
@@ -311,7 +311,7 @@ f\. In the old language are found in like manner `mamnāthe` and
 `mamnāte` from √`man`; `vavné` from √`van`; `tatne, tatniṣe, tatnire`
 from √`tan` (beside `tatane`, and `tate`, as if from √`tā`); `paptima`
 and `paptús` and `paptivā́ṅs` from √`pat` (beside `pet`-forms; below, g);
-`papné` from √`pan`; `saçcima` and `saçcus`, `saçce` and `saçciré`, from
+`papné` from √`pan`; `saścima` and `saścus`, `saśce` and `saściré`, from
 √`sac`.
 
 g\. Roots in general having medial `a` before a single final consonant,
@@ -327,19 +327,19 @@ and examples of them are in general of very rare occurrence. They are as
 follows: `rāj` (E.C.) and `rādh` (`radh`?), notwithstanding their long
 vowel; `phaṇ`, `phal` (`phelire` C.), `bhaj` (occurs from RV. down),
 though their initial is changed in reduplication; `trap`, `tras`
-(`tresus` E.C.), `çrath`, `syarn`, `svan`, though they begin with more
+(`tresus` E.C.), `śrath`, `syarn`, `svan`, though they begin with more
 than one consonant; `dambh` (`debhús`, RV., from the weaker `dabh`),
 though it ends with more than one; and `bhram` (`bhremus` etc. KSS.),
 `bhrāj, granth, svañj`, in spite of more reasons than one to the
-contrary. And ÇB. has `sejus` from √`sañj`, and KB. has `çremus` from
-√`çram`. On the other hand, RV. has once `rarabhmá`, and R. has
+contrary. And śB. has `sejus` from √`sañj`, and KB. has `śremus` from
+√`śram`. On the other hand, RV. has once `rarabhmá`, and R. has
 `papatus`, for `petus`, from √`pat`.
 
 i\. This contraction is allowed also in 2d sing. act. when the ending is
 `itha`: thus, `tenitha` beside `tatantha` (but no examples are quotable
 from the older language).
 
-j\. The roots `çaç` and `dad` (from `dā`: 672) are said to reject the
+j\. The roots `śaś` and `dad` (from `dā`: 672) are said to reject the
 contraction; but no perfect forms of either appear to have been met with
 in use.
 
@@ -357,7 +357,7 @@ endings of the perfect indicative has been already given (553 c); an dit
 has also been pointed out (543 a) that roots ending in आ `ā` have औ `āu`
 in 1st and 3d sing. active. 
 
-a\. The ending `mas` instead of `ma` is found in `çuçrumas` (E.C.). For
+a\. The ending `mas` instead of `ma` is found in `śuśrumas` (E.C.). For
 the alleged occurrence of `ḍhve` instead of `dhve` in 2d pl. mid., see
 226 c.
 
@@ -388,7 +388,7 @@ b\. The other consonant-endings, except थ `tha` of 2d sing. act., take
 it in nearly all verbs.
 
 c\. But it is rejected throughout by eight verbs — namely `kṛ` *make*,
-`bhṛ` *bear*, `sṛ` *go*, `vṛ` *choose*, `dru` *run*, `çru` *hear*, `stu`
+`bhṛ` *bear*, `sṛ` *go*, `vṛ` *choose*, `dru` *run*, `śru` *hear*, `stu`
 *praise*, `sru` *flow*; and it is allowably (not usually) rejected by
 some others, in general accordance with their usage in other formations.
 
@@ -415,8 +415,8 @@ a\. In the RV., the union-vowel `i` is taken by roots ending in
 consonants provided the last syllable of the stem is a heavy one, but
 not otherwise: thus, `ā́sitha, uvócitha, vivéditha`, but `tatántha` and
 `vivyáktha`; `ūcimá, paptima, sedima, yuyopimá`, but
-`jaganma, jagṛbhmá, yuyujma; ūçiṣé, jajñiṣé, sasāhiṣe`, but `vivitse`
-and `dadṛkṣé`; `bubhujmáhe` and `çāçadmahe` etc. (no examples of `ivahe`
+`jaganma, jagṛbhmá, yuyujma; ūśiṣé, jajñiṣé, sasāhiṣe`, but `vivitse`
+and `dadṛkṣé`; `bubhujmáhe` and `śāśadmahe` etc. (no examples of `ivahe`
 or `imahe` chance to occur, nor any of either `idhve` or `dhve`);
 `ījiré, jajñiré, yetiré, tataksiré`, but
 `cākḷpré, vividré, duduhré, paspṛdhré, tatasré` (and so on: twenty-two
@@ -442,7 +442,7 @@ upon.
 799\. The ending `riré` of 3d pl. mid. is found in RV. in six forms:
 namely,
 `cikitrire, jagṛbhriré, dadrire, bubhujriré, vividrire, sasṛjrire`; to
-which SV. adds `duduhrire`, and TB. `dadṛçrire`.
+which SV. adds `duduhrire`, and TB. `dadṛśrire`.
 
 800\. Examples of inflection. By way of illustration of the rules given
 above may be given in full the perfect indicative inflection of the
@@ -968,8 +968,8 @@ d\. The root `i` *go* forms in RV. and AV. the 2d sing. act. `iyátha`
 beside the regular `iyétha`; and beside `īriré` from √`īr`, RV. has
 several times `eriré`.
 
-e\. RV. has an anomalous accent in `dádṛçe` and `dádṛçre` (beside
-`dadṛkṣé`) and the pple `dádṛçāna`. And `cíketa` (once, beside `cikéta`)
+e\. RV. has an anomalous accent in `dádṛśe` and `dádṛśre` (beside
+`dadṛkṣé`) and the pple `dádṛśāna`. And `cíketa` (once, beside `cikéta`)
 is perhaps a kindred anomaly.
 
 f\. Persons of the perfect from the `ir`-forms of roots in changeable
@@ -977,9 +977,9 @@ f\. Persons of the perfect from the `ir`-forms of roots in changeable
 corresponding participles.
 
 g\. The bastard root `ūrṇu` (713) is said by the grammarians to make the
-perfect-stem `ūrṇunu`; the roots `majj` and `naç` are said to insert a
+perfect-stem `ūrṇunu`; the roots `majj` and `naś` are said to insert a
 nasal in the 2d sing. active, when the ending is simple `tha`: thus,
-`maman̄ktha, nanaṅṣṭha` (also `mamajjitha` and `neçitha`).
+`maman̄ktha, nanaṅṣṭha` (also `mamajjitha` and `neśitha`).
 
 h\. Further may be noted `sasajjatus` (MBh.: √`sañj`, which has in
 passive the secondary form `sajj`), `rurundhatus` (R.), and `dudūhus`
@@ -1009,10 +1009,10 @@ weakened root-vowel or as union-vowel (7941).
 
 a\. But participles of which the perfect-stem is monosyllabic by absence
 of the reduplication do not take the union-vowel: thus, `vidvā́ṅs`, and
-in V., `dāçvā́ṅs` (SV. `dāçivā́ṅs`), `mīḍhvā́ṅs`, `sāhvā́ṅs`, `khidvāṅs`
+in V., `dāśvā́ṅs` (SV. `dāśivā́ṅs`), `mīḍhvā́ṅs`, `sāhvā́ṅs`, `khidvāṅs`
 (?); and RV. has also `dadvā́ṅs` (AV. `dadivā́ṅs` and once `dadāvā́ṅs`)
-from √`dā` (or `dad`: 672); and `án-āçvāṅs` (√`aç` *eat*) occurs in TS.
-and TB. But AV. has `viçivā́ṅs` and `varjivāṅs` (in negative fem.
+from √`dā` (or `dad`: 672); and `án-āśvāṅs` (√`aś` *eat*) occurs in TS.
+and TB. But AV. has `viśivā́ṅs` and `varjivāṅs` (in negative fem.
 `ávarjuṣī`).
 
 804\. Other Vedic irregularities calling for notice are few. The long
@@ -1029,10 +1029,10 @@ language allows either these or the more regular `jagmivāṅs` and
 `jaghnivā́ṅs` (the weakest stem-forms being everywhere `jagmúṣ` and
 `jaghnúṣ`). RV. has also `tatanvā́ṅa`. 
 
-b\. From three roots, `vid` *find*, `viç`, and `dṛç`, the later language
+b\. From three roots, `vid` *find*, `viś`, and `dṛś`, the later language
 allows strong participle-stems to be made with the union-vowel, as well
-as in the regular manner without it: thus, `viviçivāṅs` or `viviçvāṅs`;
-`dadṛçivāṅs` occurs in KṭhU. PB. has once `cicchidivāṅs`.
+as in the regular manner without it: thus, `viviśivāṅs` or `viviśvāṅs`;
+`dadṛśivāṅs` occurs in KṭhU. PB. has once `cicchidivāṅs`.
 
 806\. The ending of the middle participle is `āná`. It is added to the
 weak form of perfect-stem, as this appears in the middle inflection:
@@ -1041,11 +1041,11 @@ thus, बुबुधान `bubudhāná`, निन्यान `ninyāná`, �
 
 a\. In the Veda, the long reduplicating vowel is shown by many middle
 participles: thus, `vāvṛdhāná, vāvasāná, dādṛhāṇá, tūtujāná`, etc. RV.
-has `çaçayāná` from √`çī` (with irregular `guṇa`, as in the
+has `śaśayāná` from √`śī` (with irregular `guṇa`, as in the
 present-system: 629); `tistirāṇá` from √`stṛ`; and once, with `māna`,
 `sasṛmāṇá` from √`sṛ`. A few participles with long redupl. vowel have it
 irregularly accented (as if rather intensive: 1013): thus, `tū́tujāna`
-(also `tūtujāná`), `bā́badhāna, çā́çadāna, çū́çujāna, çū́çuvāna`.
+(also `tūtujāná`), `bā́badhāna, śā́śadāna, śū́śujāna, śū́śuvāna`.
 
 807\. In the later language, the perfect participles have nearly gone
 out of use; even the active appears but rarely, and is made from very
@@ -1066,7 +1066,7 @@ fail, and since the general equivalence of modal forms from all stems
 (582), and the common use of the perfect as a present in the Veda (823),
 deprive us of a criterion of meaning. There can be no reasonable doubt,
 however, that a considerable body of forms are to be reckoned here;
-optatives like `ānaçyām` and `babhūyās` and `babhūyā́t`, imperatives like
+optatives like `ānaśyām` and `babhūyās` and `babhūyā́t`, imperatives like
 `babhūtu`, subjunctives like `jabhárat`, show such distinctive
 characteristics of the perfect formation that by their analogy other
 similar words are confidently classed as belonging to the perfect.
@@ -1087,8 +1087,8 @@ are made in these ways. Thus:
 
 a\. with secondary endings, active: 2d sing.,
 `papráthas, cākánas, māmáhas, pipráyas, bubodhas, rāráṇas`; 3d sing.,
-`cākánat, jabhárat, rāráṇat, sāsáhat, paspárçat, pipráyat`; 1st pl.,
-`cākánāma, tatánāma, çūçávāma`; 3d pl., `tatánan, papráthan` (other
+`cākánat, jabhárat, rāráṇat, sāsáhat, paspárśat, pipráyat`; 1st pl.,
+`cākánāma, tatánāma, śūśávāma`; 3d pl., `tatánan, papráthan` (other
 persons do not occur). This is the largest class of cases.
 
 b\. with primary endings, active: here seem to belong only `dadhárṣati`
@@ -1096,7 +1096,7 @@ and `vavártati`: compare the formation with different accent below, 811
 a.
 
 c\. of middle forms occur only the 3d sing.,
-`tatápate, çaçámate, yuyójate, jujóṣate` (SV.; RV. has `jújoṣate`); and
+`tatápate, śaśámate, yuyójate, jujóṣate` (SV.; RV. has `jújoṣate`); and
 the 3d pl. `cākánanta, tatánanta` (and perhaps two or three others:
 below, 811 b, end).
 
@@ -1108,14 +1108,14 @@ class: above, 645). Here the forms with primary endings, active,
 preponderate, and are not very rare: for example,
 `jújoṣasi, jújoṣati, jújoṣathas, jújoṣatha` (other persons do not
 occur). With secondary endings, `jújoṣas, jújoṣat`, and `jújoṣan` are
-the forms that belong most distinctly here (since `dádāças` and
+the forms that belong most distinctly here (since `dádāśas` and
 `súṣūdas` etc. are perhaps rather aorists). And there is no middle form
 but `jújoṣate` (RV.: see above, 810 c).
 
 b\. With unstrengthened root-syllable occur a small body of forms, which
 are apparently also accented on the reduplication (accented examples are
 found only in 3d pl. mid.): thus, active, for example,
-`mumucas; vavṛtat, vividat, çūçuvat`; the only middle forms are
+`mumucas; vavṛtat, vividat, śūśuvat`; the only middle forms are
 `dadhṛṣate, vāvṛdhate`, 3d sing.; and
 `cákramanta, dádhṛṣanta, rúrucanta` (with
 `dadabhanta, paprathanta, māmahanta, juhuranta`, which might also belong
@@ -1129,33 +1129,33 @@ d\. As to forms with double mode-sign, or transfers to an
 
 812\. Examples of the regular optative formation are:
 
-a\. In active: 1st sing., `ānaçyām, jagamyām, papṛcyām, riricyām`; 2d
-sing., `vavṛtyās, viviçyās, çuçrūyā́s, babhūyās`; 3d sing., jagamyāt,
-vavṛtyāt, tutujyā́t, babhūyā́t; 2d du., `jagmyātam, çuçrūyā́tam`; 1st pl.,
-`sāsahyāma, vavṛtyāma, çūçuyāma`; 3d pl.,
+a\. In active: 1st sing., `ānaśyām, jagamyām, papṛcyām, riricyām`; 2d
+sing., `vavṛtyās, viviśyās, śuśrūyā́s, babhūyās`; 3d sing., jagamyāt,
+vavṛtyāt, tutujyā́t, babhūyā́t; 2d du., `jagmyātam, śuśrūyā́tam`; 1st pl.,
+`sāsahyāma, vavṛtyāma, śūśuyāma`; 3d pl.,
 `tatanyus, vavṛjyús, vavṛtyus`. The forms are quite numerous. 
 
 b\. In middle, the forms are few: namely, 1st sing., `vavṛtīya`; 2d
 sing., `vāvṛdhīthā́s, cakṣamīthās`; 3d sing.,
-`jagrasīta, vavṛtīta, māmṛjīta, dudhuvīta, çuçucīta`; 1st pl.,
+`jagrasīta, vavṛtīta, māmṛjīta, dudhuvīta, śuśucīta`; 1st pl.,
 `vavṛtīmahi`. And `sāsahīṣṭhās` and `ririṣīṣṭa` appear to furnish
 examples of precative optative forms.
 
 c\. There is no irregular mode of formation of perfect optatives.
 Individual irregularities are shown by certain forms: thus,
-`cakriyās, papīyāt, çuçrūyā́s and çuçrūyā́tam`, with treatment of the
+`cakriyās, papīyāt, śuśrūyā́s and śuśrūyā́tam`, with treatment of the
 final as before the passive-sign `yá` (770); `anajyāt` with short
-initial; `çiçrītá` from √`çri`; `jakṣīyāt` is anomalous: `ririṣes` is
+initial; `śiśrītá` from √`śri`; `jakṣīyāt` is anomalous: `ririṣes` is
 the only form that shows a union-vowel `a` (unless also `siṣet`, from
 √`sā`).
 
 813\. Of regular imperative forms, only a very small number are to be
 quoted: namely, active,
-`cākandhi, rārandhí, cikiddhi, titigdhi, mumugdhí, çuçugdhí`, and
+`cākandhi, rārandhí, cikiddhi, titigdhi, mumugdhí, śuśugdhí`, and
 `piprīhí`; `cākantu, rārantu, mumoktu`, and `babhūtu`; `mumuktam` and
 `vavṛktam`; `jujuṣṭana` and `vavṛttana` (unless we are to add
 `mamaddhí, mamattu, mamáttana`); — middle, `vavṛtsva` and `vavṛddhvam`.
-AV. has once `dadṛçrām`.
+AV. has once `dadṛśrām`.
 
 814\. As irregular imperatives may be reckoned several which show a
 union-vowel `a`, or have been transferred to an `a`-conjugation. Such
@@ -1221,7 +1221,7 @@ forms to be found.
 
 819\. Several forms from roots ending in consonants save the endings in
 2d and 3d sing. act. by inserting an `ī` (555 b): thus,
-`ábubhojīs, aviveçīs; arirecīt, ájagrabhīt` (`avāvarīt` and `avāvaçītām`
+`ábubhojīs, aviveśīs; arirecīt, ájagrabhīt` (`avāvarīt` and `avāvaśītām`
 are rather intensives); and the augmentless `jíhiṅsīs` (accent?) and
 `dadharṣīt` belong with them.
 
@@ -1261,7 +1261,7 @@ are to the perfects as more than a hundred to one; in the Brāhmaṇa parts
 of TS. and TB., as over thirty-four to one; and in those of MS. in about
 the same proportion; in AB., as more than four to one, the perfect
 appearing mostly in certain passages, where it takes the place of
-imperfect. It is only in ÇB. that the perfect is much more commonly
+imperfect. It is only in śB. that the perfect is much more commonly
 used, and even, to a considerable extent, in coördination with the
 imperfect. Throughout the Brāhmaṇas, however, the perfect participles
 have in general the true "perfect" value, indicating a completed or
@@ -1276,7 +1276,7 @@ thus the equivalent of imperfect, aorist, and present; and it occurs
 coördinated with them all.
 
 a\. Examples are: of perfect with present,
-`ná çrāmyanti ná ví muñcanty éte váyo ná paptuḥ` (RV.) *they weary not
+`ná śrāmyanti ná ví muñcanty éte váyo ná paptuḥ` (RV.) *they weary not
 nor stop, they fly like birds*;
 `sé ’d u rā́ja kṣayati carṣaṇīnā́m arā́n ná nemíḥ pári tā́ babhūva` (RV.)
 *he in truth rules king of men; he embraces them all, as the wheel the
@@ -1288,6 +1288,6 @@ darkness*; — of perfect with imperfect, `áhann áhim ánv apás tatarda`
 (RV.) *he slew the dragon, he penetrated to the waters*. Such a
 coordination as this last is of constant occurrence in the later
 language: e. g. `mumude ‘pūjayac cāi ’nām` (R.) *he was glad, and paid
-honor to her*; `vastrānte jagrāha skandhadeçe ‘sṛjat tasya srajam`
+honor to her*; `vastrānte jagrāha skandhadeśe ‘sṛjat tasya srajam`
 (MBh.) *she took hold of the end of his garment, and dropped a garland
 on his shoulders*.

@@ -74,7 +74,7 @@ l\. 4
 
 —
 
-read `‘kṣahṛdayaṁ dātā rājā ’çvahṛ-`.
+read `‘kṣahṛdayaṁ dātā rājā ’śvahṛ-`.
 
 99,
 
@@ -202,11 +202,11 @@ l\. 2
 
 —
 
-" `çā́mam`
+" `śā́mam`
 
 "
 
-\-`çā́mam`.
+\-`śā́mam`.
 
 169,
 

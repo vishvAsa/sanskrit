@@ -448,7 +448,7 @@ in `elima`, 966 d, 1201 a; ger. in composition, 1285.
 
 `guttural series of mutes (k, kh, g, gh, n̄`), pronunciation etc., 33,
 39–41, 180 a; asserted gutt. character of a, 20 a; of h, 65 a; palatals
-from original gutt., 41–3; `ç` and `h` do., 64, 66; reversion of
+from original gutt., 41–3; `ś` and `h` do., 64, 66; reversion of
 palatals etc. to gutt. form, 43, 64, 142, 145, 147, 214–26: — and see
 the different letters.
 
@@ -613,7 +613,7 @@ palatal series of mutes (`c, ch, j, jh, ñ`), pronunciation etc., 33,
 42–4; derived from original gutturals, 42; reversion to guttural form,
 43, 214 ff.; euphonic combinations, 118, 119, 214–20; treatment as
 finals, 142; assimilation of dentals to, 196–203; pal. character of
-`i, ī`, 20; of `y`, 51, 56; of `ç`, 63, 64; palatal for guttural in
+`i, ī`, 20; of `y`, 51, 56; of `ś`, 63, 64; palatal for guttural in
 reduplication, 590 b: — and see the different letters.
 
 participial compounds, 1247 g, 1309.
@@ -822,11 +822,11 @@ series or classes of mutes, 32 ff.
 
 seventh class of verbs — see nasal class.
 
-*sh*-sounds (`ṣ` and `ç`), 61, 63.
+*sh*-sounds (`ṣ` and `ś`), 61, 63.
 
 short and long quantity, 76–9.
 
-sibilants (`ç, ṣ, s`), pronunciation etc., 60–4: — and see the different
+sibilants (`ś, ṣ, s`), pronunciation etc., 60–4: — and see the different
 letters.
 
 sibilant or sigmatic aorist, 824, 874–920: formation and classification,

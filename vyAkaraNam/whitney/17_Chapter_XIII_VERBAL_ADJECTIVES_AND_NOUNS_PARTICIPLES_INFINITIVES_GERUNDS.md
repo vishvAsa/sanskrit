@@ -55,31 +55,31 @@ anywhere in the verbal system a distinction of weak and strong forms.
 Thus:
 
 a\. A penultimate nasal is not seldom dropped: examples are `aktá`
-(√`añj`), `baddhá` (√`bandh`), `çrabdha` (√`çrambh`), `daṣṭá` (√`daṅç`),
+(√`añj`), `baddhá` (√`bandh`), `śrabdha` (√`śrambh`), `daṣṭá` (√`daṅś`),
 `srasta` (√`sraṅs`), `bāḍha` (√`baṅh`).
 
 b\. Roots which are abbreviated in the weak forms of the perfect (794)
 suffer the same abbreviation here: examples are `uktá` (√`vac`), `uṣṭá`
 (√`vas` *shine*), `uptá` (√`vap`: also `vapta`), `ūḍhá` (√`vah`),
 `suptá` (√`svap`), `iṣṭá` (√`yaj`), `viddhá` (√`vyadh`); — and, by a
-similar procedure, √`prach` (or `praç`) makes `pṛṣṭá`, √`bhraṅç` makes
-`bhṛṣṭa` (beside the regular `bhraṣṭá`), and √`çra` *boil* makes `çṛṭá`
-(beside `çrātá`).
+similar procedure, √`prach` (or `praś`) makes `pṛṣṭá`, √`bhraṅś` makes
+`bhṛṣṭa` (beside the regular `bhraṣṭá`), and √`śra` *boil* makes `śṛṭá`
+(beside `śrātá`).
 
 c\. Final `ā` is weakened to `ī` in `gītá` (√`gā` *sing*), `dhītá`
 (√`dhā` *suck*), `pītá` (√`pā` *drink*), `sphīta`; and
-`jītá, vītá, çītá` are made from the roots `jyā, vyā, çyā`, (or `jī`
+`jītá, vītá, śītá` are made from the roots `jyā, vyā, śyā`, (or `jī`
 etc.); — and further to `i` in `chitá` (beside `chātá`), `dita` (√`dā`
 *divide* and `dā` *bind*), `drita` (? √`drā` *sleep*), `hitá` (√`dhā`
 *put*: with `h` for `dh`; but `dhita` also occurs in V.), `mitá` (√`mā`
-*measure*), `çitá` (also `çāta`), `sitá, sthitá`.
+*measure*), `śitá` (also `śāta`), `sitá, sthitá`.
 
 d\. A final `m` is lost after `a` in `gatá, natá, yatá, ratá` (from
 √`gam` etc.); and a final `n` in `kṣata, tatá, matá, hatá`. As to the
 other roots in `am` and `an` taking `ta`, see 955 a, b.
 
 e\. More isolated cases are -`ūta` (RV.: √`av`), `utá` or `ūta` (√`vā`
-*weave*), `çiṣṭá` (also `çāsta`: √`çās`), `mūrtá` (referred to
+*weave*), `śiṣṭá` (also `śāsta`: √`śās`), `mūrtá` (referred to
 √`mūrch`). As to -`gdha` and `jagdhá`, see 233 f.
 
 f\. On the other hand, √`svad` makes `svāttá`.
@@ -88,8 +88,8 @@ f\. On the other hand, √`svad` makes `svāttá`.
 
 a\. A number of roots ending in `am` retain the nasal, and lengthen the
 radical vowel (as also in some others of their verbal forms): thus,
-`kāṁta, krāṁtá, klāṁtá, kṣāṁta, cāṁta, tāṁtá, dāṁtá, bhrāṁta, vāṁtá, çāṁtá`
-(√`çam` *be quiet*), `çrāṁtá` (from √`kam` etc.); and one in `an`,
+`kāṁta, krāṁtá, klāṁtá, kṣāṁta, cāṁta, tāṁtá, dāṁtá, bhrāṁta, vāṁtá, śāṁtá`
+(√`śam` *be quiet*), `śrāṁtá` (from √`kam` etc.); and one in `an`,
 `dhvan` *sound*, makes `dhvāntá`.
 
 b\. A few roots in `an` make their participle from another root-form in
@@ -100,8 +100,8 @@ c\. Certain roots in `īv` take their `yū`-form (765 a): thus, `dyūtá`
 (√`dīv` *play*), `ṣṭhyūta, syūtá`; but √`mīv` *makes* -`mūta`.
 
 d\. From roots in changeable `ṛ` (generally taking `na`: 957 b) are made
-also `pūrtá` (√`pṛ` *fill*: beside `pṛta`), `çīrta` and `çūrtá` (√`çṛ`
-*crush*); and `çīrta` is further made from √`çrī` *mix*. 
+also `pūrtá` (√`pṛ` *fill*: beside `pṛta`), `śīrta` and `śūrtá` (√`śṛ`
+*crush*); and `śīrta` is further made from √`śrī` *mix*. 
 
 e\. Double forms are `mugdhá` and `mūḍha, sāḍhá` and `soḍha, dhūrta` and
 `dhruta, hvṛta` and `hrutá`.
@@ -126,8 +126,8 @@ also not seldom with original roots.
 a\. Thus, of roots presenting difficulties of combination: — 1. all that
 end in two consonants (save those of which one consonant is lost by a
 weakening process: 964 a, b): e. g.
-`çan̄k, valg, vāñch, lajj, ubj, ceṣṭ, ghūrṇ, katth, nind, jalp, cumb, umbh, khall, pinv, çaṅs`
-(also `çastá`), `rakṣ, hiṅs, garh` (in all, over fifty); but `takṣ`
+`śan̄k, valg, vāñch, lajj, ubj, ceṣṭ, ghūrṇ, katth, nind, jalp, cumb, umbh, khall, pinv, śaṅs`
+(also `śastá`), `rakṣ, hiṅs, garh` (in all, over fifty); but `takṣ`
 makes `taṣṭá`; — 2. all that end in linguals (including `ṣ` after `a` or
 `ā`): e. g. `aṭ, truṭ, paṭh, luṭh, īḍ, vruḍ, bhaṇ, kaṣ, bhāṣ`; — 3. all
 that end in surd spirants: e. g. `likh, grath, nāth, kuth, riph, guph`;
@@ -138,10 +138,10 @@ that end in other persistent semivowels: namely, `carv` (also `cūrṇa`),
 of the whole number that take only `ita`.
 
 b\. Of other roots ending in consonants: — 1. in gutturals, `cak, ḍhāuk`
-(`çak` has both `ta` and `ita`); `çlāgh`; — 2. in palatals, `ac` (also
+(`śak` has both `ta` and `ita`); `ślāgh`; — 2. in palatals, `ac` (also
 `akná`), `uc, kuc, khac, yāc, ruc`; `aj`?, `kūj, vraj`, also `tyaj` and
 `mṛj` in late texts (usually `tyaktá` and `mṛṣṭá`); — 3. in dentals,
-`at, pat, çcut`, also `yat` in epos (elsewhere only `yattá`);
+`at, pat, ścut`, also `yat` in epos (elsewhere only `yattá`);
 `krad, khād, gad, cud, nad, mud, mṛd, rad, rud, vad, vid` *know*,
 `hrād`; also `nud` in epos (elsewhere `nuttá` and `nunna`); `mad` has
 both `mattá` and `maditá` (the majority of roots in `d` take `na`: 957
@@ -149,21 +149,21 @@ d); `edh, kṣudh, gadh, dudh, nādh, bādh, spardh`;
 `an, in, kvan, dhvan, pan, ran` *ring*, `van, stan, svan`, and `dhvan`
 (also `dhvāntá`); — 4. in labials, `cup, yup, rup`, and usually `kup`
 (`kupta` late) and `lap` (`lapta` epic), occasionally
-`kṣip, gup, tap, dṛp, vap, çap`, while `jap` has both `ta` and `ita`;
-`grabh` (`gṛbhītá`), `çubh, skabh`, and occasionally `lubh`, while
-`kṣubh` and `stabh` have both forms; `tim, dham, çam` *labor*, `stim`,
-and `kṣam` in epos (also `kṣāṁta`); — 5. in spirants, `aç` *eat*,
-`īç, kāç, kṛç, vāç, çac`, while `piç` has both forms, and `mṛç` takes
+`kṣip, gup, tap, dṛp, vap, śap`, while `jap` has both `ta` and `ita`;
+`grabh` (`gṛbhītá`), `śubh, skabh`, and occasionally `lubh`, while
+`kṣubh` and `stabh` have both forms; `tim, dham, śam` *labor*, `stim`,
+and `kṣam` in epos (also `kṣāṁta`); — 5. in spirants, `aś` *eat*,
+`īś, kāś, kṛś, vāś, śac`, while `piś` has both forms, and `mṛś` takes
 `ita` only late; `iṣ` *send*,
 `īṣ, kuṣ, tṛṣ, tviṣ, pruṣ, miṣ, rūṣ, heṣ, hreṣ`, also `muṣ` except late,
 while `dhṛṣ, ruṣ`, and `hṛṣ` show both forms;
 `ās, bhas, bhās, ras, las, vas` *clothe*, `has`, also `as` *throw*
-occasionally, while `kas, gras, yas, vas` *shine*, `vas` *dwell*, `çās`
-(with `çiṣṭá` and `çāsta`), `çvas`, and `hras` make both forms;
+occasionally, while `kas, gras, yas, vas` *shine*, `vas` *dwell*, `śās`
+(with `śiṣṭá` and `śāsta`), `śvas`, and `hras` make both forms;
 `īh, grah` (`gṛhītá`), `jah` (secondary form of `hā`), `mah, rah`, and
 occasionally `ūh` *remove*, while `gāh` has both forms.
 
-c\. Of roots ending in vowels, only `çī` *lie*, which makes `çayita`
+c\. Of roots ending in vowels, only `śī` *lie*, which makes `śayita`
 (with `guṇa` of root, as elsewhere: 629).
 
 d\. In general, a root maintains its full form before `ita`; but there
@@ -171,7 +171,7 @@ are a few exceptions: thus, `gṛbhītá` and `gṛhītá` (the root being
 reckoned as `grabh` and `grah`: see 729), `uditá` (also `vadita` in the
 later language), `uṣita` (√`vas` *shine*; beside `uṣṭá`), `uṣita`
 (√`vas` *dwell*: also sporadically `vasita` and `uṣṭa`), `ukṣitá`
-(√`vaká` *increase*), `çṛthitá` (√`çrath`). From √`mṛj` are made both
+(√`vaká` *increase*), `śṛthitá` (√`śrath`). From √`mṛj` are made both
 `mṛjita` and `mārjita` (with strengthening as in present and elsewhere:
 627), beside `mṛṣṭá`.
 
@@ -181,13 +181,13 @@ e\. Instead of `i`, long `ī` is taken in `gṛbhītá` and `gṛhītá`.
 instead of त `tá` by a number of roots (about seventy). Thus:
 
 a\. Certain roots in `ā`: thus, `kṣā, glā, drā` *run*, `drā` *sleep*,
-(also `drita`?), `mlā` (also `mlātá`), `vā` *blow* (also `vāta`), `çyā`
-(also `çīná`), `styā, hā` *leave* (also `hīná` and `hāta`), `hā` *go
+(also `drita`?), `mlā` (also `mlātá`), `vā` *blow* (also `vāta`), `śyā`
+(also `śīná`), `styā, hā` *leave* (also `hīná` and `hāta`), `hā` *go
 forth*; and `dā` *divide* makes `diná` (also `dita` and -`tta`).
 Further, certain roots in `i`- and `u`-vowels: thus, `kṣi` *destroy*
-(`kṣīṇa`; also `kṣitá`), `ḍī, pī, lī` *cling*, `vlī, çī` or `çyā`
-*coagulate* (beside `çyāna` and `çīta`), `hrī` (beside `hrīta`); `dū`
-*burn* (also `duta`), `lū, çū`; and `dīv` *lament* makes `dyūna`
+(`kṣīṇa`; also `kṣitá`), `ḍī, pī, lī` *cling*, `vlī, śī` or `śyā`
+*coagulate* (beside `śyāna` and `śīta`), `hrī` (beside `hrīta`); `dū`
+*burn* (also `duta`), `lū, śū`; and `dīv` *lament* makes `dyūna`
 (compare 765).
 
 b\. Roots in `ṛ`, which before the suffix becomes `īr` or `ūr`: the
@@ -195,7 +195,7 @@ forms are, `arṇa` (late; beside `ṛtá`), `kīrṇa` (√`kṛ` *scatter*),
 `gīrṇá` (√`gṛ` *swallow*), `jīrṇá` and `jūrṇá` (√`jṛ` *waste away*),
 `tīrṇá` and `tūrṇa` (also `tūrtá`), `dīrṇá` (√`dṛ` *pierce*: also
 `dṛta`), `pūrṇá` (√`pṛ` *fill*: also `pūrtá` and `pṛta`), `mūrṇá` (√`mṛ`
-*crush*), `çīrṇá` (√`çṛ` *crush*: also `çīrta` and `çūrtá`?), `stīrṇá`
+*crush*), `śīrṇá` (√`śṛ` *crush*: also `śīrta` and `śūrtá`?), `stīrṇá`
 (also `stṛta`). Of like character with these are `īrṇá` from
 √`īr, cīrṇa` (beside `carita`) from √`car`, `gūrṇa` (beside `gūrtá`)
 from √`gur`, a secondary form of `gṛ`, and `cūrṇa` (beside `carvita`)
@@ -206,7 +206,7 @@ against the usual rule of internal combination: 216 f): thus, `bhagna`
 (√`bhañj`), `bhugna` (√`bhuj` *bend*), `magná` (√`majj`), `rugṇá, vigna`
 (beside `vikta`). Further, two or three ending in `c` (similarly
 treated): thus, `akná` (√`ac` or `añc`: also `acita` and `añcita`),
-`vṛkná` (√`vraçc`), and apparently -`pṛgṇa` (RV., once: with doubly
+`vṛkná` (√`vraśc`), and apparently -`pṛgṇa` (RV., once: with doubly
 irregular change of root-final, from √`pṛc`). And one root in `g`,
 `lagna`. 
 
@@ -215,15 +215,15 @@ d\. A considerable number, some of them very common ones, of roots in
 b). The forms are: `unna` (also `utta`), `arṇṇa`?,
 `klinna, kṣuṇṇa, kṣviṇṇa, khinna, channa, chinná, chṛṇṇá, tunná, tṛṇṇá, nunna`
 (also `nuttá` and `nudita`), `panná, bhinná, vinna` (√`vid` *find*: also
-`vittá`), `çanna` (√`çad` *fall*), `sanná` (also `sattá`), `skanná`
+`vittá`), `śanna` (√`śad` *fall*), `sanná` (also `sattá`), `skanná`
 (√`skand`), `syanná` (√`syand`), `svinná, hanna`. And `ánna` *food*, in
 spite of its different accent, appears to be a like formation from √`ad`
 *eat*.
 
 958\. The native grammarians reckon as participles of this formation a
 few miscellaneous derivative adjectives, coming from roots which do not
-make a regular participle: such are `kṣāma` *burnt*, `kṛçá` *emaciated*,
-`pakvá` *ripe*, `phullá` *expanded*, `çúṣka` *dry*.
+make a regular participle: such are `kṣāma` *burnt*, `kṛśá` *emaciated*,
+`pakvá` *ripe*, `phullá` *expanded*, `śúṣka` *dry*.
 
 Past Active Participle in `tavant` (or `navant`).
 
@@ -237,7 +237,7 @@ derivatives made with this suffix (452 ff.); its feminine ends in वती
 
 960\. Derivative words of this formation are found in RV., but without
 anything like a participial value. The AV. has a single example, with
-participial meaning: `açitā́vaty átithāu` *one's guest having eaten*
+participial meaning: `aśitā́vaty átithāu` *one's guest having eaten*
 (loc. abs.). In the Brāhmaṇas also it is hardly met with. In the later
 language, however, it comes to be quite common. And there it is chiefly
 used predicatively, and oftenest without copula expressed, or with the
@@ -245,17 +245,17 @@ value of a personal verb-form in a past tense: primarily, and not
 seldom, signifying immediate past, or having a true "perfect" value; but
 also (like the old perfect and the old aorist in later use) coming to be
 freely used for indefinite time, or with the value of the imperfect
-(779). For example: `māṁ na kaçcid dṛṣṭavān` *no one has seen* (or
+(779). For example: `māṁ na kaścid dṛṣṭavān` *no one has seen* (or
 *saw*) *me*; `sa nakulaṁ vyāpāditavān` *he destroyed the ichneumon*; or,
 with copula, `mahat kṛcchram prāptavaty asi` *thou hast fallen upon
 great misery*. Although originally and properly made only from
 transitive verbs (with an object, to which the participle in `ta` stands
 in the relation of an objective predicate), it is finally found also
-from intransitives: thus, `cūtena saṁçritavatī` (Ç.) *has become united
+from intransitives: thus, `cūtena saṁśritavatī` (ś.) *has become united
 with the mango-tree*; `gatavatī` (ib.) *she has gone*.
 
 a\. The same participle is also made in the secondary conjugations: e.
-g. `darçitavant` *having shown*, `prabodhitavant` *having awakened*. 
+g. `darśitavant` *having shown*, `prabodhitavant` *having awakened*. 
 
 b\. Possessives also in `in` made from passive participles are sometimes
 found used in an analogous manner, nearly as perfect active participles:
@@ -300,7 +300,7 @@ before a vowel: thus,
 `-kṣayya, jáyya, bháyya, lāyya; návya, bhávya, hávya, bhāvyá; vā́rya`:
 and, in the later language, `nīya, jeya, dhūya` (such cases are wanting
 earlier). In a few instances, a short vowel adds `t` before the suffix:
-thus, `itya, mitya, çrútya, stútya, kṛtya` (the only Vedic examples). —
+thus, `itya, mitya, śrútya, stútya, kṛtya` (the only Vedic examples). —
 3. Medial `a` remains unchanged or is lengthened: thus,
 `dábhya, vándya, sádya`; `mā́dya, vā́cya`. — 4. Medial `i`-, `u`-, and
 `ṛ`-vowels are unchanged or have the `guṇa`-strengthening: thus,
@@ -309,7 +309,7 @@ thus, `itya, mitya, çrútya, stútya, kṛtya` (the only Vedic examples). —
 c\. The RV. has about forty examples of this gerundive, and the AV. adds
 half as many more. Except in `bhāviá` (once), the accent in RV. is
 always on the root; AV. has several cases of accent on the `i` of the
-suffix (hence written `ādyà, āçyà, -vyādhyà, -dharṣyà`). According to
+suffix (hence written `ādyà, āśyà, -vyādhyà, -dharṣyà`). According to
 the grammarians, the accent is on the root or else the ending is
 circumflexed: always the former, if the `ya` follow a vowel.
 
@@ -330,7 +330,7 @@ still more frequent. According to the grammarians, the accent of the
 word is either circumflex on the final or acute on the penult: thus,
 `kartavyà` or `kartávya`; in the accentuated texts, it is always the
 former (the accent `távya` given to certain gerundives in the Petersburg
-lexicons is an error, growing out of the ambiguous accentuation of ÇB.:
+lexicons is an error, growing out of the ambiguous accentuation of śB.:
 88 c).
 
 965\. a. The suffix `anīya` is in like manner the product of secondary
@@ -358,13 +358,13 @@ occurrences `kártva`), -`gaṁtva, jántua, jétua, náṁtua, váktua, sótua`
 `jánitva, sánitva, bhávītva`.
 
 b\. Gerundives in `enia` or `enya` (compare 1217): they are
-`īkṣeṇía, īḍénia, caréṇia, dṛçénia`,
+`īkṣeṇía, īḍénia, caréṇia, dṛśénia`,
 -`dviṣeṇia, bhūṣéṇya, yudhénia, váreṇia` (and `bhajenya` BhP.); with one
 example from an apparent aorist-stem, `yaṁsénya`, and three or four from
 secondary verb-stems (see below, 1019, 1038, 1068 a).
 
 c\. Gerundives in `ā́yia` (once `ā́yya`: compare 1218): they are
-`dakṣā́yia, panā́yia, vidā́yia, çravā́yia, hnavāyia`; with a few from
+`dakṣā́yia, panā́yia, vidā́yia, śravā́yia, hnavāyia`; with a few from
 secondary conjugation-stems (below, 1019, 1038, 1051, 1068a); and
 `stuṣéyia` is of close kindred with them.
 
@@ -395,42 +395,42 @@ participle (956). Examples are (with the gerund added) as follows:
 `dagdhá, dágdhum, dagdhvā́` from √`dah`; `bhinná, bhéttum, bhittvā́` from
 √`bhid`; `matá, mántum, matvā́` from √`man`; `ūḍhá, vóḍhum, ūḍhvā́` from
 √`vah`; `patitá, pátitum, patitvā́` from √`pat`;
-`yācitá, yā́citum, yācitvā́` from √`yāc`; `çayitá, çáyitum, çayitvā́` from
-√`çī`. But certain exceptions and special cases require notice. Thus:
+`yācitá, yā́citum, yācitvā́` from √`yāc`; `śayitá, śáyitum, śayitvā́` from
+√`śī`. But certain exceptions and special cases require notice. Thus:
 
 b\. Of roots having no quotable participle, infinitive stems in `tu` are
 made from `ad, sagh`; in `itu` from `uñch`, `ūh` *consider*,
 `kṣap, luṇṭh, lok, svar`; and in both from `yabh`. 
 
 c\. Of roots making participles of both forms, an infinitive stem in
-`tu` only is quotable for `kṣip, kṣubh, tap, tyaj, mṛç, lubh, vas`
-*shine*, `çak, stabh`; only in `itu` for
-`gāh, carv, jap, mad, yat, van, çaṅs, çvas`; in both for `as` *throw*,
+`tu` only is quotable for `kṣip, kṣubh, tap, tyaj, mṛś, lubh, vas`
+*shine*, `śak, stabh`; only in `itu` for
+`gāh, carv, jap, mad, yat, van, śaṅs, śvas`; in both for `as` *throw*,
 `ūh` *remove*, `gup, car, mṛj` (`mā̆rṣṭu, mārjitu`), `lap, vas` *dwell*,
-`çap, çās`.
+`śap, śās`.
 
 d\. Also in a number of other cases (besides those already noticed) an
 infinitive stem is made both with and without `i`. Thus, in addition to
 the more regular form, a stem in `itu` is occasionally met with from
-roots `aç` *attain*, `iṣ` *seek*, `bandh, bhaj, yaj` (`ījitum`), `rudh`
+roots `aś` *attain*, `iṣ` *seek*, `bandh, bhaj, yaj` (`ījitum`), `rudh`
 *obstruct*, `ruh, vṛṣ, sad` (`sīditum`), `sah, han, hṛ`; and one in `tu`
 from roots `ās, bhāṣ, vid` *know*. Both forms occur also from certain
 `am`-roots, namely `nam, yam, ram`, and, with `ā` before `tu` as in the
 pple, `kram` and `bhram` (`kṣam` has only `kṣaṁtu`, against the analogy
 of `kṣāṁta`); further, from certain roots in variable `ṛ`, namely `tṛ`
 (`tartu, tarī̆tu`), `vṛ` *cover* (`vártu, varī̆tu`), and `stṛ`
-(`stártu, staritu, stárītu`) (but from `çṛ` *crush* occur only
-`çárītu, çaritu`, and from `vṛ` *choose* only `varītu`; while `gṛ`
+(`stártu, staritu, stárītu`) (but from `śṛ` *crush* occur only
+`śárītu, śaritu`, and from `vṛ` *choose* only `varītu`; while `gṛ`
 *swallow* and `pṛ` *fill* make their infinitive from other root-forms,
 namely `giritum, pūritum`); further, from a few vowel-roots, namely
-`nī, cyu, sū` (`sū́tu`); and finally from `kṛṣ, nṛt, çuc`.
+`nī, cyu, sū` (`sū́tu`); and finally from `kṛṣ, nṛt, śuc`.
 
 e\. Against the analogy of the participle, infinitive-stems in `itu`
 after a final consonant are made from the roots `av, kṣan, khan` and
 `jan` (the pples coming from `khā` and `jā`), `guh, jabh, tam, dīv`
 *play* and `dīv` *lament* (both `devitu`), `majj, vṛt, vṛdh, sṛp`; and
 after a final vowel, from roots in `ū`, namely `pū, bhū, sū` (also
-`sūtu`), and from `çri` and `çvi`; as to roots in variable `ṛ`, see just
+`sūtu`), and from `śri` and `śvi`; as to roots in variable `ṛ`, see just
 above, d.
 
 f\. As the infinitive is made from the (accented and) strengthened root,
@@ -459,7 +459,7 @@ h\. In very rare instances, dative infinitives in `tave` or `tavāi` are
 made from the infinitive stem in the later language (as abundantly in
 the earlier: 970 b): thus, `pratihartave` (BhP.). And `jīvase` (973 a)
 is once found in MBh. (i. 3. 67 = 732), in a quasi-Vedic hymn to the
-Açvins.
+Aśvins.
 
 969\. In the Veda and Brāhmaṇa, however, a number of verbal nouns,
 *nomina actionis*, in various of their cases, are used in constructions
@@ -510,16 +510,16 @@ Rig-Veda.
 
 l\. Other suffixes and forms than those noticed above might be added;
 for it is impossible to draw any fixed line between the uses classed as
-infinitive and the ordinary case-uses: thus, `prajā́patim praçnám āitām`
-(TS.) *they went to ask Prajāpati*; `víçvaṁ jīvám prasuvántī carā́yāi`
+infinitive and the ordinary case-uses: thus, `prajā́patim praśnám āitām`
+(TS.) *they went to ask Prajāpati*; `víśvaṁ jīvám prasuvántī carā́yāi`
 (RV.) *quickening every living being to motion*; `apáḥ sármāya codáyan`
-(RV.) *impelling the waters to flow*; `çaknuyā́d gráhaṇāya` (instead of
-the usual `gráhītum`: ÇB.) *may be able to apprehend*; `ā tamanāt`
+(RV.) *impelling the waters to flow*; `śaknuyā́d gráhaṇāya` (instead of
+the usual `gráhītum`: śB.) *may be able to apprehend*; `ā tamanāt`
 (instead of the usual `tamitoḥ`: S.) *until exhaustion*. And the
 so-called infinitives are found coördinated in the same sentence with
 common nouns, and even with compound nouns: e. g.
 `cáritave... ābhogáya iṣṭáye rāyé` (RV.) *to go abroad, to enjoy, to
-seek wealth*; `ārtatrāṇāya na prahartum anāgasi` (Ç.) *for the rescue of
+seek wealth*; `ārtatrāṇāya na prahartum anāgasi` (ś.) *for the rescue of
 the distressed, not for hurling at the innocent*.
 
 More special rules as to the various formations are as follows:
@@ -558,7 +558,7 @@ In near three quarters of the cases, the accent is on the suffix: e. g.
 `dhā́yase` (with `y` inserted before the suffix: 258); and
 `áyase, bhárase, spárase, hárase` (with `guṇa`-strengthening of the
 root). Strengthening of the root is also shown by
-`javáse, doháse, bhojáse, çobháse`. In `puṣyáse` is seen, apparently,
+`javáse, doháse, bhojáse, śobháse`. In `puṣyáse` is seen, apparently,
 the present-stem instead of the root.
 
 b\. The ending `se` is extremely rare, being found only in `jiṣé` and
@@ -576,15 +576,15 @@ his men*: (RV.). In `tyāi`, the only examples noted are `ityāí` (RV.)
 and `sā́ḍhyāi` (MS. AB.).
 
 b\. With `aye` are formed
-`iṣáye, tujáye, dṛçáye, maháye, yudháye, sanáye`; and `citáye` (VS.),
+`iṣáye, tujáye, dṛśáye, maháye, yudháye, sanáye`; and `citáye` (VS.),
 `gṛhaye` (K.).
 
 976\. The ending `dhyāi` is, more than any other, irregular and various
 in its treatment. It has always an `a` before it; and in the majority of
 cases it is accented upon this `a`, and added to a weak form of root:
-thus, `çucádhyāi, pṛṇádhyāi, dhiyádhyāi, huvádhyāi`. But the form of
+thus, `śucádhyāi, pṛṇádhyāi, dhiyádhyāi, huvádhyāi`. But the form of
 root is the strong one in a few cases: namely,
-`çayádhyāi, stavádhyāi, tarádhyāi, jarádhyāi, mandádhyāi, vandádhyāi`.
+`śayádhyāi, stavádhyāi, tarádhyāi, jarádhyāi, mandádhyāi, vandádhyāi`.
 In half-a-dozen forms, again, the root has the accent: namely,
 `kṣáradhyāi, gámadhyāi, yájadhyāi` (but once or twice also `yajádhyāi`),
 `váhadhyāi, sáhadhyāi, bháradhyāi`. In a single instance, `píbadhyāi`,
@@ -606,7 +606,7 @@ wanting.
 `vyathiṣat`), and perhaps -`dhāsyāi` (PGS.).
 
 978\. The infinitives in `ṣaṇi` are: `iṣáṇi` (?) from √`iṣ` *send*,
--`bhūṣáṇi` from √`bhū`; `çūṣáṇi` from √`çū` or `çvā`; `neṣáṇi` from
+-`bhūṣáṇi` from √`bhū`; `śūṣáṇi` from √`śū` or `śvā`; `neṣáṇi` from
 √`nī`; `sakṣáṇi` from √`sah`; `parṣáṇi` from √`pṛ`, `tarīṣáṇi` from
 √`tṛ`; and `gṛṇīṣáṇi` and -`stṛṇīṣáṇi` from √√`gṛ` and `stṛ` — the last
 containing evident present tense-signs (compare the 1st sing. `gṛṇīṣé`,
@@ -624,13 +624,13 @@ abstract nouns. Thus:
 981\. The accusative, which is made only from the root-noun and the noun
 in `tu`, is used as object of a verb.
 
-a\. Especially, of forms from the root `çak` *be able*, and `arh` *be
-worthy, have the right or the power*. Thus, `çakéma tvā samídham` (RV.)
-*may we accomplish thy kindling*; `mā́ çakan pratidhā́m íṣum` (AV.) *may
+a\. Especially, of forms from the root `śak` *be able*, and `arh` *be
+worthy, have the right or the power*. Thus, `śakéma tvā samídham` (RV.)
+*may we accomplish thy kindling*; `mā́ śakan pratidhā́m íṣum` (AV.) *may
 they not be able to fit the arrow to the string*; `máno vā́ imā́ṁ sadyáḥ `
 `páryāptum arhati mánaḥ páribhavitum` (TS.) *the mind, forsooth, can at
 once attain and surpass her*; `kó hy ètásyā́ ’rhati gúhyaṁ nā́ma gráhītum`
-(ÇB.) *for who is worthy to take his secret name?* In the Veda, the
+(śB.) *for who is worthy to take his secret name?* In the Veda, the
 construction with these verbs is only one among others; in the Brāhmaṇa,
 it becomes the greatly prevalent one (three quarters or more of all the
 cases).
@@ -640,16 +640,16 @@ b\. Further, of verbs of motion (next most frequent case): thus,
 sacrificial gifts*; `índram pratíram emy ā́yuḥ` (RV.) *I go to Indra for*
 (i. e. *beseech of him*) *the lengthening out of life*; — of √`dhṛ`
 *persist in, undertake*: as, `sá idáṁ jātáḥ sárvam evá dágdhuṁ dadhre`
-(ÇB.) *he, as soon as born, began to burn this universe*; — of verbs
+(śB.) *he, as soon as born, began to burn this universe*; — of verbs
 meaning *desire, hope, notice, know*, and the like: as,
-`pā́çān vicṛ́taṁ vettha sárvān` (AV.) *thou knowest how to loosen all
-bonds*; `tásmād agníṁ nā́ ”driyeta párihantum` (ÇB.) *therefore one
+`pā́śān vicṛ́taṁ vettha sárvān` (AV.) *thou knowest how to loosen all
+bonds*; `tásmād agníṁ nā́ ”driyeta párihantum` (śB.) *therefore one
 should not be careful to smother the fire*; — and of others.
 
 982\. Of the infinitive datives, the fundamental and usual sense is that
 expressed by *for, in order to, for the purpose of*.
 
-Examples are: `víçaṁ jīváṁ caráse bodháyantī` (RV.) *awakening every
+Examples are: `víśaṁ jīváṁ caráse bodháyantī` (RV.) *awakening every
 living creature to motion*; `tā́n úpa yāta píbadhyāi` (RV.) *come to
 drink them*; `nāí ’tā́ṁ te devā́ adadur áttave` (AV.) *the gods did not
 give her to thee for eating*; `praí ”d yudháye dásyum índraḥ` (RV.)
@@ -665,47 +665,47 @@ expressed by the infinitive is frequently put beside it in the dative
 stretched beyond its natural boundaries by a kind of attraction): thus,
 `cakāra sū́ryāya pánthām ánvetavā́ u` (RV.) *he made a track for the sun
 to follow* (*made for the sun a track for his following*);
-`çíçīte çṛ́n̄ge rákṣobhyo viníkṣe` (RV.) *he whets his horns to pierce the
-demons*; `rudrā́ya dhánur a tanomi brahmadvíṣe çárave hántavā́ u` (RV.) *I
+`śíśīte śṛ́n̄ge rákṣobhyo viníkṣe` (RV.) *he whets his horns to pierce the
+demons*; `rudrā́ya dhánur a tanomi brahmadvíṣe śárave hántavā́ u` (RV.) *I
 stretch the bow for Rudra, that with his arrow he may slay the*
-`brahma`-*hater*; `asmábhyaṁ dṛçáye sū́ryāya púnar dātām ásum` (RV.) *may
+`brahma`-*hater*; `asmábhyaṁ dṛśáye sū́ryāya púnar dātām ásum` (RV.) *may
 they grant life again, that we may see the sun*.
 
 b\. An infinitive with √`kṛ` *make* is used nearly in the sense of a
-causative verb: thus, `prā́ ’ndháṁ çroṇáṁ cákṣasa étave kṛthaḥ` (RV.) *ye
+causative verb: thus, `prā́ ’ndháṁ śroṇáṁ cákṣasa étave kṛthaḥ` (RV.) *ye
 make the blind and lame to see and go*; `agníṁ samídhe cakártha` (RV.)
 *thou hast made the fire to be kindled*. Of similar character is an
 occasional construction with another verb: as,
-`yád īm uçmási kártave kárat tát` (RV.) *what we wish to be done, may he
-do that*; `kavī́ṅr icchāmi saṁdṛ́çe` (RV.) *I desire to see the sages*.
+`yád īm uśmási kártave kárat tát` (RV.) *what we wish to be done, may he
+do that*; `kavī́ṅr icchāmi saṁdṛ́śe` (RV.) *I desire to see the sages*.
 
 c\. A dative infinitive is not seldom used as a predicate, sometimes
 with, but more usually without, a copula expressed: thus,
 `agnír iva ná pratidhṛ́ṣe bhavati` (TS.) *like fire, he is not to be
-resisted*; `mahimā́ te anyéna ná saṁnáçe` (VS.) *thy greatness is not to
-be attained by another*; `nákim índro níkartave ná çakráḥ páriçaktave`
+resisted*; `mahimā́ te anyéna ná saṁnáśe` (VS.) *thy greatness is not to
+be attained by another*; `nákim índro níkartave ná śakráḥ páriśaktave`
 (RV.) *Indra is not to be put down, the mighty one is not to be
 overpowered*.
 
 d\. Sometimes an infinitive so used without a copula has quite nearly
-the value of an imperative: thus, `tyā́ me yaçásā... āuçijó huvádhyāi`
-\[`asti`\] (RV.) *these glorious ones shall the son of Uçij invoke for
+the value of an imperative: thus, `tyā́ me yaśásā... āuśijó huvádhyāi`
+\[`asti`\] (RV.) *these glorious ones shall the son of Uśij invoke for
 me*; `sūktébhir vaḥ... índrā nv àgnī́ ávase huvádhyāi` \[`staḥ`\] (RV.)
 *with your hymns shall ye call now on Indra and Agni for aid*;
 `vandádhyā agníṁ námobhiḥ` \[`asmi`\] (RV.) *let me greet Agni with
-homage*; `asmā́kāsaç ca sūráyo víçvā ā́çās tarīṣáṇi` (RV.) *and let our
+homage*; `asmā́kāsaś ca sūráyo víśvā ā́śās tarīṣáṇi` (RV.) *and let our
 sacrifices cross all regions*; `tán nāí ’váṁ kártavāí` (MS.) *that must
-not be done so*; `brahmadvíṣaḥ çárave hántavā́ u` (RV.) *let the arrow
+not be done so*; `brahmadvíṣaḥ śárave hántavā́ u` (RV.) *let the arrow
 slay the brahma-haters*. The infinitives in `dhyāi` and `ṣaṇi` (which
 latter is in all its uses accordant with datives) are those in which the
 imperative value is most distinctly to be recognized.
 
-e\. In the Brāhmaṇas and Sūtras (especially in ÇB.) the dative in
+e\. In the Brāhmaṇas and Sūtras (especially in śB.) the dative in
 `tavāi` is not seldom used with a verb signifying *speak*
 (`brū, vac, ah`), to express the ordering of anything to be done: thus,
-`tásmād óṣadhīnām evá mū́lāny úcchettavāí brūyāt` (ÇB.) *therefore let
+`tásmād óṣadhīnām evá mū́lāny úcchettavāí brūyāt` (śB.) *therefore let
 him direct the roots of the plants to be cut up* (*speak in order to
-their cutting up*: cf. `yé vaçā́yā ádānāya vádanti` *who dissuade from
+their cutting up*: cf. `yé vaśā́yā ádānāya vádanti` *who dissuade from
 giving the cow*: AV.).
 
 983\. The ablative infinitive — which, like the accusative, is made only
@@ -728,35 +728,35 @@ pit*; `purā dakṣiṇābhyo netoḥ` (Āpast.) *before the gifts are taken
 away*.
 
 984\. The genitive infinitive (having the same form as the ablative) is
-in common use in the Brāhmaṇa language as dependent on `īçvará` *lord,
+in common use in the Brāhmaṇa language as dependent on `īśvará` *lord,
 master*, employed adjectively in the sense of *capable* or *likely* or
 *exposed to*.
 
-a\. Examples are: `tā́` \[`devátāḥ`\] `īçvarā́ enam pradáhaḥ` (TS.) *they
+a\. Examples are: `tā́` \[`devátāḥ`\] `īśvarā́ enam pradáhaḥ` (TS.) *they
 are likely to burn him up*;
-`átha ha vā́ īçvarò ‘gníṁ citvā́ kíṁcid dāuritám ā́pattor ví vā hválitoḥ`
-(ÇB.) *so in truth he is liable,* *after piling the fire, to meet with
+`átha ha vā́ īśvarò ‘gníṁ citvā́ kíṁcid dāuritám ā́pattor ví vā hválitoḥ`
+(śB.) *so in truth he is liable,* *after piling the fire, to meet with
 some mishap or other, or to stagger*;
-`içvaraṁ vāi rathantaram udgātuç cakṣuḥ pramathitoḥ` (PB.) *the
+`iśvaraṁ vāi rathantaram udgātuś cakṣuḥ pramathitoḥ` (PB.) *the
 rathantara is liable to knock out the eye of the chanter*.
 
-b\. The dative is used in ÇB. instead of the genitive in a single phrase
-(`īçvarāú jánayitavāí`); and, in the later language, sometimes the
-accusative in turn. In a case or two the masc. sing. nom. `īçvaraḥ` is
+b\. The dative is used in śB. instead of the genitive in a single phrase
+(`īśvarāú jánayitavāí`); and, in the later language, sometimes the
+accusative in turn. In a case or two the masc. sing. nom. `īśvaraḥ` is
 used, without regard to the gender or number of the word which it
-qualifies: thus, `tásye ”çvaráḥ prajā́ pā́pīyasī bhávitoḥ` (ÇB.) *his
+qualifies: thus, `tásye ”śvaráḥ prajā́ pā́pīyasī bhávitoḥ` (śB.) *his
 progeny is liable to deteriorate*. And in a very few instances the word
-`īçvara` is omitted, and the genitive has the same value without it:
+`īśvara` is omitted, and the genitive has the same value without it:
 thus, `dve madhyaṁdinam abhi pratyetoḥ` (AB.) *two may be added to the
-noon libation*; `táto dīkṣitáḥ pāmanó bhávitoḥ` (ÇB.) *then the
+noon libation*; `táto dīkṣitáḥ pāmanó bhávitoḥ` (śB.) *then the
 consecrated is liable to get the itch*.
 
-c\. This construction with `īçvara`, which is the only one for the
+c\. This construction with `īśvara`, which is the only one for the
 genitive infinitive in the Brāhmaṇa, is unknown in the Veda, where the
 genitive is found in a very small number of examples with `madhyā́`, and
-with the root `īç`: thus, `madhyā́ kártoḥ` (RV.) *in the midst of
-action*; `ī́çe rāyó dā́toḥ` (RV.) *he is master of the giving of wealth*;
-`ī́çe yótoḥ` (RV.) *is able to keep away*.
+with the root `īś`: thus, `madhyā́ kártoḥ` (RV.) *in the midst of
+action*; `ī́śe rāyó dā́toḥ` (RV.) *he is master of the giving of wealth*;
+`ī́śe yótoḥ` (RV.) *is able to keep away*.
 
 985\. Unless the infinitives in `ṣaṇi` and `tari` are locative in form
 (their uses are those of datives), the locative infinitive is so rare,
@@ -777,27 +777,27 @@ small surprise.
 
 987\. The later infinitive in tum is oftenest used in constructions
 corresponding to those of the earlier accusative: thus,
-`na vāṣpam açakat soḍhurn` *he could not restrain his tears*;
+`na vāṣpam aśakat soḍhurn` *he could not restrain his tears*;
 `taṁ draṣṭum arhasi` *thou oughtest to see it*; `prāptum icchanti` *they
 desire to obtain*; `saṁkhyātum ārabdham` *having begun to count*. But
 also, not infrequently, in those of the other cases. So, especially, of
 the dative: thus, `avasthātuṁ sthānāntaraṁ cintaya` *devise another
 place to stay in*; `tvām anveṣṭum ihā ”gataḥ` *he has come hither to
 seek for thee*; — but likewise of the genitive: thus, `samartho gantum`
-*capable of going*; `saṁdhātum īçvaraḥ` *able to mend*. Even a
+*capable of going*; `saṁdhātum īśvaraḥ` *able to mend*. Even a
 construction as nominative is not unknown: thus, `yuktaṁ tasya mayā `
-`samāçvāsayitum bhāryām` (MBh.) *it is proper for me to comfort his
-wife*; `na naptāraṁ svayaṁ nyāyyaṁ çaptum evam` (R.) *it is not suitable
-thus to curse one's own grandson*; `tad vaktuṁ na pāryate` (Çatr.) *it
+`samāśvāsayitum bhāryām` (MBh.) *it is proper for me to comfort his
+wife*; `na naptāraṁ svayaṁ nyāyyaṁ śaptum evam` (R.) *it is not suitable
+thus to curse one's own grandson*; `tad vaktuṁ na pāryate` (śatr.) *it
 is not possible to say that*.
 
 988\. In the later language, as in the earlier, the infinitive in
 certain connections has what we look upon as a passive value. Thus,
-`kartum ārabdhaḥ` *begun to be made*; `çrotuṁ na yujyate` *it is not fit
+`kartum ārabdhaḥ` *begun to be made*; `śrotuṁ na yujyate` *it is not fit
 to be heard* (*for hearing*). This is especially frequent along with the
-passive forms of √`çak`: thus, `tyaktuṁ na çakyate` *it cannot be
-abandoned*; `çakyāv ihā ”netum` *they two can be brought hither*;
-`na ca vibhūtayaḥ çakyam avāptum ūrjitāḥ` *nor are mighty successes a
+passive forms of √`śak`: thus, `tyaktuṁ na śakyate` *it cannot be
+abandoned*; `śakyāv ihā ”netum` *they two can be brought hither*;
+`na ca vibhūtayaḥ śakyam avāptum ūrjitāḥ` *nor are mighty successes a
 thing capable of being attained*.
 
   
@@ -811,7 +811,7 @@ preceding action to that signified by the verb of the clause. It has
 thus the virtual value of an indeclinable participle, present or past,
 qualifying the actor whose action it describes.
 
-a\. Thus, for example: `çrutvāi ’va cā ’bruvan` *and hearing* (or
+a\. Thus, for example: `śrutvāi ’va cā ’bruvan` *and hearing* (or
 *having heard*) *they spoke*;
 `tebhyaḥ pratijñāyā ’thāi ’tān paripapraccha` *having given them his
 promise, he then questioned them*.
@@ -826,11 +826,11 @@ occasional exceptions. Thus, gerunds in `ya` from simple roots are not
 very rare in the epic language (e. g. `gṛhya, uṣya` \[√`vas` *dwell*\],
 `arcya, īkṣya, cintya, tyajya, lakṣya`; also from causatives and
 denominatives, as `vācya, yojya, plāvya`), and are not unknown elsewhere
-(e. g. `arcya` and `īkṣya` M., `prothya` AGS., `sthāpya` ÇvU.). And
+(e. g. `arcya` and `īkṣya` M., `prothya` AGS., `sthāpya` śvU.). And
 gerunds in `tvā` from compounded roots are met with in considerable
 numbers from AV. (only `pratyarpayitvā́`) down: e. g. `samīrayitvā́` MS.,
 `virocayitvā́` TA., `utkṣiptvā` U., `pratyuktvā` E., `pratyasitvā` S.,
-`prahasitvā` MBh., `saṁdarçayitvā` MBh., `vimuktvā` R., `nivedayitvā`
+`prahasitvā` MBh., `saṁdarśayitvā` MBh., `vimuktvā` R., `nivedayitvā`
 R., `proktvā` Pañc., `anupītva` VBS.: the great majority of them are
 made from the causative stem. 
 
@@ -859,10 +859,10 @@ participle; but from `dhā` *put* is quotable only `dhitvā́`, from `mā`
 forms both with and without `i` (as in the infinitive), but `ram` has
 `ratvā́` and `raṁtvā`, and `dam` and `vam` make `damitvā` and `vamitvā`.
 
-c\. The auxiliary vowel is taken by roots `gras, muṣ, çap`, and `çās`
-(`çāsitvā`) (whose participles have both forms); also by `cāy, nṛt`
-(`nartitvā`), `lag`, and `svaj` (against analogy of pple); and `çuc`
-makes `çocitvā`. On the other hand, from `ruj` (`rugṇa`) and `vraçc`
+c\. The auxiliary vowel is taken by roots `gras, muṣ, śap`, and `śās`
+(`śāsitvā`) (whose participles have both forms); also by `cāy, nṛt`
+(`nartitvā`), `lag`, and `svaj` (against analogy of pple); and `śuc`
+makes `śocitvā`. On the other hand, from `ruj` (`rugṇa`) and `vraśc`
 (`vṛkṇa`) come `ruktvā́` and `vṛṣṭvā́`. And both forms are made (as also
 in infinitive or participle) from `car, vas` *dwell* (`uṣṭvā, uṣitvā́`),
 `nī` (`nītvā́, nayitvā`), and `mṛj` (`mṛṣṭvā́, mārjitvā`).
@@ -871,7 +871,7 @@ d\. While the formation is in general one requiring, like the passive
 participle (e. g. `uptvā`, like `uptá`; `uditvā́`, like `uditá`), a weak
 or weakened root, there are some cases in which it is made from a strong
 or strengthened root-form. Thus (besides the instances already given:
-`chāyitvā, raṁtvā, çāsitvā, cāyitvā, çocitvā, nayitvā, mārjitvā`), we
+`chāyitvā, raṁtvā, śāsitvā, cāyitvā, śocitvā, nayitvā, mārjitvā`), we
 find `charditvā` (Āpast.), `daṅṣṭvā`, and `spharitvā`, and, from a
 number of roots, a second strong form beside the more regular weak one:
 namely, `an̄ktvā, bhan̄ktvā, bhun̄ktvā, syanttvā` (beside `aktvā́` etc.);
@@ -887,7 +887,7 @@ accented, but has its weak form. A root ending in a short vowel takes
 कृत्य -`kṛ́tya`.
 
 a\. Roots in variable `ṛ` (242) change that vowel to `īr` or `ūr`: thus,
-`kīrya, gī́rya, tīrya` (and `tū́rya`), `dī́rya, pūrya, çī́rya, stī́rya` (also
+`kīrya, gī́rya, tīrya` (and `tū́rya`), `dī́rya, pūrya, śī́rya, stī́rya` (also
 `stṛtya`); — roots in `ā` have for the most part -`āya`; but `dhā`
 *suck* makes `dhīya`, and double forms are found from `gā` *sing*
 (`gāya, gī́ya`), `pā` *drink* (`pā́ya, pīya`), `dā` *give*
@@ -907,16 +907,16 @@ etc.); while `kṣi` *destroy* has only `kṣī́ya`.
 b\. This gerund, though accented on the root-syllable, is generally a
 weakening formation: thus are made, without a strengthening nasal found
 in some other forms,
-`ácya, ájya, idhya, údya, ubhya, grathya, tácya, daçya, bádhya, bhajya, lípya, lúpya, vlágya, çrabhya, sajya, skábhya, stábhya, syadya, svajya`;
+`ácya, ájya, idhya, údya, ubhya, grathya, tácya, daśya, bádhya, bhajya, lípya, lúpya, vlágya, śrabhya, sajya, skábhya, stábhya, syadya, svajya`;
 with weakening of other kinds, `gṛ́hya` and `gṛ́bhya`,
 `pṛcchya, úcya, udya, úpya, úṣya` (`vas` *dwell*),
-`úhya, vidhya, vī́ya, vṛçcya, spṛ́dhya, hū́ya`; — but from a number of
+`úhya, vidhya, vī́ya, vṛścya, spṛ́dhya, hū́ya`; — but from a number of
 roots are made both a stronger and a weaker form: thus, `manthya` and
-`máthya, mārjya` and `mṛ́jya, rundhya` and `rúdhya, çaṅsya` and
-`çásya, çāsya` and `çiṣya, skándya` and `skádya, sráṅsya` and `srasya`;
-— and only strong forms are found from roots `arc, av, cāy, çī`
-(`çayya`), as well as from certain roots with a constant nasal: e. g.
-`uñch, kamp, nand, lamb, çan̄k`; isolated cases are `oṣya` (√`uṣ`
+`máthya, mārjya` and `mṛ́jya, rundhya` and `rúdhya, śaṅsya` and
+`śásya, śāsya` and `śiṣya, skándya` and `skádya, sráṅsya` and `srasya`;
+— and only strong forms are found from roots `arc, av, cāy, śī`
+(`śayya`), as well as from certain roots with a constant nasal: e. g.
+`uñch, kamp, nand, lamb, śan̄k`; isolated cases are `oṣya` (√`uṣ`
 *burn*), `prothya` (also `prúthya`).
 
 c\. Other special cases are `úhya` and `ūhya` (√`ūh` *remove*), `gurya`
@@ -937,8 +937,8 @@ namely `tvā́, tvā́ya`, and `tvī́`. Of these three, `tvī́` is decidedly t
 commonest in RV. (thirty-five occurrences, against twenty-one of `tvā`);
 but it is unknown in AV., and very rare elsewhere in the older
 language; `tvā́ya` is found nine times in RV. (only once outside the
-tenth Book), twice in AV., and but half-a-dozen times elsewhere (in ÇB.,
-once from a causative stem: `spāçayitvā́ya`). The historical relation of
+tenth Book), twice in AV., and but half-a-dozen times elsewhere (in śB.,
+once from a causative stem: `spāśayitvā́ya`). The historical relation of
 the three forms is obscure.
 
 c\. Two other gerund suffixes, `tvānam` and `tvīnam`. are mentioned by
@@ -958,9 +958,9 @@ and expresses an act or condition belonging to the subject: thus,
 poured forth the waters*; `pītvī́ sómasya vāvṛdhe` (RV.) *having drunk of
 the soma, he waxed strong*;
 `tē yajñásya rásaṁ dhītvā́ vidúhya yajñáṁ yūpéna yopayitvā́ tirò ‘bhavan`
-(ÇB.) *having sucked out the sap of the offering, having milked the
+(śB.) *having sucked out the sap of the offering, having milked the
 offering dry, having blocked it with the sacrificial post, they
-disappeared*; `çrutvāi ’va cā ’bruvan` (MBh.) *and having heard, they
+disappeared*; `śrutvāi ’va cā ’bruvan` (MBh.) *and having heard, they
 said*; `taṁ ca dūre dṛṣṭvā gardabhī ’yam iti matvā dhāvitaḥ` (H.) *and
 having seen him in the distance, thinking 'it is a she-ass', he ran*.
 
@@ -968,17 +968,17 @@ c\. But if the logical subject, the real agent, is put by the
 construction of the sentence in a dependent case, it is still qualified
 by the gerund: thus, `stríyaṁ dṛṣṭvā́ya kitaváṁ tatāpa` (RV.) *it
 distresses the gambler* (i. e. *the gambler is distressed*) *at seeing a
-woman*; `táṁ hāi ’naṁ dṛṣṭvā́ bhī́r viveda` (ÇB.) *fear came upon him* (i.
+woman*; `táṁ hāi ’naṁ dṛṣṭvā́ bhī́r viveda` (śB.) *fear came upon him* (i.
 e. *he was afraid*) *when he saw him*; `vidhāya proṣite vṛttim` (M.)
 *when he stays away after providing for her support*;
 `kiṁ nu me syād idaṁ kṛtvā` (MBh.) *what, I wonder, would happen to me
 if I did this*; — and especially, when a passive form is given to the
 sentence, the gerund qualifies the agent in the instrumental case (282
-a): thus, `tataḥ çabdād abhijñāya sa vyāghreṇa hataḥ` (H.) *thereupon he
+a): thus, `tataḥ śabdād abhijñāya sa vyāghreṇa hataḥ` (H.) *thereupon he
 was slain by the tiger, who recognized him by his voice*;
-`tvayā sa rājā çakuntalām puraskṛtya vaktavyaḥ` (Ç.) *presenting
-Çakuntalā, thou must say to the king*;
-`haṅsānāṁ vacanaṁ çrutvā yathā me` (gen. for instr.) `nāiṣadho vṛtaḥ`
+`tvayā sa rājā śakuntalām puraskṛtya vaktavyaḥ` (ś.) *presenting
+śakuntalā, thou must say to the king*;
+`haṅsānāṁ vacanaṁ śrutvā yathā me` (gen. for instr.) `nāiṣadho vṛtaḥ`
 (MBh.) *as the Nishadhan was chosen by me on hearing the words of the
 swans*: this construction is extremely common in much of the later
 Sanskrit.
@@ -991,42 +991,42 @@ us\] cooking him on the spot*;
 promised* (lit. *when one has promised her*) *to one, she is given again
 to another*; `sucintya co ’ktaṁ suvicārya yat kṛtam` (H.) *what one says
 after mature thought,* *and does after full deliberation*. Hence, still
-more elliptically, after `alam`: thus, `alaṁ vicārya` (Ç.) *enough of
+more elliptically, after `alam`: thus, `alaṁ vicārya` (ś.) *enough of
 hesitation*; `tad alaṁ te vanaṁ gatvā` (R.) *so have done with going to
 the forest*.
 
 e\. Other less regular constructions are met with, especially in the
 older language: thus, in the manner of a participle with `man` and the
-like (268 a), as `táṁ hiṅsitvè ’va mene` (ÇB.) *he thought he had hurt
+like (268 a), as `táṁ hiṅsitvè ’va mene` (śB.) *he thought he had hurt
 him*; `tā adbhir abhiṣicya nijāsyāi ’vā ’manyata` (AB.) *having
 sprinkled them with water, he believed himself to have exhausted them*;
 — in the manner of a participle forming a continuous tense with √`i`
 (1075 a), as `indram evāi ’tāir ārabhya yanti` (AB.) *by means of them
 they keep taking hold of Indra*; — as qualifying a subordinate member of
-the sentence, as `puroḍā́çam evá kūrmám bhūtvā́ sárpantam` (ÇB.) *to the
+the sentence, as `puroḍā́śam evá kūrmám bhūtvā́ sárpantam` (śB.) *to the
 sacrificial cake creeping about, having become a tortoise*;
 `ayodhyām . . . saphenām sasvanām bhūtvā jalormim iva` (R.) *into
 Ayodhyā, like a surge that had been foamy and roaring*; — even
-absolutely, as `ātithyéna vāí devā́ iṣṭvā́ tā́nt samád avindat` (ÇB.) *when
+absolutely, as `ātithyéna vāí devā́ iṣṭvā́ tā́nt samád avindat` (śB.) *when
 the gods had sacrificed with the guest-offering, strife befel them*.
 
 f\. As in the two examples before the last, a predicate word with
 `bhūtvā` is put in the same case with the subject: thus, further,
-`tád iyám evāì ’tád bhūtvā́ yajati` (ÇB.) *so having thus become this
+`tád iyám evāì ’tád bhūtvā́ yajati` (śB.) *so having thus become this
 earth he makes offering*; `yena vāmanenā ’pi bhūtvā` (Vet.) *by whom,
 even when he had become a dwarf*. The construction is a rare one.
 
 g\. A number of gerunds have their meaning attenuated sometimes to the
 semblance of a preposition or adverb: such are `adhikṛtya` *making a
 subject of*, i. e. *respecting, of*; `ādāya, upāgṛhya` *taking*, i. e.
-*with*; `uddiçya` *pointing toward*, i. e. *at*; `āsādya,` *arriving
+*with*; `uddiśya` *pointing toward*, i. e. *at*; `āsādya,` *arriving
 at*, i. e. *along, by*; `ārabhya` *beginning*, i.e. *from*; `sambhūya`
 *being with*, i. e. *with*; `saṁhatya` *striking together*, i. e. *in
 unison*; `prasahya` *using force*, i. e. *violently*;
 `tyaktvā, parityajya, muktvā, vihāya, uddhṛtya, varjayitvā` *leaving
 out* etc., i. e. *excepting, without*; and others. Examples are:
-`çakuntalām adhikṛtya bravīmi` (Ç.) *I am speaking of Çakuntalā*;
-`tam uddiçya kṣiptalaguḍaḥ` (H.) *having thrown the cudgel at him*;
+`śakuntalām adhikṛtya bravīmi` (ś.) *I am speaking of śakuntalā*;
+`tam uddiśya kṣiptalaguḍaḥ` (H.) *having thrown the cudgel at him*;
 `nimittaṁ kiṁcid āsādya` (H.) *for some reason or other*.
 
 h\. The gerund is in the later language sometimes found in composition,
@@ -1034,9 +1034,9 @@ as if a noun-stem: e. g. `prasahyaharaṇa` *taking with violence*;
 `pretyabhāva` *existence after death*; `vibhajyapāṭha` *separate
 enunciation*; `sambhūyagamana` *going together*. It is also often
 repeated (1260), in a distributive sense: e. g.
-`sá vāí sammṛ́jya-sammṛjya pratápya-pratapya prá yacchati` (ÇB.) *in each
+`sá vāí sammṛ́jya-sammṛjya pratápya-pratapya prá yacchati` (śB.) *in each
 case, after wiping and warming them, he hands them over*;
-`gṛhītvā-gṛhītvā` (KÇS.) *at each taking*; `unnamyo’nnamya` (Pañc.)
+`gṛhītvā-gṛhītvā` (KśS.) *at each taking*; `unnamyo’nnamya` (Pañc.)
 *every time that they arise*.
 
 Adverbial Gerund in `am`.
@@ -1055,25 +1055,25 @@ rare; in the epics it is extremely infrequent; later, also, it occurs
 very sparingly.
 
 b\. A final vowel has vṛddhi-strengthening before the suffix: thus,
-`nāyam, çrāvam, kāram`; final `ā` adds `y`: thus, `khyāyam, yāyam`; a
+`nāyam, śrāvam, kāram`; final `ā` adds `y`: thus, `khyāyam, yāyam`; a
 medial vowel has `guṇa` (if capable of it: 240): thus,
-`kṣepam, kroçam, vartam` (but `īkṣam, pūram`); a medial `a` before a
+`kṣepam, krośam, vartam` (but `īkṣam, pūram`); a medial `a` before a
 single consonant is lengthened: thus, `krāmam, cāram, grāham, svādam`
 (but `grantham, lambham`). The accent is on the radical syllable. No
 uncompounded examples are found in the older language, and extremely few
 in the later.
 
-c\. Examples are: `kā́maṁ vā́ imā́ny án̄gāni vyatyā́saṁ çete` (ÇB.) *he lies
+c\. Examples are: `kā́maṁ vā́ imā́ny án̄gāni vyatyā́saṁ śete` (śB.) *he lies
 changing the position of these limbs at pleasure*;
-`úttarām-uttarāṁ çā́khāṁ samālámbhaṁ róhet` (ÇB.) *he would climb, taking
+`úttarām-uttarāṁ śā́khāṁ samālámbhaṁ róhet` (śB.) *he would climb, taking
 hold of a higher and ever a higher limb*;
-`aparī́ṣu mahānāgám ivā ’bhisaṁsā́raṁ didṛkṣitā́raḥ` (ÇB.) *hereafter,
+`aparī́ṣu mahānāgám ivā ’bhisaṁsā́raṁ didṛkṣitā́raḥ` (śB.) *hereafter,
 running together as it were about a great snake, they will wish to see
-him*; `nā́māny āsām etā́ni nāmagrā́ham` (ÇB.) *with separate naming of
-these their names*; `yó viparyā́sam avagū́hati` (ÇB.) *whoever buries it
-upside down*; `bāhūtkṣepaṁ kranditum pravṛttā` (Ç.) *she proceeded to
+him*; `nā́māny āsām etā́ni nāmagrā́ham` (śB.) *with separate naming of
+these their names*; `yó viparyā́sam avagū́hati` (śB.) *whoever buries it
+upside down*; `bāhūtkṣepaṁ kranditum pravṛttā` (ś.) *she proceeded to
 cry, throwing up her arms* (*with arm-tossing*);
-`navacūtapallavāni darçaṁ-darçam madhukarāṇāṁ kvanitāni çrāvaṁ-çrāvam paribabhrāma`
+`navacūtapallavāni darśaṁ-darśam madhukarāṇāṁ kvanitāni śrāvaṁ-śrāvam paribabhrāma`
 (DKC.) *he wandered about, constantly seeing the young shoots of the
 mango, and hearing the humming of the bees*. Repeated forms, like those
 in the last example, are approved in the later language; they do not

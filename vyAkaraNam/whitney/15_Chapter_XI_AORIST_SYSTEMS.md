@@ -52,8 +52,8 @@ have in the older language the general value of a completed past or
 
 826\. The aorist-system is a formation of infrequent occurrence in much
 of the classical Sanskrit (its forms are found, for example, only
-twenty-one times in the Nala, eight in the Hitopadeça, seven in Manu,
-six each in the Bhagavad-Gītā and Çakuntalā, and sixty-six times, from
+twenty-one times in the Nala, eight in the Hitopadeśa, seven in Manu,
+six each in the Bhagavad-Gītā and śakuntalā, and sixty-six times, from
 fourteen roots, in the first book, of about 2600 lines, of the Rāmāyaṇa:
 compare 927 b), and it possesses no participle, nor any modes (excepting
 in the prohibitive use of its augmentless forms: see 579; and the
@@ -195,15 +195,15 @@ in `ṛ`, and a few in `i`- and `u`-vowels (short or long) — with, as
 required by the analogy of the tense with an imperfect of the
 root-class, `guṇa`-strengthening in the three persons of the singular.
 
-a\. Thus (in the active), from √`çru`, `áçravam` and `áçrot`; from
-√`çri`, `áçres` and `áçret`; from √`kṛ` *make*, `ákaram` and `ákar` (for
+a\. Thus (in the active), from √`śru`, `áśravam` and `áśrot`; from
+√`śri`, `áśres` and `áśret`; from √`kṛ` *make*, `ákaram` and `ákar` (for
 `akars` and `akart`); from `vṛ` *enclose*, `ā́var` (585 a); and so
 `ástar, aspar`. Dual and plural forms are much less frequent than
 singular; but for the most part they also show an irregular
 strengthening of the root-vowel: thus (including augmentless forms),
 `ákarma` and `karma` and `ákarta`, `vartam`, `spartam`, `áhema` and
-`áhetana`, `bhema`, `açravan`; regular are only `avran, ákran, ahyan`,
-and `áçriyan`.
+`áhetana`, `bhema`, `aśravan`; regular are only `avran, ákran, ahyan`,
+and `áśriyan`.
 
 832\. Further, from a few roots with medial (or initial) vowel capable
 of `guṇa`-strengthening and having in general that strengthening only in
@@ -212,9 +212,9 @@ the singular.
 a\. Thus, `ábhedam` and `abhet` from √`bhid`; `ámok` from √`muc`;
 `yojam` from √`yuj`; `rok` (VS.) from √`ruj`; `arodham` and `arudhma`
 from √`rudh`; `avart` from √`vṛt`; `várk` from √`vṛj` (AV. has once
-`avṛk`); `adarçam` from √`dṛç`, `ā́rdhma` from √`ṛdh`; and `adṛçan`,
-`avṛjan`, `açvitan`. But `chedma`, with `guṇa`, from √`chid`, and
-`adarçma` (TS.) from √`dṛç`.
+`avṛk`); `adarśam` from √`dṛś`, `ā́rdhma` from √`ṛdh`; and `adṛśan`,
+`avṛjan`, `aśvitan`. But `chedma`, with `guṇa`, from √`chid`, and
+`adarśma` (TS.) from √`dṛś`.
 
 833\. Again, from a larger number of roots with `a` as radical vowel:
 
@@ -224,7 +224,7 @@ greatest variety of forms: thus, `ágamam`, `ágan` (2d and 3d sing.),
 `áganma`, `aganta` (strong form), `ágman`. The other cases are `akran`
 from √`kram`; `átan` from √`tan`; `abhrāṭ` from √`bhrāj`; `askan` from
 √`skand`; `asrat` from √`sraṅs` (? VS.); `dhak` and `daghma` from
-√`dagh`; `ā́naṭ` (585 a) and `anaṣṭām` from √`naç`; `ághas` or `aghat`,
+√`dagh`; `ā́naṭ` (585 a) and `anaṣṭām` from √`naś`; `ághas` or `aghat`,
 `ághastām`, `aghasta`, and `ákṣan` (for `aghsan`, like `agman`) from
 √`ghas`; and the 3d pll. in `us`, `ákramus, ayamus, dabhús, nṛtus`
 (pf.?), `mandús`.
@@ -236,7 +236,7 @@ doubtless belong, however, mostly or altogether, here. Thus:
 
 a\. From roots ending in vowels, we have `adhithās, adhita` (also
 `ahita`), and `adhīmahi; adithās, adita`, and `adimahi` (and `adīmahi`
-from √`dā` *cut*); `áçīta` (?); `sīmáhi; ásthithās` and `ásthita` and
+from √`dā` *cut*); `áśīta` (?); `sīmáhi; ásthithās` and `ásthita` and
 `ásthiran`, forms of `ā`-roots; — of `ṛ`-roots,
 `akri, ákṛthās, ákṛta, akrātām, ákrata` (and the anomalous `kránta`);
 `avri, avṛthās, avṛta; ārta, ārata; mṛthās, amṛta; dhṛthās; adṛthās; astṛta; ahṛthās; gūrta`;
@@ -252,7 +252,7 @@ and `ta` (and, of course, `dhvam`) would be in many cases required by
 euphonic rule (233 c ff.). We find, however, such unmistakable middle
 inflection of the root-aorist as
 `ayuji, áyukthās, áyukta, ayujmahi, áyugdhvam, áyujran; ā́ṣṭa` and
-`ā́çata; náṅçi; apadi` (1st sing.) and `apadmahi` and
+`ā́śata; náṅśi; apadi` (1st sing.) and `apadmahi` and
 `apadran; ámanmahi; gánvahi` and `áganmahi` and `ágmata; atnata; ájani`
 (1st sing.) and `ajñata` (3d pl.); from √`gam` are made `agathās` and
 `agata`, from √`tan`, `atathās` and `átata`, and from √`man`, `amata`,
@@ -260,8 +260,8 @@ with treatment of the final like that of `han` in present inflection
 (637). The ending `ran` is especially frequent in 3d pl., being taken by
 a number of verbs which have no other middle person of this aorist:
 thus,
-`agṛbhran, ásṛgran, adṛçran, abudhran, ávṛtran, ajuṣran, akṛpran, aspṛdhran, avasran, áviçran`;
-and `ram` is found beside `ran` in `ádṛçram, ábudhram, ásṛgram`.
+`agṛbhran, ásṛgran, adṛśran, abudhran, ávṛtran, ajuṣran, akṛpran, aspṛdhran, avasran, áviśran`;
+and `ram` is found beside `ran` in `ádṛśram, ábudhram, ásṛgram`.
 
 c\. From roots of which the final would combine with `s` to `kṣ`, it
 seems more probable that aorist-forms showing `k` (instead of `ṣ`)
@@ -292,18 +292,18 @@ few. In the active, `kárāṇi, gāni, gamāni` (for `bhuvāni`, see below,
 c); `kárasi; sthāti, dā́ti` and `dhā́ti` (which are almost indicative in
 value),
 `karati, joṣati, padāti, bhédati, rādhati, varjati; sthāthas, karathas`
-and `karatas, darçathas, çravathas and çrávatas`; and (apparently)
+and `karatas, darśathas, śravathas and śrávatas`; and (apparently)
 `karanti, gámanti`. In the middle, `joṣase`; `idhaté` (?),
 `kárate, bhójate, yojate, várjate; dhéthe` and
 `dhāithe; karāmahe, dhāmahe, gámāmahāi`.
 
 b\. Forms with secondary endings are, in the active,
-`dárçam, bhojam, yojam; káras, tárdas, párcas, yámas, rādhās, váras; karat, gámat, garat, jóṣat, daghat, padāt, yamat, yodhat, rādhat, várat, vártat, çrávat, sághat, spárat; kárāma, gamāma, rādhāma; gáman,`
-`garan, dárçan, yaman`. No middle forms are classifiable with
+`dárśam, bhojam, yojam; káras, tárdas, párcas, yámas, rādhās, váras; karat, gámat, garat, jóṣat, daghat, padāt, yamat, yodhat, rādhat, várat, vártat, śrávat, sághat, spárat; kárāma, gamāma, rādhāma; gáman,`
+`garan, dárśan, yaman`. No middle forms are classifiable with
 confidence here.
 
 c\. The series `bhuvam, bhúvas, bhúvat, bhúvan`, and `bhuvāni` (compare
-`abhuvam`: 830 a), and the isolated `çrúvat`, are of doubtful
+`abhuvam`: 830 a), and the isolated `śrúvat`, are of doubtful
 belongings; with a different accent, they would seem to be of the next
 class; here, a `guṇa`-strengthening would be more regular (but note the
 absence of `guṇa` in the aorist indicative and the perfect of √`bhū`).
@@ -321,15 +321,15 @@ a\. In the older language, however, pure optative forms, without the
 `s`, are made from this tense. From roots in `ā` occur (with change of
 `ā` to `e` before the `y`: 250 d) `deyām, dheyām` and `dheyus`, and
 `stheyāma`; in `u`-vowels, `bhūyā́ma`; in `ṛ`, `kriyāma`; in consonants,
-`açyā́m` and `açyā́ma` and `açyus`, `vṛjyām`, `çakyām`, `yujyāva` and
+`aśyā́m` and `aśyā́ma` and `aśyus`, `vṛjyām`, `śakyām`, `yujyāva` and
 `yujyā́tām`, `sāhyāma`, and `tṛdyus`.
 
 b\. The optative middle of the root-aorist is not recognized by the
 Hindu grammarians as making a part of the precative formation. The RV.
 has, however, two precative forms of it, namely `padīṣṭá` and `mucīṣṭa`.
 Much more common in the older language are pure optative forms: namely,
-`açīya` and `açīmáhi` (this optative is especially common),
-`indhīya, gmīya, murīya, rucīya; arīta, uhīta, vurīta; idhīmahi, naçīmahi, nasīmahi, pṛcīmahi, mudīmahi, yamīmahi`;
+`aśīya` and `aśīmáhi` (this optative is especially common),
+`indhīya, gmīya, murīya, rucīya; arīta, uhīta, vurīta; idhīmahi, naśīmahi, nasīmahi, pṛcīmahi, mudīmahi, yamīmahi`;
 and probably, from `ā`-roots, `sīmáhi` and `dhīmahi` (which might also
 be augmentless indicative, since `adhīmahi` and `adhītām` also occur).
 All these forms except the three in 3d sing. might be precative
@@ -344,7 +344,7 @@ are: 1st sing., `bhūyāsam`; 2d sing.,
 `avyās, jñeyās, bhūyā́s, mṛdhyās, sahyās`; 3d sing. (in -`yās`, for
 -`yāst`; RV. has no 3d sing, in `yāt`, which is later the universal
 ending),
-`avyās, açyās, ṛdhyās, gamyā́s, daghyās, peyās, bhūyā́s, yamyās, yūyās, vṛjyās, çrūyās, sahyās`;
+`avyās, aśyās, ṛdhyās, gamyā́s, daghyās, peyās, bhūyā́s, yamyās, yūyās, vṛjyās, śrūyās, sahyās`;
 1st pl., `kriyāsma` (beside `kriyāma`: 837 a). AV. has six 1st persons
 sing, in -`yā́sam`, one 2d in -`yā́s`, one 3d in -`yāt` (and one in
 -`yās`, in a RV. passage), three 1st pl. in -`yā́sma` (beside one in
@@ -367,20 +367,20 @@ occurs: it is accented either regularly, on the ending, as
 found with accent; the 2d pl. is represented by `kṛdhvam, voḍhvam`. In
 the active, all the persons (2d and 3d) are found in use; examples are:
 2d sing.,
-`kṛdhí, vṛdhi, çagdhí, çrudhí, gadhi, yaṁdhí, gahi, māhi, sāhi, mogdhi`;
-3d sing., `gaṁtu, dātu, aṣṭu, çrótu, sótu`; 2d du.,
-`dātam, jitam, çaktam, çrutám, bhūtám, spṛtám, gatám, riktám, voḍham, sitam, sutám`;
+`kṛdhí, vṛdhi, śagdhí, śrudhí, gadhi, yaṁdhí, gahi, māhi, sāhi, mogdhi`;
+3d sing., `gaṁtu, dātu, aṣṭu, śrótu, sótu`; 2d du.,
+`dātam, jitam, śaktam, śrutám, bhūtám, spṛtám, gatám, riktám, voḍham, sitam, sutám`;
 3d du., only `gaṁtām, dātām, voḍhā́m`; 2d pl.,
-`gātá, bhūtá, çruta, kṛta, gata, dāta, dhātana`; 3d pl., only
-`dhāntu, çruvantu`. These are the most regular forms; but irregularities
+`gātá, bhūtá, śruta, kṛta, gata, dāta, dhātana`; 3d pl., only
+`dhāntu, śruvantu`. These are the most regular forms; but irregularities
 as to both accent and strengthening are not infrequent. Thus, strong
 forms in 2d du. and pl. are `yaṁtám, varktam, vartam; kárta, gáṁta`
-(once `gáṁtá`), `yaṁta, vartta, heta, çróta, sóta`; and, with
+(once `gáṁtá`), `yaṁta, vartta, heta, śróta, sóta`; and, with
 `tana, kártana, gáṁtana, yaṁtana, sotana`, and the irregular `dhetana`
 (√`dhā`); in 3d du., `gāṁtām`. Much more irregular are `yódhi` (instead
 of `yuddhí`) from √`yudh`, and `bodhí` from both √`budh` and √`bhū`
 (instead of `buddhí` and `bhūdhí`). A single form (3d sing.) in `tāt` is
-found, namely `çastāt`. We find `kṛdhi` also later (MBh. BhP.).
+found, namely `śastāt`. We find `kṛdhi` also later (MBh. BhP.).
 
 a\. As to 2d persons singular in `si` from the simple root used in an
 imperative sense, see above, 624.
@@ -397,11 +397,11 @@ probably `ṛdhánt`. And BhP. has `mṛṣant` (but probably by error, for
 
 b\. In the middle, they are in RV. much more numerous. The accent is
 usually on the final of the stem: thus,
-`arāṇá, idhāṇá, krāṇá, juṣāṇá, tṛṣāṇá, nidāná, piçāná, pṛcāná, prathāná, budhāná, bhiyāná, manāná, mandāná, yujāná, rucāná, vipāná, vrāṇá, urāṇá, çubhāná, sacāná, suvāná`
+`arāṇá, idhāṇá, krāṇá, juṣāṇá, tṛṣāṇá, nidāná, piśāná, pṛcāná, prathāná, budhāná, bhiyāná, manāná, mandāná, yujāná, rucāná, vipāná, vrāṇá, urāṇá, śubhāná, sacāná, suvāná`
 or `svāná, sṛjāná, spṛdhāná, hiyāná`; — but sometimes on the
 root-syllable: thus, `cítāna, cyávāna, rúhāṇa, úhāna` (pres.?),
-`vásāna, çúmbhāna`; — while a few show both accentuations (compare 619
-d): thus, `dṛçāná` and `dṛ́çāna`, `dyutāná` and `dyútāna`, `yatāná` and
+`vásāna, śúmbhāna`; — while a few show both accentuations (compare 619
+d): thus, `dṛśāná` and `dṛ́śāna`, `dyutāná` and `dyútāna`, `yatāná` and
 `yátāna`; and `cetāna` and `hrayāṇa` occur only in composition. A very
 few of these are found once or twice in other texts, namely
 `citāna, dyutāna, ruhāṇa, vasāna, suvāna`; and -`kupāna` occurs once in
@@ -440,12 +440,12 @@ after final आ `ā` is added य् `y`.
 
 a\. Examples (all of them quotable from the older language) are: from
 roots ending in `ā, ájñāyi, ádhāyi, ápāyi`; in other vowels,
-`áçrāyi, ástāvi, áhāvi, ákāri, ástāri`; — from roots with medial
-`i, u, ṛ, aceti, ácchedi, açeṣi, ábodhi, ámoci, áyoji, ádarçi, asarji, varhi`;
+`áśrāyi, ástāvi, áhāvi, ákāri, ástāri`; — from roots with medial
+`i, u, ṛ, aceti, ácchedi, aśeṣi, ábodhi, ámoci, áyoji, ádarśi, asarji, varhi`;
 from roots with medial `a` strengthened,
 `agāmi, ápādi, ayāmi, avāci, vāpi, ásādi` (these are all the earlier
 cases); with `a` unchanged, only `ájani` (and RV. has once `jā́ni`), and,
-in heavy syllables, `ámyakṣi, vandi, çaṅsi, syandi`; with medial
+in heavy syllables, `ámyakṣi, vandi, śaṅsi, syandi`; with medial
 `ā, ábhrāji, árādhi`; — from roots with initial vowel, `ārdhi` (only
 case).
 
@@ -453,13 +453,13 @@ b\. According to the grammarians, certain roots in `am`, and √`vadh`,
 retain the `a` unchanged: quotable are `ajani` (or `ajāni`), `agami` (or
 `agāmi`), `asvani, avadhi`, also `araci`; and there are noted besides,
 from roots sometimes showing a nasal,
-`adaṅçi, arambhi, arandhi, ajambhi, abhañji` or `abhāji, alambhi`
-(always, with prepositions) or `alābhi, astambhi`; ÇB. has `asañji`.
+`adaṅśi, arambhi, arandhi, ajambhi, abhañji` or `abhāji, alambhi`
+(always, with prepositions) or `alābhi, astambhi`; śB. has `asañji`.
 
 c\. Augmentless forms, as in all other like cases, are met with, with
 either indicative or subjunctive value: examples (besides the two or
 three already given) are:
-`dhā́yi, çrā́vi, bhāri, reci, védi, roci, jáni, pā́di, sā́di, ardhi`. The
+`dhā́yi, śrā́vi, bhāri, reci, védi, roci, jáni, pā́di, sā́di, ardhi`. The
 accent, when present, is always on the root-syllable (SV. `dhāyí` is
 doubtless a false reading).
 
@@ -573,22 +573,22 @@ and Brāhmaṇa together about eighty roots exhibit the formation more or
 less fully. Of these a large number (fully half) are of the type of the
 roots which make their present-system according to the `á`-class, having
 a vowel capable of `guṇa`-strengthening before a final consonant (754):
-thus, with `i, chid, bhid, nij, ric, riṣ, lip, vid`, 1 `çiṣ` (`çās`), 2
-`çiṣ, çriṣ, çliṣ, sic, sridh`; — with
-`u, krudh, kṣudh, guh, duṣ, dyut, druh, puṣ, budh, bhuj, muc, mruc, yuj, ruc, rud, rudh, muh, ruh, çuc`;
+thus, with `i, chid, bhid, nij, ric, riṣ, lip, vid`, 1 `śiṣ` (`śās`), 2
+`śiṣ, śriṣ, śliṣ, sic, sridh`; — with
+`u, krudh, kṣudh, guh, duṣ, dyut, druh, puṣ, budh, bhuj, muc, mruc, yuj, ruc, rud, rudh, muh, ruh, śuc`;
 — with
-`ṛ, ṛdh, kṛt, gṛdh, gṛh, tṛp, tṛṣ, tṛh, dṛp, dṛç, dhṛṣ, nṛt, mṛdh, mṛṣ, vṛt, vṛdh, vṛṣ, sṛp, hṛṣ`.
+`ṛ, ṛdh, kṛt, gṛdh, gṛh, tṛp, tṛṣ, tṛh, dṛp, dṛś, dhṛṣ, nṛt, mṛdh, mṛṣ, vṛt, vṛdh, vṛṣ, sṛp, hṛṣ`.
 A small number end in vowels: thus, `ṛ, kṛ, sṛ` (which have the
 `guṇa`-strengthening throughout), `hi` (? `ahyat` once in AV.), and
 several in `ā`, apparent transfers from the root-class by the weakening
-of their `ā` to `a`: thus, `khyā, hvā, vyā, çvā`, and `dā` and `dhā`;
+of their `ā` to `a`: thus, `khyā, hvā, vyā, śvā`, and `dā` and `dhā`;
 and `āsthat`, regarded by the grammarians as aorist to √`as` *throw*, is
 doubtless a like formation from √`sthā`. A few have a penultimate nasal
 in the present and elsewhere, which in this aorist is lost: thus,
-`bhraṅç, taṅs, dhvaṅs, sraṅs, krand, randh`. Of less classifiable
+`bhraṅś, taṅs, dhvaṅs, sraṅs, krand, randh`. Of less classifiable
 character are
-`aç, kram, gam, ghas, tam, çam, çram, tan, san, sad, āp, das, yas, çak, dagh`.
-The roots `pat, naç, vac` form the tense-stems `papta, neça, voca`, of
+`aś, kram, gam, ghas, tam, śam, śram, tan, san, sad, āp, das, yas, śak, dagh`.
+The roots `pat, naś, vac` form the tense-stems `papta, neśa, voca`, of
 which the first is palpably and the other two are probably the result of
 reduplication; but the language has lost the sense of their being such,
 and makes other reduplicated aorists from the same roots (see below,
@@ -663,8 +663,8 @@ doubtless to be amended to -`mahi`).
 b\. Augmentless forms, with indicative or subjunctive value, are not
 infrequent. Examples, showing accent on the tense-sign, according to the
 general analogies of the formation, are:
-`ruhám, sṛpas, bhuját, vidát, aratām, vocata, çakan; vidata` and `vyáta`
-(3d sing.), `arāmahi, çiṣāmahi, vidánta, budhánta, mṛṣanta` (for
+`ruhám, sṛpas, bhuját, vidát, aratām, vocata, śakan; vidata` and `vyáta`
+(3d sing.), `arāmahi, śiṣāmahi, vidánta, budhánta, mṛṣanta` (for
 exceptions as regards accent, see below, 853).
 
 Modes of the `a`-aorist.
@@ -697,14 +697,14 @@ indicative:
 \[`vidātāi`?\]
 
 a\. The ending `thana` is found once, in `riṣāthana`. Of middle forms
-occur only `çíṣātāi` (AV.: but doubtless misreading for `çíṣyātāi`) and
-`çiṣāmahe` (AV., for RV. `çiṣāmahi`). The form `sádathas` seems an
+occur only `śíṣātāi` (AV.: but doubtless misreading for `śíṣyātāi`) and
+`śiṣāmahe` (AV., for RV. `śiṣāmahi`). The form `sádathas` seems an
 indicative, made from a secondary present-stem.
 
 850\. The optatives are few in the oldest language, but become more
 frequent, and in the `Brāhmaṇas` are not rare. Examples are: in active,
 `bhideyam`, `vidéyam`, `sanéyam` (TB. once `sanem`);
-`vidés, games; gamet, vocet; gametam; gaméma, çakéma, sanéma; vareta`;
+`vidés, games; gamet, vocet; gametam; gaméma, śakéma, sanéma; vareta`;
 in middle, (only) `videya; gamemahi, vanemahi: ruhethās` etc. in the
 epics must be viewed rather as present forms of the `á`-class.
 
@@ -721,12 +721,12 @@ imperatives are very rare: namely,
 Participles of the `a`-aorist.
 
 852\. a. The active participles `tṛpánt, ríṣant` or
-`rī́ṣant, vṛdhánt, çiṣánt, çucánt, sádant`, and (in participial
+`rī́ṣant, vṛdhánt, śiṣánt, śucánt, sádant`, and (in participial
 compounds, 1309) `kṛtant`-, `guhant`-, `vidant`- (all RV.), are to be
 assigned with plausibility to this aorist.
 
 b\. Likewise the middle participles `guhámāna, dhṛṣámāṇa, dásamāna` (?),
-`nṛtámāna, çucámāna`, and perhaps `vṛdhāná, sridhāná`.
+`nṛtámāna, śucámāna`, and perhaps `vṛdhāná, sridhāná`.
 
 Irregularities of the `a`-aorist.
 
@@ -738,9 +738,9 @@ sárat and sára. The root sad follows the same rule: thus, sádatam; and
 from √san are found sánas and sánat and sánema and sána, beside sanéyam
 and sanéma. It is questionable whether these are not true analogues of
 the bhū-class (unaccented a-class) present-system. On the other hand,
-rúhat (beside ruhám, ruhā́va, ruhátam), çíṣat and çíṣātāi (?), and ríṣant
+rúhat (beside ruhám, ruhā́va, ruhátam), śíṣat and śíṣātāi (?), and ríṣant
 or rī́sant are more isolated cases. In view of such as these, the forms
-from the stem bhúva and çrúva (836 c) are perhaps to be referred hither.
+from the stem bhúva and śrúva (836 c) are perhaps to be referred hither.
 From √vac, the optative is accented vocéyam, vocés, vocéma, vocéyus;
 elsewhere the accent is on the root-syllable: thus, vóce, vócat, vócati,
 vócanta.
@@ -751,10 +751,10 @@ far outnumbering in occurrences all other forms from √vac. Besides those
 already given, we find vocā (1st sing, impv.) and vocāti, vocāvahāi;
 voces, voceya, vocemahi; vocatāt (2d sing.), vocatu, vocatam, vocata.
 
-b\. Of the stem neça from √naç only neçat occurs.
+b\. Of the stem neśa from √naś only neśat occurs.
 
-c\. The root çās (as in some of its present forms: 639) is weakened to
-çiṣ, and makes açiṣam.
+c\. The root śās (as in some of its present forms: 639) is weakened to
+śiṣ, and makes aśiṣam.
 
 855\. Isolated forms which have more or less completely the aspect of
 indicative presents are made in the oldest language from some roots
@@ -814,7 +814,7 @@ great majority of reduplicated aorists are of this form.
 b\. If, however, the root begins with two consonants, so that the
 reduplicating syllable will be heavy whatever the quantity of its
 vowel, the vowel remains short: thus,
-`acikṣipam, acukrudham, atitrasam, apispṛçam`.
+`acikṣipam, acukrudham, atitrasam, apispṛśam`.
 
 860\. If the root is a heavy syllable (having a long vowel, or a short
 before two consonants), the vowel of the reduplication is short: and in
@@ -838,7 +838,7 @@ pluperfects (817 ff.).
 861\. a. In order, however, to bring about the favored relation of heavy
 reduplication and light radical syllable, a heavy root is sometimes made
 light: either by shortening its vowel, as in `arīradham` from
-√`rādh, avīvaçam` from √`vāç, asīṣadham` from √`sādh, ajījivam` from
+√`rādh, avīvaśam` from √`vāś, asīṣadham` from √`sādh, ajījivam` from
 √`jīv, adīdipam` (K. and later: BV. has `didīpas`) from
 √`dīp, abībhiṣam` from √`bhīṣ, asūsucam` from √`sūc`; or by dropping a
 penultimate nasal, as in `acikradam` from √`krand, asiṣyadam` from
@@ -847,11 +847,11 @@ penultimate nasal, as in `acikradam` from √`krand, asiṣyadam` from
 b\. In those cases in which (1047) an aorist is formed directly from a
 causal stem in `āp`, the `ā` is abbreviated to `i`: thus, `atiṣṭhipam`
 etc., `ajijñipat` (but KSS. `ajijñapat`), `jīhipas, ajījipata` (but VS.
-`ajījapata`); but from `çrap` comes `açiçrapāma` (ÇB.).
+`ajījapata`); but from `śrap` comes `aśiśrapāma` (śB.).
 
 862\. Examples of this aorist from roots with initial vowel are very
 rare; the older language has only `āmamat` (or `amamat`) from
-√`am, āpipan` (ÇB.: BAU. `āpipipat`) from √`āp`, and `arpipam`
+√`am, āpipan` (śB.: BAU. `āpipipat`) from √`āp`, and `arpipam`
 (augmentless) from the causative stem `arp` of √`ṛ` — in which latter
 the root is excessively abbreviated. The grammarians give other similar
 formations, as `ārcicam` from √`arc, āubjijam` from √`ubj, ārjiham` from
@@ -865,7 +865,7 @@ reduplicating vowel from the radical semivowel. From √`gup`, instead of
 `jūgupa` (B.S.), JB. has `jugūpa`, and some texts (B.S.) have `jugupa`;
 and `jīhvara` (B.) is met with beside the regular `jihvara` (V.B.). In
 `` `cacchada` (Nir.), and the more or less doubtful `paprátha` and
-`çaçvacá` and `sasvaja` (RV.) we have `a` instead of `i` in the
+`śaśvacá` and `sasvaja` (RV.) we have `a` instead of `i` in the
 reduplication.
 
 b\. In support of their false view of this aorist as made from the
@@ -873,10 +873,10 @@ causative stem instead of directly from the root, the native grammarians
 teach that roots ending in an `u`-vowel may reduplicate with `i`, as
 representing the `ā` of the strengthened stem: thus, `bībhava` from
 `bhāv-aya`, as well as `būbhuva` from `bhū`. No example of such a
-formation, however, is met with except `ápiplavam` (ÇB., once); against
-it we find `dudruva, būbhuva, rūruva, çuçruva`, and others.
+formation, however, is met with except `ápiplavam` (śB., once); against
+it we find `dudruva, būbhuva, rūruva, śuśruva`, and others.
 
-c\. As to `apaptam, avocam`, and `aneçam`, see above, 847.
+c\. As to `apaptam, avocam`, and `aneśam`, see above, 847.
 
 864\. The inflection of the reduplicated aorist is like that of an
 imperfect of the second general conjugation: that is to say, it has अ
@@ -972,26 +972,26 @@ sense.
 866\. A final `ṛ` has the `guṇa`-strengthening before the endings: thus,
 `acīkarat, apīparam, atītaras, dīdaras, adīdharat, amīmarat, avīvaran, jihvaras`.
 Of similar strengthened forms from `ī` and `u`-roots are found
-`apiprayan` (TS.), `abībhayanta` (RV.), `apiplavam` (ÇB.), `acucyavat`
-(K.), `açuçravat` (MS.), `atuṣṭavam` (RV.). Not many roots ending in
+`apiprayan` (TS.), `abībhayanta` (RV.), `apiplavam` (śB.), `acucyavat`
+(K.), `aśuśravat` (MS.), `atuṣṭavam` (RV.). Not many roots ending in
 other vowels than `ṛ` make this aorist: see below, 868.
 
 867\. Forms of the inflection without union-vowel are occasionally met
 with: namely, from roots ending in consonants, `síṣvap` (2d sing.,
-augmentless) from √`svap`, and `açiçnat` from √`çnath`; from roots in
+augmentless) from √`svap`, and `aśiśnat` from √`śnath`; from roots in
 `ṛ` or `ar`, `dīdhar` (2d sing.), and `ajīgar` (2d and 3d sing.); for
 roots in `i`- and `u`-vowels, see 868. Of 3d pl. in `us` are found
 almost only a form or two from `i`- and `u`-roots, with `guṇa` before
-the ending: thus, `açiçrayus, ácucyavus, açuçravus, asuṣavus`; but also
-`abībhajus` (ÇB.), and `nīnaçus` (MBh.).
+the ending: thus, `aśiśrayus, ácucyavus, aśuśravus, asuṣavus`; but also
+`abībhajus` (śB.), and `nīnaśus` (MBh.).
 
 868\. In the later language, a few roots are said by the grammarians to
-make this aorist as a part of their primary conjugation: they are `çri`
-and `çvi, dru` and `aru, kam`, and `dhā` *suck* (`çvi` and `dhā`
+make this aorist as a part of their primary conjugation: they are `śri`
+and `śvi, dru` and `aru, kam`, and `dhā` *suck* (`śvi` and `dhā`
 optionally).
 
-a\. In the older language are found from √`çri açiçret` and `açiçrayus`
-(noticed in the preceding paragraph) and `açiçriyat` (ÇB.); from
+a\. In the older language are found from √`śri aśiśret` and `aśiśrayus`
+(noticed in the preceding paragraph) and `aśiśriyat` (śB.); from
 √`dru, adudrot` and `adudruvat` (TB.: not used as aorist); from
 √`sru, asusrot` and (augmentless) `susros` and `susrot`; from
 √`kam, acīkametām` and -`manta` (B.S.). Of forms analogous with these
@@ -1006,7 +1006,7 @@ are of corresponding form). And from √`cyu` are made, with union-vowel
 necessarily causative or a decidedly aoristic value, and it is very
 doubtful whether they should not be assigned to the perfect-system.
 
-b\. From the later language are quotable only `açiçriyat` etc. (3d pl.,
+b\. From the later language are quotable only `aśiśriyat` etc. (3d pl.,
 -`yan` or -`yus`) and `adudruvat`.
 
 Modes of the Reduplicated Aorist.
@@ -1016,14 +1016,14 @@ persons of this aorist are used subjunctively, and they are very much
 more frequent than true subjunctives.
 
 b\. Of the latter are found only `rīradhā` (1st sing.); `tītapāsi`;
-`cīkḷpāti` and `sīṣadhāti`, and `pispṛçati` (as if corresponding to an
-indicative `apispṛk`, like `açiçnat`); and perhaps the 1st sing. mid.
-`çaçvacāí`.
+`cīkḷpāti` and `sīṣadhāti`, and `pispṛśati` (as if corresponding to an
+indicative `apispṛk`, like `aśiśnat`); and perhaps the 1st sing. mid.
+`śaśvacāí`.
 
 c\. The augmentless indicative forms are accented in general on the
-reduplication: thus, `dī́dharas, nī́naças; jī́janat, pī́parat; jī́janan`;
-also `síṣvap`; but, on the other hand, we have also `pīpárat, çiçráthas`
-and `çiçnáthat`, and `dudrávat` and `tuṣṭávat` (which may perhaps belong
+reduplication: thus, `dī́dharas, nī́naśas; jī́janat, pī́parat; jī́janan`;
+also `síṣvap`; but, on the other hand, we have also `pīpárat, śiśráthas`
+and `śiśnáthat`, and `dudrávat` and `tuṣṭávat` (which may perhaps belong
 to the perfect: compare 810). According to the native grammarians, the
 accent rests either on the radical syllable or on the one that follows
 it.
@@ -1034,7 +1034,7 @@ middle "precative" `rīriṣīṣṭa` (`ririṣīṣṭa` has been ranked above
 belong either here or to the perfect-system.
 
 871\. Of imperatives, we have the indubitable forms pūpurantu and
-`çiçrathantu`. And `jigṛtám` and `jigṛtá`, and `didhṛtam` and `didhṛtá`,
+`śiśrathantu`. And `jigṛtám` and `jigṛtá`, and `didhṛtam` and `didhṛtá`,
 and `jajastám` (all RV. only), and perhaps `suṣūdáta` (AV.), are to be
 referred hither, as corresponding to the indicatives (without
 union-vowel) `ajīgar` and `adīdhar`: their short reduplicating vowel and
@@ -1110,7 +1110,7 @@ these:
 a\. A final vowel (including ऋ `ṛ`) has the `vṛddhi`-change in the
 active, and (excepting ऋ `ṛ`) `guṇa` in the middle: thus, from √नी
 *lead*, active stem अनैष् `anāiṣ`, middle stem अनेष् `aneṣ`; from √श्रु
-`çru` *hear*, अश्रौष् `açrāuṣ` and अश्रोष् `açroṣ`; from √कृ `kṛ`
+`śru` *hear*, अश्रौष् `aśrāuṣ` and अश्रोष् `aśroṣ`; from √कृ `kṛ`
 *make*, अकार्ष `akārṣ` and अकृष् `akṛṣ`.
 
 b\. A medial vowel has the `vṛddhi`-change in the active, and remains
@@ -1142,7 +1142,7 @@ grammarians and the practice of the manuscripts makes it impossible to
 say which: 232); and then the ending becomes `ḍhvam`, provided the
 sibilant, if retained, would have been `ṣ` (226 c): thus, `astoḍhvam`
 and `avṛḍhvam` (beside `astoṣata` and `avṛṣata`); `dṛḍhvam` (√`dṛ`
-*regard*: ÇB., once), which is to `dṛthās` (2d sing.) as `avṛḍhvain` and
+*regard*: śB., once), which is to `dṛthās` (2d sing.) as `avṛḍhvain` and
 `avṛṣata` to `avri` and `avṛthās`; and `kṛḍhvam` (M.).
 
 c\. According to the grammarians, the omission of `s` before `t` and
@@ -1339,7 +1339,7 @@ p\.
 a. From √`rudh` *obstruct*, the 2d and 3d du. and 2d pl. act. and the 2d
 and 3d sing. mid. would be
 `árāuddham, árāuddhām, árāuddha, áruddhās, áruddha`; from √`sṛj` *pour
-out*, `ásrāṣṭam, ásrāṣṭām, asrāṣṭa, asṛṣṭhās, asṛṣṭa`; from √`dṛç`
+out*, `ásrāṣṭam, ásrāṣṭām, asrāṣṭa, asṛṣṭhās, asṛṣṭa`; from √`dṛś`
 *see*, `ádrāṣṭam` etc. (as from `sṛj`). But from √`kṛ` *do* the same
 persons in the active are `ákārṣṭam, ákārṣṭām, ákārṣṭa`; from √`tan`
 *stretch* they are `átāṅstam, átāṅstām, átāṅsta`.
@@ -1395,7 +1395,7 @@ c\. The roots `hū, dhū`, and `nū` have `ū` instead of `o` in the middle:
 thus, `ahūṣata, adhūṣata, anūṣi` and `anūṣātām` and `anūṣata`; √`dhur`
 (or `dhūrv`) makes `adhūrṣata`.
 
-d\. ÇB. has once `atrāsatām` for `atrāstām` (√`trā`).
+d\. śB. has once `atrāsatām` for `atrāstām` (√`trā`).
 
 888\. The principal peculiarity of the older language in regard to
 inflection is the frequent absence of `ī` in the endings of 2d and 3d
@@ -1403,7 +1403,7 @@ sing. act., and the consequent loss of the consonant-ending, and
 sometimes of root-finals (150). The forms without `ī` are the only ones
 found in RV. and K., and they outnumber the others in AV. and TS.; in
 the Brāhmaṇas they grow rarer (only one, `adrāk`, occurs in GB.; one,
-`ayāṭ`, in KB.; and two, `adrāk` and `ayāṭ`, in ÇB.; PB. has none). 
+`ayāṭ`, in KB.; and two, `adrāk` and `ayāṭ`, in śB.; PB. has none). 
 
 889\. If the root ends in a vowel, only the consonant of the ending is
 necessarily lost: thus, `aprās` (for both `aprās-s` and `aprās-t`) from
@@ -1414,7 +1414,7 @@ from √`ji`; and in like manner `acāis` from √`ci`, and `nāis`
 a\. But (as in other like cases: 555 a) the ending is sometimes
 preserved at the expense of the tense-sign; and we have in 3d sing.
 `ajāit` (beside `ajāis` and `ajāiṣīt`) from √`ji`; and in like manner
-`acāit, açrāit, ahāit, nāit` (no examples have been noted except from
+`acāit, aśrāit, ahāit, nāit` (no examples have been noted except from
 roots in `i` and `ī`): compare `ayās` and `srās`, 2d sing., 890 a.
 
 890\. a. If the root (in either its simple or strengthened form) ends in
@@ -1422,10 +1422,10 @@ a consonant, the tense-sign is lost with the ending. Thus, `abhār` (for
 `abhārṣ-t`: beside `abhārṣam, abhārṣṭām`) from √`bhṛ`; other like cases
 are `ahār`. and (from roots in `ar`) `akṣār, atsār, asvār, hvār`.
 Further, `ārāik` (583 a: for `arāikṣ-t`) from √`ric`; like cases are
-`açvāit` from √`çvit` and (from roots with medial `u`) `adyāut` from
+`aśvāit` from √`śvit` and (from roots with medial `u`) `adyāut` from
 √`dyut`, `arāut` from √`rudh`, and `māuk` from √`muc`. Further, from
 roots ending in the palatals and `h`, `aprāk` from √`pṛc`, `asrāk` from
-√`sṛj`, `abhāk` from √`bhaj`, `adrāk` from √`dṛç`, `adhāk` from √`dah`;
+√`sṛj`, `abhāk` from √`bhaj`, `adrāk` from √`dṛś`, `adhāk` from √`dah`;
 but, with a different change of the final, `ayāṭ` from √`yaj`, `aprāṭ`
 from √`pṛch`, `avāṭ` from √`vah`, and `asrāṭ` from √`sṛj`; and (above,
 146 a) `srās` appears to stand twice in AV. for `srāṣ-s` from √`sṛj`;
@@ -1465,7 +1465,7 @@ and, with the fuller ending in 3d sing., `mā́sātāi`.
 b\. The forms with secondary endings are (active only):
 `jéṣas, vákṣas; dárṣat, néṣat, pákṣat, párṣat, préṣat, yákṣat, yóṣat, váṅsat, vákṣat, véṣat, sátsat, chantsat`,
 etc. (some twenty others);
-`yakṣatām; váṅsāma, sā́kṣāma, stoṣāma; parṣan, yaṁsan, yoṣan, rā́san, vakṣan, çéṣan, çróṣan`.
+`yakṣatām; váṅsāma, sā́kṣāma, stoṣāma; parṣan, yaṁsan, yoṣan, rā́san, vakṣan, śéṣan, śróṣan`.
 Of these, `yakṣat` and `vakṣat` are found not rarely in the Brāhmaṇas;
 any others, hardly more than sporadically.
 
@@ -1520,7 +1520,7 @@ Participles of the `s`-aorist.
 b\. If `ṛñjase` (above, 894 d) is to be reckoned as an `s`-aorist form,
 `ṛñjasāná` is an `s`-aorist participle; and of a kindred character,
 apparently, are
-`arçasāná, óhasāna, jrayasāná, dhiyasāná, mandasāná, yamasāná, rabhasāná, vṛdhasāná, sahasāná, çavasāná`,
+`arśasāná, óhasāna, jrayasāná, dhiyasāná, mandasāná, yamasāná, rabhasāná, vṛdhasāná, sahasāná, śavasāná`,
 all in RV.; with `namasāná, bhiyásāna`, in AV. In RV. occurs also once
 `dhī́ṣamāṇa`, apparently an `a`-form of an `s`-aorist of √`dhī`.
 
@@ -1534,11 +1534,11 @@ root, which is usually strengthened, and which has the augment.
 
 a\. A final vowel has `vṛddhi` in the active, and `guṇa` in the middle:
 thus, अपाविष् `apāviṣ` and अपविष् `apaviṣ` from √पू `pū` *cleanse*;
-अतारिष् `atāriṣ`, act., from √तृ `tṛ` *pass*; अशयिष् `açayiṣ`, mid.,
-from √शी `çī` *lie*.
+अतारिष् `atāriṣ`, act., from √तृ `tṛ` *pass*; अशयिष् `aśayiṣ`, mid.,
+from √शी `śī` *lie*.
 
 b\. A medial vowel has `guṇa`, if capable of it, in both voices: thus,
-अलेशिष् `aleçiṣ`, act. and mid., from √लिश् `liç` *tear*; अरोचिष्
+अलेशिष् `aleśiṣ`, act. and mid., from √लिश् `liś` *tear*; अरोचिष्
 `arociṣ`, from √रुच् `ruc` *shine*; अवर्षिष् `avarṣiṣ` from √वृष् `vṛṣ`
 *rain*; but अजीविष् `ajīviṣ` from √जीव् `jīv` *live*.
 
@@ -1552,7 +1552,7 @@ From √`math` or `manth` are made the two stems `mathiṣ` and `manthiṣ`.
 
 900\. a. Of exceptions may be noted: √`mṛj` has (as elsewhere: 627)
 `vṛddhi` instead of `guṇa`: thus, `amārjiṣam`; √`stṛ` has `astarīs`, and
-√`çṛ` has `açarīt` (also `açarāit` in AV.), with `guṇa` in active.
+√`śṛ` has `aśarīt` (also `aśarāit` in AV.), with `guṇa` in active.
 
 b\. The root `grabh` or `grah` has (as in future etc., below, 936 e,
 956) long `ī` instead of `i` before the sibilant: thus,
@@ -1702,8 +1702,8 @@ forms of both classes.
 a\. The contracted forms `akramīm, agrabhīm`, and `avadhīm` (with
 augmentless `vádhīm`) are found in 1st sing. act.
 
-b\. For áçarīt occurs in AV. `áçarāit`; also (in a part of the
-manuscripts) `çarāis` for `çarīs`; `agrahāiṣam` is found in AB. (also
+b\. For áśarīt occurs in AV. `áśarāit`; also (in a part of the
+manuscripts) `śarāis` for `śarīs`; `agrahāiṣam` is found in AB. (also
 the monstrous form `ajagrabhāiṣam`: see 801 i). `Ajayit`, with short `i`
 in the ending, occurs in TS.
 
@@ -1713,7 +1713,7 @@ d\. The forms `atārima` (RV.), `avādiran` (AV.), and `bādhithās` (TA.),
 though they lack the sibilant, are perhaps to be referred to this
 aorist: compare `avitá`, 908. A few similar cases occur in the epics,
 and are of like doubtful character: thus,
-`jānithās, mādithās, vartithās, çan̄kithās`, and (the causative: 1048)
+`jānithās, mādithās, vartithās, śan̄kithās`, and (the causative: 1048)
 `aghātayithās`. `Agṛhītām` and `gṛhīthās` and `gṛhīta`, if not false
 readings for `gṛhṇī`-, are probably irregular present-formations.
 
@@ -1722,7 +1722,7 @@ Modes of the `iṣ`-aorist.
 905\. As usual, augmentless indicative forms of this aorist are more
 common than proper subjunctives. Examples, of all the persons found to
 occur (and including all the accented words), are, in the active:
-`çáṅsiṣam, vádhīm; máthīs, vádhīs, yā́vīs, sā́vīs; ávīt, jū́rvīt, máthīt, vádhīt, veçīt; mardhiṣṭam, doṣiṣṭam, hiṅsiṣṭam; aviṣṭām, jániṣṭām, bādhiṣṭām; çramiṣma, vādiṣma; vadhiṣṭa`
+`śáṅsiṣam, vádhīm; máthīs, vádhīs, yā́vīs, sā́vīs; ávīt, jū́rvīt, máthīt, vádhīt, veśīt; mardhiṣṭam, doṣiṣṭam, hiṅsiṣṭam; aviṣṭām, jániṣṭām, bādhiṣṭām; śramiṣma, vādiṣma; vadhiṣṭa`
 and `vadhiṣṭana, mathiṣṭana, hiṅsiṣṭa; hvāriṣus, grahīṣus`; — in the
 middle:
 `rādhiṣi; jániṣṭhās, marṣiṣṭhās, vyathiṣṭhās; krámiṣṭa, jániṣṭa, paviṣṭa, práthiṣṭa, mándiṣṭa; vyathiṣmahi`.
@@ -1735,7 +1735,7 @@ sing. act. `daviṣāṇi`, and the 1st pl. mid. (with unstrengthened `e`)
 
 b\. Forms with secondary endings are almost limited to 2d and 3d sing.
 act. There are found:
-`aviṣas, kā́niṣas, tāriṣas, rakṣiṣas, vádhiṣas; vā́diṣas, véṣiṣas, çaṅsiṣas; kā́riṣat, jambhiṣat, jóṣiṣat, takṣiṣat, tāriṣat, níndiṣat, pā́riṣat, bódhiṣat, márdhiṣat, yāciṣat, yodhiṣat, rakṣiṣat, vaniṣat, vyathiṣat, çaṅsiṣat, saniṣat, sāviṣat`.
+`aviṣas, kā́niṣas, tāriṣas, rakṣiṣas, vádhiṣas; vā́diṣas, véṣiṣas, śaṅsiṣas; kā́riṣat, jambhiṣat, jóṣiṣat, takṣiṣat, tāriṣat, níndiṣat, pā́riṣat, bódhiṣat, márdhiṣat, yāciṣat, yodhiṣat, rakṣiṣat, vaniṣat, vyathiṣat, śaṅsiṣat, saniṣat, sāviṣat`.
 They are made, it will be noticed, with entire regularity, by adding `a`
 to the tense-stem in `iṣ` before the endings. The only other persons
 found to occur are the 3d pl. act. `saniṣan` and mid. `sániṣanta` (and
@@ -1768,8 +1768,8 @@ pl., and are accordingly such as might also be subjunctives used
 imperatively (which is further made probable for two of them by their
 accentuation on the root-syllable): they are
 `kramiṣṭam, gamiṣṭam, caniṣṭám, cayiṣṭam` (against `acāyiṣam`),
-`tā́riṣṭam, yodhiṣṭam, vadhiṣṭam, çnathiṣṭam; ráṇiṣṭana` (against
-`arāṇiṣus`), `çnathiṣṭana`.
+`tā́riṣṭam, yodhiṣṭam, vadhiṣṭam, śnathiṣṭam; ráṇiṣṭana` (against
+`arāṇiṣus`), `śnathiṣṭana`.
 
 909\. No words having a participial ending after `iṣ` are found anywhere
 to occur.
@@ -1838,7 +1838,7 @@ increased by an added s. It is of extreme rarity in the older language,
 being made in RV. only from the roots `gā` *sing* and `yā` *go*, and in
 AV. only from `hā` *leave*, and doubtless also from `pyā` *fill up* and
 `van` *win* (see below, 914 b); the remaining older texts add `jñā`
-*know* (B.), `jyā` *overpower*, `dhyā` *think* (ÇB. once: the edition
+*know* (B.), `jyā` *overpower*, `dhyā` *think* (śB. once: the edition
 reads -dhā-), and `ram` *be content* (SV.: a bad variant for RY.
 `rāsīya`); other Brāhmaṇa forms which might be also of the `s`-aorist
 are `adrāsīt, avāsīt`, and `ahvāsīt`; and `bhukciṣīya` (PB. S.) must be
@@ -1864,8 +1864,8 @@ The accent would doubtless be upon the root-syllable.
 (both RV.).
 
 b\. Optatives are not less rare: namely, `yāsisīṣṭhas` and `pyāsiṣīmahi`
-(for which the AV. manuscripts read `pyāçiṣīmahi`, altered in the
-edition to `pyāyiṣ`-); and doubtless `vaṅçiṣīya` (AV., twice) is to be
+(for which the AV. manuscripts read `pyāśiṣīmahi`, altered in the
+edition to `pyāyiṣ`-); and doubtless `vaṅśiṣīya` (AV., twice) is to be
 corrected to `vaṅsiṣīya`, and belongs here. As to `bhukṣiṣīya`, see
 above, 912.
 
@@ -1882,12 +1882,12 @@ those in -`iṣi`, -`iṣṭhās`, and the others of the `iṣ`-aorist.
 7\. The `sa`-aorist.
 
 916\. In the later language, the roots allowed to form this aorist end
-in श् `ç`, ष् `ṣ`, or ह् `h` — all of them sounds which in combination
+in श् `ś`, ष् `ṣ`, or ह् `h` — all of them sounds which in combination
 with the tense-sign make क्ष् `kṣ`; and they have इ `i`, उ `u`, or ऋ `ṛ`
 as radical vowel.
 
 a\. They are as follows:
-`diç, riç, liç, viç, kliç, kruç, ruç, mṛç, spṛç; tviṣ, dviṣ, çliṣ, viṣ, kṛṣ; dih, mih, lih, guh, duh, ruh, tṛh, vṛh, stṛh`;
+`diś, riś, liś, viś, kliś, kruś, ruś, mṛś, spṛś; tviṣ, dviṣ, śliṣ, viṣ, kṛṣ; dih, mih, lih, guh, duh, ruh, tṛh, vṛh, stṛh`;
 from about half of them `sa`-forms, earlier or later, are quotable. Some
 of them may, or with certain meanings must, take aorists of other forms.
 And a few are allowed to drop both tense-sign and union-vowel `a` in
@@ -1902,7 +1902,7 @@ the 2d and 3d du. mid. in आथाम् `āthām` and आताम् `ātām`
 imperfects of the other conjugation. Both active and middle inflection
 is admitted. The root is throughout unstrengthened.
 
-918\. As example of inflection we may take the root दिश् `diç` *point*.
+918\. As example of inflection we may take the root दिश् `diś` *point*.
 Thus:
 
 active.
@@ -2046,8 +2046,8 @@ part optionally.
 b\. The root in general assumes its weakest form: a penultimate nasal is
 lost, as in `badhyāsam` from √`bandh`; the roots which are abbreviated
 in the weak persons of the perfect (794) have the same abbreviation
-here, as in `ucyāsam, ijyāsam, vidhyāsam, supyāsam, gṛhyāsam`; √`çās`
-forms `çiṣyāsam` (compare 639, 854 c): and so on.
+here, as in `ucyāsam, ijyāsam, vidhyāsam, supyāsam, gṛhyāsam`; √`śās`
+forms `śiṣyāsam` (compare 639, 854 c): and so on.
 
 c\. It has been pointed out above (837) that the active precative is an
 optative of the root-aorist, with a problematic insertion of a sibilant
@@ -2165,7 +2165,7 @@ question respecting the ending of the 2d pl., as `dhvam` or `ḍhvam`, see
 
 925\. a. The precative active is a form of very rare occurrence in the
 classical language. In each of the texts already more than once referred
-to (Manu, Nala, Bhagavad-Gītā, Çakuntalā, Hitopadeça) it occurs once and
+to (Manu, Nala, Bhagavad-Gītā, śakuntalā, Hitopadeśa) it occurs once and
 no more, and not half-a-dozen forms have been found quotable from the
 epics. As to its value, see 573 c.
 
@@ -2208,7 +2208,7 @@ indicates what has just taken place; and oftenest something which the
 speaker has experienced.
 
 a\. Examples from the Veda are:
-`párī ’mé gā́m aneṣata páry agním ahṛṣata, devéṣv akrata çrávaḥ ká imā́n ā́ dadharṣati`
+`párī ’mé gā́m aneṣata páry agním ahṛṣata, devéṣv akrata śrávaḥ ká imā́n ā́ dadharṣati`
 (RV.) *these here have led about a cow, they have carried around the
 fire, they have done honor to the gods — who shall venture anything
 against them?* `yám āíchāma mánasā sò ‘yám ā́ ’gāt` (RV.) *he whom we*
@@ -2219,9 +2219,9 @@ highest glory, I have now made, ye gods; I have become free from
 enemies*.
 
 b\. Examples from the Brāhmaṇa language are:
-`sā́ hā ’smiñ jyóg uvāsa... táto ha gandharvā́ḥ sám ūdire: jyóg vā́ iyám urváçī manuṣyèṣv avātsīt`
-(ÇB.) *she lived with him a long time. Then the Gandharvas said to one
-another, "this Urvaçī, forsooth, hath dwelt a long time among mortals"*;
+`sā́ hā ’smiñ jyóg uvāsa... táto ha gandharvā́ḥ sám ūdire: jyóg vā́ iyám urváśī manuṣyèṣv avātsīt`
+(śB.) *she lived with him a long time. Then the Gandharvas said to one
+another, "this Urvaśī, forsooth, hath dwelt a long time among mortals"*;
 `tasya ha dantāḥ pedire: taṁ ho ’vāca: apatsata vā asya dantāḥ` (AB.)
 *his teeth fell out. He said to him: "his teeth truly have fallen out"*;
 `índrasya vṛtráṁ jaghnúṣa indriyáṁ vīryàm pṛthivī́m ánu vy ā̀rchat tád óṣadhayo vīrúdho ‘bhavan sá prajapā́tim úpā ’dhāvad vṛtrám me jaghnúṣa indriyáṁ vīryàm pṛthivī́m ánu vy ā̀rat tád óṣadhayo vīrúdho ‘bhūvann íti`
@@ -2232,8 +2232,8 @@ the earth, and have become the herbs and plants"*;
 `svayám enam abhyudétya brūyād vrā́tya kvā̀ ’vātsīḥ` (AV., in prose
 passage) *going up to him in person, let him say: "Vrātya, where hast
 thou abode"?*
-`yád idā́nīṁ dvāú vivádamānāv eyā́tām ahám adarçam ahám açrāuṣam íti yá evá brūyā́d ahám adarçam íti tásmā evá çráddadhyāma`
-(ÇB.) *if now two should come disputing with one another, \[the one\]
+`yád idā́nīṁ dvāú vivádamānāv eyā́tām ahám adarśam ahám aśrāuṣam íti yá evá brūyā́d ahám adarśam íti tásmā evá śráddadhyāma`
+(śB.) *if now two should come disputing with one another, \[the one\]
 saying "I have seen", \[the other\] "I have heard", we should believe
 the one who said "I have seen"*.
 

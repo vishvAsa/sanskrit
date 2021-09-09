@@ -70,7 +70,7 @@ systems, coinciding in form with the peculiar 3d sing. aorist.
 f\. Thus, from √`dā` (aor. 3d sing. `adāyi`), beside
 `ádāsi, dāsyé, dātā́he`, also `ádāyiṣi, dāyiṣyé, dāyitā́he`. The
 permission to make this doable formation extends to all roots ending in
-vowels, and to `grah, dṛç, and han`. No such passive forms occur in the
+vowels, and to `grah, dṛś, and han`. No such passive forms occur in the
 older language, and not half-a-dozen are quotable from the later (we
 find `adhāyiṣi` and `asthāyiṣi` in DKC., and `anāyiṣata` in Kuval.).
 
@@ -146,15 +146,15 @@ concerned, follows the rules for present and perfect reduplication
 (590); but the vowel is a heavy one, radical `a` and `ṛ` (or `ar`) being
 reduplicated with `ā`, an `i`-vowel by `e`, and an `u`-vowel by `o`.
 
-Examples are: `vāvad`, `bābadh`, `çāçvas`, `rārandh`; `dādṛ`, `dādhṛ`;
-`cekit`, `tetij`, `nenī`, `vevlī`; `çoçuc`, `popruth`, `coṣku`, `johū`.
+Examples are: `vāvad`, `bābadh`, `śāśvas`, `rārandh`; `dādṛ`, `dādhṛ`;
+`cekit`, `tetij`, `nenī`, `vevlī`; `śośuc`, `popruth`, `coṣku`, `johū`.
 
 II\. b. The reduplicating syllable has a final consonant, taken from the
 end of the root. With an exception or two, this consonant is either `r`
 (or its substitute `l`) or a nasal. 
 
 Examples are: `carcar, calcal, sarsṛ, marmṛj, jarhṛs`;
-`can̄kram, jan̄ghan, taṅstan, dandaç` (√`daṅç` or `daç`), `jañjabh`
+`can̄kram, jan̄ghan, taṅstan, dandaś` (√`daṅś` or `daś`), `jañjabh`
 (√`jambh` or `jabh`), `tantas` (√`taṅs` or `tas`), `nannam` (√`nam`),
 `yaṁyam` (√`yam`). The nasal is assimilated to the initial consonant.
 
@@ -165,7 +165,7 @@ other forms.
 d\. Irregular formations of this class are: with a final other than `r`
 or `n` in the reduplication, `badbadh`; with a final nasal in the
 reduplication which is not found in the root, `jan̄gah` (RV.), `jañjap`
-(ÇB.; and `jan̄gūyat` PB. is perhaps from √`gu`; the later language has
+(śB.; and `jan̄gūyat` PB. is perhaps from √`gu`; the later language has
 further `dandah`); with an anomalous initial consonant in reduplication,
 `jarbhur` from √`bhur` (compare the Vedic perfect `jabhāra` from √`bhṛ`,
 789 b), `galgal` from √`gal`; with various treatment of an `ṛ` or
@@ -189,12 +189,12 @@ quantity of the `i` is `davidhāva`.
 g\. This method of reduplication is followed in the older language by
 about thirty roots. Thus, of roots having final or penultimate `n` (once
 `m`), and `n` in the reduplicating syllable,
-`pan, phan, san, svan, han`; `gam`; `krand, çcand, skand, syand`; of
+`pan, phan, san, svan, han`; `gam`; `krand, ścand, skand, syand`; of
 roots having final or medial `ṛ`, and `r` in the, reduplicating
-syllable, `kṛ` *make*, `tṛ, bhṛ, vṛ, mṛj, mṛç, vṛj, vṛt, sṛp`; also
+syllable, `kṛ` *make*, `tṛ, bhṛ, vṛ, mṛj, mṛś, vṛj, vṛt, sṛp`; also
 `mluc` (`malimluc`); — further, of roots assuming in the reduplication a
-`n` not found in the root, only `vah` (ÇB.: the grammarians allow also
-`kas, pat, pad`; and `panīpad` is quotable later; and AÇS. has
+`n` not found in the root, only `vah` (śB.: the grammarians allow also
+`kas, pat, pad`; and `panīpad` is quotable later; and AśS. has
 `canīkhudat`, for which TB. reads `kánīkhunat`); finally, of roots
 having `u` or `ū` as radical vowel, with `av` before the `i`-vowel,
 `tu, dhū, nu, dyut`.
@@ -215,7 +215,7 @@ one way.
 Thus, in the older language, `dādr` and `dardṛ`; `dādhṛ` and `dardhṛ`;
 `cācal` and `carcar` (and `carcur`); `tartar` (and `tartur`) and
 `tarītṛ`; `jan̄gam` and `ganīgam`; `jan̄ghan` and `ghanīghan`; `pamphan`
-and `panīphan`; `marmṛj` and `marīmṛj`; `marmṛç` and `marīmṛç`; `varvṛt`
+and `panīphan`; `marmṛj` and `marīmṛj`; `marmṛś` and `marīmṛś`; `varvṛt`
 and `varīvṛt`; `jarbhṛ` and `bharībhṛ`; `dodhū` and `davīdhū`; `nonu`
 and `navīnu`; `bābadh` and `badbadh`.
 
@@ -299,7 +299,7 @@ the paradigm. Examples are: 1st sing., `carkarmi, veveṣmi`; 2d sing.,
 3d du., `jarbhṛtás`; 1st pl., `nonumas`; 2d pl., `jāgratha`; 3d pl.,
 `dādhrati, nānadati, bharibhrati, várvṛtati, dávidyutati, nénijati`,
 and, irregularly, `veviṣanti`; and, with the auxiliary vowel,
-`jóhavīmi, cākaçīmi`; `cā́kaçīti, nónavīti, dardarīti, jarbhurīti`. No
+`jóhavīmi, cākaśīmi`; `cā́kaśīti, nónavīti, dardarīti, jarbhurīti`. No
 stem with dissyllabic reduplication takes the auxiliary `ī` in any of
 its forms.
 
@@ -311,7 +311,7 @@ sing., `nenikté, sarsṛte`; and, with irregular accent,
 `tétikte, dédiṣṭe`; with irregular loss of final radical nasal,
 `nánnate`; with ending `e` instead of `te`,
 `cékite, ján̄gahe, jóguve, yoyuve, bābadhe`, and (with irregular accent)
-`badbadhé`; 3d du., `sarsrāte`; 3d pl., `dédiçate`.
+`badbadhé`; 3d du., `sarsrāte`; 3d pl., `dédiśate`.
 
 2\. Present Subjunctive.
 
@@ -321,11 +321,11 @@ middle, `tantasāíte` (3d du.).
 
 b\. Forms with secondary endings are more frequent: thus, 2d sing.,
 `jan̄ghanas, jalgulas`; 3d sing.,
-`jāgarat, cékitat, bobhavat, cárkṛṣat, ján̄ghanat, bárbṛhat, mármṛjat, mármṛçat, parpharat, dardirat, caniṣkadat, davidyutat, saniṣvaṇat`;
+`jāgarat, cékitat, bobhavat, cárkṛṣat, ján̄ghanat, bárbṛhat, mármṛjat, mármṛśat, parpharat, dardirat, caniṣkadat, davidyutat, saniṣvaṇat`;
 1st du., `jan̄ghanāva`; 1st pl., `carkirāma, vevidāma`; 3d pl.,
-`pā́patan, çóçucan, carkiran`; and, with double mode-sign, `cā́kaçān`
+`pā́patan, śóśucan, carkiran`; and, with double mode-sign, `cā́kaśān`
 (AV.). Of the middle are found only 3d persons plural: thus,
-`ján̄ghananta, jarhṛṣanta, marmṛjanta, nonuvanta, çoçucanta`.
+`ján̄ghananta, jarhṛṣanta, marmṛjanta, nonuvanta, śośucanta`.
 
 3\. Present Optative.
 
@@ -415,12 +415,12 @@ was pointed out above, 571 b) is used in AV. as first person sing.;
 `hi`; 3d sing., `dādhartu, veveṣṭu, dardartu, marmarttu`; 2d du.,
 `jāgṛtam`; 3d du., `jāgṛtām`; 2d pl., `jāgṛtá`; `can̄kramata` (RV., once)
 has an anomalous union-vowel. In the middle voice is found only
-`nenikṣva` (ÇB.).
+`nenikṣva` (śB.).
 
 b\. Of imperative forms with auxiliary `ī`, RV. has none; AV. has
 `vāvadītu` and `johavītu`, and such are sometimes found in the
 Brāhmaṇas; AV. has also, against rule, `taṅstanīhi` and `jan̄ghanīhi`;
-VS. has `cākaçīhi`.
+VS. has `cākaśīhi`.
 
 5\. Present Participle.
 
@@ -430,9 +430,9 @@ inflected like those of the reduplicating present, and have the accent
 on the reduplicating syllable. 
 
 Examples are: active,
-`cā́kaçat, nā́nadat, cékitat, mémyat, çóçucat, róruvat, dárdrat, mármṛjat, ján̄ghanat, nánnamat, pánīphanat, kánīkradat, dávidyutat`;
+`cā́kaśat, nā́nadat, cékitat, mémyat, śóśucat, róruvat, dárdrat, mármṛjat, ján̄ghanat, nánnamat, pánīphanat, kánīkradat, dávidyutat`;
 — middle,
-`bā́badhāna, mémyāna, cékitāna, yóyuvāna, rórucāna, járbhurāṇa, sársrāṇa, jañjabhāna, nánnamāna, dándaçāna`.
+`bā́badhāna, mémyāna, cékitāna, yóyuvāna, rórucāna, járbhurāṇa, sársrāṇa, jañjabhāna, nánnamāna, dándaśāna`.
 No middle participle shows the dissyllabic reduplication.
 
 1013\. a. On account of their accent, `rārahāṇá, rārakṣāṇá`, and
@@ -440,12 +440,12 @@ No middle participle shows the dissyllabic reduplication.
 participles, although no other perfect forms with heavy reduplication
 from the same roots occur. The inference is, however, rendered uncertain
 by the unmistakably intensive `badbadhāná` and `marmṛjāná` (beside
-`mármṛjāna`). As to `çū́çucāna` etc., see 806 a.
+`mármṛjāna`). As to `śū́śucāna` etc., see 806 a.
 
 b\. The RV. has once `ján̄ghnatas`, gen. sing., with root-vowel cast out;
 `kánikrat` appears to be used once for `kánikradat`; if `cākát` is to be
 referred to √`kā` (Grassmann), it is the only example of an intensive
-from a root in `ā`, and its accent is anomalous. `Marmṛçantas` (AB.) is
+from a root in `ā`, and its accent is anomalous. `Marmṛśantas` (AB.) is
 perhaps a false reading; but forms with the nasal irregularly retained
 are found repeatedly in the epics and later: thus,
 `lelihan, dedīpyantīm` (MBh.), `jājvalant` (MBh. R.), `sarīsṛpantāu`
@@ -496,16 +496,16 @@ p\.
 
 1015\. The imperfect forms found in the earlier texts are not numerous.
 They are, including those from which the augment is omitted, as follows:
-in active, 1st sing., `acākaçam, dediçam`; 2d sing.,
+in active, 1st sing., `acākaśam, dediśam`; 2d sing.,
 `ajāgar, adardar, dárdar`; 3d sing.,
 `adardar, adardhar, avarīvar, dardar, kániṣkan, dávidyot, návīnot`; 2d
 du., `adardṛam`; 1st pl., `marmṛjmá`; 3d pl.,
 `anannamus, adardirus, acarkṛṣus, ájohavus, anonavus`; and, with
 auxiliary `ī`, in 3d sing.,
-`avāvacīt, ávāvaçīt, ávāvarīt, áyoyavīt, ároravīt, ájohavīt`; and,
-irregularly, in 3d du., `avāvaçītām`. The middle forms are extremely
+`avāvacīt, ávāvaśīt, ávāvarīt, áyoyavīt, ároravīt, ájohavīt`; and,
+irregularly, in 3d du., `avāvaśītām`. The middle forms are extremely
 few: namely, 3d sing., `ádediṣṭa, ánannata` (with loss of the final
-radical in a weak form of root); 3d pl. `marmṛjata`, and `avāvaçanta`
+radical in a weak form of root); 3d pl. `marmṛjata`, and `avāvaśanta`
 (which, if it belongs here, shows a transfer to an `a`-stem). 
 
 1016\. Derivative Middle Inflection. From every intensive stem, as above
@@ -542,12 +542,12 @@ have likewise forms of the simpler conjugation. Thus: from
 √`mṛj, marmṛjyáte` etc., and `marīmṛjyeta`; from √`tṛ, tartūryante`;
 from √`car, carcūryámāṇa`; from √`nī, nenīyéran`, etc.; from
 √`vī, vevīyate`; from √`rih, rerihyáte` etc.; from `vij, vevijyáte`;
-from √`sku, coṣkūyáse` etc.; from √`diç, dediçyate`; from
-√`kāç, cākaçyáte` etc.; from √`vad, vāvadyámāna`; from
+from √`sku, coṣkūyáse` etc.; from √`diś, dediśyate`; from
+√`kāś, cākaśyáte` etc.; from √`vad, vāvadyámāna`; from
 √`nam, nannamyadhvam`; from √`vah, vanīvāhyéta` etc. (with lengthened
 root-vowel, elsewhere unknown); from √`krand, kanikradyámāna`; from
-√`vṛt, varīvartyámāna` (ÇB.: should be `varīvṛty`-); from
-√`mṛç, amarīmṛçyanta` (ÇB.? the text reads `amarīmṛtsyanta`); from
+√`vṛt, varīvartyámāna` (śB.: should be `varīvṛty`-); from
+√`mṛś, amarīmṛśyanta` (śB.? the text reads `amarīmṛtsyanta`); from
 √`yup, yoyupyánte` etc.; from √`nud, anonudyanta`; from
 √`vlī, avevlīyanta`; from √`jabh, jañjabhyáte` etc.; from
 √`jap, jañjapyámāna`; and so on. 
@@ -562,7 +562,7 @@ a\. No example of an intensive periphrastic perfect has anywhere come to
 light (except from `jāgṛ`: 1020 a). A few unmistakable perfect forms are
 made from the intensively reduplicated root in RV.: namely, `davidhāva`
 and `nónāva`, 3d sing., and `nonuvus`, 3d pl.; and there occur further
-`dodrāva` (TS.), `yoyāva` and `lelā́ya` (MS.), and `leláya` (? ÇB.), all
+`dodrāva` (TS.), `yoyāva` and `lelā́ya` (MS.), and `leláya` (? śB.), all
 used in the sense of presents. To them may be added `jāgara` 1st sing.
 and `jāgā́ra` 3d sing.: but as to these, see below, 1020 a.
 
@@ -585,7 +585,7 @@ and futures would take the corresponding middle form.
 b\. Of all this, in the ancient language, there is hardly a trace. The
 RV. has `cárkṛṣe`, 3d sing. mid., of a formation like `hiṣe` and `stuṣé`
 (894 d), and the gerundives `vitantasā́yya`, and `marmṛjénya` and
-`vāvṛdhénya`; and ÇB. has the participle `vanīvāhitá`, and the
+`vāvṛdhénya`; and śB. has the participle `vanīvāhitá`, and the
 infinitive `dédīyitavāí`. As to `jāgariṣyánt` and `jāgaritá`, see the
 next paragraph.
 
@@ -656,7 +656,7 @@ also a passive, desiderative, causative, and so on: thus, from `vevid`,
 pass. `vevidyé`; desid. `vévidiṣāmi`; caus. `vevidáyāmi`; desid. of
 causative, `vévidayiṣāmi`. But such formations are excessively rare;
 quotable are `varīvarjáyantī` AV., `jāgaráyant` TB. etc.; `dādhārayati`
-JB., `dandaçayitvā` DKC.
+JB., `dandaśayitvā` DKC.
 
 III\. Desiderative.
 
@@ -681,7 +681,7 @@ the accent; 2. an appended स `sa` — which, however (like the tense-signs
 of aorist and future), sometimes takes before it the auxiliary vowel इ
 `i`, becoming इष `iṣa`.
 
-a\. A few instances in the concluding part of ÇB. in which the accent is
+a\. A few instances in the concluding part of śB. in which the accent is
 otherwise laid — thus, `tiṣṭhā́set, yiyāsántam, vividiṣánti, īpsántas` —
 must probably be regarded as errors.
 
@@ -689,7 +689,7 @@ must probably be regarded as errors.
 exceptions:
 
 a\. A final `i` or `u` is lengthened before `sa`: thus,
-`cikṣīṣa, cikīṣa, jigīṣa`; `çuçrūṣa, juhūṣa, cukṣūṣa`.
+`cikṣīṣa, cikīṣa, jigīṣa`; `śuśrūṣa, juhūṣa, cukṣūṣa`.
 
 b\. A final `ṛ` becomes `īr` or `ūr` before `sa`: thus,
 `cikīrṣa, titīrṣa` (also irregularly `tūtūrṣa` RV.),
@@ -699,8 +699,8 @@ b\. A final `ṛ` becomes `īr` or `ūr` before `sa`: thus,
 c\. Before `iṣa`, a final `i`- or `u`- or `ṛ`-vowel necessarily, and a
 penultimate `i` or `u` or `ṛ` optionally, have the `guṇa`-strengthening;
 no examples are quotable from the older texts; later occur
-`çiçayiṣa, çiçariṣa`;
-`cikartiṣa, ninartiṣa, mimardiṣa, vivarṣiṣa, çuçobhiṣa`; but `rurudiṣa`.
+`śiśayiṣa, śiśariṣa`;
+`cikartiṣa, ninartiṣa, mimardiṣa, vivarṣiṣa, śuśobhiṣa`; but `rurudiṣa`.
 
 More special exceptions are:
 
@@ -721,18 +721,18 @@ occurrence).
 g\. The roots `van` and `san` make `vivāsa` and `siṣāsa`, from the
 root-forms `vā` and `sā`.
 
-h\. The root `jīv` forms `jujyūṣa` (ÇB.: `jijīviṣa`, VS.); and the other
+h\. The root `jīv` forms `jujyūṣa` (śB.: `jijīviṣa`, VS.); and the other
 roots in `īv` (765) are required to make the same change before `sa`,
 and to have `guṇa` before `iṣa`: thus, `susyūṣa` or `siseviṣa` from
 √`sīv`. `Svap` forms `suṣupsa`. `Dhūrv` forms `dudhūrṣa`.
 
 i\. Initial `s` is usually left unchanged to `ṣ` after the reduplication
-when the desiderative sign has `ṣ` (184e): thus, `sisan̄kṣa` (ÇB.:
+when the desiderative sign has `ṣ` (184e): thus, `sisan̄kṣa` (śB.:
 √`sañj`), and `susyūṣa` and `sisaniṣa`, according to the grammarians;
 but `tuṣṭūṣa` is met with.
 
 j\. Further may be mentioned as prescribed by the grammarians:
-`ninan̄kṣa` (or `ninaçiṣa`) from √`nāç` *be lost*; `miman̄kṣa` from
+`ninan̄kṣa` (or `ninaśiṣa`) from √`nāś` *be lost*; `miman̄kṣa` from
 √`majj` (occurs in `miman̄kṣu`); `mimārjiṣa` (or `mimṛkṣa`) from √`mṛj`.
 
 1029\. The consonant of the reduplication follows the general rules
@@ -744,7 +744,7 @@ a\. A few roots have a long vowel in the reduplicating syllable: thus,
 (RV.) from √`tur`; `dadhiṣu` (AV.) and `dadan̄kṣu` (C.) are probably
 false forms.
 
-b\. From √`aç` is made (ÇB.) `açiçiṣa`, and from √`edh` (VS.) `edidhiṣa`
+b\. From √`aś` is made (śB.) `aśiśiṣa`, and from √`edh` (VS.) `edidhiṣa`
 (with a mode of reduplication like that followed sometimes in the
 reduplicating aorist: 862). In the older language, these are the only
 roots with initial vowel which form a desiderative stem, except `āp` and
@@ -754,7 +754,7 @@ later language occur further `eṣiṣiṣa` (√`iṣ` *seek*) and `īcikṣi�
 `undidiṣa` (√`und`), `ardidhiṣa` (√`ṛdh`). 
 
 c\. RV. has the stems `ínakṣa` and `íyakṣa`, regarded as desideratives
-from √√`naç` *attain* and `yaj`, with mutilated reduplication.
+from √√`naś` *attain* and `yaj`, with mutilated reduplication.
 
 1030\. A number of roots, including some of very common use, form an
 abbreviated stem apparently by a contraction of reduplication and root
@@ -763,11 +763,11 @@ together into one syllable: thus, ईप्स `īpsa` from √आप् `āp`; 
 
 a\. Such abbreviated stems are found in the older language as follows:
 `dhitsa` (beside `didhiṣa`) from √`dhā`; `ditsa` (beside `didāsa`) from
-√`dā`; `dipsa` (`dhīpsa` JB.) from √`dabh`; `çikṣa` from √`çak`; `sīkṣa`
+√`dā`; `dipsa` (`dhīpsa` JB.) from √`dabh`; `śikṣa` from √`śak`; `sīkṣa`
 from √`sah`: these are found in RV.; in AV. are added `īpsa` from √`āp`
 (RV. has `apsa` once), and `īrtsa` from √`ṛdh`; the other texts furnish
-`lipsa` (ÇB.) or `līpsa` (TB.) from √`labh`, `ripsa` (GB.) from √`rabh`,
-`pitsa` (ÇB.) from √`pad`, and `dhīkṣa` (ÇB.) from √`dah` (not √`dih`,
+`lipsa` (śB.) or `līpsa` (TB.) from √`labh`, `ripsa` (GB.) from √`rabh`,
+`pitsa` (śB.) from √`pad`, and `dhīkṣa` (śB.) from √`dah` (not √`dih`,
 since no roots with `i` as medial vowel show the contracted form). In
 the later language are further found `pitsa` from √`pat` also, `jñīpsa`
 from the causative quasi-root `jñap` (below, 1042 j), and the anomalous
@@ -784,10 +784,10 @@ necessary or optional, the analogy of the futures (934, 943 a).
 
 b\. No example of the use of `i` is found in RV., and only one each in
 AV. (`pipatiṣa`), VS. (`jijīviṣa`), and TS. (`jigamiṣa`). The other
-examples noted in the early texts are `açiçiṣa, cikramiṣa, jigrahīṣa`
+examples noted in the early texts are `aśiśiṣa, cikramiṣa, jigrahīṣa`
 (with `ī` for `i`, as elsewhere in this root),
-`cicariṣa, edidhiṣa, jijaniṣa, didīkṣiṣa, bibādhiṣa, ruruciṣa, vivadiṣa, vividiṣa, çiçāsiṣa, tiṣṭighiṣa, jihiṅsiṣa`:
-most of them are found only in ÇB. Stems also without the auxiliary
+`cicariṣa, edidhiṣa, jijaniṣa, didīkṣiṣa, bibādhiṣa, ruruciṣa, vivadiṣa, vividiṣa, śiśāsiṣa, tiṣṭighiṣa, jihiṅsiṣa`:
+most of them are found only in śB. Stems also without the auxiliary
 vowel are made from roots `gam, grab, car, jīv, pat, bādh, vid`.
 
 1032\. Inflection: Present-System. The desiderative stem is conjugated
@@ -1022,7 +1022,7 @@ its final vowel, being treated as a root. Thus:
 1034\. Perfect. The desiderative perfect is the periphrastic (1070 ff.).
 
 a\. Thus, `īpsāṁ cakāra` etc.; `titikṣāṁ cakre` etc. Such forms are made
-in ÇB. from √√`kram, dhūrv, bādh, ruh`; and in ChU. from `man`.
+in śB. from √√`kram, dhūrv, bādh, ruh`; and in ChU. from `man`.
 
 b\. Apparent perfect forms of the ordinary kind made from `mimikṣ` in
 RV. have been noticed in the preceding paragraph. And AB. (viii. 21. 10)
@@ -1032,7 +1032,7 @@ has once `didāsitha` *thou hast desired to give*.
 `āípsiṣam`, अतितिक्षिषि `átitikṣiṣi`.
 
 a\. The AY. has `acikitsīs`, and `īrtsīs` (`augmentless`, with `mā́`
-prohibitive: 579). TB. has `āipsīt`; ÇB. `āírtsīt, ācikīrṣis` and
+prohibitive: 579). TB. has `āipsīt`; śB. `āírtsīt, ācikīrṣis` and
 `ajighāṅsīs`, and `amīmāṅsiṣṭhās`; KB. `jijñāsiṣi`; JUB. `āipsiṣma`; and
 AA. `adhitsiṣam`. No examples have been found in the later language.
 
@@ -1043,7 +1043,7 @@ never occurs.
 thus, ईप्सिष्यामि `īpsiṣyā́mi` and ईप्सितास्मि `īpsitā́smi`; तितिक्षिष्ये
 `titikṣiṣyé` and तितिक्षिताहे `titkṣitā́he`.
 
-a\. The ÇB. has `titikṣiṣyate` and `didṛkṣitā́ras`. Such forms as
+a\. The śB. has `titikṣiṣyate` and `didṛkṣitā́ras`. Such forms as
 `jijñāsyāmas` (MBh.), `didhakṣyāmi` (R.), and `mīmāṅsyant` (GGS.) are
 doubtless presents, with -`sya`- blunderingly for -`sa`-.
 
@@ -1051,19 +1051,19 @@ doubtless presents, with -`sya`- blunderingly for -`sa`-.
 auxiliary vowel इ `i`, in all cases where that vowel is ever taken.
 
 a\. In the older language have been noted: participle in `ta, mīmāṅsitá`
-(AV., GB.), `jijyūṣita` (AB.), `çuçrūṣitá` and `dhīkṣitá` (ÇB.); —
-gerundive in `tavya, līpsitavya` (AB.), `didhyāsitavyá` (ÇB.); in
-`ya, jijñāsyà` (ÇB.); — gerund in `tvā, mīmāṅsitvā` (K.).
+(AV., GB.), `jijyūṣita` (AB.), `śuśrūṣitá` and `dhīkṣitá` (śB.); —
+gerundive in `tavya, līpsitavya` (AB.), `didhyāsitavyá` (śB.); in
+`ya, jijñāsyà` (śB.); — gerund in `tvā, mīmāṅsitvā` (K.).
 
 1038\. Of other declinable stems derived from the desiderative stem, by
 far the most common are the adjective in `ú` — e. g.
 `titikṣu, dipsú, bībhatsú, siṣāsú` (RV. once `didṛ́kṣu`) — and the
-abstract noun in `ā́` — e. g. `īpsā, bībhatsā́, mīmāṅsā́, çuçrūṣā́` — both
+abstract noun in `ā́` — e. g. `īpsā, bībhatsā́, mīmāṅsā́, śuśrūṣā́` — both
 of which are made with increasing freedom from an early epoch of the
 language: especially the former, which has the value and construction
 (271 a) of a present participle. A few adjectives in `enya` (having a
 gerundive character: 966 b) occur in the earlier language: thus,
-`didṛkṣéṇya` (RV.), `çuçrūṣéṇya` (TS.), `ninīṣeṇya` (PB.), `jijñāsenya`
+`didṛkṣéṇya` (RV.), `śuśrūṣéṇya` (TS.), `ninīṣeṇya` (PB.), `jijñāsenya`
 (AB.), and, with irregular reduplication (apparently) `papṛkṣéṇya`
 (RV.), `dadhiṣeṇya` (JB.); and `didṛkṣéya` (RV.) is a similar formation.
 RV. has also `siṣāsáni` and `rurukṣáṇi`, and `siṣāsátu` (?). In the
@@ -1071,11 +1071,11 @@ later language, besides some of the formations already instanced (those
 in `u` and `ā`, and in `sya` and `sitavya`), are found a few derivatives
 in `aka`, as `cikitsaka, bubhūṣaka`; in `ana`, as
 `jijñāsana, didhyāsana`; and, very rarely, in `anīya` (`cikitsanīya`)
-and `tṛ` (`çuçrūṣitṛ`); further, secondary derivatives (doubtless) in
+and `tṛ` (`śuśrūṣitṛ`); further, secondary derivatives (doubtless) in
 `in` from the noun in `ā`, as `īpsin, jigīṣin` (one or two of these
 occur in the older language). And of an adjective in `a` we have an
 example in `bībhatsá` (B.S., and later), and perhaps in `avalipsa`
-(AVP.); such words as `ajugupsa, duçcikitsa`, are rather to be
+(AVP.); such words as `ajugupsa, duścikitsa`, are rather to be
 understood as possessive compounds with the noun in `ā`. As to
 noun-stems in `is`, see 392 d.
 
@@ -1087,7 +1087,7 @@ causative-sign अय `áya` (1041): thus, ईप्सयामि `īpsáyāmi
 desire obtainment*.
 
 a\. Of these formations in the older language are found `mīmāṅsyámāna`
-(doubtless to be read for -`sámāna`, AV.), `lipsyámāna` (ÇB.), and
+(doubtless to be read for -`sámāna`, AV.), `lipsyámāna` (śB.), and
 `rurutsyamāna` (K.). Half-a-dozen such passives are quotable later, and
 one or two causatives: e. g. `cikitsyate, vivakṣyate, jijñāsyate`;
 `cikīrṣayant, cikitsayiṣyati`.
@@ -1098,14 +1098,14 @@ found as early as the Brāhmaṇas, see below, 1052b.
 1040\. Some stems which are desiderative in form have lost the
 peculiarity of desiderative meaning, and assumed the value of
 independent roots: examples are `cikits`, *cure*, `jugups`, *despise*,
-`titikṣ`, *endure*, `bībhats`, *abhor*, `mīmāṅs` *ponder*, `çuçrūṣ`
+`titikṣ`, *endure*, `bībhats`, *abhor*, `mīmāṅs` *ponder*, `śuśrūṣ`
 *obey*. Doubtless some of the apparent roots in the language with
-sibilant final are akin with the desideratives in origin: e.g. `çikṣ`,
-desiderative of `çak`.
+sibilant final are akin with the desideratives in origin: e.g. `śikṣ`,
+desiderative of `śak`.
 
 a\. On account of the near relation of desiderative and future (cf. 948
 b), the former is occasionally found where the latter was rather to be
-expected: thus, `rājānam prayiyāsantam` (ÇB.) *a king about to depart*;
+expected: thus, `rājānam prayiyāsantam` (śB.) *a king about to depart*;
 `prāṇa uccikramiṣan` (ChU.) *the breath on the point of expiring*;
 `mumūrṣur ivā ’bhavat` (H.) *he was fain to die*.
 
@@ -1148,53 +1148,53 @@ and kalpaya from √kḷp (only example): but cintaya, gulphaya, dṛṅhaya.
 b\. But a few roots lack the strengthening: these are, in the older
 language, cit (citaya and cetaya), iṣ, iḷ, riṣ (riṣaya and reṣaya), vip
 (vipaya and vepaya), tuj, tur, tuṣ (tuṣaya and toṣaya), dyut (dyutaya
-and dyotaya), ruc (rucaya and rocaya), çuc (çucaya and çocaya), çubh
-(cubhaya and çobhaya), kṛp, mṛḍ, spṛh; and grabh makes in RV. gṛbhaya.
+and dyotaya), ruc (rucaya and rocaya), śuc (śucaya and śocaya), śubh
+(cubhaya and śobhaya), kṛp, mṛḍ, spṛh; and grabh makes in RV. gṛbhaya.
 Duṣ and guh lengthen the vowel instead. Mṛj sometimes has vṛddhi, as in
 other forms: thus, mārjaya (beside marjaya). On the other hand, guṇa
-appears irregularly (240 b) in srevaya (beside çrīvaya), heḍaya,
+appears irregularly (240 b) in srevaya (beside śrīvaya), heḍaya,
 mekṣaya. Similar irregularities in the later language are giraya, tulaya
 (also tolaya), churaya (also choraya), muṣaya, sphuraya. No forms
 without strengthening have a causative value made in the older language.
 
-c\. A final vowel has the vṛddhi-strengthening: thus, cāyaya, çāyaya,
+c\. A final vowel has the vṛddhi-strengthening: thus, cāyaya, śāyaya,
 cyāvaya, bhāvaya, dhāraya, sāraya.
 
 d\. But no root in i or ī has vṛddhi in the Veda (unless pāyaya \[k,
 below\] comes from pī rather than pā) — as, indeed, regular causatives
 from such roots are hardly quotable: only RV. has kṣayaya (beside
 kṣepaya) from √kṣi *possess*; for a few alternatively permitted forms,
-see below, 1. In B. and S., however, occur çāyaya and sāyaya (√si or
+see below, 1. In B. and S., however, occur śāyaya and sāyaya (√si or
 sā); and later -āyaya, cāyaya, smāyaya, ḍāyaya, nāyaya.
 
 e\. A few roots have a form also with guṇa-strengthening: thus, cyu,
-dru, plu, yu *separate*, çru, pū, stu, sru; jṛ *waste away*, dṛ
+dru, plu, yu *separate*, śru, pū, stu, sru; jṛ *waste away*, dṛ
 *pierce*, sṛ, smṛ, hṛ; vṛ *choose* makes varaya later (it is not found
 in V.: epic also vāraya).
 
 f\. A medial or initial a in a light syllable is sometimes lengthened,
 and sometimes remains unchanged: thus, bhājaya, svāpaya, ādaya; janaya,
-çrathaya, anaya (but mandaya, valgaya, bhakṣaya).
+śrathaya, anaya (but mandaya, valgaya, bhakṣaya).
 
 g\. The roots in the older language which keep their short a are jan,
 pan, svan, dhan, ran, stan, gam (gāmaya once in RV.), tam, dam, raj
-(usually rañjaya), prath, çrath, çnath, vyath, svad, chad *please* (also
+(usually rañjaya), prath, śrath, śnath, vyath, svad, chad *please* (also
 chandaya), nad, dhvas (also dhvaṅsaya), rah, mah (also maṅhaya), nabh
 (also nambhaya), tvar, svar, hval. In the later language, further, kvaṇ,
-jvar, trap, day, paṇ, rac, ran *ring*, vadh, val, vaç, çlath, skhal,
+jvar, trap, day, paṇ, rac, ran *ring*, vadh, val, vaś, ślath, skhal,
 sthag. Both forms are made (either in the earlier or in the later
 language, or in both taken together) by ad, kal, kram, kṣam, khan, ghaṭ,
 cam, cal, jval, tvar, dal, dhvan, nad, nam, pat, bhram, math, mad, yam,
-ram, lag, lal, vam, vyadh, çam *be quiet*, çram, çvas, svap. The roots
+ram, lag, lal, vam, vyadh, śam *be quiet*, śram, śvas, svap. The roots
 which lengthen the vowel are decidedly the more numerous.
 
 h\. If a nasal is taken in any of the strong forms of a root, it usually
-appears in the causative stem: e. g. dambhaya, daṅçaya, indhaya,
-`limpaya, rundhaya, çundhaya, kṛntaya, dṛṅhaya`. From a number of
+appears in the causative stem: e. g. dambhaya, daṅśaya, indhaya,
+`limpaya, rundhaya, śundhaya, kṛntaya, dṛṅhaya`. From a number of
 roots, stems both with and without the nasal are made: thus (besides
 those mentioned above, g), `kuñcaya` and `kocaya, granthaya` and
-`grathaya, bṛṅhaya` and `barhaya`, `bhraṅçaya` and `bhrāçaya, çundhaya`
-and `çodhaya, sañjaya` and `sajjaya, siñcaya` and `secaya`. In a few of
+`grathaya, bṛṅhaya` and `barhaya`, `bhraṅśaya` and `bhrāśaya, śundhaya`
+and `śodhaya, sañjaya` and `sajjaya, siñcaya` and `secaya`. In a few of
 these is seen the influence of present-stems.
 
 i\. Most roots in final `ā`, and the root `ṛ`, add `p` before the
@@ -1206,20 +1206,20 @@ j\. Such stems are made in the older language from the roots
 *measure*, `mlā, yā, vā` *blow*, `sthā, snā, hā` *remove*; the later
 language adds `kṣmā, dhmā`, and `hā` *leave*. From `jñā` and `snā` are
 found in AV. and later the shortened forms `jñapaya` and `snapaya`, and
-from `çrā` only `çrapaya` (not in RV.). Also, in the later language,
+from `śrā` only `śrapaya` (not in RV.). Also, in the later language,
 `glā` forms `glapaya`, and `mlā` forms `mlapaya`.
 
 k\. Stems from `ā`-roots showing no `p` are, earlier, `gāyaya` (also
 `gāpaya`) from √`gā` *sing*, `chāyaya, pāyaya` from √`pā` *drink* (or
 `pī`), `pyāyaya` from √`pyā` or `pyāy`; `sāyaya` from √`sā` (or `si`);
 also, later, `hvāyaya` from √`hvā` (or `hū`); — and further, from roots
-`vā` *weave*, `vyā`, and `çā` (or `çi`), according to the grammarians.
+`vā` *weave*, `vyā`, and `śā` (or `śi`), according to the grammarians.
 
 l\. The same `p` is taken also by a few `i`- and `ī`-roots, with other
 accompanying irregularities: thus, in the older language, `kṣepaya`
 (RV., beside `kṣayaya`) from √`kṣi` *possess*; `jāpaya` (VS. and later)
 from √`ji`; `lāpaya` (TB. and later; later also `lāyaya`) from √`lī`
-*cling*; `çrāpaya` (VS., once) from √`çri`; `adhyāpaya` (S. and later)
+*cling*; `śrāpaya` (VS., once) from √`śri`; `adhyāpaya` (S. and later)
 from `adhi`+√`i`; — in the later, `kṣapaya` (beside `kṣayaya`) from
 √`kṣi` *destroy*; `māpaya` from √`mī`; `smāpaya` (beside `smāyaya`) from
 √`smi`; `hrepaya` from √`hrī`; — and the grammarians make further
@@ -1239,7 +1239,7 @@ n\. In the Prakrit, the causative stem is made from all roots by the
 addition of (the equivalent of) `āpaya`; and a number (about a dozen) of
 like formations are quotable from Sanskrit texts, mostly of the latest
 period; but three, `krīḍāpaya, jīvāpaya`, and `dīkṣāpaya`, occur in the
-epics; and two, `açāpaya` and `kṣālāpaya`, even in the Sutras.
+epics; and two, `aśāpaya` and `kṣālāpaya`, even in the Sutras.
 
 1043\. Inflection: Present-System. The causative stem is inflected in
 the present-system precisely like other stems in अ `a` (733 a): it will
@@ -1414,7 +1414,7 @@ two in AV.); they become more common in the Brāhmaṇas. A 3d sing. mid.
 in `īta` instead of `eta` (cf. 738 b) occurs once in B. (`kāmayīta`
 AB.), is not very rare in S. (a score or two of examples are quotable),
 and is also found in MBh. and later. Of a corresponding 3d pl. in `īran`
-only one or two instances can be pointed out (`kāmayīran` AÇS.,
+only one or two instances can be pointed out (`kāmayīran` AśS.,
 `kalpayīran` AGS.).
 
 4\. Present Imperative.
@@ -1458,7 +1458,7 @@ etc.
 etc.
 
 d\. Imperative persons with the ending `tāt` occur: `dhārayatāt` (AV.)
-and `cyāvayatāt` (ÇB.) are 2d sing.; `pātayatāt` (ÇB.) is 3d sing.;
+and `cyāvayatāt` (śB.) are 2d sing.; `pātayatāt` (śB.) is 3d sing.;
 `gamayatāt` and `cyāvayatāt` (K. etc.), and `vārayatāt` (TB.) are used
 as 2d pl. `Vārayadhvāt` (K. etc.) is 2d pl., and the only known example
 of such an ending (see above, 549 b).
@@ -1530,7 +1530,7 @@ limited. In RV. are found two forms of the future in `syāmi`, one
 passive participle (`coditá`), and ten infinitives in `dhyāi`; also one
 or two derivative nouns in `tṛ` (`bodhayitṛ́`, `codayitrī́`), five in
 `iṣṇu`, seven in `itnu`, and a few in `a` (`atipārayá`, `nidhārayá`,
-`vācamīnkhayá`, `viçvamejaya`), and in `u` (`dhārayú`, `bhāvayú`,
+`vācamīnkhayá`, `viśvamejaya`), and in `u` (`dhārayú`, `bhāvayú`,
 `mandayú`). In AV., also two `s`-future forms and four gerunds in `tvā`;
 and a few derivative noun-stems, from one of which is made a
 periphrastic perfect (`gamayā́ṁ cakāra`). In the Brāhmaṇas, verbal
@@ -1548,7 +1548,7 @@ accusative, in `ā́m`, is added the auxiliary: thus,
 a\. Of this perfect no example occurs in RV. or SV. or VS., only one —
 `gamayā́ṁ cakāra` — in AV., and but half-a-dozen in all the various texts
 of the Black Yajur-Veda, and these not in the mantra-parts of the text.
-They are also by no means frequent in the Brāhmaṇas, except in ÇB.
+They are also by no means frequent in the Brāhmaṇas, except in śB.
 (where they abound: chiefly, perhaps, for the reason that this work uses
 in considerable part the perfect instead of the imperfect as its
 narrative tense).
@@ -1609,7 +1609,7 @@ ff.) — the reduplicated aorist is made from this form instead of from
 the simple root: thus, `atiṣṭhipam` from `sthāp` (stem `sthāpaya` for
 √`sthā`. Aorist-stems of this character from quasi-roots in `āp` are
 `arpipa` (√`ṛ`), `jījapa` or `jījipa`, `jijñapa` or `jijñipa`,
-`çiçrapa`, `tiṣṭhipa`, `jīhipa`; the only other example from the older
+`śiśrapa`, `tiṣṭhipa`, `jīhipa`; the only other example from the older
 language is `bībhiṣa` from `bhīṣ` for √`bhī`.
 
 1048\. But a few sporadic forms of an `iṣ`-aorist from causative
@@ -1619,7 +1619,7 @@ the wholly anomalous `dhvanayit`), `vyathayīs` and `āilayīt` (AV.),
 has also `ūnayīs` from a `denominative` stem); in the later,
 `ahlādayiṣata` (DKC.), and probably `aghātayithās` (MBh.; for -`iṣṭhās`:
 cf. 904 d). The passive 3d sing, `aropi`, from the causative `ropaya`,
-has a late occurrence (Çatr.).
+has a late occurrence (śatr.).
 
 1049\. A precative is of course allowed by the grammarians to be made
 for the causative conjugation: in the middle, from the causative stem
@@ -1663,11 +1663,11 @@ Periphrastic Future.
 a. It has been mentioned above that RV. and AV. contain only two
 examples each of the `s`-future, and none of the periphrastic. The
 former begin to appear in the Brāhmaṇas more numerously, but still
-sparingly, with participles, and conditional (only `adhārayiṣyat` ÇB.;
-`alāpayiṣyathās` ChU.); of the latter, ÇB. affords two instances
+sparingly, with participles, and conditional (only `adhārayiṣyat` śB.;
+`alāpayiṣyathās` ChU.); of the latter, śB. affords two instances
 (`pārayitā́smi` and `janayitā́si`). Examples of both formations are
 quotable from the later language (including the middle form
-darçayitāhev: 947 c).
+darśayitāhev: 947 c).
 
 1051\. Verbal Nouns and Adjectives. These are made in two different
 ways: either 1. from the full causative stem (in the same manner as the
@@ -1683,21 +1683,21 @@ the gerund in `tvā`, as `dhārayitum`, `dhārayitvā`, and the gerundive in
 in `tavāi` and `dhyāi`, as `jánayitavāí`, `īrayádhyāi`, etc.). The
 auxiliary `i` is taken in every formation which ever admits that vowel.
 
-b\. Examples of the passive participle are `īritá`, `vāsita`, `çrāvitá`.
+b\. Examples of the passive participle are `īritá`, `vāsita`, `śrāvitá`.
 But from the quasi-root `jñap` (1042 j) is made `jñapta`, without
 union-vowel.
 
 c\. Examples of the infinitive and gerund in `tvā` are `jóṣayitum`,
 `dhā́rayitum`; `kalpayitvā́`, `arpayitvā́`. But in the epics, and even
 later, infinitives are occasionally made with loss of the
-causative-sign: e. g. `çeṣitum`, `bhāvitum`, `dhāritum`, `mocitum`.
+causative-sign: e. g. `śeṣitum`, `bhāvitum`, `dhāritum`, `mocitum`.
 
 d\. Examples of the gerunds in ya and am are -`bhā́jya`, -`ghārya`,
 -`pādya`, -`vāsya`, `nāyya`, -`sthāpya`; -`bhā́jam`, -`sthāpam`. But
 stems showing in the root-syllable no difference from the root retain
 `ay` of the causative-sign in the gerund, to distinguish it from that
 belonging to the primary conjugation: e. g. -`kramáyya`, -`gamáyya`,
--`janáyya`, -`jvaláyya`, -`kalayya`, -`çamayya`, -`racayya`, -`āpayya`.
+-`janáyya`, -`jvaláyya`, -`kalayya`, -`śamayya`, -`racayya`, -`āpayya`.
 
 e\. Examples of the gerundive in `tavya` are `tarpayitavyà`,
 `gamayitavya`, `hvāyayitavya`; of that in `ya`, `sthā́pya`, `hā́rya`,
@@ -1706,8 +1706,8 @@ e\. Examples of the gerundive in `tavya` are `tarpayitavyà`,
 f. Examples of other formations occurring in the older language are as
 follows: root-infinitive, -`sthāpam`, -`vāsas`; — infinitive in `tu`,
 other cases than accusative, -`janayitave`; `jánayitavāí`,
-`pā́yayitavāí`, -`çcotayitavāí`; `çámayitos`; — infinitive in `dhyāi`,
-`iṣayádhyāi`, `īrayádhyāi`, `taṅsayádhyāi`, `nāçayádhyāi`,
+`pā́yayitavāí`, -`ścotayitavāí`; `śámayitos`; — infinitive in `dhyāi`,
+`iṣayádhyāi`, `īrayádhyāi`, `taṅsayádhyāi`, `nāśayádhyāi`,
 `mandayádhyāi`, `mādayádhyāi`, `riṣayádhyāi`, `vartayádhyāi`,
 `vājayádhyāi`, `syandayádhyāi` (all RV.); — gerundive in `āyya`,
 `panayā́yya`, `spṛhayā́yya`, `trayayā́yya` (? √`trā`).
@@ -1741,7 +1741,7 @@ causative stem: thus, दिधारयिषति `dīdhārayiṣati`.
 d\. These, too, are found here and there in the Brāhmaṇas and later
 (about forty stems are quotable): examples are `pipāyayiṣa` (K.),
 `bibhāvayiṣa` and `cikalpayiṣa` and `lulobhayiṣa` (AB.), `dídrāpayiṣa`
-and `rirādhayiṣa` and `āpipayiṣa` (ÇB.), and so on.
+and `rirādhayiṣa` and `āpipayiṣa` (śB.), and so on.
 
 e\. As to causatives made from the intensive and desiderative stems, see
 above, 1025, 1039.
@@ -1770,11 +1770,11 @@ root-class; `abhiṣṇak` seems to be its imperfect according to the nasal
 class; and `pátyate` *he rules* appears to be a denominative of `páti`
 *master*; other possible cases are `iṣaṇas` etc., `kṛpáṇanta`,
 `taruṣema` etc., `vanuṣanta`, `bhurajanta`, `vánanvati`. From the other
-older texts are quotable `kavyánt` (TS.), `áçlonat` (TB.), `unmūlati`
-(ṢB.), `svadhāmahe` (ÇÇS.). And a considerable number of instances,
+older texts are quotable `kavyánt` (TS.), `áślonat` (TB.), `unmūlati`
+(ṢB.), `svadhāmahe` (śśS.). And a considerable number of instances,
 mostly isolated, are found in the later language: e. g. `kalahant`
-(MBh.), `arghanti` (Pañç.), `abjati` (Çatr.), `gardabhati` (SD.),
-`utkaṇṭhate` (SD.), `jagannetrati` (Pras.), `keliçvetasahasrapattrati`
+(MBh.), `arghanti` (Pañś.), `abjati` (śatr.), `gardabhati` (SD.),
+`utkaṇṭhate` (SD.), `jagannetrati` (Pras.), `keliśvetasahasrapattrati`
 (Pras.).
 
 1055\. In general, the base of denominative conjugation is made from the
@@ -1807,7 +1807,7 @@ language, from the earliest down.
 a\. They are frequent in RV., which contains over a hundred, of all
 varieties; AV. has only half as many (and personal forms from hardly a
 third as many: from the rest, present participles, or derivative nouns);
-AB., less than twenty; ÇB., hardly more than a dozen; and so on. In the
+AB., less than twenty; śB., hardly more than a dozen; and so on. In the
 later language they are quotable by hundreds, but from the vast majority
 of stems occur only an example or two; the only ones that have won any
 currency are those that have assumed the character of "`cur`-class"
@@ -1833,8 +1833,8 @@ unchanged: thus, `amitrayáti` *plays the enemy*, *is hostile*;
 `devayáti` *cultivates the gods, is pious*.
 
 b\. But final `a` is also often lengthened: thus, `aghāyáti` *plans
-mischief*; `priyāyáte` *holds dear*; `açvāyáti` *seeks for horses*;
-`açanāyáti` *desires food*.
+mischief*; `priyāyáte` *holds dear*; `aśvāyáti` *seeks for horses*;
+`aśanāyáti` *desires food*.
 
 c\. While in the Veda the various modes of denominative formation are
 well distributed, no one showing a marked preponderance, in the later
@@ -1846,7 +1846,7 @@ transitive meaning, and those in `āya` a middle form and intransitive or
 reflexive meaning. In not a few cases, parallel formations from the same
 stem illustrate this distinction: e. g. `kaluṣayati` *makes turbid*,
 `kaluṣāyate` *is* or *becomes turbid*; `taruṇayati` *rejuvenates*,
-`taruṇāyate` *is rejuvenated*; `çithilayati` *loosens*, `çithilāyate`
+`taruṇāyate` *is rejuvenated*; `śithilayati` *loosens*, `śithilāyate`
 *grows loose*. No distinct traces of this distinction are recognizable
 in the Veda, although there also corresponding forms with short `a` and
 with long `ā` sometimes stand side by side.
@@ -1873,7 +1873,7 @@ sometimes treated in the other methods of an `a`-stem: thus, `pṛtanyati`
 those in `u`, `ū`) very rare. They show regularly `ī` and `ū` before
 `ya`: thus, `arātīyáti` (also -`tiy`-) *plots injury*; `janīyáti` (also
 -`niy`-) *seeks a wife*; `sakhīyáti` *desires friendship*; `nārīyate`
-*turns woman*; — `çatrūyáti` *acts the foe*; `ṛjūyáti` *is straight*;
+*turns woman*; — `śatrūyáti` *acts the foe*; `ṛjūyáti` *is straight*;
 `vasūyáti` *desires wealth*; `asūyáti` *grumbles, is discontented*: with
 short `u`, `gātuyáti` *sets in motion*.
 
@@ -1932,7 +1932,7 @@ a\. Stems of anomalous formation are `drāghaya` from `dīrgha`,
 corresponding noun-stems are found, although for all or nearly all of
 them related words appear: thus, `an̄kūyá`, `stabhūyá`, `iṣudhya`;
 `dhiṣaṇyá`, `riṣaṇyá`, `ruvaṇya`, `huvanya`, `iṣaṇyá`; `ratharyá`,
-`çratharyá`, `saparyá`; `iyasya` (ÇB.), `irasyá`, `daçasyá`, `makhasyá`,
+`śratharyá`, `saparyá`; `iyasya` (śB.), `irasyá`, `daśasyá`, `makhasyá`,
 `panasyá`, `sacasyá`. Those in `anya`, especially, look like the
 beginnings of a new conjugation-class.
 
@@ -1940,14 +1940,14 @@ b\. Having still more that aspect, however, are a Vedic group of stems
 in `āya`, which in general have allied themselves to present-systems of
 the `nā`-class (732), and are found alongside the forms of that class:
 thus, `gṛbhāyáti` beside `gṛbhṇāti`. Of such, RV. has
-`gṛbhāyá, mathāyá, pruṣāyá, muṣāyá, çrathāya, skabhāyá, stabhāyá`. A few
-others have no `nā`-class companions: thus, `damāyá, çamāyá, tudāyá`
-(AV.); and `panāya, naçāya, vṛṣāya` (√`vṛṣ` *rain*), `vasāyá` (√`vas`
-*clothe*), and perhaps `açāya` (√`āç` *attain*).
+`gṛbhāyá, mathāyá, pruṣāyá, muṣāyá, śrathāya, skabhāyá, stabhāyá`. A few
+others have no `nā`-class companions: thus, `damāyá, śamāyá, tudāyá`
+(AV.); and `panāya, naśāya, vṛṣāya` (√`vṛṣ` *rain*), `vasāyá` (√`vas`
+*clothe*), and perhaps `aśāya` (√`āś` *attain*).
 
 c\. Here may be mentioned also quasi-denominatives made from
 onomatopoetic combinations of sounds, generally with repetition: e. g.
-`kiṭakiṭāya, thatathatarāya, miṣamiṣāya, çaraçarāya`.
+`kiṭakiṭāya, thatathatarāya, miṣamiṣāya, śaraśarāya`.
 
 1067\. The denominative stems in RV. and AV. with causative accentuation
 are: RV. `an̄kháya, artháya, iṣáya` (also `iṣayá`),
@@ -1965,20 +1965,20 @@ all respects the rules for that class — are of the utmost rarity.
 
 a\. In RV. occurs no form not belonging to the present-system, except
 `ūnayīs` (with `mā́` prohibitive), an `iṣ`-aorist 2d sing. (cf. 1048).
-Further examples of this aorist are `āsūyīt` (ÇB.), `pāpayiṣṭa` (TS.:
+Further examples of this aorist are `āsūyīt` (śB.), `pāpayiṣṭa` (TS.:
 pl., with `mā́` prohibitive), and `avṛṣāyiṣata` (VS. etc.). The form
 `ásaparyāit` (AV. xiv. 2. 20), with `āi` for `ī` (555 c), might be
 aorist; but, as the metre shows, is probably a corrupt reading;
 `amanasyāit`, certainly imperfect, appears to occur in TB. (ii. 3. 8³).
 Other forms begin to appear in the Brāhmaṇas: e. g. the futures
-`gopāyiṣyati` (ÇB.), `meghāyiṣyánt`, `kaṇḍūyiṣyánt`, `çīkāyiṣyánt`
-(TS.), the participles `bhiṣajyitá` (? JB. `-jita`) and `iyasitá` (ÇB.),
-`kaṇḍūyitá`, `çīkitá`, and `meghitá` (TS.), the gerund `saṁçlákṣṇya`
-(ÇB.), and so on. In the later language, also, forms outside the
+`gopāyiṣyati` (śB.), `meghāyiṣyánt`, `kaṇḍūyiṣyánt`, `śīkāyiṣyánt`
+(TS.), the participles `bhiṣajyitá` (? JB. `-jita`) and `iyasitá` (śB.),
+`kaṇḍūyitá`, `śīkitá`, and `meghitá` (TS.), the gerund `saṁślákṣṇya`
+(śB.), and so on. In the later language, also, forms outside the
 present-system (except the participle in `ta`) are only sporadic; and of
 tertiary conjugation forms there are hardly any: examples are the
 causatives `dhūmāyaya` and `asūyaya` (MBh.), and the desiderative
-`abhiṣiṣenayiṣa` (Çiç.).
+`abhiṣiṣenayiṣa` (śiś.).
 
 b\. Noun-derivatives from denominative stems follow the analogy of those
 from causative stems (1051 g). In the older language, those in `u` and

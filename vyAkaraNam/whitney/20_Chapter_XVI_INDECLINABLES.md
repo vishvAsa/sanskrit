@@ -40,16 +40,16 @@ derivatives: thus, `itarátas`, `katarátas`.
 
 b\. From noun and adjective stems of every class, since the earliest
 period, but more freely later: e. g. `mukhatás`, `agratás`, `ṛbhutás`,
-`ṛktás`, `hṛttás`, `çīrṣatás`, `janmatas`, `nastás`, `yajuṣṭas`,
+`ṛktás`, `hṛttás`, `śīrṣatás`, `janmatas`, `nastás`, `yajuṣṭas`,
 `pārátas`, `anyátas`, `anyatarátas`, `sarvátas`, `dakṣiṇatás`,
 `abhīpatás` (once, in RV., from a case-form: `patsutás`).
 
 c\. From a few prepositions: thus, `abhítas`, `parítas`, `ántitas`.
 
 d\. Examples of ablative construction are: `áto bhū́yaḥ` (RV.) *more than
-that;* `tátaḥ ṣaṣṭhā́t` (AV.) *from that sixth;* `áto ‘nyéna` (ÇB.) *with
+that;* `tátaḥ ṣaṣṭhā́t` (AV.) *from that sixth;* `áto ‘nyéna` (śB.) *with
 any other than this;* `sarvato bhayāt` (AGS.) *from all fear;*
-`kutaç cid deçād āgatya` (H.) *arriving from some region or other;*
+`kutaś cid deśād āgatya` (H.) *arriving from some region or other;*
 `purād itaḥ` (R.) *from this city;* `tasmāt pretakāyataḥ` (KSS.) *from
 that dead body*.
 
@@ -66,12 +66,12 @@ construction.
 a\. These adverbs are very few, compared with those in `tas`. They are
 formed chiefly from pronominal stems, and from other stems having a
 quasi-pronominal character: namely, in `tra`, `átra`, `tátra`, `yátra`,
-`kútra`, `amútra`, `anyátra`, `viçvátra`, `sarvátra`, `ubhayátra`,
+`kútra`, `amútra`, `anyátra`, `viśvátra`, `sarvátra`, `ubhayátra`,
 `aparatra`, `uttaratra`, `itarátra`, `anyataratra`, `pūrvatra`,
 `paratra`, `samānátra`, `ekatra`, `anekatra`, `ekāikatra`; in `trā`,
 `asmatrā́`, `satrā́`, `purutrā́`, `bahutrā́`, `dakṣiṇatrā́`. But a few in trā
 come from ordinary nouns: thus, `devatrā́`, `martyatrā́`, `puruṣatrā́`,
-`manuṣyatrā́`, `pākatrā́`, `çayutrā́`, `kurupañcālatrā́`. Those in `trā` are
+`manuṣyatrā́`, `pākatrā́`, `śayutrā́`, `kurupañcālatrā́`. Those in `trā` are
 distinguished from the others by their accent.
 
 b\. Examples of locative construction are: `hásta ā́ dakṣiṇatrā́` (RV.)
@@ -85,31 +85,31 @@ locative value: thus, `tatra gaccha` *go there* or *thither;*
 
 1100\. One or two other suffixes of locality are:
 
-a\. ha, in `ihá` *here*, `kúha` *where?* and the Vedic `viçváha` (also
-`viçváhā`, `viçvā́hā`) *always* (compare below, 1104b); and `ihá` (like
+a\. ha, in `ihá` *here*, `kúha` *where?* and the Vedic `viśváha` (also
+`viśváhā`, `viśvā́hā`) *always* (compare below, 1104b); and `ihá` (like
 `átra` etc.: 1099 b) is sometimes used with locative-case value: e. g.
 `iha samaye` (H.) *at this conjuncture*.
 
 b\. `tāt`, which is added to words having already a local or directive
 value: thus, to adverbial accusatives, `prā́ktāt`, `údaktāt`, `tā́vattāt`;
 to adverbial ablatives, `ārā́ttāt`, `uttarā́ttāt`, `parākā́ttāt`; and to
-prepositional adverbs, `paçcā́tāt`, `adhā́stāt`, `avástāt`, `parástāt`,
+prepositional adverbs, `paścā́tāt`, `adhā́stāt`, `avástāt`, `parástāt`,
 `purástāt`, `bahíṣṭāt`. Apparently by analogy with these last, the
 suffix has the form `stāt` in `upáriṣṭāt` (and BhP. has `udastāt`).
 
-c\. `hi`, in `uttarā́hi` (ÇB.) and `dakṣiṇāhi` (not quotable).
+c\. `hi`, in `uttarā́hi` (śB.) and `dakṣiṇāhi` (not quotable).
 
 1101\. By the suffix `thā` are made adverbs of manner, especially from
 pronominal roots or stems.
 
 a\. Thus, `táthā`, `yáthā`; `kathā́` and `itthā́` (by the side of which
-stand `kathám` and `itthám`; and ÇB. has `itthā́t`); and the rare
+stand `kathám` and `itthám`; and śB. has `itthā́t`); and the rare
 `imáthā` and `amúthā`. And `átha` (V. often `áthā`) *so then* doubtless
 belongs with them. Further, from a few adjective and noun stems, mostly
-of quasi-pronominal character: thus, `viçváthā`, `sarváthā`, `anyáthā`,
+of quasi-pronominal character: thus, `viśváthā`, `sarváthā`, `anyáthā`,
 `ubhayáthā`, `aparathā`, `itaráthā`, `yataráthā`, `yatamáthā`,
 `katarathā`, `katamathā`, `pūrváthā`, `pratnáthā`, `ūrdhváthā`,
-`tiraçcáthā`, `ekathā` (JB.), `ṛtuthā́`, `nāmáthā `(once, AV.); and
+`tiraścáthā`, `ekathā` (JB.), `ṛtuthā́`, `nāmáthā `(once, AV.); and
 `eváthā`.
 
 b\. `Yáthā` becomes usually toneless in V., when used in the sense of
@@ -125,8 +125,8 @@ b\. Examples are: `brahmajāyé ’yám íti céd ávocan` (RV.) *if they have
 said "this is a Brahman's wife";*
 `táṁ devā́ abruvan vrā́tya kíṁ nú tiṣṭasī́ ’ti` (AV.) *the gods said to
 him: Vrātya, why do you stand?"* Often, the `iti` is used more
-pregnantly: thus, `yáḥ çraddádhāti sánti devā́ íti` (AV.) *whoever has
-faith that the gods exist;* `taṁ vyāghram munir mūṣiko ‘yam iti paçyati`
+pregnantly: thus, `yáḥ śraddádhāti sánti devā́ íti` (AV.) *whoever has
+faith that the gods exist;* `taṁ vyāghram munir mūṣiko ‘yam iti paśyati`
 (H.) *the sage looks upon that tiger as being really a mouse;*
 `yūyaṁ kim iti sīdatha` (H.) *why* (lit. *alleging what reason*) *do you
 sit?*
@@ -134,7 +134,7 @@ sit?*
 c\. But `iti` is sometimes used in a less specialized way, to mark an
 onomatopœia, or to indicate a gesture: e. g. `bahíṣ ṭe astu bā́l íti`
 (AV.) *let it come out of you with a splash;* `íty ágre kṛṣáty áthé ’ti`
-(ÇB.) *he ploughs first this way, then this way;* or it points forward
+(śB.) *he ploughs first this way, then this way;* or it points forward
 to something to be said: e. g.
 `yan nv ity āhur anyāni chandāṅsi varṣīyāṅsi kasmād bṛhaty ucyata iti`
 (PB.) *when now they say thus: "the other metres are greater; why is
@@ -145,7 +145,7 @@ compounds: e. g. `ititha` *the so-many-eth;* `itivat` *in this fashion;*
 predicate to an accusative, see 268 b.
 
 d. With the suffix of `íti` is to be compared that of `táti` etc.
-(519). The word is abbreviated to `ti` two or three times in ÇB.
+(519). The word is abbreviated to `ti` two or three times in śB.
 
 e\. `va` in `iva` (toneless) *like, as*, and `evá` (in V. often `evā́`),
 earlier *thus*, later a particle emphasizing the preceding word; for
@@ -165,7 +165,7 @@ in the older language, only `sarvadā́`; later a few others, `anyadā`,
 such phrases as `kadācid divase` (R.) *on a certain day*.
 
 c\. By the perhaps related `dānīm` are made `idā́nīm`, `tadā́nīm`,
-`viçvadā́nīm`, `tvadānīm` (toneless). `Viçvadā́ni` occurs as adjective in
+`viśvadā́nīm`, `tvadānīm` (toneless). `Viśvadā́ni` occurs as adjective in
 TB.
 
 d\. With `rhi` are made, from pronominal roots, `tárhi`, `etárhi`,
@@ -179,16 +179,16 @@ signifying -*fold, times, ways*, etc.
 
 a\. Thus, `ekadhā́`, `dvidhā́` (also `dvídhā` and `dvedhā́`), `trídhā` (in
 the older language usually `tredhā́`), `ṣaḍḍhā́` (also `ṣoḍhā́` and
-`ṣaḍdhā`), `dvādaçadhā́`, `ekānnaviṅçatidhā́`, `sahasradhā́`, and so on.
+`ṣaḍdhā`), `dvādaśadhā́`, `ekānnaviṅśatidhā́`, `sahasradhā́`, and so on.
 Also, naturally, from words having a quasi-numeral character: thus,
-`anekadhā`, `katidhā́`, `tatidhā́`, `bahudhā́`, `purudhā́`, `viçvádhā`,
-`çaçvadhā́`, `aparimitadhā`, `yāvaddhā́`, `etāvaddhā́`, `māsadhā`. In a
+`anekadhā`, `katidhā́`, `tatidhā́`, `bahudhā́`, `purudhā́`, `viśvádhā`,
+`śaśvadhā́`, `aparimitadhā`, `yāvaddhā́`, `etāvaddhā́`, `māsadhā`. In a
 very few cases, also from general noun and adjective stems: thus,
 `mitradhā́` (AV.), `priyadhā́` (TS.; `predhā́`, MS.), `ṛjudhā́` (TB.),
 `urudhā` and `citradhā` (BhP.); and from one adverb, `bahirdhā́`.
 
 b\. The particle `ádha` or `ádhā`, a Vedic equivalent of `átha`,
-probably belongs here (`purudhá` and `viçvádha`, with shortened final,
+probably belongs here (`purudhá` and `viśvádha`, with shortened final,
 occur a few times in RV.); also `addhā́` *in truth*; and perhaps `sahá`
 *with*, which has an equivalent `sadha`- in several Vedic compounds. And
 the other adverbs in `ha` (1100 a) may be of like origin.
@@ -200,8 +200,8 @@ a\. The corresponding word for *once*, `sakṛ́t`, is a compound rather
 than a derivative; and the same character belongs still more evidently
 to `pañcakṛ́tvas`, `navakṛ́tvas`, `aparimitakṛ́tvas`, etc., though `kṛt`
 and `kṛtvas` are regarded by the native grammarians as suffixes; the
-earlier texts (AV. ÇB. MS.) have `saptá kṛ́tvas`, `dáça kṛ́tvas`,
-`dvā́daça kṛ́tvas`, `aṣṭā́v evá kṛ́tvas`, etc. AB. has the redundant
+earlier texts (AV. śB. MS.) have `saptá kṛ́tvas`, `dáśa kṛ́tvas`,
+`dvā́daśa kṛ́tvas`, `aṣṭā́v evá kṛ́tvas`, etc. AB. has the redundant
 combination `triṣ kṛtvah`.
 
 b\. The quasi-suffix `dyus`, from a case-form of `div` *day*, is in a
@@ -209,16 +209,16 @@ similar manner added to various determining-words, generally made to end
 in e: e. g. `anyedyús` *another day*, `ubhayedyus` (AV. -`yadyús`) *on
 either day*, `pūrvedyús` *the day before*.
 
-1106\. By the suffix `çás` are made, especially from numeral or
+1106\. By the suffix `śás` are made, especially from numeral or
 quantitative stems, many adverbs of quantity or measure or manner,
 generally used distributively.
 
-a\. Examples are: `ekaçás` *one by one*, `çataçás` *by hundreds*,
-`ṛtuçás` *season by season*, `pacchas` *foot by foot*, `akṣaraçás`
-*syllable by syllable*, `gaṇaçás` *in crowds*, `stambaçás` *by bunches*,
-`paruççás` *limb by limb*, `tāvacchás` *in such and such number or
-quantity:* and, in a more general way, `sarvaçás` *wholly*, `mukhyaças`
-*principally*, `kṛchraças` *stingily*, `manmaçás` *as minded*.
+a\. Examples are: `ekaśás` *one by one*, `śataśás` *by hundreds*,
+`ṛtuśás` *season by season*, `pacchas` *foot by foot*, `akṣaraśás`
+*syllable by syllable*, `gaṇaśás` *in crowds*, `stambaśás` *by bunches*,
+`paruśśás` *limb by limb*, `tāvacchás` *in such and such number or
+quantity:* and, in a more general way, `sarvaśás` *wholly*, `mukhyaśas`
+*principally*, `kṛchraśas` *stingily*, `manmaśás` *as minded*.
 
 1107\. By the suffix `vát` are made with great freedom, in every period
 of the language, adverbs signifying *after the manner of, like*, etc.
@@ -294,7 +294,7 @@ will, if you please;* `náktam` *by night;* `ráhas` *secretly;* `oṣám`
 
 c\. Of adjective stems, in unlimited numbers: as, `satyám` *truly;*
 `cirám` *long;* pū́rvam *formerly;* `nítyam` *constantly;* `bhū́yas`
-*more, again;* `viçrabdham` *confidently;* `prakāçam` *openly;* and so
+*more, again;* `viśrabdham` *confidently;* `prakāśam` *openly;* and so
 on.
 
 d\. The neuter singular is the case commonly employed in this way; and
@@ -307,7 +307,7 @@ special class of compounds, called `avyayībhāva` (1313).
 e\. But the feminine singular also is sometimes used, especially in the
 so-called adverbial endings of comparison, `tarām` and `tamām`, which
 are attached to particles (cf. 1119), and even (473 c) to verb-forms:
-e. g. `natarā́m`, `kathaṁtarām`, `uccaistarā́m`, `çanāistarām`,
+e. g. `natarā́m`, `kathaṁtarām`, `uccaistarā́m`, `śanāistarām`,
 `jyoktamā́m`. In the oldest language (RV. and AV.), the neuter instead of
 the feminine form of these suffixes is almost alone in use: see 1119.
 
@@ -320,7 +320,7 @@ with √kṛ in the manner of a prefix: 1078 a); `prāyas` *usually;* `īṣát`
 `mithás`, `múhu` and `múhus`, `jā́tu`, and so on. `Madrík` etc., and
 `niṇík` (in RV.), are perhaps contracted forms of adjectives having
 √`ac` or `añc` as their final (407 ff.). The presence of other roots as
-final members is also probable for `uçádhak`, `ānuṣák` and `āyuṣák`,
+final members is also probable for `uśádhak`, `ānuṣák` and `āyuṣák`,
 `anuṣṭhú` and `suṣṭhú`, `yugapát`, etc. Compare also the forms in `am`
 beside those in `ā`, above, 1101 a, 1102 e, 1103 b.
 
@@ -336,18 +336,18 @@ generally in the singular, but sometimes also in the plural. Thus:
 a\. Of pronominal stems: as, `enā́` and `ayā́`, `káyā`, `anā́`, `amā́`,
 `amuyā́`.
 
-b\. Of noun-stems: as, `kṣaṇena` *instantly;* `açeṣeṇa` *completely;*
-`viçeṣeṇa` *especially;* `dívā` *by day;* `diṣṭyā` *fortunately;*
+b\. Of noun-stems: as, `kṣaṇena` *instantly;* `aśeṣeṇa` *completely;*
+`viśeṣeṇa` *especially;* `dívā` *by day;* `diṣṭyā` *fortunately;*
 `sáhasā` *suddenly;* `aktubhis` *by night;* and so on.
 
 c\. Of adjectives, both neuter (not distinguishable from masculine) and
 feminine: as, `akhilena` *wholly;* `prāyeṇa` *mostly;* `dákṣiṇena` *to
 the south;* `úttareṇa` *to the north;* `ántareṇa` *within;* `ciréṇa`
-*long;* — `çánāis` and `çánakāis` *slowly;* `uccāís` *on high;* `nīcāis`
+*long;* — `śánāis` and `śánakāis` *slowly;* `uccāís` *on high;* `nīcāis`
 *below;* `parācāís` *afar;* `táviṣībhis` *mightily;* and so on.
 
 d\. More doubtful cases, mostly from the older language, may be
-instanced as follows: `tiraçcátā`, `devátā`, `bāhúta`, and `sasvártā`
+instanced as follows: `tiraścátā`, `devátā`, `bāhúta`, and `sasvártā`
 (all RV.), homonymous instrumentals from nouns in `tā`; `dvitā́`,
 `tādī́tnā`, `īrmā́`, `mṛṣā́`, `vṛ́thā`, `sácā`, `asthā́` (?), `mudhā` (not
 V.), `adhunā́` (B. and later).
@@ -357,11 +357,11 @@ than any other case, distinguished from normal instrumentals by
 differences of form: thus, especially, by an irregular accent: as, `amā́`
 and `dívā` (given above); perhaps `gúhā`; `apākā́`, `āsayā́`, `kuhayā́`
 (?); `naktayā́`, `svapnayā́`, `samanā́`; `adatrayā́`, `ṛtayā́`, `ubhayā́`,
-`sumnayā́` (?); `daksinā́`, `madhyā́`; `nīcā́`, `prācā́`, `uccā́`, `paçcā́`,
-`tiraçcā́`; `vasántā`; — in a few `u`-stems, by a `y` inserted before the
-ending, which is accented: thus, `amuyā́` (given above), `āçuyā́`,
+`sumnayā́` (?); `daksinā́`, `madhyā́`; `nīcā́`, `prācā́`, `uccā́`, `paścā́`,
+`tiraścā́`; `vasántā`; — in a few `u`-stems, by a `y` inserted before the
+ending, which is accented: thus, `amuyā́` (given above), `āśuyā́`,
 `sādhuyā́`, `raghuyā́`, `dhṛṣṇuyā́`, `` ``, `mithuyā́`; — and `urviyā́` (for
-`urvyā́`) and `víçvyā` (properly `víçvayā`) are more slightly irregular.
+`urvyā́`) and `víśvyā` (properly `víśvayā`) are more slightly irregular.
 
 1113\. The dative has only very seldom an adverbial use.
 
@@ -375,10 +375,10 @@ unexpectedly;* `ā́t`, `tā́t`, `yā́t` (V.: normal forms, instead of the
 pronominal `asmāt` etc.).
 
 b\. Of noun-stems: as, `āsā́t` *near;* `ārā́t` *afar;* `balāt` *forcibly;*
-`kutūhalāt` *emulously;* `sakāçāt` *on the part of*.
+`kutūhalāt` *emulously;* `sakāśāt` *on the part of*.
 
 c\. Oftenest, of adjective stems: as, `dūrā́t` *afar;* `nīcā́t` below;
-`paçcā́t` *behind;* `sākṣā́t` *plainly, actually;* `samantāt`
+`paścā́t` *behind;* `sākṣā́t` *plainly, actually;* `samantāt`
 *completely;* `acirāt` *not long;* `pratyakṣatamāt` (AB.) *most
 obviously;* `pratyantāt` (S.) *to the end*.
 
@@ -428,7 +428,7 @@ and `prathamá` is doubtless of the same character; also, `ántara` and
 `ántama`. And accusatives of such derivative adjectives (for the most
 part not otherwise found in use) have the value of comparatives, and
 rarely superlatives, to the prefixes themselves: thus,
-`sáṁitaṁ cit saṁtaráṁ sáṁ çiçādhi` (AV.) *whatever is quickened do thou
+`sáṁitaṁ cit saṁtaráṁ sáṁ śiśādhi` (AV.) *whatever is quickened do thou
 still further quicken;* `vitaráṁ ví kramasva` (RV.) *stride out yet more
 widely;* `prá táṁ naya prataráṁ vásyo ácha` (RV.) *lead him forward
 still further toward advantage;* `úd enam uttaráṁ naya` (AV.) *lead him
@@ -460,12 +460,12 @@ b\. It is combined especially with innumerable nouns and adjectives;
 much more rarely, with adverbs, as `akútra` and `ápunar` (RV.), `áneva`
 (AV.), `ánadhas` (TB.), `akasmāt`, `asakṛt`; in rare cases, also with
 pronouns (as `atad`, `akiṁcit`); and even, in the later language, now
-and then with verbs, as `aspṛhayanti` (BhP. Çiç.) *they do not desire*,
+and then with verbs, as `aspṛhayanti` (BhP. śiś.) *they do not desire*,
 `alokayati` (SD.) *he does not view*. Now and then it is prefixed to
 itself: e. g. `anakāmamāra`, `anaviprayukta`, `anavadya` (?).
 
 c. In a very few cases, the negative `a` appears to be made long: thus,
-`ā́sat` *non-existent*, `ā́deva` *godless*, `ā́rāti` *enemy*, `āçāuca`
+`ā́sat` *non-existent*, `ā́deva` *godless*, `ā́rāti` *enemy*, `āśāuca`
 *impurity*, `ā́tura` *ill* (?).
 
 d\. The independent negative adverbs, `ná` and `mā́`, are only in
@@ -479,7 +479,7 @@ f\. The prefix of dispraise `dus` *ill, badly* (identical with √`duṣ`:
 
 g\. It is combined in the same manner as `a` or `an`. Of combinations
 with a verbal form, at least a single example appears to be quotable:
-`duçcaranti` (R.) *behave ill*.
+`duścaranti` (R.) *behave ill*.
 
 h\. The corresponding laudatory prefix `su` *well* is in general so
 closely accordant in its use with the preceding that it is best
@@ -495,7 +495,7 @@ part to be regarded as in composition with the verb. The `pada`-text of
 AV. xix. 49. 10 reads `su`-`ápāyati`, but its testimony is of little or
 no value. K. has `na su vijñāyete` and `na vāi su viduḥ`, and KeU. has
 `su veda`; TB. has `susámbodháyati` (?); MBh. and BhP. have
-`sūpatasthe`; R. has `suçakyante`.
+`sūpatasthe`; R. has `suśakyante`.
 
 j\. The exclamatory and usually depreciative prefixed forms of the
 interrogative pronoun (506) are most analogous with the inseparable
@@ -562,7 +562,7 @@ noticed `kvà` *where?* (in V., always to be read `kúa`).
 j\. Particles of time are: `nú` *now* (also `nū́`: `nūnám` was mentioned
 above, 1109 a), `adyá` and `sadyás` and `sadívas` (RV., once) *today, at
 once* (all held to contain the element `div` or `dyu`), `hyás`
-*yesterday*, `çvás` *tomorrow*, `jyók` (also related with dyu) *long;*
+*yesterday*, `śvás` *tomorrow*, `jyók` (also related with dyu) *long;*
 `púnar` *again*.
 
 k\. Of particles of manner, besides those already mentioned, may be
@@ -654,7 +654,7 @@ its opposite, the accusative, was sufficiently explained above (293 c).
 Of directive words akin with the prefixes, many — as `bahís`, `purás`,
 `avás`, `adhás`, `parás`, `purā́`, `vinā`, and `tirás` *out of knowledge
 of* — accompany this case by a perfectly regular construction. Also the
-case-forms `arvā́k`, `prā́k`, `paçcā́t`, `ūrdhvám`, `pū́rvam`, `páram`, and
+case-forms `arvā́k`, `prā́k`, `paścā́t`, `ūrdhvám`, `pū́rvam`, `páram`, and
 `ṛté` *without*, of which the natural construction with an ablative is
 predominant earlier.
 
@@ -664,7 +664,7 @@ essentially the *to*-case), those that express a motion or action toward
 anything: as `abhí`, `práti`, `ánu`, `úpa`, `ā́`, `áti` and `ádhi` in the
 sense of *over on to*, or *across, beyond*, `tirás` *through*, `antár`
 and `antarā́` when meaning *between*, `pári` *around*. Examples are:
-`yā́ḥ pradíço abhí sū́ryo vicáṣṭe` (AV.) *what quarters the sun looks
+`yā́ḥ pradíśo abhí sū́ryo vicáṣṭe` (AV.) *what quarters the sun looks
 abroad unto;* `ábodhy agníḥ práty āyatī́m uṣā́sam` (RV.) *Agni has been
 awakened to meet the advancing dawn;* `gacchet kadācit svajanam prati`
 (MBh.) *she might go somewhither to her own people;*
@@ -682,11 +682,11 @@ those particles. And the same may be said of most of the adverbial
 case-forms with which the accusative is used. Thus, a number of
 instrumental of situation or direction: as
 `yé ‘vareṇā ”dityám yé páreṇā ”dityám` (TB.) *those who are below the
-sun, those who are beyond the sun;* `ántareṇa yónim` (ÇB.) *within the
+sun, those who are beyond the sun;* `ántareṇa yónim` (śB.) *within the
 womb;* `te hī ’dam antareṇa sarvam` (AB.) *for all this universe is
-between them;* `úttareṇa gā́rhapatyam` (ÇB.) *to the north of the
-householder's fire;* `dákṣiṇena védim` (ÇB.) *to the south of the
-sacrificial hearth;* `dakṣiṇena vṛkṣavāṭikām` (Ç.) *to the right of the
+between them;* `úttareṇa gā́rhapatyam` (śB.) *to the north of the
+householder's fire;* `dákṣiṇena védim` (śB.) *to the south of the
+sacrificial hearth;* `dakṣiṇena vṛkṣavāṭikām` (ś.) *to the right of the
 orchard;* `nikaṣā́ yamunām` (Har.) *near the Yamunā*. Similarly, ūrdhvam
 and pūrvam have an accusative object as well as an ablative; and the
 same is true later of `ṛte`. `Abhimukham` *toward* has a more natural
@@ -695,13 +695,13 @@ right to construction with this case.
 1130\. The Genitive. The words which are accompanied by the genitive are
 mostly case-forms of nouns, or of adjectives used substantively,
 retaining enough of the noun-character to take this case as their
-natural adjunct. Such are the locatives `agre` *in front of*, `abhyāçe`
+natural adjunct. Such are the locatives `agre` *in front of*, `abhyāśe`
 *near*, `arthe` and `kṛte` *for the sake of*, `nimitte` and `hetāu` *by
 reason of*, `madhye` *in the midst of;* and other cases, as `arthāya`,
-`kāraṇāt`, `sakāçāt`, `hetos`. And really, although less directly and
+`kāraṇāt`, `sakāśāt`, `hetos`. And really, although less directly and
 obviously, of the same character are other adjective cases (some of them
 showing other constructions, already noticed): as `adhareṇa`, `uttareṇa`
-and `uttarāt`, `dakṣiṇena` and `dakṣiṇāt`, `paçcāt`, `ūrdhvam`,
+and `uttarāt`, `dakṣiṇena` and `dakṣiṇāt`, `paścāt`, `ūrdhvam`,
 `anantaram`, `samakṣam`, `sākṣāt`. More questionable, and illustrations
 rather of the general looseness of use of the genitive, are its
 constructions (almost wholly unknown in the oldest language) with more
@@ -761,9 +761,9 @@ part mutilations and corruptions of other parts of speech.
 (RV.).
 
 b\. Onomatopoetic or imitative utterances are, for example (in the older
-language): `ciçcā́` *whiz* (of an arrow: RV.); `kikirā́` (palpitation:
+language): `ciścā́` *whiz* (of an arrow: RV.); `kikirā́` (palpitation:
 RV.); `bā́l` and `pháṭ` (`pháṣ`?) or `phál` *splash* (AV.); `bhúk`
-*bow-wow* (AV.); `çál` *pat* (AV.); `āṣ`, `hīṣ`, `as`, and `has` (PB.);
+*bow-wow* (AV.); `śál` *pat* (AV.); `āṣ`, `hīṣ`, `as`, and `has` (PB.);
 and see the words already quoted in composition with the roots `kṛ` and
 `bhū`, above, 1091.
 

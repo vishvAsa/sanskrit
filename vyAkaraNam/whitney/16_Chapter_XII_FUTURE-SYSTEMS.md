@@ -75,10 +75,10 @@ a\. Of roots ending in vowels, the great majority (excepting those in
 `ṛ`) take no `i`. Thus, all in `ā` (numerous, and unnecessary to
 specify: but compare c below); those in `i`, as `kṣi` *possess*, `ci`
 *gather*, `ci` *note*, `mi, si` or `sā` *bind* (`siṣya`), `hi`; from
-`i`, `kṣi` *destroy*, and `ji` occur forms of both classes; `çri` \[and
-`çvi`\] has `i`; — those in `ī`, as `krī, bhī, mī, vlī`; but `çī` *lie*
+`i`, `kṣi` *destroy*, and `ji` occur forms of both classes; `śri` \[and
+`śvi`\] has `i`; — those in `ī`, as `krī, bhī, mī, vlī`; but `śī` *lie*
 and `nī` have both forms \[and `ḍī` takes `i`\]; — those in `u`, as
-`cyu, dru, plu, çru, hu`; but `su` *press out* and `stu` have both forms
+`cyu, dru, plu, śru, hu`; but `su` *press out* and `stu` have both forms
 \[and `kṣu, kṣṇu, nu, yu, ru, snu` take `i`\]; — of those in `ū, dhū`
 and `bhū` take `i; sū` has both forms. But all in `ṛ` (numerous, and
 unnecessary to specify) take `i` \[those in changeable `ṛ`, for
@@ -86,22 +86,22 @@ so-called `ṝ`-roots (242), are said by the grammarians to take either
 `i` or `ī`; no `ī`-forms, however, are quotable\].
 
 b\. Of roots ending in mutes, about half add the tense-sign directly.
-Thus, of roots ending in gutturals, `çak`; — in palatals: in
-`c, pac, muc, ric, vac, vic, vraçc, sic` (but `yāc` takes `i`); in
+Thus, of roots ending in gutturals, `śak`; — in palatals: in
+`c, pac, muc, ric, vac, vic, vraśc, sic` (but `yāc` takes `i`); in
 `ch, prach`; in `j`, `bhañj, mṛj` (`mārkṣya` and `mrakṣya`),
 `yaj, bhuj, yuj, vṛj, sṛj` \[also
 `bhrajj, rañj, sañj, svañj, nij, ruj`\], while `tyaj, bhaj`, and `majj`
 (`man̄kṣya` and `majjiṣya`) have both forms, and `vij` (`vijiṣya` and
 `vejiṣya`) and `vraj` take `i`; — in dentals: in `t`, `kṛt` *cut* and
-`vṛt` \[also `cṛt` and `nṛt`\] make both forms; in `d, ad, pad, çad`
+`vṛt` \[also `cṛt` and `nṛt`\] make both forms; in `d, ad, pad, śad`
 *fall*, `skand, syand, chid, bhid, vid` *find*, `nud` \[also
 `had, khid, svid, kṣud, tud`\]; while `sad` (`satsya` and `sīdiṣya`) and
 `vid` *know* make both forms \[also `chṛd` and `tṛd`\], and `vad` has
 `i`; in `dh`, `vyadh` (`vetsya`), `rādh`, `sidh` *succeed*,
-`budh, yudh, rudh, vṛdh`. \[also `sādh, krudh, kṣudh, çudh`\], and
+`budh, yudh, rudh, vṛdh`. \[also `sādh, krudh, kṣudh, śudh`\], and
 `bandh` and `sidh` *repel* have both forms; in `n, tan`, while `man` and
 `han` have both forms; — in labials: in `p, āp, kṣip, gup, tṛp, sṛp`
-(`srapsya` and `sarpsya`) \[also `çap, lip, lup`\], while
+(`srapsya` and `sarpsya`) \[also `śap, lip, lup`\], while
 `tap, vap, svap, dṛp`, and `kḷp` have both forms; in `bh, yabh` and
 `rabh, labh` having both forms; in `m, ram`, while `kram, kṣam, nam`,
 and `yam` make both forms.
@@ -113,10 +113,10 @@ present-system, to which then `i` is added: thus,
 `vayiṣya, vyayiṣya, hvayiṣya` (but also `hvāsya`).
 
 d\. Of roots ending in spirants, the minority (about a third) are
-without the auxiliary vowel. They are: roots in `ç, diç, viç, dṛç`
-(`drakṣya`), `spṛç` (`sprakṣya`) \[also `daṅç, riç, liç, kruç, mṛç`\],
-while `naç` *be lost* has both forms (`nan̄kṣya` and `naçiṣya`); in
-`ṣ, piṣ, viṣ, çiṣ` \[also `tviṣ, dviṣ, çliṣ, tuṣ, duṣ, puṣ, çuṣ`\],
+without the auxiliary vowel. They are: roots in `ś, diś, viś, dṛś`
+(`drakṣya`), `spṛś` (`sprakṣya`) \[also `daṅś, riś, liś, kruś, mṛś`\],
+while `naś` *be lost* has both forms (`nan̄kṣya` and `naśiṣya`); in
+`ṣ, piṣ, viṣ, śiṣ` \[also `tviṣ, dviṣ, śliṣ, tuṣ, duṣ, puṣ, śuṣ`\],
 while `kṛṣ` has both forms (`krakṣya` and `karṣiṣya`); — in `s`, `vas`
 *shine*, `vas` *clothe* \[also `ghas`\], while `vas` *dwell* has both
 forms; — in `h`, `mih`, `duh`, `druh` \[also `nah, dih, lih`\], while
@@ -133,8 +133,8 @@ it is also uniformly taken in secondary conjugation (1019, 1036, 1050,
 of a root that has a stronger and a weaker form, the stronger form is
 used: thus, from √`bandh` or `badh` *bind*, `bhantsya` or `bandhiṣya`.
 
-a\. By an irregular strengthening, `nan̄kṣya` (beside `naçiṣya`) is made
-from √`naç` *be lost*, and `man̄kṣya` (beside `majjiṣya`) from √`majj`
+a\. By an irregular strengthening, `nan̄kṣya` (beside `naśiṣya`) is made
+from √`naś` *be lost*, and `man̄kṣya` (beside `majjiṣya`) from √`majj`
 *sink*.
 
 b\. But a few roots make future-stems in the later language without
@@ -142,8 +142,8 @@ strengthening: thus, `likhiṣya, miliṣya` (also TS.), `vijiṣya` (also
 `vejiṣya`), `siṣya` (√`sā` or `si`), `sūṣya` (939 b), `sphuṭiṣya`; and
 √`vyadh` makes `vetsya` from the weaker form `vidh`.
 
-c\. The ÇB. has once the monstrous form `açnuviṣyāmahe`, made upon the
-present-stem `açnu` (697) of √`aç` *attain*. And the later language
+c\. The śB. has once the monstrous form `aśnuviṣyāmahe`, made upon the
+present-stem `aśnu` (697) of √`aś` *attain*. And the later language
 makes `sīdiṣya` and `jahiṣya` from the present-stems of √`sad` and
 √`hā`. Compare further `hvayiṣya` etc., 935 c. Also `khyāyiṣya` from
 √`khyā` (beside `khyāsya`) appears to be of similar character.
@@ -229,10 +229,10 @@ b\. Thus, from the roots already instanced:
 941\. The conditional is the rarest of all the forms of the Sanskrit
 verb. The RV. has but a single example, `ábhariṣyat` *was going to carry
 off*, and none of the Vedic texts furnishes another.+++(5)+++- In the Brāhmaṇas it
-is hardly more common — except in ÇB., where it is met with more than
+is hardly more common — except in śB., where it is met with more than
 fifty times. Nor does it, like the future, become more frequent later:
-not an example occurs in Nala, Bhagavad-Gītā, or Hitopadeça; only one in
-Manu; and two in Çakuntalā. In the whole MBh. (Holtzmann) it is found
+not an example occurs in Nala, Bhagavad-Gītā, or Hitopadeśa; only one in
+Manu; and two in śakuntalā. In the whole MBh. (Holtzmann) it is found
 about twenty-five times, from thirteen roots. The middle forms are
 extremely few.
 
@@ -327,7 +327,7 @@ receive her*, `hantā tvam asi` (MBh.) *thou wilt slay*; `kartārāu svaḥ`
 (MBh.) *we two shall do*; `draṣṭry asmi` (MBh.) *I* (f.) *shall see*,
 `udbhavitrī` (Nāiṣ.) *she will increase*, `gantrī` (Y.) *she will go*.
 AB. has once `sotā` as 2d sing., *thou wilt press*; JUB. makes the
-combination `çmaçānāni bhavitāras` *the cemeteries will be*.
+combination `śmaśānāni bhavitāras` *the cemeteries will be*.
 
 c\. An optative of the auxiliary appears to be once used, in
 `yoddhā syām` *I would fight* (R. i. 22. 25 Peterson; but the Bombay
@@ -337,7 +337,7 @@ edition reads `yoddhuṁ yāsyāmi`).
 collocation of a verb with a preceding predicate noun or adjective
 (592), is on the noun itself; and, unlike all the true verbal forms, the
 combination retains its accent everywhere even in an independent clause:
-thus, `tárhi vā́ atināṣṭró bhavitā́smi` (ÇB.) *then I shall be out of
+thus, `tárhi vā́ atināṣṭró bhavitā́smi` (śB.) *then I shall be out of
 danger* (where `bhaviṣyāmi`, if used, would be accentless). Whether in a
 dependent clause the auxiliary verb would take an accent (595), and
 whether, if so, at the expense of the accent of the noun (as in the case
@@ -362,8 +362,8 @@ roots).
 analogy middle persons to this future, with endings corresponding after
 the usual fashion to those of the active persons. Thus, TS. has once
 `prayoktā́se` *I will apply* (standing related to `prayoktāsmi` as, for
-example, `çāse` to `çāsmi`); ÇB. has `çayitā́se` *thou shalt lie*
-(similarly related to `çayitāsi`); and TB. has `yaṣṭā́smahe` *we will
+example, `śāse` to `śāsmi`); śB. has `śayitā́se` *thou shalt lie*
+(similarly related to `śayitāsi`); and TB. has `yaṣṭā́smahe` *we will
 make offering*. But in TA. is found (i. 11) `yaṣṭā́he` as 1st sing.,
 showing a phonetic correspondence of a problematic character, not
 elsewhere met with in the language.
@@ -403,7 +403,7 @@ p\.
 `dātā́ras`
 
 c\. Only a single example of such a middle has been brought to light in
-the later language, namely (the causative) `darçayitāhe` (Nāiṣ.).
+the later language, namely (the causative) `darśayitāhe` (Nāiṣ.).
 
 Uses of the Futures and Conditional.
 
@@ -414,16 +414,16 @@ one hand an implication of will or intention, or on the other hand that
 of promise or threatening. 
 
 a\. A few examples are:
-`varṣiṣyáty āiṣámaḥ parjányo vṛ́ṣṭimān bhaviṣyati` (ÇB.) *it is going to
+`varṣiṣyáty āiṣámaḥ parjányo vṛ́ṣṭimān bhaviṣyati` (śB.) *it is going to
 rain; Parjanya is going to be rich in rain this year*;
 `yás tán ná véda kím ṛcā́ kariṣyati` (RV.) *whoever does not know that,
 what will he do with verse?*
-`ā́ vāí vayám agnī́ dhāsyāmahé ‘tha yūyáṁ kíṁ kariṣyatha` (ÇB.) *we are
+`ā́ vāí vayám agnī́ dhāsyāmahé ‘tha yūyáṁ kíṁ kariṣyatha` (śB.) *we are
 going to build the two fires; then what will you do?*
-`tám índro ‘bhyā́dudrāva haniṣyán` (ÇB.) *him Indra ran at, intending to
+`tám índro ‘bhyā́dudrāva haniṣyán` (śB.) *him Indra ran at, intending to
 slay*; `yády evā́ kariṣyátha sākáṁ devāír yajñíyāso bhaviṣyatha` (RV.)
 *if ye will do thus, ye shall be worthy of the sacrifice along with the
-gods*; `dántās te çatsyanti` (AV.) *thy teeth will fall out*;
+gods*; `dántās te śatsyanti` (AV.) *thy teeth will fall out*;
 `ná mariṣyasi mā́ bibheḥ` (AV.) *thou shalt not die; be not afraid*;
 `brūhi kva yāsyasi` (MBh.) *tell us; where are you going to go?*
 `yadi mām pratyākhyāsyasi viṣam āsthāsye` (MBh.) *if you shall reject
@@ -436,32 +436,32 @@ sleeping now*.
 b\. The spheres of future and desiderative border upon one another, and
 the one is sometimes met with where the other might be expected.
 Examples of the future taken in a quasi-desiderative sense are as
-follows: `yád dāçúṣe bhadráṁ kariṣyási távé ’t tát satyám` (RV.) *what
+follows: `yád dāśúṣe bhadráṁ kariṣyási távé ’t tát satyám` (RV.) *what
 favor thou willest to bestow on thy worshiper, that of thee becometh
 actual* (*is surely brought about*);
-`yáthā ’nyád vadiṣyánt sò ‘nyád vádet` (ÇB.) *as if, intending to say
+`yáthā ’nyád vadiṣyánt sò ‘nyád vádet` (śB.) *as if, intending to say
 one thing, one were to say another*.
 
 949\. The periphrastic future is defined by the grammarians as
 expressing something to be done at a definite time to come. And this,
 though but faintly traceable in later use, is a distinct characteristic
 of the formation in the language where it first makes its appearance. It
-is especially often used along with `çvás` *tomorrow*.
+is especially often used along with `śvás` *tomorrow*.
 
-a\. A few examples are: `adyá varṣiṣyati...çvó vraṣṭā́` (MS.) *it is
+a\. A few examples are: `adyá varṣiṣyati...śvó vraṣṭā́` (MS.) *it is
 going to rain today; it will rain tomorrow*;
-`yatarān vā ime çvaḥ kamitāras te jetāras` (K.) *whichever of the two
+`yatarān vā ime śvaḥ kamitāras te jetāras` (K.) *whichever of the two
 parties these shall choose tomorrow, they will conquer*;
 `prātár yaṣṭā́smahe` (TB.) *we shall sacrifice tomorrow morning*;
-`ityahé vaḥ paktā̀smi` (ÇB.) *on such and such a day I will cook for
+`ityahé vaḥ paktā̀smi` (śB.) *on such and such a day I will cook for
 you*;
-`tán ma ékāṁ rā́trim ánte çayitā́se jātá u te ‘yáṁ tárhi putró bhavitā́`
-(ÇB.) *then you shall lie with me one night, and at that time this son
+`tán ma ékāṁ rā́trim ánte śayitā́se jātá u te ‘yáṁ tárhi putró bhavitā́`
+(śB.) *then you shall lie with me one night, and at that time this son
 of yours will be born*. In other cases, this definiteness of time is
 wanting, but an emphasis, as of special certainty, seems perhaps to
 belong to the form: thus,
 `bibhṛhí mā pārayiṣyā́mi tvé ’ti: kásmān mā pārayiṣyasī́ ’ty āughá imā́ḥ sárvāḥ prajā́ nirvoḍhā́, tátas tvā pārayitā̀smī́ ’ti`
-(ÇB.) *support me and I will save you, said it. From what will you save
+(śB.) *support me and I will save you, said it. From what will you save
 me? said he. A flood is going to carry off all these creatures; from
 that I will save you, said it*;
 `paridevayāṁ cakrire mahac chokabhayam prāptāsmaḥ` (GB.) *they set up a
@@ -475,7 +475,7 @@ sacrifices with knowledge or without knowledge*;
 `vaktāsmo vā idaṁ devebhyaḥ` (AB.) *we shall tell this to the gods*;
 `yadi svārtho mamā ’pi bhavitā tata evaṁ svārthaṁ kariṣyāmi` (MBh.) *if
 later my own affair shall come up, then I will attend to my own affair*;
-`kathaṁ tu bhavitāsy eka iti tvāṁ nṛpa çocimi` (MBh.) *but how will you
+`kathaṁ tu bhavitāsy eka iti tvāṁ nṛpa śocimi` (MBh.) *but how will you
 get along alone? that, O king, is the cause of my grief about you*.
 
 950\. The conditional would seem to be most originally and properly used
@@ -489,24 +489,24 @@ sentence.
 a\. Thus,
 `yó vṛtrā́ya sínam átrā́ ’bhariṣyat prá táṁ jánitrī vidúṣa uvāca` (RV.)
 *him, who was going here to carry off Vritra's wealth, his mother
-proclaimed to the knowing one*; `çatāyuṁ gām akariṣyam` (AB.) *I was
+proclaimed to the knowing one*; `śatāyuṁ gām akariṣyam` (AB.) *I was
 going to make* (*should have made*) *the cow live a hundred years* (in
 other versions of the same story is added the other clause, in which the
 conditional has a value more removed from its original: thus, in GB.,
 *if you, villain, had not stopped* \[`prā́grahīṣyaḥ`\] *my mouth*);
 `táta evā̀ ’sya bhayáṁ vī̀ ’yāya kásmād dhy ábheṣyad dvitī́yād vāí bhayám bhavati`
-(ÇB.) *thereupon his fear departed; for of whom was he to be afraid?
+(śB.) *thereupon his fear departed; for of whom was he to be afraid?
 occasion of fear arises from a second person*;
-`útpapāta ciráṁ tán mene yád vā́saḥ paryádhāsyata` (ÇB.) *he leaped up;
+`útpapāta ciráṁ tán mene yád vā́saḥ paryádhāsyata` (śB.) *he leaped up;
 he thought it long that he should put on a garment*;
 `sá tád evá nā́ ’vindat prajā́patir yátrā́ ’hoṣyat` (MS.) *Prajāpati,
 verily, did not then find where he was to* (*should*) *sacrifice*;
 `evaṁ cen nā ’vakṣyo mūrdhā te vyapatiṣyat` (GB.) *if you should not
 speak thus, your head would fly off*;
 `sá yád dhāi ’tā́vad evā́ ’bhaviṣyad yā́vatyo hāi ’vā́ ’gre prajā́ḥ sṛṣṭā́s tā́vatyo hāi ’vā̀ ’bhaviṣyan ná prā̀ ’janiṣyanta`
-(ÇB.) *if he had been only so much, there would have been only so many
+(śB.) *if he had been only so much, there would have been only so many
 living creatures as were created at first; they would have had no
 progeny*;
 `kiṁ vā ’bhaviṣyad aruṇas tamasāṁ vibhettā taṁ cet sahasrakiraṇo dhuri nā ’kariṣyat`
-(Ç.) *would the Dawn, forsooth, be the scatterer of the darkness, if the
+(ś.) *would the Dawn, forsooth, be the scatterer of the darkness, if the
 thousand-rayed one did not set her on the front of his chariot?*

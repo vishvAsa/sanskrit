@@ -30,7 +30,7 @@ rounding of the lips.
 
 a\. The Paninean scheme (commentary to `Pāṇini`’s grammar i. 1. 9)
 classes `a` as guttural, but apparently only to give that series as well
-as the rest a vowel; no one of the `Prātiçākhyas` puts `a` into one
+as the rest a vowel; no one of the `Prātiśākhyas` puts `a` into one
 class with `k` etc. All of these authorities concur in calling the `i`-
 and `u`-vowels respectively palatal and labial.
 
@@ -38,7 +38,7 @@ and `u`-vowels respectively palatal and labial.
 `ā`, as its corresponding short, but usually as the “neutral vowel”
 (English so-called “short *u*”, of *but, son, blood*, etc.). This
 peculiarity appears very early, being acknowledged by `Pāṇini` and by
-two of the `Prātiçākhyas` (APr. i. 36; VPr. i. 72), which call the
+two of the `Prātiśākhyas` (APr. i. 36; VPr. i. 72), which call the
 utterance `saṁvṛta`, *covered up, dimmed*. It is wont to be ignored by
 Western scholars, except those who have studied in India.
 
@@ -83,7 +83,7 @@ more nearly the way in which, in these vowels, a real *r*- or
 25\. Like their corresponding semivowels, `r` and `l`, these vowels
 belong respectively in the general lingual and dental classes; the
 euphonic influence of `ṛ` and `ṝ` (189) shows this clearly. They are so
-ranked in the Paninean scheme; but the Prātiçākhyas in general strangely
+ranked in the Paninean scheme; but the Prātiśākhyas in general strangely
 class them with the `jihvāmūlīya` sounds, our “gutturals” (39).
 
 26\. The short `ṛ` is found in every variety of word and of position,
@@ -111,7 +111,7 @@ pronounced as they are transliterated — that is, as a long *e*- (English
 character.
 
 a\. Such they apparently already were to the authors of the
-Prātiçākhyas, which, while ranking them as diphthongs (`sandhyakṣara`),
+Prātiśākhyas, which, while ranking them as diphthongs (`sandhyakṣara`),
 give rules respecting their pronunciation in a manner implying them to
 be virtually unitary sounds. But their euphonic treatment (131–4)
 clearly shows them to have been still at the period when the euphonic
@@ -122,7 +122,7 @@ by the length of their *a*-element, as *āi* (*ā* + *i*) and *āu* (*ā* +
 *u*).
 
 b\. The recognizable distinctness of the two elements in the
-`vṛddhi`-diphthongs is noticed by the Prātiçākhyas (see APr. i. 40,
+`vṛddhi`-diphthongs is noticed by the Prātiśākhyas (see APr. i. 40,
 note); but the relation of those elements is either defined as equal, or
 the *a* is made of less quantity than the *i* and *u*.
 
@@ -142,12 +142,12 @@ a\. As to quantity and accent, see below 76 ff., 80 ff.
 II\. Consonants
 
 31\. The Hindu name for ‘consonant’ is `vyañjana` *manifester*. The
-consonants are divided by the grammarians into `sparça` *contact* or
+consonants are divided by the grammarians into `sparśa` *contact* or
 mute, `antaḥsthā`, *intermediate* or semivowel, and `ūṣman` *spirant*.
 They will here be taken up and described in this order.
 
-32\. Mutes. The mutes, `sparça`, are so called as involving a complete
-closure or contact (`sparça`), and not an approximation only, of the
+32\. Mutes. The mutes, `sparśa`, are so called as involving a complete
+closure or contact (`sparśa`), and not an approximation only, of the
 mouth-organs by which they are produced. They are divided into five
 classes or series (`varga`), according to the organs and parts of organs
 by which the contact is made; and each series is composed of five
@@ -219,14 +219,14 @@ the opinions of the highest authorities are much at variance. Sonant
 aspirates are still in use in India, in the pronunciation of the
 vernacular as well as of the learned language.
 
-d\. By the Prātiçākhyas, the aspirates of both classes are called
+d\. By the Prātiśākhyas, the aspirates of both classes are called
 `soṣman`: which might mean either *accompanied by a rush of breath*
 (taking `ūṣman` in its more etymological sense), or *accompanied by a
 spirant* (below, 59). And some native authorities define the surd
 aspirate as made by the combination of each surd non-aspirate with its
 own corresponding surd spirant, the `h`-sound (below, 65). But this
 would make the two classes of aspirates of quite diverse character, and
-would also make `th` the same as `ts`, `ṭh` as `ṭṣ`, `ch` as `cç` —
+would also make `th` the same as `ts`, `ṭh` as `ṭṣ`, `ch` as `cś` —
 which is in any measure plausible only of the last. Pāṇini has no name
 for aspirates; the scheme given in his comment (to i. 1. 9) attributes
 to them `mahāprāṇa` *great expiration*, and to the non-aspirates
@@ -254,7 +254,7 @@ We take up now the several mute series.
 are the ordinary European *k* and *g*-sounds, with their corresponding
 aspirates and nasal (the last, like English *ng* in *singing*).
 
-a\. The gutturals are defined by the Prātiçākhyas as made by contact of
+a\. The gutturals are defined by the Prātiśākhyas as made by contact of
 the base of the tongue with the base of the jaw, and they are called,
 from the former organ, `jihvāmūlīya` *tongue-root sounds*. The Paninean
 scheme describes them simply as made in the throat (`kaṇṭha`). From the
@@ -273,18 +273,18 @@ final `k` to a following nasal (161).
 Indo-European gutturals; these last have suffered more and more general
 corruption than any other class of consonants. By processes of
 alteration which began in the Indo-European period, the palatal mutes,
-the palatant sibilant `ç`, and the aspiration `h`, have come from
+the palatant sibilant `ś`, and the aspiration `h`, have come from
 gutturals. See these various sounds below.
 
 42\. Palatal series: च् `c`, छ् `ch`, ज् `j`, झ् `jh`, ञ् `ñ`.
 
 The whole palatal series is derivative, being generated by the
 corruption of original gutturals. The `c` comes from an original `k` —
-as does also, by another degree of alteration, the palatal sibilant `ç`
+as does also, by another degree of alteration, the palatal sibilant `ś`
 (see below, 64). The `j`, in like manner, comes from a `g`; but the
 Sanskrit `j` includes in itself two degrees of alteration, one
 corresponding to the alteration of `k` to `c`, the other to that of `k`
-to `ç` (see below, 219). The `c` is somewhat more common than the `j`
+to `ś` (see below, 219). The `c` is somewhat more common than the `j`
 (almost as four to three). The aspirate `ch` is very much less frequent
 (a tenth of `c`), and comes from the original group `sk`. The sonant
 aspirate `jh` is excessively rare (occurring but once in RV., not once
@@ -317,7 +317,7 @@ the hard palate at a point not far from the lingual one (below, 45), but
 with the upper flat surface of the tongue instead of its point. Such
 sounds, in all languages, pass easily into the (English) *ch*- and *j*-
 sounds. The value of the `ch` as making the preceding vowel “long by
-position” (227), and its frequent origination from `t` + `ç` (203), lead
+position” (227), and its frequent origination from `t` + `ś` (203), lead
 to the suspicion that it, at least, may have had this character from the
 beginning: compare 37 d, above.
 
@@ -340,7 +340,7 @@ of the language: dentals easily pass into linguals under the influence
 of contiguous or neighboring lingual sounds, but not the contrary; and
 all the sounds of the class become markedly more frequent in the later
 literature. The conditions of their ordinary occurrence are briefly
-these: 1. `ṣ` comes from s, much more rarely from `ç`, `j`, `kṣ`, in
+these: 1. `ṣ` comes from s, much more rarely from `ś`, `j`, `kṣ`, in
 euphonic circumstances stated below (180, 218 ff.); 2. a dental mute
 following `ṣ` is assimilated into it, becoming lingual (`ṭ`, `ṭh`, `ṇ`:
 197); 3. `n` is often changed to `ṇ` after a lingual vowel or semivowel
@@ -422,7 +422,7 @@ resembles the English smooth *r*, and, like this, seems to have been
 untrilled. 
 
 a\. The Paninean scheme reckons `r` as a lingual. None of the
-Prātiçākhyas, however, does so; nor are they entirely consistent with
+Prātiśākhyas, however, does so; nor are they entirely consistent with
 one another in its description. For the most part, they define it as
 made at “the roots of the teeth”. This would give it a position like
 that of the vibrated *r*; but no authority hints at a vibration as
@@ -491,7 +491,7 @@ though (as was stated above for the **`y`**) it may well have been less
 markedly separated from *u* than English *w*, or more like French *ou*
 in *oui* etc. But, as the original *w* has in most European languages
 been changed to *v* (English), so also in India, and that from a very
-early time: the Paninean scheme and two of the Prātiçākhyas (VPr. and
+early time: the Paninean scheme and two of the Prātiśākhyas (VPr. and
 TPr.) distinctly define the sound as made between the upper teeth and
 the lower lip — which, of course, identifies it with the ordinarily
 modern *v*-sound. As a matter of practice, the usual pronunciation need
@@ -567,7 +567,7 @@ a\. The final ṣ of a root has in some cases attained a more independent
 value, and does not revert to s when the euphonic conditions are
 removed, but shows anomalous forms (225–6).
 
-63\. The श् ç. This sibilant is by all the native authorities classed
+63\. The श् ś. This sibilant is by all the native authorities classed
 and described as palatal, nor is there anything in its history or
 euphonic treatment to cast doubt on its character as such. It is, then,
 made with the flat of the tongue against the forward part of the palatal
@@ -575,17 +575,17 @@ arch — that is to say, it is the usual and normal *sh*-sound. By
 European scholars it is variously pronounced — more often, perhaps, as
 *s* than as *sh*.
 
-a\. The two *sh*-sounds, ṣ and ç, are made in the same part of the mouth
+a\. The two *sh*-sounds, ṣ and ś, are made in the same part of the mouth
 (the ṣ probably rather further back), but with a different part of the
 tongue; and they are doubtless not more unlike than, for example, the
 two *t*-sounds, written ṭ and t; and it would be not less proper to
 pronounce them both as one *sh* than to pronounce the linguals and
-dentals alike. To neglect the difference of s and ç is much less to be
-approved. The very near relationship of ṣ and ç is attested by their
+dentals alike. To neglect the difference of s and ś is much less to be
+approved. The very near relationship of ṣ and ś is attested by their
 euphonic treatment, which is to a considerable extent the same, and by
 their not infrequent confusion by the writers of manuscripts.
 
-64\. As was mentioned above (41), the ç, like c, comes from the
+64\. As was mentioned above (41), the ś, like c, comes from the
 corruption of an original *k*-sound, by loss of mute-contact as well as
 forward shift of the point of production. In virtue of this derivation,
 it sometimes (though less often than c) “reverts” to k — that is, the
@@ -601,7 +601,7 @@ native authorities as not a surd element, but a sonant (or else an
 utterance intermediate between the two); and its whole value in the
 euphony of the language is that of a sonant: but what is its precise
 value is very hard to say. The Paninean scheme ranks it as guttural, as
-it does also a: this means nothing. The Prātiçākhyas bring it into no
+it does also a: this means nothing. The Prātiśākhyas bring it into no
 relation with the guttural class; one of them quotes the opinion of some
 authorities that “it has the same position with the beginning of the
 following vowel” (TPr. ii. 47) — which so far identifies it with our h.
@@ -619,18 +619,18 @@ derivation from dh and bh, see below, 223 g). It is a vastly more
 frequent sound than the unchanged gh (namely, as 7 to 1): more frequent,
 indeed, than any of the guttural mutes except k. It appears, like j
 (219), to include in itself two stages of corruption of gh: one
-corresponding with that of k to c, the other with that of k to ç; see
+corresponding with that of k to c, the other with that of k to ś; see
 below, 223, for the roots belonging to the two classes respectively.
 Like the other sounds of guttural derivation, it sometimes exhibits
 “reversion” (43) to its original.
 
 67\. The ः ḥ, or visarga (visarjanīya, as it is uniformly called by the
-Prātiçākhyas and by Pāṇini, probably as *belonging to the end of a
+Prātiśākhyas and by Pāṇini, probably as *belonging to the end of a
 syllable*), appears to be merely a surd breathing, a final *h*-sound (in
 the European sense of *h*), uttered in the articulating position of the
 preceding vowel.
 
-a\. One Prātiçākhya (TPr. ii. 48) gives just this last description of
+a\. One Prātiśākhya (TPr. ii. 48) gives just this last description of
 it. It is by various authorities classed with h, or with h and a: all of
 them are alike sounds in whose utterance the mouth-organs have no
 definite shaping action.
@@ -680,18 +680,18 @@ preceding vowel, turning it into a nasal vowel (as in French *on, en,
 un*, etc., by reason of a similar loss of a nasal mute); or whether it
 is an element of more individual character, having place between the
 vowel and the consonant; or, once more, whether it is sometimes the one
-thing and sometimes the other. The opinions of the Prātiçākhyas and
+thing and sometimes the other. The opinions of the Prātiśākhyas and
 Pāṇini are briefly as follows:
 
-b\. The Atharva-Prātiçākhya holds that the result is everywhere a
+b\. The Atharva-Prātiśākhya holds that the result is everywhere a
 nasalized vowel, except when n or m is assimilated to a following l; in
 that case, the n or m becomes a nasal l: that is, the nasal utterance is
 made in the l-position, and has a perceptible l-character.
 
-c\. The other Prātiçākhyas teach a similar conversion into a nasal
+c\. The other Prātiśākhyas teach a similar conversion into a nasal
 counterpart to the semivowel, or a nasal semivowel, before y and l and v
 (not before r also). In most of the other cases where the
-Atharva-Prātiçākhya acknowledges a nasal vowel — namely, before r and
+Atharva-Prātiśākhya acknowledges a nasal vowel — namely, before r and
 the spirants — the others teach the intervention after the vowel of a
 distinct nasal element, called the anusvāra *after-tone*.
 
@@ -712,10 +712,10 @@ held by some (and TPr. is uncertain and inconsistent in its choice
 between the one and the other).
 
 f\. In Pāṇini, finally, the prevailing doctrine is that of anusvāra
-everywhere, and it is even allowed in many cases where the Prātiçākhyas
+everywhere, and it is even allowed in many cases where the Prātiśākhyas
 prescribe only a nasal mute. But a nasal semivowel is also allowed
 instead before a semivowel, and a nasal vowel is allowed in the cases
-(mentioned above) where some of the Prātiçākhyas require it by
+(mentioned above) where some of the Prātiśākhyas require it by
 exception.
 
 g\. It is evidently a fair question whether this discordance and
@@ -733,7 +733,7 @@ see 183).
 nasal semivowel, or independent anusvāra, has the value of something
 added, in making a heavy syllable, or length by position (79).
 
-a\. The Prātiçākhyas (VPr., RPr.) give determinations of the quantity of
+a\. The Prātiśākhyas (VPr., RPr.) give determinations of the quantity of
 the anusvāra combining with a short and with a long vowel respectively
 to make a long syllable.
 
@@ -779,7 +779,7 @@ it occurred in an aggregate of 10,000 sounds of continuous text, in ten
 different passages, of 1,000 sounds each, selected from different epochs
 of the literature: namely, two from the Rig-Veda, one from the
 Atharva-Veda, two from different Brāhmaṇas, and one each from the Manu,
-Bhagavad-Gītā, Çakuntalā, Hitopadeça, and Vāsa-vadattā (J.A.O.S., vol.
+Bhagavad-Gītā, śakuntalā, Hitopadeśa, and Vāsa-vadattā (J.A.O.S., vol.
 X. p. c1). 
 
 III\. Quantity of sounds and syllables.
@@ -861,7 +861,7 @@ with the ordinary sign of the acute, and the svarita or circumflex (as
 being a downward slide of the voice forward) with what is usually called
 the grave accent: thus, á, acute, yà or và, circumflex. 
 
-84\. The Prātiçākhyas distinguish and name separately the circumflexed
+84\. The Prātiśākhyas distinguish and name separately the circumflexed
 tones arising by different processes of combination: thus, the
 circumflex is called
 
@@ -880,10 +880,10 @@ majority of cases, to be read with restoration of the acute vowel as a
 separate syllable; thus, apsú antár, súar, nadī́as, etc. In some texts,
 part of them are written correspondingly, thus, súvar, tanúvā, budhníya.
 
-d\. Praçliṣṭa, when the acute and grave vowels are of such character
+d\. Praśliṣṭa, when the acute and grave vowels are of such character
 that they are fused into a long vowel or diphthong (128 c): thus, divī̀
 ’va (RV. AV. etc.), from diví iva; sū̀dgātā (TS.), from sú-udgātā; nāì
-’vā̀ ’çnīyāt (ÇB.), from ná evá açnīyāt.
+’vā̀ ’śnīyāt (śB.), from ná evá aśnīyāt.
 
 e\. Abhinihita, when an initial grave a is absorbed by a final acute é
 or ó (135 a): thus, tè ’bruvan, from té abruvan; sò ’bravīt, from só
@@ -922,7 +922,7 @@ two are quite differently indicated.
 
 87\. The accentuation is marked in manuscripts only of the older
 literature: namely, in the primary Vedic texts, or saṁhitās, in two of
-the Brāhmaṇas (Tāittirīya and Çatapatha), in the Tāittirīya-Āraṇyaka, in
+the Brāhmaṇas (Tāittirīya and śatapatha), in the Tāittirīya-Āraṇyaka, in
 certain passages of the Āitareya-Āraṇyaka, and in the Suparṇādhyāya.
 There are a number of methods of writing accent, more or less different
 from one another; the one found in manuscripts of the Rig-Veda, which is
@@ -949,11 +949,11 @@ are left unmarked, until the occurrence of another accented syllable
 causes the one which precedes it to take the preparatory stroke below.
 Thus,
 
-सु॒दृशी॑कसँदृक् sudṛ́çīkasaṁdṛk;
+सु॒दृशी॑कसँदृक् sudṛ́śīkasaṁdṛk;
 
 but
 
-सु॒दृशी॑कसँदृ॒ग्गवा॑म् sudṛ́çīkasaṁdṛg gávām.
+सु॒दृशी॑कसँदृ॒ग्गवा॑म् sudṛ́śīkasaṁdṛg gávām.
 
 d\. If an independent circumflex be followed by an acute (or by another
 independent circumflex), a figure 1 is set after the former circumflexed
@@ -966,7 +966,7 @@ are applied as in the following examples:
 
 
 The rationale of this mode of designation is not well understood; the
-Prātiçākhyas give no account of it. In the scholastic utterance of the
+Prātiśākhyas give no account of it. In the scholastic utterance of the
 syllable so designated is made a peculiar quaver or *roulade* of the
 voice, called kampa or vikampana.
 
@@ -989,7 +989,7 @@ RV. method). The independent circumflex has a hook beneath the syllable,
 and the circumflex before an acute (87 d) is denoted simply by a figure
 3, standing before instead of after the circumflexed syllable.
 
-c\. The Çatapatha-Brāhmaṇa uses only a single accent-sign, the
+c\. The śatapatha-Brāhmaṇa uses only a single accent-sign, the
 horizontal stroke beneath the syllable (like the mark for grave in RV.).
 This is put under an acute, or, if two or more acutes immediately follow
 one another, only under the last of them. To mark an independent
@@ -1023,7 +1023,7 @@ implied.
 
 90\. The theory of the Sanskrit accent, as here given (a consistent and
 intelligible body of phenomena), has been overlaid by the Hindu
-theorists, especially of the Prātiçākhyas, with a number of added
+theorists, especially of the Prātiśākhyas, with a number of added
 features, of a much more questionable character. Thus:
 
 a\. The unmarked grave syllables following a circumflex (either at the
@@ -1039,7 +1039,7 @@ pitch, however, in the case of an independent circumflex which is
 immediately followed by another ascent of the voice to higher pitch, in
 acute or independent circumflex (a kampa syllable: 87 d).
 
-c\. Pāṇini gives the ambiguous name of ekaçruti (*monotone*) to the
+c\. Pāṇini gives the ambiguous name of ekaśruti (*monotone*) to the
 pracita syllables, and says nothing of the uplifting of the circumflex
 to a higher plane; he teaches, however, a depression below the grave
 pitch for the marked grave syllable before acute or circumflex, calling
@@ -1109,8 +1109,8 @@ rules of inflection or derivation or composition place it, without
 regard to any thing else.
 
 a\. Thus, índre, agnāú, índreṇa, agnínā, agninā́m, bāhúcyuta, ánapacyuta,
-parjányajinvita, abhimātiṣāhá, ánabhimlātavarṇa, abhiçasticā́tana,
-híraṇyavāçīmattama, cátuçcatvāriṅçadakṣara.
+parjányajinvita, abhimātiṣāhá, ánabhimlātavarṇa, abhiśasticā́tana,
+híraṇyavāśīmattama, cátuścatvāriṅśadakṣara.
 
 96\. Since the accent is marked only in the older literature, and the
 statements of the grammarians, with the deduced rules of accentuation,

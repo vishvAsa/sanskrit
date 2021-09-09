@@ -272,7 +272,7 @@ imperative as well.
 b\. In the middle, a long `ā` — which, however, with the final `a` of
 `a`-stems becomes `e` — has become prefixed to all dual endings of the
 second and third persons, so as to form an inseparable part of them
-(`dīdhīthām` AV., and `jihīthām` ÇB., are isolated anomalies). The
+(`dīdhīthām` AV., and `jihīthām` śB., are isolated anomalies). The
 primary endings, present and perfect, are `āthe` and `āte`; the
 secondary (and imperative) are `āthām` and `ātām` (or, with stem-final
 `a`, `ethe` etc.).
@@ -584,9 +584,9 @@ root or stem ending in `s` sometimes drops this `s` instead of the added
 `t` in the third person – in either case, establishing the ordinary
 relation of `s` and `t` in these persons, instead of `s` and `s`, or `t`
 and `t`. The examples noted are: 2d sing. `aves` (to 3d sing. `avet`),
-√`vid`, AB.; 3d sing. `akat`, √`kṛ`, ÇB. `aghat`, √`ghas`, JB. AÇS.;
-`acakāt`, √`cakās`, RT.; `açāt`, √`çās`, AB. MBh. R.; `asrat`, √`sras`,
-VS.; `ahinat`, √`hiṅs`, ÇB. TB. GB. Compare also the `s`-aorist forms
+√`vid`, AB.; 3d sing. `akat`, √`kṛ`, śB. `aghat`, √`ghas`, JB. AśS.;
+`acakāt`, √`cakās`, RT.; `aśāt`, √`śās`, AB. MBh. R.; `asrat`, √`sras`,
+VS.; `ahinat`, √`hiṅs`, śB. TB. GB. Compare also the `s`-aorist forms
 `ayās` and `srās` (146 a), in which the same influence is to be seen;
 and further, `ajāit` etc. (889 a), and precative `yāt` for `yās` (837).
 A similar loss of any other final consonant is excessively rare; AV. has
@@ -1020,7 +1020,7 @@ numbers, is made by adding `tāt` to a present tense-stem — in its weak
 form, if it have a distinction of strong and weak form.
 
 a\. Examples are:
-`brūtāt, hatāt, vittā́t; pipṛtāt, jahītāt, dhattā́t; kṛṇutāt, kurutāt; gṛhṇītāt, jānītā́t; ávatāt, rákṣatāt, vasatāt; viçatāt, sṛjatāt; asyatāt, naçyatāt, chyatāt; kriyatāt`;
+`brūtāt, hatāt, vittā́t; pipṛtāt, jahītāt, dhattā́t; kṛṇutāt, kurutāt; gṛhṇītāt, jānītā́t; ávatāt, rákṣatāt, vasatāt; viśatāt, sṛjatāt; asyatāt, naśyatāt, chyatāt; kriyatāt`;
 `gamayatāt, cyāvayatāt, vārayatāt`; `īpsatāt; jāgṛtāt`. No examples
 have been found from a nasal-class verb (690), nor any other than those
 here given from a passive, intensive, or desiderative. The few accented
@@ -1042,7 +1042,7 @@ future imperative.
 
 a\. Examples are:
 `ihāi ’vá mā tíṣṭhantam abhyèhī́ ’ti brūhi tā́ṁ tú na ā́gatām pratiprábrūtāt`
-(ÇB.) *say to her "come to me as I stand just here," and \[afterward\]
+(śB.) *say to her "come to me as I stand just here," and \[afterward\]
 announce her to us as having come*;
 `yád ūrdhvás tíṣṭhā dráviṇe ’há dhattāt` (RV.) *when thou shalt stand
 upright, \[then\] bestow riches here* (and similarly in many cases);
@@ -1053,11 +1053,11 @@ thee, \[then\] take note of it*.
 
 b\. Examples of its use as other than 2d sing. are as follows: 1st
 sing., `āvyuṣáṁ jāgṛtād ahám` (AV.; only case) *let me watch till
-daybreak*; as 3d sing., `púnar mā́ ”viçatād rayíḥ` (TS.) *let wealth come
-again to me*, `ayáṁ tyásya rā́jā mūrdhā́naṁ ví pātayatāt` (ÇB.) *the king
+daybreak*; as 3d sing., `púnar mā́ ”viśatād rayíḥ` (TS.) *let wealth come
+again to me*, `ayáṁ tyásya rā́jā mūrdhā́naṁ ví pātayatāt` (śB.) *the king
 here shall make his head fly off*; as 2d du.,
 `nā́satyāv abruvan devā́ḥ púnar ā́ vahatād íti` (RV.) *the gods said to the
-two Açvins "bring them back again"*; as 2d pl.,
+two Aśvins "bring them back again"*; as 2d pl.,
 `ā́paḥ ... devéṣu naḥ sukṛ́to brūtāt` (TS.) *ye waters, announce us to the
 gods as well-doers*. In the later language, the prevailing value appears
 to be that of a 3d sing.: thus, `bhavān prasādaṁ kurutāt` (MBh.) *may
@@ -1071,7 +1071,7 @@ to be quotable.
 d\. In a certain passage repeated several times in different Brāhmaṇas
 and Sūtras, and containing a number of forms in `tāt` used as 2d pl.,
 `vārayadhvāt` is read instead of `vārayatāt` in some of the texts (K.
-AB. AÇS. ÇÇS.). No other occurrence of the ending `dhvāt` has been
+AB. AśS. śśS.). No other occurrence of the ending `dhvāt` has been
 anywhere noted. 
 
 Uses of the Modes.
@@ -1116,7 +1116,7 @@ conditional and contingent, in a wide and increasing variety of uses.
 c\. The so-called precative forms (567) are ordinarily used in the
 proper optative sense. But in the later language they are occasionally
 met with in the other uses of the optative: thus,
-`na hi prapaçyāmi mamā ’panudyād yac chokam` (Bh G.) *for I do not
+`na hi prapaśyāmi mamā ’panudyād yac chokam` (Bh G.) *for I do not
 perceive what should dispel my grief*; `yad bhūyāsur vibhūtayaḥ` (BhP.)
 *that there should be changes*. Also rarely with `mā`: see 579 b. 
 
@@ -1146,11 +1146,11 @@ degree: command, requisition, wish; and no sharp line of division exists
 between them; they are more or less exchangeable with one another, and
 combinable in coördinate clauses.
 
-a\. Thus, in AV., we have in impv.: `çatáṁ jīva çarádaḥ ` *do thou live
+a\. Thus, in AV., we have in impv.: `śatáṁ jīva śarádaḥ ` *do thou live
 a hundred autumns*; `ubhāú tāú jīvatāṁ jarádaṣṭī` *let them both live to
 attain old age*; — in subj., `adyá jīvāni` *let me live this day*;
-`çatáṁ jīvāti çarádaḥ` *he shall live a hundred autumns;* — in opt.,
-`jī́vema çarádāṁ çatā́ni` *may we live hundreds of autumns*;
+`śatáṁ jīvāti śarádaḥ` *he shall live a hundred autumns;* — in opt.,
+`jī́vema śarádāṁ śatā́ni` *may we live hundreds of autumns*;
 `sárvam ā́yur jīvyāsam` (prec.) *I would fain live out my whole term of
 life*. Here the modes would be interchangeable with a hardly perceptible
 change of meaning.
@@ -1174,14 +1174,14 @@ equivalent — having, for instance, a general future meaning.
 optative in the older language, in independent clauses, may be quoted
 the following: `ā́ ghā tā́ gacchān úttarā yugā́ni` (RV.) *those later ages
 will doubtless come*; `yád ... na marā íti mányase` (RV.) *if thou
-thinkest "I shall not die"*; `ná tā́ naçanti ná dabhāti táskaraḥ` (RV.)
+thinkest "I shall not die"*; `ná tā́ naśanti ná dabhāti táskaraḥ` (RV.)
 *they do not become lost; no thief can harm them*;
 `kásmāi devā́ya havíṣā vidhema` (RV.) *to what god shall we offer
-oblation?* `agnínā rayím açnavat ... divé-dive` (RV.) *by Agni one may
+oblation?* `agnínā rayím aśnavat ... divé-dive` (RV.) *by Agni one may
 gain wealth every day*;
-`utāí ’nām brahmáṇe dadyāt táthā syonā́ çivā́ syāt` (AV.) *one should give
+`utāí ’nām brahmáṇe dadyāt táthā syonā́ śivā́ syāt` (AV.) *one should give
 her, however, to a Brahman; in that case she will be propitious and
-favorable*; `áhar-ahar dadyāt` (ÇB.) *one should give every day*.
+favorable*; `áhar-ahar dadyāt` (śB.) *one should give every day*.
 
 577\. The uses of the optative in the later language are of the utmost
 variety, covering the whole field occupied jointly by the two modes in
@@ -1191,7 +1191,7 @@ will not eat of the remnant of the sacrifice, I will not perform the
 foot-lavation*; `jñātīn vrajet` *let her go to her relatives*;
 `nāi ’vaṁ sā karhicit kuryāt` *she should not act thus at any time*;
 `kathaṁ vidyāṁ nalaṁ nṛpam` *how can I know king Nala?*
-`utsarge saṁçayaḥ syāt tu vindetā ’pi sukhaṁ kvacit` *but in case of her
+`utsarge saṁśayaḥ syāt tu vindetā ’pi sukhaṁ kvacit` *but in case of her
 abandonment there may be a chance; she may also find happiness
 somewhere*; `kathaṁ vāso vikarteyaṁ na ca budhyeta me priyā` *how can I
 cut off the garment and my beloved not wake?*
@@ -1206,12 +1206,12 @@ period of the language regularly and usually expressed by the particle
 mā́ with an augmentless past form, prevailingly aorist.
 
 a\. Thus, `prá pata mé ’há raṁsthāḥ` (AV.) *fly away, do not stay here*;
-`dviṣáṅç ca máhyaṁ radhyatu mā́ cā ’háṁ dviṣaté radham` (AV.) *both let
+`dviṣáṅś ca máhyaṁ radhyatu mā́ cā ’háṁ dviṣaté radham` (AV.) *both let
 my foe be subject to me, and let me not be subject to my foe*;
-`urv àçyām ábhayaṁ jyótir indra mā́ no dīrghā́ abhí naçan tamisrā́ḥ` (RV.)
+`urv àśyām ábhayaṁ jyótir indra mā́ no dīrghā́ abhí naśan tamisrā́ḥ` (RV.)
 *I would win broad fearless light, O Indra; let not the long darknesses
 come upon us*; `mā́ na ā́yuḥ prá moṣīḥ` (RV.) *do not* *steal away our
-life*; `samāçvasihi mā çucaḥ` (MBh.) *be comforted; do not grieve;*
+life*; `samāśvasihi mā śucaḥ` (MBh.) *be comforted; do not grieve;*
 `mā bhāiṣīḥ` or `bhāiḥ` (MBh. R.) *do not be afraid;*
 `mā bhūt kālasya paryayaḥ` (R.) *let not a change of time take place.*
 Examples with the imperfect are: `mā́ bibher ná mariṣyasi` (RV.) *do not
@@ -1233,10 +1233,10 @@ is probably corrupt. No other such case is met with in the older
 language (unless `sṛpa`. TA. i. 14; doubtless a bad reading for
 `sṛpas`); but in the epics and later the construction begins to appear,
 and becomes an ordinary form of prohibition: thus,
-`mā prayacche ”çvare dhanam` (H.) *do not bestow wealth on a lord;*
+`mā prayacche ”śvare dhanam` (H.) *do not bestow wealth on a lord;*
 `sakhi māi ’vaṁ vada` (Vet.) *friend, do not speak thus.*
 
-d\. The ÇB. (xi. 5. 1 ¹) appears to offer a single example of a true
+d\. The śB. (xi. 5. 1 ¹) appears to offer a single example of a true
 subjunctive with `mā, ní padyāsāi`; there is perhaps something wrong
 about the reading.
 
@@ -1244,15 +1244,15 @@ e\. In the epics and later, an aorist form not deprived of augment is
 occasionally met with after `mā`: thus, `mā tvāṁ kālo ‘tyagāt` (MBh.)
 *let not the time pass thee;* `mā vālipatham anv agāḥ` (R.) *do not
 follow Vāli's road.* But the same anomaly occurs also two or three times
-in the older language: thus, `vyàpaptat` (ÇB.), `agās` (TA.), `anaçat`
+in the older language: thus, `vyàpaptat` (śB.), `agās` (TA.), `anaśat`
 (KS.).
 
 580\. But the use also of the optative with `ná` *not* in a prohibitive
 sense appears in the Veda, and becomes later a familiar construction:
 thus, `ná riṣyema kadā́ caná` (RV.) *may we suffer no harm at any time;*
 `ná cā ’tisṛjén ná juhuyāt` (AV.) *and if he do not grant permission,
-let him not sacrifice;* `tád u táthā ná kuryāt` (ÇB.) *but he must not
-do that so;* `na divā çayīta` (ÇGS.) *let him not sleep by day;*
+let him not sacrifice;* `tád u táthā ná kuryāt` (śB.) *but he must not
+do that so;* `na divā śayīta` (śGS.) *let him not sleep by day;*
 `na tvāṁ vidyur janāḥ` (MBh.) *let not people know thee.* This in the
 later language is the correlative of the prescriptive optative, and both
 are extremely common; so that in a text of prescriptive character the
@@ -1267,15 +1267,15 @@ later language, such uses are represented by the optative alone. A few
 examples will be sufficient to illustrate this:
 
 a\. After relative pronouns and conjunctions in general:
-`yā́ vyūṣúr yā́ç ca nūnáṁ vyucchā́n` (RV.) *which have shone forth
+`yā́ vyūṣúr yā́ś ca nūnáṁ vyucchā́n` (RV.) *which have shone forth
 \[hitherto\], and which shall hereafter shine forth*;
 `yó ‘to jā́yātā asmā́kaṁ sá éko ‘sat` (TS.) *whoever shall be born of her,
 let him be one of us*;
 `yó vāí tā́n vidyā́t pratyákṣaṁ sá brahmā́ véditā syāt` (AV.) *whoever
 shall know them face to face, he may pass for a knowing priest*;
-`putrā́ṇāṁ ... jātā́nāṁ janáyāç ca yā́n` (AV.) *of sons born and whom thou
+`putrā́ṇāṁ ... jātā́nāṁ janáyāś ca yā́n` (AV.) *of sons born and whom thou
 mayest bear*; `yásya ... átithir gṛhā́n āgácchet` (AV.) *to whosesoever
-house he may come as guest*; `yatamáthā kāmáyeta táthā kuryāt` (ÇB.) *in
+house he may come as guest*; `yatamáthā kāmáyeta táthā kuryāt` (śB.) *in
 whatever way he may choose, so may he do it*;
 `yárhi hótā yájamānasya nā́ma gṛhṇīyā́t tárhi brūyāt` (TS.) *when the
 sacrificing priest shall name the name of the offerer, then he may
@@ -1283,27 +1283,27 @@ speak*; `svarūpaṁ yadā draṣṭum icchethāḥ` (MBh.) *when thou shalt des
 to see thine own form*.
 
 b\. In more distinctly conditional constructions:
-`yájāma devā́n yádi çaknávāma` (RV.) *we will offer to the gods if we
+`yájāma devā́n yádi śaknávāma` (RV.) *we will offer to the gods if we
 shall be able*;
-`yád agne syā́m aháṁ tváṁ tváṁ vā ghā syā́ aháṁ syúṣ ṭe satyā́ ihā́ ”çíṣaḥ`
+`yád agne syā́m aháṁ tváṁ tváṁ vā ghā syā́ aháṁ syúṣ ṭe satyā́ ihā́ ”śíṣaḥ`
 (RV.) *if I were thou, Agni, or if thou wert I, thy wishes should be
 realized on the spot*;
 `yó dyā́m atisárpāt parástān ná sá mucyātāi váruṇasya rā́jñaḥ` (AV.)
 *though one steal far away beyond the sky, he shall not escape king
 Varuna*;
-`yád ánāçvān upaváset kṣódhukaḥ syād yád açnīyā́d rudrò ‘sya paçū́n abhí manyeta`
+`yád ánāśvān upaváset kṣódhukaḥ syād yád aśnīyā́d rudrò ‘sya paśū́n abhí manyeta`
 (TS.) *if he should continue without eating, he would starve; if he
 should eat, Rudra would attack his cattle*;
-`prārthayed yadi māṁ kaçcid daṇḍyaḥ sa me pumān bhavet` (MBh.) *if any
+`prārthayed yadi māṁ kaścid daṇḍyaḥ sa me pumān bhavet` (MBh.) *if any
 man soever should desire me, he should suffer punishment*. These and the
 like constructions, with the optative, are very common in the
 `Brāhmaṇas` and later.
 
-c\. In final clauses: `yáthā ’háṁ çatruhó ‘sāni` (AV.) *that I may be a
+c\. In final clauses: `yáthā ’háṁ śatruhó ‘sāni` (AV.) *that I may be a
 slayer of my enemies*; `gṛṇānā́ yáthā píbātho ándhaḥ` (RV.) *that being
 praised with song ye may drink the draught*;
-`urāú yáthā táva çárman mádema` (RV.) *in order that we rejoice in thy
-wide protection*; `úpa jānīta yáthe ‘yám púnar āgácchet` (ÇB.) *contrive
+`urāú yáthā táva śárman mádema` (RV.) *in order that we rejoice in thy
+wide protection*; `úpa jānīta yáthe ‘yám púnar āgácchet` (śB.) *contrive
 that she come back again*; `kṛpāṁ kuryād yathā mayi` (MBh.) *so that he
 may take pity on me*. This is in the Veda one of the most frequent uses
 of the subjunctive; and in its correlative negative form, with `néd` *in
@@ -1311,10 +1311,10 @@ order that not* or *lest* (always followed by an accented verb), it
 continues not rare in the Brāhmaṇas.
 
 d\. The indicative is also very commonly used in final clauses after
-`yathā`: thus, `yáthā ’yáṁ púruṣo ‘ntárikṣam anucárati` (ÇB.) *in order
+`yathā`: thus, `yáthā ’yáṁ púruṣo ‘ntárikṣam anucárati` (śB.) *in order
 that this man may traverse the atmosphere*; `yathā na vighnaḥ kriyate`
 (R.) *so that no hindrance may arise*;
-`yathā ’yaṁ naçyati tathā vidheyam` (H.) *it must be so managed that he
+`yathā ’yaṁ naśyati tathā vidheyam` (H.) *it must be so managed that he
 perish*. 
 
 e\. With the conditional use of subjunctive and optative is farther to
@@ -1444,7 +1444,7 @@ formations.
 
 590\. The consonant of the reduplicating syllable is in general the
 first consonant of the root: thus, पप्रछ् `paprach` from √प्रछ् `prach`;
-शिश्रि `çiçri` from √श्रि `çri`; बुबुध् `bubudh` from √बुध्. But —
+शिश्रि `śiśri` from √श्रि `śri`; बुबुध् `bubudh` from √बुध्. But —
 
 a\. A non-aspirate is substituted in reduplication for an aspirate:
 thus, दधा `dadhā` from √धा; बिभृ `bibhṛ` from √भृ `bhṛ`.
@@ -1460,10 +1460,10 @@ d\. Of two initial consonants, the second, if it be a non-nasal mute
 preceded by a sibilant, is repeated instead of the first: thus, तस्तृ
 `tasṭr` from √स्तृ `stṛ`; तस्था `tasthā` from √स्था `sthā`; चस्कन्द्
 `caskand` from √स्कन्द् `skand`; चस्खल् `caskhal` from √स्खल् `skhal`;
-चुश्चुत् `cuçcut` from √श्चुत् `çcut`; पस्पृध् `paspṛdh` from √स्पृध्
+चुश्चुत् `cuścut` from √श्चुत् `ścut`; पस्पृध् `paspṛdh` from √स्पृध्
 `spṛdh`; पुस्फुट् `pusphuṭ` from √स्फुट् `sphuṭ`: — but सस्ना `sasnā`
 from √स्ना `snā`; सस्मृ `sasmṛ` from √स्मृ `smṛ`; सुस्रु `susru` from
-√स्रु `sru`; शिश्लिष् `çiçliṣ` from √श्लिष् `çliṣ`.
+√स्रु `sru`; शिश्लिष् `śiśliṣ` from √श्लिष् `śliṣ`.
 
 Accent of the Verb.
 
@@ -1491,9 +1491,9 @@ whatever be the logical connection of the `pāda` with what precedes it.
 b\. Examples of the unaccented verb are: `agním īḍe puróhitam` *Agni I
 praise, the house-priest;* `sá íd devéṣu gacchati` *that, truly, goes to
 the gods;* `ágne sūpāyanó bhava` *O Agni, be easy of access;*
-`idám indra çṛṇuhi somapa` *this, O Indra, soma-drinker, hear;*
+`idám indra śṛṇuhi somapa` *this, O Indra, soma-drinker, hear;*
 `námas te rudra kṛṇmaḥ` *homage to thee, Rudra, we offer;*
-`yájamānasya paçū́n pāhi` *the sacrificer's cattle protect thou.*
+`yájamānasya paśū́n pāhi` *the sacrificer's cattle protect thou.*
 
 c\. Hence, there are two principal situations in which the verb retains
 its accent: 
@@ -1502,16 +1502,16 @@ its accent:
 clause — or, in verse, of a `pāda`.
 
 a\. Examples of the verb accented at the head of the sentence are, in
-prose, `çúndhadhvaṁ dāívyāya kármaṇe` *be pure for the divine ceremony*;
+prose, `śúndhadhvaṁ dāívyāya kármaṇe` *be pure for the divine ceremony*;
 `āpnótī ’máṁ lokám` *he wins this world*; in verse, where the head of
-the sentence is also that of the `pāda`, `syā́mé ’d índrasya çármaṇi`
-*may we be in Indra's protection*; `darçáya mā yātudhā́nān` *show me the
+the sentence is also that of the `pāda`, `syā́mé ’d índrasya śármaṇi`
+*may we be in Indra's protection*; `darśáya mā yātudhā́nān` *show me the
 sorcerers*; `gámad vā́jebhir ā́ sá naḥ` *may he come with good things to
 us*; — in verse, where the head of the clause is within the `pāda`,
-`téṣām pāhi çrudhī́ hávam` *drink of them, hear our call*;
-`sástu mātā́ sástu pitā́ sástu çvā́ sástu viçpátiḥ` *let the mother sleep,
+`téṣām pāhi śrudhī́ hávam` *drink of them, hear our call*;
+`sástu mātā́ sástu pitā́ sástu śvā́ sástu viśpátiḥ` *let the mother sleep,
 let the father sleep, let the dog sleep, let the master sleep*;
-`víçvakarman námas te pāhy àsmā́n` *Viçvakarman, homage to thee; protect
+`víśvakarman námas te pāhy àsmā́n` *Viśvakarman, homage to thee; protect
 us!* `yuvā́m ... rā́jña ūce duhitā́ pṛcché vāṁ narā` *the king's daughter
 said to you "I pray you, ye men"*;
 `vayáṁ te váya indra viddhí ṣu ṇaḥ prá bharāmahe` *we offer thee, Indra,
@@ -1529,10 +1529,10 @@ girl a husband according to her wish*; `yātudhānasya somapa jahí prajā́m`
 a\. As a vocative forms no syntactical part of the sentence to which it
 is attached, but is only an external appendage to it, a verb following
 an initial vocative, or more than one, is accented, as if it were itself
-initial in the clause or `pāda`: thus, `ā́çrutkarṇa çrudhī́ hávam` *O thou
+initial in the clause or `pāda`: thus, `ā́śrutkarṇa śrudhī́ hávam` *O thou
 of listening ears, hear our call!* `sī́te vándāmahe tvā` *O Sītā, we
-reverence thee;* `víçve devā vásavo rákṣate ’mám` *all ye gods, ye
-Vasus, protect this man;* `utā́ ”gaç cakrúṣaṁ devā dévā jīváyathā púnaḥ`
+reverence thee;* `víśve devā vásavo rákṣate ’mám` *all ye gods, ye
+Vasus, protect this man;* `utā́ ”gaś cakrúṣaṁ devā dévā jīváyathā púnaḥ`
 *likewise him, O gods, who has committed crime, ye gods, ye make to live
 again.*
 
@@ -1551,12 +1551,12 @@ c\. In like manner (but much less often), an adjunct, as subject or
 object, standing between two verbs and logically belonging to both, is
 reckoned to the first alone, and the second has the initial accent:
 thus, `jahí prajā́ṁ náyasva ca` *slay the progeny, and bring \[it\]
-hither*; `çṛṇótu naḥ subhágā bódhatu tmánā` *may the blessed one hear
+hither*; `śṛṇótu naḥ subhágā bódhatu tmánā` *may the blessed one hear
 us, \[and may she\] kindly regard \[us\].* 
 
 d\. It has even come to be a formal rule that a verb immediately
 following another verb is accented: thus,
-`sá yá etám evám upā́ste pūryáte prajáyā paçúbhiḥ` (ÇB.) *whoever
+`sá yá etám evám upā́ste pūryáte prajáyā paśúbhiḥ` (śB.) *whoever
 worships him thus is filled with offspring and cattle*.
 
 595\. Second, the verb is accented, whatever its position, in a
@@ -1565,12 +1565,12 @@ dependent clause.
 a\. The dependency of a clause is in the very great majority of cases
 conditioned by the relative pronoun `ya`, or one of its derivatives or
 compounds. Thus: `yáṁ yajñám paribhū́r ási` *what offering thou
-protectest*; `ó té yanti yé aparī́ṣu páçyān` *they are coming who shall
+protectest*; `ó té yanti yé aparī́ṣu páśyān` *they are coming who shall
 behold her hereafter;* `sahá yán me ásti téna` *along with that which is
 mine;* `yátra naḥ pū́rve pitáraḥ pareyúḥ` *whither our fathers of old
 departed*; `adyā́ murīya yádi yātudhā́no ásmi` *let me die on the spot, if
 I am a sorcerer;* `yáthā́ ’hāny anupūrvám bhávanti` *as days follow one
-another in order;* `yā́vad idám bhúvanaṁ víçvam ásti` *how great this
+another in order;* `yā́vad idám bhúvanaṁ víśvam ásti` *how great this
 whole creation is;* `yátkāmās te juhumás tán no astu` *what desiring we
 sacrifice to thee, let that become ours;* `yatamás títṛpsāt` *whichever
 one desires to enjoy.*
@@ -1584,7 +1584,7 @@ pleasure.*
 
 c\. The particle `ca` when it means *if*, and `céd (ca+id)` *if*, give
 an accent to the verb: thus, `brahmā́ céd dhástam ágrahīt` *if a Brahman
-has grasped her hand;* `tváṁ ca soma no váço jīvā́tuṁ ná marāmahe` *if
+has grasped her hand;* `tváṁ ca soma no váśo jīvā́tuṁ ná marāmahe` *if
 thou, Soma, willest us to live, we shall not die;*
 `ā́ ca gácchān mitrám enā dadhāma` *if he will come here, we will make
 friends with him.*
@@ -1592,7 +1592,7 @@ friends with him.*
 d\. There are a very few passages in which the logical dependence of a
 clause containing no subordinating word appears to give the verb its
 accent: thus,
-`sám áçvaparṇāç cáranti no náro ‘smā́kam indra rathíno jayantu` *when our
+`sám áśvaparṇāś cáranti no náro ‘smā́kam indra rathíno jayantu` *when our
 men, horse-winged, come into conflict, let the chariot-fighters of our
 side, O Indra, win the victory*. Rarely, too, an imperative so following
 another imperative that its action may seem a consequence of the
@@ -1606,7 +1606,7 @@ negation `nahí`), which in its fullest value means *for*, but shades off
 from that into a mere asseverative sense; the verb or verbs connected
 with it are always accented: thus, `ví té muñcantāṁ vimúco hí sánti`
 *let them release him, for they are releasers;*
-`yác cid dhí ... anāçastā́ iva smási` *if we, forsooth, are as it were
+`yác cid dhí ... anāśastā́ iva smási` *if we, forsooth, are as it were
 unrenowned;* — also `néd (ná+íd)`, meaning *lest, that not:* thus,
 `nét tvā tápāti sū́ro arcíṣā` *that the sun may not burn thee with his
 beam;* `virā́jaṁ néd vicchinádānī́ ’ti` *saying to himself,* *"lest I cut
@@ -1657,13 +1657,13 @@ is a rule more strictly followed in the `Brāhmaṇas` than in the Veda,
 and least strictly in the RV.: thus, in RV., `abhí dyā́m mahinā́ bhuvam`
 (not `bhúvam`) `abhī̀ ’mām pṛthivī́m mahī́m` *I am superior to the sky in
 greatness, also to this great earth;* and even
-`índro vidur án̄girasaç ca ghorā́ḥ` *Indra knows, and the terrible
+`índro vidur án̄girasaś ca ghorā́ḥ` *Indra knows, and the terrible
 Angirases.*
 
 598\. There are certain more or less doubtful cases in which a verb-form
 is perhaps accented for emphasis.
 
 a\. Thus, sporadically before `caná` *in any wise*, and in connection
-with asseverative particles, as `kíla, an̄gá, evá,` and (in ÇB.,
+with asseverative particles, as `kíla, an̄gá, evá,` and (in śB.,
 regularly) `hánta`: thus, `hánte ’mā́m pṛthivī́ṁ vibhájāmahāi` *come on!
 let us share up this earth.*

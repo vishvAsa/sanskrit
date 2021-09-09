@@ -46,18 +46,18 @@ only in the singular.
 the dual is (with only very rare and sporadic exceptions) used strictly
 in all cases where two objects are logically indicated, whether directly
 or by combination of two individuals: thus,
-`çivé te dyā́vāpṛthivī́ ubhé stām` *may heaven and earth both be
+`śivé te dyā́vāpṛthivī́ ubhé stām` *may heaven and earth both be
 propitious to thee!* `dāivaṁ ca mānuṣaṁ ca hotārāu vṛtvā` *having chosen
 both the divine and the human sacrificers*;
 `pathor devayānasya pitṛyāṇasya ca` *of the two paths leading
 respectively to the gods and to the Fathers*. 
 
 a\. The dual is used alone (without `dva` *two*) properly when the
-duality of the objects indicated is well understood; thus, `açvínāu`
-*the two Açvins*; `índrasya hárī` *Indra's two bays*; but
-`tasya dvāv açvāu staḥ` *he has two horses*. But now and then the dual
+duality of the objects indicated is well understood; thus, `aśvínāu`
+*the two Aśvins*; `índrasya hárī` *Indra's two bays*; but
+`tasya dvāv aśvāu staḥ` *he has two horses*. But now and then the dual
 stands alone pregnantly: thus, `vedaṁ vedāu vedān vā` *one Veda or two
-or more than two*; `ekaṣaṣṭe çate` *two hundred and sixty-one*.
+or more than two*; `ekaṣaṣṭe śate` *two hundred and sixty-one*.
 
 266\. Case. The cases are (including the vocative) eight: nominative,
 accusative, instrumental, dative, ablative, genitive, locative, and
@@ -108,9 +108,9 @@ ignorant man they give the name of ‘child’, but that of ‘father’ to one
 who imparts the sacred texts.*
 
 c\. A nominative, instead of a second vocative, is sometimes added to a
-vocative by `ca` *and*: thus, `índraç ca sómam pibatam bṛhaspate` (RV.)
+vocative by `ca` *and*: thus, `índraś ca sómam pibatam bṛhaspate` (RV.)
 *together with Indra, do ye two drink the soma, O Bṛhaspati!*
-`víçve devā yájamānaç ca sīdatā` (TS.) *O ye All-Gods, and the
+`víśve devā yájamānaś ca sīdatā` (TS.) *O ye All-Gods, and the
 sacrificer, take seats!*
 
 269\. Uses of the Accusative. The accusative is especially the case of
@@ -146,7 +146,7 @@ root: thus, `svargam abhikān̄kṣayā` (R.) *with desire of paradise*.
 
 b\. So-called primary derivatives in `in` have the same character: thus,
 `mā́ṁ kāmínī` (AV.) *loving me*; `enam abhibhāṣiṇī` (MBh.) *addressing
-him*. Even the obviously secondary `garbhín` has in ÇB. the same
+him*. Even the obviously secondary `garbhín` has in śB. the same
 construction: thus, `sárvāṇi bhūtā́ni garbhy àbhavat` *he became pregnant
 with all beings*.
 
@@ -176,7 +176,7 @@ in the older language: thus, `babhrír vájram papíḥ sómaṁ dadír gā́ḥ
 `yajñáṁ ātániḥ` (RV.) *extending the sacrifice*.
 
 g\. Derivatives in `uka`, very frequently in the `Brāhmaṇa` language:
-thus, `vatsā́ṅç ca ghā́tuko vṛ́kaḥ` (AV.) *and the wolf destroys his
+thus, `vatsā́ṅś ca ghā́tuko vṛ́kaḥ` (AV.) *and the wolf destroys his
 calves*; `véduko vā́so bhavati` (TS.) *he wins a garment*;
 `kā́mukā enaṁ stríyo bhavanti` (MS.) *the women fall in love with him*.
 
@@ -189,7 +189,7 @@ the breakers of whatever is strong*; — in `atha`, as `yajáthāya devā́n`
 (MBh.) *in restraining him*; `svamāṅsam iva bhojane` (R.) *as if in
 eating one’s own flesh*; — in `ani`, as `samátsu turváṇiḥ pṛtanyū́n`
 (RV.) *overcoming foes in combats*; — in `ti`, as `ná táṁ dhūrtíḥ` (RV.)
-*there is no injuring him*; — in `van`, as `ápaçcāddaghvā́ ’nnam bhavati`
+*there is no injuring him*; — in `van`, as `ápaścāddaghvā́ ’nnam bhavati`
 (MS.) *he does not come short of food*; — in `snu`, as
 `sthirā́ cin namayiṣṇavaḥ` (RV.) *bowing even firm things*.
 
@@ -226,7 +226,7 @@ be slain by me*; `sa pañcatvam āgataḥ` (H.) *he was resolved into the
 five elements* (*underwent dissolution, died*).
 
 c\. Verbs of speaking follow the same rule: thus, `tam abravīt` *he said
-to him*; `prākroçad uccāir nāiṣadham` (MBh.) *she cried out loudly to
+to him*; `prākrośad uccāir nāiṣadham` (MBh.) *she cried out loudly to
 the Nishadhan*; `yás tvo ’vā́ca` (AV.) *who spoke to thee*.
 
 d\. The assumption of an accusative object is exceptionally easy in
@@ -236,17 +236,17 @@ is strictly of intransitive character: thus, `sáhasā prā́ ’sy anyā́n`
 bráhma sám avadanta (MS.) *the gods were discussing* (lit. *were talking
 together*) `brahman; antár vāí mā yajn̄ā́d yanti` (MS.) *surely they are
 cutting me off* (lit. *are going between*) *from the offering*;
-`tā́ṁ sám babhūva` (ÇB.) *he had intercourse with her*.
+`tā́ṁ sám babhūva` (śB.) *he had intercourse with her*.
 
 275\. Examples of the cognate accusative, or accusative of implied
 object, are not infrequent: thus, `tápas tapyāmahe` (AV.) *we do
-penance*; `té hāi ’tā́m edhatúm edhā́ṁ cakrire` (ÇB.) *they prospered with
+penance*; `té hāi ’tā́m edhatúm edhā́ṁ cakrire` (śB.) *they prospered with
 that prosperity*; `uṣitvā sukhavāsam` (R.) *abiding happily*.
 
 276\. The accusative is often used in more adverbial constructions.
 Thus:
 
-a\. Occasionally, to denote measure of space: thus, `yojanaçataṁ gantum`
+a\. Occasionally, to denote measure of space: thus, `yojanaśataṁ gantum`
 (MBh.) *to go a hundred leagues*; `ṣaḍ ucchrito yojanāni` (MBh.) *six
 leagues high*.
 
@@ -257,8 +257,8 @@ nights*; `gatvā trīn ahorātrān` (MBh.) *having traveled three complete
 days*.
 
 c\. Sometimes, to denote the point of space, or, oftener, of time: thus,
-`yā́m asya díçaṁ dásyuḥ syā́t` (ÇB.) *whatever region his enemy may be
-in*; `ténāi ’tā́ṁ rā́triṁ sahā́” jagāma` (ÇB.) *he arrived that night with
+`yā́m asya díśaṁ dásyuḥ syā́t` (śB.) *whatever region his enemy may be
+in*; `ténāi ’tā́ṁ rā́triṁ sahā́” jagāma` (śB.) *he arrived that night with
 him*; `imāṁ rajanīṁ vyuṣṭām` (MBh.) *this current night*.
 
 d\. Very often, to denote manner or accompanying circumstance. Thus, the
@@ -268,7 +268,7 @@ such an extent that the Hindu grammarians have made of them a special
 adverbial class (1313).
 
 e\. Special cases are occasionally met with: thus, `brahmacáryam uvāsa`
-(ÇB.) *he kept a term of studentship*; `phalám pacyánte` (MS.) *they
+(śB.) *he kept a term of studentship*; `phalám pacyánte` (MS.) *they
 ripen their fruit*; `gā́ṁ dīvyadhvam` (MS., S.) *gamble for a cow*.
 
 277\. The accusative is, of course, freely used with other cases to
@@ -278,21 +278,21 @@ accusatives, one in each construction: and such combinations are quite
 frequent in Sanskrit. Thus, with verbs of appealing, asking, having
 recourse: as, `apó yācāmi bheṣajám` (RV.) *I ask the waters for
 medicine*; `tvām ahaṁ satyam icchāmi` (R.) *I desire truth from thee*;
-`tvāṁ vayaṁ çaraṇaṁ gatāḥ` (MBh.) *we have resorted to thee for
+`tvāṁ vayaṁ śaraṇaṁ gatāḥ` (MBh.) *we have resorted to thee for
 succor*;—with verbs of bringing, sending, following, imparting, saying:
 as, `gurutvaṁ naraṁ nayanti` (H.) *they bring a man to respectability*;
 `sītā cā ’nvetu māṁ vanam` (R.) *and let Sītā accompany me to the
-forest*; `supéçasaṁ mā́ ’va sṛjanty ástam` (RV.) *they let me go home
+forest*; `supéśasaṁ mā́ ’va sṛjanty ástam` (RV.) *they let me go home
 well adorned*; `tām idam abravīt` (MBh.) *this he said to her*;—and in
 other less common cases: as, `vṛkṣáṁ pakváṁ phálaṁ dhūnuhi` (RV.) *shake
 ripe fruit from the tree*; `tā́ṁ viṣám evā́ ’dhok` (AV.) *poison he milked
 from her*; `jitvā rājyaṁ nalam` (MBh.) *having won the kingdom from
 Nala*; `ámuṣṇītaṁ paṇíṁ gā́ḥ` (RV.) *ye robbed the Paṇi of the kine*;
-`draṣṭum icchāvaḥ putram paçcimadarçanam` (R.) *we wish to see our son
+`draṣṭum icchāvaḥ putram paścimadarśanam` (R.) *we wish to see our son
 for the last time*.
 
 a\. A causative form of a transitive verb regularly admits two
-accusative objects: thus, `devā́ṅ uçatáḥ pāyayā havíḥ` (RV.) *make the
+accusative objects: thus, `devā́ṅ uśatáḥ pāyayā havíḥ` (RV.) *make the
 eager gods drink the oblation*; `óṣadhīr evá phálaṁ grāhayati` (MS.) *he
 makes the plants bear fruit*; `vaṇijo dāpayet karān` (M.) *he should
 cause the merchants to pay taxes*. But such a causative sometimes takes
@@ -315,8 +315,8 @@ the Nishadhan*. But the relation of simple accompaniment is more often
 helped to plainer expression by prepositions (`saha` etc.: 284). 
 
 280\. The instrumental of means or instrument or agent is yet more
-frequent: thus, `bhadráṁ kárṇebhiḥ çṛṇuyāma` (RV.) *may we hear with our
-ears what is propitious*; `çastreṇa nidhanam` (MBh.) *death by the
+frequent: thus, `bhadráṁ kárṇebhiḥ śṛṇuyāma` (RV.) *may we hear with our
+ears what is propitious*; `śastreṇa nidhanam` (MBh.) *death by the
 sword*; `kecit padbhyāṁ hatā gajāiḥ` (MBh.) *some were slain by the
 elephants with their feet*;
 `pṛthak pāṇibhyāṁ darbhataruṇakāir navanītenā ’n̄guṣṭhopakaniṣṭhikābhyām akṣiṇī ājya`
@@ -333,10 +333,10 @@ a\. Accordance, equality, likeness, and the like: thus,
 `yeṣām ahaṁ na pādarajasā tulyaḥ` (MBh.) *to the dust of whose feet I am
 not equal*.
 
-b\. Price (by which obtained): thus, `daçábhiḥ krīṇāti dhenúbhiḥ` (RV.)
-*he buys with ten kine*; `gavāṁ çatasahasreṇa dīyatāṁ çabalā mama` (R.)
-*let Çabalā be given me for a hundred thousand cows*;
-`sa te ’kṣahṛdayaṁ dātā rājā, ’çvahṛdayena vāi` (MBh.) *the king will
+b\. Price (by which obtained): thus, `daśábhiḥ krīṇāti dhenúbhiḥ` (RV.)
+*he buys with ten kine*; `gavāṁ śatasahasreṇa dīyatāṁ śabalā mama` (R.)
+*let śabalā be given me for a hundred thousand cows*;
+`sa te ’kṣahṛdayaṁ dātā rājā, ’śvahṛdayena vāi` (MBh.) *the king will
 give thee the secret science of dice in return for that of horses*.
 
 c\. Medium, and hence also space or distance or road, traversed: thus,
@@ -385,7 +385,7 @@ I shall always by thy companion*; `avahitāir bhavitavyam bhavadbhiḥ`
 (Vikr.) *you must be attentive*.
 
 b\. A causative verb sometimes takes an instrumental instead of an
-accusative as second object: thus, `tāṁ çvabhiḥ khādayed rājā` (M.) *the
+accusative as second object: thus, `tāṁ śvabhiḥ khādayed rājā` (M.) *the
 king should have her devoured by dogs*; `tā́ váruṇenā ’grāhayat` (MS.)
 *he caused Varuṇa to seize them*.
 
@@ -417,17 +417,17 @@ the instrumental (cf. 283 a).
 `286. Thus, the dative is used with—`
 
 ` a. Words signifying give, share out, assign, and the like: thus, yó ná dádāti sákhye`
-(RV.) *who gives not to a friend*; `yácchā ’smāi çárma` (RV.) *bestow
+(RV.) *who gives not to a friend*; `yácchā ’smāi śárma` (RV.) *bestow
 upon him protection*. 
 
 b\. Words signifying *show, announce, declare*, and the like: thus,
-`dhanur darçaya rāmāya` (R.) *show the bow to Rāma*;
+`dhanur darśaya rāmāya` (R.) *show the bow to Rāma*;
 `āvír ebhyo abhavat sū́ryaḥ` (RV.) *the sun was manifested to them*;
 `ṛtuparṇam bhīmāya pratyavedayan` (MBh.) *they announced Rituparṇa to
 Bhīma*; `tebhyaḥ pratijñāya` (MBh.) *having promised to them*.
 
 c\. Words signifying *give attention, have a regard* or *feeling,
-aspire*, and the like: thus, `niveçāya mano dadhuḥ` (MBh.) *they set
+aspire*, and the like: thus, `niveśāya mano dadhuḥ` (MBh.) *they set
 their minds upon encamping*; `māté ’va putrébhyo mṛḍa` (AV.) *be
 gracious as a mother to her sons*; `kím asmábhyaṁ hṛṇīṣe` (RV.) *why art
 thou angry at us?* `kāmāya spṛhayaty ātmā` (Spr.) *the soul longs for
@@ -438,11 +438,11 @@ rocate viprebhyaḥ (M.) whatever is pleasing to Brahmans; tad ānantyāya
 kalpate (KU.) that makes for immortality
 
 e\. Words signifying inclination, 'obeisance, and the like: thus,
-`máhyaṁ namantām pradíçaç cátasraḥ` (RV.) *let the four quarters bow
+`máhyaṁ namantām pradíśaś cátasraḥ` (RV.) *let the four quarters bow
 themselves to me*; `devebhyo namaskṛtya` (MBh.) *having paid homage to
 the gods;;.*
 
-f\. Words signifying *hurling* or *casting*: as `yéna dūḍā́çe ásyasi`
+f\. Words signifying *hurling* or *casting*: as `yéna dūḍā́śe ásyasi`
 (AV.) *with which thou hurlest at the impious*.
 
 g\. In some of these constructions the genitive and locative are also
@@ -461,7 +461,7 @@ enemies*.
 a\. Such a dative is much used predicatively (and oftenest with the
 copula omitted), in the sense of *makes for, tends toward*; also *is
 intended for*, and so *must*; or *is liable to*, and so *can*. Thus,
-`upadeço mūrkhāṇām prakopāya na çāntaye` (H.) *good counsel \[tends\] to
+`upadeśo mūrkhāṇām prakopāya na śāntaye` (H.) *good counsel \[tends\] to
 the exasperation, not the conciliation, of fools*;
 `sa ca tasyāḥ saṁtoṣāya nā ’bhavat` (H.) *and he was not to her
 satisfaction*; `sugopā́ asi ná dábhāya` (RV.) *thou art a good herdsman,
@@ -488,10 +488,10 @@ from falling*.
 
 291\. The ablative is used where procedure or issue from something as
 from a source or starting-point is signified: thus,
-`çukrā́ kṛṣṇā́d ajaniṣṭa` (RV.) *the bright one has been born from the
+`śukrā́ kṛṣṇā́d ajaniṣṭa` (RV.) *the bright one has been born from the
 black one*; `lobhāt krodhaḥ prabhavati` (MBh.) *passion arises from
 greed*; `vā́tāt te prāṇám avidam` (AV.) *I have won thy life-breath from
-the wind*; `yé prā́cyā diçó abhidā́santy asmā́n` (AV.) *who attack us from
+the wind*; `yé prā́cyā diśó abhidā́santy asmā́n` (AV.) *who attack us from
 the eastern quarter*; `tac chrutvā sakhigaṇāt` (MBh.) *having heard that
 from the troop of friends*; `vāyur antarikṣād abhāṣata` (MBh.) *the wind
 spoke from the sky*.
@@ -499,10 +499,10 @@ spoke from the sky*.
 a\. Hence also, procedure as from a cause or occasion is signified by
 the ablative: this is especially frequent in the later language, and in
 technical phraseology is a standing construction; it borders on
-instrumental constructions. Thus, `vájrasya çúṣṇād dadāra` (RV.) *from*
+instrumental constructions. Thus, `vájrasya śúṣṇād dadāra` (RV.) *from*
 (*by reason of*) *the fury of the thunderbolt he burst asunder*;
 `yasya daṇḍabhayāt sarve dharmam anurudhyanti` (MBh.) *from fear of
-whose rod all are constant to duty*; `akāramiçritatvād ekārasya`
+whose rod all are constant to duty*; `akāramiśritatvād ekārasya`
 (Tribh.) *because* e *contains an element of* a.
 
 b\. Very rarely, an ablative has the sense of *after*: thus,
@@ -527,10 +527,10 @@ construction: thus, `svādóḥ svā́dīyaḥ` (RV.) *sweeter than the sweet*;
 `kiṁ tasmād duḥkhataram` (MBh.) *what is more painful than that?*
 `ko mitrād anyaḥ` (H.) *who else than a friend*; `gā avṛṇīthā mat` (AB.)
 *thou hast chosen the kine rather than me*;
-`ajñebhyo granthinaḥ çreṣṭhā granthibhyo dhāriṇo varāḥ` (M.) *possessors
+`ajñebhyo granthinaḥ śreṣṭhā granthibhyo dhāriṇo varāḥ` (M.) *possessors
 of texts are better than ignorant men; rememberers are better than
 possessors*; `tád anyátra tván ní dadhmasi` (AV.) *we set this down
-elsewhere* (*away*) *from thee*; `pū́rvā víçvasmād bhúvanāt` (RV.)
+elsewhere* (*away*) *from thee*; `pū́rvā víśvasmād bhúvanāt` (RV.)
 *earlier than all beings*.
 
 c\. Occasionally, a probably possessive genitive is used with the
@@ -556,18 +556,18 @@ forth from that which stands fast*.
 
 b\. Also `purā́` (and `purás`), in the sense of *forward from*, and hence
 *before*: as, `purā́ járasaḥ` (RV.) *before old age*: and hence also,
-with words of protection and the like, *from*: as `çaçamānáḥ purā́ nidáḥ`
+with words of protection and the like, *from*: as `śaśamānáḥ purā́ nidáḥ`
 (RV.) *securing from ill-will*.
 
 c\. Also ā́, in the sense of *hither from, all the way from*: as,
-`ā́ mū́lād ánu çuṣyatu` (AV.) *let it dry completely up from the root*;
+`ā́ mū́lād ánu śuṣyatu` (AV.) *let it dry completely up from the root*;
 `tásmād ā́ nadyò nā́ma stha` (AV.) *since that time ye are called rivers*.
 But usually, and especially in the later language, the measurement of
 interval implied in `ā́` is reversed in direction, and the construction
 means *all the way to, until*: as, `yatī́ giríbhya ā́ samudrā́t` (RV.)
 *going from the mountains to the ocean*; `ā́ ’syá yajñásyo ’dṛ́caḥ` (VS.)
-*until the end of this sacrifice*; `ā ṣoḍaçāt` (M.) *till the sixteenth
-year*; `ā pradānāt` (Ç.) *until her marriage*.
+*until the end of this sacrifice*; `ā ṣoḍaśāt` (M.) *till the sixteenth
+year*; `ā pradānāt` (ś.) *until her marriage*.
 
 294\. Uses of the Genitive. a. The proper value of the genitive is
 adjectival; it belongs to and qualifies a noun, designating something
@@ -592,7 +592,7 @@ characteristic (*man of honor*), do not occur, and hardly that of
 material (*house of wood*). Examples are: `índrasya vájraḥ` *Indra's
 thunderbolt*; `pitā putrāṇām` *father of sons*; `putraḥ pituḥ` *son of
 the father*; `pituḥ kāmaḥ putrasya` *the father's love of the son*;
-`ke naḥ` *which of us*; `çataṁ dāsīnām` *a hundred female slaves*.
+`ke naḥ` *which of us*; `śataṁ dāsīnām` *a hundred female slaves*.
 
 a\. The expression of possession etc. on the part of pronouns is made
 almost entirely by the genitive case, and not by a derived possessive
@@ -605,15 +605,15 @@ messenger to whom I am wanted*, are occasionally met with.
 296\. The genitive is dependent on an adjective:
 
 a\. A so-called partitive genitive with a superlative, or another word
-of similar substantival value: thus, `çreṣṭhaṁ vīrāṇām` *best of
+of similar substantival value: thus, `śreṣṭhaṁ vīrāṇām` *best of
 heroes*; `vīrúdhāṁ vīryàvatī` (AV.) *of plants the mighty* (*mightiest*)
 *one*.
 
 b\. Very often, by a transfer of the possessive genitive from noun to
 adjective, the adjective being treated as if it had noun-value: thus,
-`tasya samaḥ` or `anurūpaḥ` or `sadṛçaḥ` *resembling him* (i.e. *his
+`tasya samaḥ` or `anurūpaḥ` or `sadṛśaḥ` *resembling him* (i.e. *his
 like*); `tasya priyā` *dear to him* (*his dear one*); `tasyā ’viditam`
-*unknown to him* (*his unknown thing*); `hávyaç carṣaṇīnā́m` (RV.) *to be
+*unknown to him* (*his unknown thing*); `hávyaś carṣaṇīnā́m` (RV.) *to be
 sacrificed to by mortals* (*their object of sacrifice*);
 `īpsito naranārīṇām` (MBh.) *desired of men and women* (*their object of
 desire*); `yasya kasya prasūtaḥ` (H.) *of whomsoever born* (*his son*);
@@ -646,20 +646,20 @@ verbs meaning* enjoy, be satisfied *or* filled **with*: as,
 `mátsy ándhasaḥ` (RV.)* do thou enjoy the juice*; `ājyasya pūrayanti`
 (S.)* they fill with butter*;—with verbs meaning* perceive, note, care
 for, regard *with feeling of various kinds: as,
-`vásiṣṭhasya stuvatá índro açrot` (RV.)* Indra listened to Vasishtha who
+`vásiṣṭhasya stuvatá índro aśrot` (RV.)* Indra listened to Vasishtha who
 was praising him*; `yáthā máma smárāt` (AV.)* that he may think of me*;
 `tasya cukopa` (MBh.)* he was angry at him*.*
 
 c\. A genitive of more doubtful character, with verbs meaning *rule* or
-*have authority*: as, `tvám īçiṣe vásūnām` (RV.) *thou art lord of good
+*have authority*: as, `tvám īśiṣe vásūnām` (RV.) *thou art lord of good
 things*; `yáthā ’hám eṣā́ṁ virā́jāni` (AV.) *that I may rule over them*;
-`katham mṛtyuḥ prabhavati vedaçāstravidām` (M.) *how has death power
+`katham mṛtyuḥ prabhavati vedaśāstravidām` (M.) *how has death power
 over those who know the Vedas and treatises?*
 
 d\. A genitive, instead of an ablative, is sometimes found used with a
 verb of receiving of any kind (hearing included), and with one of
 fearing: thus, `yo rājñaḥ pratigṛhṇāti lubdhasya` (M.) *whoever accepts
-a gift from a greedy king*; `çṛṇu me` (MBh.) *learn from me*;
+a gift from a greedy king*; `śṛṇu me` (MBh.) *learn from me*;
 `bibhīmas tava` (MBh.) *we are afraid of thee*.
 
 298\. A genitive in its usual possessive sense is often found as
@@ -676,7 +676,7 @@ either usually, like `upári` *above*, or occasionally, like `adhás`,
 `antár`, `áti`.
 
 `b. A genitive is occasionally used in the older language with an adverb, either of place or of time: thus, yátra kvà ca kurukṣetrásya`
-(ÇB.) *in whatever part of Kurukshetra*; `yátra tú bhū́mer jā́yeta` (MS.)
+(śB.) *in whatever part of Kurukshetra*; `yátra tú bhū́mer jā́yeta` (MS.)
 *on what spot of earth he may be born*; `idā́nīm áhnaḥ` (RV.) *at this
 time of the day*; `yásyā rā́tryāḥ prātáḥ` (MS.) *on the morn of what
 night*; `dviḥ saṁvatsarasya` (K.) *twice a year*. Such expression as the
@@ -684,18 +684,18 @@ last occur also later.
 
 `300. a. The genitive is very little used adverbially; a few genitives of time occur in the older language: as, aktos`
 *by night*, `vastos` *by day*; and there are found later such cases as
-`kasya cit kālasya` (Ç.) *after a certain time*;
+`kasya cit kālasya` (ś.) *after a certain time*;
 `tataḥ kālasya mahataḥ prayayāu` (R.) *then after a long time he went
 forth*.
 
-`b. A genitive, originally of possession, passing over into one of general concernment, comes in the later language (the construction is unknown earlier) to be used absolutely, with an agreeing participle, or quite rarely an adjective. From such cases as the following—paçyato bakamūrkhasya nakulāir bhakṣitāḥ sutāḥ`
+`b. A genitive, originally of possession, passing over into one of general concernment, comes in the later language (the construction is unknown earlier) to be used absolutely, with an agreeing participle, or quite rarely an adjective. From such cases as the following—paśyato bakamūrkhasya nakulāir bhakṣitāḥ sutāḥ`
 (H.) *of the foolish heron, while he looked on, the young were eaten by
 the ichneumons*, or `gato ‘rdharātraḥ kathāḥ kathayato mama` (KSS.)
 *half my night was passed in telling stories*, or
 `kartavyasya karmaṇaḥ kṣipram akriyamāṇasya kālaḥ pibati tadrasam` (H.)
 *of a work needing to be done but left undone time quickly drinks up its
 essence*—come into currency, by increasing independence of the genitive,
-such other cases as: `divaṁ jagāma munīnām paçyatāṁ tadā` (R.) *he went
+such other cases as: `divaṁ jagāma munīnām paśyatāṁ tadā` (R.) *he went
 then to heaven, the ascetics looking on*;
 `evaṁ lālapatas tasya devadūtas tadā ’bhyetya vākyam āha` (MBh.) *as he
 thus lamented, a divine messenger coming addressed him*;
@@ -716,15 +716,15 @@ is often to be recognized in it, though not prevailingly.
 (AV.) *which of you gods are in heaven*; `na deveṣu na yakṣeṣu tādṛk`
 (MBh.) *not among gods or Yakshas is such a one*; `párvatasya pṛṣṭhé`
 (RV.) *on the ridge of the mountain*; `vidáthe santu devā́ḥ` (RV.) *may
-the gods be at the assembly*; `daçame pade` (MBh.) *at the tenth step*.
+the gods be at the assembly*; `daśame pade` (MBh.) *at the tenth step*.
 
 `b. The locative of time indicates the point of time at which anything takes place: thus, asyā́ uṣáso vyùṣṭāu`
 (RV.) *at the shining forth of this dawn*; `etasminn eva kāle` (MBh.)
-*at just that time*; `dvādaçe varṣe` (MBh.) *in the twelfth year*. That
+*at just that time*; `dvādaśe varṣe` (MBh.) *in the twelfth year*. That
 the accusative is occasionally used in this sense, instead of the
 locative, was pointed out above (276 c).
 
-` c. The person with whom, instead of the place at which, one is or remains is put in the locative: thus, tíṣṭhanty asmin paçávaḥ`
+` c. The person with whom, instead of the place at which, one is or remains is put in the locative: thus, tíṣṭhanty asmin paśávaḥ`
 (MS.) *animals abide with him*; `gurāu vasan` (M.) *living at a
 teacher's*; and, pregnantly, `tāvat tvayi bhaviṣyāmi` (MBh.) *so long
 will I cleave to thee*. 
@@ -738,12 +738,12 @@ a\. This construction is, on the one hand, generalized into an
 expression for *in the matter or case of*; or *with reference to*,
 *respecting*, and takes in the later language a very wide range,
 touching upon genitive and dative constructions: thus
-`é ’mám bhaja grā́me áçveṣu góṣu` (AV.) *be generous to him in retainers,
+`é ’mám bhaja grā́me áśveṣu góṣu` (AV.) *be generous to him in retainers,
 in horses, in cattle*; `tám ít sakhitvá īmahe` (RV.) *him we beg for
 friendship*; `upāyo ‘yaṁ mayā dṛṣṭa ānayane tava` (MBh.) *this means was
 devised by me for* (*with reference to*) *bringing thee hither*;
 `satītve kāraṇaṁ striyāḥ` (H.) *the cause of* (*in the case of*) *a
-woman's chastity*; `na çakto ‘bhavan nivāraṇe` (MBh.) *he was not
+woman's chastity*; `na śakto ‘bhavan nivāraṇe` (MBh.) *he was not
 capable of preventing*.
 
 b\. On the other hand, the expression by the locative of a condition of
@@ -759,15 +759,15 @@ an offence committed, there is no anger on my part*.
 c\. The normal condition of the absolute construction is with a
 participle accompanying the noun: thus, `stīrṇé barhíṣi samidhāné agnāú`
 (RV.) *when the* `barhis` *is strewn and the fire kindled*;
-`kāle çubhe prāpte` (MBh.) *a propitious time having arrived*;
+`kāle śubhe prāpte` (MBh.) *a propitious time having arrived*;
 `avasannāyāṁ rātrāv astācalacūḍāvalambini candramasi` (H.) *the night
 having drawn to a close, and the moon resting on the summit of the
 western mountain*.
 
 d\. But the noun may be wanting, or may be replaced by an adverbial
 substitute (as `evam`, `tathā`, `iti`): thus, `varṣati` *when it rains*;
-`[sūrye] astamite` *after sunset*; `ādityasya dṛçyamāne` (S.) *while
-there is seen* \[*some part*\] *of the sun*; `ity ardhokte` (Ç.) *with
+`[sūrye] astamite` *after sunset*; `ādityasya dṛśyamāne` (S.) *while
+there is seen* \[*some part*\] *of the sun*; `ity ardhokte` (ś.) *with
 these words half uttered*; `asmābhiḥ samanujñāte` (MBh.) *it being thus
 spoken by Kali*; `tathā ’nuṣṭhite` (H.) *it being thus accomplished*. So
 likewise the participle may be wanting (a copula `sati` or the like
@@ -794,10 +794,10 @@ truly, goes to* (*to be among*) *the gods*;
 `imáṁ no yajñám amṛ́teṣu dhehi` (RV.) *set this offering of ours among
 the immortals*; `yá āsiñcánti rásam óṣadhīṣu` (AV.) *who pour in the
 juice into the plants* (or, *the juice that is in the plants*);
-`mā prayacche ”çvare dhanam` (H.) *do not offer wealth to a lord*;
+`mā prayacche ”śvare dhanam` (H.) *do not offer wealth to a lord*;
 `papāta medinyām` (MBh.) *he fell to* (*so as to be upon*) *the earth*;
 `skandhe kṛtvā` (H.) *putting on the shoulder*;
-`saṁçrutya pūrvam asmāsu` (MBh.) *having before promised us*.
+`saṁśrutya pūrvam asmāsu` (MBh.) *having before promised us*.
 
 b\. Often also with nouns and adjectives in similar constructions (the
 instances not always easy to separate from those of the locative meaning
@@ -1156,7 +1156,7 @@ king Soma!* `yáviṣṭha dūta` *most youthful messenger!*
 `hótar yaviṣṭha sukrato` *most youthful skilled officer!*
 `ū́rjo napāt sahasvan` *mighty son of strength!*—in the interior of a
 `pāda`, without accent, `sómāsa indra girvaṇaḥ` *the somas, O
-song-loving Indra!* `tā́v açvinā bhadrahastā supāṇi` *ye, O Açvins of
+song-loving Indra!* `tā́v aśvinā bhadrahastā supāṇi` *ye, O Aśvins of
 propitious and beautiful hands!* `ā́ rājānā maha ṛtasya gopā` *hither, ye
 two kingly guardians of great order!*
 
@@ -1164,9 +1164,9 @@ e\. On the other hand, two or more independent or coordinate vocatives
 at the beginning of a `pāda` are regularly and usually both accented:
 thus, `pítar mā́taḥ` *O father! O mother!*
 `ágna índra váruṇa mítra dévāḥ` *Agni! Indra! Varuṇa! Mitra! gods!*
-`çátamūte çátakrato` *thou of a hundred aids! of a hundred arts!*
-`vásiṣṭha çúkra dī́divaḥ pā́vaka` *best, bright, shining, cleansing one!*
-`ū́rjo napād bhádraçoce` *son of strength, propitiously bright one!* But
+`śátamūte śátakrato` *thou of a hundred aids! of a hundred arts!*
+`vásiṣṭha śúkra dī́divaḥ pā́vaka` *best, bright, shining, cleansing one!*
+`ū́rjo napād bhádraśoce` *son of strength, propitiously bright one!* But
 the texts offer occasional irregular exceptions both to this and to the
 preceding rule.
 
@@ -1249,7 +1249,7 @@ in the older language always does, take the accent, though separated by
 `n` from the stem: thus, `agnīnā́m`, `dhenūnā́m`, `pitṝṇā́m`. In RV., even
 derivative `ī`-stems show usually the same shift: thus, `bahvīnā́m`. Of
 stems in `á`, only numerals (483 a) follow this rule: thus, `saptānā́m`,
-`daçānā́m`.
+`daśānā́m`.
 
 320\. Root-words in `ī` and `ū` as final members of compounds retain the
 accent throughout, not shifting it to any of the endings. And in the

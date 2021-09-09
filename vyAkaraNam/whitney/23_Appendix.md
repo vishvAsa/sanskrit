@@ -11,7 +11,7 @@ APPENDIX.
 A. The following text is given (as proposed above, 3) in order to
 illustrate by an example the variety of Sanskrit type in use. It is
 given twice over, and a transliteration into European letters follows.
-The text is a fable extracted from the first book of the Hitopadeça.
+The text is a fable extracted from the first book of the Hitopadeśa.
 
 The Hunter, Deer, Boar, and Jackal.
 
@@ -19,19 +19,19 @@ The Hunter, Deer, Boar, and Jackal.
 
 [![Sanskrittextsample2.jpg](//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sanskrittextsample2.jpg/500px-Sanskrittextsample2.jpg)](/wiki/File:Sanskrittextsample2.jpg)
 
-`āsīt kalyāṇakaṭakavāstavyo bhāiravo nāma vyādhaḥ. sa cāi ’kadā māṅsalubdhaḥ san dhanur ādāya vindhyāṭavīmadhyaṁ gataḥ. tatra tena mṛga eko vyāpāditaḥ. mṛgam ādāya gachatā tena ghorākṛtiḥ sūkaro dṛṣṭaḥ. tatas tena mṛgam bhūmāu nidhāya sūkaraḥ çareṇa hataḥ. sūkareṇā ’py āgatya pralayaghanaghoragarjanaṁ kṛtvā sa vyādho muṣkadeçe hataç chinnadruma iva papāta. yataḥ:`
+`āsīt kalyāṇakaṭakavāstavyo bhāiravo nāma vyādhaḥ. sa cāi ’kadā māṅsalubdhaḥ san dhanur ādāya vindhyāṭavīmadhyaṁ gataḥ. tatra tena mṛga eko vyāpāditaḥ. mṛgam ādāya gachatā tena ghorākṛtiḥ sūkaro dṛṣṭaḥ. tatas tena mṛgam bhūmāu nidhāya sūkaraḥ śareṇa hataḥ. sūkareṇā ’py āgatya pralayaghanaghoragarjanaṁ kṛtvā sa vyādho muṣkadeśe hataś chinnadruma iva papāta. yataḥ:`
 
-`jalam agniṁ viṣaṁ çastraṁ kṣudvyādhī patanaṁ gireḥ,`
+`jalam agniṁ viṣaṁ śastraṁ kṣudvyādhī patanaṁ gireḥ,`
 
 `nimittaṁ kiṁcid āsādya dehī prāṇāir vimucyate.`
 
-`atrāntare dīrgharāvo nāma jambukaḥ paribhramann āhārārthī tān mṛtān mṛgavyādhasūkarān apaçyat. ālokyā ’cintayad asāu: aho bhāgyam. mahad bhojyaṁ samupasthitam. athavā:`
+`atrāntare dīrgharāvo nāma jambukaḥ paribhramann āhārārthī tān mṛtān mṛgavyādhasūkarān apaśyat. ālokyā ’cintayad asāu: aho bhāgyam. mahad bhojyaṁ samupasthitam. athavā:`
 
 `acintitāni duḥkhāni yathāi ’va ”yānti dehinām,`
 
 `sukhāny api tathā manye dāívam atrā ’tiricyate.`
 
-`bhavatu; eṣām māṅsāir māsatrayaṁ samadhikam bhojanam me bhavisyati. tataḥ prathamabubhuksāyāṁ tāvad imāni svādūni māṅsāni vihāya kodaṇḍāṭanīlagnaṁ snāyubandhaṁ khādāmī ’ty uktvā tathā ’karot. tataç chinne snāyubandhe drutam utpatitena dhanuṣā hṛdi bhinnaḥ sa dīrgharāvaḥ pañcatvaṁ gatah. ato ’ham bravīmi:`
+`bhavatu; eṣām māṅsāir māsatrayaṁ samadhikam bhojanam me bhavisyati. tataḥ prathamabubhuksāyāṁ tāvad imāni svādūni māṅsāni vihāya kodaṇḍāṭanīlagnaṁ snāyubandhaṁ khādāmī ’ty uktvā tathā ’karot. tataś chinne snāyubandhe drutam utpatitena dhanuṣā hṛdi bhinnaḥ sa dīrgharāvaḥ pañcatvaṁ gatah. ato ’ham bravīmi:`
 
 `kartavyaḥ saṁcayo nityaṁ kartavyo nā ’tisaṁcayaḥ;`
 
@@ -78,28 +78,28 @@ Hymn (X. 125) from the Rig-Veda.
 
 प॒रो दि॒वा प॒र ए॒ना पृ॑थि॒व्यैताव॑ती महि॒ना सं ब॑भूव ॥८॥
 
-`aháṁ rudrébhir vásubhiç carāmy ahám ādityāír utá viçvádevāiḥ, ahám mitrā́váruṇo ’bhā́ bibharmy ahám indrāgnī́ ahám açvíno ’bhā́`.
+`aháṁ rudrébhir vásubhiś carāmy ahám ādityāír utá viśvádevāiḥ, ahám mitrā́váruṇo ’bhā́ bibharmy ahám indrāgnī́ ahám aśvíno ’bhā́`.
 1.
 
 `aháṁ sómam āhanásam bibharmy aháṁ tváṣṭāram utá pūṣáṇam bhágam, aháṁ dadhāmi dráviṇaṁ havíṣmate suprāvyè yájamānāya sunvaté`.
 2.
 
-`aháṁ rā́ṣṭrī saṁgámanī vásūnāṁ cikitúṣī prathamā́ yajñíyānām, tā́m mā devā́vy àdadhuḥ purutrā́ bhū́risthātrām bhū́ry āveçáyantīm`.
+`aháṁ rā́ṣṭrī saṁgámanī vásūnāṁ cikitúṣī prathamā́ yajñíyānām, tā́m mā devā́vy àdadhuḥ purutrā́ bhū́risthātrām bhū́ry āveśáyantīm`.
 3.
 
-`máyā só ánnam atti yó vipáçyati yáḥ prā́ṇiti yá īṁ çṛṇóty uktám, amantávo mā́ṁ tá úpa kṁiyanti çrudhí çruta çraddhiváṁ te vadāmi`.
+`máyā só ánnam atti yó vipáśyati yáḥ prā́ṇiti yá īṁ śṛṇóty uktám, amantávo mā́ṁ tá úpa kṁiyanti śrudhí śruta śraddhiváṁ te vadāmi`.
 4.
 
 `ahám evá svayám idáṁ vadāmi juṣṭaṁ devébhir utá mā́nuṣebhiḥ, yáṁ kāmáye táṁ-tam ugráṁ kṛṇomi tám brahmā́ṇaṁ tám ṛ́ṣiṁ táṁ sumedhā́m`.
 5.
 
-`aháṁ rudrā́ya dhánur ā́ tanomi brahmadvíṣe çárave hántavā́ u, aháṁ jánāya samádaṁ kṛṇomy aháṁ dyā́vāpṛthivī́ ā́ viveça`.
+`aháṁ rudrā́ya dhánur ā́ tanomi brahmadvíṣe śárave hántavā́ u, aháṁ jánāya samádaṁ kṛṇomy aháṁ dyā́vāpṛthivī́ ā́ viveśa`.
 6.
 
-`aháṁ suve pitáram asya mūrdhán máma yónir apsv àntáḥ samudré, táto ví tiṣṭhe bhúvanā́ ’nu víçvo ’tā́ ’mū́ṁ dyā́ṁ varṣmáṇó ’pa spṛçāmi`.
+`aháṁ suve pitáram asya mūrdhán máma yónir apsv àntáḥ samudré, táto ví tiṣṭhe bhúvanā́ ’nu víśvo ’tā́ ’mū́ṁ dyā́ṁ varṣmáṇó ’pa spṛśāmi`.
 7.
 
-`ahám evá vā́ta iva prá vāmy ārábhamāṇā bhúvanāni víçvā, paró divā́ pará enā́ pṛthivyāí ’tā́vatī mahinā́ sám babhūva`.
+`ahám evá vā́ta iva prá vāmy ārábhamāṇā bhúvanāni víśvā, paró divā́ pará enā́ pṛthivyāí ’tā́vatī mahinā́ sám babhūva`.
 8.
 
 C. On the next page is given, in systematic arrangement, a synopsis of

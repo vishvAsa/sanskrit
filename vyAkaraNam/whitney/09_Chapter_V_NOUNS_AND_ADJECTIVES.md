@@ -47,7 +47,7 @@ there are also two considerable classes of adjective-compounds,
 requiring special notice: namely—
 
 323\. Compound adjectives having as final member a bare verbal root,
-with the value of a present participle (383 a ff.): thus, `su-dṛ́ç`
+with the value of a present participle (383 a ff.): thus, `su-dṛ́ś`
 *well-looking*; `pra-búdh` *foreknowing*; `a-drúh` *not hating*;
 `veda-víd` *Veda-knowing*; `vṛtra-hán` *Vritra-slaying*; `upastha-sád`
 *sitting in the lap*. Every root is liable to be used in this way, and
@@ -373,7 +373,7 @@ L.
 
 Examples of the peculiar Vedic forms are:
 
-a\. Sing.: instr. `raváthenā`, `yajñā́` (such genitive forms as `áçvasiā`
+a\. Sing.: instr. `raváthenā`, `yajñā́` (such genitive forms as `áśvasiā`
 are purely sporadic).
 
 b\. Du.: nom. etc. masc. `devā́`; gen.-loc. `pastyòs` (stem `pastyà`).
@@ -409,8 +409,8 @@ with strengthening of the radical syllable, having a quasi-participial
 meaning: e.g. `divākará -rī`, `avakrāmá -mī́`, `rathavāhá -hī́` (but
 there are many exceptions); 4. secondary derivatives in `maya` (1225)
 and `tana` (1245 e): e.g. `ayasmáya -yī`; `adyatana -nī`; 5. most
-ordinal numbers (487 h): e.g. `pañcamá -mī́`, `navadaçá -çī́`,
-`triṅçattamá -mī́`. Not a few words make the feminine in either `ā` or
+ordinal numbers (487 h): e.g. `pañcamá -mī́`, `navadaśá -śī́`,
+`triṅśattamá -mī́`. Not a few words make the feminine in either `ā` or
 `ī`: e.g. `kévalā` or -`lī`, `ugrā́` or -`rī́`, `pāpā` or -`pī́`, `rāmā́` or
 -`mī́`; but ordinarily only one of these is accepted as regular.
 
@@ -430,10 +430,10 @@ of the commonest of these are as follows: `akṣa` *eye* (e.g.
 `lohitākṣī`, `dvyakṣī`, `gavākṣī`), `parṇa` *leaf* (e.g. `tilaparṇī`,
 `saptaparṇī`; but `ekaparṇā`), `mukha` *face* (e.g. `kṛṣṇamukhī`,
 `durmukhī`; but `trimukhā` etc.), `an̄ga` *limb, body* (e.g.
-`anavadyān̄gī`, `sarvān̄gī`; but `caturan̄gā` etc.), `keça` *hair* (e.g.
-`sukeçī`, `muktakeçī` or -`çā`, etc.), `karṇa` *ear* (e.g. `mahākarṇī`;
+`anavadyān̄gī`, `sarvān̄gī`; but `caturan̄gā` etc.), `keśa` *hair* (e.g.
+`sukeśī`, `muktakeśī` or -`śā`, etc.), `karṇa` *ear* (e.g. `mahākarṇī`;
 but `gokarṇā` etc.), `udara` *belly* (e.g. `lambodarī`), `mūla` *root*
-(e.g. `pañcamūlī`; but oftener `çatámūlā` etc.). The very great majority
+(e.g. `pañcamūlī`; but oftener `śatámūlā` etc.). The very great majority
 of such nouns (as the examples indicate) signify parts of the body.
 
 c\. On the other hand, a feminine noun ending in derivative `ā` shortens
@@ -766,17 +766,17 @@ c\. Instr.: masc. `agnínā`, `rayyā́` and `ūrmiā́`; fem. `ácittī`, `ūti
 `matyā́`, `suvṛktí`, `dhāsínā`; neut. wanting.
 
 d\. Dat.: masc. `agnáye`; fem. `tujáye`, `ūtī́`, `turyāí`; neut.
-`çúcaye`.
+`śúcaye`.
 
 e\. Gen.-abl.: masc. `agnés`, `ávyas`, `ariás`; fem. `ádites`, `hetyā́s`
 and `bhū́miās`; neut. `bhū́res`.
 
 f\. Loc.: masc. `agnāú`, `agnā́`, `ājáyi` (?); fem. `ā́gatāu`, `úditā`,
-`dhánasātayi` (?), `védī`, `bhū́myām`; neut. `apratā́`, `saptáraçmāu`.
+`dhánasātayi` (?), `védī`, `bhū́myām`; neut. `apratā́`, `saptáraśmāu`.
 
 g\. Voc.: as above (neut wanting).
 
-h\. Dual. Nom.-acc.-voc.: masc. `hárī`; fem. `yuvatī́`; neut. `çúcī`,
+h\. Dual. Nom.-acc.-voc.: masc. `hárī`; fem. `yuvatī́`; neut. `śúcī`,
 `máhi`, `háriṇī` (?).
 
 i\. Instr.-dat.-abl.: as above.
@@ -785,15 +785,15 @@ j\. Gen.-loc.: masc. `hários`; fem. `yuvatyós` and `jāmiós`; neut.
 wanting.
 
 k\. Plural. Nom.: masc. `agnáyas`; fem. `matáyas`, `bhū́mīs`; neut.
-`çúcī`, `bhū́ri`, `bhū́rīṇi`.
+`śúcī`, `bhū́ri`, `bhū́rīṇi`.
 
-l\. Accus.: masc. `agnī́n`; fem. `kṣitī́s`, `çúcayas` (?).
+l\. Accus.: masc. `agnī́n`; fem. `kṣitī́s`, `śúcayas` (?).
 
 m\. Instr., dat.-abl, and loc., as above.
 
 n\. Gen.: masc. fem. `kavīnā́m`, `ṛ́ṣīṇaam` etc. (neut. wanting).
 
-341\. As models of `u`-stems may be taken शत्रु `çátru` m. *enemy*; धेनु
+341\. As models of `u`-stems may be taken शत्रु `śátru` m. *enemy*; धेनु
 `dhenú` f. *cow*; मधु `mádhu` n. *honey*.
 
 Singular:
@@ -801,7 +801,7 @@ Singular:
 N.
 
 शत्रुस्  
-`çátrus`
+`śátrus`
 
 धेनुस्  
 `dhenús`
@@ -812,7 +812,7 @@ N.
 A.
 
 शत्रुम्  
-`çátrum`
+`śátrum`
 
 धेनुम्  
 `dhenúm`
@@ -823,7 +823,7 @@ A.
 I.
 
 शत्रुणा  
-`çátruṇā`
+`śátruṇā`
 
 धेन्वा  
 `dhenvā́`
@@ -834,7 +834,7 @@ I.
 D.
 
 शत्रवे  
-`çátrave`
+`śátrave`
 
 धेनवे, धेन्वै  
 `dhenáve`, `dhenvāí`
@@ -845,7 +845,7 @@ D.
 Ab. G.
 
 शत्रोस्  
-`çátros`
+`śátros`
 
 धेनोस्, धेन्वास्  
 `dhenós`, `dhenvā́s`
@@ -856,7 +856,7 @@ Ab. G.
 L.
 
 शत्रौ  
-`çátrāu`
+`śátrāu`
 
 धेनौ, धेन्वाम्  
 `dhenāú`, `dhenvā́m`
@@ -867,7 +867,7 @@ L.
 V.
 
 शत्रो  
-`çátro`
+`śátro`
 
 धेनो  
 `dhéno`
@@ -880,7 +880,7 @@ Dual:
 N. A. V.
 
 शत्रू  
-`çátrū`
+`śátrū`
 
 धेनू  
 `dhenū́`
@@ -891,7 +891,7 @@ N. A. V.
 I. D. Ab.
 
 शत्रुभ्याम्  
-`çátrubhyām`
+`śátrubhyām`
 
 धेनुभ्याम्  
 `dhenúbhyām`
@@ -902,7 +902,7 @@ I. D. Ab.
 G. L.
 
 शत्र्वोस्  
-`çátrvos`
+`śátrvos`
 
 धेन्वोस्  
 `dhenvós`
@@ -915,7 +915,7 @@ Plural:
 N. V.
 
 शत्रवस्  
-`çátravas`
+`śátravas`
 
 धेनवस्  
 `dhenávas`
@@ -926,7 +926,7 @@ N. V.
 A.
 
 शत्रून्  
-`çátrūn`
+`śátrūn`
 
 धेनूस्  
 `dhenū́s`
@@ -937,7 +937,7 @@ A.
 I.
 
 शत्रुभिस्  
-`çátrubhis`
+`śátrubhis`
 
 धेनुभिस्  
 `dhenúbhis`
@@ -948,7 +948,7 @@ I.
 D. Ab.
 
 शत्रुभ्यस्  
-`çátrubhyas`
+`śátrubhyas`
 
 धेनुभ्यस्  
 `dhenúbhyas`
@@ -959,7 +959,7 @@ D. Ab.
 G.
 
 शत्रूणाम्  
-`çátrūṇām`
+`śátrūṇām`
 
 धेनूनाभ्  
 `dhenūnā́m`
@@ -970,7 +970,7 @@ G.
 L.
 
 शत्रुषु  
-`çátruṣu`
+`śátruṣu`
 
 धेनुषु  
 `dhenúṣu`
@@ -985,10 +985,10 @@ a\. Singular. Nom.: masc. and fem. as above; neut. `urú`, `urū́`.
 
 b\. Accus.: masc. `ketúm`, `ábhīruam`, `sucetúnam` (?); fem. `dhenúm`.
 
-c\. Instr.: masc. `ketúnā`, `paçvā́` and `krátuā`; fem. `ádhenuā` and
-`panvā́`, `āçuyā́`; neut. `mádhunā`, `mádhvā`.
+c\. Instr.: masc. `ketúnā`, `paśvā́` and `krátuā`; fem. `ádhenuā` and
+`panvā́`, `āśuyā́`; neut. `mádhunā`, `mádhvā`.
 
-d\. Dat.: masc. `ketáve`, `çíçve`; fem. `çárave`, `íṣvāi`; neut. `páçve`
+d\. Dat.: masc. `ketáve`, `śíśve`; fem. `śárave`, `íṣvāi`; neut. `páśve`
 (?), `uráve`, `mádhune`.
 
 e\. Abl.-gen.: masc. `manyós`, `pitvás`, `cā́ruṇas`; fem. `síndhos`,
@@ -1007,9 +1007,9 @@ i\. Instr.-dat.-abl.: as above.
 j\. Gen.-loc.: as above (but `vos` or `uos`).
 
 k\. Plural. Nom.: masc. `ṛbhávas`, `mádhuas` and `mádhvas`; fem.
-`dhenávas`, `çatakratvas`; neut. `purū́ṇi`, `purú`, `purū́`. 
+`dhenávas`, `śatakratvas`; neut. `purū́ṇi`, `purú`, `purū́`. 
 
-l\. Accus.: masc. `ṛtū́n`, `paçvás`; fem. `íṣūs`, `mádhvas`.
+l\. Accus.: masc. `ṛtū́n`, `paśvás`; fem. `íṣūs`, `mádhvas`.
 
 m\. Instr., dat.-abl., and loc., as above; also gen. (but with the
 resolution `ūnaam` in part).
@@ -1081,7 +1081,7 @@ for feminine also.
 a\. There are a few instances of a feminine noun in `ī` standing
 (sometimes with changed accent) beside a masculine in `i`: thus, `krími`
 m., `krimī́` f.; `sákhi` (343 a) m., `sakhī́` f.; `dundubhí` m.,
-`dundubhī` f., `dhúni` m., `dhunī` f.; `çakúni` m., `çakunī` or -`ni` f.
+`dundubhī` f., `dhúni` m., `dhunī` f.; `śakúni` m., `śakunī` or -`ni` f.
 In the later language, especially, there is a very frequent interchange
 of `i` and `ī` as finals of the same stem. No adjective in `i` makes a
 regular feminine in `ī`.
@@ -1091,7 +1091,7 @@ may, and in part does, end in `u`, like the masculine and neuter, a
 special feminine-stem is often made by lengthening the `u` to `ū`, or
 also by adding `ī`; and for some stems a feminine is formed in two of
 these three ways, or even in all the three: thus, `kārū`, -`dipsū́`,
-`çundhyū́`, `cariṣṇū́`, `vacasyū́`; -`aṇvī`, `urvī́`, `gurvī`, `pūrvī́` (with
+`śundhyū́`, `cariṣṇū́`, `vacasyū́`; -`aṇvī`, `urvī́`, `gurvī`, `pūrvī́` (with
 a prolongation of `u` before `r`: compare 245 b), `bahvī́`, `prabhvī́`,
 `raghvī́`, `sādhvī́`, `svādvī́`;—`pṛthú` and `pṛthvī́`, `vibhū́` and
 `vibhvī́`, `mṛdú` and `mṛdvī́`, `laghu` and `laghvī`, `vásu` and `vásvī`;
@@ -1120,9 +1120,9 @@ members are inflected in general like original adjectives of the same
 endings.
 
 a\. But in such compounds a final `i` or `u` is sometimes lengthened to
-form a feminine stem: thus, `suçroṇī`, `svayonī` or -`ni`, -`gātrayaṣṭī`
+form a feminine stem: thus, `suśroṇī`, `svayonī` or -`ni`, -`gātrayaṣṭī`
 or -`ṭi`; `vāmorū` or -`ru`, `durhaṇū` or -`ṇu`, `varatanū`,
-`mātṛbandhū`; and RV. has `áçiçvī` from `çíçu`. 
+`mātṛbandhū`; and RV. has `áśiśvī` from `śíśu`. 
 
 Declension III.  
 Stems in long vowels: आ `ā`, ई `ī`, ऊ `ū`.
@@ -1548,15 +1548,15 @@ masculine (and neuter) stem, or declined like a stem of the derivative
 a\. Thus, compound stems in -`ga`, -`ja`, -`da`, -`stha`, -`bhu`, and
 others, are found even in the Veda, and become frequent later (being
 made from all, or nearly all, the roots in `ā`); and sporadic cases from
-yet others occur: for example, `çṛtapā́n`, `vayodhāís` and
+yet others occur: for example, `śṛtapā́n`, `vayodhāís` and
 `ratnadhébhis`, `dhanasāís` (all RV.); and, from `ī` and `ū` compounds,
-`veṣaçrís` (TS.), `áhrayas` (RV.), `gaṇaçríbhis` (RV.), `karmaṇís` (ÇB),
+`veṣaśrís` (TS.), `áhrayas` (RV.), `gaṇaśríbhis` (RV.), `karmaṇís` (śB),
 and `ṛtaníbhyas` (RV.) and `senāníbhyas` (VS.) and `grímaṇíbhis` (TB.),
-`supúnā` (AV.), `çitíbhráve` (TS.).
+`supúnā` (AV.), `śitíbhráve` (TS.).
 
 b\. Still more numerous are the feminines in `ā` which have lost their
 root-declension: examples are `prajā́` (of which the further compounds in
-part have root-forms), `svadhā́`, `çraddhā́`, `pratimā́`, and others.
+part have root-forms), `svadhā́`, `śraddhā́`, `pratimā́`, and others.
 
 c\. Thus, in the later language, a few feminines in `ī` are made from
 the stems in `a` shortened from `ā`: thus, `gopī`, `goṣṭhī`, `pannagī`,
@@ -1571,8 +1571,8 @@ it may be best described on a Vedic basis.
 
 a\. Of stems in `ā`, masculines, half-a-dozen occur in the Veda:
 `pánthā`, `mánthā`, and `ṛbhukṣā́` are otherwise viewed by the later
-grammar: see below, 433-4; `uçánā` (nom. pr.) has the anomalous nom.
-sing. `uçánā` (and loc. as well as dat. `uçáne`); `mahā́` *great* is
+grammar: see below, 433-4; `uśánā` (nom. pr.) has the anomalous nom.
+sing. `uśánā` (and loc. as well as dat. `uśáne`); `mahā́` *great* is
 found only in accus. sing. and abundantly in composition; `ā́tā` *frame*
 has only `ā́tāsu` not derivable from `ā́ta`.
 
@@ -1589,9 +1589,9 @@ feminines, and all accented on the final. The majority of them are the
 feminine adjectives in `ū́` to masculines in `ú` or `u` (above, 344b):
 thus, `caraṇyū́`, `cariṣṇū́`, `jighatsū́`, `madhū́`. A few are nouns in `ū́`,
 with change of accent: thus, `agrū́` (`ágru`), `pṛdākū́` (`pṛ́dāku`),
-`çvaçrū́` (`çváçura`); or without change, as `nṛtū́`. And a few have no
+`śvaśrū́` (`śváśura`); or without change, as `nṛtū́`. And a few have no
 corresponding masculines: thus, `tanū́`, `vadhū́`, `camū́`. The masculines
-are only two ore three: namely, `prāçū́`, `kṛkadāçū́`, `makṣū́` (?); and
+are only two ore three: namely, `prāśū́`, `kṛkadāśū́`, `makṣū́` (?); and
 their forms are of the utmost rarity.
 
 356\. The mode of declension of these words may be illustrated by the
@@ -1756,16 +1756,16 @@ abbreviated to -`yū́s`.
 `ū`-declension (below, 362 ff.), which has nearly extinguished this
 category of words in the later language, has its beginnings in the Veda;
 but in RV. they are excessively scanty: namely, `dūtiā́m`, loc. sing.,
-once, and `çvaçruā́m`, do., once, and `dravitnuā́`, instr. sing., with two
+once, and `śvaśruā́m`, do., once, and `dravitnuā́`, instr. sing., with two
 or three other doubtful cases. In the Atharvan, we find the acc. sing.
 `kuhū́m`, `tanū́m`, `vadhū́m`; the instr. sing. `palāliā́` and one or two
-others; the dat. sing. `vadhvāí`, `çvaçruāí`, `agrúvāi`; the abl.-gen.
-sing. `punarbhúvās`, `pṛdākuā́s`, `çvaçruā́s`; and the loc. sing. `tanúām`
+others; the dat. sing. `vadhvāí`, `śvaśruāí`, `agrúvāi`; the abl.-gen.
+sing. `punarbhúvās`, `pṛdākuā́s`, `śvaśruā́s`; and the loc. sing. `tanúām`
 (with anomalous accent). Accusative plural in `īs` and `ūs` are nowhere
 met with. 
 
 359\. Adjective compounds from these words are very few; those which
-occur are declined like the simple stems: thus, `híraṇyavāçīs` and
+occur are declined like the simple stems: thus, `híraṇyavāśīs` and
 `sahásrastarīs`, `átaptatanūs` and `sárvatanūs`, all nom. sing.
 masculine.
 
@@ -1918,10 +1918,10 @@ not numerous, and tend to shorten the diphthong to a vowel. Thus, from
 seems to be reduced to `ri` in `bṛhádraye` and `ṛdhádrayas` (RV.). In
 derivation, `go` maintains its full form in `gotra`, `agótā`, -`gava`
 (f. -`gavī`), etc.; as first member of a compound, it is variously
-treated: thus, `gávāçir`, `gáviṣṭi` (but `gaāçir`, `gaīṣṭi` K.), etc.;
-`goaçvá` or `go‘çva`, `góṛjīka`, `góopaça`, etc. In certain compounds,
+treated: thus, `gávāśir`, `gáviṣṭi` (but `gaāśir`, `gaīṣṭi` K.), etc.;
+`goaśvá` or `go‘śva`, `góṛjīka`, `góopaśa`, etc. In certain compounds,
 also, `dyu` or `dyo` takes an anomalous form: thus, `dyāurdā` (K.),
-`dyāurloká` (ÇB.), `dyāúsaṁçita` (AV.). In `revánt` (unless this is for
+`dyāurloká` (śB.), `dyāúsaṁśita` (AV.). In `revánt` (unless this is for
 `rayivant`) `rāi` becomes `re`. RV. has `ádhrigāvas` from `ádhrigu` (of
 questionable import); and AV. has `ghṛtastā́vas`, apparently accus. pl.
 of `ghṛtastú` or -`stó`.
@@ -2253,13 +2253,13 @@ a\. In the Veda `vadhū́` is a stem belonging to the other division (like
 365\. Examples of Vedic forms are:
 
 a\. `ā`-stems: instr. sing. `manīṣā́` (this simpler form is especially
-common from stems in `tā` and `iā`); nom. pl. `vaçā́sas` (about twenty
+common from stems in `tā` and `iā`); nom. pl. `vaśā́sas` (about twenty
 examples); accus. pl. `araṁgamā́sas` (a case or two). Half the
 `bhyas`-cases are to be read as `bhias`; the `ām` of gen. pl. is a few
 times to be resolved into `aam`; and the `ā` and `ām` of nom. accus.
 sing. are, very rarely, to be treated in the same manner.
 
-b\. ī-stems: instr. sing. `çámī`, `çámi`; loc. `gaurī́`; nom. etc. du.
+b\. ī-stems: instr. sing. `śámī`, `śámi`; loc. `gaurī́`; nom. etc. du.
 `devī́`; nom. pl. `devī́s`; gen. pl. `bahvīnā́m`. The final of the stem is
 to be read as a vowel (not `y`) frequently, but not in the majority of
 instances: thus, `deviā́`, `deviā́s`, `deviā́m`, `ródasios`.
@@ -2271,12 +2271,12 @@ d\. Of the regular substitution made in the Brāhmaṇa language (307 g,
 336 g, 363 c) of the dat. sing. ending `ai` for the gen.-abl. ending
 `ās`, in all classes of words admitting the latter ending, a few
 examples may be given here: `abhibhūtyāi rūpam` (AB.) *a sign of
-overpowering*; `triṣṭubhaç ca jagatyāi ca` (AB.) *of the metres triṣṭubh
+overpowering*; `triṣṭubhaś ca jagatyāi ca` (AB.) *of the metres triṣṭubh
 and jagati*; `vāco dāivyāi ca mānuṣyāi ca` (AA.) *of speech, both divine
 and human*; `striyāi payaḥ` (AB.) *woman's milk*;
 `dhenvāí vā́ etád rétaḥ` (TB.) *that, forsooth, is the seed of the cow*;
 `jīrṇāyāi tvacaḥ` (KB.) of dead skin; `jyāyasī yājyāyāi` (AB.) *superior
-to the* `yājyā`; `asyāi divo ‘smād antarikṣāt` (ÇÇS.) *from this heaven,
+to the* `yājyā`; `asyāi divo ‘smād antarikṣāt` (śśS.) *from this heaven,
 from this atmosphere*. The same substitution is made once in the AV.:
 thus, `svápantv asyāi jñātáyaḥ` *let her relatives sleep*. 
 
@@ -2302,7 +2302,7 @@ so made is to be inflected like an adjective in `i` or `u` (339, 341,
 
 b\. Such neuter forms are very rare, and in the older language almost
 unknown. Of neuters from `ī`-stems have been noted in the Veda only
-`hariçríyam`, acc. sing. (a masc. form), and `suādhías`, gen. sing.
+`hariśríyam`, acc. sing. (a masc. form), and `suādhías`, gen. sing.
 (same as mac. and fem.); from `ū`-stems, only a few examples, and from
 stem-forms which might be masc. and fem. also: thus, `vibhú`, `subhú`,
 etc. (nom.-acc. sing.: compare 354); `supúā` and `mayobhúvā`, instr.
@@ -2953,9 +2953,9 @@ grammarians, the radical stems etc. (division A) are treated in the same
 way; but examples of such neuters are of extreme rarity in the language;
 no Vedic text offers one, and in the Brāhmaṇas and Sūtras have been
 noted only -`hunti` (AB. vii. 2. 3), -`vṛnti` (PB. xvi. 2. 7 et al.),
--`bhāñji` (KB. xxvii. 7), -`bhṛ́nti` (ÇB. viii. 1. 31), and -`yuñji`
-(LÇS. ii. 1. 8); while in the later language is found here and there a
-case, like -`çrunti` (Ragh.), -`pūṅṣi` (Çiç.); it may be questioned
+-`bhāñji` (KB. xxvii. 7), -`bhṛ́nti` (śB. viii. 1. 31), and -`yuñji`
+(LśS. ii. 1. 8); while in the later language is found here and there a
+case, like -`śrunti` (Ragh.), -`pūṅṣi` (śiś.); it may be questioned
 whether they are not later analogical formations.
 
 380\. The endings are throughout those given above (310) as the
@@ -3006,13 +3006,13 @@ A. Root-stems, and those inflected like them.
 383\. The stems of this division may be classified as follows:
 
 I. a. Root-stems, having in them no demonstrable element added to a
-root: thus, `ṛ́c` *verse*, `gír` *song*, `pád` *foot*, `díç`,
+root: thus, `ṛ́c` *verse*, `gír` *song*, `pád` *foot*, `díś`,
 *direction*, `máh` (V.) *great*.
 
 b\. Such stems, however, are not always precisely identical in form with
 the root: thus, `vā́c` from √`vac`, `sráj` from √`sṛj`, `mū́ṣ` from
-√`muṣ`, `vríç` from √`vraçc` (?), `úṣ` from √`vas` *shine*; — from roots
-in final `ṛ` come stems in `ir` and `ur`: thus, `gír`, `ā-çír`, `stír`;
+√`muṣ`, `vríś` from √`vraśc` (?), `úṣ` from √`vas` *shine*; — from roots
+in final `ṛ` come stems in `ir` and `ur`: thus, `gír`, `ā-śír`, `stír`;
 `júr`, `túr`, `dhúr`, `púr`, `múr`, `stúr`, `sphúr`; and `psúr` from
 √`psar`.
 
@@ -3033,7 +3033,7 @@ root.
 
 g\. No proper root-stem ends in a short vowel, although there are (354)
 examples of transfer of such to short-vowel-declensions; but `i` or `u`
-or `ṛ` adds a `t` to make a declinable form: thus, -`jít`, -`çrút`,
+or `ṛ` adds a `t` to make a declinable form: thus, -`jít`, -`śrút`,
 -`kṛ́t`. Roots in `ṛ`, however, as has just been seen (b), also make
 stems in `ir` or `ur`.
 
@@ -3064,15 +3064,15 @@ rare or even isolated occurrence. Thus:
 derivatives (V.) in `tāt` (perhaps abbreviated from `tāti`), in a few
 isolated forms: thus, `uparátāt`, `devátāt`, `vṛkátāt`, `satyátāt`,
 `sarvátāt`; — 3. other derivatives in `t` preceded by various vowels:
-thus, `daçát`, `vehát`, `vahát`, `sravát`, `saçcát`, `vāghát`; `nápāt`;
+thus, `daśát`, `vehát`, `vahát`, `sravát`, `saścát`, `vāghát`; `nápāt`;
 `taḍít`, `divít`, `yoṣít`, `rohít`, `sarít`, `harít`; `marút`; `yákṛt`,
-`çákṛt`; and the numerals for 30, 40, 50, `triṅçát` etc. (475); — 4.
-stems in `ad`: thus, `dṛṣád`, `dhṛṣád`, `bhasád`, `vanád`, `çarád`,
+`śákṛt`; and the numerals for 30, 40, 50, `triṅśát` etc. (475); — 4.
+stems in `ad`: thus, `dṛṣád`, `dhṛṣád`, `bhasád`, `vanád`, `śarád`,
 `samád`; — 5. stems in `j` preceded by various vowels: thus, `tṛṣṇáj`,
-`dhṛṣáj`, `sanáj`, `bhiṣáj`; `uçíj`, `vaṇíj`, `bhuríj`, `niṇíj` (?);
+`dhṛṣáj`, `sanáj`, `bhiṣáj`; `uśíj`, `vaṇíj`, `bhuríj`, `niṇíj` (?);
 `ásṛj`; — 6. a few stems ending in a sibilant apparently formative:
 thus, `jñā́s`, -`dās`, `bhā́s`, `mā́s`, `bhī́ṣ`; — 7. a remnant of
-unclassifiable cases, such as `viṣṭáp`, `vípāç`, `kápṛth`, `çurúdh`,
+unclassifiable cases, such as `viṣṭáp`, `vípāś`, `kápṛth`, `śurúdh`,
 `iṣídh`, `pṛkṣúdh`, `raghát` (?), `sarágh`, `visrúh`, `uṣṇíh`, `kaváṣ`.
 
 384\. Gender. The root-stems are regularly feminine as *nomen actionis*,
@@ -3087,8 +3087,8 @@ the neuters rarest of all.
 
 a\. The independent neuter stems are `hṛ́d` (also -`hārd`), `dám`, `vā́r`,
 `svàr`, `mā́s` *flesh*, `ā́s` *mouth*, `bhā́s`, `dós` (with which may be
-mentioned the indeclinables `çā́m` and `yós`); also the apparent
-derivatives `yákṛt`, `çákṛt`, `kápṛth`, `ásṛj`.
+mentioned the indeclinables `śā́m` and `yós`); also the apparent
+derivatives `yákṛt`, `śákṛt`, `kápṛth`, `ásṛj`.
 
 385\. Strong and weak stem-forms. The distinction of these two classes
 of forms is usually made either by the presence or absence of a nasal,
@@ -3101,7 +3101,7 @@ less often, by other methods.
 407 ff.; and RV. has once `uruvyáñcam` from root `vyac`; — 2. The stem
 `yuj`, sometimes, in the older language: thus, nom. sing. `yúñ` (for
 `yúñk`), accus. `yúñjam`, du. `yúñjā` (but also `yújam` and `yújā`); —
-3. The stem -`dṛç`, as final of a compound in the older language; but
+3. The stem -`dṛś`, as final of a compound in the older language; but
 only in the nom. sing, masc., and not always: thus, `anyādṛ́n̄`, `īdṛ́n`̄,
 `kīdṛ́n̄`, `tādṛ́n̄`, `etādṛn`, `sadṛ́n`̄ and `pratisadṛ́n̄`: but also `īdṛ́k`,
 `tādṛ́k`, `svardṛ́k`, etc.; — 4. For `path` and `puṁs`, which substitute
@@ -3109,7 +3109,7 @@ more extended stems, and for `dant`, see below, 394–6.
 
 387\. The vowel `a` is lengthened in strong cases as follows:
 
-1\. Of the roots `vac`, `sac`, `sap`, `nabh`, `ças`, in a few instances
+1\. Of the roots `vac`, `sac`, `sap`, `nabh`, `śas`, in a few instances
 (V.), at the end of compounds; — 2. Of the roots `vah` and `sah`, but
 irregularly; see below, 403–5; — 3. Of `ap` *water* (see 393); also in
 its compound `rītyàp`; — 4. Of `pad`, *foot*: in the compounds of this
@@ -3411,8 +3411,8 @@ b\. Stems in `dh`: -`vṛ́dh` *increasing*: -`vṛ́t`, -`vṛ́dham`, -`vṛ́
 c\. Stems ending in `bh`: -`stúbh` *prasing*: -`stúp`, -`stúbham`,
 -`stúbbhis`, -`stúpsu`.
 
-d\. Stems in `ç`: `díç` (218 a, 145) *direction*: `dík`, `díçam`,
-`digbhís`, `dikṣú`; — `víç` (218, 145) *the people*: `víṭ`, `víçam`,
+d\. Stems in `ś`: `díś` (218 a, 145) *direction*: `dík`, `díśam`,
+`digbhís`, `dikṣú`; — `víś` (218, 145) *the people*: `víṭ`, `víśam`,
 `viḍbhís`, `viṭsú` (V. `vikṣú`: 218 a).
 
 e\. Stems in `ṣ` (226 b, 145): `dvíṣ` *enemy*: `dvíṭ`, `dvíṣam`,
@@ -3422,8 +3422,8 @@ f\. Stems in `h`: `duh`-class (232-3 a, 155 b, 147), `dúh` *milki*
 *yielding*: -`dhúk`, -`dúham`, -`dhúgbhis`, -`dhúkṣu`; — `ruh`-class
 (223 b, 147), -`lih` *licking*: -`liṭ`, -`liham`, -`liḍbhis`, -`liṭsu`.
 
-g\. Stems in `m` (143 a, 212 a: only `praçā́n`, nom. sing., quotable):
--`çām` *quieting*: -`çā́n`, -`çā́mam`, -`çā́nbhis`, -`çā́nsu`.
+g\. Stems in `m` (143 a, 212 a: only `praśā́n`, nom. sing., quotable):
+-`śām` *quieting*: -`śā́n`, -`śā́mam`, -`śā́nbhis`, -`śā́nsu`.
 
 392\. The root-stems in `ir` and `ur` (383 b) lengthen their vowel when
 the final `r` is followed by another consonant (245 b), and also in the
@@ -3436,21 +3436,21 @@ come `pū́r` (`pū́ḥ`), `púram`, `purā́`, etc.; `púrāu`, `pūrbhyā́m`
 `púras`, `pūrbhís`, `pūrbhyás`, `purā́m`, `pūrṣú`.
 
 b\. There are no roots in `is` (except the excessively rare `pis`) or in
-`us`; but from the root `çās` with its `ā` weakened to `i` (250) comes
-the noun `āçís` f. *blessing*, which is inflected like `gír`: thus,
-`āçī́s` (`āçī́ḥ`), `āçíṣam`, `āçíṣā`, etc.; `āçíṣāu`, `āçī́rbhyām`,
-`āçíṣos`; `āçíṣas`, `āçī́rbhis`, `āçī́rbhyas`, `āçíṣām`, `āçī́ḥṣu`. And
+`us`; but from the root `śās` with its `ā` weakened to `i` (250) comes
+the noun `āśís` f. *blessing*, which is inflected like `gír`: thus,
+`āśī́s` (`āśī́ḥ`), `āśíṣam`, `āśíṣā`, etc.; `āśíṣāu`, `āśī́rbhyām`,
+`āśíṣos`; `āśíṣas`, `āśī́rbhis`, `āśī́rbhyas`, `āśíṣām`, `āśī́ḥṣu`. And
 `sajū́s` *together* is apparently a stereotyped nominative of like
 formation from the root `juṣ`. The form `aṣṭā́prūṭ` (TS.), from the
 root-stem `pruṣ`, is isolated and anomalous.
 
 c\. These stems in `ir`, `ur`, is show a like prolongation of vowel also
 in composition and derivation: thus, `gīrvāṇa`, `pūrbhíd`, `dhūrgata`,
-`dhūstva`, `āçīrdā́`, `āçī́rvant`, etc. (but also `gírvan`, `gírvaṇas`).
+`dhūstva`, `āśīrdā́`, `āśī́rvant`, etc. (but also `gírvan`, `gírvaṇas`).
 
 d\. The native grammar sets up a class of quasi-radical stems like
 `jigamis` *desiring to go*, made from the desiderative conjugation-stem
-(1027), and prescribes for it a declension like that of `āçís`: thus,
+(1027), and prescribes for it a declension like that of `āśís`: thus,
 `jigamīs`, `jigamiṣā`, `jigamīrbhis`, `jigamīḥṣu`, etc. Such a class
 appears to be a mere figment of the grammarians, since no example of it
 has been found quotable from the literature, either earlier or later,
@@ -3489,7 +3489,7 @@ with. As to the retention of `s` unlingualized in the weakest cases
 (whence necessarily follows that in the loc. pl.), see 183 a.
 
 b\. This stem appears under a considerable variety of forms in
-composition and derivation: thus, as `puṁs` in `puṁçcalī́`, `puṁstva`,
+composition and derivation: thus, as `puṁs` in `puṁścalī́`, `puṁstva`,
 `púṁsvant`, -`puṁska`, etc; as `pum` in `púṁvatsa`, `púṁrūpa`, `puṁvat`,
 `pumartha`, etc.; as `puṁsa` in `puṁsavant`; — at the end of a compound,
 either with its full inflection, as in `strīpúṁs` etc.; or as `puṁsa`,
@@ -3511,11 +3511,11 @@ required to be made from `dánta`.
 part of their inflection from stems of a different form.
 
 a\. Thus, `hṛ́d` n. *heart*, `mā́ṅs` or `mā́s` n. *meat*, `mā́s` m. *month*,
-`nás` f. *nose*, `niç` f. *night* (not found in the older language),
+`nás` f. *nose*, `niś` f. *night* (not found in the older language),
 `pṛ́t` f. *army*, are said by the grammarians to lack the nom. of all
 numbers and the accus. sing. and du. (the neuters, of course, the acc.
 pl. also), making them respectively from `hṛ́daya`, `māṅsá`, `mā́sa`,
-`nā́sikā`, `niçā`, `pṛ́tanā`. But the usage in the older language is not
+`nā́sikā`, `niśā`, `pṛ́tanā`. But the usage in the older language is not
 entirely in accordance with this requirement: thus, we find `mā́s`
 *flesh* accus. sing.; `mā́s` *month* nom. sing.; and `nā́sā` *nostrils*
 du. From `pṛ́t` occurs only the loc. pl. `pṛtsú` and (RV., once) the same
@@ -3525,7 +3525,7 @@ case with double ending, `pṛtsúṣu`.
 grammarians a full inflection, are used to fill up the deficiencies of
 those of another form.
 
-a\. Thus, `ásṛj` n. *blood*, `çákṛt` n. *ordure*, `yákṛt` n. *liver*,
+a\. Thus, `ásṛj` n. *blood*, `śákṛt` n. *ordure*, `yákṛt` n. *liver*,
 `dós` n. (also m.) *fore-arm*, have beside them defective stems in `án`:
 see below, 432. Of none of them, however, is anything but the nom.-acc.
 sing. found in the older language, and other cases later are but very
@@ -3538,9 +3538,9 @@ in the older language, beside `āsán` and `āsyà`, and `udán` and `údaka`
 399\. Some of the alternative stems mentioned above are instances of
 transition from the consonant to a vowel declension: thus, `dánta`,
 `mā́sa`. A number of other similar cases occur, sporadically in the older
-language, more commonly in the later. Such are `pā́da`, -`māda`, -`dāça`,
-`bhrājá`, `viṣṭápa`, `dvāra` and `dura`, `pura`, `dhura`, -`dṛça`,
-`nā́sā`, `nidā`, `kṣípā`, `kṣapā́`, `āçā́`, and perhaps a few others.
+language, more commonly in the later. Such are `pā́da`, -`māda`, -`dāśa`,
+`bhrājá`, `viṣṭápa`, `dvāra` and `dura`, `pura`, `dhura`, -`dṛśa`,
+`nā́sā`, `nidā`, `kṣípā`, `kṣapā́`, `āśā́`, and perhaps a few others.
 
 a\. A few irregular stems will find a more proper place under the head
 of Adjectives.
@@ -3574,7 +3574,7 @@ instead.
 c\. Only rarely is a derivative feminine stem in `ī` formed: in the
 older language, only from the compounds with `ac` or `añc` (407 ff.),
 those with `han` (402), those with `pad`, as `ékapadī`, `dvipádī`, and
-with `dant`, as `vṛ́ṣadatī`, and `mahī`, `ámucī` (AV.), `úpasadī` (? ÇB).
+with `dant`, as `vṛ́ṣadatī`, and `mahī`, `ámucī` (AV.), `úpasadī` (? śB).
 
 Irregularities of inflection appear in the following:
 
@@ -3659,7 +3659,7 @@ cases, and contracted in the weakest cases to `ūh`. which with a
 preceding `a`-vowel becomes `āu` (137 c): thus, from `havyaváh`
 *sacrifice-bearing* (epithet of Agni), `havyavā́ṭ`, `havyavā́ham`,
 `havyāúhā`, etc.; `havyavā́hāu`, `havyavā́ḍbhyām`, `havyāúhos`;
-`havyavā́has`, `havyāúhas`, `havyavā́ḍbhis`, etc. And `çvetaváh` (not
+`havyavā́has`, `havyāúhas`, `havyavā́ḍbhis`, etc. And `śvetaváh` (not
 quotable) is said to be further irregular in making the nom. sing. in
 `vās` and the vocative in `vas` or `vās`.
 
@@ -3739,7 +3739,7 @@ the older language. But compounds showing the middle stem — as
 `anaḍucchata`, `anaḍudarha` — are met with in Brāhmaṇas etc.
 
 b\. The corresponding feminine stem (of very infrequent occurrence) is
-either `anaḍuhī́` (ÇB.) or `anaḍvāhī́` (K. MS.).
+either `anaḍuhī́` (śB.) or `anaḍvāhī́` (K. MS.).
 
 405\. The root `sah` *overcome* has in the Veda a double irregularity:
 its `s` is changeable to `ṣ` even after an `a`-vowel — as also in its
@@ -3759,8 +3759,8 @@ the stem is a derivative from `ava`+√`yaj` *conciliate*, `avayā́s` is
 probably from `ava` + √`yā`, which has the same meaning. But `sadhamā́s`
 (RV., once) and `purodā́s` (RV., twice) show a similar apparent
 substitution in nom. sing. of the case-ending `s` after long `ā` for a
-final root-consonant (`d` and `ç` respectively). Compare also the
-alleged `çvetavās` (above, 403).
+final root-consonant (`d` and `ś` respectively). Compare also the
+alleged `śvetavās` (above, 403).
 
 407\. Compounds with `añc` or `ac`. The root `ac` or `añc` makes, in
 combination with prepositions and other words, a considerable class of
@@ -3924,7 +3924,7 @@ i inserted in weakest cases only), with a few other rare stems.
 c\. Like víṣvañc is inflected anváñc, also three or four others of which
 only isolated forms occur.
 
-d\. Still more irregular is tiryáñc, of which the weakest stem is tiráçc
+d\. Still more irregular is tiryáñc, of which the weakest stem is tiráśc
 (tirás+ac: the other stems are made from tir+añc or ac, with the
 inserted i).
 
@@ -4134,9 +4134,9 @@ In like manner, चक्षुस् `cákṣus` n. *eye* forms चक्षु
 415\. Vedic etc. Irregularities, a. In the older language, the endings
 -`asam` (acc. sing.) and -`asas` (generally nom.-acc. pl.; once or twice
 gen.-abl. sing.) of stems in `as` are not infrequently contracted to
--`ām`, -`ās` — e. g. `āçā́m`, `vedhā́m`; `surā́dhās`, `ánāgās` — and out of
+-`ām`, -`ās` — e. g. `āśā́m`, `vedhā́m`; `surā́dhās`, `ánāgās` — and out of
 such forms grow, both earlier and later, substitute-stems in `ā`, as
-`āçā́`, `jarā́`, `medhā́`. So from other forms grow stems in `a` and in
+`āśā́`, `jarā́`, `medhā́`. So from other forms grow stems in `a` and in
 `asa`, which exchange more or less with those in as through the whole
 history of the language.
 
@@ -4145,19 +4145,19 @@ usual masc. and fem. du. ending in `ā` instead of `āu`; — 2. `uṣás` f.
 *dawn* often prolongs its `a` in the other strong cases, as in the nom.
 sing.: thus, `uṣā́sam`, `uṣā́sā`, `uṣā́sas` (and once in a weak case,
 `uṣā́sas`); and in its instr. pl. occurs once (RV.) `uṣádbhis` instead of
-`uṣóbhis`; — 3. from `toçás` is once (RV.) found a similar dual,
-`toçā́sā`; — 4. from `svávas` and `svátavas` occur in RV. a nom. sing.
+`uṣóbhis`; — 3. from `tośás` is once (RV.) found a similar dual,
+`tośā́sā`; — 4. from `svávas` and `svátavas` occur in RV. a nom. sing.
 masc. in `vān`, as if from a stem in `vant`; and in the Brāhmaṇas is
 found the dat.-abl. pl. of like formation `svátavadbhyas`.
 
 c\. The stems in `is` and `us` also show transitions to stems in `i` and
 `u`, and in `iṣa` and `uṣa`. From `janús` is once (RV.) made the nom.
 sing, `janū́s`, after the manner of an `as`-stem (cf. also `janūrvā́sas`
-ÇB.).
+śB.).
 
-416\. The grammarians regard `uçánas` m. as regular stem-form of the
+416\. The grammarians regard `uśánas` m. as regular stem-form of the
 proper name noticed above (355 a), but give it the irregular nom.
-`uçánā` and the voc. `uçanas` or `uçana` or `uçanan`. Forms from the
+`uśánā` and the voc. `uśanas` or `uśana` or `uśanan`. Forms from the
 `as`-stem, even nom., are sometimes met with in the later literature.
 
 a\. As to forms from `as`-stems to `áhan` or `áhar` and `ū́dhan` or
@@ -4168,7 +4168,7 @@ Adjectives
 417\. a. A few neuter nouns in `as` with accent on the radical syllable
 have corresponding adjectives or appellatives in `ás`, with accent on
 the ending: thus, for example, `ápas` *work*, `apás` *active*; `táras`
-*quickness*, `tarás` *quick*; `yáças` *glory*, `yaçás` *glorious*. A few
+*quickness*, `tarás` *quick*; `yáśas` *glory*, `yaśás` *glorious*. A few
 other similar adjectives — as `tavás` *mighty*, `vedhás` *pious* — are
 without corresponding nouns.
 
@@ -4181,7 +4181,7 @@ appears in the stems in `as`: e.g. `tápus` *heat* and *hot*; `vápus`
 
 418\. Adjective compounds having nouns of this division as final member
 are very common: thus, `sumánas` *favorably minded*; `dīrghā́yus`
-*long-lived*; `çukráçocis` *having brilliant brightness*. The stem-form
+*long-lived*; `śukráśocis` *having brilliant brightness*. The stem-form
 is the same for all genders, and each gender is inflected in the usual
 manner, the stems in as making their nom. sing. masc. and fem. in `ās`
 (like `án̄giras`, above). Thus, from `sumánas`, the nom. and accus. are
@@ -4500,7 +4500,7 @@ nom.-acc.-voc. du. masc. is usually `ā` instead of `āu`.
 
 b\. The briefer form (with ejected `a`) of the loc. sing., and of the
 neut. nom.-acc.-voc. du., is quite unusual in the older language. RV.
-writes once `çatadā́vni`, but it is to be read `çatadā́vani`; and similar
+writes once `śatadā́vni`, but it is to be read `śatadā́vani`; and similar
 cases occur in AV. (but also several times -`mni`). In the Brāhmaṇas,
 too, such forms as `dhāmani` and `sāmanī` are very much more common than
 such as `ahni` and `lomnī`. 
@@ -4519,8 +4519,8 @@ from `a`-stems, 329 c.
 
 e\. From a few stems in man is made an abbreviated instr. sing., with
 loss of `m` as well as of `a`: thus, `mahinā́`, `prathinā́`, `variṇā́`,
-`dānā́`, `preṇā́`, `bhūnā́`, for `mahimnā́` etc. And `drāghmā́` and `raçmā́`
-(RV., each once) are perhaps for `drāghmáṇā`, `raçmánā`.
+`dānā́`, `preṇā́`, `bhūnā́`, for `mahimnā́` etc. And `drāghmā́` and `raśmā́`
+(RV., each once) are perhaps for `drāghmáṇā`, `raśmánā`.
 
 f\. Other of the weakest cases than the loc. sing. are sometimes found
 with the `a` of the suffix retained: thus, for example, `bhū́manā`,
@@ -4533,7 +4533,7 @@ in reading.
 g\. The voc. sing. in `vas`, which is the usual Vedic form from stems in
 `vant` (below, 454 b), is found also from a few in `van`, perhaps by a
 transfer to the `vant`-declension: thus, `ṛtāvas`, `evayāvas`,
-`khidvas` (?), `prātaritvas`, `mātariçvas`, `vibhāvas`.
+`khidvas` (?), `prātaritvas`, `mātariśvas`, `vibhāvas`.
 
 h\. For words of which the `a` is not made long in the strong cases, see
 the next paragraph.
@@ -4550,10 +4550,10 @@ b\. In the Veda, `ukṣán` *bull* (but also `ukṣā́ṇam`); `yóṣan` *maid
 forms: `anarváṇam`, `jémanā`. And in a number of additional instances,
 the Vedic metre seems to demand `a` where `ā` is written.
 
-427\. The stems `çván` m. *dog* and `yúvan` *young* have in the weakest
-cases the contracted form `çún` and `yū́n` (with retention of the
-accent); in the strong and middle cases they are regular. Thus, `çvā́`,
-`çvā́nam`, `çúnā`, `çúne`, etc., `çvábhyām`, `çvábhis`, etc.; `yúvā`,
+427\. The stems `śván` m. *dog* and `yúvan` *young* have in the weakest
+cases the contracted form `śún` and `yū́n` (with retention of the
+accent); in the strong and middle cases they are regular. Thus, `śvā́`,
+`śvā́nam`, `śúnā`, `śúne`, etc., `śvábhyām`, `śvábhis`, etc.; `yúvā`,
 `yúvānam`, `yū́nā`, `yúvabhis`, etc.
 
 a\. In dual, RV. has once `yū́nā` for `yúvānā`.
@@ -4606,10 +4606,10 @@ a\. In the older language, other cases from the `an`-stems occur: thus,
 `akṣā́ṇi`, `akṣábhis`, and `akṣasu`; `asthā́ni`, `asthábhis`, and
 `asthábhyas`; `sakthā́ni`.
 
-432\. The neuter stems `asán` *blood*, `yakán` *liver*, `çakán`
+432\. The neuter stems `asán` *blood*, `yakán` *liver*, `śakán`
 *ordure*, `āsán` *mouth*, `udán` *water*, `doṣán` *fore-arm*, `yūṣán`
 *broth*, are required to make their nom.-acc.-voc. in all numbers from
-the parallel stems `ásṛj`, `yákṛt`, `çákṛt`, `āsyà`, `údaka` (in older
+the parallel stems `ásṛj`, `yákṛt`, `śákṛt`, `āsyà`, `údaka` (in older
 language `udaká`), `dós`, `yūṣá`, which are fully inflected.
 
 a\. Earlier occurs also the dual `doṣáṇī`.
@@ -4808,7 +4808,7 @@ b\. Stems in `in` exchange with stems in `i` throughout the whole
 history of the language, those of the one class being developed out of
 those of the other often through transitional forms. In a much smaller
 number of cases, stems in `in` are expanded to stems in `ina`: e.g.
-`çākiná` (RV.), `çuṣmiṇa` (B.), `barhiṇa`, `bhajina`.
+`śākiná` (RV.), `śuṣmiṇa` (B.), `barhiṇa`, `bhajina`.
 
 E. Derivative stems (adjective) in `ant` (or `at`).
 
@@ -4844,8 +4844,8 @@ without adding `a`: namely, those of the reduplicating or `hu`-class
 (655) and the intensives (1012): thus, from √`hu`, present-stem `juhu`,
 participle-stem `júhvat`; intensive-stem `johu`, intensive
 participle-stem `jóhvat`. Further, the participles of roots apparently
-containing a contracted reduplication: namely, `cákṣat`, `dā́çat`,
-`dā́sat`, `çā́sat`, `sáçcat`; the aorist participle `dhákṣat`, and
+containing a contracted reduplication: namely, `cákṣat`, `dā́śat`,
+`dā́sat`, `śā́sat`, `sáścat`; the aorist participle `dhákṣat`, and
 `vāghát` (?). `Vavṛdhánt` (RV., once), which has the `n` notwithstanding
 its reduplication, comes, like the desiderative participles (1032), from
 a stem in `a`: compare `vāvṛdhánta`, `vāvṛdhásva`.
@@ -5135,7 +5135,7 @@ from √`dīv` (stem `dī́vya`), `dī́vyantī`; from `búbhūṣa` and `bhāv�
 
 c\. Exceptions to this rule are now and then met with, even from the
 earliest period. Thus, RV. has `járatī`, and AV. the desiderative
-`síṣāsatī`; in B. occur `vadatī`, `çocatī`, `tṛpyatī`, and in S. further
+`síṣāsatī`; in B. occur `vadatī`, `śocatī`, `tṛpyatī`, and in S. further
 `tiṣṭhatī`, and the causative `namayatī`; while in the epics and later
 such cases (including desideratives and causatives) are more numerous
 (about fifty are quotable), though still only sporadic.
@@ -5154,7 +5154,7 @@ f\. The forms in `ántī` from this class are the prevailing ones. No
 future fem. participle in `ati`̄́ is quotable from the older language.
 From pres.-stems in `á` are found there `ṛñjatī́` and `siñcstī́` (RV.),
 `tudatī́` and `pinvatī` (AV.) From denominatives, `devayatī́` (RV.),
-`durasyatī́` and `çatrūyatī́` (AV.). In BhP. occurs `dhakṣyatī`.
+`durasyatī́` and `śatrūyatī́` (AV.). In BhP. occurs `dhakṣyatī`.
 
 g\. Verbs of the `ad` or root-class (611 ff.) ending in `ā` are given by
 the grammarians the same option as regard the feminine of the present
@@ -5168,11 +5168,11 @@ than on the final, in `atī`) only.
 
 i\. Thus, `adatī́` from √`ad`; `júhvatī` from √`hu`; `yuñjatī́` from
 √`yuj`; `sunvatī́` from √`su`; `kurvati`̄́ from √`kṛ`; `krīṇatī́` from
-√`krī`; `dédiçatī` from `dédiç` (intens. of √`diç`). 
+√`krī`; `dédiśatī` from `dédiś` (intens. of √`diś`). 
 
 j\. Feminine stems of this class are occasionally (but the case is much
 less frequent than its opposite: above, c) found with the nasal: thus,
-`yántī` (AV., once), `undántī` (ÇB.; but probably from the secondary
+`yántī` (AV., once), `undántī` (śB.; but probably from the secondary
 `á`-stem), `gṛhṇantī` (S.), and, in the epics and later, such forms as
 `bruvantī`, `rudantī`, `cinvantī`, `kurvantī`, `jānantī`, `muṣṇantī`.
 
@@ -5187,7 +5187,7 @@ irregularity that the `a` of the ending is lengthened in the strong
 forms: thus, `mahā́n`, `mahā́ntam`; `mahā́ntāu` (neut. `mahatī́`);
 `mahā́ntas`, `mahā́nti`: instr. `mahatā́` etc.
 
-c\. `pṛ́ṣant` *speckled*, and (in Veda only) `rúçant` *shining*.
+c\. `pṛ́ṣant` *speckled*, and (in Veda only) `rúśant` *shining*.
 
 d\. `jágat` *moveable, lively* (in the later language, as neuter noun,
 *world*), a reduplicated formation from √`gam` *go*; its nom. etc. neut.
@@ -5196,7 +5196,7 @@ pl. is allowed by the grammarians to be only `jáganti`.
 e\. `ṛhánt` *small* (only once, in RV., `ṛhaté`).
 
 f\. All these form their feminine in `atī` only: thus, `bṛhatī́`,
-`mahatī́`, `pṛ́ṣatī` and `rúçatī` (contrary to the rule for participles),
+`mahatī́`, `pṛ́ṣatī` and `rúśatī` (contrary to the rule for participles),
 `jágatī`.
 
 g\. For `dánt` *tooth*, which is perhaps of participial origin, see
@@ -5230,7 +5230,7 @@ c\. The accent, however, is never thrown forward (as in the participle)
 upon the case-ending or the feminine ending.
 
 453\. To illustrate the inflection of such stems, it will be sufficient
-to give a part of the forms of पशुमन्त् `paçumánt` *possessing cattle*,
+to give a part of the forms of पशुमन्त् `paśumánt` *possessing cattle*,
 and भगवन्त् `bhágavant` *fortunate, blessed*. Thus:
 
 Singular:
@@ -5246,10 +5246,10 @@ n\.
 N.
 
 पशुमान्  
-`paçumā́n`
+`paśumā́n`
 
 पशुमत्  
-`paçumát`
+`paśumát`
 
 भगवान्  
 `bhágavān`
@@ -5260,10 +5260,10 @@ N.
 A.
 
 पशुमन्तम्  
-`paçumántam`
+`paśumántam`
 
 पशुमत्  
-`paçumát`
+`paśumát`
 
 भगवन्तम्  
 `bhágavantam`
@@ -5274,7 +5274,7 @@ A.
 I.
 
 पशुमता  
-`paçumátā`
+`paśumátā`
 
 भगवता  
 `bhágavatā`
@@ -5286,10 +5286,10 @@ etc.
 V.
 
 पशुमन्  
-`páçuman`
+`páśuman`
 
 पशुमत्  
-`páçumat`
+`páśumat`
 
 भगवन्  
 `bhágavan`
@@ -5302,10 +5302,10 @@ Dual:
 N. A. V.
 
 पशुमन्तौ  
-`paçumántāu`
+`paśumántāu`
 
 पशुमती  
-`paçumátī`
+`paśumátī`
 
 भगवन्तौ  
 `bhágavantāu`
@@ -5322,10 +5322,10 @@ Plural:
 N. V.
 
 पशुमन्तस्  
-`paçumántas`
+`paśumántas`
 
 पशुमन्ति  
-`paçumánti`
+`paśumánti`
 
 भगवन्तस्  
 `bhágavantas`
@@ -5336,10 +5336,10 @@ N. V.
 A.
 
 पशुमतस्  
-`paçumátas`
+`paśumátas`
 
 पशुमन्ति  
-`paçumánti`
+`paśumánti`
 
 भगवतस्  
 `bhágavatas`
@@ -5350,7 +5350,7 @@ A.
 I.
 
 पशुमद्भिस्  
-`paçumádbhis`
+`paśumádbhis`
 
 भगवद्भिस्  
 `bhágavadbhis`
@@ -5375,7 +5375,7 @@ also apparently from a few `an`-stems.
 
 C. In RV., the nom. etc. pl. neut., in the only two instances that
 occur, ends in `ānti` instead of `anti`: thus, `ghṛtávānti`,
-`paçumā́nti`. No such forms have been noted elsewhere in the older
+`paśumā́nti`. No such forms have been noted elsewhere in the older
 language: the SV. reads `anti` in its version of the corresponding
 passages, and a few examples of the same ending are quotable from the
 Brāhmaṇas: thus, `tāvanti`, `etā́vanti`, `yā́vanti`, `ghṛtávanti`,
@@ -5625,12 +5625,12 @@ b\. Forms from the middle stem, in vat, are extremely rare earlier: only
 three (tatanvát and vavṛtvát, neut. sing., and jāgṛvádbhis, instr. pl.),
 are found in RV., and not one in AV. And in the Veda the weakest stem
 (not, as later, the middle one) is made the basis of comparison and
-derivation: thus, vidúṣṭara, ádāçuṣṭara, mīḍhúṣṭama, mīḍhúṣmant.
+derivation: thus, vidúṣṭara, ádāśuṣṭara, mīḍhúṣṭama, mīḍhúṣmant.
 
 c\. An example or two of the use of the weak stem-form for cases
 regularly made from the strong are found in RV.: they are cakrúṣam, acc.
 sing., and ábibhyuṣas, nom. pl.; emuṣám, by its accent (unless an
-error), is rather from a derivative stem emuṣá; and ÇB. has proṣúṣam.
+error), is rather from a derivative stem emuṣá; and śB. has proṣúṣam.
 Similar instances, especially from vidvā́ṅs, are now and then met with
 later (see BR., under vidvā́ṅs).
 
@@ -5651,7 +5651,7 @@ distinction of middle and weakest). The voc. sing. masc. ends in यन्
 a\. The feminine is made by adding ई `ī` to the weak masc.-neut. stem.
 
 464\. As models of inflection, it will be sufficient to give a part of
-the forms of श्रेयस् `çréyas` *better*, and of गरीयस् `gárīyas`
+the forms of श्रेयस् `śréyas` *better*, and of गरीयस् `gárīyas`
 *heavier*. Thus:
 
 Singular.
@@ -5659,10 +5659,10 @@ Singular.
 N.
 
 श्रेयान्  
-`çréyān`
+`śréyān`
 
 श्रेयस्  
-`çréyas`
+`śréyas`
 
 गरीयान्  
 `gárīyān`
@@ -5673,10 +5673,10 @@ N.
 A.
 
 श्रेयांसम्  
-`çréyāṅsam`
+`śréyāṅsam`
 
 श्रेयस्  
-`çréyas`
+`śréyas`
 
 गरीयांसम्  
 `gárīyāṅsam`
@@ -5687,7 +5687,7 @@ A.
 I.
 
 श्रेयसा  
-`çréyasā`
+`śréyasā`
 
 गरीयसा  
 `gárīyasā`
@@ -5699,10 +5699,10 @@ etc.
 V.
 
 श्रेयन्  
-`çréyan`
+`śréyan`
 
 श्रेयस्  
-`çréyas`
+`śréyas`
 
 गरीयन्  
 `gárīyan`
@@ -5715,10 +5715,10 @@ Dual:
 N. A. V.
 
 श्रेयांसौ  
-`çréyāṅsāu`
+`śréyāṅsāu`
 
 श्रेयसी  
-`çréyasī`
+`śréyasī`
 
 गरीयांसौ  
 `gárīyāṅsāu`
@@ -5735,10 +5735,10 @@ Plural:
 N. V.
 
 श्रेयांसस्  
-`çréyāṅsas`
+`śréyāṅsas`
 
 श्रेयांसि  
-`çréyāṅsi`
+`śréyāṅsi`
 
 गरीयांसस्  
 `gárīyāṅsas`
@@ -5749,10 +5749,10 @@ N. V.
 A.
 
 श्रेयसस्  
-`çréyasas`
+`śréyasas`
 
 श्रेयांसि  
-`çréyāṅsi`
+`śréyāṅsi`
 
 गरीयसस्  
 `gárīyasas`
@@ -5763,7 +5763,7 @@ A.
 I.
 
 श्रेयोभिस्  
-`çréyobhis`
+`śréyobhis`
 
 गरीयोभिस्  
 `gárīyobhis`
@@ -5772,7 +5772,7 @@ etc.
 
 etc.
 
-a. The feminine stems of these adjectives are श्रेयसी `çréyasī` and
+a. The feminine stems of these adjectives are श्रेयसी `śréyasī` and
 गरीयसी `gárīyasī`.
 
 485\. a. The Vedic voc. masc. (as in the two preceding divisions: 454 b,
@@ -5833,8 +5833,8 @@ and `jáviṣṭha`.
 b\. In a little class of instances (eight), the root has a preposition
 prefixed, which then takes the accent: thus, `ā́gamiṣṭha` *especially
 coming hither*; `vícayiṣṭha` *best clearing away*; — in a couple of
-cases (`áçramiṣṭha`, `áparāvapiṣṭa`, `ástheyas`), the negative particle
-is prefixed; — in a single word (`çámbhaviṣṭha`), an element of another
+cases (`áśramiṣṭha`, `áparāvapiṣṭa`, `ástheyas`), the negative particle
+is prefixed; — in a single word (`śámbhaviṣṭha`), an element of another
 kind.
 
 c\. The words of this formation sometimes take an accusative object (see
@@ -5850,11 +5850,11 @@ e\. Besides the examples that occur also later, others are met with like
 Probably by analogy with these, like formations are in a few cases made
 from the apparently radical syllables of words which have no otherwise
 traceable root in the language: thus, `kradhīyas` and `kradhiṣṭha` (K.)
-from `kṛdhú`, `sthávīyas` and `stháviṣṭha` from `sthūrá`, `çáçīyas`
-(RV.) from `çáçvant`, `áṇīyas` (AV.) and `áṇiṣṭha` (TS.) from `aṇú`; and
+from `kṛdhú`, `sthávīyas` and `stháviṣṭha` from `sthūrá`, `śáśīyas`
+(RV.) from `śáśvant`, `áṇīyas` (AV.) and `áṇiṣṭha` (TS.) from `aṇú`; and
 so on. And yet again, in a few exceptional cases, the suffixes `īyas`
 and `iṣṭha` are applied to stems which are themselves palpably
-derivative: thus, `ā́çiṣṭha` from `āçú` (RV.: only case), `tī́kṣṇīyas`
+derivative: thus, `ā́śiṣṭha` from `āśú` (RV.: only case), `tī́kṣṇīyas`
 (AV.) from `tīkṣṇá`, `bráhmīyas` and `bráhmiṣṭha` (TS. etc.) from
 `bráhman`, `dhármiṣṭha` (TA.) from `dhárman`, `dráḍhiṣṭha` (TA.: instead
 of `dárhiṣṭha`) from `dṛḍhá`, `rághīyas` (TS.) from `raghu`. These are
@@ -5883,8 +5883,8 @@ b\. Of roots in `ā`, the final blends with the initial of the suffix to
 Veda generally to be resolved, as `dháïṣṭha`, `yáïṣṭha`. The root `jyā`
 forms `jyéṣṭha`, but `jyā́yas` (like `bhū́yas`).
 
-c\. The two roots in `ī`, `prī` and `çrī`, form `préyas` and `préṣṭha`
-and `çréyas` and `çréṣṭha`.
+c\. The two roots in `ī`, `prī` and `śrī`, form `préyas` and `préṣṭha`
+and `śréyas` and `śréṣṭha`.
 
 d\. From the root of `ṛjú` come, without strengthening, `ṛ́jīyas` and
 `ṛ́jiṣṭha`; but in the older language also, more regularly, `rájīyas` and
@@ -5901,11 +5901,11 @@ consonant of a case-ending (weak or middle form).
 a\. Examples (of older as well as later occurrence) are: from
 vowel-stems, `priyátara`, `váhnitama`, `rathī́tara` and `rathī́tama`
 (RV.), `cā́rutara`, `potṛ́tama`, `saṁraktatara`; — from consonant-stems,
-`çáṁtama`, `çáçvattama`, `mṛḍayáttama`, `tavástara` and `tavástama`,
-`tuvíṣṭama`, `vápuṣṭara`, `tapasvítara`, `yaçasvítama`, `bhágavattara`,
-`hiraṇyavāçīmattama`; — from compounds, `ratnadhā́tama`, `abhibhū́tara`,
+`śáṁtama`, `śáśvattama`, `mṛḍayáttama`, `tavástara` and `tavástama`,
+`tuvíṣṭama`, `vápuṣṭara`, `tapasvítara`, `yaśasvítama`, `bhágavattara`,
+`hiraṇyavāśīmattama`; — from compounds, `ratnadhā́tama`, `abhibhū́tara`,
 `sukṛ́ttara`, `pūrbhíttama`, `bhūyiṣṭabhā́ktama`, `bhūridā́vattara`,
-`çúcivratatama`, `strīkāmatama`.
+`śúcivratatama`, `strīkāmatama`.
 
 b\. But in the Veda the final `n` of a stem is regularly retained; thus,
 `madíntara` and `madíntama`, `vṛṣántama`; and a few stems even add a
@@ -5950,15 +5950,15 @@ are quotable.
 
 d\. The suffixes of secondary comparison are not infrequently added to
 those of primary, forming double comparatives and superlatives: thus,
-`garīyastara`, `çreṣṭhatara` and `çréṣṭhatama`, `pāpīyastara`,
+`garīyastara`, `śreṣṭhatara` and `śréṣṭhatama`, `pāpīyastara`,
 `pāpiṣṭhatara` and -`tama`, `bhūyastaram`, etc.
 
 a\. The use of `tama` as ordinal suffix is noted below (487); with this
 value, it is accented on the final, and makes its feminine in `ī`: thus,
-`çatatamá` m. n., `çatatamī́` f., *hundredth*.
+`śatatamá` m. n., `śatatamī́` f., *hundredth*.
 
 474\. From a few words, mostly prepositions, degrees of comparison are
 made by the briefer suffixes `ra` and `ma`: thus, `ádhara` and `adhamá`,
 `ápara` and `apamá`, `ávara` and `avamá`, `úpara` and `upamá`, `ántara`,
-`ántama`, `paramá`, `madhyamá`, `caramá`, `antima`, `ādima`, `paçcima`.
+`ántama`, `paramá`, `madhyamá`, `caramá`, `antima`, `ādima`, `paścima`.
 And `ma` is also used to make ordinals (below, 487).

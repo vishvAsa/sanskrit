@@ -95,9 +95,9 @@ for that of √`kṛ`, see 800 k; of √`bhū`, see 800 d; of √`as`, see 800m.
 
 c\. The connection of the noun and auxiliary is not so close that other
 words are not occasionally allowed to come between them: thus,
-`mīmāṅsā́m evá cakré` (ÇB.) *he merely speculated*;
+`mīmāṅsā́m evá cakré` (śB.) *he merely speculated*;
 `vidāṁ vā idam ayaṁ cakāra` (JB.) *he verily knew this*;
-`prabhraṅçayāṁ yo naghuṣaṁ cakāra` *who made Naghusha fall headlong*
+`prabhraṅśayāṁ yo naghuṣaṁ cakāra` *who made Naghusha fall headlong*
 (Rgh.).
 
 1073\. The above is an account of the periphrastic formation with a
@@ -109,12 +109,12 @@ infrequent, combination of such a noun with various forms of the root
 a\. Of the periphrastic perfect occurs only a single example in the
 whole body of Vedic texts (metrical): namely, `gamayā́ṁ cakāra` (AV.). In
 the Brāhmaṇas examples from causative stems begin to appear more freely,
-but are everywhere few in number, except in ÇB. (which has them from
+but are everywhere few in number, except in śB. (which has them from
 twenty-four roots, and a few of these in several occurrences). From
 desiderative stems they are yet rarer (only seven occurrences, five of
-them in ÇB.: see 1034 a); and from intensives they are unknown. The
+them in śB.: see 1034 a); and from intensives they are unknown. The
 periphrastic perfects of primary conjugation were noted above (1071 f:
-in ÇB., eight stems and about eighty occurrences, chiefly from `īkṣ`,
+in śB., eight stems and about eighty occurrences, chiefly from `īkṣ`,
 `bhī`, and `vid`; that from `vid` is found in the greatest number of
 texts).
 
@@ -125,16 +125,16 @@ with `akran`, `vidā́m` (TS. TB. MS.). With the aorist optative or
 precative has been found only `pāvayā́ṁ kriyāt` (MS.).
 
 c\. Like combinations with other tenses are not entirely unknown: thus,
-`juhavāṁ karoti` (ÇÇS.). So also in the later language, where have been
+`juhavāṁ karoti` (śśS.). So also in the later language, where have been
 found quotable half-a-dozen such cases as `vidāṁ karoti` (Pañc.),
 `vidāṁ karotu` and `kurvantu` (Pañc. etc.).
 
 d\. Only two or three cases of the use of `as` instead of `kṛ` as
 auxiliary are met with in the older language: they are `mantrayām āsa`
-(AB. GB.), `janayām āsa` (ÇvU.), and `īkṣām āsa` (ÇÇS.).
+(AB. GB.), `janayām āsa` (śvU.), and `īkṣām āsa` (śśS.).
 
 e\. A single example of an accented auxiliary is met with in the
-accentuated texts: namely, `atirecayā́ṁ cakrús` (ÇB.). As was to be
+accentuated texts: namely, `atirecayā́ṁ cakrús` (śB.). As was to be
 expected, from the nature of the combination, the noun also retains its
 accent (compare 945).
 
@@ -160,17 +160,17 @@ away the wealth of the non-offerer*;
 `yathā sūcyā vāsaḥ saṁdadhad iyād evam evāi ’tābhir yajñasya chidraṁ saṁdadhad eti`
 (AB.) *just as one would mend \[habitually\] a garment with a needle, so
 with these one mends any defect of the sacrifice*;
-`agnir vā idaṁ vāiçvānaro dahann āit` (PB.) *Agni Vaiçvānara kept
+`agnir vā idaṁ vāiśvānaro dahann āit` (PB.) *Agni Vaiśvānara kept
 burning this creation*;
-`té ‘surāḥ párājitā yánto dyā́vāpṛthivī́ úpāçrayan` (TB.) *those Asuras,
+`té ‘surāḥ párājitā yánto dyā́vāpṛthivī́ úpāśrayan` (TB.) *those Asuras,
 getting beaten, took refuge with heaven and earth*;
-`tè ‘sya gṛhā́ḥ paçáva upamūryámāṇā īyuḥ` (ÇB.) *the animals, his family,
+`tè ‘sya gṛhā́ḥ paśáva upamūryámāṇā īyuḥ` (śB.) *the animals, his family,
 would be continually destroyed*.
 
 b. The same with the verb `car` *go* (continually or habitually),
 signifying still more distinctly than the preceding a continued or
-habitual action. Thus: `agnā́v agníç carati práviṣṭaḥ` (AV.) *Agni is
-constantly present in the fire*; `adaṇdyaṁ daṇḍena ghnantaç caranti`
+habitual action. Thus: `agnā́v agníś carati práviṣṭaḥ` (AV.) *Agni is
+constantly present in the fire*; `adaṇdyaṁ daṇḍena ghnantaś caranti`
 (PB.) *they make a practice of beating with a rod what is undeserving of
 punishment*.
 
@@ -187,10 +187,10 @@ optative, `bhū` usually in other forms. Thus: `yaḥ pūrvam anījānaḥ syāt
 (AB.) *whoever may not have made sacrifice before*;
 `samāvad eva yajñe kurvāṇā āsan` (GB.) *they did the same thing at the
 sacrifice*; `parikrī́ḍanta āsan` (MS.) *they were playing about*;
-`yátra suptvā́ púnar nā̀ ’vadrāsyán bhávati` (ÇB.) *when, after sleeping,
+`yátra suptvā́ púnar nā̀ ’vadrāsyán bhávati` (śB.) *when, after sleeping,
 he is not going to fall asleep again*; `havyaṁ hi vakṣyan bhavati` (AB.)
 *for he is intending to carry the sacrifice*; `dāsyant syāt` (K.) *may
-be going to give*; `yéna vā́hanena syantsyánt syā́t` (ÇB.) *with what
+be going to give*; `yéna vā́hanena syantsyánt syā́t` (śB.) *with what
 vehicle he may be about to drive*. True expressions for perfect and
 pluperfect and future perfect time are capable of being made by such
 means, and now and then are made, but in no regular and continued
@@ -302,8 +302,8 @@ less removed from ordinary adverbs.
 1079\. Of yet more limited use, and of noun-rather than adverb-value,
 are:
 
-`çrad` (or `çrath`?), only with `dhā` (in RV., once also with `kṛ`):
-`çraddhā` *believe, credit;*
+`śrad` (or `śrath`?), only with `dhā` (in RV., once also with `kṛ`):
+`śraddhā` *believe, credit;*
 
 `hin̄`, only with `kṛ` (and obsolete in the classical language): `hin̄kṛ`
 *make the sound*, `hing` *low, murmur*.
@@ -342,8 +342,8 @@ progeny, and what wealth we own;* `yátaḥ sadyá ā́ ca párā ca yánti` (AV
 *from whence every day they advance and retire;*
 `vy àháṁ sárveṇa pāpmánā` \[`avṛtam`\] `ví yákṣmeṇa sám ā́yuṣā` (AV.) *I
 have separated from all evil, from disease, \[I have joined myself\]
-with life;* `vi hy enena paçyati` (AB.) *for by it he sees;*
-`ví vā́ eṣá prajáyā paçúbhir ṛdhyate` (TB.) *he is deprived of progeny
+with life;* `vi hy enena paśyati` (AB.) *for by it he sees;*
+`ví vā́ eṣá prajáyā paśúbhir ṛdhyate` (TB.) *he is deprived of progeny
 and cattle*.
 
 c\. Three or four instances have been cited from the later language of a
@@ -372,7 +372,7 @@ woman; come again quickly;* `áthā́ ’staṁ vipáretana` (RV.) *then scatter
 ye away to your home;* `samā́cinuṣvā ’nusampráyāhi` (AV.) *gather
 together, go forth together after;* `yád gṛhā́n upodāíti` (AV.) *when he
 goes up to the house;* `evā́ ca tvám sarama ājagántha` (RV.) *now that
-you, Saramā, have thus come hither;* `yénā́ ”viṣṭitaḥ pravivéçithā ’páḥ`
+you, Saramā, have thus come hither;* `yénā́ ”viṣṭitaḥ pravivéśithā ’páḥ`
 (RV.) *enveloped in which thou didst enter the waters*.
 
 1084\. A prefix, however, not seldom has a more independent value, as a
@@ -400,7 +400,7 @@ forth;* `antárhita` *concealed;* `ávapanna` *fallen;* `sámpūrṇa`
 *complete* (cf. 1284).
 
 b\. But some exceptions to this rule are met with: e. g., in RV.,
-`nicitá`, `niṣkṛtá`, `praçastá`, `niṣattá`, etc.; in AV., `apakrītá`.
+`nicitá`, `niṣkṛtá`, `praśastá`, `niṣattá`, etc.; in AV., `apakrītá`.
 
 c\. with the infinitive in `tu` (972), in all its cases: thus,
 `sáṁhartum` *to collect;* `ápidhātave` *to cover up;* `ávagantos` *of
@@ -435,15 +435,15 @@ c\. In combination with √`i` *go*, the prefixes `parā`, `pari`, and
 derivative stem `palāy` *flee*, inflected according to the a-class, in
 middle voice, which is not uncommon from the Brāhmaṇas down, and has so
 lost the consciousness of its origin that it sometimes takes the augment
-prefixed: thus, `apalāyiṣṭhās` (ÇÇS.), `apalāyata` (R.), `apalāyanta`
+prefixed: thus, `apalāyiṣṭhās` (śśS.), `apalāyata` (R.), `apalāyanta`
 (MBh.); it makes the periphrastic perfect `palāyāṁ cakre`. The stem
-`palyay`, similarly inflected, occurs only in one or two texts (ÇB. JB.
+`palyay`, similarly inflected, occurs only in one or two texts (śB. JB.
 JUB.); and `plāy` has been found nowhere except in MS. Also the
 imperfect `nílāyata` (TS. TB.: not separated in the `pada`-text) and
-perfect `nilayā́ṁ cakre` (ÇB.) are doubtless a corresponding formation
+perfect `nilayā́ṁ cakre` (śB.) are doubtless a corresponding formation
 from √`i` with `nis`, though nearly akin in form and meaning with forms
 from √`lī`+`ni`. So also `pari` becomes `pali` in the combination
-`palyan̄g` (ÇB. ÇÇS.), whether viewed as a denominative formation or as
+`palyan̄g` (śB. śśS.), whether viewed as a denominative formation or as
 √`an̄g`+`pari`. And MS. has once `plā́kṣārayan` (iii. 10. 2; in an
 etymology).
 
@@ -469,7 +469,7 @@ instead of between it and the root: thus, `avaṣaṭkārṣīt` (GB.);
 `anvavīkṣetām`, `aprāiṣīt`, `asambhramat` (MBh.); `abhyanimantrayat`
 (Har.); `vyāvasthāpi` (SDS.); compare also the forms from `palāy`,
 above, c. And AB. has once `niniyoja` (for `niyuyoja`, as read in the
-corresponding passage of ÇÇS.). Some of the apparent roots of the
+corresponding passage of śśS.). Some of the apparent roots of the
 language have been suspected of being results of a similar unification
 of root and prefix: e. g. `āp` from `ā`+`ap`, `vyac` from `vi`+`ac`,
 `tyaj` from `ati`+`aj`.
@@ -517,13 +517,13 @@ prefix.
 b\. Further, combinations with √`kṛ` of utterances used at the
 sacrifice, and mostly ending in `ā`: thus, `svā́hā`, `svadhā́`, `svagā́`;
 also `váṣaṭ`. In these, too, the accentuation is generally that of a
-verb with prefix: e. g. `svagākaróti` (ÇB.; but `svadhā́ karóti` \[?\]
+verb with prefix: e. g. `svagākaróti` (śB.; but `svadhā́ karóti` \[?\]
 TA.), `vaṣaṭkuryā́t` (MS.); and, with another prefix, `anuváṣaṭkaroti`
-(ÇB.).
+(śB.).
 
 c\. An instance or two also occur of ordinary words in such
-combinations, put in corresponding form: thus, `çūlā́ kuryāt` (ÇB.) *may
-roast on a spit* (`çū́la`); `anṛṇākartos` (AB.) *of getting clear of
+combinations, put in corresponding form: thus, `śūlā́ kuryāt` (śB.) *may
+roast on a spit* (`śū́la`); `anṛṇākartos` (AB.) *of getting clear of
 debt;* `āikyābhāvayant` (AA.) *uniting*.
 
 1092\. a. The noun `namas` *obeisance, homage*, in a still more purely
@@ -536,13 +536,13 @@ b\. A solitary combination with √`i` *go* is shown by the accusative
 AV. compounded with the participles — in `astaṁyánt`, `astameṣyánt`,
 `ástamita` (with accent like that of ordinary compounds with a prefix) —
 and in the Brāhmaṇas and the later language is treated quite like a
-prefix: thus, `astaméti` (ÇB.).
+prefix: thus, `astaméti` (śB.).
 
 c\. Other ordinary accusative forms of adjectives in combination with
 verbal derivatives of `kṛ` and `bhū` are found here and there in the
-older language: thus, `çṛtaṁkṛ́tya` and `nagnaṁkṛ́tya` (TS.);
+older language: thus, `śṛtaṁkṛ́tya` and `nagnaṁkṛ́tya` (TS.);
 `nagnambhā́vuka`, `pāmanambhā́vuka` etc. (TS. et al.); `ánaruṣkaroti`
-(ÇB.).
+(śB.).
 
 1093\. In the early but not in the earliest language, a noun-stem thus
 compounded with `kṛ` or `bhū` (and very rarely with `as`), in verbal
@@ -553,21 +553,21 @@ a\. There is no instance of this in RV., unless the `ī` of
 `akkhalīkṛ́tya` (above, 109l a) is to be so explained. In AV., besides
 the obscure `vātī́kṛta` and `vātīkārá`, is found only `phalīkáraṇa`. In
 the Brāhmaṇa language, examples begin to occur more often: thus, in TS.,
-`çyetī́`, `mithunī́`, `muṣṭī`; in TB., further, `phalī́`, `krūrī́`,
-`udvāsī`; in ÇB., besides some of these, also `ekī́`, `kālvālī́`, `tīvrī`,
-`daridrī`, `brāhmaṇī`, `mithunī́`, `svī́`; and `açvābhidānī́`, of which (as
+`śyetī́`, `mithunī́`, `muṣṭī`; in TB., further, `phalī́`, `krūrī́`,
+`udvāsī`; in śB., besides some of these, also `ekī́`, `kālvālī́`, `tīvrī`,
+`daridrī`, `brāhmaṇī`, `mithunī́`, `svī́`; and `aśvābhidānī́`, of which (as
 of `muṣṭī`) the `ī` might be that of an ordinary grammatical form; in
 K., `dvī`; in GB., `pravaṇī`; in ṢB., `vajrī`; in AB., `matī` (from
 `matya`). From Upanishad and Sūtra are to be added `dvāitī` (MU.),
-`samī` (KÇS.), `navī` and `kuçalī` (AGS.). The accent is in general like
+`samī` (KśS.), `navī` and `kuśalī` (AGS.). The accent is in general like
 that of the similar combinations treated above (1091): e. g.
 `krūrīkurvánti`, `svīkṛ́tya`, `brāhmaṇībhū́ya`, `mithunībhávantyāu`,
 `phalī́kartavāí`, `krūrī́kṛta`; but sometimes a mere collocation takes
 place: thus, `mithunī́ bhávantīs` (TS.), `phalī́ kriyámāṇānām` (TB.),
 `vajrī́ bhūtvā́` (TA.). The `ī` is variously treated: now as an
-uncombinable final, as in `çyetī́ akuruta` and `mithunī́ abhavan` (TS.);
+uncombinable final, as in `śyetī́ akuruta` and `mithunī́ abhavan` (TS.);
 now as liable to the ordinary conversions, as in `mithuny ènaya syām`,
-`mithuny ā̀bhiḥ syām`, and `svyàkurvata` (ÇB.).
+`mithuny ā̀bhiḥ syām`, and `svyàkurvata` (śB.).
 
 b\. Out of such beginnings has grown in the later language the following
 rule:
@@ -581,7 +581,7 @@ to ई `ī`; if an `u`-vowel, it is changed to ऊ `ū`.
 a\. Examples are: `stambhībhavati` *becomes a post;* `ekacittībhūya`
 *becoming of one mind;* `upahārīkaroṣi` *thou makest an offering;* ,
 `nakhaprahārajarjarīkṛta` *torn to pieces with blows of the claws;*
-`çithilībhavanti` *become loose;* `kuṇḍalīkṛta` *ring-shaped;*
+`śithilībhavanti` *become loose;* `kuṇḍalīkṛta` *ring-shaped;*
 `surabhīkṛta` *made fragrant;* `ādhīkaraṇa` *pawning;* `ṛjūkṛtya`
 *straightening;* `hetūkaraṇa` *taking as cause*. As in the case of the
 denominatives (1059 c), the combinations with `a`-stems are the immense
@@ -591,7 +591,7 @@ twice each; those made with `i`- and `u`-stems are a very small number.
 In a few instances, stems in `an` and `as`, with those finals changed to
 `ī`, are met with: e. g. `ātmī-kṛ`, `yuvī-bhū`; `unmanī-kṛ`,
 `amanī-bhū`; final `ya` after a consonant is contracted to `ī`: e. g.
-`kāṅsī-kṛ`; and anomalous cases like `kāṁdiçī-bhū` occur. Final `ṛ` is
+`kāṅsī-kṛ`; and anomalous cases like `kāṁdiśī-bhū` occur. Final `ṛ` is
 said to become `rī`, but no examples are quotable. The combinations with
 `kṛ` are about twice as frequent as those with `bhū`, and examples with
 as do not appear to have been brought to light.
@@ -602,7 +602,7 @@ questionable or altogether obscure character: e. g. `urarī-kṛ`,
 
 c\. Examples are not altogether wanting in the later language of `ā` as
 final of the compounded noun-stem (cf. 1091): thus, `duḥkhā-kṛ`,
-`niṣkulā-kṛ`, `çambā-kṛ`, and one or two others.
+`niṣkulā-kṛ`, `śambā-kṛ`, and one or two others.
 
 1095\. Of all the forms which constitute or are attached to the verbal
 system, the passive participle is the one most closely assimilated in

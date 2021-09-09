@@ -81,7 +81,7 @@ h\. The sub-class B. is comparatively small, and its second division
 (participial compounds) is hardly met with even in the later Vedic.
 
 i\. Examples are: `vīrasena` *possessing a hero-army*, `prajākāma`
-*having desire of progeny*, `tigmáçṛn̄ga` *sharphorned*, `háritasraj`
+*having desire of progeny*, `tigmáśṛn̄ga` *sharphorned*, `háritasraj`
 *wearing green garlands*; `atimātrá` *excessive*; `yāvayáddveṣas`
 *driving away enemies*.
 
@@ -102,11 +102,11 @@ copulative), must be made by a succession of bisections.
 a\. Thus, the dependent compound `pūrvajanmakṛta` *done in a previous
 existence* is first divisible into `kṛta` and the descriptive
 `pūrvajanman`, then this into its elements; the dependent
-`sakalanītiçāstratattvajña` *knowing the essence of all books of
+`sakalanītiśāstratattvajña` *knowing the essence of all books of
 behavior* has first the root-stem `jña` (for √`jñā`) *knowing* separated
 from the rest, which is again dependent; then this is divided into
 `tattva` *essence* and the remainder, which is descriptive; this, again,
-divides into `sakala` *all* and `nītiçāstra` *books of behavior*, of
+divides into `sakala` *all* and `nītiśāstra` *books of behavior*, of
 which the latter is a dependent compound and the former a possessive
 (`sa` and `kalā` *having its parts together*).
 
@@ -122,7 +122,7 @@ a triple distinction (311), in its middle form.
 c. That is, especially, stems in `ṛ` or `ar`, `at` or `ant`, `ac` or
 `añc`, etc., show in composition the forms in `ṛ, at, ac`, etc.; while
 those in an and in usually (exceptions sometimes occur, as
-`vṛṣaṇaçvá, vṛṣaṇvasú`) lose their final `n`, and are combined as if `a`
+`vṛṣaṇaśvá, vṛṣaṇvasú`) lose their final `n`, and are combined as if `a`
 and `i` were their proper finals.
 
 d\. As in secondary derivation (1203 d), so also as prior member of a
@@ -130,7 +130,7 @@ compound, a stem sometimes shortens its final long vowel (usually `ī`,
 rarely `ā`): thus, in V.,
 `rodasiprā́, pṛthiviṣṭhā́, pṛthiviṣád, dhā́rapūta, dhāravāká`; in B.,
 `pṛthivi-dā, -bhāga, -loká, sarasvatikṛta, senānigrāmaṇyāù`; in S.,
-`garbhiniprāyaçcitta, sāmidheniprāiṣtya, vasatīvaripariharaṇa, ekādaçinilin̄ga, prapharvidā, devatalakṣaṇa, devatapradhānatva`;
+`garbhiniprāyaścitta, sāmidheniprāiṣtya, vasatīvaripariharaṇa, ekādaśinilin̄ga, prapharvidā, devatalakṣaṇa, devatapradhānatva`;
 later,
 `devakinandana, lakṣmivardhana, kumāridatta, muhūrtaja, iṣṭakacita`,
 etc.
@@ -151,7 +151,7 @@ derivative in `a` of equivalent meaning: for example, `pataṁgá` *going
 by flight*, `dhanaṁjayá` *winning wealth*, `abhayaṁkará` *causing
 absence of danger*, `puṣṭimbhará` *bringing prosperity*, `vācamīn̄khayá`
 *inciting the voice;* but also sometimes before words of other form, as
-`áçvamiṣṭi` *horse-desiring*, `çubhaṁyā́van` *going in splendor*,
+`áśvamiṣṭi` *horse-desiring*, `śubhaṁyā́van` *going in splendor*,
 `subhāgaṁkáraṇa` *making happy*, `bhayaṁkartṛ` *causer of fear*. In a
 few cases, by analogy with these, a word receives an accusative form to
 which it has no right: thus,
@@ -168,8 +168,8 @@ C. In a very few instances, a dative: thus, `nareṣṭhā́` *serving a man*,
 d\. Not seldom, a locative; and this also especially with a root-stem or
 `a`-derivative: for example, `agregá` *going at the head*, `divikṣít`
 *dwelling in the sky*, `vaneṣáh` *prevailing in the wood*, `an̄geṣṭhā́`
-*existing in the limbs*, `proṣṭheçayá` *lying on a couch*, `sutékara`
-*active with the soma*, `divícara` *moving in the sky;* `āréçatru`
+*existing in the limbs*, `proṣṭheśayá` *lying on a couch*, `sutékara`
+*active with the soma*, `divícara` *moving in the sky;* `āréśatru`
 *having enemies far removed*, `sumnáāpi` *near in favor*, `máderaghu`
 *hasting in excitement*, `yudhiṣṭhira` *firm in battle*, `antevāsin`
 *dwelling near;* `apsujá` *born in the waters*, `hṛtsvás` *hurling at
@@ -195,7 +195,7 @@ thus, `apsujā́` etc. (in derivation, also, `apsu` is used as a stem),
 h\. Much more often, of words having gender-forms, the feminine is used
 in composition, when the distinctive feminine sense is to be conveyed:
 e. g. `gopīnātha` *master of the shepherdesses*, `dāsīputra` *son of a
-female slave*, `mṛgīdṛç` *gaselle-eyed*, `praṇītāpraṇáyana` *vessel for
+female slave*, `mṛgīdṛś` *gaselle-eyed*, `praṇītāpraṇáyana` *vessel for
 consecrated water*.
 
 1251\. The accent of compounds is very various, and liable to
@@ -234,9 +234,9 @@ e\. The compound has an accent which is altered from that of one of its
 members. This is everywhere an exceptional and sporadically occurring
 case, and the instances of it, noted below under each formation, do not
 require to be assembled here. Examples are: `medhásāti` (`médha`),
-`tilámiçra` (`tíla`), `khā́dihasta` (`khādí`), `yāvayáddveṣas`
-(`yāváyant`); `çakadhū́ma` (`dhūmá`), `amṛ́ta` (`mṛtá`), `suvī́ra`
-(`vīrá`), `tuvigrī́va` (`grīvā́`). A few words — as `víçva, pū́rva`, and
+`tilámiśra` (`tíla`), `khā́dihasta` (`khādí`), `yāvayáddveṣas`
+(`yāváyant`); `śakadhū́ma` (`dhūmá`), `amṛ́ta` (`mṛtá`), `suvī́ra`
+(`vīrá`), `tuvigrī́va` (`grīvā́`). A few words — as `víśva, pū́rva`, and
 sometimes `sárva` — take usually a changed accent as prior members of
 compounds.
 
@@ -256,12 +256,12 @@ instead of copulative, though only exceptional, are not very rare:
 examples are `nyūnādhika` *defective or redundant*, `jayaparājaya`
 *victory or defeat*, `krītotpanna` *purchased or on hand*,
 `kāṣṭhaloṣṭasama` *like a log or clod*, `pakṣimṛgatā` *the condition of
-being bird or beast*, `triṅçadviṅça` *numbering twenty or thirty*,
+being bird or beast*, `triṅśadviṅśa` *numbering twenty or thirty*,
 `catuṣpan̄cakṛtvas` *four or five times*, `dvyekāntara` *different by one
 or two*. A less marked modification of the copulative idea is seen in
 such instances as `priyasatya` *agreeable though true*,
 `prārthitadurlabha` *sought after but hard to obtain;* or in
-`çrāntāgata` *arrived weary*.
+`śrāntāgata` *arrived weary*.
 
 1253\. The noun-copulatives fall, as regards their inflective form, into
 two classes:
@@ -273,14 +273,14 @@ denoting two or more than two individual things.
 b\. Examples are: `prāṇāpānāú` *inspiration and expiration*,
 `vrīhiyavāú` *rice and barley*, `ṛksāmé` *verse and chant*,
 `kapotolukāú` *dove and owl*, `candrādityāu` *moon and sun*,
-`hastyaçvāu` *the elephant and horse*, `ajāváyas` *goats and sheep*,
+`hastyaśvāu` *the elephant and horse*, `ajāváyas` *goats and sheep*,
 `devāsurā́s` *the gods and demons*, `atharvān̄girásas` *the Atharvans and
 Angirases*, `sambādhatandryàs` *anxieties and fatigues*, `vidyākarmáṇī`
-*knowledge and action*, `hastyaçvās` *elephants and horses;* of more
+*knowledge and action*, `hastyaśvās` *elephants and horses;* of more
 than two members (no examples quotable from the older language),
-`çayyāsanabhogās` *lying, sitting, and eating*,
-`brāhmaṇakṣatriyaviṭçūdrās` *a Brahman, Kshatriya, Vaiçya, and Çūdra*,
-`rogaçokaparītāpabandhanavyasanāni` *disease, pain, grief, captivity,
+`śayyāsanabhogās` *lying, sitting, and eating*,
+`brāhmaṇakṣatriyaviṭśūdrās` *a Brahman, Kshatriya, Vaiśya, and śūdra*,
+`rogaśokaparītāpabandhanavyasanāni` *disease, pain, grief, captivity,
 and misfortune*.
 
 2\. c. The compound, without regard to the number denoted, or to the
@@ -288,9 +288,9 @@ gender of its constituents, becomes a neuter singular collective.
 
 d\. Examples are: `iṣṭāpūrtám` *what is offered and bestowed*,
 `ahorātrám` *a day and night*, `kṛtākṛtám` *the done and undone*,
-`bhūtabhavyám` *past and future*, `keçaçmaçrú` *hair and beard*,
+`bhūtabhavyám` *past and future*, `keśaśmaśrú` *hair and beard*,
 `oṣadhivanaspatí` *plants and trees*, `candratārakám` *moon and stars*,
-`ahinakulam` *snake and ichneumon*, `çirogrīvam` *head and neck*,
+`ahinakulam` *snake and ichneumon*, `śirogrīvam` *head and neck*,
 `yūkāmakṣīkamatkuṇam` *lice, flies, and bugs*.
 
 1254\. a. That a stem in `ṛ` as prior member sometimes takes its
@@ -315,7 +315,7 @@ occurrences out of more than three hundred) in which other cases than
 the nom.-acc.-voc. are formed, the final member only is inflected.
 
 b\. Examples are:
-`índrāsómā, índrāvíṣṇū, índrābṛ́haspátī, agnī́ṣómāu, turváçāyádū, dyā́vāpṛthivī́, uṣā́sānáktā`
+`índrāsómā, índrāvíṣṇū, índrābṛ́haspátī, agnī́ṣómāu, turváśāyádū, dyā́vāpṛthivī́, uṣā́sānáktā`
 (and, with intervening words, `náktā`...`uṣā́sā`), `sū́ryāmā́sā`. The only
 plural is `indrāmarutas` (voc.). The cases of other than nominative form
 are `mitrā́váruṇābhyām` and `mitrā́váruṇayos` (also `mitráyor váruṇayoḥ`),
@@ -332,11 +332,11 @@ wanting, while yet the double designation of number is present: thus,
 `indrāpūṣṇós` (beside `índrāpūṣáṇā`), `somāpūṣábhyām` (`somāpūṣaṇā`
 occurs only as voc.), `vātāparjanyā́, sūryācandramásā`, and `indrāgnī́`
 (with `indrāgníbhyām` and `indrāgnyós`): `somārudrāú` is accented only
-in ÇB. And in one, `indravāyū́`, form and accent are both accordant with
+in śB. And in one, `indravāyū́`, form and accent are both accordant with
 the usages of the later language.
 
 e\. Of other copulatives, like those made later, the RV. has the plural
-`ajāváyas`, the duals `ṛksāmé, satyānṛté, sāçanānaçané`; also the neuter
+`ajāváyas`, the duals `ṛksāmé, satyānṛté, sāśanānaśané`; also the neuter
 collective `iṣṭāpūrtám`, and the substantively used neuter of a
 copulative adjective, `nīlalohitám`. Further, the neuter plurals
 `ahorātrā́ṇi` *nycthemera*, and `ukthārkā́` *praises and songs*, of which
@@ -350,12 +350,12 @@ singular collectives is almost wanting.
 a\. The words with double dual form are only a small minority (a
 quarter, instead of three quarters, as in RV.); and half of them have
 only a single accent, on the final: thus, besides those in RV.,
-`bhavārudrāú, bhavāçarvāú`; `agnāviṣṇū`, voc., is of anomalous form. The
+`bhavārudrāú, bhavāśarvāú`; `agnāviṣṇū`, voc., is of anomalous form. The
 whole number of copulatives is more than double that in RV.
 
 b\. The only proper neuter collectives, composed of two nouns, are
-`keçaçmaçrú` *hair and heard*, `āñjanābhyañjanám` *salve and ointment*,
-and `kaçipūpabarhaṇám` *mat and pillow*, unified because of the virtual
+`keśaśmaśrú` *hair and heard*, `āñjanābhyañjanám` *salve and ointment*,
+and `kaśipūpabarhaṇám` *mat and pillow*, unified because of the virtual
 unity of the two objects specified. Neuter singulars, used in a similar
 collective way, of adjective compounds, are (besides those in RV.):
 `kṛtākṛtám` *what is done and undone* (instead of *what is done and what
@@ -366,12 +366,12 @@ evil*, `bhūtabhavyám` *past and future*.
 adjective character are made in the same manner, but are in comparison
 rare.
 
-a\. Examples are `çuklakṛṣṇa` *light and dark*, `sthalajāudaka`
+a\. Examples are `śuklakṛṣṇa` *light and dark*, `sthalajāudaka`
 *terrestrial and aquatic*, `dāntarājatasāuvarṇa` *of ivory and silver
 and gold*, used distributively; and `vṛttapīna` *round and plump*,
-`çāntānukūla` *tranquil and propitious*, `hṛṣitasragrajohīna` *wearing
-fresh garlands and free from dust*, `niṣekādiçmaçānānta` *beginning with
-conception and ending with burial*, used cumulatively; `nā ’tiçītoṣṇa`
+`śāntānukūla` *tranquil and propitious*, `hṛṣitasragrajohīna` *wearing
+fresh garlands and free from dust*, `niṣekādiśmaśānānta` *beginning with
+conception and ending with burial*, used cumulatively; `nā ’tiśītoṣṇa`
 *not over cold or hot*, used alternatively; `kṣaṇadṛṣṭanaṣṭa` *seen for
 a moment and then lost*, `cintitopasthita` *at hand as soon as thought
 of*, in more pregnant sense.
@@ -388,15 +388,15 @@ from the ordinary noun-compounds.
 
 c\. A special case is that of the compound adjectives of direction: as
 `uttarapūrva` *north-east*, `prāgdakṣiṇa` *south-east',
-`dakṣiṇapaçcima`* south-west*, etc.: compare 1291 b.*
+`dakṣiṇapaścima`* south-west*, etc.: compare 1291 b.*
 
 1258\. In accentuated texts, the copulative compounds have uniformly the
 accent (acute) on the final of the stem.
 
 a\. Exceptions are a case or two in AV., where doubtless the reading is
 false: thus, `vātāparjanyā̀` (once: beside -`nyáyos`), `devamanuṣyā̀ s`
-(once: ÇB. -`syá`), `brahmarājanyā̀ bhyām` (also VS.); further,
-`vākopavākyà` (ÇB.), `açanāyā́pipāse` (ÇB.).
+(once: śB. -`syá`), `brahmarājanyā̀ bhyām` (also VS.); further,
+`vākopavākyà` (śB.), `aśanāyā́pipāse` (śB.).
 
 1259\. An example or two are met with of adverbial copulatives: thus,
 `áhardivi` *day by day*, `sāyámprātar` *at evening and in the morning*.
@@ -416,25 +416,25 @@ compounds. Thus: `jahy èṣaṁ váraṁ-varam` *slay of them each beat man;*
 `divé-dive` or `dyávi-dyavi` *from day to day;*
 `án̄gād-an̄gāl lómno-lomnaḥ párvaṇi-parvaṇi` *from every limb, from every
 hair, in each joint;* `prá-pra yajñápatiṁ tira` *make the master of the
-sacrifice live on and on;* `bhū́yo-bhūyaḥ çváḥ-çvaḥ` *further and
+sacrifice live on and on;* `bhū́yo-bhūyaḥ śváḥ-śvaḥ` *further and
 further, tomorrow and again tomorrow;* `ékayāi-’kayā` *with in each case
 one;* `vayáṁ-vayam` *our very selves*.
 
 b\. Exceptional and rare cases are those of a personal verb-form
-repeated: thus, `píbā-piba` (RV.), `yájasva-yajasva` (ÇB.), `véda-veda`
-(? ÇB.); — and of two words repeated: thus, `yā́vad vā-yāvad vā` (ÇB.),
-`yatamé vā-yatame vā` (ÇB.).
+repeated: thus, `píbā-piba` (RV.), `yájasva-yajasva` (śB.), `véda-veda`
+(? śB.); — and of two words repeated: thus, `yā́vad vā-yāvad vā` (śB.),
+`yatamé vā-yatame vā` (śB.).
 
 c\. In a few instances, a word is found used twice in succession without
 that loss of accent the second time which makes the repetition a virtual
 composite: thus, `nū́ nú` (RV.), `sáṁ sám` (AV.), `ihé ’há` (AV.),
-`anáyā- ’náyā` (ÇB.), `stuhí stuhí` (RV., acc. to pada-text).
+`anáyā- ’náyā` (śB.), `stuhí stuhí` (RV., acc. to pada-text).
 
 d\. The class of combinations here described is called by the native
 grammarians `āmreḍita` *added unto* (?).
 
 1261\. Finally may be noticed in passing the compound numerals,
-`ékādaça` *11*, `dvā́viṅçati` *22*, `tríçata` *103*, `cátuḥsahasra`
+`ékādaśa` *11*, `dvā́viṅśati` *22*, `tríśata` *103*, `cátuḥsahasra`
 *1004*, and so on (476 ff.), as a special and primitive class of
 copulatives. They are accented on the prior member. 
 
@@ -474,10 +474,10 @@ a\. Examples are: of genitive relation, `devasenā́` *army of gods*,
 `yamadūtá` *Yama's messenger*, `jīvaloká` *the world of the living*, ``
 `indradhanús` *Indra's bow*, `brahmagavī́` *the Brahman's cow*,
 `viṣagirí` *poison-mount*, `mitralābha` *acquisition of friends*,
-`mūrkhaçatāni` *hundreds of fools*, `vīrasenasuta` *Vī́rasena's son*,
+`mūrkhaśatāni` *hundreds of fools*, `vīrasenasuta` *Vī́rasena's son*,
 `rājendra` *chief of kings*, `asmatputrās` *our sons*, `tadvacas` *his
 words;* — of dative, `pādodaka` *water for the feet*, `māsanicaya`
-*accumulation for a month;* — of instrumental, `ātmasādṛçya` *likeness
+*accumulation for a month;* — of instrumental, `ātmasādṛśya` *likeness
 with self*, `dhānyārtha` *wealth acquired by grain*, `dharmapatnī`
 *lawful spouse*, `pitṛbandhú` *paternal relation;* — of ablative,
 `apsaraḥsambhava` *descent from a nymph*, `madviyoga` *separation from
@@ -492,12 +492,12 @@ value of a participle. The prior member stands in any case-relation
 which is possible in the independent construction of such words.
 
 a\. Examples are: of locative relation, `sthālīpakva` *cooked in a pot*,
-`açvakovida` *knowing in horses*, `vayaḥsama` *alike in age*,
-`yudhiṣṭhira` *steadfast in battle*, `tanū́çubhra` *beautiful in body;* —
-of instrumental, `mātṛsadṛça` *like his mother;* — of dative, `gohita`
+`aśvakovida` *knowing in horses*, `vayaḥsama` *alike in age*,
+`yudhiṣṭhira` *steadfast in battle*, `tanū́śubhra` *beautiful in body;* —
+of instrumental, `mātṛsadṛśa` *like his mother;* — of dative, `gohita`
 *good for cattle;* — of ablative, `bhavadanya` *other than you*,
-`garbhāṣṭama` *eighth from birth*, `dṛçyetara` *other than visible* (i.
-e. *invisible*); — of genitive, `bharataçreṣṭha` *best of the Bharatas*,
+`garbhāṣṭama` *eighth from birth*, `dṛśyetara` *other than visible* (i.
+e. *invisible*); — of genitive, `bharataśreṣṭha` *best of the Bharatas*,
 `dvijottama` *foremost of Brahmans;* — with participial words, in
 accusative relation, `vedavíd` *Veda-knowing*, `annādá` *food-eating*,
 `tanūpā́na` *body-protecting*, `satyavādín` *truth-speaking*,
@@ -507,7 +507,7 @@ instrumental, `madhupū́` *cleaning with honey*, `svayáṁkṛta` *self-made*,
 *destitute of*) *knowledge;* — in locative, `hṛdayāvídh` *pierced in the
 heart*, `ṛtvíj` *sacrificing in due season*, `divícara` *moving in the
 sky;* — in ablative, `rājyabhraṣṭa` *fallen from the kingdom*,
-`vṛkabhīta` *afraid of a wolf;* — in dative, `çaraṇāgata` *come for
+`vṛkabhīta` *afraid of a wolf;* — in dative, `śaraṇāgata` *come for
 refuge*.
 
 1266\. We take up now some of the principal groups of compounds falling
@@ -526,23 +526,23 @@ a. A principal exception with regard to accent is `páti` *master, lord*
 accent of the prior member: thus,
 `prajā́pati, vásupati, átithipati, gópati, gṛhápatnī`, etc. etc. (compare
 the verbal nouns in `ti`, below, 1274). But in a few words `páti`
-retains its own accent: thus, `viçpáti, rayipáti, paçupáti, vasupátnī`,
+retains its own accent: thus, `viśpáti, rayipáti, paśupáti, vasupátnī`,
 etc.; and the more general rule is followed in `apsarāpatí` and
 `vrājapatí` (AV.), and `nadīpatí` (VS.), `citpatí` (MS.; elsewhere
 `citpáti`).
 
 b\. Other exceptions are sporadic only: for example,
 `janarā́jan, devavárman, hiraṇyatéjas, pṛtanāháva, godhū́ma` and
-`çakadhū́ma` (but `dhūmá`); `vācā́stena`.
+`śakadhū́ma` (but `dhūmá`); `vācā́stena`.
 
 c\. The appearance of a case-form in such compounds is rare: examples
-are `dívodasa, vācā́stena, uccāíḥçravas, uccāírghoṣa, dūrébhās` (the
+are `dívodasa, vācā́stena, uccāíḥśravas, uccāírghoṣa, dūrébhās` (the
 three last in possessive application).
 
 d\. A number of compounds are accented on both members: thus,
-`çácīpáti, sádaspáti, bṛ́haspáti, vánaspáti, ráthaspáti, jā́spáti` (also
-`jā́spati`), `nárāçaṅsa, tánūnáptṛ, tánūnápāt` (`tanū́` as independent
-word), `çúnaḥçépa`. And ÇB. has a long list of metronymics having the
+`śácīpáti, sádaspáti, bṛ́haspáti, vánaspáti, ráthaspáti, jā́spáti` (also
+`jā́spati`), `nárāśaṅsa, tánūnáptṛ, tánūnápāt` (`tanū́` as independent
+word), `śúnaḥśépa`. And śB. has a long list of metronymics having the
 anomalous accentuation `kāútsīpútra, gā́rgīpútra`, etc.
 
 1268\. The compounds having an ordinary adjective as final member are
@@ -551,7 +551,7 @@ anomalous accentuation `kāútsīpútra, gā́rgīpútra`, etc.
 a\. So far as can be gathered from the scanty examples occurring in the
 older language, they retain the accent of the prior member: thus,
 `gáviṣṭhira` (AV. `gavíṣṭhira`),
-`tanū́çubhra, máderaghu, yajñádhira, sā́mavipra, tilámiçra` (but `tíla`);
+`tanū́śubhra, máderaghu, yajñádhira, sā́mavipra, tilámiśra` (but `tíla`);
 but `kṛṣṭapacyá` *ripening in cultivated soil*.
 
 1269\. The adjective dependent compounds having as final member the bare
@@ -561,11 +561,11 @@ repeatedly noticed (thus, 383 f–h, 1147). They are accented on the root.
 
 a\. In a very few instances, the accent of words having apparently or
 conjecturally this origin is otherwise laid: thus,
-`áṅsatra, ánarviç, svā́vṛj, pratyákṣadṛç, púraṁdhi, óṣadhi, áramiṣ, uçádagh, vatsápa, ábda`.
+`áṅsatra, ánarviś, svā́vṛj, pratyákṣadṛś, púraṁdhi, óṣadhi, áramiṣ, uśádagh, vatsápa, ábda`.
 
 b\. Before a final root-stem appears not very seldom a case-form: for
 example,
-`pataṁgá, girāvṛ́dh, dhiyājúr, akṣṇayādrúh, hṛdispṛ́ç, divispṛ́ç, vanesáh, diviṣád, an̄geṣṭhā́, hṛsvás, pṛtsutúr, apsujá`.
+`pataṁgá, girāvṛ́dh, dhiyājúr, akṣṇayādrúh, hṛdispṛ́ś, divispṛ́ś, vanesáh, diviṣád, an̄geṣṭhā́, hṛsvás, pṛtsutúr, apsujá`.
 
 C. The root-stem has sometimes a middle or passive value: for example,
 `manoyúj` *yoked* (*yoking themselves*) *by the will*, `hṛdayāvídh`
@@ -590,13 +590,13 @@ And `dúgha` *milking, yielding* is so accented as final: thus,
 c\. Case-forms are especially frequent in the prior members of compounds
 with adjective derivatives in `a` showing `guṇa`-strengthening of the
 root: thus, fox example,
-`abhayaṁkará, yudhiṁgamá, dhanaṁjayá, puraṁdará, viçvambhará, divākará, talpeçayá, diviṣṭambhá`.
+`abhayaṁkará, yudhiṁgamá, dhanaṁjayá, puraṁdará, viśvambhará, divākará, talpeśayá, diviṣṭambhá`.
 
 1271\. Compounds with verbal nouns and adjectives in `ana` are very
 numerous, and have the accent always on the radical syllable (as in the
 case of compounds with verbal prefixes: 1150 e).
 
-a\. Examples are: `keçavárdhana` *hair-increasing*, `āyuṣpratáraṇa`
+a\. Examples are: `keśavárdhana` *hair-increasing*, `āyuṣpratáraṇa`
 *life-lengthening*, `tanūpā́na` *body-protecting;* `devahéḍana` *hatred
 of the gods*, `puṁsúvana` *giving birth to males*.
 
@@ -617,7 +617,7 @@ b\. The same is true of the equivalent feminines in `ya`: see above,
 c\. The gerundives in `ya` (1213) hardly occur in the older language in
 combination with other elements than prefixes. The two `nīvibhāryà` and
 `prathamavāsyà` (the latter a descriptive) have the accent of the
-independent words of the same form; `balavijñayá` and `áçvabudhya` (?)
+independent words of the same form; `balavijñayá` and `áśvabudhya` (?)
 are inconsistent with these and with one another.
 
 1273\. Compounds made with the passive participle in `ta` or `na` have
@@ -630,12 +630,12 @@ Prajāpati*, `devátta` *given by the gods;* and, of participles combined
 with prefixes, `índraprasūta` *incited by Indra*, `bṛ́haspátipraṇutta`
 *driven away by Brihaspati*, `ulkā́bhihata` *struck by a thunderbolt*,
 `vájravihata`, `` `saṁvatsarásammita` *commensurate with the year*. AV.
-has the anomalous `apsúsaṁçita` *quickened by the waters*.
+has the anomalous `apsúsaṁśita` *quickened by the waters*.
 
 b\. A number of exceptions occur, in which the final syllable of the
 compound has the accent: for example,
 `agnitaptá, indrotá, pitṛvittá, rathakrītá, agnidagdhá` (beside
-`agnídagdha`), `kaviçastá` (beside `kavíçasta`), `kavipraçastá`.
+`agnídagdha`), `kaviśastá` (beside `kavíśasta`), `kavipraśastá`.
 
 c\. One or two special usages may be noticed. The participle `gata`,
 *gone to*, as final of a compound, is used in a loose way in the later
@@ -651,9 +651,9 @@ being darkness* (*existing in the condition of darkness*);
 a field; a man, as seed;* and so on.
 
 d\. The other participles only seldom occur as finals of compounds:
-thus, `prāsakārmukabibhrat` *bearing javelin and bow*, `açāstravidvāṅs`
-*not knowing the text-books*, `arjunadarçivāṅs` *having seen Arjuna*,
-`apriyaçaṅsivāṅs` *announcing what is disagreeable*, `gāutamabruvāṇá`
+thus, `prāsakārmukabibhrat` *bearing javelin and bow*, `aśāstravidvāṅs`
+*not knowing the text-books*, `arjunadarśivāṅs` *having seen Arjuna*,
+`apriyaśaṅsivāṅs` *announcing what is disagreeable*, `gāutamabruvāṇá`
 *calling himself Gautama*.
 
 1274\. Compounds with derivatives in `ti` have (like combinations with
@@ -676,9 +676,9 @@ ordinary nouns.
 1275\. Compounds with a derivative in `in` as final member have (as in
 all other cases) the accent on the `ín`.
 
-a\. Thus, `ukthaçaṅsín` *psalm-singing*, `vratacārín` *vow-performing*,
+a\. Thus, `ukthaśaṅsín` *psalm-singing*, `vratacārín` *vow-performing*,
 `ṛṣabhadāyín` *bullock-giving*, `satyavādín` *truth-speaking*,
-`çroṇipratodín` *thigh-pounding*.
+`śroṇipratodín` *thigh-pounding*.
 
 1276\. There is a group of compounds with derivatives in `i`, having the
 accent on the penult or radical syllable.
@@ -696,7 +696,7 @@ numbers to establish a distinct rule, but they appear to be oftenest
 accented on the suffix (1155 f).**
 
 b\. From √`han` are made in composition -`ghni` and -`ghnī`, with accent
-on the ending: thus, `sahasraghní, ahighnī́, çvaghnī́`; -`dhi` from
+on the ending: thus, `sahasraghní, ahighnī́, śvaghnī́`; -`dhi` from
 √`dhā`, (1155 g) has the accent in its numerous compounds: thus,
 `iṣudhí, garbhadhí, pucchadhí`.
 
@@ -705,13 +705,13 @@ prefixes: 1169 c) the accent of the final member: namely, on the radical
 syllable.
 
 a\. Thus, `somapā́van` *soma-drinking*, `baladā́van` *strength-giving*,
-`pāpakṛ́tvan` *evil-doing*, `bahusū́van` *much-yielding*, `talpaçī́van`
+`pāpakṛ́tvan` *evil-doing*, `bahusū́van` *much-yielding*, `talpaśī́van`
 *lying on a couch*, `rathayā́van` *going in a chariot*, `druṣádvan`
-*sitting on a tree*, `açrétvarī` f. *going at the head*. The accent of
-the obscure words `mātaríçvan` and `mātaríbhvan` is anomalous.
+*sitting on a tree*, `aśrétvarī` f. *going at the head*. The accent of
+the obscure words `mātaríśvan` and `mātaríbhvan` is anomalous.
 
 b\. The few compounds with final `man` appear to follow the same rule as
-those with `van`: thus, `svādukṣádman` *sharing out sweets*, `āçuhéman`
+those with `van`: thus, `svādukṣádman` *sharing out sweets*, `āśuhéman`
 *steed-impelling*.
 
 1278\. Compounds with other derivatives, of rare or sporadic occurrence,
@@ -765,17 +765,17 @@ verbal or otherwise. The accent is (as in the corresponding class of
 dependent noun-compounds: 1267) on the final syllable.
 
 b\. Thus, `ajñātayakṣmá` *unknown disease*, `mahādhaná` *great wealth*,
-`kṣipraçyená` *swift hawk*, `kṛṣṇaçakuní` *black bird*, `dakṣiṇāgní`
+`kṣipraśyená` *swift hawk*, `kṛṣṇaśakuní` *black bird*, `dakṣiṇāgní`
 *southern fire*, `urukṣití` *wide abode*, `adharahanú` *lower jaw*,
 `itarajaná` *other folks*, `sarvātmán` *whole soul*, `ekavīrá` *sole
 hero*, `saptarṣí` *seven sages*, `tṛtīyasavaná` *third libation*,
-`ekonaviṅçatí` *a score diminished by one*, `jāgratsvapná` *waking
+`ekonaviṅśatí` *a score diminished by one*, `jāgratsvapná` *waking
 sleep*, `yāvayatsakhá` *defending friend*, `apakṣīyamāṇapakṣá` *waning
 half*.
 
 c\. There are not a few exceptions as regards accent. Especially,
-compounds with `víçva` (in composition, accented `viçvá`), which itself
-retains the accent: thus, `viçvádevās` *all the gods*, `viçvámānuṣa`
+compounds with `víśva` (in composition, accented `viśvá`), which itself
+retains the accent: thus, `viśvádevās` *all the gods*, `viśvámānuṣa`
 *every man*. For words in `ti`, see below, 1287 d. Sporadic cases are
 `madhyáṁdina, vṛṣkā́pi`, both of which show an irregular shift of tone in
 the prior member; and a few others.
@@ -784,10 +784,10 @@ d\. Instead of an adjective, the prior member is in a few cases a noun
 used appositionally, or with a quasi-adjective value. Thus, `rājayakṣmá`
 *king-disease*, `brahmarṣi` *priest-sage*, `rājarṣi` *king-sage*,
 `rājadanta` *king-tooth*, `devajana` *god-folk*, `duhitṛjana`
-*daughter-person*, `çamīlatā` *creeper named* `çamī`, `muṣikākhyā` *the
-name "mouse"*, `jayaçabda` *the word "conquer"*, `ujhitaçabda` *the word
+*daughter-person*, `śamīlatā` *creeper named* `śamī`, `muṣikākhyā` *the
+name "mouse"*, `jayaśabda` *the word "conquer"*, `ujhitaśabda` *the word
 "deserted";* or, more figuratively, `gṛhanaraka` *house-hell* (*house
-which is a hell*), `çāpāgni` *curse-fire* (*consuming curse*).
+which is a hell*), `śāpāgni` *curse-fire* (*consuming curse*).
 
 e\. This group is of consequence, inasmuch as in possessive application
 it is greatly extended, and forms a numerous class of appositional
@@ -820,7 +820,7 @@ adverbial element than the negative `a` or `an`, which then takes the
 accent.
 
 a\. Examples are:
-`ánadant, ádadat, ánaçnant, ásravant, álubhyant, ádāsyant, áditsant, ádevayant; ámanyamāna, áhiṅsāna, áchidyamāna; ádadivāṅs, ábibhīvāṅs, atasthāna`;
+`ánadant, ádadat, ánaśnant, ásravant, álubhyant, ádāsyant, áditsant, ádevayant; ámanyamāna, áhiṅsāna, áchidyamāna; ádadivāṅs, ábibhīvāṅs, atasthāna`;
 and, with verbal prefixes,
 `ánapasphurant, ánāgamiṣyant, ánabhyāgamiṣyant, ávirādhayant, ávicācalat, ápratimanyūyamāna`.
 
@@ -828,7 +828,7 @@ b\. Exceptions in regard to accent are very few:
 `arundhatī́, ajárantī, acodánt` (RV., once: doubtless a false reading;
 the simple participle is `códant`); AV. has `anipádyamāna` for RV.
 `ánipadyamāna` (and the published text has `asaṁyánt`, with a part of
-the manuscripts); ÇB. has `akāmáyamāna`.
+the manuscripts); śB. has `akāmáyamāna`.
 
 c\. Of other compounds than with the negative prefix have been noted in
 the Veda `-punardīyamāna` (in `ápunard-`) and `súvidvāṅs`. In
@@ -843,24 +843,24 @@ prefixes: 1085 a) the preceding adverbial element has the accent.
 
 a\. Thus, with the negative `a` or `an` (by far the most common case):
 `ákṛta, ádabdha, áriṣṭa, ánādhṛṣṭa, áparājita, ásaṁkhyāta, ánabhyārūḍha, áparimitasamṛddha`;
-— with `su, sújāta, súhuta, súsaṁçita, svàraṁkṛta`; — with
-`dus, dúçcarita, dúrdhita` and `dúrhita, dúḥçṛta`; — with other
+— with `su, sújāta, súhuta, súsaṁśita, svàraṁkṛta`; — with
+`dus, dúścarita, dúrdhita` and `dúrhita, dúḥśṛta`; — with other
 adverbial words,
-`dáṅsujūta, návajata, sánaçruta, svayáṁkṛta, trípratiṣṭhita`: `áraṁkṛta`
+`dáṅsujūta, návajata, sánaśruta, svayáṁkṛta, trípratiṣṭhita`: `áraṁkṛta`
 and `kakajā́kṛta` are rather participles of a compound conjugation.
 
 b\. Exceptions in regard to accent are: with `a` or `an`,
-`anāçastá, apraçastá`, and, with the accent of the participle retracted
+`anāśastá, apraśastá`, and, with the accent of the participle retracted
 to the root, `amṛ́ta, adṛ́ṣṭa, acítta, ayúta` *myriad*, `atū́rta` (beside
 `átūrta`), `asū́rta` (? beside `sū́rta`); — with `su` (nearly half as
 numerous as the regular cases),
-`subhūtá, sūktá, supraçastá, svā́kta, sukṛtá` and `sujātá` (beside
+`subhūtá, sūktá, supraśastá, svā́kta, sukṛtá` and `sujātá` (beside
 `súkṛta` and `sújāta`), and a few others; with `dus` (quite as numerous
 as the regular cases), `duritá` (also `dúrita`), `duruktá, duṣkṛtá`
 (also `dúṣkṛta`), `durbhūtá`; with `sa, sajātá`; with other adverbs,
 `amotá, ariṣṭutá, tuvijātá, prācīnopavītá, tadānīṁdugdhá, prātardugdhá`,
 etc., and the compounds with
-`puru, purujātá, puruprajātá, purupraçastá, puruṣṭutá`, etc., and with
+`puru, purujātá, puruprajātá, purupraśastá, puruṣṭutá`, etc., and with
 `svayam, svayaṁkṛtá` etc. The proper name `aṣāḍhá` stands beside
 `áṣāḍha`; and AV. has `abhinná` for RV. `ábhinna`.
 
@@ -884,7 +884,7 @@ V. are `súyabhya` (accented like its twin `áyabhya`) and `prathamavāsyà`
 
 d\. The neuter nouns of the same form (1213 c: except `sadhástutya`)
 retain their own accent after an adverbial prior member: thus,
-`purvapā́yya, pūrvapéya, amutrabhū́ya`; and `sahaçéyya`. And the negatived
+`purvapā́yya, pūrvapéya, amutrabhū́ya`; and `sahaśéyya`. And the negatived
 gerundives instanced above are capable of being viewed as possessive
 compounds with such nouns.
 
@@ -897,19 +897,19 @@ of various kinds; and in the combination it retains the accent.
 
 a\. Examples are: with inseparable prefixes, `adrúh` *not harming*,
 `asū́` *not giving birth*, `arúc` *not shining;* `sukṛ́t` *well-doing*,
-`suçrút` *hearing well;* `duṣkṛ́t` *ill-doing*, `dūḍā́ç` (199 d)
+`suśrút` *hearing well;* `duṣkṛ́t` *ill-doing*, `dūḍā́ś` (199 d)
 *impious;* `sayúj` *joining together*, `samád` *conflict;* `sahajā́`
 *born together*, `sahaváh` *carrying together;* — with other adverbs,
-`amājúr` *growing old at home*, `uparispṛ́ç` *touching upward*,
+`amājúr` *growing old at home*, `uparispṛ́ś` *touching upward*,
 `punarbhū́` *appearing again*, `prātaryúj` *harnessed early*, `sadyaḥkrī́`
 *bought the same day*, `sākaṁvṛ́dh` *growing up together*, `sadaṁdí`
 *ever-binding*, `viṣūvṛ́t` *turning to both sides*, `vṛthāsáh` *easily
 overcoming;* — with adjectives used adverbially, `uruvyác`
 *wide-spreading*, `prathamajā́` *first-born*, `raghuṣyád` *swift-moving*,
-`navasū́` *newly giving birth*, `ekajá` *only born*, `çukrapíç` *brightly
+`navasū́` *newly giving birth*, `ekajá` *only born*, `śukrapíś` *brightly
 adorned*, `dvijá` *twice born*, `trivṛ́t` *triple*, `svarā́j`
-*self-ruling;* — with nouns used adverbially, `çambhū́` *beneficent*,
-`sūryaçvít` *shining like the sun*, `īçānakṛ́t` *acting as lord*,
+*self-ruling;* — with nouns used adverbially, `śambhū́` *beneficent*,
+`sūryaśvít` *shining like the sun*, `īśānakṛ́t` *acting as lord*,
 `svayambhū́` *self-existent;* and, with accusative case-form, `pataṁgá`
 *going by flight*.
 
@@ -918,14 +918,14 @@ verbal prefix or an element of other character, the further added
 negative itself takes the accent (as in case of an ordinary adjective:
 below, 1288 a): thus, for example, `ánākṣit` *not abiding*, `ánāvṛt`
 *not turning back*, `ávidviṣ` *not showing hostility*, `áduṣkṛt` *not
-ill-doing*, `ánaçvadā` *not giving a horse*, `ápaçuhan` *not slaying
+ill-doing*, `ánaśvadā` *not giving a horse*, `ápaśuhan` *not slaying
 cattle* (`anāgā́s` would be an exception, if it contained √`gā`: which is
 very unlikely). Similar combinations with `su` seem to retain the
 radical accent: thus, `supratúr, svābhū́, svāyúj`: `svā́vṛj` is an
 unsupported exception.
 
 c\. A few other exceptions occur, mostly of doubtful character, as
-`prátiprāç, sadhástha, ádhrigu`, and the words having `añc` as final
+`prátiprāś, sadhástha, ádhrigu`, and the words having `añc` as final
 member (407 ff.: if this element is not, after all, a suffix) compare
 1269 a.
 
@@ -937,19 +937,19 @@ became of the possibility of their being used with substantive value to
 make a possessive compound. The least ambiguous, probably, are the
 derivatives from present-stems (1148 j), which have the accent on the
 suffix: thus,
-`asunvá, apaçyá, akṣudhyá, avidasyá, anāmṛṇá, sadāpṛṇá, punarmanyá`; and
+`asunvá, apaśyá, akṣudhyá, avidasyá, anāmṛṇá, sadāpṛṇá, punarmanyá`; and
 with them belong such cases as
 `stṛpá, avṛdhá, araṁgamá, urukramá, evāvadá, satrāsahá, punaḥsará, puraḥsará`;
 and the nouns `sāyambhavá, sahacārá, prātaḥsāvá, mithoyodhá`.
 Differently accented, on the other hand, although apparently of the same
 formation, are such as `ánapasphura, ánavahvara` (compare the compounds
 noticed at 1286 b),
-`sadā́vṛdha, sū́bharva, nyagródha, puroḍā́ça, sadhamā́da, sudúgha, supáca, suháva`,
+`sadā́vṛdha, sū́bharva, nyagródha, puroḍā́śa, sadhamā́da, sudúgha, supáca, suháva`,
 and others. Words like `adábha, durháṇa, sukára, suyáma`, are probably
 possessives.
 
 b. The derivatives in van keep in general the accent of the final
-member, on the root (compare 1169 c, 1277): thus, `āçupátvan` and
+member, on the root (compare 1169 c, 1277): thus, `āśupátvan` and
 `raghupátvan` *swift-flying*, `puroyā́van` *going in front*, `sukṛ́tvan`
 *well-doing;* and `sutárman` and `suváhman` and `raghuyā́man` are
 probably to be classed with them. But the negative prefix has the accent
@@ -985,19 +985,19 @@ accent.
 b\. We have seen above (1283) that it does so even in the case of
 present and perfect and future participles, although these in
 combination with a verbal prefix retain their own accent (1085: but
-there are exceptions, as `avadánt, apaçyánt`, etc. ÇB.); and also in the
+there are exceptions, as `avadánt, apaśyánt`, etc. śB.); and also in the
 case of a root-stem, if this be already compounded with another element
 (1286 b). And the same is true of its other combinations.
 
 c\. Thus, with various adjective words:
-`átandra, ádabhra, ádāçuri, ánṛju, ádevayu, átṛṣṇaj, átavyāṅs, ánāmin, ádvayāvin, ápracetas, ánapatyavant, ánupadasvant, ápramāyuka, ámamri, áprajajñi, ávidīdhayu, ánagnidagdha, ákāmakarçana, ápaçcāddaghvan`.
+`átandra, ádabhra, ádāśuri, ánṛju, ádevayu, átṛṣṇaj, átavyāṅs, ánāmin, ádvayāvin, ápracetas, ánapatyavant, ánupadasvant, ápramāyuka, ámamri, áprajajñi, ávidīdhayu, ánagnidagdha, ákāmakarśana, ápaścāddaghvan`.
 Further, with nouns,
-`ápati, ákumāra, ábrāhmaṇa, ávidyā, āçraddhā, ávrātya`.
+`ápati, ákumāra, ábrāhmaṇa, ávidyā, āśraddhā, ávrātya`.
 
 d\. But there are a number of exceptions, in which the accent is on the
 final syllable, without regard to the original accentuation of the final
 member: thus, for example,
-`acitrá, açrīrá, aviprá, ayajñiyá, anāsmāká, asthūrí, anāçú, ajarayú, anāmayitnú`;
+`acitrá, aśrīrá, aviprá, ayajñiyá, anāsmāká, asthūrí, anāśú, ajarayú, anāmayitnú`;
 and in `amítra` *enemy*, and `avī́ra` *unmanly*, there is a retraction of
 the accent from the final syllable of the final member to its penult. 
 
@@ -1008,9 +1008,9 @@ final member; and occasionally on either of two syllables.
 
 f\. Thus, for example,
 `súbhadra, súvipra, súpakva, súbrāhmaṇa, súbhiṣaj`;
-`sutīrthá, suvasaná, suṣārathí, supāçá, sucitrá`; `suçéva, suhótṛ`:
+`sutīrthá, suvasaná, suṣārathí, supāśá, sucitrá`; `suśéva, suhótṛ`:
 `suvī́ra` is like `avī́ra`; — `durmitrá, duṣvápnya`; and `ducchúnā` (168
-b), with irregular retraction of accent (`çuná`).
+b), with irregular retraction of accent (`śuná`).
 
 3\. g. The compounds with `sa` are too few to furnish occasion for
 separate mention; and those with the interrogative prefix in its various
@@ -1023,10 +1023,10 @@ way, qualifying a following adjective or noun.
 a\. Examples of such combinations are not numerous in the Veda. Their
 accentuation is various, though the tone rests oftenest on the
 preposition. Thus, `ádhipati` *over-lord*, `áparūpa` *mis-form*,
-`prátiçatru` *opposing foe*, `prápada` *fore part of foot*, `práṇapāt`
+`prátiśatru` *opposing foe*, `prápada` *fore part of foot*, `práṇapāt`
 *great-grandchild*, `vípakva` *quite done*, `sámpriya` *mutually dear;*
 `upajíhvikā` *side tongue* (with retraction of the accent of `jihvā́`);
-`antardeçá` *intermediate direction*, `pradív` *forward heaven*,
+`antardeśá` *intermediate direction*, `pradív` *forward heaven*,
 `prapitāmahá` (also `prápitāmaha`) *great-grandfather*, `pratijaná`
 *opponent*, `vyadhvá` *midway*. These compounds are more frequent with
 possessive value (below, 1305).
@@ -1034,7 +1034,7 @@ possessive value (below, 1305).
 b\. This use of the verbal prefixes is more common later, and some of
 them have a regular value in such compounds. Thus, `ati` denotes excess,
 as in `atidūra` *very far*, `atibhaya` *exceeding fear*, `átipūruṣa`
-(ÇB.) *chief man;* `adhi`, superiority, as in `adhidanta` *upper-tooth*,
+(śB.) *chief man;* `adhi`, superiority, as in `adhidanta` *upper-tooth*,
 `adhistrī` *chief woman;* `abhi` is intensive, as in `abhinamra` *much
 incliving*, `abhinava` *span-new*, `abhirucira` *delightful;* `ā`
 signifies *somewhat*, as in `ākuṭila` *somewhat crooked*, `ānīla`
@@ -1049,23 +1049,23 @@ completeness, as in `sampakva` *quite ripe*.
 irregularly accented.
 
 Thus, the compounds with `puru`, on the final (compare the participles
-with `puru`, 1284 b): as, `purudasmá`, `purupriyá`, `puruçcandrá`; those
+with `puru`, 1284 b): as, `purudasmá`, `purupriyá`, `puruścandrá`; those
 with `púnar`, on the prior member, as
 `púnarṇava, púnarmagha, púnaryuvan, púnarvasu` (but `punaḥsará` etc.);
 those with `satás, satīná, satyá`, the same, as
 `satómahant, satīnámanyu, satyámugra`; a few combinations of nouns in
 `tṛ` and `ana` with adverbs akin with the prefixes, on the final
-syllable, as `puraëtṛ́, puraḥsthātṛ́, upariçayaná, prātaḥsavaná`; and
+syllable, as `puraëtṛ́, puraḥsthātṛ́, upariśayaná, prātaḥsavaná`; and
 miscellaneous cases are
-`mithóavadyapa, háriçcandra, álpaçayu, sādhvaryá, yācchreṣṭhá` and
+`mithóavadyapa, háriścandra, álpaśayu, sādhvaryá, yācchreṣṭhá` and
 `yāvacchreṣṭhá, jyógāmayāvin`. 
 
 1291\. One or two exceptional cases may be noted, as follows:
 
 a\. An adjective is sometimes preceded by a noun standing toward it in a
 quasi-adverbial relation expressive of comparison or likeness: e. g.
-`çúkababhru` (VS.) *parrot-brown*, `ū́rṇāmṛdu` (TB.) *soft as wool*,
-`prāṇapriya` *dear as life*, `kuçeçayarajomṛdu` *soft as lotus-pollen*,
+`śúkababhru` (VS.) *parrot-brown*, `ū́rṇāmṛdu` (TB.) *soft as wool*,
+`prāṇapriya` *dear as life*, `kuśeśayarajomṛdu` *soft as lotus-pollen*,
 `bakālīna` *hidden like a heron*, `mattamātan̄gagāmin` *moving like a
 maddened elephant*.
 
@@ -1112,9 +1112,9 @@ becomes `ahastá` *handless;* `durgandhi` *ill savor* becomes `durgándhi`
 b\. A copulative compound is not convertible into an adjective directly,
 any more than is a simple noun, but requires, like the latter, a
 possessive suffix or other means: e. g.
-`vāgghastavant, doṣaguṇin, rajastamaska, açirogrīva, anṛgyajus`. A very
+`vāgghastavant, doṣaguṇin, rajastamaska, aśirogrīva, anṛgyajus`. A very
 small number of exceptions, however, are found: thus, `somendrá` (TS.),
-`stómapṛṣṭha` (VS. TS.), `hastyṛ̀ṣabha` (ÇB.), `dāsīniṣka` (ChU.), and,
+`stómapṛṣṭha` (VS. TS.), `hastyṛ̀ṣabha` (śB.), `dāsīniṣka` (ChU.), and,
 later, `cakramusala, sadānanda, saccidānanda, sān̄khyayoga` (as n. pr.),
 `balābala, bhūtabhāutika`.
 
@@ -1149,7 +1149,7 @@ the compound should have come to be so generally that of possession, not
 of likeness, nor of appurtenance, nor of any other relation which is as
 naturally involved in such a construction: that we may only say, for
 example, `mahābāhuḥ puruṣaḥ` *man with great arms*, and not also
-`mahābāhur maṇiḥ` *jewel for a great arm*, or `mahābāhavaḥ çākhāḥ`
+`mahābāhur maṇiḥ` *jewel for a great arm*, or `mahābāhavaḥ śākhāḥ`
 *branches like great arms*.
 
 b\. There are, however, in the older language a few derivative adjective
@@ -1157,15 +1157,15 @@ compounds which imply the relation of appurtenance rather than that of
 possession, and which are with probability to be viewed as survivals of
 a state of things antecedent to the specialization of the general class
 as possessive (compare the similar exceptions under possessive
-suffixes, 1230 g, 1233 f). Examples are: `viçvā́nara` *of or for all men,
+suffixes, 1230 g, 1233 f). Examples are: `viśvā́nara` *of or for all men,
 belonging to all* (and so
-`viçvákṛṣṭi, -carṣaṇi, -kṣiti, -gotra, -manus, -āyu`, and `sarvápaçu`,
-`saptámānuṣa`), `viçváçārada` *of every autumn*, `vipathá` *for bad
-roads*, `dvirājá` *\[battle\] of two kings*, `áçvapṛṣṭha` *carried on
+`viśvákṛṣṭi, -carṣaṇi, -kṣiti, -gotra, -manus, -āyu`, and `sarvápaśu`,
+`saptámānuṣa`), `viśváśārada` *of every autumn*, `vipathá` *for bad
+roads*, `dvirājá` *\[battle\] of two kings*, `áśvapṛṣṭha` *carried on
 horseback*, `vīrápastya` *abiding with heroes*, `pūrṇámāsa` *at full
 moon*, `adévaka` *for no divinity*, `bahudevata` or -`tyà` *for many
 divinities*, `aparisaṁvatsara` *not lasting a fall year*,
-`ekādaçakapāla` *for eleven dishes*, `somendrá` *for Soma and Indra*.
+`ekādaśakapāla` *for eleven dishes*, `somendrá` *for Soma and Indra*.
 And the compounds with final member in `ana` mentioned at 1296 b are
 probably of the same character. But also in the later language, some of
 the so-called `dvigu`-compounds (1312) belong with these: so `dvigu`
@@ -1215,32 +1215,32 @@ common than descriptives of the same form.
 
 a\. They regularly and usually have the accent of their prior member:
 thus, `anyárūpa` *of other form*, `ugrábāhu` *having powerful arms*,
-`jīváputra` *having living sons*, `dīrgháçmaçru` *longbearded*,
+`jīváputra` *having living sons*, `dīrgháśmaśru` *longbearded*,
 `bṛhácchravas` *of great renown*, `bhū́rimūla` *many-rooted*, `mahā́vadha`
-*bearing a great weapon*, `viçvárūpa` *having all forms*, `çukrávarṇa`
-*of bright color*, `çivā́bhimarçana` *of propitious touch*, `satyásaṁdha`
-*of true promises*, `sárvān̄ga` *whole-limbed*, `sváyaças` *having own
+*bearing a great weapon*, `viśvárūpa` *having all forms*, `śukrávarṇa`
+*of bright color*, `śivā́bhimarśana` *of propitious touch*, `satyásaṁdha`
+*of true promises*, `sárvān̄ga` *whole-limbed*, `sváyaśas` *having own
 glory*, `háritasraj` *wearing yellow garlands*.
 
 b\. Exceptions, however, in regard to accent are not rare (a seventh or
 eighth of the whole number, perhaps). Thus, the accent is sometimes that
 of the final member; especially with derivatives in as, as
-`tuvirā́dhas, purupéças, pṛthupákṣas`, and others in which (as above,
+`tuvirā́dhas, purupéśas, pṛthupákṣas`, and others in which (as above,
 1296 b) a determinative character may be suspected: thus, `urujráyas`
 beside `urujrí`, `uruvyácas` beside `uruvyác`, and so on; but also with
-those of other final, as `ṛjuhásta, çitikákṣa` etc.,
-`kṛṣṇakárṇa, citradṛ́çika, tuviçúṣma, ṛjukrátu, pṛthupárçu, puruvártman, raghuyā́man, vīḍupátman`.
+those of other final, as `ṛjuhásta, śitikákṣa` etc.,
+`kṛṣṇakárṇa, citradṛ́śika, tuviśúṣma, ṛjukrátu, pṛthupárśu, puruvártman, raghuyā́man, vīḍupátman`.
 In a very few cases, the accent is retracted from the final to the first
 syllable of the second member: thus,
-`aṅhubhéda, tuvigrī́va, puruvī́ra, pururū́pa, çitibā́hu` (also `çitibāhú`).
+`aṅhubhéda, tuvigrī́va, puruvī́ra, pururū́pa, śitibā́hu` (also `śitibāhú`).
 The largest class is that of compounds which take the accent upon their
 final syllable (in part, of course, not distinguishable from those which
 retain the accent of the final member): for example,
-`bahvanná, nīlanakhá, puruputrá, viçvān̄gá, svapatí, tuvipratí, pṛçiparnī́`
-f., `darçataçrī́, pūtirajjú, asitajñú, pṛthugmán, bahuprajás`.
+`bahvanná, nīlanakhá, puruputrá, viśvān̄gá, svapatí, tuvipratí, pṛśiparnī́`
+f., `darśataśrī́, pūtirajjú, asitajñú, pṛthugmán, bahuprajás`.
 
-c\. The adjective `víçva` *all*, as prior member of a compound (and also
-in derivation), changes its accent regularly to `viçvá`; `sárva` *whole,
+c\. The adjective `víśva` *all*, as prior member of a compound (and also
+in derivation), changes its accent regularly to `viśvá`; `sárva` *whole,
 all* does the same in a few cases.
 
 1299\. Possessive compounds with a participle preceding and qualifying
@@ -1256,29 +1256,29 @@ kindled*, `uttānáhasta` *with outstretched hand*, `práyatadakṣiṇa`
 `áriṣṭavīra` *whose men are unharmed*, `átaptatanu` *of unburned
 substance*, `ánabhimlātavarṇa` *of untarnished color*. Exceptions in
 regard to accent are very few: there have been noticed only
-`paryastākṣá, vyastakeçī́` f., `achinnaparṇá`. 
+`paryastākṣá, vyastakeśī́` f., `achinnaparṇá`. 
 
 b\. Examples occur of a present participle in the same situation. In
 about half the (accentuated) instances, it gives its own accent to the
 compound: thus, `dyutádyāman, dhṛṣádvarṇa` etc.,
-`çucádratha, rúçadvatsa` etc., `bhrā́jajjanman` etc.,
+`śucádratha, rúśadvatsa` etc., `bhrā́jajjanman` etc.,
 `saṁyádvīra, stanáyadama, sā́dhadiṣṭi`; in the others, the accent is
 drawn forward to the final syllable of the participle (as in the
 compounds with governing participle: below, 1309): thus, `dravátpāṇi`
 etc. (`dravát` also occurs as adverb),
-`rapçádūdhan, svanádratha, arcáddhūma, bhandádiṣṭi, krandádiṣṭi`. With
+`rapśádūdhan, svanádratha, arcáddhūma, bhandádiṣṭi, krandádiṣṭi`. With
 these last agrees in form `jarádaṣṭi` *attaining old age, long-lived;*
 but its make-up, in view of its meaning, is anomalous.
 
 c\. The RV. has two compounds with the perfect middle participle as
 prior member: thus, `yuyujānásapti` *with harnessed coursers* (perhaps
-rather *having harnessed their coursers*), and `dadṛçānápavi` (with
-regular accent, instead of `dádṛçāna`, as elsewhere irregularly in this
+rather *having harnessed their coursers*), and `dadṛśānápavi` (with
+regular accent, instead of `dádṛśāna`, as elsewhere irregularly in this
 participle) *with conspicuous wheel-rims*.
 
 d\. Of a nearly participial character is the prior element in
-`çrútkarṇa` (RV.) *of listening ear;* and with this are perhaps
-accordant `dī́dyagni` and `sthā́raçman` (RV., each once).
+`śrútkarṇa` (RV.) *of listening ear;* and with this are perhaps
+accordant `dī́dyagni` and `sthā́raśman` (RV., each once).
 
 1300\. Possessive compounds having a numeral as prior member are very
 common, and for the most part follow the same rule of accent which is
@@ -1287,29 +1287,29 @@ beginning with `dvi` and `tri`, which accent in general the final
 member.
 
 a\. Examples with other numerals than `dvi` and `tri` are:
-`ékacakra, ékaçīrṣan, ékapad, cáturan̄ga, cátuṣpakṣa, pán̄cān̄guri, pán̄cāudana, ṣáḍaçva, ṣáṭpad, saptájihva, saptámātṛ, aṣṭā́pad, aṣṭáputra, návapad, návadvāra, dáçaçākha, dáçaçīrṣan, dvā́daçāra, triṅçádara, çatáparvan, çatádant, sahásraṇāman, sahásramūla`.
+`ékacakra, ékaśīrṣan, ékapad, cáturan̄ga, cátuṣpakṣa, pán̄cān̄guri, pán̄cāudana, ṣáḍaśva, ṣáṭpad, saptájihva, saptámātṛ, aṣṭā́pad, aṣṭáputra, návapad, návadvāra, dáśaśākha, dáśaśīrṣan, dvā́daśāra, triṅśádara, śatáparvan, śatádant, sahásraṇāman, sahásramūla`.
 
 b\. Exceptions in regard to accent are but few, and have the tone on the
 final syllable, whatever may be that belonging originally to the final
 member; they are mostly stems in final `a`, used by substitution for
 others in `an`, `i`, or a consonant: thus, `caturakṣá` etc. (`akṣán` or
-`ákṣi`: 431), `ṣaḍahá` etc. (`áhan` or `áhar`: 430 a), `daçavṛṣá` etc.
+`ákṣi`: 431), `ṣaḍahá` etc. (`áhan` or `áhar`: 430 a), `daśavṛṣá` etc.
 (`vṛ́ṣan`), `ekarātrá` etc. (`rā́tri` or `rā́trī`), `ekarcá` etc. (`ṛ́c`);
 but also a few others, as
-`ṣaḍyogá, aṣṭāyogá, çatārghá, sahasrārghá, ekapará` (?).
+`ṣaḍyogá, aṣṭāyogá, śatārghá, sahasrārghá, ekapará` (?).
 
 c\. The compounds with `dvi` and `tri` for the most part have the accent
 of their final member: thus, for example,
 `dvijánman, dvidhā́ra, dvibándhu, dvivartaní, dvipád`;
-`tritántu, trinā́bhi, triçóka, trivárūtha, tricakrá, triçīrṣán, tripád`.
+`tritántu, trinā́bhi, triśóka, trivárūtha, tricakrá, triśīrṣán, tripád`.
 A number of words, however, follow the general analogy, and accent the
 numeral: thus, for example,
-`dvípakṣa, dvíçavas, dvyā̀sya, tríṣandhi, tryàra, tryā̀çir`, and sometimes
+`dvípakṣa, dvíśavas, dvyā̀sya, tríṣandhi, tryàra, tryā̀śir`, and sometimes
 `dvípad` and `trípad` in AV. As in the other numeral compounds, a
 substituted stem in `a` is apt to take the accent on the final: thus,
 `dvivṛṣá` and `trivṛṣá`, `dvirājá, dvirātrá, tryāyuṣá, tridivá`; and a
 few of other character with `tri` follow the same rule: thus,
-`trikaçá, trināká, tribandhú, tryudhán, tribarhís`, etc.
+`trikaśá, trināká, tribandhú, tryudhán, tribarhís`, etc.
 
 d\. The neuter, or also the feminine, of numeral compounds is often used
 substantively, with a collective or abstract value, and the accent is
@@ -1332,26 +1332,26 @@ occurrence of determinatives of this character has been noticed above,
 Their accent is that of the prior member, like the ordinary possessive
 descriptives.
 
-a\. Examples are: `áçvaparṇa` *horse-winged*, or *having horses as
+a\. Examples are: `áśvaparṇa` *horse-winged*, or *having horses as
 wings* (said of a chariot), `bhū́migṛha` *having the earth as house*,
 `índrasakhi` *having Indra for friend*, `agníhotṛ` *having Agni as
-priest*, `gandharvápatnī` *having a Gandharva for spouse*, `çūráputra`
+priest*, `gandharvápatnī` *having a Gandharva for spouse*, `śūráputra`
 *having hero-sons*, `jarā́mṛtyu` *having old age as mode of death, living
 till old age*, `agnívāsas` *fire-clad*, `tadanta` *ending with that*,
-`cāracakṣus` *using spies for eyes*, `víṣṇuçarmanāman` *named
-Vishnuçarman;* and, with pronoun instead of noun, `tvā́dūta` *having thee
+`cāracakṣus` *using spies for eyes*, `víṣṇuśarmanāman` *named
+Vishnuśarman;* and, with pronoun instead of noun, `tvā́dūta` *having thee
 as messenger*, `tádapas` *having this for work*. Exceptions in regard to
 accent occur here, as in the more regular descriptive formation: thus,
-`agnijihvá, vṛṣaṇaçvá, dhūmaçikhá, pavīnasá, asáunā́ma, tatkúla`, etc.
+`agnijihvá, vṛṣaṇaśvá, dhūmaśikhá, pavīnasá, asáunā́ma, tatkúla`, etc.
 
 b\. Not infrequently, a substantively used adjective is the final member
 in such a compound: thus, `índrajyeṣṭha` *having Indra as chief*,
-`mánaḥṣaṣṭha` *having the mind as sixth*, `sómaçreṣṭha` *of which soma
+`mánaḥṣaṣṭha` *having the mind as sixth*, `sómaśreṣṭha` *of which soma
 is best*, `ekapará` *of which the ace is highest* (?), `ásthibhūyas`
 *having bone as the larger part, chiefly of bone*, `abhirūpabhūyiṣṭha`
-*chiefly composed of worthy persons*, `daçāvara` *having ten as the
+*chiefly composed of worthy persons*, `daśāvara` *having ten as the
 lowest number*, `cintāpara` *having meditation as highest object or
-occupation, devoted to meditation*, `niḥçvāsaparama` *much addicted to
+occupation, devoted to meditation*, `niḥśvāsaparama` *much addicted to
 sighing*.
 
 c\. Certain words are of especial frequency in the compounds here
@@ -1373,8 +1373,8 @@ liberality, religious rites, and the like*. The particles `evam` and
 "accumulation is ever to be made" etc*.
 
 e\. Used in much the same way, but less often, is `prabhṛti`
-*beginning*: thus, `viçvāvasuprabhṛtibhir gandharvāiḥ` *with the
-Gandharvas Viçvāvasu etc.;* especially adverbially, in measurements of
+*beginning*: thus, `viśvāvasuprabhṛtibhir gandharvāiḥ` *with the
+Gandharvas Viśvāvasu etc.;* especially adverbially, in measurements of
 space and time, as `tatprabhṛti` or `tataḥprabhṛti` *thenceforward*.
 
 f\. Words meaning *foregoer, predecessor*, and the like — namely,
@@ -1382,7 +1382,7 @@ f\. Words meaning *foregoer, predecessor*, and the like — namely,
 a similar manner, and especially adverbially, but for the most part to
 denote accompaniment, rather than antecedence, of that which is
 designated by the prior member of the compound: e. g. `smitapūrvam`
-*with a smile*, `anāmayapraçnapūrvakam` *with inquiries after health*,
+*with a smile*, `anāmayapraśnapūrvakam` *with inquiries after health*,
 `pitāmahapurogama` *accompanied by the Great Father*.
 
 g\. The noun `mātrā` *measure* stands as final of a compound which is
@@ -1408,9 +1408,9 @@ approaching:* thus, `hemābha` *gold-like*, mṛtakalpa *nearly dead*,
 kind;* — `prāya`, in the sense of *mostly, often*, and the like: thus,
 `duḥkhaprāya` *full of pain*, `tṛṇaprāya` *abounding in grass*,
 `nirgamanaprāya` *often going out;* — `antara` (in substantive neuter),
-in the sense of *other:* thus, `deçāntara` *another region* (lit. *that
+in the sense of *other:* thus, `deśāntara` *another region* (lit. *that
 which has a difference of region*), `janmāntarāṇi` *other existences*,
-`çākhāntare` *in another text*.
+`śākhāntare` *in another text*.
 
 1303\. In appositional possessive compounds, the second member, if it
 designates a part of the body, sometimes logically signifies that part
@@ -1422,11 +1422,11 @@ niṣkágrīva and maṇigrīva *necklace-necked*, `pā́trahasta`
 *vessel-handed*, `vájrabahu` *lightning-armed*, `ásṛn̄mukha`
 *blood-faced*, `kīlā́lodhan` *mead-uddered*, `vā́jajaṭhara`
 *sacrifice-bellied*, `vāṣpakaṇvha` *with tears in the throat*,
-`çraddhā́manas` *with faith in the heart;* with irregular accent,
-`dhūmākṣī́` f. *smoke-eyed*, `açrumukhī́` f. *tear-faced;* and
+`śraddhā́manas` *with faith in the heart;* with irregular accent,
+`dhūmākṣī́` f. *smoke-eyed*, `aśrumukhī́` f. *tear-faced;* and
 `khā́dihasta` *ring-handed* (`khādí`). In the later language, such
 compounds are not infrequent with words meaning *hand:* thus,
-`çastrapāṇi` *having a sword in the hand*, `laguḍahasta` *carrying a
+`śastrapāṇi` *having a sword in the hand*, `laguḍahasta` *carrying a
 staff*.
 
 1304\. Of possessive compounds having an adverbial element as prior
@@ -1438,7 +1438,7 @@ latter logically negatives the imported idea of possession), the accent
 is prevailingly on the final syllable, without regard to the original
 accent of the final member. For example: `anantá` *having no end*,
 `abalá` *not possessing strength*, `arathá` *without chariot*,
-`açraddhá` *faithless*, `amaṇí` *without ornament*, `açatrú` *without a
+`aśraddhá` *faithless*, `amaṇí` *without ornament*, `aśatrú` *without a
 foe*, `avarmán` *not cuirassed*, `adánt` *toothless*, `apád` *footless*,
 `atejás` *without brightness*, anārambhaṇá *not to be gotten hold of*,
 `apratimāná` *incomparable*, `aducchuná` *bringing no harm*,
@@ -1447,11 +1447,11 @@ foe*, `avarmán` *not cuirassed*, `adánt` *toothless*, `apád` *footless*,
 b\. But a number of examples (few in proportion to those already
 instanced) have the prefix accented (like the simple descriptives: 1288
 a): thus, `ákṣiti` *indestructible*, `águ` *kineless*, `ágopā` *without
-shepherd*, `ájīvana` *lifeless*, `ánāpi` *without friends*, `áçiçvī` f.
+shepherd*, `ájīvana` *lifeless*, `ánāpi` *without friends*, `áśiśvī` f.
 *without young*, `ámṛtyu` *deathless*, `ábrahman` *without priest*,
 `ávyacas` *without extension*, `áhavis` *without oblation*, and a few
-others; AV. has `áprajas`, but ÇB. `aprajás`. A very few have the accent
-on the penult: namely, `açéṣas, ajā́ni`, and `avī́ra` (with retraction,
+others; AV. has `áprajas`, but śB. `aprajás`. A very few have the accent
+on the penult: namely, `aśéṣas, ajā́ni`, and `avī́ra` (with retraction,
 from `vīrá`), `apútra` (do., from `putrá`); and AV. has `abhrā́tṛ`, but
 RV. `abhrātṛ́`.
 
@@ -1463,7 +1463,7 @@ member: thus, `sukálpa` *of easy make*, `subhága` *well portioned*,
 *fragrant*, `subāhú` *well-armed*, `suyáṁtu` *of easy control*,
 `sukrátu` *of good capacity*, `suhā́rd` *good-hearted*, `susráj`
 *well-garlanded*, `suvárman` *well-cuirassed*, `suvā́sas` *well-clad*,
-`supráṇīti` *well guiding;* `durbhága` *ill-portioned*, `durdṛ́çīka` *of
+`supráṇīti` *well guiding;* `durbhága` *ill-portioned*, `durdṛ́śīka` *of
 evil aspect*, `durdhára` *hard to restrain*, `durgándhi` *ill-savored*,
 `durādhī́` *of evil designs*, `durdhártu` *hard to restrain*, `duṣṭárītu`
 *hard to excel*, `duratyétu` *hard to cross*, `durdhúr` *ill-yoked*,
@@ -1471,13 +1471,13 @@ evil aspect*, `durdhára` *hard to restrain*, `durgándhi` *ill-savored*,
 
 d\. There are, however, a not inconsiderable number of instances in
 which the accent of these compounds is upon the final syllable: thus,
-`suçiprá` *well-lipped*, `svapatyá` *of good progeny*, `susaṁkāçá` *of
+`suśiprá` *well-lipped*, `svapatyá` *of good progeny*, `susaṁkāśá` *of
 good aspect*, `svan̄gurí` *well-fingered*, `sviṣú` *having good arrows*,
 `supīvás` *well fatted;* and compounds with derivatives in `ana`, as
 `suvijñaná` *of easy discernment*, `sūpasarpaṇá` *of easy approach*,
-`duçcyavaná` *hard to shake;* and AV. has `suphalá` and `subandhú`
+`duścyavaná` *hard to shake;* and AV. has `suphalá` and `subandhú`
 against RV. `suphála` and `subándhu`. Like `avī́ra`, `suvī́ra` shows
-retraction of accent. Only `dúrāçir` has the tone on the prefix.
+retraction of accent. Only `dúrāśir` has the tone on the prefix.
 
 e\. On the whole, the distinction by accent of possessive from
 determinative is less clearly shown in the words made with `su` and
@@ -1489,7 +1489,7 @@ compound: thus, `sákratu` *of joint will*, `sánāman` *of like name*,
 `sárūpa` *of similar form*, `sáyoni` *having a common origin*, `sávācas`
 *of assenting words*, `sátoka` *having progeny along, with one's
 progeny*, `sábrāhmaṇa` *together with the Brahmans*, `sámūla` *with the
-root*, `sā́ntardeça` *with the intermediate directions;* `sahágopa` *with
+root*, `sā́ntardeśa` *with the intermediate directions;* `sahágopa` *with
 the shepherd*, `sahávatsa` *accompanied by one's young*, `sahápatnī`
 *having her husband with her*, `sahápūruṣa` *along with our men*.
 
@@ -1502,8 +1502,8 @@ the later language, the combinations with `sa` are much the more
 numerous.
 
 h\. There are a few exceptions, in which the accent is that of the final
-member: thus, `sajóṣa, sajóṣas, sadṛ́ça, sapráthas, sabā́dhas, samanyú`
-and AV. shows the accent on the final syllable in `sān̄gá` (ÇB. `sā́n̄ga`)
+member: thus, `sajóṣa, sajóṣas, sadṛ́śa, sapráthas, sabā́dhas, samanyú`
+and AV. shows the accent on the final syllable in `sān̄gá` (śB. `sā́n̄ga`)
 and the substantivized (1312) `savidyutá`.
 
 i\. Possessive compounds with the exclamatory prefixes `ka` etc. are too
@@ -1517,7 +1517,7 @@ found even in the oldest language, and are rather more common later
 below, 1310). They usually have the accent of the prefix.
 
 a\. Most common are those made with `pra`, `vi`, and `sam`; thus, for
-example, `prámahas` *having exceeding might*, `práçravas` *widely
+example, `prámahas` *having exceeding might*, `práśravas` *widely
 famed;* `vígrāva` *of wry neck*, `vyàn̄ga` *having limbs away or gone,
 limbless*, `víjāni` *wifeless*, `víparva` and `víparus` *jointless*,
 `vyàdhvan` *of wide ways*, `vímanas` both *of wide mind* and *mindless*,
@@ -1531,9 +1531,9 @@ favorable mind*, `údojas` *of exalted power*, `nímanyu` *of assuaged
 fury*, `nírmāya` *free from guile*, `nírhasta` *handless*.
 
 b\. In a comparatively small number of cases, the accent is otherwise,
-and generally on the final: thus, `avakeçá, upamanyú, viçaphá, viçikhá`
-(AV. `víçikha`), `vikarṇá, saṁmātṛ́`, etc.; in an instance or two, that
-of the final member: thus, `samçíçvarī` *having a common young*.
+and generally on the final: thus, `avakeśá, upamanyú, viśaphá, viśikhá`
+(AV. `víśikha`), `vikarṇá, saṁmātṛ́`, etc.; in an instance or two, that
+of the final member: thus, `samśíśvarī` *having a common young*.
 
 1306\. Possessive compounds with an ordinary adverb as prior member are
 also found in every period of the language. They usually have the accent
@@ -1543,7 +1543,7 @@ a\. Examples are: `ántyūti` *bringing near help*, `avódeva` *calling
 down the gods*, `itáūti` *helping on this side*, `ihácitta` *with mind
 directed hither*, `dakṣiṇatáskaparda` *wearing the braid on the right
 side*, `nā́nādharman` *of various character*, `purudhápratīka` *of
-manifold aspect*, `viçvátomukha` *with faces on all sides*, `sadyáūti`
+manifold aspect*, `viśvátomukha` *with faces on all sides*, `sadyáūti`
 *of immediate aid*, `víṣurūpa` *of various form*, `smádūdhan` *with
 udder*, `adhástāllakṣman` *with mark below*, `ekatomukha` *with face on
 one side*, `táthāvidha` *of such sort*.
@@ -1559,7 +1559,7 @@ adjective inflection.
 
 b\. Also, the compound possessive stem occasionally takes further a
 possessive-making suffix: thus,
-`yaçobhagín, suçiprin, varavarṇin, dīrghasūtrin, puṇyavāgbuddhikarmin, sutásomavant, tādṛgrūpavant, trayodaçadvīpavant, nārakapālakuṇḍalavant, amṛtabuddhimant`.
+`yaśobhagín, suśiprin, varavarṇin, dīrghasūtrin, puṇyavāgbuddhikarmin, sutásomavant, tādṛgrūpavant, trayodaśadvīpavant, nārakapālakuṇḍalavant, amṛtabuddhimant`.
 
 c\. The frequent changes which are undergone by the final of a stem
 occurring at the end of a compound are noticed further on (1315).
@@ -1571,13 +1571,13 @@ the *having* which is implied in them obtains virtually the value of our
 *having* as sign of past time.
 
 a\. Thus, for example, `prāptayāuvana` *possessing attained
-adolescence*, i.e. *having arrived at adolescence;* `anadhigataçāstra`
+adolescence*, i.e. *having arrived at adolescence;* `anadhigataśāstra`
 *with unstudied books*, i. e. *who has neglected study;* `kṛtaprayatna`
 *possessing performed effort*, i. e. *on whom effort is expended;*
-`an̄gulīyakadarçanāvasāna` *having the sight of the ring as termination*,
-i. e. *destined to end on sight of the ring;* `uddhṛtaviṣādaçalyaḥ`
+`an̄gulīyakadarśanāvasāna` *having the sight of the ring as termination*,
+i. e. *destined to end on sight of the ring;* `uddhṛtaviṣādaśalyaḥ`
 *having an extracted despair-arrow*, i. e. *when I shall have extracted
-the barb of despair;* `çrutavistāraḥ kriyatām` *let him be made with
+the barb of despair;* `śrutavistāraḥ kriyatām` *let him be made with
 heard details*, i. e. *let him be informed of the details;*
 `dṛṣṭavīryo me rāmaḥ` *Rāma has seen my prowess*,
 `bhagnabhāṇḍo dvijo yathā` *like* *the Brahman that broke the pots*,
@@ -1603,8 +1603,8 @@ b\. In `sādádyoni` *sitting in the lap* (`sādat` quite anomalously for
 case-relation of the final member is other than accusative. In
 `patayán mandayátsakham` (RV. i. 4. 7), `patayát`, with accent changed
 accordingly, represents `patayátsakham`, the final member being
-understood from the following word. `Vidádaçva` is to be inferred from
-its derivative vāídadaçvi. Of this formation appear to be
+understood from the following word. `Vidádaśva` is to be inferred from
+its derivative vāídadaśvi. Of this formation appear to be
 `jamádagni, pratádvasu` (`prathád`?), and `trasádasyu` (for
 `trasáddasyu`?). It was noticed above (1299 c) that `yuyujānásapti` is
 capable of being understood as a unique compound of like character, with
@@ -1627,17 +1627,17 @@ feet*, `adhoakṣa` *below the axle;* `ánupatha` *following the road*,
 (with anomalously changed accent of `antár`), *within the way*,
 `antardāvá` *within the flame (?)*, `antarhastá` *in the hand;*
 `ántigṛha` *near the house;* `apiprā́ṇa` *accompanying the breath*
-(`prāṇá`), `ápivrata` *concerned with the ceremony*, `apiçarvará`
+(`prāṇá`), `ápivrata` *concerned with the ceremony*, `apiśarvará`
 *bordering on night*, `apikarṇá` *next the ear;* `abhijñú` *reaching to
 the knee*, `abhívīra` and `abhísatvan` *overcoming heroes;* `ā́pathi` *on
 the road*, `ā́deva` *going to the gods*, `ājarasá` *reaching old age*,
-`ādvādaçá` *up to twelve;* `upakakṣá` *reaching to the armpits*,
+`ādvādaśá` *up to twelve;* `upakakṣá` *reaching to the armpits*,
 `upottamá` *next to last, penultimate;* `upáribudhna` *above the
 bottom*, `upárimartya` *rising above mortals;* `tirojaná` *beyond
 people;* `niḥsālá` *cut of the house;* `paripád` *(about the feet)
 snare*, `parihastá` *about the hand, bracelet;* `parókṣa` *out of
 sight*, `parómātra` *beyond measure*, `parogavyūtí` *beyond the fields*,
-`paraḥsahasrá` (`páraḥsahasra`, ÇB.) *above a thousand;* `purokṣá` *in
+`paraḥsahasrá` (`páraḥsahasra`, śB.) *above a thousand;* `purokṣá` *in
 front of the eyes;* `pratidosá` *toward evening*, `pratilomá` *against
 the grain*, `pratikū́la` *up stream*, `pratyákṣa` *before the eyes;*
 `bahiḥparidhí` *outside the enclosure;* `vípathi` *outside the road;*
@@ -1681,14 +1681,14 @@ cups*, and so on.
 b\. Vedic examples of numeral abstracts and collectives are: `dvirājá`
 *\[combat\] of two kings*, `triyugá` *three ages*, `triyojaná` *space of
 three leagues*, `tridivá` *the triple heaven*, `pañcayojaná` *space of
-five leagues*, `ṣaḍahá` *six days' time*, `daçān̄gulá` *ten fingers'
+five leagues*, `ṣaḍahá` *six days' time*, `daśān̄gulá` *ten fingers'
 breadth;* and, with suffix `ya`, `sahasrāhṇyá` *thousand days' journey*.
 Others, not numeral, but essentially of the same character, are, for
 example: `anamitrá` *freedom from enemies*, `nikilbiṣá` *freedom from
 guilt*, `savidyutá` *thunderstorm*, `víhṛdaya` *heartlessness*, and
 `sáhṛdaya` *heartiness*, `sudivá` *prosperity by day*, `sumṛgá` and
-`suçakuná` *prosperity with beasts and birds*. Feminines of like use are
-not quotable from RV. or AV.; later occur such as `triçatī` *three
+`suśakuná` *prosperity with beasts and birds*. Feminines of like use are
+not quotable from RV. or AV.; later occur such as `triśatī` *three
 hundred* (481), `trilokī` *the three worlds*, `pañcamūlī` *aggregate of
 five roots*.
 
@@ -1707,15 +1707,15 @@ indeclinable*.
 
 b\. The prepositional compounds (1310) are especially frequent in this
 use: thus, for example, `anuṣvadhám` *by one's own will*, `abhipūrvám`
-and `parovarám` *in succession*, `ādvādaçám` *up to twelve*,
+and `parovarám` *in succession*, `ādvādaśám` *up to twelve*,
 `pratidoṣám` *at evening*, `samakṣám` *in sight*. Instances given by the
 grammarians are: `adhihari` *upon Hari*, `uparājam` *with the king*,
 `upanadam` or `upanadi` *near the river*, `pratyagni` *toward the fire*,
-`pratiniçam` *every night*, `nirmakṣikam` *with freedom from flies*.
+`pratiniśam` *every night*, `nirmakṣikam` *with freedom from flies*.
 
 c\. A large and important class is made up of words having a relative
 adverb, especially `yathā`, as prior member. Thus, for example,
-`yathāvaçám` *as one chooses* (`váça` *will*), `yathākṛtám` *as done
+`yathāvaśám` *as one chooses* (`váśa` *will*), `yathākṛtám` *as done
 \[before\], according to usage*, `yathānāmá` *by name*, `yathābhāgám`
 *according to several portion*, `yathān̄gám` and `yathāparú` *limb by
 limb*, `yatrakā́mam` *whither one will*, `yāvanmātrám` *in some measure*,
@@ -1725,19 +1725,19 @@ number of relations*.
 d\. These compounds are not common in the old language; RV. has with
 `yathā` only four of them, AV. only ten; and no such compound is used
 adjectively except `yācchreṣṭha` RV., `yāvacchreṣṭhá` AV. *as good as
-possible*. ÇB. has `yathākārín, yathācārín, yáthākāma, yáthākratu` as
+possible*. śB. has `yathākārín, yathācārín, yáthākāma, yáthākratu` as
 adjectives (followed in each case by a correlative `táthā`). The
 adjective use in the later language also is quite rare as compared with
 the adverbial.
 
 e\. Other cases than the accusative occasionally occur: thus,
 instrumental, as
-`yathāsaṁkhyena, yathāçaktyā, yathepsayā, yathāpratiguṇāis`; and
+`yathāsaṁkhyena, yathāśaktyā, yathepsayā, yathāpratiguṇāis`; and
 ablative, as `yathāucityāt`.
 
 f\. A class of adverbs of frequent occurrence is made with `sa`: e. g.
 `sakopam` *angrily*, `sādaram` *respectfully*, `sasmitam` *with a
-smile*, `saviçeṣam` *especially*.
+smile*, `saviśeṣam` *especially*.
 
 g\. Other adverbial compounds of equivalent character occur earlier, and
 are common later: for example, `ṛtekarmám` *without work*, `nānārathám`
@@ -1766,7 +1766,7 @@ b\. Agglomerations of two or more elements out of phrases: thus,
 dying* or *coming to harm*, `kuvítsa` *some unknown person*,
 `tadídartha` *having just that as aim*, `kūcidarthín` *having errands in
 every direction*, `kācitkará` *doing all sorts of things*, `kuhacidvíd`
-*wherever found*, `akutaçcidbhaya` *out of all danger*, `yadbhaviṣya`
+*wherever found*, `akutaścidbhaya` *out of all danger*, `yadbhaviṣya`
 *What-is-to-be*, etc.
 
 c\. Agglomerations in which the prior member retains a syntactic form:
@@ -1797,21 +1797,21 @@ the final members of compounds. Thus:
 
 a\. A stem in an often drops its final consonant (compare 429 a, 437):
 examples are
-`akṣa, adhva, arva, astha, aha, takṣa, brahma, mūrdha, rāja, loma, vṛṣa, çva, saktha, sāma`.
+`akṣa, adhva, arva, astha, aha, takṣa, brahma, mūrdha, rāja, loma, vṛṣa, śva, saktha, sāma`.
 
 
 b\. An `i` or `ī` is changed to `a`: examples are
-`an̄gula, an̄jala, açra, kukṣa, khāra, nada, nābha, bhūma, rātra, sakha`.
+`an̄gula, an̄jala, aśra, kukṣa, khāra, nada, nābha, bhūma, rātra, sakha`.
 
 c\. An `a` is added after a final consonant, and sometimes after an
 `u`-vowel or a diphthong (compare 399): examples are `ṛca, tvaca`;
-`uda, pada, çarada`; `apa`; `dhura, pura`; `ahna, açmana, ūdhna, rājña`;
-`anasa, ayasa, āyuṣa, urasa, enasa, tamasa, manasa, yajuṣa, rajasa, rahasa, varcasa, vedasa, çreyasa, sarasa`;
+`uda, pada, śarada`; `apa`; `dhura, pura`; `ahna, aśmana, ūdhna, rājña`;
+`anasa, ayasa, āyuṣa, urasa, enasa, tamasa, manasa, yajuṣa, rajasa, rahasa, varcasa, vedasa, śreyasa, sarasa`;
 `bhruva, diva, gava, gāva, nāva`.
 
 d\. More sporadic and anomalous cases are such as: `apanna-da`
-(-`dant`), `pañca-ṣa` (-`ṣaṣ`), `ajāika-pa` (-`pad`), `çata-bhiṣā`
-(-`bhiṣāj`), `vipaç-ci` (-`cit`), `yathā-pura` (-`puras`).
+(-`dant`), `pañca-ṣa` (-`ṣaṣ`), `ajāika-pa` (-`pad`), `śata-bhiṣā`
+(-`bhiṣāj`), `vipaś-ci` (-`cit`), `yathā-pura` (-`puras`).
 
 Loose Construction with Compounds.
 
@@ -1820,19 +1820,19 @@ especially in the later language, it is by no means rare that a word in
 composition has an independent word in the sentence depending upon or
 qualifying it alone, rather than the compound of which it forms a part.
 
-a\. Examples are: `rāyáskāmo viçvāpsnyasya` (RV.) *desirous of
+a\. Examples are: `rāyáskāmo viśvāpsnyasya` (RV.) *desirous of
 all-enjoyable wealth;* `aṇhór urucákriḥ` (RV.) *causing relief from
 distress;* `mahādhané árbhe` (RV.) *in great contest and in small;*
-`svāhāṁ çrāiṣṭhyakāmaḥ` (AÇS.) *desiring superiority over his fellows;*
-`brāhmaṇāñ chrutaçīlavṛttasampannān ekena vā` (AGS.) *Brahmans endowed
+`svāhāṁ śrāiṣṭhyakāmaḥ` (AśS.) *desiring superiority over his fellows;*
+`brāhmaṇāñ chrutaśīlavṛttasampannān ekena vā` (AGS.) *Brahmans endowed
 with learning, character, and behavior, or with one \[of the three\];*
 `cittapramāthinī bālā devānām api` (MBh.) *a girl disturbing the minds
-even of the gods;* `vasiṣṭhavacanād ṛṣyaçṛn̄gasya co ’bhayoḥ` (R.) *at
-the words of both Vasishtha and Rishyaçringa*,
-`sītādravyāpaharaṇe çastrāṇām āuṣadhasya ca` (M.) *in case of stealing
+even of the gods;* `vasiṣṭhavacanād ṛṣyaśṛn̄gasya co ’bhayoḥ` (R.) *at
+the words of both Vasishtha and Rishyaśringa*,
+`sītādravyāpaharaṇe śastrāṇām āuṣadhasya ca` (M.) *in case of stealing
 ploughing implements or weapons or medicament;* `jyotiṣām madhyacārī`
 (H.) *moving in the midst of the stars;* `dārupātraṁ ca mṛnmayam` (M.)
-*a wooden and an earthen vessel;* `syandane dattadṛṣṭiḥ` (Ç.) *with eye
+*a wooden and an earthen vessel;* `syandane dattadṛṣṭiḥ` (ś.) *with eye
 fixed on the chariot;* `tasminn ullambitamṛtaḥ` (KSS.) *dead and hanging
 upon it*.
 

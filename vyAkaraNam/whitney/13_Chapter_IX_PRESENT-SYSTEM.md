@@ -36,8 +36,8 @@ the other systems together.
 
 a\. Thus, in the Veda, the occurrences of personal forms of this system
 are to those of all others about as three to one; in the Aitareya
-Brāhmaṇa, as five to one; in the Hitopadeça, as six to one; in the
-Çakuntalā, as eight to one; in Manu, as thirty to one.
+Brāhmaṇa, as five to one; in the Hitopadeśa, as six to one; in the
+śakuntalā, as eight to one; in Manu, as thirty to one.
 
 601\. And, as there is also great variety in the manner in which
 different roots form their present-stem, this, as being their most
@@ -435,7 +435,7 @@ combination of the final `h`, see 222 b.
 
 613\. Examples of the 3d sing. mid. coincident in form with the 1st
 sing. are not rare in the older language (both V. and B.): the most
-frequent examples are `ī́çe, duhé, vidé, çáye`; more sporadic are
+frequent examples are `ī́śe, duhé, vidé, śáye`; more sporadic are
 `cité, bruve, huvé`. To `tha` of the 2d pl. is added `na` in
 `sthána, pāthánā, yāthána.` The irregular accent of the 3d pl. mid. is
 found in RV. in `rihaté, duhaté`. Examples of the same person in `re`
@@ -530,7 +530,7 @@ very unusual in the Brāhmaṇas. Forms irregularly made with long `ā`,
 like those from present-stems in `a`, are not rare in AV. and B.: thus,
 `ayās, ayāt, áyān; ásāt, brávāt; bravāthas; asātha, ayātha, bravātha, hanātha; ádān, dohān`.
 Of middle forms with secondary endings are found `hánanta`, 3d pl., and
-`īçata`, 3d sing. (after `mā́` prohibitive), which is an isolated
+`īśata`, 3d sing. (after `mā́` prohibitive), which is an isolated
 example. The only dual person in `āite` is `brávāite`. 
 
 3\. Present Optative.
@@ -849,10 +849,10 @@ b\. From the roots `dviṣ` and `duh` and `lih`:
 few verbs of this class: namely,
 `vittā́t, vītāt, brūtā́t, hatāt, yātāt, stutāt`. In 3d sing. mid., two or
 three verbs have in the older language the ending `ām`: thus, `duhā́m`
-(only RV. case), `vidām, çayām`; and in 3d pl. mid. AV. has `duhrā́m` and
+(only RV. case), `vidām, śayām`; and in 3d pl. mid. AV. has `duhrā́m` and
 `duhratām`. The use of `tana` for `ta` in 2d pl. act. is quite frequent
 in the Veda: thus, `itana, yātána, attana`, etc. And in
-`stota, éta étana, bravītana, çāstána, hantana`, we have examples in the
+`stota, éta étana, bravītana, śāstána, hantana`, we have examples in the
 same person of a strong (and accented) stem.
 
 5\. Present Participle.
@@ -875,7 +875,7 @@ c\. The root `ās` forms the anomalous and isolated `ā́sīna` (in RV. also
 
 d\. But a number of these participles in the older language have a
 double accent, either on the ending or on the radical syllable: thus,
-`īçāná` and `ī́çāna, ohāná` and `óhāna, duhāná` and `dúhāna` (also
+`īśāná` and `ī́śāna, ohāná` and `óhāna, duhāná` and `dúhāna` (also
 `dúghāna`), `rihāṇá` and `ríhāṇa, vidāná` and `vídāna, suvāná` and
 `súvāna, stuvāná` and `stavāná` and `stávāna` — the last having in part
 also a strong form of the root.
@@ -1124,9 +1124,9 @@ root-forms belonging to the roots from which they come: thus, `jóṣi`
 (for `jóṣṣi`, from √`juṣ`), `dhákṣi, párṣi` (√`pṛ` *pass*),
 `prā́si, bhakṣi, ratsi, sátsi, hoṣi`; but the majority of them have forms
 (one or more) of a root-present, or sometimes of a root-aorist, beside
-them: thus, `kṣéṣi` (√`kṣi` *rule*), `jéṣi, dárṣi, nakṣi` (√`naç`.
+them: thus, `kṣéṣi` (√`kṣi` *rule*), `jéṣi, dárṣi, nakṣi` (√`naś`.
 *attain*), `néṣi, mátsi, māsi` (√`mā` *measure*),
-`yákṣi, yáṁsi, yāsi, yótsi, rā́si, vákṣi` (√`vah`), `véṣi, çróṣi, sakṣi`.
+`yákṣi, yáṁsi, yāsi, yótsi, rā́si, vákṣi` (√`vah`), `véṣi, śróṣi, sakṣi`.
 Their formal character is somewhat disputed; but they are probably
 indicative persons of the root-class, used imperatively.
 
@@ -1166,48 +1166,48 @@ earlier language), `nu, ru`, and `hnu`. RV. has once `stoṣi`, and
 thus, `mā́rjmi`, `ámārjam`, `ámārṭ` (150 b); and the same strengthening
 is said to be allowed in weak forms before endings beginning with a
 vowel: thus, `mārjantu`, `amārjan`; but the only quotable case is
-`mārjīta` (LÇS.). Forms from `a`-stems begin to appear already in AV.
+`mārjīta` (LśS.). Forms from `a`-stems begin to appear already in AV.
 
 a In the other tense-systems, also, and in derivation, `mṛj` shows often
 the `vṛddhi` instead of the `guṇa`-strengthening.
 
 628\. A number of roots accent the radical syllable throughout, both in
 strong and in weak forms: thus, all those beginning with a long vowel,
-`ās, īḍ, īr, īç`; and also `cakṣ, takṣ, trā, nīṅs, vas` *clothe*,
-`çiñj, çī` *lie*, and `sū`. All these, except `takṣ` and `trā` (and
+`ās, īḍ, īr, īś`; and also `cakṣ, takṣ, trā, nīṅs, vas` *clothe*,
+`śiñj, śī` *lie*, and `sū`. All these, except `takṣ` and `trā` (and
 `trā` also in the Vedic forms), are ordinarily conjugated in middle
 voice only. Forms with the same irregular accent occur now and then in
 the Veda from other verbs: thus, `mátsva`, `yákṣva`, `sákṣva`, `sā́kṣva`,
 `ṛ́dhat`. Middle participles so accented have been noticed above (619 d).
 
-629\. Of the roots mentioned in the last paragraph, `çī` *lie* has the
-`guṇa`-strengthening throughout: thus, `çáye, çéṣe, çáyīya, çáyāna`, and
+629\. Of the roots mentioned in the last paragraph, `śī` *lie* has the
+`guṇa`-strengthening throughout: thus, `śáye, śéṣe, śáyīya, śáyāna`, and
 so on. Other irregularities in its inflection (in part already noticed)
-are the 3d pl. persons `çérate` (AV. etc. have also `çére`), `çératām`,
-`áçerata` (RV. has also `áçeran`), the 3d sing. pres. `çáye` (R.) and
-impv. `çáyām`. The isolated active form `áçayat` is common in the older
+are the 3d pl. persons `śérate` (AV. etc. have also `śére`), `śératām`,
+`áśerata` (RV. has also `áśeran`), the 3d sing. pres. `śáye` (R.) and
+impv. `śáyām`. The isolated active form `áśayat` is common in the older
 language; other `a`-forms, active and middle, occur later.
 
-630\. Of the same roots, `īḍ` and `īç` insert a union-vowel `i` before
-certain endings: thus, `ī́çiṣe`, `ī́çidhve`, `ī́ḍiṣva` (these three being
+630\. Of the same roots, `īḍ` and `īś` insert a union-vowel `i` before
+certain endings: thus, `ī́śiṣe`, `ī́śidhve`, `ī́ḍiṣva` (these three being
 the only forms noted in the older language); but RV. has `ī́kṣe` beside
-`ī́çiṣe`; the ÇvU. has once `īçite` for `īṣṭe`. The 3d pl. `ī́çire` (on
+`ī́śiṣe`; the śvU. has once `īśite` for `īṣṭe`. The 3d pl. `ī́śire` (on
 account of its accent) is also apparently present rather than perfect.
-The MS. has once the 3d sing. impf. `āiça` (like `aduha`: 635). 
+The MS. has once the 3d sing. impf. `āiśa` (like `aduha`: 635). 
 
-631\. The roots `rud` *weep*, `svap` *sleep*, `an` *breathe*, and `çvas`
+631\. The roots `rud` *weep*, `svap` *sleep*, `an` *breathe*, and `śvas`
 *blow* insert a union-vowel `i` before all the endings beginning with a
 consonant, except the `s` and `t` of 2d and 3d sing. impf., where they
-insert instead either `a` or `ī`: thus, `svápimi, çvásiṣi, ániti`, and
+insert instead either `a` or `ī`: thus, `svápimi, śvásiṣi, ániti`, and
 `ā́nat` or `ā́nīt`. And in the other forms, the last three are allowed to
-accent either root or ending: thus, `svápantu` and `çvásantu` (AV.), or
+accent either root or ending: thus, `svápantu` and `śvásantu` (AV.), or
 `svapántu` etc. The AV. has `sváptu` instead of `svápitu`.
 
 a\. In the older language, √`vam` makes the same insertions: thus,
 `vamiti, avamīt`; and other cases occasionally occur: thus,
-`jániṣva, vasiṣva` (√`vas` *clothe*), `çnathihi, stanihi` (all RV.),
-`yamiti` (JB.), `çocimi` (MBh.). On the other hand, √`an` early makes
-forms from an `a`-stem: thus, `ánati` (AV.); pple `ánant` (ÇB.); opt.
+`jániṣva, vasiṣva` (√`vas` *clothe*), `śnathihi, stanihi` (all RV.),
+`yamiti` (JB.), `śocimi` (MBh.). On the other hand, √`an` early makes
+forms from an `a`-stem: thus, `ánati` (AV.); pple `ánant` (śB.); opt.
 `anet` (AB.).
 
 632\. The root `brū` *speak, say* (of very frequent use) takes the
@@ -1227,7 +1227,7 @@ later, only `stavīmi`, once).
 
 634\. The root `am` (hardly found in the later language) takes `ī` as
 union-vowel: thus, `amīṣi` (RV.), `amīti` and `āmīt` and `amīṣva` (TS).
-From √`çam` occur `çamīṣva` (VS.; TS. `çamiṣva`) and `çamīdhvam` (TB.
+From √`śam` occur `śamīṣva` (VS.; TS. `śamiṣva`) and `śamīdhvam` (TB.
 etc.).
 
 635\. The irregularities of √`duh` in the older language have been
@@ -1239,7 +1239,7 @@ and (quite unexampled elsewhere) the opt. forms `duhīyát` and `duhīyán`
 (RV. only). The MS. has `aduha` 3d sing. and `aduhra` 3d pl. impf. mid.,
 apparently formed to correspond to the pres. `duhe` (613) and `duhre` as
 `adugdha` and `aduhata` correspond to `dugdhe` and `duhate`: compare
-`āiça` (630), related in like manner to the 3d sing. `īçe`.
+`āiśa` (630), related in like manner to the 3d sing. `īśe`.
 
 Some of the roots of this class are abbreviated or otherwise weakened in
 their weak forms: thus: —
@@ -1491,33 +1491,33 @@ that occur are formed in general according to the same rules: thus,
 `ahata`); `ghnīta` (but also `hanīta`). Forms from transfer-stems,
 `hana` and `ghna`, are met with from an early period.
 
-638\. The root `vaç` *be eager* is in the weak forms regularly and
-usually contracted to `uç` (as in the perfect: 794 b): thus, `uçmási`
-(V.: once apparently abbreviated in RV. to `çmasi`), `uçánti`; pple
-`uçánt, uçāná`. Middle forms (except the pple) do not occur; nor do the
-weak forms of the imperfect, which are given as `āuçva, āuṣṭam`, etc.
+638\. The root `vaś` *be eager* is in the weak forms regularly and
+usually contracted to `uś` (as in the perfect: 794 b): thus, `uśmási`
+(V.: once apparently abbreviated in RV. to `śmasi`), `uśánti`; pple
+`uśánt, uśāná`. Middle forms (except the pple) do not occur; nor do the
+weak forms of the imperfect, which are given as `āuśva, āuṣṭam`, etc.
 
 a\. RV. has in like, manner the participle `uṣāṇá` from the root `vas`
 *clothe*.
 
-639\. The root `çās` *order* shows some of the peculiarities of a
+639\. The root `śās` *order* shows some of the peculiarities of a
 reduplicated verb, lacking (646) the `n` before `t` in all 3d persons
 pl. and in the active participle. A part of its active forms — namely,
 the weak forms having endings beginning with consonants (including the
-optative) — are said to come from a stem with weakened vowel, `çiṣ` (as
+optative) — are said to come from a stem with weakened vowel, `śiṣ` (as
 do the aorist, 854, and some of the derivatives); but, excepting the
-optative (`çiṣyām` etc., U. S. and later), no such forms are quotable.
+optative (`śiṣyām` etc., U. S. and later), no such forms are quotable.
 
-a\. The 3d sing. impf. is `açāt` (555 a), and the same form is said to
-be allowed also as 2d sing. The 2d sing. impv. is `çādhí` (with total
-loss of the `s`); and RV. has the strong 2d pl. `çāstána` (with
-anomalous accent); and `a`-forms, from stem (`çāsa`, occasionally occur.
+a\. The 3d sing. impf. is `aśāt` (555 a), and the same form is said to
+be allowed also as 2d sing. The 2d sing. impv. is `śādhí` (with total
+loss of the `s`); and RV. has the strong 2d pl. `śāstána` (with
+anomalous accent); and `a`-forms, from stem (`śāsa`, occasionally occur.
 
 b\. The middle inflection is regular, and the accent (apparently) always
-upon the radical syllable (`çā́ste, (çā́sate, çā́sāna`).
+upon the radical syllable (`śā́ste, (śā́sate, śā́sāna`).
 
-c\. The root `dāç` *worship* has in like manner (RV.) the pple `dā́çat`
-(not `dā́çant`).
+c\. The root `dāś` *worship* has in like manner (RV.) the pple `dā́śat`
+(not `dā́śant`).
 
 640\. The double so-called root `jakṣ` *eat, laugh* is an evident
 reduplication of `ghas` and `has` respectively. It has the absence of
@@ -1928,7 +1928,7 @@ first persons (borrowed subjunctives), and in the 3d sing. act.: thus,
 (in the older language) `bíbharāṇi` etc., `bíbhartu, bíbharāi` etc.
 
 654\. Vedic irregularities of inflection are: 1. the occasional use of
-strong forms in 2d persons: thus, `yuyodhí, çiçādhi` (beside `çiçīhí`);
+strong forms in 2d persons: thus, `yuyodhí, śiśādhi` (beside `śiśīhí`);
 `yuyotam` (beside `yuyutám`); `íyarta, dádāta` and `dadātana, dádhāta`
 and `dádhātana` (see below, 668), `pipartana, juhóta` and
 `juhótana, yuyota` and `yuyotana; rarāsva` (666); 2. the use of `dhi`
@@ -2050,8 +2050,8 @@ b\. In MS., once, `abibhrus` is doubtless a false reading.
 the ending `tana` — occur in this tense also: thus, `ádadāta`,
 `ádadhāta`; `ádattana`, `ájahātana`. The RV. has also once `apiprata`
 for `apipṛta` in 3d sing. mid., and `abibhran` for `abibharus` in 3d pl.
-act. Examples of augmentless forms are `çiçās`, `vivés`, `jígāt`;
-`jíhīta`, `çíçīta`, `jihata`; and, with irregular strengthening,
+act. Examples of augmentless forms are `śiśās`, `vivés`, `jígāt`;
+`jíhīta`, `śíśīta`, `jihata`; and, with irregular strengthening,
 `yuyoma` (AV.), `yuyothās`, `yuyota`.
 
 659\. The roots that form their present-stem by reduplication are a very
@@ -2070,8 +2070,8 @@ Irregularities of the Reduplicating Class.
 660\. Besides the roots in `ṛ` or `ar` — namely, `ṛ`, `ghṛ` (usually
 written `ghar`), `tṛ, pṛ, bhṛ, sṛ, hṛ, pṛc` — the following roots having
 `a` or `ā` as radical vowel take `i` instead of `a` in the reduplicating
-syllable: `gā` *go*, `mā` *measure*, `mā` *bellow*, `çā`, `hā` *remove*
-(mid.), `vac, sac; vaç`. has both `i` and `a`; `rā` has `i` once in RV.;
+syllable: `gā` *go*, `mā` *measure*, `mā` *bellow*, `śā`, `hā` *remove*
+(mid.), `vac, sac; vaś`. has both `i` and `a`; `rā` has `i` once in RV.;
 for `sthā`, `pā` *drink* `ghrā`, `han`, `hi`, see below (670–4).
 
 661\. Several roots of this class in final `ā` change the `ā` in weak
@@ -2083,16 +2083,16 @@ class-sign of the `nā`-class: below, 717.
 
 These roots are:
 
-662\. `çā` *sharpen*, act. and mid.: thus, `çiçāti`, `çiçīmasi`,
-`çiçīhí` (also `çiçādhi`: above, 654), `çiçātu`, `açiçāt`, `çíçīte`,
-`çíçīta`.
+662\. `śā` *sharpen*, act. and mid.: thus, `śiśāti`, `śiśīmasi`,
+`śiśīhí` (also `śiśādhi`: above, 654), `śiśātu`, `aśiśāt`, `śíśīte`,
+`śíśīta`.
 
 663\. `mā` *bellow*, act., and `mā` *measure*, mid. (rarely also act.):
 thus, `mimāti`, `mimīyāt`; `mímīte`, `mimate`, `ámimīta`; `mimīhi`,
 `mímātu`. RV. has once mimanti 3d pl. (for `mimati`). 
 
 664\. `hā` *remove*, mid.: thus,
-`jíhīte, jihīdhve, jíhate; jihīṣva, jihatām; ájihīta, ajihata`. ÇB. has
+`jíhīte, jihīdhve, jíhate; jihīṣva, jihatām; ájihīta, ajihata`. śB. has
 `jihīthām` (for `jihāthām`).
 
 665\. `hā` *quit*, act. (originally identical with the former), may
@@ -2345,16 +2345,16 @@ forms of the same character are made from other roots: thus, `mimanti`
 673\. In the Veda, also, a like secondary stem, `jighna`, is made from
 √`han` (with omission of the radical vowel, and conversion, usual in
 this root, of `h` to `gh` when in contact with `n`: 637); and some of
-the forms of `saçc`, from √`sac`, show the same conversion to an
-`a`-stem, `saçca`.
+the forms of `saśc`, from √`sac`, show the same conversion to an
+`a`-stem, `saśca`.
 
 674\. In AB. (viii. 28), a similar secondary form, `jighya`, is given to
 √`hi` or `hā`: thus, `jighyati`, `jighyatu`.
 
 675\. A few so-called roots of the first or root-class are the products
 of reduplication, more or less obvious: thus, `jakṣ` (640), and probably
-`çās` (from √`ças`) and `cakṣ` (from √`kāç` or a lost root `kas` *see*).
-In the Veda is found also `saçc`, from √`sac`.
+`śās` (from √`śas`) and `cakṣ` (from √`kāś` or a lost root `kas` *see*).
+In the Veda is found also `saśc`, from √`sac`.
 
 676\. The grammarians reckon (as already noticed, 641) several roots of
 the most evidently reduplicate character as simple, and belonging to the
@@ -2381,7 +2381,7 @@ thus, `dīdhaya` and `pīpaya` (impv.), `ápīpayat`, etc.
 
 c\. Similar forms from √`mī` *bellow* are `amīmet` and `mīmayat`.
 
-677\. The stem `cakās` *shine* (sometimes `cakāç`) is also regarded by
+677\. The stem `cakās` *shine* (sometimes `cakāś`) is also regarded by
 the grammarians as a root, and supplied as such with tenses outside the
 present-system — which, however, hardly occur in genuine use. It is not
 known in the older language.
@@ -2630,8 +2630,8 @@ p\.
 
 687\. The RV. has once `añjatas`, which is anomalous as being made from
 the weak tense-stem. Forms with double mode-sign are met with: thus,
-`tṛṇáhān` (AV.), `rādhnávāt` and `yunajān` (ÇB.); and the only quotable
-example of 3d du. act. (besides `añjatás`) is `hinásātas` (ÇB.). ÇB. has
+`tṛṇáhān` (AV.), `rādhnávāt` and `yunajān` (śB.); and the only quotable
+example of 3d du. act. (besides `añjatás`) is `hinásātas` (śB.). śB. has
 also `hinasāvas` as 1st du. act.: an elsewhere unexampled form.
 
 3\. Present Optative.
@@ -2888,7 +2888,7 @@ nasal in the class-sign: thus, `ṛdhnoti` (`nu`-class) and `ubhnāti`
 (`nā`-class). 
 
 a\. Many of the roots make forms from secondary `a`-stems: thus, from
-`añja, unda, umbhá, chinda, tṛṅhá, piṅṣa, pṛñcá, bhuñja, rundha, çiṅṣá,`
+`añja, unda, umbhá, chinda, tṛṅhá, piṅṣa, pṛñcá, bhuñja, rundha, śiṅṣá,`
 etc.
 
 Irregularities of the Nasal Class.
@@ -2899,7 +2899,7 @@ forms as `tṛṇehmi`: see above, 224 b.
 
 696\. The root `hiṅs` (by origin apparently a desiderative from √`han`)
 accents irregularly the root-syllable in the weak forms: thus,
-`híṅsanti, híṅste, híṅsāna` (but `hinásat` etc. and `hiṅsyā́t` ÇB.).
+`híṅsanti, híṅste, híṅsāna` (but `hinásat` etc. and `hiṅsyā́t` śB.).
 
 IV\. `Nu`- and `u`-classes (fifth and eighth, `su`- and `tan`-classes).
 
@@ -3052,10 +3052,10 @@ impf.: see below). The RV. has several cases of the irregular accent in
 3d pl. mid.: thus, `kṛṇvaté, tanvaté, manvaté, vṛṇvaté, spṛṇvaté`.
 
 b\. In RV. occur also several 3d pl. mid. in `ire` from present-stems of
-this class: thus, `invire, ṛṇvire, pinvire, çṛṇviré, sunviré, hinviré`.
+this class: thus, `invire, ṛṇvire, pinvire, śṛṇviré, sunviré, hinviré`.
 Of these, `pinvire` and `hinviré` might be perfects without
 reduplication from the secondary roots `pinv` and `hinv` (below, 716).
-The 2d sing. mid. (with passive value) `çṛṇviṣé` (RV.) is of anomalous
+The 2d sing. mid. (with passive value) `śṛṇviṣé` (RV.) is of anomalous
 and questionable character.
 
 2\. Present Subjunctive.
@@ -3121,12 +3121,12 @@ p\.
 
 701\. Of the briefer 1st sing. act., RV. has `kṛṇavā` and `hinavā`.
 Forms with double mode-sign occur (not in RV.): thus, `kṛṇávāt` and
-`karavāt` (AV.); `açnavātha` (K.), `kṛṇavātha` (VS.; but `-vatha` in
-Kāṇva-text), `karavātha` (ÇB.). On the other hand, `açnavatāi` is found
-once (in TS.). Forms like `āpnuvāni, ardhnúvat, açnuvat`, met with now
+`karavāt` (AV.); `aśnavātha` (K.), `kṛṇavātha` (VS.; but `-vatha` in
+Kāṇva-text), `karavātha` (śB.). On the other hand, `aśnavatāi` is found
+once (in TS.). Forms like `āpnuvāni, ardhnúvat, aśnuvat`, met with now
 and then in the older texts, are doubtless to be regarded as false
 readings. RV. has in a single passage `kṛṇvāíte` (instead of
-`kṛṇávāite`); the only form in `āithe` is `açnávāithe`.
+`kṛṇávāite`); the only form in `āithe` is `aśnávāithe`.
 
 3\. Present Optative.
 
@@ -3271,21 +3271,21 @@ p\.
 
 
 
-a\. From √`āp`, the 2d sing. act. would be `āpnuhí`; from √`aç`
-`açnuhí`; from √`dhṛṣ`, `dhṛṣṇuhí`; and so on. From √`āp`, too, would be
+a\. From √`āp`, the 2d sing. act. would be `āpnuhí`; from √`aś`
+`aśnuhí`; from √`dhṛṣ`, `dhṛṣṇuhí`; and so on. From √`āp`, too, would be
 made `āpnuvántu, āpnuvā́thām, āpnuvā́tām, āpnuvátām`.
 
 704\. In the earliest language, the rule as to the omission of `hi`
 after a root with final vowel does not hold good: in RV., such forms as
-`inuhi, kṛṇuhí, cinuhí, dhūnuhi, çṛṇuhí, spṛṇuhi, hinuhi`, and
+`inuhi, kṛṇuhí, cinuhí, dhūnuhi, śṛṇuhí, spṛṇuhi, hinuhi`, and
 `tanuhi, sanuhi`, are nearly thrice as frequent in use as
-`inú, çṛṇu, sunú, tanu`, and their like; in AV., however, they are only
+`inú, śṛṇu, sunú, tanu`, and their like; in AV., however, they are only
 one sixth as frequent; and in the Brāhmaṇas they appear only
-sporadically: even `çṛṇudhí` (with `dhi`) occurs several times in RV.
+sporadically: even `śṛṇudhí` (with `dhi`) occurs several times in RV.
 RV. has the 1st sing. act. `hinavā`. The ending `tāt` is found in
 `kṛṇutāt` and `hinutāt`, and `kurutāt`. The strong stem-form is found in
 2d du. act. in `hinotam` and `kṛṇotam`; and in 2d pl. act. in `kṛṇóta`
-and `kṛṇótana, çṛṇóta` and `çṛṇotana, sunóta` and `sunótana, hinóta` and
+and `kṛṇótana, śṛṇóta` and `śṛṇotana, sunóta` and `sunótana, hinóta` and
 `hinotana`, and `tanota, karóta`. The ending `tana` occurs only in the
 forms just quoted.
 
@@ -3407,8 +3407,8 @@ the `n` of its class-sign unlingualized in the later language — where,
 however, forms of conjugation of this class are very rare; while in the
 Veda the regular change is made: thus, `tṛpṇu`.
 
-711\. The root `çru` *hear* is contracted to `çṛ` before the class-sign,
-forming `çṛṇó` and `çṛṇu` as stem. Its forms `çṛṇviṣé` and `çṛṇviré`
+711\. The root `śru` *hear* is contracted to `śṛ` before the class-sign,
+forming `śṛṇó` and `śṛṇu` as stem. Its forms `śṛṇviṣé` and `śṛṇviré`
 have been noted above (699 b).
 
 712\. The root `dhū` *shake* in the later language (and rarely in B. and
@@ -3998,17 +3998,17 @@ p\.
 `krīṇátām`
 
 a\. Examples of the ending `āná` in 2d sing. act. are
-`açāna,  gṛhāṇá, badhāná, stabhāná`.
+`aśāna,  gṛhāṇá, badhāná, stabhāná`.
 
 723\. The ending `āna` is known also to the earliest language; of the
 examples just given, all are found in AV., and the first two in RV.;
 others are `iṣāṇa, muṣāṇa, skabhāna`. But AV. has also `gṛbhṇīhi` (also
 AB.), and even `gṛhṇāhi`, with strong stem; BhP. has `badhnīhi`. Strong
 stems are farther found in `gṛṇāhi` and `stṛṇāhi` (TS.), `pṛṇāhi` (TB.),
-and `çrīṇāhi` (Āpast.), and, with anomalous accent, `punāhí` and
-`çṛṇāhí` (SV.); and, in 2d pl. act., in `punā́ta` (RV.). The ending `tāt`
+and `śrīṇāhi` (Āpast.), and, with anomalous accent, `punāhí` and
+`śṛṇāhí` (SV.); and, in 2d pl. act., in `punā́ta` (RV.). The ending `tāt`
 of 2d sing. act. occurs in `gṛhṇītāt, jānītā́t, punītāt`. The ending
-`tana` is found in `punītána, pṛṇītana, çrīṇītana`.
+`tana` is found in `punītána, pṛṇītana, śrīṇītana`.
 
 5\. Present Participle.
 
@@ -4101,8 +4101,8 @@ p\.
 726\. It has been pointed out above that augmentless persons of this
 tense are in part indistinguishable in form from subjunctive and
 optative persons. Such as certainly belong here are (in V.) `kṣiṇām`;
-`açnan`, `riṇán`; `gṛbhṇata`, `vṛṇata`. The AV. has once `minīt` instead
-of `mināt`. MBh. has `açnīs` after `mā`.
+`aśnan`, `riṇán`; `gṛbhṇata`, `vṛṇata`. The AV. has once `minīt` instead
+of `mināt`. MBh. has `aśnīs` after `mā`.
 
 a\. AB. has the false form `ajānīmas`, and in AA. occurs `avṛṇīta` as 3d
 plural.
@@ -4141,14 +4141,14 @@ b\. The root `jñā` also loses its nasal before the class-sign: thus,
 
 731\. Not rarely, forms showing a transfer to the `a`-conjugation are
 met with: thus, even in RV., `minati`, `minat`, `aminanta`, from √`mi`;
-in AV., `çṛṇa` from √`çṛ`; later, `gṛhṇa`, `jāna`, `prīṇa`, `mathna`,
+in AV., `śṛṇa` from √`śṛ`; later, `gṛhṇa`, `jāna`, `prīṇa`, `mathna`,
 etc. And from roots `pṛ` and `mṛ` are formed the stems `pṛṇá` and
 `mṛṇá`, which are inflected after the manner of the `á`-class, as if
 from roots `pṛṇ` and `mṛṇ`.
 
 732\. In the Veda, an apparently denominative inflection of a stem in
 `āyá` is not infrequent beside the conjugation of roots of this class:
-thus, `gṛbhāyá`, `mathāyáti`, `açrathāyas`, `skabhāyáta`, `astabhāyat`,
+thus, `gṛbhāyá`, `mathāyáti`, `aśrathāyas`, `skabhāyáta`, `astabhāyat`,
 `pruṣāyánte`, `muṣāyát`, and so on. See below, 1066 b. 
 
 Second or `a`-Conjugation.
@@ -4273,7 +4273,7 @@ p\.
 
 b\. The V. has but a single example of the `thana`-ending, namely
 `vádathana` (and no other in any class of this conjugation). The 1st pl.
-mid. `manāmahé` (RV., once) is probably an error. RV. has `çóbhe` once
+mid. `manāmahé` (RV., once) is probably an error. RV. has `śóbhe` once
 as 3d singular.
 
 2\. Present Subjunctive.
@@ -4347,7 +4347,7 @@ p\.
 class; and `yátāite` is the only example of the 3d person. No such pl.
 mid. forms as `bhávādhve, bhávānte` are made from any class with
 stem-final `a`; such as `bhávanta` (which are very common) are, of
-course, properly augmentless imperfects. The Brāhmaṇas (especially ÇB.)
+course, properly augmentless imperfects. The Brāhmaṇas (especially śB.)
 prefer the 2d sing. act. in `āsi` and the 3d in `āt`. AB. has the 3d
 sing. mid. `haratāi`; and a 3d pl. in `antāi` (`vartantāi` KB.) has been
 noted once. RV. has examples, `arcā` and `madā`, of the briefer 1st.
@@ -4441,9 +4441,9 @@ b\. A few instances are met with of middle 3d persons from `a`-stems in
 `īta` and (very rarely) `īran`, instead of `eta` and `eran`. For
 convenience, they may be put together here (excepting the more numerous
 causative forms, for which see 1043 c); they are (so far as noted)
-these: `nayīta` S. and later, `çaṅsīta` S., `çrayīta` S.; `dhayīta` S.,
+these: `nayīta` S. and later, `śaṅsīta` S., `śrayīta` S.; `dhayīta` S.,
 `dhyāyīta` U., `hvayīta` AB. S. and `hvayīran` S., `dhmāyīta` U. An
-active form `çaṅsīyāt` C. is isolated and anomalous.
+active form `śaṅsīyāt` C. is isolated and anomalous.
 
 4\. Present Imperative.
 
@@ -4545,9 +4545,9 @@ thus, act. भवन्त् `bhávant` (fem. भवन्ती `bhávantī`);
 a\. A small number of middle participles appear to be made from stems of
 this class (as of other `a`-classes: see 752 e, 1043 f) by the suffix
 `āna` instead of `māna`: thus,
-`namāna, pacāna, çikṣāṇa, svajāna, hvayāna` (all epic), `majjāna` and
+`namāna, pacāna, śikṣāṇa, svajāna, hvayāna` (all epic), `majjāna` and
 `kaṣāṇa` (later); and there are Vedic examples (as
-`cyávāna, prathāná, yátāna or yatāná, çúmbhāna`, all RV.) of which the
+`cyávāna, prathāná, yátāna or yatāná, śúmbhāna`, all RV.) of which the
 character, whether present or aorist, is doubtful: compare 840, 852.
 
 6\. Imperfect.
@@ -4626,7 +4626,7 @@ p\.
 
 743\. No forms in `tana` are made in this tense from any `a`-class.
 Examples of augmentless forms (which are not uncommon) are:
-`cyávam, ávas, dáhas, bódhat, bhárat, cáran, náçan; bādhathās, várdhata, çócanta`.
+`cyávam, ávas, dáhas, bódhat, bhárat, cáran, náśan; bādhathās, várdhata, śócanta`.
 The subjunctively used forms of 2d and 3d sing. act. are more frequent
 than those of either of the proper subjunctive persons.
 
@@ -4676,9 +4676,9 @@ g\. The onomatopoetic root `ṣṭhīv` *spew* is written by the grammarians
 as `ṣṭhiv`, and declared to lengthen its vowel in the present-system:
 compare 240 b.
 
-746\. The roots `daṅç` *bite*, `rañj` *color*, `sañj` *hang*, `svañj`
+746\. The roots `daṅś` *bite*, `rañj` *color*, `sañj` *hang*, `svañj`
 *embrace*, of which the nasal is in other parts of the conjugation not
-constant, lose it in the present-system: thus, `dáçati` etc.; `sañj`
+constant, lose it in the present-system: thus, `dáśati` etc.; `sañj`
 forms both `sajati` and `sajjati` (probably for `sajyati`, or for
 `sasjati` from `sasajati`); `math` or `manth` has `mathati` later. In
 general, as the present of this class is a strengthening formation, a
@@ -4715,7 +4715,7 @@ follows so closely the model of the preceding class that to give the
 paradigm in full will be unnecessary (only for the subjunctive, all the
 forms found to occur will be instanced).
 
-752\. Example of inflection: root विश् `viç` *enter*; stem विश `viçá`:
+752\. Example of inflection: root विश् `viś` *enter*; stem विश `viśá`:
 
 1\. Present Indicative.
 
@@ -4738,22 +4738,22 @@ p\.
 1
 
 विशामि  
-`viçā́mi`
+`viśā́mi`
 
 विशावस्  
-`viçā́vas`
+`viśā́vas`
 
 विशामस्  
-`viçā́mas`
+`viśā́mas`
 
 विशे  
-`viçé`
+`viśé`
 
 विशावहे  
-`viçā́vahe`
+`viśā́vahe`
 
 विशामहे  
-`viçā́mahe`
+`viśā́mahe`
 
 etc.
 
@@ -4771,45 +4771,45 @@ etc.
 
 1
 
-`viçā́ni`
+`viśā́ni`
 
-`viçā́va`
+`viśā́va`
 
-`viçā́ma`
+`viśā́ma`
 
-`viçāí`
+`viśāí`
 
-`viçā́vahāi`
+`viśā́vahāi`
 
-`viçā́mahāi`
+`viśā́mahāi`
 
 2
 
-`viçā́si`  
-`viçā́s`
+`viśā́si`  
+`viśā́s`
 
-`viçā́tha`
+`viśā́tha`
 
-`viçā́se`  
-`viçā́sāi`
+`viśā́se`  
+`viśā́sāi`
 
-`viçāíthe`
+`viśāíthe`
 
 3
 
-`viçā́ti`  
-`viçā́t`
+`viśā́ti`  
+`viśā́t`
 
-`viçā́tas`
+`viśā́tas`
 
-`viçā́n`
+`viśā́n`
 
-`viçā́te`  
-`viçā́tāi`
+`viśā́te`  
+`viśā́tāi`
 
-`viçāíte`
+`viśāíte`
 
-`viçā́ntāi`
+`viśā́ntāi`
 
 a\. A single example of the briefer 1st sing. act. is `mṛkṣā́`. The only
 forms in `āithe` and `āite` are `pṛṇāíthe` and `yuvāíte`.
@@ -4835,22 +4835,22 @@ p\.
 1
 
 विशेयम्  
-`viçéyam`
+`viśéyam`
 
 विशेव  
-`viçéva`
+`viśéva`
 
 विशेम  
-`viçéma`
+`viśéma`
 
 विशेय  
-`viçéya`
+`viśéya`
 
 विशेवहि  
-`viçévahi`
+`viśévahi`
 
 विशेमहि  
-`viçémahi`
+`viśémahi`
 
 etc.
 
@@ -4875,22 +4875,22 @@ are added here:
 2
 
 विश  
-viçá
+viśá
 
 विशतम्  
-viçátam
+viśátam
 
 विशत  
-viçáta
+viśáta
 
 विशस्व  
-viçásva
+viśásva
 
 विशेथाम्  
-viçéthām
+viśéthām
 
 विशध्वम्  
-viçádhvam
+viśádhvam
 
 etc.
 
@@ -4907,44 +4907,44 @@ etc.
 c\. The ending `tāt` is found in RV. and AV. in
 `mṛḍatāt, vṛhatāt, suvatāt`; other examples are not infrequent in the
 Brāhmaṇa language: thus,
-`khidatāt, chyatāt, pṛcchatāt, viçatāt, sṛjatāt`; and later, `spṛçatāt`.
+`khidatāt, chyatāt, pṛcchatāt, viśatāt, sṛjatāt`; and later, `spṛśatāt`.
 The 3d sing. act `nudātu` and `muñcātu` occur in Sūtras (cf. 740).
 
 5\. Present Participle.
 
-The active participle is विशन्त् `viçánt`; the middle is विशमान
-`viçámāna`.
+The active participle is विशन्त् `viśánt`; the middle is विशमान
+`viśámāna`.
 
 d\. The feminine of the active participle is usually made from the
-strong stem-form: thus, `viçántī`; but sometimes from the weak: thus,
+strong stem-form: thus, `viśántī`; but sometimes from the weak: thus,
 siñcántī and `siñcatī́` (RV. and AV.), `tudántī` and `tudatī́` (AV.): see
 above, 449 d, e.
 
 e\. Middle participles in `āna` instead of `māna` are
-`dhuvāná, dhṛṣāṇá, liçāna, çyāna`, in the older language;
-`kṛçāna, muñcāna, spṛçāna` in the later (cf. 741 a).
+`dhuvāná, dhṛṣāṇá, liśāna, śyāna`, in the older language;
+`kṛśāna, muñcāna, spṛśāna` in the later (cf. 741 a).
 
 6\. Imperfect.
 
 1
 
 अविशम्  
-áviçam
+áviśam
 
 अविशाव  
-áviçāva
+áviśāva
 
 अविशाम  
-áviçāma
+áviśāma
 
 अविशे  
-áviçe
+áviśe
 
 अविशावहि  
-áviçāvahi
+áviśāvahi
 
 अविशामहि  
-áviçāmahi
+áviśāmahi
 
 etc.
 
@@ -4976,8 +4976,8 @@ b\. The stems `icchá, ucchá`, and `ṛcchá` are reckoned as belonging
 respectively to the roots `iṣ` *desire*, `vas` *shine*, and `ṛ` *go*.
 
 c\. The roots written by the Hindu grammarians with final `o` — namely,
-`cho, do, ço`, and `so` — and forming the present-stems `chyá`,
-`dyá, çyá, syá`, are more properly (as having an accented `á` in the
+`cho, do, śo`, and `so` — and forming the present-stems `chyá`,
+`dyá, śyá, syá`, are more properly (as having an accented `á` in the
 stem) to be reckoned to this class than to the `ya`-class, where the
 native classification puts them (see 761 g). They appear to be analogous
 with the stems `kṣya, sva, hva`, noted below (755).
@@ -5012,18 +5012,18 @@ sometimes reckoned as belonging to this class, see below, 773.
 form of the root, there are nevertheless a number of roots belonging to
 it which are strengthened by a penultimate nasal. Thus, the stem `muñcá`
 is made from √`muc` *release*; `siñcá` from √`sic` *sprinkle*; `vindá`
-from √`vid` *find*; `kṛntá` from √`kṛt` *cut*; `piṅçá` from √`piç`
+from √`vid` *find*; `kṛntá` from √`kṛt` *cut*; `piṅśá` from √`piś`
 *adorn*; `tṛmpá` from √`tṛp` *enjoy*; `lumpá` from √`lup` *break*;
 `limpá` from √`lip` *smear*; and occasional forms of the same kind are
 met with from a few others, as `tunda` from √`tud` *thrust*; `bṛṅhá`
 from √`bṛh` *strengthen*; `dṛṅhá` (beside `dṛ́ṅha`) from √`dṛh` *make
-firm*; `çumbhá` (beside `çúmbha`) from √`çubh` *shine*; TS. has
-`çṛnthati` from √`çrath` (instead of `çrathnāti`;
+firm*; `śumbhá` (beside `śúmbha`) from √`śubh` *shine*; TS. has
+`śṛnthati` from √`śrath` (instead of `śrathnāti`;
 `uñcha, vindhá, sumbha`, are of doubtful character.
 
 a\. Nasalized `á`-stems are also in several instances made by transfer
 from the nasal class: thus,
-`unda, umbha, ṛñjá, piṅṣá, yuñja, rundha, çiṅṣa`.
+`unda, umbha, ṛñjá, piṅṣá, yuñja, rundha, śiṅṣa`.
 
 VIII\. `Ya`-class (fourth, `div`-class).
 
@@ -5194,7 +5194,7 @@ etc.
 etc.
 
 c\. Of the ending `tana`, RV. has one example, `nahyatana`; the ending
-`tāt` is found in `asyatāt, khyāyatāt, naçyatāt`.
+`tāt` is found in `asyatāt, khyāyatāt, naśyatāt`.
 
 5\. Present Participle.
 
@@ -5238,7 +5238,7 @@ etc.
 
 
 d\. Examples of augmentless forms showing the accent belonging to the
-present-system are `gā́yat, páçyat, páçyan, jā́yathās`.
+present-system are `gā́yat, páśyat, páśyan, jā́yathās`.
 
 761\. The `ya`-class stems are more than a hundred and thirty in number,
 and nearly half of them have forms in use in all periods of the
@@ -5248,7 +5248,7 @@ only in the modern period.
 a\. Of the roots making `ya`-stems, a very considerable part (over
 fifty) signify a state of feeling, or a condition of mind or body: thus,
 `kup` *be angry*, `klam` *be weary*, `kṣudh` *be hungry*, `muh` *be
-confused*, `lubh` *be lustful*, `çuṣ` *be dry*, etc. etc.
+confused*, `lubh` *be lustful*, `śuṣ` *be dry*, etc. etc.
 
 b\. A further number have a more or less distinctly passive sense, and
 are in part evident and in part presumable transfers from the passive or
@@ -5269,7 +5269,7 @@ found as altered passive or original `ya`-formation by the side of
 
 c\. A considerable body of roots (about forty) differ from the above in
 having an apparently original transitive or neuter meaning: examples are
-`as` *throw*, `nah` *bind*, `paç` *see*, `pad` *go*, `çliṣ` *clasp*.
+`as` *throw*, `nah` *bind*, `paś` *see*, `pad` *go*, `śliṣ` *clasp*.
 
 d\. A number of roots, of various meaning, and of somewhat doubtful
 character and relations, having present-stems ending in `ya`, are by the
@@ -5282,8 +5282,8 @@ abundantly, and for the most part exclusively, `ā`-forms outside the
 present-system, there seems to be no good reason why they should not
 rather be regarded as `ā`-roots of the `ya`-class. They are `kṣā`
 *burn*, `gā` *sing*, `glā` *be weary*, `trā` *save*, `dhyā` *think*,
-`pyā` *fill up*, `mlā` *relax*, `rā` *bark*, `vā` *be blown*, `çyā`
-*coagulate*, `çrā` *boil*, `styā` *stiffen*. Some of them are evident
+`pyā` *fill up*, `mlā` *relax*, `rā` *bark*, `vā` *be blown*, `śyā`
+*coagulate*, `śrā` *boil*, `styā` *stiffen*. Some of them are evident
 extensions of simpler roots by the addition of `ā`. The secondary roots
 `tāy` *stretch* (beside `tan`), and `cāy` *observe* (beside `ci`) appear
 to be of similar character.
@@ -5318,13 +5318,13 @@ class.
 Irregularities of the `ya`-class.
 
 763\. The roots of this class ending in `am` lengthen their vowel in
-forming the present-stem: they are `klam, tam, dam, bhram, çam` *be
-quiet*, `çram`: for example, `tā́myati, çrā́myati`. From `kṣam`, however,
-only `kṣamyate` occurs; and `çam` *labor* makes `çamyati` (B.).
+forming the present-stem: they are `klam, tam, dam, bhram, śam` *be
+quiet*, `śram`: for example, `tā́myati, śrā́myati`. From `kṣam`, however,
+only `kṣamyate` occurs; and `śam` *labor* makes `śamyati` (B.).
 
 764\. The root `mad` has the same lengthening: thus, `mā́dyati`.
 
-765\. The roots in `īv` — namely, `dīv, sīv, srīv` or `çrīv`, and
+765\. The roots in `īv` — namely, `dīv, sīv, srīv` or `śrīv`, and
 `ṣṭhīv` (from which no forms of this class are quotable) — are written
 by the grammarians with `iv`, and a similar lengthening in the
 present-system is prescribed for them.
@@ -5340,7 +5340,7 @@ last two only in RV.); from `pṛ` comes `pū́rya`.
 
 767\. The root `vyadh` is abbreviated to `vidh`: thus, `vídhyati`. And
 any root which in other forms has a penultimate nasal loses it here:
-thus, `dṛ́hya` from `dṛṅh` or `dṛh`; `bhraçya` from `bhraṅç` or `bhraç`;
+thus, `dṛ́hya` from `dṛṅh` or `dṛh`; `bhraśya` from `bhraṅś` or `bhraś`;
 `rajya` from `rañj` or `raj`. 
 
 IX\. Accented `yá`-class: Passive conjugation.
@@ -5377,8 +5377,8 @@ but if preceded by two consonants (and also, it is claimed, in the root
 `ṛ`), it has instead the `guṇa`-strengthening: thus, `smaryá` from
 √`smṛ` (the only quotable case); — and in those roots which show a
 change of `ṛ` to `ir` and `ur` (so-called `ṝ`-verbs: see 242), that
-change is made here also, and the vowel is lengthened: thus, `çīrya`
-from √`çṛ`, `pūryá` from √`pṛ`.
+change is made here also, and the vowel is lengthened: thus, `śīrya`
+from √`śṛ`, `pūryá` from √`pṛ`.
 
 771\. The inflectiom of the passive-stem is precisely like that of the
 other `a`-stems; it differs only in accent from that of the class last
@@ -5531,10 +5531,10 @@ roots `dṛ` *pierce* and `pṛ` *fill*.
 to the `ya-` or intransitive class were given above (761 b); and it was
 also pointed out that active instead of middle endings are occasionally,
 even in the earlier language, assumed by forms properly passive:
-examples are `ā́ dhmāyati` and `vy àpruṣyat` (ÇB.), `bhūyati` (MāiU.). In
+examples are `ā́ dhmāyati` and `vy àpruṣyat` (śB.), `bhūyati` (MāiU.). In
 the epics, however (as a part of their general confusion of active and
 middle forms: 529 a), active endings are by no means infrequently taken
-by the passive: thus, `çakyati, çrūyanti, bhriyantu, ijyant-`, etc.
+by the passive: thus, `śakyati, śrūyanti, bhriyantu, ijyant-`, etc.
 
 The so-called Tenth or `cur`-Class.
 
@@ -5606,7 +5606,7 @@ expression of habitual action, of future action, and of past action in
 lively narration.
 
 a\. Examples of future meaning are:
-`imáṁ céd vā́ imé cinváte táta evá no ‘bhíbhavanti` (ÇB.) *verily if
+`imáṁ céd vā́ imé cinváte táta evá no ‘bhíbhavanti` (śB.) *verily if
 these build this up, then they will straightway get the better of us*;
 `agnir ātmabhavam prādād yatra vāñchati nāiṣadhaḥ` (MBh.) *Agni gave his
 own presence wherever the Nishadhan should desire*;
@@ -5614,7 +5614,7 @@ own presence wherever the Nishadhan should desire*;
 do for thee?*
 
 b\. Examples of past meaning are: úttarā sū́r ádharaḥ putrá āsīd dā́nuḥ
-çaye sahávatsā ná dhenúḥ (RV.) *the mother was over, the son under;
+śaye sahávatsā ná dhenúḥ (RV.) *the mother was over, the son under;
 there Dānu lies, like a cow with her calf*;
 `prahasanti ca tāṁ kecid abhyasūyanti cā ’pare akurvata dayāṁ kecit`
 (MBh.) *some ridicule her, some revile her, some pitied her;*
@@ -5626,14 +5626,14 @@ alighted there.*
 definitely the value of a past tense. Thus:
 
 a\. With `purā́` *formerly*: thus,
-`saptarṣī́n u ha sma vāí purá rkṣā íty ā́cakṣate` (ÇB.) *the seven sages,
+`saptarṣī́n u ha sma vāí purá rkṣā íty ā́cakṣate` (śB.) *the seven sages,
 namely, are of old called the bears*;
 `tanmātram api cen mahyaṁ na dadāti purā bhavān` (MBh.) *if you have
 never before given me even an atom.*
 
 b\. With the asseverative particle `sma`: thus,
-`çrámeṇa ha sma vāí tád devā́ jayanti yád eṣāṁ jáyyam ā́sá rṣayaç ca`
-(ÇB.) *in truth, both gods and sages were wont to win by penance what
+`śrámeṇa ha sma vāí tád devā́ jayanti yád eṣāṁ jáyyam ā́sá rṣayaś ca`
+(śB.) *in truth, both gods and sages were wont to win by penance what
 was to be won;* `āviṣṭaḥ kalinā dyūte jīyate sma nalas tadā` (MBh.)
 *then Nala, being possessed by Kali, was beaten in play.*
 
