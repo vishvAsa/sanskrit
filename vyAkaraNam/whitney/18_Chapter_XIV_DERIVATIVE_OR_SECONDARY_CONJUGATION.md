@@ -3,15 +3,6 @@ title = "18 Chapter XIV DERIVATIVE OR SECONDARY CONJUGATION"
 
 +++
 
-
-
-
-## CHAPTER XIV.
-
-  
-
-DERIVATIVE OR SECONDARY CONJUGATION.
-
 996\. SECONDARY conjugations are those in which a whole system of forms,
 like that already described as made from the simple root, is made, with
 greater or less completeness, from a derivative conjugation-stem; and is
@@ -39,7 +30,7 @@ its analogy with the others in respect to specific value, and freedom of
 formation, although it does not, like them, make its forms outside the
 present system from its present-stem.
 
-I. Passive.
+## I. Passive.
 
 998\. The passive conjugation has been already in the main described.
 Thus, we have seen that —
@@ -103,7 +94,7 @@ intransitive as well as transitive verbs: thus, `ihā ”gamyatām` *come
 hither*; `tvayā tatrāi ’va sthīyatām` *do you stand just there*;
 `sarvāir jālam ādāyo` ’ḍḍīyatām (H.) *let all fly up with the net*.
 
-II\. Intensive.
+## II\. Intensive.
 
 1000\. The intensive (sometimes also called frequentative) is that one
 of the secondary conjugations which is least removed from the analogy of
@@ -658,7 +649,7 @@ causative, `vévidayiṣāmi`. But such formations are excessively rare;
 quotable are `varīvarjáyantī` AV., `jāgaráyant` TB. etc.; `dādhārayati`
 JB., `dandaśayitvā` DKC.
 
-III\. Desiderative.
+## III\. Desiderative.
 
 1026\. By the desiderative conjugation is signified a desire for the
 action or condition denoted by the simple root: thus, पिबामि `píbāmi` *I
@@ -1107,9 +1098,9 @@ a\. On account of the near relation of desiderative and future (cf. 948
 b), the former is occasionally found where the latter was rather to be
 expected: thus, `rājānam prayiyāsantam` (śB.) *a king about to depart*;
 `prāṇa uccikramiṣan` (ChU.) *the breath on the point of expiring*;
-`mumūrṣur ivā ’bhavat` (H.) *he was fain to die*.
+`mumūrṣur ivā ’bhavat` (H.) *he was fain to die*.+++(5)+++
 
-IV\. Causative.
+## IV\. Causative.
 
 1041\. a. In the later language is allowed to be made from most roots a
 complete causative conjugation. The basis of this is a causative stem,
@@ -1746,7 +1737,7 @@ and `rirādhayiṣa` and `āpipayiṣa` (śB.), and so on.
 e\. As to causatives made from the intensive and desiderative stems, see
 above, 1025, 1039.
 
-V. Denominative.
+## V. Denominative.
 
 1058\. A denominative conjugation is one that has for its basis a
 noun-stem.
