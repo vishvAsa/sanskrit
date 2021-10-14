@@ -3,11 +3,6 @@ title = "09 Chapter V NOUNS AND ADJECTIVES"
 
 +++
 
-
-
-
-## CHAPTER V.
-
   
 
 NOUNS AND ADJECTIVES.
@@ -27,7 +22,7 @@ few others inflected like them); B. derivative stems;
 
 IV\. Stems in ऋ `ṛ` (or अर् `ar`);
 
-V. Stems in consonants.
+V\. Stems in consonants.
 
 c\. There is nothing absolute in this classification and arrangement; it
 is merely believed to be open to as few objections as any other. No
@@ -81,7 +76,7 @@ ending a compound has the accent, but (320) loses the peculiarity of
 monosyllabic accentuation, and does not throw the tone forward upon the
 ending (except `añc` in certain old forms: 410).
 
-Declension I.  
+## Declension I. अ (पुं, नपुं) 
 Stems (masculine and neuter) in अ `a`.
 
 326\. a. This declension contains the majority of all the declined stems
@@ -443,7 +438,7 @@ d\. In frequent cases, nouns of consonant ending are, as finals of
 compounds, transferred to the `a`-declension by adding suffix `a` (1209
 a) or `ka` (1222).
 
-Declension II.  
+## Declension II.  इ उ
 Stems (of all genders) in इ `i` and उ `u`.
 
 335\. The stems in इ `i` and उ `u` are inflected in so close accordance
@@ -1124,7 +1119,7 @@ form a feminine stem: thus, `suśroṇī`, `svayonī` or -`ni`, -`gātrayaṣṭ
 or -`ṭi`; `vāmorū` or -`ru`, `durhaṇū` or -`ṇu`, `varatanū`,
 `mātṛbandhū`; and RV. has `áśiśvī` from `śíśu`. 
 
-Declension III.  
+## Declension III. आ  ई ऊ
 Stems in long vowels: आ `ā`, ई `ī`, ऊ `ū`.
 
 347\. The stems ending in long vowels fall into two well-marked classes
@@ -2538,10 +2533,10 @@ L.
 पापासु  
 `pāpā́su`
 
-णाणीषु  
+पाणीषु  
 `pāpī́ṣu`
 
-Declension IV.  
+## Declension IV.  ऋ
 Stems in ऋ `ṛ` (or अर् `ar`).
 
 369\. This declension is a comparatively limited one, being almost
@@ -2915,8 +2910,7 @@ nom.-acc.-voc. of all numbers.
 
 d\. But TS. has once `tvátpitāras`, nom. pl., *having thee for father*.
 
-Declension V.  
-Stems ending in Consonants.
+## Declension V. Stems ending in Consonants.
 
 377\. All stems ending in consonants may properly be classed together,
 as forming a single comprehensive declension; since, though some of them
