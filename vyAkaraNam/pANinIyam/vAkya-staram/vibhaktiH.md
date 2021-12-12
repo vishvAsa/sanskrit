@@ -2,5 +2,5 @@
 title: विभक्तिः
 ---
 
-<div class="spreadsheet" src="../vibhaktiH.json"> </div>  
+<div class="spreadsheet" src="../vibhaktiH.toml"> </div>  
 
