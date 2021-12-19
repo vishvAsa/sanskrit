@@ -23,7 +23,7 @@ unicode_script: devanagari
 - Western European pronunciation of T, D is NOT retroflex (tongue curl). There is no separate retroflex Na. See examples in [language drift page](../uchchAraNa-parivartanam/).
 - Avestan and reconstructed proto-Indo-Iranic has post-alveolar or palatal श्/š. It does not have a separate retroflex टवर्ग - just dental (and possibly alveolar in case of PII).
 - ब्राह्मीलिप्यां दन्त्यवर्णचिह्नानि मूर्धन्यवर्णचिह्नानि समानमूलानि।
-- "I think ancient Dravidian had alveolar ṯ, in addition to dental t and retroflex ṭ. Similarly it likely had retroflex, alveolar and dental n.  Malayalam has all these.  In Dravidian, there is a tendency for combinations such as l+ dental t to become alveolar ṯ. ... Vilkkŭ means to sell. The root is "vil". Past tense ‘sold’, is formed by vil+tu and it becomes viṯṯu (alveolar ṯ)​. Ēlkkŭ = to take responsibility, to get hit, etc.  Past tense ēl+tu = ēṯṯu (alveolar ṯ)​.​"
+- "I think ancient Dravidian had alveolar ṯ, in addition to dental t and retroflex ṭ. Similarly it likely had retroflex, alveolar and dental n.  Malayalam has all these.  In Dravidian, there is a tendency for combinations such as l+ dental t to become alveolar ṯ. ... Vilkkŭ means to sell. The root is "vil". Past tense ‘sold’, is formed by vil+tu and it becomes viṯṯu (alveolar ṯ). Ēlkkŭ = to take responsibility, to get hit, etc.  Past tense ēl+tu = ēṯṯu (alveolar ṯ)."
 
 ### Retroflex-सम्भूतिः
 - णत्वषत्वयोर् अर्वाचीनता
