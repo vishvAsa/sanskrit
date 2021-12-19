@@ -17,10 +17,10 @@ Also interesting are his views at [https://twitter.com/pvaal2/status/13019130795
 The premise is wrong, of course. I find it very striking that one does not see oneself as an extension of one's forefathers (sagely or otherwise). Perhaps this comes from not feeling gratitude towards and revering them (via tarpaNa type rituals). Quite ahistorical an attitude for one so obsessed with it.
 
 ## 2008 exchanges
-Archiving some classic emails by some "western" Indologists for future reference (with emphasis on "interesting" parts), since the urls have shifted ( [https://list.indology.info/pipermail/indology/2008-August/thread.html](https://list.indology.info/pipermail/indology/2008-August/thread.html) seems ok).
+Archiving some classic emails by some "western" Indologists for future reference (with emphasis on "interesting" parts), since the urls have shifted ([https://list.indology.info/pipermail/indology/2008-August/thread.html](https://list.indology.info/pipermail/indology/2008-August/thread.html) seems ok).
 
 
-First by this lady who can be seen here being welcomed by our Canada diplomat - [https://twitter.com/AkhileshIFS/status/639608306835849217](https://twitter.com/AkhileshIFS/status/639608306835849217) .
+First by this lady who can be seen here being welcomed by our Canada diplomat -[https://twitter.com/AkhileshIFS/status/639608306835849217](https://twitter.com/AkhileshIFS/status/639608306835849217) .
 
 **Stella Sandahl**  
 _Wed Aug 13 03:49:54 EDT 2008_

@@ -1,6 +1,7 @@
 +++
 title = "रङ्गनाथलेखमञ्जूषा"
 unicode_script = "devanagari"
+
 +++
 
 ## प्रस्तावः

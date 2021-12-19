@@ -3,7 +3,7 @@ title: इतिहासः
 unicode_script: devanagari
 ---
 
-- ‘तद् यथा शङ्कुना सर्वाणि पर्णानि सन्तृण्णान्य्+++(=संविद्धानि)+++ एवम् ओङ्कारेण सर्वा वाक् सन्तृण्णा। ओङ्कार एवेदं सर्वम्।’ (छा.उ. २ । २३ । ३) पर्ण-ग्रन्थस्योल्लेखो ऽयम् इति केचित्।
+- ‘तद् यथा शङ्कुना सर्वाणि पर्णानि सन्तृण्णान्य्+++(=संविद्धानि)+++ एवम् ओङ्कारेण सर्वा वाक् सन्तृण्णा। ओङ्कार एवेदं सर्वम्।’ (छा.उ. २। २३। ३) पर्ण-ग्रन्थस्योल्लेखो ऽयम् इति केचित्।
 
 ## Early inadequacy
 - "All indications are that the spoken language for which the early scripts (brahmi & kharosthi) were invented did not follow a fully scientific (or standardized) mapping of sounds to script, so the early scripts did not allow for phonetically accurate representation of the spoken language."
@@ -29,11 +29,11 @@ The saṃvṛta ukāram is a short vowel, that can be described in English as a 
 
 Before the 1980’s this saṃvṛta ukāram was shown in writing by placing the halant symbol (“chandrakkala” in Malayalam) over the consonant+u character.  It looks like this:
 
-- വാക്ക്  वाक्क्  Vākk - halanta​
-- വാക്കു  वाक्कु Vākku – hrasva ukāra​
-- വാക്കു് वाक्कॅ Vākkŭ - saṃvṛta ukāra​
+- വാക്ക്  वाक्क्  Vākk - halanta
+- വാക്കു  वाक्कु Vākku – hrasva ukāra
+- വാക്കു് वाक्कॅ Vākkŭ - saṃvṛta ukāra
 
-As a result of the script reform of the 1970=80, the saṃvṛta ukāram was dropped.  It was decided to write വാക്കു് (Vākkŭ) as വാക്ക്  (Vākk) under the assumption that Malayali would anyway read it as വാക്കു് (Vākkŭ).​
+As a result of the script reform of the 1970=80, the saṃvṛta ukāram was dropped.  It was decided to write വാക്കു് (Vākkŭ) as വാക്ക്  (Vākk) under the assumption that Malayali would anyway read it as വാക്കു് (Vākkŭ).
 
 ### Telugu and Kannada "reform" attempts
 "It was on the lines of 'simplification' removing the vestigial elements in the script which are no longer required for a new changed modern 'colloquial' language that acquired the position of the  standard language. Removal of script symbols  ఋ (r̥) both independent and mātrā aspects , ఱ ( originally retroflex r, called śakaṭa rēpha) , longer ఋ (r̥), dantya ch and j etc., were all proposed on the basis of the argument that they were no longer pronounced the way they were supposed to be."

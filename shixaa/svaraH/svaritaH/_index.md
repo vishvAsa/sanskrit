@@ -5,12 +5,12 @@ unicode_script: devanagari
 ---
 
 ## अष्टाध्यायिमतम्
-- पाणिनिः अष्टाध्याय्याम् \- "उच्चैरुदात्तः। नीचैर् अनुदात्तः। समाहारस् स्वरितः। तस्य आदितः उदात्तम् अर्धह्रस्वम्॥" अनेन स्वरितस्य आदितः अर्धह्रस्वम् उदात्तम्, शिष्टो भागो ऽनुदात्तः।
+- पाणिनिः अष्टाध्याय्याम् \- "उच्चैरुदात्तः। नीचैर् अनुदात्तः। समाहारस् स्वरितः।तस्य आदितः उदात्तम् अर्धह्रस्वम्॥" अनेन स्वरितस्य आदितः अर्धह्रस्वम् उदात्तम्, शिष्टो भागो ऽनुदात्तः।
 - भाष्यम् [अत्र](https://archive.org/stream/Vyakarana/Mahabhashya_II#page/n31/mode/2up)। तदाङ्ग्लानुवादो [ऽत्र](https://archive.org/stream/LecturesOnPatanjalisVyakaranaMahabhashya4/LecturesOnPatanjalisMahabhashya4#page/n63/mode/2up)।
 - इदमेव पाणिनेः प्रामाणिकं चिन्तनं स्वरितोच्चारणे ([प्रकाशनम्](https://agnimaan.wordpress.com/2015/04/12/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A5%8B%E0%A4%9A%E0%A5%8D%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A4%A3%E0%A5%87-%E0%A4%BD%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF/))।
 
 ### प्रातिशाख्येषु पुष्टिः
-- तैत्तिरीय-प्रातिशाख्ये "आदिरस्योदात्तसमः शेषो ऽनुदात्तसम इत्याचार्याः॥" इत्य् अवधेयम्। (मूलम् [अत्र](http://bangla.name/citi/taittiriya/tait_dev.htm))। paaNini’s arrangment is explicitly allowed. there is one other similar alternative. The pair that grant higher tone to the *first half hrasva duration only* are still different from current "pure higher tone" or rising tone practice. Also, some "hand waving" is allowed by the last sUtra (सर्वः प्रवण इत्येके॥१.४७॥).
+- तैत्तिरीय-प्रातिशाख्ये "आदिरस्योदात्तसमः शेषो ऽनुदात्तसम इत्याचार्याः॥" इत्य् अवधेयम्।(मूलम् [अत्र](http://bangla.name/citi/taittiriya/tait_dev.htm))। paaNini’s arrangment is explicitly allowed. there is one other similar alternative. The pair that grant higher tone to the *first half hrasva duration only* are still different from current "pure higher tone" or rising tone practice. Also, some "hand waving" is allowed by the last sUtra (सर्वः प्रवण इत्येके॥१.४७॥).
   - As shrI dhananjaya says: "As you can see from the description, when this passage was written, apparently one couldn’t just listen to people speak, and know the pronunciation."
 - वाजसेनयि-प्रातिशाख्ये (मूलम् [अत्र](http://peterffreund.com/Vedic_Literature/shukl_yajur_veda_pratishakhya.htm), टीका [अत्र](https://archive.org/details/in.ernet.dli.2015.513471)): "उच्चैरुदात्तः, नीचैरनुदात्तः, उभयवान् स्वरितः" १.११०। एवञ्च - `चत्वारस्तिर्यक् स्वरिताः १२२ … तस्यादित उदात्तं स्वरार्धमात्रम् १२६`
 - What about multiple non-pANiniiya options preserved in – say – taittiriiya prAtishAkhya?
@@ -24,7 +24,7 @@ unicode_script: devanagari
       स् अ उ स् स् अ उ स्
 ```
 
-- नरेन्द्रस्य +ऋत्विजः [अत्र](https://archive.org/details/udakashAnti-vidhi-mantra-bhAShya-parichayaH)।  (३-तीयध्वनिमुद्रणे " rAxoghna-sUktam, devatA-vichAraH, sAyaNa-bhAShya-AkRtiH uchChAraNa-bheda-vichAraH.mp3" इत्याख्ये २६:०० इत्यत्र।)
+- नरेन्द्रस्य +ऋत्विजः [अत्र](https://archive.org/details/udakashAnti-vidhi-mantra-bhAShya-parichayaH)। (३-तीयध्वनिमुद्रणे "rAxoghna-sUktam, devatA-vichAraH, sAyaNa-bhAShya-AkRtiH uchChAraNa-bheda-vichAraH.mp3" इत्याख्ये २६:०० इत्यत्र।)
 
 ### माध्यन्दिनेषु शतपथे
 - मन्त्रेषु यौ स्वरितानुदात्तौ तौ शतपथे उदात्तौ, यस्तु उदात्तो ऽनन्त्यः सोऽनुदात्त इति च [भाषिकसूत्रे](https://sa.wikisource.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%95%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%BF) विधिः (१.१३ उदात्तमेतत्। स्वरितानुदात्तौ च॥ उदात्तम् अनुदात्तम् अनन्त्यम्॥) । मन्त्रस्थस्वरितोदात्ताक्षरयोर् अर्वाचीनोच्चनीचोच्चारणभेदम् ब्राह्मणे ऽपि रक्षितुम् इदं तन्त्रम्।
@@ -44,15 +44,15 @@ In nearly all contemporary vedic recitation systems, the aShTAdhyAyI system is c
     - The order of increasing pitch in this notation:  ४ > ३ > २ > १
 
 ### भाषान्तरेषु
-- अपि स्पानिकादिभाषास्व् अवलोकनेन उदात्तस्य तारतमस्वरत्वं ज्ञायते। तदपि बहुशः पाणिन्युक्तस्थानेष्वेव – **amo** (आद्युदात्तम्) **amAmos**। प्रत्ययस्य आद्युदात्तत्वेन पदमध्यो "A" उदात्तः। पाणिनीये शास्त्रेऽपि अपित् प्रत्यय आद्युदात्त एव, इति स्मरणीयम् ।
+- अपि स्पानिकादिभाषास्व् अवलोकनेन उदात्तस्य तारतमस्वरत्वंज्ञायते। तदपि बहुशः पाणिन्युक्तस्थानेष्वेव – **amo** (आद्युदात्तम्) **amAmos**। प्रत्ययस्य आद्युदात्तत्वेन पदमध्यो "A" उदात्तः। पाणिनीये शास्त्रेऽपि अपित् प्रत्यय आद्युदात्त एव, इति स्मरणीयम् ।
 - \[[अस्मात्](https://groups.google.com/forum/#!topic/bvparishat/hCsuyr1TBYA) संवादात् – \] मम दक्षिणात्यस्याभिप्राय आर्यावर्त्तवास्तव्येषु सस्वरभाषणं श्रूयतेतराम् स्वाभाविकतया, यद्यपि तत्राऽप्य् अपूर्णता ऽनुभूयते।
     - मत्परिचितेन कदाचिद् दर्शितमिदं गृह्यताम् ( [https://archive.org/download/sasvara-bhAShaNe-prayogAH](https://archive.org/download/sasvara-bhAShaNe-prayogAH) इत्यत्र) –[RShi-dilli-jana-bhAShaNam](https://archive.org/download/sasvara-bhAShaNe-prayogAH/RShi-dilli-jana-bhAShaNa-darshanam.opus)। तेनैव गुर्जरजनेनाजानता ऽपि स्वप्रादेशिकसंस्कारबलाद् दाक्षिणात्यभाषणदर्शनेऽपि स्वराः स्थापिताः :-) – [RShi-mumbai-gurjara-vs-daxiNa.opus](https://archive.org/download/sasvara-bhAShaNe-prayogAH/RShi-mumbai-gurjara-vs-daxiNa.opus)
     - तत्रैव गुर्जरभाषणविविध्यम् अपि स्याद् रुचये।
 
 ## स्वरव्यवस्थापर्याये कारणम्
-Why did the svara-vyavasthA that deviated from the aShTAdhyAyI system thrive at the cost of the latter? Possible reasons:
-- When the svara-s had (mostly) fallen out of use in laukika speech, the simpler thing to teach youngsters, even if it is completely artificial, thrived. "Listen boys – anudaatta is lower tone, udaatta is higher tone, svarita is even higher. simple. no falling tone business. now get to memorization."
-- Better marketing strategy. Certain shiShTa-s who had noticed the deviation from pANini devised various easily accessible and well marketed shikShA texts. Such as saying – oh look here – "pANinIya" shikShA is so clear. It was by pANini himself so don’t worry about inconsistency with aShTAdhyAyI.
+Why did the svara-vyavasthA that deviated fromthe aShTAdhyAyI system thrive at the cost of the latter? Possible reasons:
+- When the svara-s had (mostly) fallen out of use in laukika speech, the simpler thing to teach youngsters, even if it is completely artificial, thrived."Listen boys – anudaatta is lower tone, udaatta is higher tone, svarita is even higher. simple. no falling tone business. now get to memorization."
+- Better marketing strategy. Certain shiShTa-s who had noticed the deviation from pANinidevised various easily accessible and well marketed shikShA texts.Such as saying – oh look here – "pANinIya" shikShA is so clear. It was by pANini himself so don’t worry about inconsistency with aShTAdhyAyI.
 
 ## स्वनिर्णयः
 - वर्तमान-परम्परा उच्चरणविषये स्खलिताश् चेदपि, तदनुसरणे रक्षणे वा जनानाम् अधिकारम् अभ्युपगच्छामि।
