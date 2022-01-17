@@ -11,3 +11,6 @@ unicode_script: devanagari
 
 ## वृद्धिः
 <div class="spreadsheet" src="vRddhiH.toml" fullHeightWithRowsPerScreen=8></div>
+
+## Misc
+<div class="spreadsheet" src="misc.toml" fullHeightWithRowsPerScreen=8></div>
