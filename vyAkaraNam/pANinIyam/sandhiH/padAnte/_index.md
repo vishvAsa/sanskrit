@@ -2,10 +2,11 @@
 title = "+पदान्ते"
 unicode_script = "devanagari"
 +++
-
+## साधारणनियमः
 <div class="spreadsheet" src="padAnte.toml" fullHeightWithRowsPerScreen=8> </div>  
 
 
+## ह्, चुः, ष्
 <div class="spreadsheet" src="padAnte_h-chu-sh.toml" fullHeightWithRowsPerScreen=8> </div>  
 
 ## रुत्वम् अनुनासिकता च
