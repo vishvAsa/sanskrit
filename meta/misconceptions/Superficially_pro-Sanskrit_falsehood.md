@@ -16,11 +16,27 @@ title = "Superficially pro-Sanskrit falsehood"
         - कृपया "[व्यत्ययो बहुलम्](http://sanskritdocuments.org/learning_tools/ashtadhyayi/vyakhya/3/3.1.85.htm)" इति पाणिनीयस्य सूत्रस्य विवरणं जानीहि। तेन स्फुटं मन्ये महर्षेर् अन्ते पराजयाङ्गीकारः \- यथा कथमपि विचित्रशब्दा भवन्तीति। पुनश्चान्यान्य् अपि भवन्ति सूत्राणि (छन्दस्युभयथा) ये इतोऽपि पोषयन्ति भावमिमम्।
         - Observe the explanation of "छन्दसि दृष्टानुविधि" [here](https://www.youtube.com/watch?v=OxnNReA-1u4#t=2398).
     - पाणिनीयव्याकरणं केवलं साधुत्वप्रदर्शनाय स्यान्नाम छन्दस्सु बहुशः, न पुनः निश्चप्रचं साधुत्वनिश्चये।एवमन्यान्यपि सूत्राणि "बहुल"\-शब्दयुक्तानि भवन्त्येव लक्षणग्रन्थस्यास्य सीमाबोधकानि \- अन्ते लक्ष्यमेव शरणम् तेषु स्थानेष्व् इति तदभिप्रायः।
-- Sanskrit texts reveal that ancient hindu-s had flying machines, atom bombs etc.. There is plenty of "undeciphered scientific knowledge" in Sanskrit texts.
-    - puShpaka-vimAna in the Ramayana and the vaimAnika-shAstra merely show the excellent imagination of their authors. \[[MT](https://manasataramgini.wordpress.com/2007/07/23/vaimanika-shastra/)\]
-    - This is not to deny that ancient hindu scientists and mathematicians expressed themselves using Sanskrit.
 - Sanskrit is the mother of all languages / most languages/ Indo European languages.
     - As suhAsa says: _"She’s just one of the close relatives of the actual mother - The Proto Indo-European Language. Calling Sanskrit the "Mother of Languages" is like saying "The Chimpanzee is the father of man""_
+
+## Sanskrit science forgeries
+- Sanskrit texts reveal that ancient hindu-s had flying machines, atom bombs etc.. There is plenty of "undeciphered scientific knowledge" in Sanskrit texts.
+- puShpaka-vimAna in the Ramayana and the vaimAnika-shAstra merely show the excellent imagination of their authors. \[[MT](https://manasataramgini.wordpress.com/2007/07/23/vaimanika-shastra/)\]
+- This is not to deny that ancient hindu scientists and mathematicians expressed themselves using Sanskrit.
+
+<details><summary>Forgery list</summary>
+
+> संस्थाप्य मृण्मये पात्रे ताम्रपत्रं सुसंस्कृतम्।‌  
+> छादयेच्छिखिग्रीवेन चार्द्रााभि काष्ठापांसुभिः॥  
+> दस्तालोष्टो निधात्वयः पारदाच्छादितस्ततः।  
+> संयोगाज ्जायते तेजो मित्रावरुणसंज्ञितम्‌॥  
+> 
+> Misattributed to agastya-saMhitA. [TW](https://twitter.com/vedicgyaanindia/status/1501973903656177678)
+
+
+</details>
+
+
 
 ## Known sources of errors
 
