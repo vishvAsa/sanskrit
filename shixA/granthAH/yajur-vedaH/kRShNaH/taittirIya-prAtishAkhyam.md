@@ -1,7 +1,7 @@
----  
+---
 title: तैत्तिरीयप्रातिशाख्यम्  
 unicode_script: devanagari  
----  
+---
 
 ## परिचयः
 - [आर्कैवि](https://archive.org/stream/AtharvaVedaPratishakhyaChaturadhyayi/taittiriya_pratishakhya#page/n0/mode/2up)।- टीकाः
