@@ -6,6 +6,7 @@ title = "Translation"
 THE NIRUKTA
 
 ## 
+### 
 
 CHAPTER I
 
@@ -40,6 +41,7 @@ The demonstrative pronoun 1 is a reference to beings, as' cow ', ' horse *,' man
 According to Audumbarayana speech is permanent in the organs only.3 
 
 (Here ends the first section.4)
+### 
 
 In that case the fourfold division (of words) will not hold good, nor the grammatical, connexion, nor the mutual reference of sounds which are not produced simultaneously.5 Words are used to designate objects, with regard to everyday affairs in the world, on account of-their comprehensive
 
@@ -62,8 +64,10 @@ PM. i. 1. 6-23 ; the Vedanta su'ras, i. 3. 28 ; This is tantamount io the statem
 body. The term decay denotes its antithesis. Destruction denotes the commencement of the later state, but neither affirms nor denies the former.
 
 (Here ends the second section.)
+### 
 
 Hence, other modifications of becoming are only further developments of those (enumerated above), and should be inferred according to the occasion. 'Unconnected prepositions', says 6akatayana, 'have no meaning, butonly express a subordinate sense of nouns and verbs.' l ' They have various meanings,' says Gargya ;' hence, whatever their meaning may be, theyexpress that meaning (which brings about) modification in the sense of the noun and the verb.' - The word a is used in the sense of ' hitherward '; 3 pro, and puroi are its antitheses : abhi* ' towards ' ; prati is its antithesis : ati and su,' apj val' ; nir and dur are their antitheses : ni and ava, * downwards '; ud is their antithesis : sum,' combination '; vi and apa are its antitheses : ai'.u,' similarity' and ' succession': api^' contact': upa, 1 accession': pari,' being all around': adhi,' being above ', or' supremacy '. 5 Thus they express various meanings to which attention should be paid.6 (Here ends the third section.)
+### 
 
 Now the particles occur in various senses,7 both in a comparative sense, in a conjunctive sense,8 and as expletives. Of them, the following four are used in the sense of comparison.8 Iva (has this sense) both in the classical and in the Vedic Sanskrit : thus ' like Agni ',* like Indra ', &c. The word iia has the sense of negation in classical, and both (i.e. the sense of negation andcomparison) in Vedic Sanskrit : thus in the passage,' They did not recc^i
 
@@ -106,6 +110,7 @@ Ot? thee like the branches of a tree, O widely invoked one! * Of thee like the b
 Moreover, it is combined with the two (particles) wt and mi uu in asking a question, as' was it not so ?' and ' was it so, pray ?' The word iita denotes prohibition, as' do not do it ', and ' do not take '. The word kfudu alsoj (denotes prohibition), as' enough of doing this ', and ' have done with it' J f urther, it is used as an expletive, as' thus it happened '. The word satiwit lias the sense of uncertainty in classical Sanskrit : (in the sentence)' was it ever so V it (is used) in an interrogation ; (in the sentence)' was it ever so pray ?' in an interrogation but not to oneself. The word nunam has the sense of uncertainty in the classical language, both, i.e. the sense of uncertainty and that of an expletive, in Vedic Sanskrit.2
 
 Agastya, having assigned an oblation to Indra, desired to offer it to the Maruts. Indra, having presented himself, lamented (as follows).3 (Here ends the fifth section.)
+### 
 
 There, it seems, it does not exist ; there is no to-mouow , who kru>w$ that which is not past? The mind of another is apt to waver; lo! the expected is lost.4
 
@@ -116,6 +121,7 @@ There, it seems, it does not exist, i. e. there is no to-day nor 5 indeed to-mor
 [^10]: NUNAM [1. 6 other word adbhutam (' wonderful ') = abhutam, i. e. something which, as it were, is unprecedented. 'The mind of another is apt to waver', i.e. fickle. Another,1 a person not to be introduced (to good people). Cittam (mind) is derived from (the root) cit (to know),' Lo ! the expected is lost ', [even the assigned thing is lost],2 assigned, i. e. a thing intended (for offering). Moreover, it (nunam) is used as an expletive.       
 
 (Here ends the sixth section.)
+### 
 
 May that rich reward of thine, O Indra ! milk every boon for the singer. Be helpful to the worshippers, do not put us aside, let good fortune (corne) to us ; may we speak loudly in the assembly with heroes.3
 
@@ -134,6 +140,7 @@ Sent them forth, i. e. sent them forth on all sides. And also : From all sidas t
 i. e. The sun has uncovered (them) on all sides. 8u-Wtfah means the raysof the sun, (so called) on account of their brilliant light (su-rocaua). Or else the word sima takes the ablative suffix (-tas) without any meaning,i.e. sliniiah = slmatalt = simd-tah, (which means)* from the boundary '. tiwnd means boundary: it forms the seam between two countries. Theword tva, being a pronoun with the sense of ' opposition ', is unaccented.Some hold it to be a synonym of ' half '.
 
 (Here ends the seventh section.)
+### 
 
 One sits increasing the store of stanzas ; a second chants the yayatrahymn in vakvari measures. One, i. e. Brahma, expounds the science ofbeing ; whilst another metes the measure of the sacrifice.4
 
@@ -150,6 +157,7 @@ steadfast in friendship V (here it is) in the accusative ; ' for one she yielded
 plural.
 
 (Here ends the eighth section.)
+### 
 
 Friends, having (similar) eyes and ears, were unequal in the speed of
 
@@ -160,6 +168,7 @@ their minds. Some are like tanks, which reach up to the mouth, and are suitable 
 [Friends], having (similar) eyes and ears. Aksih (eye; is derived from (the root) caks (to see) ;' it is from ailj (to be beautiful),' says Agrayana. It is well known: Therefore, they are, as it were, more beautiful.4 Karnah (ear) is derived from (the root) krt (to cut) : it has its entrance torn asunder ;' it is from r (to go)/ says Agrayana. It is well known : Going upwards, as it were, they have protruded in space.4 They were unequal in the speed of their minds. Some reach up to the mouth, others up to the breast. 5 Asyam 6 (mouth) is derived from (the root) as (to throw), or else (from d-syand,' to flow ') : food flows towards it. Dagh'iiam is derived from (the root) dagh, meaning to flow, or from das (to be wasted) : it is very much wasted. Some are like tanks, suitable for bathing. Suitable for bathing, i. e. fit for bathing ; (others are) to be seen only.7 Hradah (tank) is derived from (the root) hrdd, meaning to make a sound, or from hldd, meaning to make cool. Further, it (tva) is used in the sense of ' aggregation ', as' recurrences and possession of As*vins'; 8i. e. possession of As'vins, and recurrences. Now the words which are used the sense being complete to fill up a sentence in prose, and a verse in poetic compositions, are expletives such as fawn-, lm, id, and it.9
 
 (Here ends the ninth section.)
+### 
 
 Men without garments, and having many children, being afraid of a wolf, as it were, longed for the dewy season 10 to live. 11
 
@@ -193,87 +202,110 @@ With these words, the four word-classes, i. e. the noun and the verb,preposition
 
 [^2]:. 949. Macdonell, Vedic Grammar, p. 429. 4 RV. Khila x. 106. 1. Cf. Patafijali, op. cil. iii. 3. 1, vol. ii, 6 Panini uses the term uii>ata to denote not p. 138 :' And the noun is derived from the
 
-  only particles, but also prepositions, see verb ' says the author in the Nirukta. 'TheAstadln/dyl, i. 4. 56. The technical word noun indeed is derived from the verb',employed by him for particles alone is so say the etymologists, and the son ofavijaya (op. cit. i. 1. 37). Particles are Sakata in grammar. Among the gram ynumm-ated in the gana called cadayah (op. marians, Sakatayana says, 'The noun is cit. i. 4. 57). The total number of particles derived from the verb'; cf. also Breal,collected in the list is 195. This, however, Semantics, p. 107: 'It comes from the fact docs not include cid and ki mentioned by that the vrb is the essential and the capital Yaska. Of the 195 particles, 22 only are part of our languages, which serves to formexplained in the Nintktu : (1) comparatives, substantives and adjectives'; see Moncalm,tro, na, eld, and nu ; (2) conjunctives, ca, a, The Origin of Thought and Speech, p. 74:
+only particles, but also prepositions, see verb ' says the author in the Nirukta. 'TheAstadln/dyl, i. 4. 56. The technical word noun indeed is derived from the verb',employed by him for particles alone is so say the etymologists, and the son ofavijaya (op. cit. i. 1. 37). Particles are Sakata in grammar. Among the gram ynumm-ated in the gana called cadayah (op. marians, Sakatayana says, 'The noun is cit. i. 4. 57). The total number of particles derived from the verb'; cf. also Breal,collected in the list is 195. This, however, Semantics, p. 107: 'It comes from the fact docs not include cid and ki mentioned by that the vrb is the essential and the capital Yaska. Of the 195 particles, 22 only are part of our languages, which serves to formexplained in the Nintktu : (1) comparatives, substantives and adjectives'; see Moncalm,tro, na, eld, and nu ; (2) conjunctives, ca, a, The Origin of Thought and Speech, p. 74:
 
-  14 ARE ALL NOUNS DERIVED FROM VERBS? [1. ia
+14 ARE ALL NOUNS DERIVED FROM VERBS? [1. ia
 
-  some of the grammarians,' but only those, the accent and grammatical form of which are regular and which are accompanied by an explanatory radical modification. Those (nouns), such as cow, horse, man, elephant, &c., are conventional 1 (terms, and hence are underivable).'
+some of the grammarians,' but only those, the accent and grammatical form of which are regular and which are accompanied by an explanatory radical modification. Those (nouns), such as cow, horse, man, elephant, &c., are conventional 1 (terms, and hence are underivable).'
 
-  Now, if all nouns are derived from verbs, every person who performs a particular action should be called by the same name, i.e. whosoever runs on the road should be called 'runner' (a&va, 'horse'); whatever pricks (like needle, &c.), 'pricker' (trnam, 'grass'). Further, if all nouns are derived from verbs, a substantive should obtain as many names as
+Now, if all nouns are derived from verbs, every person who performs a particular action should be called by the same name, i.e. whosoever runs on the road should be called 'runner' (a&va, 'horse'); whatever pricks (like needle, &c.), 'pricker' (trnam, 'grass'). Further, if all nouns are derived from verbs, a substantive should obtain as many names as
 
-  the actions with which it is connected; thus a column should also be called ' beam-supporter ', and ' that which rests in a hole '.
+the actions with which it is connected; thus a column should also be called ' beam-supporter ', and ' that which rests in a hole '.
 
-  (Here ends the twelfth section.)
+(Here ends the twelfth section.)
+### 
 
-  Moreover, substantives should be named according to the regular and correct grammatical form of a verb, so that their meanings may be indubitable, e.g. purusa (man) should take the form of pur!.-saya (city dweller) ; aim (horse), of astd (runner) ; triiam (grass), of tardanam (pricker). Further, people indulge in sophistry with regard to current expressions, e. g. they declare that earth (prthivi is (so called) on account of being spread (Vprath)\ but who spread it, and what was the base? Again, JSakatayana derived parts of one word from different verbs, in spite of the meaning being irrelevant, and of the explanatory radical modification being non-existent, e.g. (explaining sat-ya) he derived the later syllable ya from the causal form of (the root) i (to go), and the
+Moreover, substantives should be named according to the regular and correct grammatical form of a verb, so that their meanings may be indubitable, e.g. purusa (man) should take the form of pur!.-saya (city dweller) ; aim (horse), of astd (runner) ; triiam (grass), of tardanam (pricker). Further, people indulge in sophistry with regard to current expressions, e. g. they declare that earth (prthivi is (so called) on account of being spread (Vprath)\ but who spread it, and what was the base? Again, JSakatayana derived parts of one word from different verbs, in spite of the meaning being irrelevant, and of the explanatory radical modification being non-existent, e.g. (explaining sat-ya) he derived the later syllable ya from the causal form of (the root) i (to go), and the
 
-  former syllable sat from the regular form of (the root) as (to be). Further, it is said that a becoming is preceded by a being, (hence) the designation of a prior (being) from a posterior (becoming) is not tenable ; consequently this (theory of the derivation of nouns from verbs) is not tenable.
+former syllable sat from the regular form of (the root) as (to be). Further, it is said that a becoming is preceded by a being, (hence) the designation of a prior (being) from a posterior (becoming) is not tenable ; consequently this (theory of the derivation of nouns from verbs) is not tenable.
 
-  (Here ends the thirteenth section.)
+(Here ends the thirteenth section.)
+### 
 
-  '. . . there remain in the end certain simple The diametrically opposite view, that names elements of human speech the primordial are natural, is put in the mouth of Cratylus roots which have sufficed to provide the while Socrates takes an intermediate position, innumerable multitude of words used by the admitting that names are natural, while at human race'; Max Muller, Lectures on the the same time they have an element of con science of language, 6th ed., vol. ii, pp. 70, 80, vention also. Some passages of the dialogue 86 ; cf. also AA. ii. 1. 3 ; ii. 1. 6. relevant to the controversy are given in the
+'. . . there remain in the end certain simple The diametrically opposite view, that names elements of human speech the primordial are natural, is put in the mouth of Cratylus roots which have sufficed to provide the while Socrates takes an intermediate position, innumerable multitude of words used by the admitting that names are natural, while at human race'; Max Muller, Lectures on the the same time they have an element of con science of language, 6th ed., vol. ii, pp. 70, 80, vention also. Some passages of the dialogue 86 ; cf. also AA. ii. 1. 3 ; ii. 1. 6. relevant to the controversy are given in the
 
-  1 Plato introduces, in the Crafyft!, a character additional notes; see JoweH, Dialogues of in the person of Hermogenes who maintains Plato, 3rd ed.f vol. i, pp. 324, 327-8, 358, 366, that names are conventional, that they are 378.
+1 Plato introduces, in the Crafyft!, a character additional notes; see JoweH, Dialogues of in the person of Hermogenes who maintains Plato, 3rd ed.f vol. i, pp. 324, 327-8, 358, 366, that names are conventional, that they are 378.
 
-  given arbitrarily and ;-an be altered at will.
+given arbitrarily and ;-an be altered at will.
 
-  1.15] ARE ALL NOUNS DERIVED FROM VERBS? 15
+1.15] ARE ALL NOUNS DERIVED FROM VERBS? 15
 
-  As to (the statement) that all those (nouns), the accent and grammatical form of which are regular, and which are accompanied by an explanatory radical modification, are derived, ^we reply that) in that case it is quite evident. As to (the point) that every person whoever performs a par ticular action should be called by the same name, we see that in some cases the performers of the action do obtain a common name, while in others they do not, e. g. a carpenter or ascetic, enlivener, earth-born, Arc.1 With this, the following objection is answered as well. As to (the point) that substantives should be named in such a way that their meanings may be indubitable, (we reply that) there are words (of that character), words of rare occurrence, i.e. single words formed by primary suffixes, as creeper, guest, one having matted locks, a wanderer, wakeful, one whosacrifices with a ladle, <&c. /As to (the objection) that people indulge in sophistry with regard to current expressions, (we reply that) it is with regard to current expressions alone that (etymological) examination is most desirable. With regard to ' they declare that earth (prthivi) is (so called) on account of being spread ( V'jyrath) : but who spread it, and what was the base ?' (we reply that) it is indeed broad to look at, even if it is not spread by others. Moreover, in this way all known words, without any exception, can be found fault with. As to (the point) that a certain individual derived parts of one word from different verbs, (we reply that) the person who made such a derivation in spite of the meaning being irrelevant should be blamed; it is the fault of an individual, not of the science (of etymology).
+As to (the statement) that all those (nouns), the accent and grammatical form of which are regular, and which are accompanied by an explanatory radical modification, are derived, ^we reply that) in that case it is quite evident. As to (the point) that every person whoever performs a par ticular action should be called by the same name, we see that in some cases the performers of the action do obtain a common name, while in others they do not, e. g. a carpenter or ascetic, enlivener, earth-born, Arc.1 With this, the following objection is answered as well. As to (the point) that substantives should be named in such a way that their meanings may be indubitable, (we reply that) there are words (of that character), words of rare occurrence, i.e. single words formed by primary suffixes, as creeper, guest, one having matted locks, a wanderer, wakeful, one whosacrifices with a ladle, <&c. /As to (the objection) that people indulge in sophistry with regard to current expressions, (we reply that) it is with regard to current expressions alone that (etymological) examination is most desirable. With regard to ' they declare that earth (prthivi) is (so called) on account of being spread ( V'jyrath) : but who spread it, and what was the base ?' (we reply that) it is indeed broad to look at, even if it is not spread by others. Moreover, in this way all known words, without any exception, can be found fault with. As to (the point) that a certain individual derived parts of one word from different verbs, (we reply that) the person who made such a derivation in spite of the meaning being irrelevant should be blamed; it is the fault of an individual, not of the science (of etymology).
 
-  As to (the argument) that the designation of' a prior (beiny) from a poster or becoming is not tenable, we see that in some cases prior beinga do obtain their names from posterior becomings, but not in others, as ' a woodpecker ',' one having long locks ', &c. Bllva is (so called) from being supported or from sprouting.
+As to (the argument) that the designation of' a prior (beiny) from a poster or becoming is not tenable, we see that in some cases prior beinga do obtain their names from posterior becomings, but not in others, as ' a woodpecker ',' one having long locks ', &c. Bllva is (so called) from being supported or from sprouting.
 
-  (Here ends the fourteenth section.)2
+(Here ends the fourteenth section.)2
+### 
 
-  Moreover, without it (etymology) the precise meaning of Vedic stanzas cannot be understood. For one who does not understand the meaning, a thorough investigation of accent and grammatical form is not possible,
+Moreover, without it (etymology) the precise meaning of Vedic stanzas cannot be understood. 
 
-  1 The former two, i.e. a carpenter and an 2 Cf. Patanjali, op. cit. i. 1. 9, vol. i, pp. ascetic, are examples of cases where people 176-6. See Introduction, Yaska's contribu- who perform the same action get a common tions to Etymology, Philology, and Semantics; name; the latter two are examples of cases sects. 12-14 are translated rather freely by
+For one who does not understand the meaning, a thorough investigation of accent and grammatical form is not possible1. 
 
-  where they do not get a common name, as Max Miiller, History of Ancient .Snna/irft Lfara- enlivener means the juice of sugar-cane, and ture, 2nd ed., pp. 164-8.
+[^1]: The former two, i.e. a carpenter and an 2 Cf. Patanjali, op. cit. i. 1. 9, vol. i, pp. ascetic, are examples of cases where people 176-6. See Introduction, Yaska's contribu- who perform the same action get a common tions to Etymology, Philology, and Semantics; name; the latter two are examples of cases sects. 12-14 are translated rather freely by where they do not get a common name, as Max Miiller, History of Ancient .Snna/irft Lfara- enlivener means the juice of sugar-cane, and ture, 2nd ed., pp. 164-8. earth-born moans the planet Mars.
 
-  earth-born moans the planet Mars.
+16 THE KAUTSA CONTROVERSY [1. 15
 
-  16 THE KAUTSA CONTROVERSY [1. 15
+hence this science (etymology) is the complement of grammar and a means of accomplishing one's own object. * 
 
-  hence this science (etymology) is the complement of grammar und a means of accomplishing one's own object. * 
+'If (the object of the science) is to ascertain the meaning of Vedic stanzas, it is useless,' says Kautsa,' for the Vedic stanzas have no meaning';1 this is to be established' by the following arguments : 
 
-  'If (the object of the science) is to ascertain the meaning of Vedic stanzas, it is useless,' says Kautsa,' for the Vedic stanzas have no mean ing'; l this is to be established' by the following arguments : propositions have their words fixed, their order, too, is immutably fixed.2 Further, the accomplishment of the ritual form is enjoined by the Brahmana,3 as ' Spread it wide ',4 and so he spreads ;' Let me pour out ',6 and so he pours out. Further, their meaning is impossible,6 as' Save him, O plant ! ' 7 and while striking, one declares,' Do not injure him, O Axe ! ' 8 Moreover, their meaning is contradictory,9 as' There was but one Rudra and no second ',10 and ' Rudras, who on earth are thousands without number '; n 'O 'Indra! thou art born without a foe',12 an(i 'Indra vanquished hundred armies together'.13 Further, one enjoins a person who is already ac- quainted, as' Address the hymn to-Agni which is being kindled '. u Besides, it is said,' Aditi is everything '.* Aditi is heaven. Aditi is atmosphere,15 &c.' will be explained later on.!G Further, their meaning is obscure,17 as afmyak,1 * yadr&min,1 * jdraydyi,20 kdnukd, &c.
+propositions have their words fixed, their order, too, is immutably fixed.2 
 
-  (Here ends tfo fifteenth section.)
+Further, the accomplishment of the ritual form is enjoined by the Brahmana,3  
+as ' Spread it wide ',4 and so he spreads ;'  
+'Let me pour out ',6 and so he pours out. 
 
-  Vedic stanzas are signifieA&t, because (their) words are identical (with those of the spoken language). There is the Brahmana passage : This indeed is the perfection of the sacrifice, that the prescription of the form, that is to say, the action which is to be performed, is declared by a stanza of the Rg or the Yajurveda.22 ' Playing with their sons and grandsons,
+Further, their meaning is impossible,6 as' Save him, O plant ! ' 7  
+and while striking, one declares,' Do not injure him, O Axe ! ' 8 
 
-  1 Cf. PM. i. 2. 1. J 6 See N. 4. 23.
+Moreover, their meaning is contradictory,9 as  
+' There was but one Rudra and no second ',10 and ' Rudras, who on earth are thousands without number '; 11  
+'O Indra! thou art born without a foe',12 and 'Indra vanquished hundred armies together'.13 
 
-  2 Op. cit. i. 2. 32. " Cf. Patanjali, op. eft. ii. 1. 1, vol. i, p. 363-; 3 Cf. PM. i. 2. 83. PM. i. 2. 38.
+Further, one enjoins a person who is already acquainted, as ' Address the hymn to-Agni which is being kindled '. 14  
 
-  4 TS. i. 1. 8. 1 ; vi. 2. 7. 8; cf. MS. i. 1. ; The word occurs once only in RV. i. KS. i. 8 ; xxxi. 7 ; TB. iii. 2. 8. 4. 169. 3.
+Besides, it is said,' Aditi is everything '.* 'Aditi is heaven. Aditi is atmosphere,15 &c.' will be explained later on. 16 
 
-  6 Cf. VS. 2. 15. M The word occurs once only in RV. Y. 44. 8. Cf. PM. i. 2. 34-5. zo The word occurs once only in RV. vh 7 TS. i. 2. 1. 1. 12. 2.
+Further, their meaning is obscure,17 as amyak,1 * yadr̥śmin,1 * jāraydyi,20 kānukā, &c.
 
-  8 VS. 4. 1 ; 5. 42 ; (>. 15. 21 The word occurs once only in RV. via. 9 Cf. PM. i. 2. 36. 77. 4.
+(Here ends the fifteenth section.)
 
-  10 Cf. TS. i. 8. 6. 1. 22 GB. ii. 2. G ; ii. 4. 2 ; the passage without 11 VS. 16. 54. the words ' or the Yajurveda' is fo,und in JZ x. 133. 2; AV. 20. 05. 3 ; SV. 2. 1152. AB. i. 4, 13, 15, 17, &c. Cf. liar's tr'ans
+### 
 
-  18 x. 103. 1 ; AV. 19. jlS. 2; SV. 2. 1199; lation: What is appropriate in iufrpi, is VS. 17. 33. successful in the sacrifice; that i* to say, i4 TS. vi. 3. 7. 1; MS. i. 4. 11; TB. iii. when the verse (re or yaj us) which is recited 3. 7. 1 ; &B. i. 3. 5. 2, 3. See Gune, Shan- refers to the ceremony which is being per tlarkar Comm. Vol., loc. cif. formed.'
+Vedic stanzas are signifieA&t, because (their) words are identical (with those of the spoken language). There is the Brahmana passage : This indeed is the perfection of the sacrifice, that the prescription of the form, that is to say, the action which is to be performed, is declared by a stanza of the Rg or the Yajurveda.22 ' Playing with their sons and grandsons,
 
-  18 i. 89. 10.1. 1 7] THE KAUTSA CONTROVERSY 17       
+1 Cf. PM. i. 2. 1. J 6 See N. 4. 23.
 
-  &C.' 1 As to (the objection) that propositions have their words fixed, their order too is immutably fixed, (we reply) that it is the same with regard to the everyday speech of the world, as' Indra and Agni ',' father and son'.2 As to (the objection) that the accomplishment of the ritual form is enjoined by the Brahmana, (we reply) that this is a mere reiteration
+2 Op. cit. i. 2. 32. " Cf. Patanjali, op. eft. ii. 1. 1, vol. i, p. 363-; 3 Cf. PM. i. 2. 83. PM. i. 2. 38.
 
-  of what has been said already. As to (the objection) that their meaning is impossible, (we reply) that no injury is to be inflicted, so it must be understood by the authority of the Vedic passage. As to (the objection) that their meaning is contradictory, (we reply) that the same (objection) is applicable to the everyday speech of the world, as 'this Brahmanahas no rival', 'this king has no enemies', &c. As to (the objection) that one enjoins a person who is already acquainted, (we- reply) that in salutation a person announces his name to one who is already acquainted with it; the mixture of honey and milk is declared (to the guest) whois already acquainted with it. .As to (the objection) that Aditi is every thing, (we reply) that it is the same in the everyday speech of the world, as' all fluids reside in water '. 3 As to (the objection) that their meaning is obscure, (we reply) that it is not the fault of the post if the blind mandoes not see it ; it is the fault of the man himself. Just as among the country-folk a man becomes distinguished with (a little) knowledge, so among the scholars of the traditional Vedic lore a man of profound knowledge alone is worthy of praised
+4 TS. i. 1. 8. 1 ; vi. 2. 7. 8; cf. MS. i. 1. ; The word occurs once only in RV. i. KS. i. 8 ; xxxi. 7 ; TB. iii. 2. 8. 4. 169. 3.
 
-  (Here ends the sixteenth section.)
+6 Cf. VS. 2. 15. M The word occurs once only in RV. Y. 44. 8. Cf. PM. i. 2. 34-5. zo The word occurs once only in RV. vh 7 TS. i. 2. 1. 1. 12. 2.
 
-  Moreover, without this (etymology) the word-division is not possible. Be merciful, O Rudra, to the footed wanderer.5
+8 VS. 4. 1 ; 5. 42 ; (>. 15. 21 The word occurs once only in RV. via. 9 Cf. PM. i. 2. 36. 77. 4.
 
-  The footed wanderer, i. e. cows, provision for the journey : (avasdya) is derived from (the root) av, meaning to go, with the suffix asa\ it is therefore not analysed (in the Padap&tha).
+10 Cf. TS. i. 8. 6. 1. 22 GB. ii. 2. G ; ii. 4. 2 ; the passage without 11 VS. 16. 54. the words ' or the Yajurveda' is fo,und in JZ x. 133. 2; AV. 20. 05. 3 ; SV. 2. 1152. AB. i. 4, 13, 15, 17, &c. Cf. liar's tr'ans
 
-  Having released the horses.6
+18 x. 103. 1 ; AV. 19. jlS. 2; SV. 2. 1199; lation: What is appropriate in iufrpi, is VS. 17. 33. successful in the sacrifice; that i* to say, i4 TS. vi. 3. 7. 1; MS. i. 4. 11; TB. iii. when the verse (re or yaj us) which is recited 3. 7. 1 ; &B. i. 3. 5. 2, 3. See Gune, Shan- refers to the ceremony which is being per tlarkar Comm. Vol., loc. cif. formed.'
 
-  Here (ava-saya is derived from the root) so preceded by the preposition (ava) ; in the sense of releasing it is therefore analysed.
+18 i. 89. 10.1. 1 7] THE KAUTSA CONTROVERSY 17       
 
-  1 x. 85. 42; AV. 14. 1. 22; this is an that water is the source of all fluids, hence example of the identity of words of Vedic all fluids are contained within water, stanzas with those of classical Sanskrit. 4 See Introduction, Early anti-Vedic Scep-
+&C.' 1 As to (the objection) that propositions have their words fixed, their order too is immutably fixed, (we reply) that it is the same with regard to the everyday speech of the world, as' Indra and Agni ',' father and son'.2 As to (the objection) that the accomplishment of the ritual form is enjoined by the Brahmana, (we reply) that this is a mere reiteration
+
+of what has been said already. As to (the objection) that their meaning is impossible, (we reply) that no injury is to be inflicted, so it must be understood by the authority of the Vedic passage. As to (the objection) that their meaning is contradictory, (we reply) that the same (objection) is applicable to the everyday speech of the world, as 'this Brahmanahas no rival', 'this king has no enemies', &c. As to (the objection) that one enjoins a person who is already acquainted, (we- reply) that in salutation a person announces his name to one who is already acquainted with it; the mixture of honey and milk is declared (to the guest) whois already acquainted with it. .As to (the objection) that Aditi is every thing, (we reply) that it is the same in the everyday speech of the world, as' all fluids reside in water '. 3 As to (the objection) that their meaning is obscure, (we reply) that it is not the fault of the post if the blind mandoes not see it ; it is the fault of the man himself. Just as among the country-folk a man becomes distinguished with (a little) knowledge, so among the scholars of the traditional Vedic lore a man of profound knowledge alone is worthy of praised
+
+(Here ends the sixteenth section.)
+### 
+
+Moreover, without this (etymology) the word-division is not possible. Be merciful, O Rudra, to the footed wanderer.5
+
+The footed wanderer, i. e. cows, provision for the journey : (avasdya) is derived from (the root) av, meaning to go, with the suffix asa\ it is therefore not analysed (in the Padap&tha).
+
+Having released the horses.6
+
+Here (ava-saya is derived from the root) so preceded by the preposition (ava) ; in the sense of releasing it is therefore analysed.
+
+1 x. 85. 42; AV. 14. 1. 22; this is an that water is the source of all fluids, hence example of the identity of words of Vedic all fluids are contained within water, stanzas with those of classical Sanskrit. 4 See Introduction, Early anti-Vedic Scep-
 
 * i.e. The order of words in these idiomatic ticism ; a summary of the controversy i phrases cannot be reversed, e.g. it will be given by Muir, op. cit. vol. ii, pp. 169-72. wrong to say, 'Agni and Indra' ; 'son and 5 x. 169. 1.
 
@@ -306,6 +338,7 @@ Shining like Agni, O Manyu ! be strong.7
 Similarly (the characteristic mark of) Agni (is found) in a stanza addressed to Manyu.8 Tvisitah means shining. Of this word (the part) tvisih is a synonym of light.
 
 Moreover, there is praise of knowledge and censure of ignorance. (Here ends the seventeenth section.)
+### 
 
 He is the bearer of a burden only, ;the blockhead who, having studied, does not understand the meaning of the Veda. But he who knows the meaning obtains all good fortune and, with his sins purged off by know ledge> attains heaven.9
 
@@ -324,12 +357,14 @@ meaning has to be completed by an additional 10 Loc. cit. quoted with the varian
 Sthdnuh (post) is derived from (the ^root) sthd (to stand). Artha, (meaning) is derived from (the root) ar (to go), or it is (so called because) it stops from going.1
 
 (Here ends the eighteenth section.)
+### 
 
 Seeing one does not see speech, hearing one does not hear it. Andto another she yielded her body like a well-dressed and loving wife to her husband.2
 
 Even seeing, one does not see speech; even hearing, one does not hear it. With these words, the hemistich describes the ignorant man. ' And to another she yielded her body ', she reveals herself, i. e. knowledge ; the manifestation of meaning (is described) by this speech, i. e. the third verse. Like a well-dressed and loving wife to her husband [well dressed at proper seasons, dressed in an auspicious manner, and loving],3i. e. just as he (the husband) sees her and hears her at proper seasons : this is the praise of one who understands the meaning.4 The stanza following this explains it still more (explicitly).
 
 (Here ends the nineteenth section.)
+### 
 
 They certainly declare one to be steadfast in friendship, him no one can overpower in conflicts (of debates). But that man wanders with a barren delusion ; he listened to speech that is without fruit or flower. 5
 
@@ -354,6 +389,7 @@ like a fierce animal, roaming everywhere, haunting the mountains.4 As a fierce a
 (mountain) is (so called) because it has joints (parva). But parva is derived from (the root) pr (to fill), or from prl (to propitiate). Here, during a period of a fortnight, they propitiate the gods. It (mountain) is (so called) on account of the similarity of the joints of the nature of the other (period).5 Seated on a cloud. A cloud is called mountain from the same reason (i.e. from its being raised).^ The section which deals with the appellations of deities to whom panegyrics are primarily addressed is called the daivata ; this we shall explain later on, but the synonyms and homonyms now.
 
 (Here ends the twentieth section.)
+### 
 
 [^1]: 'Cf. Muir, op. cit. vol. ii, p. 165 ; vol. Hi,6 According to Durga, a mountain Las p. 118. joints in the form of stone slabs, and a period 2 Cf. Brh. D. i, 18. has joints in the form of time with its various 3i. 27. 1 ; SV. 1. 17 ; 2. 984. divisions. Cf. Muir, op. cit. vol. iv, p. 69. 4i. 164. 2 ; x. 182. 2.
 
@@ -362,6 +398,7 @@ like a fierce animal, roaming everywhere, haunting the mountains.4 As a fierce a
 
 
 ## 
+### 
 
 CHAPTEB II
 
@@ -424,6 +461,7 @@ vol. i, p. 81.
 (of the root).1
 
 (Here ends the first section.)
+### 
 
 Oghah (Vvah, 'flood'), meghah (Vmih, 'cloud'), nddhah* ('refuge'), gddhah (*/gdh,' fordable'), Vadhuh ( </vah,' bride'), madhu ( V'Triad,' mead'}. Further, there is anaptyxis, as in dsthat (V, 'to throw'), dvdrah (Virr, 'door'), bharujd ( Vbhrajj,' ripe '. D.), &o With reference to this, it is pointed out that when a root contains a semi-vowel contiguous to a vowel it becomes the origin of two primary bases. There, if an accomplished form is not derivable from one base, one should try to derive it from the other. Even there, some are of rare occurrence, as utih (-/av,* protection '), mrduk (Vmrad, 'soft'), prthuh (^pjeath, 'broad'), prsatah (V'prua, 'a drop '), kunarum ( </kvan,' sounding '). Further, Vedic primary nouns are derived from roots of classical Sanskrit, as damundh (devoted to the house), ksetrasddhdh (one who divides the fields), &c. ; and also nouns of classical Sanskrit from Vedic roots, as usnam (werm), ghrtam (clarified butter).3 Further, primary forms alone are employed (in speech) among some people ; secondary forms among others. The verb savati, meaning to go, is used by the Kambojas only. Kambojas (are so called becar.se) they enjoy blankets (kambala), or beautiful things.4 A blanket (kambala) is a desirable object (kamanlya). Its modified form vava is used by the Aryans : ddti, in the sense to cut, is employed by the people of the east, while the people of the north use ddtra (sickle).5 In this manner, one should explain single words.
 
@@ -442,6 +480,7 @@ plained by Durga, it cannot be regarded as Cf. Jowett, Dialogues of Plato (3rd e
 (the root) dad, meaning to hold. People say,' Akrura holds the jewel '. l ' The word (danda) is derived from (the root) dam,' says Aupamanyava. ' Inflict punishment on him ' is (used) in censure. Kaksyd means girth of a horse : it is carried round the region of girth. Kaksah (armpit) is derived from (the root) gdh (to plunge into) with the suffix ksa, or from khyd (to make known) with redundant reduplication : what is there worth seeing 1 Or it (may be derived) from kas * (to rub against). On account of this 3 analogy (i. e. of being rubbed) it means ' human armpit ', and on account of the analogy of the arms and their root, the word (signifies arm pit) of a horse.
 
 (Here ends the second section.)
+### 
 
 Royal servant, a servant of the king. Raja (king) is derived from (the root) raj (to shine). Purusah (person) = puri-sddah (one who sits in acity), or = puri-vayah (one who sleeps in a city), or is derived from (the root) pr (to fill), i. e. he fills the interior, with reference to the inner soul.
 
@@ -462,6 +501,7 @@ isolated syllables, either to a non-grammarian, or to a non-residential pupil, o
 the diligent.
 
 (Here ends the third section.)
+### 
 
 Verily knowledge approached Brahmana, ' Protect me, I am thy treasure. Do not expound me to the scornful, nor to the unstraightforward, nor to one who has no self-control ; thus shall I grow powerful.'2
 
@@ -474,6 +514,7 @@ In order to protect thy treasure, O Brahman ! expound me to him alone whom thou 
 tievadhi means treasure.*
 
 (Here ends the fourth section.)5
+### 
 
 Now, therefore, we shall proceed in order. The word gauh is a synonym of ' earth ', (so called) because it goes very far, or because people go over it (Vgam). Or it may be derived from (the root) go, with the suffix an (go, + au = gau). Moreover, it is a synonym of ' an animal ', from
 
@@ -486,12 +527,14 @@ xxix. 9. 6 According to Roth, the section in toto is 8 Cf. Manu, ii. 144 ; Vasis
 [^2]:.6] GAUH 25
 
 a plant). 'Milking soma, they sit on a cow-skin/ 1 i.e. (gauh is used inthe sense) of cow-skin used for sitting on. Amsuh (soma is so calledbecause) no sooner than it goes in, it is agreeable, or it is agreeable for life. Carma (skin) is derived from (the root) car (to move) or (it is so calledbecause) it is cut off (from the body). Moreover (gauh) means skin andphlegm :* Thou art girded round with skin and phlegm, be strong' ; 2 this (is said) in praise of a chariot. s Moreover, it means tendon andphlegm :' Girt with tendon and phlegm, it flies when discharged' ; 3 thisis in praise of an arrow. Bow-string is called gauh also : if it be gavyd, it is the derivative form ; if not (it is causal), i. e. it sets arrows in motion. (Here ends the fifth section.)
+### 
 
 On every strip of wood twanged the well-strung string: thence themen-eating birds flew.4 On every strip of wood, i. e. on every bone. Vrksa (tree) is (so called)from being cut down ( Vvra&c). [Or it stands having covered ( Vvr) theearth ksa (earth) ; ksd is derived from (the root) ksi meaning to dwell].5 Twanged the well-strung string, i. e. it makes a sharp ringing sound. The(verb) mlm means ' to make a low sound '. From thence birds fly in orderto eat men. The word vih is a synonym^ of bird, and is derived from (theroot) m, meaning to go. Moreover, it is a synonym of arrow also from thesame root. The sun is called gauh also. * Lo that (charioteer) in the sunwho has joints.'6
 
 ' Having joints means having brilliance/ says Aupamanyava.7 More over, a ray of the sun illuminates the moon.8 That the illumination of themoon is caused by the sun is to be established by the following : Susumnais the ray of the sun, the moon is the holder.9 This, too, is a Vedic passage.That (ray) is called gauh also. Here indeed they thought of the ray:10 this we shall explain later on. All the rays are called gavah also.
 
 (Here ends the sixth section.)
+### 
 
 [^1]: x.^94. 9. 8 This shows that Yaska was acquainted2 vi. 47. 26 j AV. 6. 125. 1 ; cf. N. 9. 12. with the non-self-luminous character of the8 vi. 75. 11; VS. 29. 48; cf. N. 9. 12. moon.
 
@@ -506,6 +549,7 @@ joints.
 [^26]: NIRRT1H [2. 7 We desire to go to those regions of you two, where are nimble and many-horned rays. There, indeed, shines forth brightly that highest^step of the wide-striding Visnu.1 We long to go to those regions of you two, where are rays [many horned], having a large number of horns.2 The word bhuri is a synonym of ' many'; (so called) because it produces much. &rhga (horn) is derived from (the root) &ri (to rest, on), or from ? (to slay), or from sam (to destroy) ; or (it is so called because) it grows up to protect, or it comes out of the head. Ayasah means nimble. There shines forth Brightly the highest step, i. e. the loftiest step, of the wide-striding, i. e. of the great paced, Visnu. Pddah (foot) is derived from (the root) pud (to go) ; when it is placed down., (the same word in the neuter gender) means a footstep. The word (also signifies) a quarter of division from the analogy of a quadruped ; and other quarters from the analogy of the pdda of division. In like manner, doubts are entertained with regard to other nouns as well ; (the rule is that) tlie^ aliould be explained according to their mean ing : if their meanings are uniform, their etymologies are uniform ; if their meanings are multiform, their etymologies are multiform." With these words, the twenty-one synonyms of earth are dealt with. With reference to them, nirrtik (earth) is (so called) from giving enjoyment ; the other word (nirrtih), which signifies calamity, is derived from (the root) r (to befall) ; the latter is confused with the former ; their difference (should be noted). The following stanza is addressed to her.
 
 (Here ends the seventh section.)
+### 
 
 He, who made it, did not know of it ; it was hidden from him who saw it. Encompassed within the womb of the mother, and multiplying greatly, he entered the earth.4
 
@@ -516,12 +560,14 @@ He, who made it, did not know of it ; it was hidden from him who saw it. Encompa
 region encompassed by air. This other (meaning, i. e.) a woman's womb, is derived from the same root also : it is surrounded.1 Multiplying greatly,fie reaches earth through the phenomenon of rain.2
 
 Sakapuni3 made the determination that he would know all the deities. A deity having the two characteristics 4 appeared before him. He did notknow her; he said to her,' I would like to know thee '. She referred hinto the following stanza, with the words that it was addressed to her. (Here ends the eighth section.)
+### 
 
 Here he snorts, covered by whom the speech, resting on a spluttering(cloud), utters a lowing sound. She indeed frightened the mortal with her(thltfedering) actions ; becoming lightning, she concealed her form.5 HeIB he thunders, surrounded by whom the speech utters a lowing sound,i.e. makes a noise, or (utters a lowing sound) like niayu, i.e. the sun.c Thisis the almosphefic speech. Resting on a spluttering7 cloud, she frightens themortal with her (thundiww^g) actions,8 deeds, and, becoming lightning, con ceals her form.9 The word vavrih is a synonym of form : because it covers(Vvr, to cover). Having overspread the earth with rain, it draws it back
 
 again.
 
 (Here ends the ninth section.)
+### 
 
 The following fifteen (words) are synonyms of gold.10 From what (root) is hiranyam derived ? It is circulated (hriyate) in a stretched form,11 or it 1 According to Durga it is surrounded by 5i. 164, 29 ; AV. 9, 10, 7. ainews and flesh.* The sun is called mayu, because lie is the 8 Two different interpretations of the word measurer of all beings (-/wa). Durga thinks nirrtih, (1) as signifying calamity, according that the first hemistich describes the internal to the ascetics ; (2) as meaning earth, according thunder of a cloud which is yet unmanifested. to the etymologists, are here presented. Durga7 Cloud is called spluttering, because it remarks that similar differences of interpreta- splutters water. Dhvamsani: is translated as tion exist with regard to other Vedic passages* Wwskt ' by Both.       
 
@@ -560,12 +606,14 @@ also found in different versions in the Maha-
 [^2]:.13] DEVAPI AND SANTANU       
 
 Putra (son) : either he very much protects by offering (sacrificial cakes, &c.); or put being (the name of) a hell, he (the son) saves one from that.1 Theseer,2 acting as the performing priest. A seer is (so called) from his havingvision. 'He saw the hymns,' says Aupamanyava. It is known: because theself-born Brahma manifested himself to them while practising austerities,they became seers ; that is the characteristic of the seers." Devapi, one whoknew, i.e. was aware of (how to obtain) the goodwill of the gods, i.e. theblessed will of the gods, by songs, praise, and gifts to the gods. Fromtheupper to the lower ocean : upper, raised much higher ; lower, moving below(the ground). Adhah (below), i.e. it does not run ; with this word its up ward motion is denied. The stanza following this explains this much more.(Here ends the eleventh section.)
+### 
 
 When Devapi, domestic chaplain to 6antanu, and selected to be the per-forming priest, imploring kindled fire, the generous Brhaspati granted himspeech, which was heard by the gods, and which was the winner of rain.4
 
 &an-tanu means, peace to thee, O body, or peace to him in his body.Domestic chaplain is (so called' because) they place him in front. 5 Selectedtobe the performing priest, (he) imploring kindled fire. Which was heardby the gods, i.e. which the gods hear. [Which was the winner of rain],i.e. requesting rain. Rardna (generous) is a reduplicated form of rd(to give). Brhaspati was Brahma ; he granted him speech. Brhat has beenfully explained (i. 7; cp. x. \1).
 
 (Here ends the twelfth section.)
+### 
 
 The following six (words) are common (synonyms) of sky and sun.Those which primarily belong to the sun will be explained by us later on.cFrom what (root) is dditya derived ? He takes the fluids, he takes (i. e.eclipses) the light of the luminaries,7 or he blazes with lustre, or he is theson of Aditi ; this last (epithet) however is rarely applied to him in the textof the Rgveda, and he has only one hymn addressed 8 (under this epithet).The sun, son of Aditi,9 [i.e. the son of Aditi]. In like manner, there
 
@@ -610,10 +658,12 @@ This too is a Vedic quotation. Also of Varuna alone : Now let us be in thy ordin
 The word vrata 4 is a synonym of action, having the sense of abstaining : because it enjoins. This other meaning of vrata (i.e. a vow) is derived from the same root also : because it chooses. Food is called vrata also, because it covers the body.
 
 (Here ends the thirteenth section.)
+### 
 
 Svar means the sun ; it is very distant, it has well dispersed (the darkness), it has well penetrated the fluids, it has well penetrated the light of the luminaries, or it is pierced through with light. Dyauh (sky) is explained by the same. Pr&ni means the sun.' It is thoroughly pervaded by the bright colour/ say the etymologists. It closely unites the fluids, it closely unites the light of the luminaries, or it is closely united with light. Now sky is (so called because) it is closely united with luminaries and the virtuous. Naka means the sun, [the bearer of fluids], bearer of lights, leader of lumi naries. Now the sky : the word ham is a synonym of happiness, the oppo site of its negative form (i. e. ndkam).
 
 There is no misery for the man who has departed to the other world.5 There is no wretchedness for the man who has departed to the other world ; it is the virtuous only who go there. Gauh means the sun : it causes the fluids to move, it moves in the sky ( </gam). Now the sky is .(called gauh) because it is gone very far from the earth, or because the luminaries move in it. Vistap means the sun : it has pervaded the fluids, it has per- vaded the light of the luminaries, or it is pervaded with light. Now the sky is (called vistap) because it is pervaded by the luminaries and the virtu ous. Nabhas means the sun: [bearer of fluids], bearer of lights, leader of luminaries. Or else it may be the word bhanas itself, in reversed order : it is not that it does not shine. The sky is explained by the same. (Here ends the fourteenth section.)
+### 
 
 The following fifteen (words) are synonyms of ray. Ray is (so called)
 
@@ -624,6 +674,7 @@ The following fifteen (words) are synonyms of ray. Ray is (so called)
 on account of restraining. Of these the first five are common (synonyms) of horse and rays.
 
 The following eight (words) are synonyms of quarter. From what (root) is disah derived? l It is derived from (the root) dtt (to point out), or they are (so called) from being within easy reach, or from pervading. With reference to these, the word Icdsthd is a synonym of many objects. Kastha means quarters : they are situated having gone across. Kdstfta means intermediate quarters : they are situated having crossed each other. The sun is called kasthd also : it is situated having gone across. Destination is called kasthd also: it is situated having gone across. Waters are called kasthd also : they are situated having gone across, i.e. stationary waters. (Here ends the fifteenth section.)
+### 
 
 Thfe deposited body was in the midst of waters which neither stay nor rest Waters march against the secret (outlet) of Vrtra ; in deep darkness lay he whose enemy is Indra.2
 
@@ -648,6 +699,7 @@ Having the demon as their master,2 as their overlord. Ddsa (slave) is derived fr
 The following twenty-three (words) are synonyms of night. From what (root) is ratrih (night) derived ? It exhilarates the nocturnal crea- tures and causes the others to cease work, and makes them strong, or it may be derived from (the root) rd meaning to give: the dew is given away during this (period).
 
 The following sixteen (words) are synonyms of dawn. From what (root) is usdh (dawn) derived? (It is so called) because it shines (Vvas).1 It is the time subsequent to night. The following stanza is addressed to her, (Here ends the eighteenth section.)
+### 
 
 This light, the best of all lights, has come, and has generated a variegated and extensive illumination. Just as being born it gives birth to the sun, so the night has left its seat for the dawn.8
 
@@ -660,6 +712,7 @@ purusa, but the accent shows that it is a5 TS. ii. 4. 12. 2 ; i. e. he covered t
 This light, the best 1 of all lights, has approached. It has generated a variegated, .well-known, and very extensive illumination. Just as^ being born it gives birth to the sun, i.e. the night2 to the sun, so the Hght has left its seat, i. e. place for the dawn. A woman's womb is (so called because) the foetus is joined with it.3 The following, another stanza, is addressed to her.
 
 (Here ends the nineteenth section.)
+### 
 
 Resplendent, having a resplendent calf, the white one has come ; the black, one has left places for her. Having a common relation, immortal, succeeding each other, the two bright ones wander about fashioning the colour.4
 
@@ -668,6 +721,7 @@ Having a resplendent calf, i. e. the sun. The word riwat is a synonym of colour 
 The following twelve (words) are synonyms of day. From what (root) is ahah (day) derived ? (It is so called because) people accomplish works during (this period). The following is its incidental occurrence in a stanza addressed to VaisVanara.
 
 (Here ends the twentieth section.)
+### 
 
 [^1]: Durga remarks that the sun is too hot, by her calf: this is companionship. As the the moon is too cool, but the dawn is neither calf drinks milk from the udder of the cow, cold nor hot, hence it is the best of all other so the sun draws up the dew, which is pur lights. ticularly associated with dawn, hence the
 
@@ -682,6 +736,7 @@ The black day and the white day, the two regions roll on with (activities) worth
 The following thirty (words) are synonyms of cloud. From what (root) is megha (cloud) derived ? (It is so called) because it sheds water (*/mih). They are common with the synonyms of mountain up to the two words upara and upala, which mean cloud: clouds cease to move in it, or the waters are made inactive.3 The following stanza is addressed to them.
 
 (Here ends the twenty-first section.)
+### 
 
 In the measurement of gods they stood first; from their division, waters flowed down. The three working in succession warm the earth ; the two carry the fertilizing moisture.4
 
@@ -694,12 +749,14 @@ In the creation of gods they, i.e. groups of atmospheric gods, stood first.5 Fir
 from (the root) bru, meaning to make a sound, or from bhramv (to fall down). Purlsam (fertilizing) is derived from (the root) pf (to fill), or from the causal of pf.
 
 (Here ends the twenty- second section.)
+### 
 
 The following fifty-seven (words) are synonyms of speech. From what(root) is vac (speech) derived ? It is derived from (the root) vac (to speak). With reference to these, the word Sarasvat^ is used both in the sense of 'a river' and of 'a deity' in Vedic passages;1 we shall explain the
 
 (Vedic passages) where it is used in the sense of a deity later, and just nowthose where it is used in the sense of a river.
 
 (Here ends the twenty-third section.)
+### 
 
 Like one who digs the lotus-stem, she has shattered the peaks of moun tains with her might and strong waves. Let us worship Sarasvat!, whosweeps what is far and what is near alike, with well-composed hymns, for our protection.2
 
@@ -720,10 +777,12 @@ sweeps what is far and near, i.e. heaven and
 together. Mu-das, a bountiful giver. Paijavana, son of Pijavana. Again Pi-javana, one whose speed is enviable, or whose gait is inimitable.1 Having gathered his wealth, the priest came to the confluence of the Sutlej and the Bias. Others 2 followed him. He, i. e. VisVamitra, implored the rivers to become fordable. (He addressed them) in the dual as well as in the plural number. With reference to this we shall explain (the stanza in which he addresses them) in the dual number later, and just now (the stanza in which he addresses them) in the plural number.
 
 (Here ends the twenty-fourth section.)
+### 
 
 Stop your courses for a moment, ye great floods, at my friendly bidding. I, the son of Kus*ika, and desirous of protection, invoke the river with a sublime hymn.3
 
 Stop from flowing at my friendly bidding, I who prepare soma (for you). Great flood, rich in water. The word rtam is a synonym of water, (so called because) it pervades everything. For a moment (stop) your courses,4 your journeys, or your protections. A moment, a recurring (unit of) time. Rtu is derived from (the root) r, meaning to "go. Muhuh (again) as if the time was indolent (mulhah) as long as a moment. Abhl-ksnam abhi ksanam (a moment). Ksana (an instant) is derived from (the root) ksan (to injure) : it is the injured time/ Kalah (time) is derived from (the root) kal, meaning to go. I call upon the river with a great, mighty, sublime, pro- found panegyric, full of wisdom, for protection. Son of Kus"ika. KuSika was (the name of) a king. The word kuxika* is derived from (the root) kryx, meaning to cry, or krams, meaning to cause to shine ; or he is a good expounder of meaning. The rivers answered (as follows), (Here ends the twenty-fifth section.)
+### 
 
 .Indra, the wield er of the thunderbolt, dug our (channels) ; he smote down Vrtra, the enclosure of rivers. Savitr, the god of beautiful hands, led us (hither), at his stimulation we flow expanded.7
 
@@ -734,6 +793,7 @@ Indra, the wielder of the thunderbolt, dug our (channels) ; the verb rad means t
 [^4]: Durga paraphases evaih by udakaifyy.' with 7iii. 83. 6.2. *81 SYNONYMS OF HORSE 57      
 
 worship: they worship gods, having folded their hands. At his stimula tion, we flow expanded.1 Urvyah (expanded) is derived from (the root) urnu (to cover). 'It is derived from (the root vj' (to cover),' says Aurnavabha. Having (thus) answered, the rivers consented in the end. (Here ends the twenty-sixth section.)
+### 
 
 We shall listen to thy words, O bard ; thou earnest from afar with this chariot. I bend myself down for thee, as a nursing mother (for her son), as a maiden to embrace her lover;2
 
@@ -742,6 +802,7 @@ We listen to thy words, O bard ! Go :i afar with this chariot. We benddown for t
 The following twenty-six (words) are synonyms of horse. Of these, the last eight are (always used) in the plural number. From what (root) is affvak derived ? (It is so called because) it trots on the road, or it eats too much. With reference to these, the word dadhikra (horse) is (so called because) it runs while bearing a rider on its back, or it neighs while bearing a rider on its back, or it looks beautiful while bearing a rider on its back. There are Vedic passages where the word is used (both in the sense of) a horse and of a deity. We shall explain those (passages where the word is used in the sense of) a deity later, and in this place those (where it is u^ed in the sense of) a horse.
 
 (Here ends the twenty-seventh section.)
+### 
 
 That courser hastens with speed, although it is bound by neck, flank, andmouth. Putting forth its (best) power, dadhikra sprang along the bends of roads.4
 
@@ -762,14 +823,17 @@ The following ten (words) describe the specified teams of gods for the knowledge
 The following eleven verbs mean to shine. That very number of the following (words) is the synonym of flame.
 
 (Here ends the tiventy-eighth section.)
+### 
 
 ## 
+### 
 
 CHAPTEK III
 
 THE following twenty-six (words) are synonyms of action.1 From what (root) is karma (action) derived "? (It is so called) because it is done ( Vkr). The following fifteen (words) are synonyms of offspring.2 From what (root) is apatya (offspring) derived? (It is so called because) it spreads farther, or with offspring one does not fall 3 (into hell). With reference to this, we shall quote (the following) two stanzas, in order to show that the offspring belongs to the begetter only.4
 
 (Here ends the first section.)
+### 
 
 The treasure of the stranger is indeed to be avoided ; may we be masters of eternal wealth. (The child) begotten by another is no son ; he is so for the fool (only) ; Agni, do not corrupt our paths.5
 
@@ -782,12 +846,14 @@ flame of the burning fire that actions like the 5 vii. 4. 7. Durga remarks that 
 [^3]:. 4] INHERITANCE 39       
 
 deceased. That is a child for the fool, i.e. insane, only. Do not corrupt our paths. The stanza following this explains it much more. (Here ends the second section.)
+### 
 
 The stranger, however delightful, should not be adopted, begotten in another's womb ; he should not be regarded (as one's own) even in thought. To his own abode he certainly goes back. Let the new (hero), impetuous and irresistible, come to us.1
 
 The stranger should never be adopted, although he may be the most delightful man. The child begotten in another's 2 womb should not be regarded as' this is my son ', even in thought. Now he goes back to the same abode from whence he came. Olcah (abode) is used as a synonym of dwelling--place. Let the newly-born (hero), impetuous, i.e. swift and over- powering; his rivals, come to us ; he alone is (the real) son. Now (some lawgivers) cite the following stanza in support of a daughter's right to inheritance,3 others hold (that it is to be cited) in support of a son's right to inheritance.
 
 (Here ends the third section.)
+### 
 
 The husband admits that he (the father) shall obtain a grandson from the daughter,4 the wise man, honouring the process of the sacred rite. Whena father arranges a husband for his daughter, he bears himself with a tran quil mind.5
 
@@ -812,6 +878,7 @@ In the beginning of the creation, Manu, the self-existent, declared him self tha
 [Women, all clad in red garments, move like veins.]5 They stand with their path obstructed like women who have no brother.6
 
 They stand like women who have no brother, and whose path is 4 obstructed with regard to procreation and the offering of the sacrificial cake. With these words the simile implies the prohibition of marrying a brother less maiden.7 The stanza following this explains it much more. (Here ends the fourth section.)
+### 
 
 Like a brotherless maiden who goes back to men, like one who ascends the pillar of the assembly-room for the acquisition of wealth, like a well- dressed wife longing for her husband, dawn displays her beauty like a smiling damsel.8
 
@@ -832,16 +899,19 @@ assembly-rooml in order to obtain wealth, i. e. a woman from the south.Garta sig
 Ascend the chariot, O Mitra and Varuna.3
 
 This too is a Vedic quotation. Like a well-dressed wife, eager for thehusband at the proper seasons, dawn displays her beauty as a smilingdamsel her teeth. There are four similes. One should not marry abrotherless maiden, for his (the husband's) son belongs to him (to the fatherof the girl).4 From this, the prohibition of marrying a brotherless maiden5 and the father's right to appoint his daughter as a son are evident. Whena father selects a husband for his unmarried daughter, he unites himselfwith a tranquil mind.6 Now (some lawgivers) cite the following stanza(in support) of their denial of a daughter's right to inheritance. Someare of opinion that the major share belongs to the (appointed) daughter.7 (Here ends the fifth section.)
+### 
 
 The legitimate son did not leave wealth for his sister. He made herthe place of depositing the seed of her husband. If the mothers haveengendered offspring, one is the performer, and the other is the director,of good deeds.8 Na jdmaye means not for the sister. Jamih (sister) is (so calledbecause) others beget jd, i. e. offspring, on her, or the word may be derivedfrom (the root) jam, meaning to go : she has mostly to go (to the husband's
 
 [^1]: Durga remarks that the custom of the 4 The quotation is untraced. people of the south is that a woman who has T> Cf. Manu, iii. 1 1 ; Yajftavalkya, i. 58. lost her son and husband approaches the 6 i.e. Heisfreefromthetormentinganxietydice-board, and the gamblers make a collection of childlessness. Durga. for her. Cf. Manu, ix. 184. ' The quotation is untraced. ' v. 62. 8. 'iii. 8i. 2.
 
 [^42]: FIVE TRIBES [3.6 family). The legitimate, i.e. one's own son, left, i.e. gave, wealth. He made her the place of depositing the seed of her husband, i.e. the man who accepts her hand. If the mothers have engendered vahni, i. e. a son, and avahnjf, i.e. a daughter, one of them, i.e. the son and the heir, becomes the procreator of children, and the other, i. e. the daughter, is brought up and given away (in marriage) to another person. (Here ends the sixth section.)
+### 
 
 The following twenty-five (words) are synonyms of man. From what (root) is manuoydh (men) derived? (They are so called because) they connect their works after having thought about them ( Vmari) or because they were created by a wise creator. Again, the verb manasyati is used in the sense of being wise. Or they are the offspring of Manu, or of Manus. With reference to this, there are Vedic passages (in wliict) the word ( five-tribes' is used.
 
 (Here ends the seventh section.)
+### 
 
 To-day, then, let me first think out the speech with which we, the gods, shall overcome the demons. Ye partakers of sacrificial food, ye holy five-tribes, enjoy my sacrifice.1
 
@@ -860,6 +930,7 @@ The following twelve (words) are synonyms of arm. From what(root) is bdhu (arm) 
 The following twenty-two (words) are synonyms of finger. Fromwhat (root) is angulayah (fingers) derived ? (They are so called because) they go foremost, or they drip foremost, or they act foremost, [or they move foremost], or they mark, or they bend, or may be (so called) fromdecorating. The following stanza is addressed to them.
 
 (Here ends the eighth section.)
+### 
 
 Worship them who have ten protectors, ten girdling circles, ten yoke straps, ten binding thongs, ten reins ; who are immortal, who bear ten car-pole*, and who when yoked are ten.1
 
@@ -890,6 +961,7 @@ is antikam (near) derived? (It is so called because) it is brought near
 The following forty-six (words) are synonyms of battle. From what (root) is samgrama (battle) derived ? (It is so called) from going together (sam Vgam) or from shouting together (sain Vyr), or (because) the two villages have come together. With reference to this, there are Vedic passages (in which) the word khala (is used).
 
 (Here ends the ninth section.)
+### 
 
 Single-handed I overcome this one (opponent); irresistible I overcome two. What can even three do (against me) I In battle I thrash them well, as if they were sheaves. How dare my enemies, who are without Indra, revile me ?*
 
@@ -910,6 +982,7 @@ The following thirty-three roots have the meaning 'to kill*. Withreference to th
 Thou art invoked, O shatterer.1 O breaker in pieces. [Khanda, (fragment) is derived from (th root) kJtand (to break).] The word tadit has the joint sense of 'near' and' killing ', (so called) because it kills. 2
 
 (Here ends the tenth section.)
+### 
 
 Through thee, O Lord of prayer, bringer of prosperity, may we obtainwealth which men covet. Chew those niggards, who prevail against usfar and near, into a shapeless form.3
 
@@ -934,6 +1007,7 @@ former are the liberal ones; the latter, the 'i.e. Something which dries up the 
 The following four roots have the meaning to be prosperous. The following four (words) are synonyms of lord. With reference to these, the word ina means either (1) one who is endowed with prosperity, or (2) who endows others with prosperity.
 
 (Here ends the eleventh section.)
+### 
 
 Where (birds) of beautiful wings vigilantly invoke the portion of immortality with knowledge. The lord, the guardian of the entire universe, he, the wise one, here approached me, the immature J
 
@@ -980,6 +1054,7 @@ The following nine words (are enumerated) in order to make the list (complete, i
 Now, therefore, the similes. When an object bears (some) resemblance to another which is otherwise dissimilar, (it is denoted by a simile), says Gari^ya. With reference to this, their function is to compare an inferior quality, or an unknown object, with a higher quality, or a very well knownobject. Further, (there is also the comparison of) the higher with the inferior.8
 
 (Here ends the thirfreuth
+### 
 
 As two thieves, who risk their lives and Imuirh the forest, have secured (their victim) with ten fingers.
 
@@ -994,6 +1069,7 @@ people attend or are attended. Durga.8 According to Durga, the statement is 4 Sy
 [^48]: NIYOGA [3. 14 produce fire by (the process of) friction, with two thieves.1 ' A thief is (so called because) he does that, i.e. [becomes the doer of that], which is sinful/ say the etymologists. Or the word may be derived from (the root) tan (to spread) : his activities are manifold,2 or he is active both during the day as well as night.3 Have secured (their victim) with ten fingers, have well secured, i. e. have put (in a place of safety). Thus the higher quality (of the arms) is intended (to be compared).       
 
 (Here ends the fourteenth section.)
+### 
 
 Where are you at night, where during the day ? O AsVins, where do you get your necessary things, where do you dwell ? Who puts you to bed in a dwelling-place as a widow a husband's brother; and a bride a bride groom?4 Where do you remain at night, and where during the day? Where do you obtain the necessities of life, and where do you dwell ? Who puts you to bed as a widow her husband's brother? From what (root) is devara derived ? (He is) so called (because) he is the second husband.5 Widow is (so called because) she is without a supporter, or from trembling, or, according to Carmasiras, from running about.6 Or else the word dhava 7 is a synonym of man ; vi-dhavd (' widow ', is so called because) she is separated from man (dhava). The word devara means a player ( Vdiv, ' to play'). Maryah means 'a man', i.e. one who has the characteristic of
 
@@ -1022,6 +1098,7 @@ The soul of consumption perishes beforehand as that of a captive bird.4
 AtmcL (soul) is derived from (the root) at (to go), or ap (to obtain); i. e. it may be (called)' obtained ' (in the sense) that it is omnipresent. They of golden breasts, who are like Agni on account of their brilliance.5 They who are like Agni, [i. e. the brilliant Maruts of resplendent breasts], brilliant and having golden breasts.6
 
 (Here ends the fifteenth section.)
+### 
 
 Just as one should be afraid of him who takes the four (dice) until they are deposited, so he should not be eager for harsh speech.7
 
@@ -1070,6 +1147,7 @@ i. e. One whose form is like the colour of gold. And the word tkd also (is used 
 i. e. Just as the ancient, as the former, as all, as these (sacrificers milk). This, it is nearer than that. That, it is farther than this.5 The word amutha is explained by' like that '.
 
 The word vat (denotes) a simile in accomplishment : Like a Brahmana, like a contemptible man.6 As a Brahmana, as a contemptible man.7 Contemptible, one who has the nature of an ox, or that of a beast. (Here ends the sixteenth section.)
+### 
 
 Hear Praskanva's call, O (Lord of) great ordinances, and having all created beings as thy property, like that of Priyamedha, Atri, Virupa, and Angiras.8
 
@@ -1088,10 +1166,12 @@ not an invented example on Yaska's part, is The third (person) born was Bhrgu ; 
 live coals. Live coals (are so called because) they leave a mark, or they are bright. They said,' Seek the third in this very place '; therefore A-tri l is' so called, i. e. not three. Vaikhdnasa is (so called) from being dug out ( Vkhan, ' to dig '). Bhdradvdja. is (so called) from being brought up( Vbhr). Virupa, multiform. Lord of great ordinances, i. e. whose ordi- nances are great.
 
 (Here ends the seventeenth section.)
+### 
 
 Now (the rhetoricians) describe metaphors as similes in which the object of comparison is stated without the particles of comparison.' Lion ', ' tiger ', &c., denote excellence ; ' dog ',' cow ', &c., are used in contempt.
 
 The word kdka (crow) is an onomatopoetic word. This onomatopoeia is mostly found in the names of birds. ' Onomatopoeia does not exist,' says Aupamanyava. Kdka (crow) is (so called because) it is to be driven away(i.e. from Vkal). Tittiri (partridge) is (so called) from hopping (*/tr), or because it has variegated spots of the size of a sesamum seed. A Francolin partridge is (so called) because it is withered like a monkey, or it is swift like a monkey, or it is slightly brown, or it warbles a melodious note. Dog, swift runner, or (the word svd) is derived from (the root) av, meaningto go, or svas (to breathe). Lion (simha) is (so called) from its power of resistance, or it is derived from (the root) hims (to injure) by metathesis, or from han (to kill), preceded by the (preposition) sam: it kills having collected. Tiger is (so called) from smelling, or it kills having separated. (Here ends the eighteenth section.)
+### 
 
 The following forty-four roots have the meaning to worship. The following twenty-four (words) are synonyms of wise. From what(root) is medhdvl (wise) derived ? (He is so called because) he is endowedwith that, i. e. wisdom. Me-dhd (wisdom) is (so called because) it is stored ( Vdhd) in the mind.
 
@@ -1188,6 +1268,7 @@ This is a Vedic quotation. He fills him like a granary with barley. Krdaram, i.e
 This is a Vedic quotation.
 
 (Here ends the twentieth section.)
+### 
 
 Rambhah and pindkam are (synonyms) of staff. Rambhah, i.e. people grasp it.5
 
@@ -1258,12 +1339,14 @@ These are two Vedic quotations.
 The following twenty-four (words) are synonyms of heaven and earth. The following stanza is addressed to them.
 
 (Here ends the twenty-first section.)
+### 
 
 Of these two, which is prior, which posterior ? How were they born, O sages ! who knows ? All that exists, they themselves support. The twodays roll on like chariot-wheels.8
 
 Of these two, which is prior, which posterior ? How were they born,9 O sages ! who knows them thoroughly ? They themselves support all their functions, whatever they are. And their two days, i.e. day and night, roll on as if placed on chariot-wheels.10 With these words, the seer describes thegreatness of heaven and earth.
 
 (Here ends the twenty-second section.)
+### 
 
 vii 16. 1 ; SV. 1. 46 ; 2. 99 ; VS. 15. 32. 7 vi. 66. 9.
 
@@ -1274,6 +1357,7 @@ i. e. The Mamts. Durga.10 Cf. Roth, op. cit., p. 87.
 [^56]: PASYA [4. i
 
 ## 
+### 
 
 CHAPTER IV
 
@@ -1284,6 +1368,7 @@ SYNONYMS i have been explained. Now therefore we shall take homonyms 2 in their 
 Jahd means' I have killed '.
 
 (Here ends the first section.)
+### 
 
 men, what friend has said, Unprovoked I have killed my friend ? who flies from us 1 *
 
@@ -1292,6 +1377,7 @@ The word marya is a synonym of man, or it may be a synonym of boundary. [Boundar
 Nidha, means ' a net ', (so called) because it is laid (on the ground). Pasyd means a collection of snares. Pdsah (snare) is derived from (the root) pas (to fasten), on account of being fastened.
 
 (Here ends the second section.)
+### 
 
 Imploring seers, fond of sacrifices, approached Indra like birds of beauti ful wings. Uncover the encompassed, fill our vision, release us as if we were bound by a net.6
 
@@ -1314,6 +1400,7 @@ O Indra, wielder of the thunderbolt, give us whatever excellent treasure there i
 It is well known: they are eaters of soma.8 The word rddhas is a synonym of wealth : with it, they conciliate. Bring that wealth to us, O Lord to whom treasures are known, with both thy hands. Let boththy hands be full.
 
 Damunds? one who is inclined towards kindness, or one who is inclined to charity, or one who is inclined to self-control. Or else the word dwnia is a synonym of home ; (damund*, therefore) may mean,' one who is devotedto home '. Manas (mind) is derived from (the root) mail (to think). (Here ends the fourth section.)
+### 
 
 [^1]: Joints are called ribs, because they con- pleasure, or by those who are intelligent. sist of ribs. Durga. Durga.
 
@@ -1326,6 +1413,7 @@ Devoted to the house, welcome guest in dwelling-places, approach this sacrifice 
 Atithih (guest), one who goes (Vat) to the houses,. or one who goes to the families or houses .of other persons on certain dates 2( */i + tithih). The word durona is a synonym of house : they (homes) are difficult to be satis- fied (dur + Vav,' to satisfy '), i. e. difficult to be provided for.3 Approach this sacrifice of ours, O wise one ! Having destroyed all assailants, bring to us the treasures of our enemies, i. e. having destroyed the forces of our adver saries, bring to us the treasures or the food from the homes of our enemies.
 
 Musah means a mouse. Musikd (mouse) again is derived from (the root) mus (to steal). Musah is derived from the same root also. (Here ends the fifth section.)
+### 
 
 Bricks torment me on every side, like rival wives. O (Indra) of a hundred powers, oppressing cares devour me, thy praiser, as mice the threads. Know, O heaven and earth, of this (state) of mine.4
 
@@ -1336,6 +1424,7 @@ earth, of this (state) of mine.] Realize, O heaven and earth, this (state) of mi
 may have been intended as a synonym of number, i. e. ekatah, dvitah, tritah, thus the three were produced.8
 
 (Here ends the sixth section.)
+### 
 
 May we, with an active mind, partake of thy pressed soma, as if it were paternal property. O king soma, prolong our lives, as the sun prolongs the summer days.9
 
@@ -1354,16 +1443,19 @@ O king soma, make our lives long, as the sun does the days in summer.Days are (s
 The word fcurutaiia (do), as well as the words kartana (do), hantana(kill), and ydtana (go), have (na) as a redundant addition.4 Jatharam means belly ; (all that is) eaten is held in it, or is deposited in it.
 
 (Here ends the seventh section.)
+### 
 
 Indra, the bull, accompanied by the Maruts, is for battle. Drink somafor rapture after food. Ppur down the flood of mead into thy belly. From days of yore thou art the king of soma-draughts.5
 
 Indra, accompanied by the Maruts, i. e. having the Maruts as his com panions. Bull, i. e. one who brings down rain. For battle, for a delightful battle. Drink soma for rapture, i.e. for a maddening victory, after food, i. e. after meals.6 Pour down the flood of mead into thy belly. Madhumeans soma, is derived from (the root) mad (to exhilarate), and is comparedwith soma (on account of the analogy of exhilaration). This other (meaningof) madhu (wine) is derived from the same (root) also. Thou art the king of soma-draughts (now, as thou wert) in the former days.
 
 (Here ends the eighth section.)
+### 
 
 Titau 7 means a sieve : it is covered with a hide, or it has holes, or its holes are (small) like sesamum seeds.
 
 (Here ends the ninth section.)
+### 
 
 Where the wise have sifted speech in their minds, as if winnowing grainin a sieve, there friends recognize friendships; the blessed mark is im pressed on their speech.8 As if winnowing grain in a sieve. Saktuh (grain) is derived from (the root) sac (to cling): it is difficult to wash; or it may be derived fromthe (root) ka& (to shine) by metathesis: it is fully blown. Where the wisehave sifted speech, i. e. knowledge, in their minds. Wise, very learned, or great thinkers. There friends will recognize friendships. The blessed markis impressed on their speech. Blessed is explained by fortunate : it is to be
 
@@ -1386,10 +1478,12 @@ Weaving what was spread, she wove again.4
 i. e. She gathered together.
 
 (Here ends the eleventh section.)
+### 
 
 Verily, thou art seen together with Indra, going with the dauntless (group). Both joyous and of equal valour.5
 
 Verily thou art seen together with Indra, going in the company of the dauntless group.6 Both of you are joyous, happy. Or else the meaning may be ' with that happy group '. f Of equal valour' is to be similarly explained. (Here ends the twelfth section.)
+### 
 
 With well-formed haunches, symmetrical flanks, together the spirited, divine coursers make efforts like swans in rows, when they, the steeds, have reached the celestial path.7
 
@@ -1412,6 +1506,7 @@ course. The panegyric of the sun is the panegyric of the horse, for the horse wa
 Vasus, ye fashioned forth the horse from the sun.2
 
 (Here ends the thirteenth section.)
+### 
 
 Observing the forests, when thou hast gone to the mothers, the waters. That return of thine, Agni, is not to be forgotten, when being afar, thouwert here in an instant.
 
@@ -1422,6 +1517,7 @@ Thinking him a beast, they drive the greedy one away/' Thinking him a beast, the
 i. e Of pure light : 8 it rests through all, or pervades all.
 
 (Here ends the fourteenth section.)
+### 
 
 Like two small dolls on their newly-wrought, perforated, wooden seats the bay steeds shine on their courses.9 Two dolls, two young maidens.10 Kanyd (maiden) is (so called because) she is an object of love (Icamani'jd), or (because it is said) to whom should her hand be given, [or because she is brought by the lover], or it may be
 
@@ -1460,6 +1556,7 @@ Incite Indra, so that he may give us wealth, with those draughts of thine, which
 songs of praise.
 
 (Here ends the fifteenth section.)
+### 
 
 She has appeared like the breast of the pure one, she has displayed lovely traits like a singer. Waking up the sleepers like a mother, this most constant one has come of them that are coming again.8
 
@@ -1488,6 +1585,7 @@ Let us two praise (him), priest ! sing in answer to me, let us compose an agreea
 Some think it to be a panegyric on invocation ; others, a recitation on pressing the soma. It is, however, addressed to Indra. We shall explain the word paritakmyd later on.3
 
 (Here ends the sixteenth section.)
+### 
 
 Suvite = su + ite, or = sute, i.e. in (the sense of) going well, or to give birth to.
 
@@ -1520,6 +1618,7 @@ Even to-day as in the days of yore, the same is the work of the rivers.12 And to
 The present and the past place of treasures.1
 
 The modern and the ancient place of treasures. The word rayih is a synonym of wealth ; it is derived from (the root) ra, meaning to give. (Here ends the seventeenth section.)
+### 
 
 May we obtain (lit. know) that unlimited gift of thine. 2
 
@@ -1538,6 +1637,7 @@ Let the agile rest in this sacrifice.8
 i. e. They who move swiftly.
 
 (Here ends the eighteenth section.)
+### 
 
 So that the gods be ever for our prosperity, our watchful guardians day by day.9
 
@@ -1608,6 +1708,7 @@ May he, the noble one, defy the manifold creatures, let phallus-worship pers not
 May he overpower them, i. e. the manifold creatures who are hostile * to us. Let the phallus-worshippers, i. e. the unchaste stina 6 (phallus) is derived from (the root) snath (to pierce) not approach our sanctuary, i. e. our truth, or sacrifice.
 
 (Here ends the nineteenth section.)
+### 
 
 Surely there will come those future ages, when kinsmen will behave like strangers. Seek, O fair one, a husband other than me ; for him, thy consort, make thy arm a pillow.6
 
@@ -1630,10 +1731,12 @@ This we beg of amyu: to go to the sacrifice; to go to the lord of sacrifice.4
 This too is a Vedic quotation. (The meaning is) in order to go to the sacrifice, and to the lord of the sacrifice.
 
 (Here ends the twenty-first section.)
+### 
 
 Aditi, unimpaired, mother of gods.5
 
 (Here ends the twenty-second section.)
+### 
 
 Aditi is heaven, Aditi is atmosphere, Aditi is mother, father, and son. Aditi is all the gods, and the five tribes ; Aditi, what is born and what shall be born.6
 
@@ -1646,6 +1749,7 @@ Erire is a reduplicated form of Ir (to raise), preceded by the pre
 position .0.
 
 (Here ends the twenty-third section)
+### 
 
 People shout after him in battles, as they do after a clothes-stealing thief, or a falcon let loose and swooping downwards, and a glorious herd of cattle.8
 
@@ -1674,6 +1778,7 @@ Worship the praiseworthy (Indra) with hymns and oblations.3 Bring worship to the
 Gauh has been explained.4
 
 (Here ends the twenty-fourth section.)
+### 
 
 Indeed, in this place, it is said, they thought of the ray separated from the sun ; here in the house of the moon.5
 
@@ -1699,7 +1804,7 @@ falcon cannot kill its prey.9 x. 138. 1. Cf. Roth, op. cit., p. 49. 2 x. 45. 1 ;
 
 [^1]:. 101. 1 ; SV. 1. 380. i. 90. 5.
 
-  See 2. 5.
+See 2. 5.
 
 [^4]:. 26] ANTA 69       
 
@@ -1724,6 +1829,7 @@ Gracious, without being angry. Rarivdn ^bounteous) is a reduplicated form of (th
 Let her husband, who has a long life, live for hundred autumns.8 May her husband, who has a long life, live for hundred autumns. Autumn is (so called because) the herbs become ripe during this period, or the rivers are in flood.
 
 The word asya (his) is explained by the word asydh (her). (Here ends the twenty-fifth section.)
+### 
 
 Lightning is the middlemost brother of this sacrificer who is noble and benevolent. His third brother is butter-backed. Here I saw the lord of. the universe with seven sons.9
 
@@ -1740,6 +1846,7 @@ Lightning is the middlemost brother of this sacrificer, i.e. who is worthy of be
 up. His third brother l is butter-backed, i. e. this Aghi. There I saw the lord of the universe, i.e. the protector of everything, or supporter of everything, or with seven sons ; i. e. with the seventh son,* or whose sons have gone everywhere,3 Seven is an extended number. There are seven rays of the sun, they say.
 
 (Here ends the twenty-sixth section.)
+### 
 
 Seven yoke the one-wheeled car. One horse having seven names draws it. Three-navelled is the wheel, imperishable and irresistible, on which all these worlds rest.4
 
@@ -1780,8 +1887,10 @@ There stood seven hundred and twenty.6
 There is the Brahmana passage : Verily, there are seven hundred andtwenty days and nights in a year.7 This is taking the day and the nightseparately (i. e. as two).
 
 (Here ends the twenty-seventh section).
+### 
 
 ## 
+### 
 
 CHAPTER V
 
@@ -1820,6 +1929,7 @@ Pour down the exhilarating food 5 with drinking vessels. Amatrwni means a vessel
 He who has eyes sees, but the blind man cannot know.7 This, too, is a Vedic quotation.
 
 (Here ends the first section.)
+### 
 
 Attached to each other, having many streams, rich in water.8 Devoted to each other, or without abandoning each other, having many streams and rich in water.9
 
@@ -1872,6 +1982,7 @@ The love of the self-controlled seer has come to me.9
 The love of the self-controlled seer, i. e. of one who is celibate and whohas controlled himself with regard to procreation, has come to me. It is said that with these words a seer's daughter wailed.10
 
 (Here ends the second section.)
+### 
 
 Soma, whose (greatness) neither heaven, nor earth, nor waters, nor atmosphere, nor mountains (fathomed), has flowed.11
 
@@ -1910,6 +2021,7 @@ He found it glowing like a fully-manifest dream.7
 As hunters seek game.9 As hunters seek game, so panegyrics seek thee.
 
 (Here ends the third section.)
+### 
 
 Vardhah means a cloud: it brings (Vhr) the best means of livelihood. There is a Brahmana passage: Thou hast brought the best means of livelihood.10
 
@@ -1940,6 +2052,7 @@ aryah means fingers: [they create works]. aryah means arrows:they are made of Sa
 As with arrows one (pierces), supporting (a bow) with two arms.7 This too is a Vedic quotation.
 
 Arkah means a god, (so called) because they worship him. Arkahmeans a stanza, (so called) because it is by means of a stanza that theyworship (gods). Arkam means food: it causes created beings to shine.Arkah means a tree (Calotropis gigantea) : it is compressed with bitterness.8 (Here ends the fourth section.)
+### 
 
 Chanters chant thy praises, singers sing the song. Brahmanas raisedthee up like a pole, O god of a hundred powers.9
 
@@ -1994,6 +2107,7 @@ Bestow upon us glory and treasure.11
 Bestow upon us glory and treasure.
 
 (Here ends thefifth section.)
+### 
 
 Pavitram is derived from (the root) pu (to purify). A stanza is called
 
@@ -2026,6 +2140,7 @@ This too is a Vedic quotation.
 Todah is derived from (the root) tud (to push).
 
 (Here ends the sixth section.)
+### 
 
 I, the liberal giver, call upon thee, O Agni, in many ways. I amindeed the master (of thy panegyrics). As in the cavity of some greatwell.3
 
@@ -2036,6 +2151,7 @@ Having a good gait, i. e. one whose manner of walking is good. Sacrificed to fro
 ipivista and Visnu are two synonyms of Visnu.6 'The former hasa contemptuous meaning ', says Aupamanyava.
 
 (Here ends the seventh section.)
+### 
 
 What was blameable in thee, O Visnu I that thou didst declare,' I amDo not hide this shape from us, for, in battle, thou wert ofa different form.7
 
@@ -2100,6 +2216,7 @@ vii. 1. 1 ; SV. 1. 72 ; 2. 728.
 Dfdhitayahl mean fingers : they are employed in (the performance of) actions. - Fire-sticks are (so called because) fire rests in them, or because fire is produced from them by attrition. By the motion of their hands, by the circular movement of their hands. They produced fire, glorious, visible at a distance, the lord of the house, and swift.
 
 (Here ends the tenth section.)
+### 
 
 At one single draught Indra drank thirty lakes full of soma.2 At one draught alone Indra drank them together, i. e. along with one another ; this is the meaning. (Lakes) full of soma, i. e. dear to his heart, or full to the brim, or consecrated to Indra. Or else Indra is a lover of soma, or he drinks till his desire, his appetite, is completely satisfied.3 With reference to this, the interpretation of the ritualists is the following : There are thirty libation-vessels consecrated to one deity at the meridional pressing of the soma-juice. These (libation-vessels) they drink at a single draught. They are here called lakes. ' There are thirty days and nights in the second, and thirty in the first half of a month/ say the etymologists. Then the rays drink those same lunar waters which fall on certain days in the second fortnight.4 There is also a Vedic quotation :
 
@@ -2136,6 +2253,7 @@ With this hymn we possess Indra.1
 With this hymn we have Indra with us.
 
 (Here ends the eleventh section.)
+### 
 
 With infused energy, rushing to the attack, shaker, impetuous, great hero and foaming, soma surpasses all plants and trees. All the counter- measures did not deceive Indra.2
 
@@ -2150,6 +2268,7 @@ $masa,7i. e. something which runs quickly, or runs in the body. The ridge has he
 The ridge has held back the water.
 
 (Here ends the tivelfth section.)
+### 
 
 [^1]:i. 105. 19. 7 Yaska does not attribute any definite 2 x. 89. 5 ; cf. Roth, op. cit., p. 62n meaning to the word. Durga translates it as 3 v. 40. 4 ; AV. 20. 12. 7. a river ' or ' a vein '. The word occurs in 4 This is the reason why Indra is called the RV. once only. It is probably connected
 
@@ -2160,6 +2279,7 @@ Durga refers to the sutra Pa. vi. 4. 100.
 [^5]:. J5] VAJAPASTYAM 81       
 
 Urva&i l is (the name of) a naiad, (so called because) she pervades wide regions (urn + A/as ' to pervade '), or she pervades by means of thighs2 (uru + \/ 'to pervade'), or her desire is great (urn+ */va& 'to desire '). Apeardh (a naiad) is one who moves on water. Or else the word apsas is a synonym of beauty ; it is derived from the negative of (ftie root) paa (to devour) : it is not to be devoured, but to be gazed at, or to be made perva sive.3 ' It is for clear perception,' says Sakapuni. In ' Whatever forbidden food ', 4 (apsas signifies) something which is not to be eaten. In ' Pervading indeed ',5 (the word signifies) pervasive. (Apsarah) is (therefore) one whopossesses that (apsas), i. e. a beautiful person : the beauty is either acquired by her or given to her.6 On seeing her, the seminal fluid of Mitra and Varuna fell down.7 It is to this that the following stanza refers. (Here ends the thirteenth section.)
+### 
 
 O Vasistha, thou art a son of Mitra and Varuna. O Brahman, thou wert born from the mind of Urvai^i. (Thou art) the drop that fell in divine fervour. All the gods received thee in the atmosphere.8 O Vasistha, thou art certainly the son of Mitra and Varuna. Brahman, thou wert born from the mind of Urvas'I. (Thou art) the drop that fellindivine fervour. Drop/1 it is well nourished, it is to be absorbed. All the gods sup- ported thee in the atmosphere.10 Puskaram means atmosphere : it nourishes (posati) created beings. Water is called puskuram, because it is a means of worship ('puja-karam), or to be worshipped (VpHj). This other (meaning of) puslcaram (lotus) is derived from the same root also : it is a means of decorating the body (vapus-karam). Pusyam (flower) is derived from (the root) pus (to blossom).
 
@@ -2168,6 +2288,7 @@ Vayunam is derived from (the root) vi (to string) : it signifies desire or
 intelligence.
 
 (Here ends the fourteenth section.)
+### 
 
 He here spread the unintelligible darkness ; he made it intelligible with the sun.11
 
@@ -2220,6 +2341,7 @@ Who, steady in every action, belongs to all.10
 i. e. Pervading all hymns.
 
 Vraiidl is derived from (the root) vraiid, meaning to become soft. (Here ends the fifteenth section.)
+### 
 
 When thou uprootest forests, roaring at the head of wind, and the draught which makes them soft.11 When thou causest the forests to fall with thy deadly weapon, or roaring at the head of the howling wind, and the draught, i. e. the sun who is the drying agent.
 
@@ -2250,6 +2372,7 @@ Turndtam means water, (so called) because it flows quickly. Like water on a moun
 This too is a Vedic quotation.
 
 Ksumpam means a mushroom, (so called because) it is easily shaken. (Here ends the sixteenth section.)
+### 
 
 When, with his foot, will he trample the infidel man like a mushroom 1 When indeed will Indra hear our prayers ?3 When, with his foot, will he trample the unworshipping man like a mushroom 1 When indeed will he listen to our hymns ? The word anga is a synonym of quick : it is gone as soon as it is calculated.4 Nicumpuna means soma, the exhilarating food, i. e. it exhilarates (whenmixed) with water.
 
@@ -2262,6 +2385,7 @@ These pressed soma juices accompanied by their consorts, i. e. waters, flow lovi
 This too is a Vedic quotation. Nicumpuna occurs as nicunkujia also. Padih means a goer, (so called) because he goes.
 
 (Here ends the eighteenth section.)
+### 
 
 He who catches hold of thee, morning guest coming with wealth, like a bird with a net, shall be rich in kine, gold, and horses ; great is the life which Indra will bestow upon him.8
 
@@ -2350,6 +2474,7 @@ The word smam 3 is an unaccented pronoun and has the sense of
 comprehensive.
 
 (Here ends the tiventy-second section.)
+### 
 
 Let the weapon of our numerous evil-minded vindictive foes not smite us as a wave does a boat.4
 
@@ -2362,6 +2487,7 @@ Protecting from all attacks.8
 In (the above quotation) it occurs in the ablative case. The verb urusyati means to protect. It occurs in the nominative plural also : Let all others be destroyed.9
 
 (Here ends the twenty-third section.)
+### 
 
 O Men, the consumer of waters, who is also the bountiful, fills you with oblation : the father, the observer of the deed.10
 
@@ -2384,6 +2510,7 @@ The word samba l is a synonym of thunderbolt ; it is derived from (the root) sam
 Kepayah 3 = Jcapuyak, i. e. having a stinking smell. The word Jca- puyam is (so called because) it is difficult to be purified, (even) when one tries to expiate a vile deed.
 
 (Here ends the twenty-fourth section.)
+### 
 
 The first invokers of gods went forth their several ways, their glorious deeds are hard to surpass. Many, who were not able to ascend the ship of sacrifice, remained in this very world, stinking.4
 
@@ -2398,6 +2525,7 @@ supportest thyself.
 Amsatram* a means of protectipn from calamity, i. e. a bow, or coat of mail. A coat of mail (kavacam) is (so called because) it is bent in a crooked manner (ku + aiicitam), or it is slightly bent (ka + ancitam)t or it is fitted on the body (kdye + ancitam).
 
 (Here ends the twenty-fifth section.)
+### 
 
 Refresh the horses, win fortune, here make a chariot that brings prosperity. Pour down, in the cavity, the drink for men, having wooden troughs, furnished with a stone wheel and pails and armour.9 Refresh the horses ; win good fortune : let victory be your fortune ; make a chariot that brings prosperity. Having wooden troughs : wooden,
 
@@ -2414,6 +2542,7 @@ made of wood ; trough (d-hdva) is (so called) from being invoked. Con veyance (a
 Cavity (avata) is (so called because) it goes down very deep (ava-atita). A stone wheel, i. e. a pervading wheel, or a wheel that frightens away. Having pails of armour: let your armours be the substitutes for pails. Kosa (pail) is derived from (the root) kus (to draw out): it is drawn out. This other (meaning of) ko&a (treasure) is derived from the same root also: it is .accumulation, a great collection. Pour down the drink for men, water for men. The seer compares a battle with the characteristic of a well.
 
 Palate * is called kalcudam : kokwd signifies tongue, that (tongue) is placed under it. Tongue is (called) kokuvd because, being noisy (kokuyamcfad), it utters sounds. [Or it may be derived from (the root) kokuy, meaning to make a sound.] Tongue (jihvd) is (so called because) it calls out again and again (johuvd). Tdlu (palate) is derived from (the root) tr (to cross) : it is the highest part (in the mouth), or from lat (meaning to be long) by metathesis like talam (surface) ; the word laid (creeper) is (derived from the same root) without metathesis. (Here ends the twenty-sixth section.)
+### 
 
 O Varuna, thou art a benevolent god, into whose palate flow the seven livers as into a hollow channel.2
 
@@ -2424,6 +2553,7 @@ Thou art a benevolent god, i. e. a bountiful god, into whose palate flow the sev
 According to Taitiki, blritam 6 means atmosphere, and is derived in the following manner : the former part from (the root) ve and the latter from (the root) Ir: the birds or luminaries move in it. The following Vedic stanza illustrates this.]G
 
 (Here ends the twenty-seventh section).7
+### 
 
 [^1]: Cf. Patafijali, op. cit., 1. 1. 1., vol. i, p. 4. see 28.'
 
@@ -2446,8 +2576,10 @@ ParI, Im, and svm have been explained.3 Enam and enam are explained by the words
 From the nearest place of the hook, let him come to the ripe herbs, let him come to the ripe herbs.
 
 (Here ends the tiventy-eighth section.)
+### 
 
 ## 
+### 
 
 CHAPTER VI
 
@@ -2486,6 +2618,7 @@ are. 3 ' Niggard ', cf. Grassmann, op. cit., p. 121. 4 iii. 30. 5. 4 ; Roth, op.
 of being uttered. The rain-water is invoked by a large number of people. The verb dkam means to go.
 
 (Here ends the second section.}
+### 
 
 O Indra, tear up the Raksas with their root, rend them in the middle, shatter them in the front. How far did you entice him? Throw the burning weapon upon the foe of prayer.1 O Indra, tear up the Raksas with their root. Mulam (root) is (so called) from releasing ( -/mur), or from stealing ( Vmus), or from stupefying ( Jmuh)* Rend them in the middle, shatter them in the front.
 
@@ -2518,6 +2651,7 @@ payasam', Durga by kapayam, i.e. a cloud vi. 22. 2 ; AV. 20. 36. 2. whose water 
 step.]
 
 (Here ends the third section.)
+### 
 
 May those goats, who draw with a firm step, bring Pusan, the refuge of men, in a chariot, may they (come) bearing the good.2
 
@@ -2568,10 +2702,12 @@ glory has become manifest ', i.e. as a possessive 12 Durga explains the word as 
 This too is a Vedic quotation.
 
 Jurnih l (power, or army) is derived from (the root) ju (to speed), or dm (to run), or du (to hurt). The army dispatched (against us) will not be strong.2 The oblation has reached you every day with protection.3 The food has reached you from all sides with protection. Ghrainsa means day. (Here ends the fourth section.)
+### 
 
 Upalaprakqanl* means a woman who grinds grain on stones, or who throws grain down on stones. [Indra asked the seers, How does one live in famine ?' One of them answered,' Nine are the means of livelihood in famine, i. e. cart, pot-herbs, kine, net, restraining the flow of water, forest, ocean, mountain, and the king.' This stanza is explained by the mere reading of it.]5
 
 (Here ends the fifth section.}
+### 
 
 I am a bard, my father is a physician, my mother a stone-grinder. Planning in various ways, desirous of wealth, we live, following (others) like cattle ; flow, Soma, flow for Indni's sake.6
 
@@ -2604,6 +2740,7 @@ j^Ksotiasya- means of abode.]4 O As*vins, ye gave a spacious abode to Kanva.5 Th
 quotation.
 
 (Here ends the sixth section.)
+### 
 
 We are thy kinsmen.6i. e. We in the nominative. Come to us, O AsVins of equal power.7i. e. To us, in the accusative. With us who are equally strong, O Bull. 8i. e. With us, in the instru- mental case.
 
@@ -2648,6 +2785,7 @@ Sapratkds means broad all round. O Agni, thou art broad all round.3 This, too, i
 Vidathdtii means knowledge. Urging forth knowledge.4 This too is a Vedic quotation.
 
 (Here ends the seventh section.)
+### 
 
 Dependent on the sun as it were, all will indeed divide the wealth of Indra among the born and the yet to be born, with vigour ; we did not think of every share.5
 
@@ -2684,12 +2822,14 @@ dvamdnah means praising. (He) who praising verily offers your oblations with sac
 The god with favour turned towards the gods.2 The god whose favour is directed towards the gods. [Krp is derived from the root krp (to pity), or from kip (to manage).]
 
 (Here ends the eighth section.)
+### 
 
 For I have heard that you are more liberal than a son-in-law, nay even more than a brother-in-law. Now with this oblation of soma, O Indra and Agni, I will compose a new hymn for you.'
 
 I have heard that you are more liberal indeed than a would-be son-in law,4i. e. one whose son-in-lawship is not quite complete.5 It is well known that the people in the south apply the term vijdmdtd to the husband of a purchased maiden. By this is meant a bridegroom, whose relationship is not quite complete as it were. Jdmdtd (son-in-law) is (so called because) he is the progenitor of ja, which means offspring. Nay even more than a brother-in law, i. e. more liberal than a brother-in-law.6 They, who are well versed in primary causes, remark that a brother-in-law is (so called because) he comes very near on account of his relationship. Or else he is (so called because) he sows parched grain7 from a winnowing basket. Ldjdh (parched grainy is derived from (the root) Idj (to parch). Syam, a winnowing basket, is derived from the root so (to finish). S&rpam means a sieve for winnowing grain, it is derived from (the root) ?' (to fall off). Now, O Indra and Agni, I shall compose [a new] altogether new hymn for you, along with this oblation of Soma. We shall explain onidsah later on.8
 
 (Here ends the ninth section.)
+### 
 
 O Lord of prayer, make the soma-presser glorious like Kakslvat, the son of U&j.9 O Lord of prayer, make the man who presses soma, i. e. who prepares soma, resplendent like Kakslvat, the son of Us*ij.
 
@@ -2704,10 +2844,12 @@ by making many costly presents. Durga.'' i. 18. 1 ; VS. 3. 28 ; cf. SV. 1. 189 ;
 of a man may have been intended : make me, i. e. him (who has fine shoulders), O Lord of prayer, resplendent, me who press, prepare the soma.
 
 (Here ends the tenth section.)
+### 
 
 O Indra and Soma, let the wicked man, the vaunter of his evildeeds, be heated like a pot on the fire, being tormented by you. Bear unyielding enmity to the foe of prayer, the eater of raw meat, the malignant man of fierce eyes.1 O Indra and Soma, (torment) the vaunter of evil deeds. Agha (evil deed) is derived from (the root) han with the preposition a shortened, i. e. it kills. Tapus is derived from (the root) tap (to heat). Pot (earn) is (so called because) it is a heap of clay (mrc-caya), or it may be derived from (the root) car (to walk), from it waters go up. (Bear enmity) to the foe of prayer, [i. e. one who hates a Brahmana, and who eats raw meat], to the eater of raw meat, [and to the man whose eyes are fierce], and to the man of dreadful eyes.* Raw meat is (so called because) it is procured by carv- ing/ say the etymologists. Bear enmity. Unyielding, not ceasing ; 2 or else which may not be reconciled even by those who are free from malevolence. Malignant,3 i.e. a vagabond who goes about (saying)' What now ', or' Whatis this, what is this?' for the sake of back-biting. Pisuiutk (back-biter) is derived from (the root) pi& (to adorn) : he adorns (his yarns) in various ways.
 
 (Here ends the eleventh section.)
+### 
 
 Make thy powerful throng extensive like a net, go like a king accompanied by his minister, on an elephant. Hastening after the net with speed, thou shootest : transfix the fiends with darts that burn most fiercely.4
 
@@ -2740,6 +2882,7 @@ Whose intellect is of a high order, whose lustre shone [at stimula tion].7
 This too is a Vedic quotation.
 
 The word srustl is a synonym of quick : it pervades quickly.8 (Here ends the tu-elfth section.)
+### 
 
 O Agni, sacrifice quickly for them, i.e. wise Bhaga and Nasatyus, who are longing for it, in this sacrifice. O Agni, offer oblations quickly to them who long for, i. e. desire, (their portions) in this sacrifice, i. e. Bhaga and Nasatyas, i. e. Asvins. ' They are ever true and never false/ says Aurnavabha. ' They are promoters of truth/ says Agrayana. Or else they are (so called because) they are nose born.9 Purandhi 10 means very wise. With reference to this, who is very wise ? Some think it to be an epithet of Bhaga, who is placed prior to it (in the stanza) ; according to others, it refers to Indra: lie is of manifold
 
@@ -2778,6 +2921,7 @@ He, the overpowering, the great, the dustless, (shines) in the atmo sphere.14 Th
 Girvandh means a god : they win him over with hymns. The agreeable ; the sublime hymn to the god.1 -"' This too is a Vedic quo tation.
 
 (Here ends the fourteenth section.)
+### 
 
 [^1]: According to Durga, dhl is a synonym of 9 ' Of good knowledge ', Grassmann, op. cit., work, hence puwndhi means one of manifold p. 1552.
 
@@ -2798,6 +2942,7 @@ Straight is that spear of thine, O Indra.a
 By his skill, he won everything on which the stake was laid.5 By his skill, he won all that on which the stake was laid.
 
 Like a procreating bull, (Agni) has been generated with sacrifices.6 (Here ends the fifteenth section.)
+### 
 
 Enjoying they have stood forth to you, all of you have become the chiefs, O Rbhus.7
 
@@ -2838,6 +2983,7 @@ Eminent he has surpassed even his own intellect.7 This too is a Vedic
 quotation.
 
 (Here ends the sixteenth section.)
+### 
 
 Srprah* (supple) is (so called) from slipping (Vsrp).
 
@@ -2932,6 +3078,7 @@ loc. cit. :< well ', Durga. is j t e> From yVfcandfc to be attached '. 8 x. 69. 
 [^6]:. i 9] GHRAMSA 103
 
 Tunjah 1 (gift) is derived from (the root) tuj, meaning to give. (Here ends the seventeenth section.)
+### 
 
 I do not lack excellent praise of Indra, the wielder of the thunderbolt, in these subsequent hymns which are addressed to him at every gift.'2 I find there is no end to the praise of Indra, the wielder of the thunder bolt, in these subsequent hymns which are addressed to him at every gift. Barhavia 3 means strongly.
 
@@ -2950,6 +3097,7 @@ He cleft the strongholds of him who lay in the bowels of earth, Indra shattered 
 Indra cleft the strongholds of him who lay in the holes of earth 10 and shattered the lofty cloud.
 
 (Here ends the nineteenth section.)
+### 
 
 [^1]: c Shock, assault ', MW. ; start, run, upa^/nah ; cf. Lat. uber, Gk. ovOap, AS. v.der, pressing or pushing forward ', Grassmann, Irish uthy Ger. euter.
 
@@ -2970,6 +3118,7 @@ Vi&intah5 means great expanse.
 Conducting us across this great expanse.6 This too is a Vedic quota tion,
 
 (Here ends the twentieth section.)
+### 
 
 Let that fluid of ours be wonderful, a cover for many and a self for others. May the brilliant Tvasta, who loves us, release it for our prosperity and wealth.7
 
@@ -2998,6 +3147,7 @@ tion, Durga. 'Danger, affliction', Grass- i. 90. 1 ; SV. 1. 218. mann, op. cit.,
 Prataclvctsu l means they two who have obtained wealth. O Indra, urge the two bay steeds that have obtained wealth towardsus.2 This too is a Vedic quotation.
 
 (Here ends the twenty-first section,)
+### 
 
 Send our sacrifice for the worship of the gods, send our prayer for theobtainment of wealth ; release the udder at the performance of the sacredrites, let waters be obedient to our call.3
 
@@ -3034,6 +3184,7 @@ Clouds animate the earth, fires the sky.2 This too is a Vedic
 quotation.
 
 (Here ends the twenty-second section.)
+### 
 
 Amatrah means 'without measure', 'great', or 'one who is invulner able '.
 
@@ -3054,6 +3205,7 @@ Increase the lord of prayer, who is independent, who does not d< ^nd on others, 
 Asami a is the opposite of sdmi (incomplete). Sdmi is derived from the root so (to kill).
 
 Liberal givers, bear this complete strength.10 O ye whose gifts are delightful, bear this strength which is complete. (Here ends the tiventy-third section.)
+### 
 
 Let me not make thee angry like a wild beast at the time of soma pressing by straining the soma, or by my always beseeching hymns ; for who has not besought the Lord ?
 
@@ -3068,6 +3220,7 @@ May we, always beseeching with our hymns, songs, praises, and the straining of t
 Let the soma-draughts flow into thee, aye ! and the extracted juices of vessels:5 These two words are inflected in various cases. Here it (galdd) means the juices which have been extracted in the vessels.
 
 (Here ends the twenty-fourth section.)
+### 
 
 We do not think ourselves guilty, or poor, or devoid of lustre.4 We do not think ourselves to be sinful, or destitute, or devoid of lustre. We are celibate, devoted to study, austerities, generosity, and activity, said the seer.
 
@@ -3076,6 +3229,7 @@ Bakurct 5 means one who gives light, or who inspires awe, or who runs
 effulgent.
 
 (Here ends the twenty-fifth section.)
+### 
 
 A^vins, working wonders ; sowing the grain with the plough, milking food for man, blasting the impious foe with lightning, you made far- spreading light for the Arya.c
 
@@ -3098,6 +3252,7 @@ Grassmann, op. cit. t p. 897. 8 viii. 66. 10.
 whose vision is limited to the present only, who do not see the (future) days by their action. Merchants are traders.
 
 (Here ends the twenty-sixth section.)
+### 
 
 O Adityas, run to us the living ones before the slaughter ; where are you, the hearers of our call ?1 O Adityas,. run 2 to us while we are still alive, i. e. before we are slain ; where are you, the hearers of our invocations ? It is known to be the composition of the fish caught in a net. The fish 3 are (so called because) they float in water, or they revel in eating each other. Net is (so called) because it moves in water, or it is set in water, or it lies in water. Amhurah means distressed. The word amhuratuim is derived from the same root also.
 
@@ -3106,6 +3261,7 @@ Taking away from the distressed.4 This too is a Vedic quotation. The-wise establ
 The wise made seven boundaries, a man going beyond even one of them becomes distressed. They are theft, adultery, killing of a learned man, abortion, drinking, habitual addiction to wickedness, and false accusation of heinous crime.6
 
 Bata is a particle, it is (used) to denote distress and compassion. (Here ends the twenty-seventh section.)
+### 
 
 Alas ! thou art a weakling, O Yama, we have not found any heart or spirit in thee. Another, indeed, will embrace thee, resting on thy breast like a woodbine on a tree.7 A weakling, i. e. devoid of all strength. O Yama, thou art a weakling, i.e. of little strength. I do not know 8 thy heart, thy mind. Another
 
@@ -3128,6 +3284,7 @@ incomplete.
 The word ratJtaryati'' means one desirous of something accomplished, or one who desires a chariot.
 
 This god desires a chariot.4 This too is a Vedic quotation. (Here ends the twenty-eighth section.)
+### 
 
 Fatten the perennial cow like food.5i. e. which never runs dry.6 Adhavah 7 (agitator) is so called from agitating.
 
@@ -3136,6 +3293,7 @@ Thou art the perfection of intellects and agitator of priests.8 This too is a Ve
 Anambravah means one whose speech is irreproachable. Like Indra, thou bringest victory, and thy speech is irreproachable.10 This too is a Vedic quotation.
 
 (Here ends the tiventy-nlnth section.)
+### 
 
 Go to the hill, barren, one-eyed, hideous, ever-screaming (famine). We frighten thee away with those heroes (lit. beings) of the cloud.11 O barren, one-eyed, hideous (famine).' One-eyed (is so called because) his sight is crooked,1 says Aupamanyava. Or it may be derived from the root Jean, meaning to be small.
 
@@ -3162,6 +3320,7 @@ Where your bright weapon, having sharp teeth, rends. This too is a Vedic quotati
 Karufati 7 means having gaps in the teeth. [Or else, having seen some god with gaps in his teeth, the seer made this remark.]
 
 (Here ends the thirtieth section.)
+### 
 
 May god Aryaman give you all fair and beautiful things. destroyer (of enemies), may Pusa Bhaga, and the god having gaps in his teeth give you all fair and beautiful things.8
 
@@ -3182,6 +3341,7 @@ Idamyuh means desiring this. Moreover, it is used in the sense of ' like that '.
 quotation.
 
 (Here ends the thirty-fi.rd section.)
+### 
 
 What are the cows doing in the country of the barbarians? Theyneither get the milk (to mix) with soma, nor kindle fire. Bring to us the wealth of the usurer. Subdue the low-born to us, O lord of wealth.2
 
@@ -3210,6 +3370,7 @@ Powerful, having a great capacity of discharging arrows, or having an enormous c
 [^112]: VRNDAM [6.33
 
 knocking down by movement, knocking down by motion, [knocking down by sound, knocking down at great distance], or piercing the vital parts by movement, by motion, [piercing from the sound, or piercing from a distance]. (Here ends the thirty-third section.)
+### 
 
 From the mountains, Indra transfixed the mellow cloud and held his well-aimed arrow.1
 
@@ -3218,6 +3379,7 @@ From the mountains .Indra held the well-aimed arrow and transfixed
 the well-ripe cloud, the giver of rain-water.
 
 Vrnd-am and vrndaraka are explained by bunda (arrow). (Here ends the thirty-fourth section.)
+### 
 
 This same sacrifice!-, who is the maker of Yama, carried oblations which the gods enjoy. He is generated every month, day by day; the gods appointed him their oblation-bearer.2
 
@@ -3226,12 +3388,14 @@ This same sacrificer, who is the maker of Yama, carries food which the gods eat.
 Ulbam s is derived from the root urnu (to cover), or from vr (to cover). Great was that cover and compact also.4 This too is a Vedic quotation. Rblsam 5 means one whose lustre is gone, or taken away, or concealed, or lost.
 
 (Here ends the thirty-fifth section.)
+### 
 
 You covered the fire with snow during the day. You have bestowed on him strength rich in food. You have brought fire on earth, and you have raised the whole group for their welfare, O AsVins.6 You have covered fire with snow, i.e. water, during the day, i.e. at the end of the summer season. You have bestowed on us and Agni strength rich in food. You have raised that fire which is invside rblsa, i. e. earth, herbs, trees of forests and waters. The whole group, i. e. a group consisting of all classes of every kind.
 
 GOMI (group) and guna (quality) are (so called because) they count. All the herbs and living beings who spring to life on earth during the rainy season are but forms of the Asvins. With these words, the seer praises them, the seer praises them.
 
 (Here ends the thirty-sixth section.)
+### 
 
 [^1]: viii. 77. C. < x. 51. 1.
 
@@ -3240,6 +3404,7 @@ GOMI (group) and guna (quality) are (so called because) they count. All the herb
 [^7]:.2] NATURE OF STANZAS US
 
 ## 
+### 
 
 CHAPTER VII
 
@@ -3248,6 +3413,7 @@ Now, therefore, (we shall explain) the section (of the Nighantu)relating to deit
 person (only).
 
 (Here ends the first section.)
+### 
 
 Irxlra rules heaven, Indra the earth.*
 
@@ -3288,6 +3454,7 @@ word to* used by Yaska. ' viii. 1. 1 ; AV. 20. So. 1 ; SV. 1. 242 ; i. x. 89. 10
 Approach, Ku&kas, be careful.1 Now self-invocations are compositions in the first person and are joined with the word ' I' as the pronoun, e. g. the hymn of Indra Vaikuntha ; 2 the hymn of Lava ; 3 or the hymn of Vak,4 daughter of Ambhrna, and so on.
 
 (Here ends the second section.)
+### 
 
 Indirectly addressed and directly addressed stanzas are by far the most numerous. Self-invocations are few and far between. Moreover, (in some stanzas) there is only praise (of the deity) without any benediction (being invoked), as in the hymn : I will indeed proclaim the heroic exploits jf Indra.5 Further, (in some stanzas) there is only benediction without any praise (being offered), as: May I see well with my eyes, may I be radiant in my face, may I hear well with my ears.6 This is mostly found in the Yajurveda (tidhvaryave) and sacrificial formulae.7 Further, (in some stanzas) there are asseverations and imprecations :
 
@@ -3304,6 +3471,7 @@ The benevolent god may fly forth to-day and never return.12 I do not know whethe
 This dwelling-place of a liberal person is (beautiful) like a lotus-bed.15 Similarly, there is censure of gambling and praise of agriculture in the dice-hymn.16 In this manner and with various intentions, seers have visions of their poetic compositions (mantras).11,
 
 (Here ends the third section.)
+### 
 
 iii. 53. 11 ; cf. Brh. D. iv. 115. ' x. 129. 2.
 
@@ -3346,6 +3514,7 @@ sun are the original forms of each other. J1 AB. ii. 17 ; KB. viii. 8. Durga. 12
 well as their appellations are distinct.1 As to the view that (one receives many appellations) on account of the diversity of functions, (it may be remarked) that many men also can do the actions, having divided them among thenwelves. With regard to it, the community of jurisdiction and enjoyment ihould be noted, as for instance, the community of men and gods with regard to earth. Community of enjoyment is seen in the following, i. e. the enjoyment of earth by the cloud, together with air and the sun, and of the other world together with Agni. There everything is like the kingdom of man also.
 
 (Here ends the fifth section.)
+### 
 
 Now (we shall discuss) the appearance of the gods. Some say that they are anthropomorphic, for their panegyrics as well as their appellations are like those of sentient beings. Moreover they are praised with reference to anthropomorphic limbs :
 
@@ -3358,6 +3527,7 @@ Moreover (they are praised) as associated with anthropomorphic objects : O Indra
 Hear our call, O God that hast listening ears.7
 
 (Here ends the sixth section.)
+### 
 
 Others say that they are not anthropomorphic, because whatever is seen of them is unanthropomorphic, as for instance, fire, nir, the sun, earth, the moon, &c. As to the view that their panegyrics are like those of sentient beings, (we reply) that inanimate objects, beginning from dice and ending with herbs,8 are likewise praised. As to the view that they are praised with reference to anthropomorphic limbs, (we reply) that this (treatment) is accorded to inanimate objects also :
 
@@ -3412,14 +3582,17 @@ Suvidatram means wealth : it may be derived from (the root) vid (to find) with o
 (su and vi).
 
 (Here ends the nintk section.)
+### 
 
 Now the following are the shares of Indra : the atmosphere, the midday libation, the summer, the trfytubh metre, the fifteenfold hymn, the great chant,1 and the gods who are enumerated in the middle place as well as the women.- Now his function is to release the waters and to slay Vrtra. And all action that relates to strength is Indra's function also. 5 Now the gods with whom Indra is jointly praised are Agni, Soma, Varuna, Pusan, Brhaspati, Brahmanaspati, Parvata, Kutsa, Visnu, Vayu. Moreover, Mitra is jointly praised with Varuna ; Soma with Pusan and Rudra ; Pusan with Vayu ; and Parjanya with Vata.      
 
 (Here ends the tenth section.)
+### 
 
 Now the following are the shares of Aditya : that world (i. e. heaven), the third libation, the rainy season, the jagaM metre, the seventeenfold hymn, the Vairu'pa chant, and the gods enumerated in the highest place as well as the women.4 Now his function is to draw out and hold the juices with his rays. All that relates to greatness5 is Aditya's function also. He is jointly praised with Candramas, Vayu, and Samvatsara. One should frame the remaining portions of seasons, metres, hymns, &c. in accordance with the distribution of the places (already mentioned). Autumn, the anustiM metre, the twenty fold hymn, the Vairaja chant are terrestrial. Winter, the pdnkti metre, the twenty-sevenfold hymn, the &dkvara 7 chant are atmospheric. The dewy season, the aticcJtandas metres, the thirty-threefold hymn, the Raivata chant are celestial.8
 
 (Here ends the eleventh section.)
+### 
 
 [^1]: Cf. KB. iii. 5; Yad dirrjham brhat,' what is KB. viii. 9; xiv. 1. 3; xvi. 1; xxii. 3. 5; long is great '. GB. i. 1. 19. 24. 29 ; ii. 3. 10 ; 4. 18 ; Brh. D. 2 Ngh. v. 4. ii. 18-16.
 
@@ -3460,6 +3633,7 @@ With these words, these deities are dealt with. Those to whom the hymns are addr
 with their characteristic appellations, as to Indra, the destroyer of Vrtra, [to Indra, who excels Vrtra], to Indra, the deliverer from distress, and so on. Some make a list of these also, but they are too numerous to be collected together in a list. I enlist that appellation only which has
 
 become a conventional epithet and with reference to which chief praise is addressed (to the deity). Moreover, a seer praises deities with regard to their activities, as (Indra), the Vrtra-slayer, or the city-destroyer, and so on. Some make a list of these also, but they are too numerous to be collected together in a list. These (epithets) are mere indications of (a particular aspect of the proper) appellations, just as' give food to a Br&hmana who is hungry, or unguents to one who has taken a bath, or water to one who is thirsty '. 4 (Here ends the thirteenth section,.)
+### 
 
 Now, therefore, we shall take up the deities in their respective order. We shall first explain Agni,5 whose sphere is the earth. From what root is Agni derived ? He is the foremost leader,6 he is led foremost in sacrifices, he makes everything, to which it inclines, a part of himself. ' He is a drying agent ', says Sthaulas^hlvi,' it does not make wet, it does not moisten.' 'It is derived from three verbs', says Sakapuni, 'from
 
@@ -3480,12 +3654,14 @@ I praise Agni, placed foremost, the god, the priest
 Of the sacrifice ; the sacrifice!- and the best bestower of gifts.1 I praise Agni, I beseech Agni. The root -Id means to solicit, or to worship. Purohita (placed foremost) and yajua (sacrifice) have been ex plained. Dew (god) is (so called) from making gifts (Vda) or from being brilliant (Vdip), from being radiant (*/dyut), or because his sphere is heaven. He who is called god (deva) is also called deity (devata). Sacrifice!*, invoker. (Hotd) (sacrificer) is derived from (the root) ku (to sacrifice), says Aurnav&bnft. ' The best bestower of gifts ', the most liberal giver of delightful riches. The following additional stanza is addressed to him also.
 
 (Here ends the fifteenth section.)
+### 
 
 Agni should be solicited by seers, old as well as new ; he shall bring the gods here.2
 
 May Agni, who should be solicited, [should be worshipped], by older seers as well as by us, who are the younger ones, bring the gods to this place. He (the student) should not think that Agni refers to this (terres trial fire) only. The two highef luminaries (lightning and the sun) are called Agni also. With reference to this (the following stanza refers to) the Agni of the middle region.
 
 (Here ends the sixteenth section.)
+### 
 
 Let them procure Agni like beautiful and smiling maidens of the samemind. Let the streams of clarified butter be united with fuel; enjoying them th6 god, who has all created beings as his property, is gratified/'
 
@@ -3500,18 +3676,21 @@ atmospheric fire. Durga.* i.e. The atmospheric fire. Durga.
 The wave, rich in honey, has arisen from the ocean.1 This is regarded as referring to the sun. He rises, indeed, from the ocean and from the waters.2 This is a Brah- mana quotation. Moreover, there is a Brahmana passage : Agni is all the deities.3 The stanza following the present one explains it more clearly.
 
 (Here ends the seventeenth section.)
+### 
 
 They call Agni Indra, Mitra, and Varuna ; (they) also (say) that he is the divine Garutman of beautiful wings. The sages speak of him who is one in various ways ; they call him Agni, Yama, MatarisVan."4
 
 The wise speak cf this very Agni, [and] the great self, in various ways, as Indra, Mitra, Varuna, Agni, and the divine Garutman. Divine, born in heaven. Garutman is (so called because) he is praised, or whose soul is mighty, or whose soul is great. He to whom the hymn is addressed and the oblation is offered, is this very (terrestrial) Agni. These two higher luminaries receive (praise and oblations) under this appellation incidentally only.5
 
 (Here ends the eighteenth section.)
+### 
 
 From what root is JdU'veddh derived ?c
 
 He knows all created beings, or he is known to all created beings, or else he pervades every created being, or he has all created beings as his property or wealth, or he has all created beings as his knowledge, i. e. dis- cernment. There is a Brahmana passage : that because, as soon as he was born, he found the cattle, that is the characteristic of Jatavedas. And also : Therefore, in all seasons, the cattle move towards Agni.7 The following stanza is addressed to him.
 
 (Here ends the nineteenth section.)
+### 
 
 (We will press sonia for Jatavedas. He shall consume the property belonging to the niggard. He takes us, i. e. the assembly, across all obstacles ; Agni carries us across troubles like a river by means of a boat.)8 (We will press soma for Jatavedas, i. e. unto Jatavedas, or Jatavedas
 
@@ -3538,6 +3717,7 @@ This we have already explained.4 Now (the following stanza refers to) the sun.
 They uplift him, Jatavedas.5 We shall explain this later on.6 He, to whom the hymn is addressed and the oblation is offered, is this very (terrestrial) Agni Jatavedas. These two upper luminaries receive (praise and oblations) under this appellation incidentally only.7
 
 (Here ends the twentieth section.)
+### 
 
 From what root is Val^vdnaru. derived ?
 
@@ -3564,6 +3744,7 @@ May we be in the goodwill of VaisVanara, for he indeed is the king, the refuge o
 Born from this world, he surveys the entire universe. VaisVanara stretches together with the sun. May we be in the benevolent will of Vaisvanara, i. e. of him who is the king and the place of refuge of all created beings. But who is Vaisvanara ? The preceptors say,' This is the atmospheric fire, for the seer praises him with regard to the phenomenon of rain '.
 
 (Here ends the twenty-second section.)
+### 
 
 I will proclaim the greatness of the bull. Supplicating men attend upon him who is the slayer of Vrtra. The VaiSvanara Agni killed the demon, shook the waters, and shattered 6ambara.2
 
@@ -3610,6 +3791,7 @@ Uniform with days, this water goes up and falls down again. Clouds bring new lif
 This stanza is explained by the mere reading of it.
 
 (Here ends the twenty-third section.}
+### 
 
 The bay steeds having beautiful wings clad in waters fly up their dark course to heaven. They turned round from the seat of waters, and lo ! the earth is made wet with clarified butter.2
 
@@ -3626,18 +3808,21 @@ the chdndomika l hymn is addressed to VaisVanara, the sun, (we reply) that it is
 Sacrificed with blazing fires. 12 Blazing fires, profusely generated fires, or burning fires ; it is with them that the sacrifice is made. As to (the view) that the hymn,3 ' Libation to be drunk ', is addressed to VaisVanara, the sun, (we reply) that it is addressed to this very (terrestrial) fire.
 
 (Here ends the twenty-fourth section.)
+### 
 
 The undecaying and pleasant libation to be drunk is sacrificed in fire which touches heaven and knows the sun. For its maintenance, existence, and support, the gods spread it with food.4
 
 The oblation which is to be drunk, which is pleasant and undecaying, is sacrificed in fire which touches heaven and knows the sun. For all the various actions, i. e. maintenance, existence, and support, the gods spread this fire with food. Moreover, the seer said :
 
 (Here ends the twenty-fifth sectioii.)
+### 
 
 The mighty seized him in the lap of the waters ; the tribes attended on the king worthy of honour. The messenger brought Agni from the sun, MatarisVan (brought) VaisVanara from afar.5
 
 Seated in the lap, in the bosom, of the waters, i. e. in the mighty world of the atmosphere, the groups of mighty atmospheric gods seized him like tribes who wait upon the king. Worthy of honour, having panegyrics addressed to him, or worthy of respect [or worthy of worship]. Whom the messenger of the gods brought from the shining one, the sun who drives away darkness, whoimpels all things and who is very far. [Or else] the seer called Matarisvan, the bringer of this VaisVanara fire. Matarisvan is air : it breathes in the atmosphere, or moves quickly in the atmosphere. Now the seer praises him with the following two stanzas in order to enter into all places.
 
 (Here ends the twenty-sixth section.)
+### 
 
 At night Agni becomes the head of the world. Then in the morning he is born as the rising sun. This is the supernatural power of the holy ones that with full knowledge he accomplishes the work so quickly.6
 
@@ -3652,12 +3837,14 @@ The head is (so called because) the body depends on it. He who is the head 7 of 
 in the morning,1 They know this profound wisdom of the holy gods who accomplish sacrifices: the work that he performs with full knowledge, i.e. hastening he goes through all places. The stanza following this explains it still more.
 
 (Here ends the twenty-seventh section,.)
+### 
 
 With a hymn, in heaven, the gods generated Agni, who fills both heaven and earth, with powers. They made him for a threefold existence indeed. He ripens herbs of every kind.2
 
 The gods made that Agrii, whom they generated in heaven and earth with a hymn and who fills both heaven and earth, with [powers], i.e. actions, for threefold existence. ' For the terrestrial, atmospheric, and celestial (existence)/ says &akapuni. There is a Brahmana passage: Its third part, which is in heaven, is the sun.3 With these words, the seer praises him with reference to fire. Now, in the following stanza, the seer praises him with reference to the sun.
 
 (Here ends the tweitiy-eighth section.)
+### 
 
 When the holy gods .set him, the sun, the son of Aditi, in heaven. Whenthe ever-wandering pair come to life, then they behold all the worlds.4 When all the holy gods set him, the sun, [Aditi's son], son of Aditi, in heaven, when the wandering couple, i. e. the couple that always wanders together, i. e. the sun and the dawn, were created. How is the word mithuiut 6 (couple) derived ? It is derived from (the root) mi, meaning to depend, with the suffix thu or tha, having the root nl or van as the last member. Depending on each other, they lead each other, or win each other.
 
@@ -3676,6 +3863,7 @@ fire when setting. Hfe then disappears.5 Cf. AB. v. 16 : mithunam vat pa/avaA, A
 Agni, dispute, as to which of us two knows more about the sacrifice. Which of the priests, who tell the same tale, and who enjoy together, and who are the accomplishes of sacrifice, will decide this for us? The stanza following this explains it still more clearly.
 
 (Here ends the thirtieth section.}
+### 
 
 O Matarisvan, as long as the birds of beautiful wings wear directly the illumination of dawn, so long the Brahmana, sitting lower than the sacrifice, and approaching the sacrifice, bears it.1
 
@@ -3686,14 +3874,17 @@ But the recitation of the sacrificer is addressed to VaisVanara, who is not Agni
 incidentally only.
 
 (Here ends the thirty-first
+### 
 
 ## 
+### 
 
 CHAPTEE VIII
 
 FROM what root is dravinodah (giver of wealth) derived ? Dravinammeans wealth (so called) because people run ( */dru) towards it, or strength (so called) because people run by means of it; dravinodah (therefore) means the giver of wealth or strength.2 The following stanza is addressed to him.
 
 (Here ends the first section.)
+### 
 
 Thou art the giver of wealth. In worship, the priests with stones in their hands adore the god in sacrifices.3
 
@@ -3748,6 +3939,7 @@ Accompanied by associating troops, and rejoicing, drink soma.1 This too is a Ved
 restrial) fire.
 
 (Here ends the second section.)
+### 
 
 May thy draught animals, with which thou di ivest without being injured, become fat. O lord of the forest, O courageous one, drink thou soma, O giver of wealth, from (the cup called) nestra, together with the seasons.-       
 
@@ -3780,10 +3972,12 @@ says akapuni.
 Tanuiwpout?' one's own son '. [' It is clarified butter/ says Katthakya.] The word napdt is a synonym of offspring which does not immediately succeed a person (i. e. a grandson) : 4 it is very much propagated down wards. In this case, the cow is called tanu (because) delicious things are prepared (tatdh) from her. Milk is produced from the cow, and the clarified butter is produced from milk. ' It is Agni,' says Sakapuni. Waters are here called tanu (because) they are spread in the atmosphere. Herbs and trees are produced from waters and this (fire) is produced from herbs and trees. The following stanza is addressed to him.
 
 (Here ends the fifth section.)
+### 
 
 O bright-tongued Tanunapat, having anointed the leading paths of the sacred rite with honey, be sweet. Directing the act of worship and our thoughts together with our prayers, carry our sacrifice to the gods.5
 
 ' Nara-saima, is sacrifice', says Katthakya ;' seated men (nardk) praise ( V&ams) gods in sacrifice.' 6 ' It is Agni ', says 6akapuni ;' he is to be praised by men.' The following stanza is addressed to him. (Here ends the sixth section.)
+### 
 
 Of these, the gods, who are skilful, pure, meditative, and who enjoy both kinds of oblations, we will praise the greatness of the adorable Narasamsa with sacrifices.7
 
@@ -3802,6 +3996,7 @@ Of these,1 the gods, who are of noble deeds, pure, promoters of medita tion, and
 Ilah 2 is derived from (the root) id, meaning to praise, or from liidh (to kindle). The following stanza is addressed to him.
 
 (Here ends the seventh section.)
+### 
 
 Being invoked thou art to be praised and worshipped. O Agni, come united with the Vasus. great one, thou art the sacrificer of the gods. As such, O excellent sacrificer, do thou sacrifice to them, incited (by us).3
 
@@ -3810,6 +4005,7 @@ Being invoked thou shouldest be praised and worshipped. O Agni, come associated 
 Barhih* (grass) is (so called) from growing rapidly. The following stanza is addressed to him.
 
 (Here ends the eighth section.)
+### 
 
 The grass in the eastern direction is twisted at daybreak with injunc tions for the covering of this earth. He spreads it farther and farther to make the best and most comfortable seat for the gods and Aditi.6
 
@@ -3822,16 +4018,19 @@ The grass in the eastern direction is strewn at daybreak, in the first period of
 Dvdrah (door) is derived from (the root) ju (to press forward), or from dru (to move), or from the causal of vr (to exclude). The following stanza is addressed to them.
 
 (Here ends the ninth section.)
+### 
 
 Spacious doors remain wide open like beautiful wives for their husbands. O divine doors, great and all-impellers, be easy of access to the gods.1 Having spaciousness, make yourself wide open as exceedingly beautiful wives do their thighs for their husbands in sexual intercourse. The thighs are the most beautiful parts (of the body). O divine doors, mighty, i. e. great. All-impellers, i. e. all come to the sacrifice through them. * It is the door of the house,' says Katthakya.* It is Agni/ says Sakapuni. Usdsdnalctd dawn and night. Dawn has been explained. The word naktd is a synonym of night : it anoints beings with dew ; or else it is (called) night (because) its colour is indistinct.2 The following stanza is addressed to them.
 
 (Here ends the tenth section.)
+### 
 
 Pressing forward, adorable, brought near each other, dawn and night the divine women, mighty, shining beautifully and putting forth beauty adorned in a radiant manner, may sit down on the seat 3 (yoni).
 
 Smiling or causing good sleep,4 may (they) take their seat or sit down, i. e. the holy ones, neighbours of each other, divine women, mighty, shining beautifully, i. e. resplendent, and putting forth beauty adorned in a radiant manner. &ukra (radiant) is derived from (the root) sue, meaning to shine. The word pesas is a synonym of beauty ; it is derived from (the root) pis (to adorn) : it is well adorned.
 
 Daivya, hotdra means the two divine sacrificers, i.e. this (terrestrial) and that (atmospheric) Agni. The following stanza is addressed to them. (Here ends the eleventh section.)
+### 
 
 The two divine sacrificers are foremost, sweet-voiced, and the measurers of sacrifice for the man to worship. They are inciters, active in the sacrifices, and with injunctions point out the light in the eastern direction.6
 
@@ -3846,16 +4045,19 @@ The two divine sacrificers are foremost, endowed with sweet speech, and the crea
 Tisro devlh means the three goddesses. The following stanza is addressed to them.
 
 (Here ends the twelfth section.)
+### 
 
 May the light of the sun come to our sacrifice quickly, and speech, here instructing like man : May Sarasvati and the three goddesses of noble deedssit on this most comfortable seat of grass.1
 
 May the light of the sun come soon to our sacrifice. The sun is (called) bharata : its light (therefore) is (called) bharati.2 And (may) speech, instructing here like a man, (come to us). May Sarasvati and the three goddesses of noble actions sit on this comfortable seat of grass.
 
 ' Tvastr 3 (is so called because) it pervades quickly,' say the etymologists. Or it may be derived from (the root) tvist meaning to shine, or from tvaks, meaning to do. The following stanza is addressed to him. (Here ends the thirteenth section.}
+### 
 
 O wise and excellent sacrificer, incited (by us) sacrifice here to-day to the god Tvastr, who adorned these two progenitors, i.e. heaven and earth, andall the worlds with beauty.4
 
 wise and excellent sacrificer, incited (by us) sacrifice here to-day to god Tvastr, who made these two progenitors, i.e. heaven and earth, andall created beings beautiful. According to some, Tvastr is an atmosphericdeity, because he is enlisted among the atmospheric gods.5 * He is Agni,'says Sakapuni, The following, another stanza, is addressed to him. (Here ends the fourteenth section.)
+### 
 
 Spreader of light, the beautiful one grows among them, elevated byhis own glory in the lap of the oblique. Both were afraid of Tvastr,who was being born, turning back, they both serve the lion.6 Light is (so called) from making (things) well known. The diffuser oflight, the beautiful one grows among them. Carn (beautiful) is derivedfrom the root car (to be diffused). Jihmam (oblique) is derived from the
 
@@ -3870,10 +4072,12 @@ op. cit., p. 938.
 root ha, (to bound). Elevated, held up. By his own glory, by the glory of his own self. In the lap, i. e. bosom. Both were afraid of Tvastr, who was being born. [Turning back, they both serve the Hon.] Heaven and earth, or day and night, or the two sticks of wood : turned towards the lion, i. e. the vanquisher, they both 1 attend upon him.
 
 (Here ends the fifteenth section.)
+### 
 
 Vanaspatih2 (lord of herbs) has been explained. The following stanza is addressed to him.
 
 (Here ends the sixteenth sectum.)
+### 
 
 Preparing the food and the season by oblations to the gods, bestow them thyself. May the lord of herbs, the god pacifier, and Agni enjoy the oblations with honey and clarified butter.3
 
@@ -3882,6 +4086,7 @@ Having prepared4 the food and oblations at the proper time of perform ing the sa
 But who is the lord of herbs'? 'It is the sacrificial post/ says Katthakya.' It is Agni,' says Sakapuni. The following, another stanza, is addressed to him.
 
 (Here ends the seventeenth section.)
+### 
 
 O lord of herbs, lovers of the gods anoint thee with divine honey in sacrifice. Whether thou standest uplifted or whether thy abode is in the lap of this mother, here bestow wealth on us.6
 
@@ -3890,6 +4095,7 @@ Lovers of the gods anoint thee, lord of herbs, with divine honey and clarified b
 ' It is Agni,' eays Sakapuni. The following, another stanza, is addressed to him.
 
 (Here ends the eighteenth section.)
+### 
 
 [^1]: The word both refers to the two arms of loc. cit., makes it an attribute of gttrtena, i. e. the priest who produces fire by attrition.^ 'with sweet butter', a very far-fetched ex Cf. Roth, p. 120. planation. The same word occurs in iii. 8. 1,
 
@@ -3900,6 +4106,7 @@ as tchlingendj i. e. swallowing. be taken as an attribute. 5 Yftska, followed by
 dhund as a noun, i.e. 'with honey*. Roth,8. zi] SVAHA 137       
 
 O lord of herbs, having golden wings, circumambulating and having fastened oblations with a cord, carry them to the gods along the most straight paths of sacrifice ; this is thy object from the days of yore.1 O lord of herbs, (carry) oblations to the gods ; having golden wings, i. e. wings of the sacred law. Or else it may have been used for the sake of comparison, i. e. whose wings glitter like gold. This is thy object from the days of yore, it is an ancient object of thine, hence we address thee. Cany (oblations) along the paths of sacrifice, which are the most straight, i. e. whose course is most straight, which abound in water, and which are free from darkness: The following, another stanza, is addressed to him. (Here ends the nineteenth section.)
+### 
 
 O lord of herbs, learned in all the ways, having fastened the oblations with the most beautiful cord, carry them to the gods, O thou desirous of bestowing, and among the immortals proclaim the giver.2 O lord of herbs, having fastened with the most beautiful cord,3 carry the oblations of the giver4 to the gods [in sacrifice] : learned in all
 
@@ -3908,6 +4115,7 @@ ways, i.e. well versed in ail branches of knowledge. And proclaim the giver amon
 Consecrations by saying' hail ! ' (they are so called because) the word svdha (hail !) is uttered in them ; or speech herself said,' well, ho ! ' or one addresses himself, or one offers oblation consecrated with (svaha)' hail '. The following stanza is addressed to them.
 
 (Here ends the twentieth section.)
+### 
 
 As soon as he was born, he measured the sacrifice, Agni became the leader of the gods. May the gods eat the oblations consecrated by the utterance of ' hail' in the speech of this sacrificer, set up in the eastern direction.5
 
@@ -3922,6 +4130,7 @@ i. e. 'of the giver'. Dnrga amplifies it by c x> 110> n . AV. 5. l?. n ; VS. 29.
 [^138]: APR! [8. a i god to whom the introductory and the concluding oblations are offered 1l According to some, they are offered to Agni.       
 
 (Here ends the twenty-first section.)
+### 
 
 The introductory and the concluding oblations are exclusively mine. Give me, O gods, the juicy portion of the offering : butter of waters and the fragrant exhalations of herbs. May the life of Agni be long.2
 
@@ -3940,6 +4149,7 @@ With these words, these eleven Apri hymns are dealt with. Of these, the hymns of
 those (mentioned above) are therefore addressed to Tanunapat, to Taml napat.11
 
 (Here ends the twenty-second section.)
+### 
 
 [^1]: Cf. Muir, op. ctt., vol. ii, pp. 175-6. 8 Cf. KB. vii. 1 : x. 3 ; AB. i. 11. 17 ; SB. 8 x. 51. 8. xi. 2. 7. 27.
 
@@ -3952,10 +4162,12 @@ those (mentioned above) are therefore addressed to Tanunapat, to Taml napat.11
 [^9]:.4] SAKUNI 139       
 
 ## 
+### 
 
 CHAPTER IX
 
 Now therefore we shall take up in order the terrestrial beings to which panegyrics are addressed. Of these, the horse is the foremost. Awa(horse) has been explained.1 The following stanza is addressed to him. (Here ends the first section.)
+### 
 
 The horse as draught animal desires a comfortable chariot and the encouraging shout of the inciter ; the male organ (desires) the two hairy rims ; the frog (desires) the pond ; flow, Indu, flow for Indra's sake.2
 
@@ -3964,12 +4176,14 @@ The horse as a draught animal ; the draught animal (desires) a com fortable (cha
 Good is auspicious, very suitable [or it proceeds in a very suitable manner. Laughter ; goer, or protector, or benefactor ; the male organ goes towards. Water causes to conceal.] Mana has been explained. Thefollowing stanza is addressed to him.
 
 (Here ends the second section.)3
+### 
 
 Let not Mitra, Varuna, Aryaman, Ayu, Indra, Rbhuksan, and the Maruts overlook us, because we will proclaim the heroic deeds of the horse, the courser, born of the gods, in the assembly.4 On account of our proclaiming the heroic deeds of the horse, the courser, the racer, born of the gods, in the assembly, i. e. at sacrifice, may
 
 not Mitra, Varuna, Aryaman, Ayu, Vayu, the swift one, Indra, the wide dweller or the king of the Rbhus, and the Maruts overlook us. A bird (is so called because) it is able to lift itself up, or to makea sound, or to rush along, or else they wish him to be always auspicious, or the word (sakuni, bird) may be derived from (the root) sak (to be able).5 The following stanza is addressed to him.
 
 (Here ends the third section.)
+### 
 
 Crying violently and proclaiming its nativity, it impels speech as a rower a boat. O bird, be highly auspicious. May no apparition what soever find thee anywhere.6
 
@@ -4000,12 +4214,14 @@ plained.
 It cries violently, proclaiming its birth, i. e. its name is onomatopoetic. It propels speech as a rower does a boat. O bird, be highly auspicious i. e. exceedingly auspicious. Mangalam (auspicious) is derived from (the root) gf, meaning to praise.1 Or else (from gf, to swallow), i. e. it swallows
 
 evil things.2 Or else (the word) is anga-lam, i.e. having limbs." Ac cording to the etymologists (it is derived from Vmasj), i. e. it submerges sin. Or else (people say) 'let it come to me'.4 May no overpowering force find thee on any side. A bird uttered a lowing sound to Grtsamada, as ne was about to proceed (to acquire) a particular object.5 This is indicated by the following stanza. (Here ends the fourth section.)
+### 
 
 O bird, speak out what is auspicious in the south, and that which is . auspicious in the north. Say what is auspicious in front of us and also what is auspicious behind us.
 
 The stanza is explained by the mere reading of it.
 
 Grtsamada = Grtsa-madtinti,, i. e. wise and joyful. The word grtaa is a synonym of wise ; it is derived from (the root) gf, meaning to praise. Maiidukah (frogs) = majjukdh, i. e. divers, (so called) from diving. Or the word may be derived from (the root) mad, meaning to rejoice, or from mand, meaning to be satisfied. ' It is derived from (the root) viand (to decorate),' say the grammarians.7 Or else, their abode (okas) is in water (maTide). Manda (water) is derived from (the root) mad (to rejoice) or from miul (to be merry).8 The following stanza is addressed to them. (Here ends the fifth section,.)
+### 
 
 Sleeping for a year, the frogs have uttered forth speech, impelled by the cloud, like Brahmanas engaged in religious rites.9
 
@@ -4024,6 +4240,7 @@ Vasistha, desirous of rain, praised the cloud. Frogs applauded him. Onseeing the
 following stanza.
 
 (Here ends the sixth section.)
+### 
 
 O frog, join me. O swimmer, invoke rain. Float in the middle of the pond, having spread your four feet.1       
 
@@ -4032,6 +4249,7 @@ The stanza is explained by the mere reading of it.
 Dice (aksah) are (so called because) they are obtained ( </) by gamblers, or (wealth) is obtained through them. The following stanza is addressed to them.
 
 (Here ends the seventh section.)
+### 
 
 The waving ones of the great (tree), growing in windy places, rolling on the gambling board, intoxicate me. The ever-wakeful berry of the vibhldaka tree appears to me like a draught of soma that grows on the Mujavat mountain.2
 
@@ -4040,6 +4258,7 @@ The waving berries of the mighty 3 vibhidaka tree intoxicate me. Growing in wind
 Grdvanah (stones) is derived from (the root) han (to kill), or from gf(to praise), or from ymh (to seize). The following stanza is addressed to them.7
 
 (Here ends the eighth section.)
+### 
 
 [^1]: RVKH. 7. 103.
 
@@ -4074,14 +4293,17 @@ Let them proclaim. Let us proclaim. Address the stones who speak in return, when
 Let them proclaim. Let us proclaim. Address the stones who speak in return. When unsplit mountains, i. e. who are not to be split up. Quick, making haste. Together (producing) soma. lolca (call) is derived from (the root) sf (to break open). Ghosa (sound) is derived from (the root) gkus (to sound). You are rich in soma, or you are in the abodes of one who is rich in soma. A nardvamsa stanza is that with which men are praised. The follow- ing stanza is addressed to it.
 
 (Here ends the ninth section.)
+### 
 
 I present, with wiscjom, the sublime hymns of Bhavya, who dwells on the Sindhu the unsurpassed king who, desirous of glory, measured out a thousand libations for me.2
 
 Sublime hymns, i. e. ot childish, or not few. A child turning round for strength is to be brought up. Or else his mother is sufficient for himx or his mother is (a source of) strength for him. Or the word bctta (child) is derived from bala (strength), with the negative particle placed in the middle.3 I present with wisdom, i. e. with ingenuity of mind, or praise, or intelligence. Of the King Bhavya, who dwells on the Sindhu, and who prepared a thousand libations for me the king who is unsurpassed, or who is not, hasty, or who does not hurry, and who is desirous of praise. (Here ends the tenth section.)
+### 
 
 A king obtains praise on account of being associated with sacrifice, and the paraphernalia of war from their association with the king. Of these, the chariot comes first. Rathah (chariot) is derived from (the root) mmh, meaning to speed, or from sthira by metathesis : * one sits in a chariot with joy, or from rap (to chatter) [or from ras (to make a sound)].5 The following stanza is addressed to it.6 O
 
 (Here ends the eleventh section.)
+### 
 
 * Cf. Professor Macdonell, op. ctf., pp. 154-5. Yaska, hence I agree with Durga in thinking 2i. 126. 1 ; cf. Brh. D. iii. 165. that the passage is spurious. 3 The passage,' A child ... in the middle ', 4i. e. sthira > thara, and by metathesis ratha.
 
@@ -4134,6 +4356,7 @@ Seated on the car, a skilful charioteer, i. e. a noble charioteer, guides his st
 Dhanus 5 (bow) is derived from the root dhanv, meaning to go, or to kill : the arrows are discharged from it. The following stanza is addressed to it.
 
 (Here ends the sixteenth section.)
+### 
 
 May we win kine with the bow, and with the bow the combat. May we win dreadful battles with the bow. The bow brings the desires of the enemy to naught. May we conquer all quarters with bow.G The stanza is explained by the mere reading of it.
 
@@ -4144,6 +4367,7 @@ Samadah (battle) = sam-adah (i. e. eating together) from (the root) ad (to eat),
 Jya (bowstring) is derived from (the root) ji (to conquer), or from ji (to conquer, cl. ix), or it is (so called because) it causes arrows to fly quickly. The following stanza is addressed to it.
 
 (Here ends the seventeenth section.)
+### 
 
 Coming close to the ear as if desirous of whispering a secret, and embracing its dear friend, this string, stretched on the bow, and leading us to salvation in battle, utters a low shrill sound like a woman.8
 
@@ -4162,6 +4386,7 @@ It comes close to the ear as it' desirous of speaking. Embracing, asit were, its
 Isu 1 (arrow) is derived from (the root) is, meaning to go [or to kill]. The following stanza is addressed to it.
 
 (Here ends the eighteenth section,.)
+### 
 
 She wears a beautiful wing. Deer is her tooth. When hurled, she flies girt with cow-phlegm. May the arrows grant us protection there wheremen run to and fro.2 She wears a beautiful wing is with reference to the swift feathers ofarrows. Her tooth is made of the horn of deer. 15 Or else it is derivedfrom (the root) mrg (to pursue).4 ' When hurled, she flies girt with cow-phlegm ', has been explained.5 May the arrows grant us protection therewhere men run in the same direction and in the opposite direction, i. e. pro tection in battles.
 
@@ -4170,6 +4395,7 @@ Lashing rod is called whip. Whip (kava) is (so called because) it reveals (pra-k
 the horsewhip.
 
 (Here ends the nineteenth section.)
+### 
 
 They strike their thighs and deal blows on their buttocks. O lashing rod, impel sagacious horses in battles.
 
@@ -4186,12 +4412,15 @@ arrow. The pointed end is made of the horn 7 Durga takes janghanti as a particle
 [^146]: WOODEN MACE [9. 20
 
 Mortar (ulukhalam) is (so called because) it causes to spread out (uru karam), or it has a hole at the top, or it prepares food (urj-lcaram). There is a Brahmana passage : * ' Make me large/ said he. Then indeed he became a mortar. Verily, they call it uru-karam (causing to spread out), indirectly ulukhalam, i. e. mortar. The following stanza is addressed to it. (Here ends the twentieth section.)
+### 
 
 Whenever, O Mortar, thou art set to work from house to house. Then utter thy brightest sound like the trumpet of the conquerors.2 The stanza is explained by the mere reading of it.
 
 (Here ends the twenty-first section,.)
+### 
 
 Vrsabhah means one who rains down offspring,3 or who increases the seed very much. Vrsabhah is therefore so called from raining, i. e. whose characteristic is to rain. The following stanza is addressed to him. (Here ends the twenty-second section.)
+### 
 
 Thundering they approached him. In the midst of the strife, they made the bull shed water. Through him Mudgala won a hundred thousand well-nourished kine in battle.4
 
@@ -4200,6 +4429,7 @@ Thundering they approached him is explained. They made the bull shed water in th
 Wooden mace, i. e. mace made of wood. With reference to it they relate a legend. A seer Mudgala, a descendant of BhrmyasVa, having yoked his bull and a wooden mace, and having fought in battle, won the contest. This is indicated by the following stanza.
 
 (Here ends the twenfy-third section.)
+### 
 
 Look at this yoke of the bull and the wooden mace lying in the middle of battle, with which Mudgala won a hundred thousand kine in battles. Look at this yoking together of the bull, and the wooden mace lying in the middle of battle, with which Mudgala won a hundred thousand kine in battles. The word prtan&jyam" is a synonym of battle, (so called) from dispersing or conquering hostile armies. Mutlyalu means one who possesses
 
@@ -4212,6 +4442,7 @@ beans, or who swallows beans, or passion, or pride, or joy.1 Bka,rmyat>va, a son
 The word pituh is a synonym of food. It is derived from (the root) pa(to protect), or from pa (to drink), or from pyay (to swell). The following stanza is addressed to it.
 
 (Here ends the tiventy-fourth section.}
+### 
 
 Verily I will praise the food, the holder of great invigorating strength ; with whose vigour Trita rent Vrtra limb by limb.2
 
@@ -4220,6 +4451,7 @@ I praise the food which contains great invigorating strength. Theword tavisi '' 
 Rivers have been explained.4 The following stanza is addressed to them.
 
 (Here ends the twenty-fifth section.)
+### 
 
 Hear this my hymn of praise, O Ganga, Yamuna, Sarasvati, 6utudrl together with Parusni, Marudvrdha with Asiknl, and Arjikiya with Vitasta and Susoma.5
 
@@ -4244,6 +4476,7 @@ flowing.
 Apah (waters) is derived from (the root) o/p (to obtain). The, following stanza is addressed to them.
 
 (Here ends the twenty-sixth sect ion.)
+### 
 
 Ye waters are indeed beneficent. As such bestow strength on us, so that we may look upon great happiness.2
 
@@ -4252,12 +4485,14 @@ Ye waters are indeed a source of comfort. As such bestow food on us, so that we 
 Herbs (osa-dhayah) are (so called because) they suck (dhayanti) the burning element 3 (osat), or (because) people suck them when something is burning (in the body). Or else they suck the morbid element (do$a). The following stanza is addressed to them.
 
 (Here ends the twenty-seventh section.)
+### 
 
 I think there are indeed one hundred and seven abodes of the tawny ones, the herbs, that were produced three ages before the gods, in days of yore.4
 
 I think there are indeed one hundred and seven abodes of the tawny ones, i. e. tawny-coloured ones, the herbs, which carry off (disease) produced three ages before the gods, in days of yore. There are three kinds of abodes, i. e. places, names, and species. Here species are meant.5 Or else there are seven hundred 6 vital parts of man, the herbs are applied on them.
 
 Night has been explained.7 The following stanza is addressed to it. (Here ends the tu'euty-eiy/tth- section.)
+### 
 
 O night, the terrestrial region of the father together with (atmospheric) places has been well filled. Thou art great, and encompassest the abodes of heaven ; the dreadful darkness draws all around.8
 
@@ -4276,6 +4511,7 @@ O night, thou hast well filled the terrestrial region along with the places of t
 Wilderness l is the wife of desert. Desert (aranya) is (so called because) it is far (apa-arna) from the village, or because it is dull (a-ramaiia). The following stanza is addressed to her.
 
 (Here ends the twenty-ninth section.)
+### 
 
 O wilderness, how is it that thou who disappearest in deserts ever onwards dost not seek the village ? it appears that fear does not find thee.2 The seer3 addresses her with the words, ' O wilderness, how is it that thou who disappearest in deserts, i. e. forests, like one directed to someplace onwards, dost not seek the village ? It appears as if fear does not find thee.' Or the word iva is used in the sense of slight apprehension (i. e. the slightest fear).
 
@@ -4312,20 +4548,24 @@ i)
 leant, meaning to go, i. e. it is very prominent on the tree. Grant us (let them grant)1 protection from all sides, i. e. extensive protection. Apud (disease) has been explained.2 The following stanza is addressed to it.
 
 (Here ends the thirty-second section.)
+### 
 
 Infatuating the heart of these (our enemies), seize their limbs; depart, O Apva, approach (them), burn with flames in their hearts. Let our enemies abide in blinding darkness.3
 
 Infatuating the heart [the intellect] of these (our enemies), seize their limbs ; depart, O Apva. approach them, burn their hearts with flames. Let our enemies grope in blinding darkness.
 
 Agnayi4 is the wife of Agni. The following stanza is addressed to her. (Here ends the thirty-third section.)
+### 
 
 I call upon the wife of Indra, the wife of Varuna, and the wife of Agni for welfare and for drinking soma.5
 
 The stanza is explained by the mere reading of it.
 
 (Here ends the thirty-fourth section,.)
+### 
 
 Now, therefore, the eight pairs, mortar and pestle. Mortar 6 has been explained. Pestle (musalam) is (so called because) it moves again and again (muhuh-saram). The following stanza is addressed to them. (Here ends the thirty-fifth section.)
+### 
 
 Adorable, best winners of food, they are held aloft, devouring food like steeds.7
 
@@ -4352,6 +4592,7 @@ ye free from treachery, let the holy gods sit in your lap ; here, to-day, to dri
 Let them (gods) sit in your lap, in your bosom, [or else, O ye not to be injured]. Holy gods, accomplishers of sacrifice ; here, to-day, for thedrinking of soma. Heaven and earth have been explained.2 The followingstanza is addressed to them.
 
 (Here ends the thirty-seventh section.)
+### 
 
 To-day may heaven and earth extend our accomplishment, this sky touching sacrifice, to the gods.3
 
@@ -4360,12 +4601,14 @@ To-day may heaven and earth extend farther our performance, i. e. this sky-touch
 Vipas and Sutudrl have been explained.4 The following stanza is addressed to them.
 
 (Here ends the thirty-eighth section.}
+### 
 
 Like two bright cows, like two licking mothers, Vipas and 6utudrihasten forth eagerly with their waters from the lap of the mountains;contending like two mares let loose.5 From the lap of the mountains, i.e. from their mountainous abode. Eagerly, i.e. longingly. Like two mares who are released, or who are out of temper; Contending the verb has is used in (the sense of) emulation or who are excited. Like two [bright] beautiful cows, two mothers licking together,7 Vipas* and Sutudri hasten forth with their waters.
 
 The ends of the bow are (so called because) they send forth arrows, or they are made of wood, or they never fail. The following stanza is addressedto them.
 
 (Here ends the thirty-ninth section.)
+### 
 
 Approaching each other like women of the same mind, they bear (arrows) in their lap as a mother does a son. May these quivering ends of the bow,having a mutual understanding, drive away the enemy, the unfriendly people.8
 
@@ -4382,12 +4625,14 @@ Approaching each other like two women who have the same thought,they bear arrows
 Wind and sun.1 tiunah means wind, (so called) because it moves quickly in the atmosphere, fftrah means the sun, (so called) from moving ( \/&r). The following stanza is addressed to them.
 
 (Here ends the fortieth section.)
+### 
 
 O wind and sun, enjoy this praise. Sprinkle ye both this (earth) with whatever water you make in heaven.2
 
 The stanza is explained by the mere reading of it.
 
 The two approving goddesses, the two goddesses who approve without reflection, i. e. heaven and earth, or day and night. According to Katthakya, they are crop and season. The following invitation is addressed to them. (Here ends the forty-first section.)
+### 
 
 The two approving goddesses who bestow treasures : of these two, one shall remove the ills and hostilities, and the other shall bring noble treasures for the sacrificer. Do ye both eat in order to win and to bestow treasures. Sacrifice/1
 
@@ -4396,6 +4641,7 @@ The two approving goddesses, i. e. the two goddesses who approve with- out refle
 Two goddesses worshipped with food-oblations, two goddesses who are to be worshipped with food-oblations, i.e. heaven and earth, or day and night. According to Katthakya, they are crop and season. The following invitation is addressed to them.
 
 (Here ends the forty-second section.)
+### 
 
 The two goddesses worshipped with food-oblations : one shall bring the strengthening food, and the other a common meal and drink. May we partake of the old with the new and of the new with the old. The two goddesses worshipped with food-oblations, and causing strength, have bestowed that strengthening food. Do ye both eat in order to win and to bestow treasures. Sacrifice.4
 
@@ -4406,12 +4652,15 @@ Cf. Professor M.icdonell, op. cit., pp. 126-30. ? KS. 19. 18; MS. 4, 13. 8 ; 210
 [^10]:. 3] VAYU 153
 
 and causing strength, have bestowed that strengthening food. Do ye both eat and drink or enjoy desire, in order to win and to bestow treasures. Sacrifice. With these words, the invitation is expressed. (Here ends the forty-third section.)
+### 
 
 ## 
+### 
 
 CHAPTEK X
 
 Now, therefore, (we shall take up) the deities of the middle region. Ofthese, Vay u1 (wind) is the foremost. Vayu (wind) is derived from (the verb) wl (to blow), or it may be derived from the verb m (meaning to move). ' It is derived from the verb i (to go),' says Sthaulasthivi,' the letter v being meaningless/ The following stanza is addressed to him. (Here ends the first section.)
+### 
 
 Come, O beautiful Vayu, these soma-juices are made ready. Drinkthem, hear (our) call.2
 
@@ -4420,6 +4669,7 @@ Come, O Vayu, worthy of being seen. These soma-juices are madeready [i. e. prepa
 The following, another stanza, is addressed to him.
 
 (Here ends the second section.)
+### 
 
 May the ever-running steeds, the chariot- horses, who move in a straight line, bring the vigorous Indra, in a car of beautiful wheels, towards the old and the new food : lest the nectar of Vayu be wasted.4
 
@@ -4436,6 +4686,7 @@ soma-draught of this Vayu may not l be wasted. According to some, the stanza is 
 Varuna is (so called) because he covers ( Vvr). The following stanza is addressed to him.
 
 (Here ends the third section.)
+### 
 
 Varuna sent forth the cloud, opening downwards, and created heaven, earth, and the intermediate space. With it, the king of the entire universe moistens earth as rain the barley.2
 
@@ -4444,6 +4695,7 @@ Varuna (sent forth) the cloud, whose door opens downwards. (A cloud, kabandham, 
 of the entire universe moistens earth as rain does barley.4 The following, another stanza, is addressed to him.
 
 (Here ends the fourth section.)
+### 
 
 I praise him, who possesses seven sisters at the birth of rivers, and who belongs to the middle region, with noble speech, hymns of the manes, and panegyrics of Nabhaka at the same time. Let all others be killed.5
 
@@ -4466,6 +4718,7 @@ is derived from ^kav, 'to go '. He says : 6 Cf. Professor Macdonell, op. ctf., p
 Rudra l is (so called) because he bellows (rauti), or because he runs(dravati) vociferating (int. of ru), or it is derived from the causal of the verb rud (to roar). There is a Kathaka passage : Because he has roared, that is the characteristic of Rudra. There is a Haridravika passage. Because he roared, t1 at is the characteristic of Rudra. The followingstanza is addressed to him.
 
 (Here ends the fifth section.)
+### 
 
 Bear these songs to Rudra of strong bow and swift arrows, the god rich in food, irresistible, the assailant, the disposer, armed with sharp weapons.May he hear us ! 2
 
@@ -4476,6 +4729,7 @@ Bear these songs to Rudra of massive bow and swift arrows, the godwho abounds in
 May that bright weapon of thine, which, hurled down from heaven,flies on earth, avoid us. O god of authoritative speech, thou hast a thousandmedicines ; do thou not hurt our sons and descendants.4
 
 May that bright weapon of thine, which is hurled down from heaven,i. e. from beyond heaven, (avoid us). Didyut (bright weapon) is derivedfrom (the root) do (to cut), or from dyu (to assail), [or from dyut (to shine) ].5 It flies on earth. Ksma means earth, it flies on it or along it. Or else it flies bringing destruction. May it pass us over. O god of authoritativespeech, a thousand medicines belong to thee ; do thou not injure our sons andgrandsons. Tolcam (offspring) is derived from the verb tud G (to push). Tanayam (son) is derived from the verb tan (to spread). Agni is called Rudra also.7 The following stanza is addressed to him. (Here ends the seventh section.)
+### 
 
 O thou who art skilled in praise, be active for the worship of everyman ; a beautiful hymn for Rudra.8
 
@@ -4494,12 +4748,14 @@ Jard l means praise ; it is derived from (the verb) jr, meaning to praise. He wh
 Indra 2 is (so called because) he divides food (ird + dr), or he gives food (Lrd + da), or he bestows food (ird + dhd), or he sends food (ird + ddraya), or he holds food (ird + dhdraya), or he runs for the sake of soma (indu + dm), or he takes delight in soma (indu + ram), or he sets beings on fire (Vindh). It is known : that because they animated him with vital breaths, that is the characteristic of Indra.3 ' He is (so called) from doing everything (lit. this),' says Agrayana. 'He is (so called) from seeing everything (idam + drs),' says Aupamanyava. Or the word is derived from (the verb) iad, meaning to be powerful, i. e. being powerful he tears the enemies asunder, or puts them to flight. Or he honours the sacrificers. The following stanza is addressed to him.
 
 (Here ends the eighth section.)
+### 
 
 Thou didst pierce the spring, create channels, and rich in water send them forth knocking against each other. O Indra, thou didst uncover the great cloud, emit the streams, and smite down the giver (of water).4
 
 Thou didst pierce the spring. Ut-sa (spring) is (so called) [from moving upwards (ut-Vsr)], or from rising upwards (ut-Vsad), or from flowing upwards (ut-Vsyand), or it is derived from the verb ud (to issue out). Thou didst create its channels. Thou, rich in water, didst send forth these atmospheric multitudes (of clouds) having water, and pressing each other hard. The verb ram means to stop or to emit. O Indra, thou didst uncover the great mountain, i. e. the cloud emitted its streams and smote him down, i. e. the giver whose function is to give (rain). The following other stanza is addressed to him.
 
 (Here ends the ninth section.)
+### 
 
 The wise god, who immediately on his birth became foremost and who surpassed (other) gods in strength, at whose breath heaven and earth tremble on account of the greatness of his might, he, O men, is Indra.5
 
@@ -4512,6 +4768,7 @@ of the mightiness of his power. He, O men, is Indra. Thus the gratifica- tion of
 Parjanyah 2 (cloud) is derived from (the verb) trp (to be satisfied) byreversing the first and the last (letter) : one who gives satisfaction and is favourable to men (trp +janyah = pri +janyah = 'purj +janyah = par +janyah), or he is (so called because) he is the best conqueror (parah + </jin),
 
 or he is the best progenitor (parah + Vjan), or he is the bestower of juices(pra -f A/?;/). The following stanza is addressed to him. (Here ends the tenth section.)
+### 
 
 He strikes down trees and he strikes down demons, the entire universewas afraid of the great slaughter. Even the guileless fly from the rainer,when Parjanya thundering strikes the evil-doers.3 He strikes down the trees and he strikes down the demons. All
 
@@ -4520,6 +4777,7 @@ beings are afraid of this great slaughter. Great, indeed, is his slaughter.Even 
 Brhas-patih4 is the protector or supporter of the great. The followingstanza is addressed to him.
 
 (Here ends the eleventh section.)
+### 
 
 On all sides he saw water bound up by the cloud like fish dwelling inshallow water. Having rent (the cloud) with a dreadful roar, Brhaspatidrew it out like a cup from a tree. 5 On all sides he saw water bound up by the all-pervading cloud likefish living in shallow water. He took it out like a cup from the tree. From what verb is camasah (cup) derived 1 (from \/cam) i. e. they drink init. Brhaspati having rent it with a dreadful roar, i. e. sound.
 
@@ -4540,10 +4798,12 @@ All the rays of the sun, which appear like the sun, drink that very stream of wa
 water.
 
 (Here ends the thirteenth section.)
+### 
 
 Lord of the abode 1 ksetram (abode) is derived from (the verb) ks-i, meaning to dwell the protector or supporter of the dwelling-place. The following stanza is addressed to him.
 
 (Here ends the fourteenth section.)
+### 
 
 We will win with the lord of the abode as with a friend ; bring to us a horse or cow, O nourisher. He shall be gracious to us for such
 
@@ -4552,6 +4812,7 @@ We will win with the lord of the abode as with a friend ; bring to us a horse or
 With strength or wealth. The verb rnrl means to give. The following stanza is addressed to him.
 
 (Here ends the fifteenth section.)
+### 
 
 O lord of the abode, bestow upon us the wave, rich in honey, distilling honey, and well purified like clarified butter, as a cow does its milk. May the lords of the sacred law be gracious to us.a
 
@@ -4572,6 +4833,7 @@ Vdstos-patih* (house-lord) vdstuh (house) is derived from (the verb)
 vas, meaning to dwell is the lord or protector of the house. The following stanza is addressed to him.
 
 (Here ends the sixteenth section.)
+### 
 
 lord of the house, thou art the killer of disease, wearing all forms ; be our very kind friend.1 O lord of the house, thou art the killer of disease, wearing all forms ; be our very happy friend. The word seva is a synonym of happiness (sukka). The verb sis takes the suffix va, which replaces the letter next to the penultimate (i. e. s) and optionally takes gumi*
 
@@ -4580,12 +4842,14 @@ The word &iva is derived from the same root also. He becomes the deity of all th
 Maghava assumes every form? This too is a Vedic quotation. Vdcas-pati is the lord or protector of speech. The following stanza is addressed to him.
 
 (Here ends the seventeenth section.)
+### 
 
 Come again, O lord of speech, together with the divine mind. lord of wealth, make me happy, let my body (depend) on me alone.4 The stanza is explained by the mere reading of it.
 
 A'pam ncb'ixit* is explained by the offspring of the self (tanti-napat)* The following stanza is addressed to him.
 
 (Here ends the eighteenth section.)
+### 
 
 Offspring of waters, who shines within the waters without fuel, whompriests implore in sacrifices ; thou hast given us honeyed waters with which Indra grew in vigour.7 Who [will shine, i. e.] shines in the interior of waters without fuel, whom wise men praise in sacrifices ; O offspring of waters, give us honeyedwaters for pressing the soma with which Indra grows in vigour, i.e. in vigorous action. Yama 8 is (so called) because he governs (^/yam). The following stanza is addressed to him.
 
@@ -4602,6 +4866,7 @@ With oblation, worship the king, Yama, son of Vivasvat (the sun), who has depart
 Who has departed : who has gone round the heavenly heights, i. e. 'elevations and depressions. The verb av means to go.1 The sense is : and with oblation, worship the king, Yama, the son of Vivasvat (the sun), whohas shown the path to many and who is the rendezvous of men. The verb duvasyati means to worship. Agni is called Yama also. The follow- ing stanzas proclaim him.
 
 (Here ends the twentieth section.)
+### 
 
 Like a spear hurled, it inspires awe as the archer's arrow of bright appearance.2
 
@@ -4630,46 +4895,50 @@ the word is derived from the causal of (the verb) tnid (to be fat). The followin
 Proclaiming, Mitra leads men forth, Mitra supported earth and heaven. Ever watchful, Mitra beheld the tribes. To Mitra sacrifice the fat oblations.1 Proclaiming, i. e. speaking encouraging words, Mitra leads men ; Mitra alone supports earth and heaven. Without winking Mitra beholds the tribes. The word krstayah is a synonym of men, (so called) because they are active, or because their bodies are long (vi-krsta).' To Mitra sacrifice the fat oblations' has been explained. The verb hu means to give.2 Kah is (so called because) he is loving, or surpassing, or happy. The following stanza is addressed to him.
 
 (Here ends the tiventy-second section.)
+### 
 
 In the beginning, the golden foetus took shape ; he was the sole existing lord of the universe. He supported this earth and heaven. Let us, with oblations, worship the god Ka.3
 
 The golden foetus ; the foetus made of gold, or he ^ hose foetus is made of gold. The word garbhah (foetus) is derived from the verb grbh (used) in the sense of praising, or (so called because) it swallows useless things. Now when a woman receives the life-germs (gundti) and her own life- germs are brought into contact with them, fertilization takes place.4 Hecame into existence in the beginning. He was the sole existing lord of the universe. He supports earth and heaven. ' Let us, with oblations, worship the god Ka ' is explained. The verb vidh means to give.
 
 Sarasvat has been explained.5 The following stanza is addressed to him. (Here ends the tiventy-third section.)
+### 
 
 Be our protector with those waves of thine, Sarasvat, which are rich in honey and distil clarified butter."
 
 The stanza is explained by the mere reading of it.
 
 (Here ends the twenty-fourth section.)
+### 
 
 [^1]: iii. 59. 1. form of her germinating fluid, then by the 2 The sentence is omitted by Durga. mutual contact of the male and female fluid s x. 121. 1 ; AV. 4. 2. 7 ; Vs. 18. 4 ; 23. 1 ; in the interior of the uterus which is capable
 
 [^25]:. 10. of receiving them, fertilization of a woman 4 Durga describes the process of fertiliza- takes place. Or when a woman admires the tion as follows : ' When a woman receives qualities of a man, on account of her love from a man the life-germs, i.e. the essence of for him, and a man a woman, the result of the marrow of his bones, &c., in the form of their mutual admiration is passion, and seminal fluid and brings them (i.e. sperma- passionate intercourse produces fertilization/ tozoa) in contact with her own life-germs, 8i. e. By Sarasvafi.
 
-  i. e. the essence of her flesh and blood in the * vii. 96. 5.
+i. e. the essence of her flesh and blood in the * vii. 96. 5.
 
-  162 VI&VAKARMAN [10. 35
+162 VI&VAKARMAN [10. 35
 
-  Visvakarman is the maker of all. The following stanza is addressed to him.
+Visvakarman is the maker of all. The following stanza is addressed to him.
 
-  (Here ends the twenty-fifth section.)
+(Here ends the twenty-fifth section.)
+### 
 
-  VisVakarman is sagacious, mighty,creator, disposer, and supreme beholder. The objects of their desire rejoice together with food, where beyond the seven seers, they declare (only) one to exist.1
+VisVakarman is sagacious, mighty,creator, disposer, and supreme beholder. The objects of their desire rejoice together with food, where beyond the seven seers, they declare (only) one to exist.1
 
-  VisVakarman is of a penetrating mind, pervading, creator, disposer, and the most supreme beholder of beings. The objects of their desire, i. e. objects which are loved or sought after, or approached, or thought about, or aimed at. They rejoice with waters. Where these seven seers, i.e. luminaries. Beyond them is the sun. In him (the sun) they (the luminaries) become one. T*his is with reference to the deity.
+VisVakarman is of a penetrating mind, pervading, creator, disposer, and the most supreme beholder of beings. The objects of their desire, i. e. objects which are loved or sought after, or approached, or thought about, or aimed at. They rejoice with waters. Where these seven seers, i.e. luminaries. Beyond them is the sun. In him (the sun) they (the luminaries) become one. T*his is with reference to the deity.
 
-  Now with reference to the soul.
+Now with reference to the soul.
 
-  VisVakarman is of a penetrating mind, pervading, creator, and disposer, and the most supreme nianifester of the senses. The objects of worship of these (senses), i.e. objects desired, or sought after, or approached, or thought about, or aimed at. They rejoice together with food. Where these seven seers, i. e. the senses. Beyond them is the soul. In him (the soul) they (senses) become one. This expounds the course of the life of the soul.2 With reference to it they relate a legend. VisVakarman, the son of Bhuv ana, sacrificed all beings in a universal sacrificed He sacrificed even him self in the end. This is indicated by the following stanza. Who sacrificed all these created beings.4 The following stanza explains it still more explicitly.
+VisVakarman is of a penetrating mind, pervading, creator, and disposer, and the most supreme nianifester of the senses. The objects of worship of these (senses), i.e. objects desired, or sought after, or approached, or thought about, or aimed at. They rejoice together with food. Where these seven seers, i. e. the senses. Beyond them is the soul. In him (the soul) they (senses) become one. This expounds the course of the life of the soul.2 With reference to it they relate a legend. VisVakarman, the son of Bhuv ana, sacrificed all beings in a universal sacrificed He sacrificed even him self in the end. This is indicated by the following stanza. Who sacrificed all these created beings.4 The following stanza explains it still more explicitly.
 
-  (Here ends tJie twenty-sixth section.)
+(Here ends tJie twenty-sixth section.)
 
-  VisVakarman, growing with oblations, thyself sacrifice earth and heaven. On both sides let other men be stupified. Here may Indra be our inciter.6
+VisVakarman, growing with oblations, thyself sacrifice earth and heaven. On both sides let other men be stupified. Here may Indra be our inciter.6
 
-  1 x. 82. 2. efficacious. Cf. 6fi. xiii. 7.1.1: Ah, I will 2 The manuscripts of the longer recension sacrifice myself in created beings, and read etasmin, while those of the shorter read created beings in myself. Then, having usmin. I prefer the latter to the former, because sacrificed himself in all created beings and a comparison of the adhi-daivata and adhy-aima created beings in himself, he acquired supe- explanation of the stanza shows that Yaska riority, sovereignty, and overlordship over all intends to bring about a contrast between created beings. Likewise, a man having his two interpretations. For this reason he sacrificed all oblations and all created beings uses tesam, etdni, tebhyah, and etasmin in the in a universal sacrifice, acquires superiority, former, and etam, imam, ebhyah in the latter. sovereignty, and overlordship.' Cf. also The corresponding word for etasmin is there- Manu, xii. 91 ; Is"a. U. 6 ; AP. i. 23. 1 ; Muir, fore osmfn, hence I conclude that the reading op. ctt., vol. v, p. 372.
+1 x. 82. 2. efficacious. Cf. 6fi. xiii. 7.1.1: Ah, I will 2 The manuscripts of the longer recension sacrifice myself in created beings, and read etasmin, while those of the shorter read created beings in myself. Then, having usmin. I prefer the latter to the former, because sacrificed himself in all created beings and a comparison of the adhi-daivata and adhy-aima created beings in himself, he acquired supe- explanation of the stanza shows that Yaska riority, sovereignty, and overlordship over all intends to bring about a contrast between created beings. Likewise, a man having his two interpretations. For this reason he sacrificed all oblations and all created beings uses tesam, etdni, tebhyah, and etasmin in the in a universal sacrifice, acquires superiority, former, and etam, imam, ebhyah in the latter. sovereignty, and overlordship.' Cf. also The corresponding word for etasmin is there- Manu, xii. 91 ; Is"a. U. 6 ; AP. i. 23. 1 ; Muir, fore osmfn, hence I conclude that the reading op. ctt., vol. v, p. 372.
 
-  of the shorter recension is the correct one. 4 z. 81. 1 ; VS. 17. 17. 8 Universal sacrifice is regarded as very z. 81. 6; SV. 2. 939; VS. 17. 22.
+of the shorter recension is the correct one. 4 z. 81. 1 ; VS. 17. 17. 8 Universal sacrifice is regarded as very z. 81. 6; SV. 2. 939; VS. 17. 22.
 
 [^10]:. 3o] TARKSYA 163
 
@@ -4684,12 +4953,14 @@ Let us, here, invoke Tarksya, who is rich in food, incited by gods, mighty, impe
 (Let us invoke) him who is exceedingly rich in food. Juti signifies motion or pleasure ; deva-jutam therefore means one who is incited by the gods, or pleased by them. Endowed with might, transporter of chariots, the felly of whose wheel is uninjured and who is victorious in battles. Let us be quick and here invoke Tarksya for our welfare. What god other than the atmospheric would the seer have thus addreSvsed ?a The following stanza is addressed to him.
 
 (Here ends the twenty-eighth section.)
+### 
 
 Who even spread, with his might, the five tribes in a moment, as the sun, with his light, does the waters. A hundredfold, a thousandfold in his speed. Like a hurled javelin, they cannot keep him back.4 Who also spreads five human tribes, in a moment, with his might, i. e. strength, as the sun does the waters with his light. His motion gains a hundredfold, a thousandfold speed. Like a discharged arrow made of reeds, they cannot keep him back.
 
 Manyur> (auger) is derived from (the verb) man, meaning to shine, or to be angry, [or to slay] : arrows shine through anger. The following stanza is addressed to him.
 
 (Here ends the twenty-ninth section.)
+### 
 
 Accompanied by thee on the. same chariot, O Manyu, let our heroes, demolishing, making hairs stand on their end, unassailable, swift like Maruts, having pointed arrows, sharpening their weapons, fire-incarnate rush forth towards the (enemy).
 
@@ -4704,6 +4975,7 @@ Having mounted the same chariot with thee, Manyu, let our heroes, demolishing, c
 Dadhikrd has been explained.1 The following stanza is addressed to him.
 
 (Here ends the thirtieth section.)
+### 
 
 Dadhikra spread out the five tribes with might as the sun the waters with his light. Thousand-gaining, hundred-gaining is the swift courser. May he commingle these speeches with honey.2
 
@@ -4712,12 +4984,14 @@ Dadhikra spreads out water [with might] with strength as the sun the five human 
 Savitr'A (is so called because) he is the stimulator of all. The following stanza is addressed to him.
 
 (Here ends the thirty-first section.)
+### 
 
 Savitr has fixed the earth with supports ; Savitr has fastened heaven in unsupported space ; Savitr has milked the atmosphere, shaking itself like a horse, and the ocean bound in illimitable space.4
 
 Savitr caused the earth to be fastened with supports. In the support less atmosphere Savitr has made the heaven firm. Savitr has milked the cloud fastened in the atmosphere, i. e. fastened in the illimitable space, or fastened in space which does not move quickly, or hasten, i. e. (the cloud) which moistens, shaking5 itself like a horse. What other god than the atmospheric one would the seer have thus described ? The sun is called Savitr also. He is so praised in the Hlranyastupd hymn.6 The seer Hir anyastupa proclaimed this hymn in the act of worship. This is indicated by the following stanza.
 
 (Here ends the thirty-second section.)
+### 
 
 [^1]: See 2. 27. Cf. Professor Macdonell, op. ct7.,' shaking ', and also by Roth, op. cit., p. 143. p. 148. But in his famous lexicon he attributes to it 2j v 28. 10. the meaning ' sounding ', which is adopted 3 Cf. Professor Macdonell. op. cit., p. 82. both by Muir, op. 7., vol. iv, pp. 110-11, and 4 x< 179. i. Max Miiller.
 
@@ -4730,6 +5004,7 @@ Like Angirasa Hiranyastupa, I invite thee, O Savitr, to this sacrificialfood. Th
 Golden tuft of hair : a tuft of hair made of gold or one having a goldentuft of hair. Stupa (tuft of hair) is derived from the verb styai (to becollected into a heap), i. e. a collection. O Savitr, like Angirasa, I invitethee to this sacrifice, i. e. sacrificial food. Thus worshipping, bowing beforethee for protection, I keep watch as for a stalk of soma. Tvastr has been explained.2 The following stanza is addressed to him.
 
 (Here ends the thirty-third section.)
+### 
 
 The divine stimulator, multiform Tvastr, generated and nourishedmanifold mankind. All these created beings and the great divinity ofthe gods are solely his.:i
 
@@ -4740,12 +5015,14 @@ letter (v) elided.
 Vata 4 (wind) is (so called) because he blows (vdti). The following stanzais addressed to him.
 
 (Here ends the thirty-fourth section.)
+### 
 
 May Vata blow towards us what is healing, full of happiness and com fort for our heart. He shall prolong our lives.5
 
 May Vata blow towards us the healing medicines and what is fullof happiness and comfort for our heart. And may he prolong our life. Agni has been 6 explained. The following stanza is addressed tohim.
 
 (Here ends the thirty-fifth section.)
+### 
 
 Thou art invited to this beautiful sacrifice for the drinking of soma.Come, Agni, with the Maruts.7
 
@@ -4760,14 +5037,17 @@ s iii. 65. 19 ; AV. 18. 1. 5. 'i. 19. 1 ; SV. 1. 16.
 As such, O Agni, come together with the Maruts. What god other than the atmospheric one would the seer thus address ? The following stanza is addressed to him.
 
 (Here ends the thirty-sixth section.)
+### 
 
 I prepare the sweet mead for thee to drink first. Come, O Agni, with the Maruts.1
 
 I prepare the sweet mead, i. e. made of soma, for thee to drink first, i. e. to partake of first. As such, O Agni, come together with the Maruts. (Here ends the thirty-seventh section.)
+### 
 
 Vena is derived from (the root) veu, meaning to long for. The following stanza is addivssed to him.
 
 (Here ends the thirty-eighth section.)
+### 
 
 This Vena impels them who are in the womb of the variegated one. Light is the chorion in measuring the region of vapours. At the contact of waters and the sun, the wise kiss him with thoughts like an infant.2
 
@@ -4778,6 +5058,7 @@ the external membrane. At the coming together of waters and the sun, wise men ki
 Asu-ntti is (so called because) it carries breath away (asun nayati). The following stanza is addressed to it.
 
 (Here ends the thirty-ninth section.)
+### 
 
 O Asumti, support the mind with us for the continuation of life, prolong well our age. Make us happy in the sight of the sun, do thou increase our body with clarified butter.4 O Asumti, support the mind within us for a longer life. And prolong
 
@@ -4790,6 +5071,7 @@ We will not be subjected to the foe, O King Soma! 5 This too is
 [^2]: x. 123. 1 ; VS. 7. 16. 6 x. 128. 5 ; AV. 5. 3. 7.10. 42] INDU 167 a Vedic quotation. Do thou increase the self, i. e. the body, with clarified butter.       
 
 Rtah has been explained.1 The following stanza is addressed to him. (Here ends the fortieth section.)
+### 
 
 Of Rta, indeed, are the earlier invigorating draughts. Contemplation of Rta kills vices. The call of Rta awakening and illuminating, pierced even the deaf ears of the living being.2
 
@@ -4798,6 +5080,7 @@ Of Rta, indeed, are the earlier invigorating draughts. Consciousness of Rta kill
 Indu is derived from (the verb) indh (to kindle) or from ud (to moisten). The following stanza is addressed to him.
 
 (Here ends the forty-first section.)
+### 
 
 May I proclaim that to the auspicious Indu who, like one to be invoked, is vigorous. He stirs prayer ; the slayer of demons stirs prayer. Mayhe himself drive away from us the mockery of the scoffer with slaughter. May the wicked drop down, lower and lower, like some insignificant thing, may he drop down.3
 
@@ -4822,18 +5105,21 @@ O Prajapati, no one except thyself did encompass all these created things. With 
 O Prajapati, no one, indeed, other than thyself encompassed all those created things. With whatever desire we sacrifice to thee, let that be ours. May we be lords of treasures : (this) is a benediction.
 
 Ahi has been explained.11 The following stanza is addressed to him. (Here ends the forty-third section.)
+### 
 
 With hymns thou singest (the praise) of Ahi, born in the waters, sitting in the lowest part of the rivers, in vapours.4
 
 With hymns thou singest (the praise) of Ahi, born in waters, sitting in the lowest part of the rivers, in vapours, [in waters]. Budhnam means atmosphere : waters are held bound in it ; the other word budhnam (body) is derived from the same root also, i. e. breath is held bound in it. He, who is Ahi, is budhnya, i. e. a dweller in atmosphere, budhnam meaning atmosphere. The following stanza is addreased to him.
 
 (Here ends the forty-fourth section.)
+### 
 
 May Ahi who dwells in the atmosphere not put us to hurt. Maythe sacrifice of this man, the lover of sacred rites, never fail.5 May Ahi who dwells in the atmosphere not put us to injury. Mayhis sacrifice never fail, i. e. of the lover of sacrifice.
 
 bu-parna (having beautiful wings) has been explained. The following stanza is addressed to him.
 
 (Here ends the forty-fifth section.)
+### 
 
 One had beautiful wings, he has entered the ocean, he beholds this entire universe. With a pure mind I saw him from near, him the mother kisses and he kisses the another.7
 
@@ -4854,12 +5140,14 @@ On his being born, the goers (giidh) sat together and the rivers flowingby thems
 (Here etuis tJte forty-seventh section.)
 
 ## 
+### 
 
 CHAPTER XI
 
 Syemi (falcon) has been explained.3 The following stanza is addressedto him.
 
 (Here ends the first section.)
+### 
 
 Having seized soma, the falcon bore a thousand, ten thousand libationstogether. Here, in the enjoyment of soma, the bountiful left the illiberal behind, and the wise the dull-witted man.4
 
@@ -4878,10 +5166,12 @@ Soma is a plant : the word is derived from (the root) su (to press) : it is pres
 ing stanza).
 
 (Here ends the second section.)
+### 
 
 Be pure with thy sweetest and most gladdening stream. soma, thou art pressed for Indra to drink.1       
 
 The stanza is explained by the mere reading of it. Now here is another stanza addressed to him or to the moon, as follows. (Here ends the third section.)
+### 
 
 Because they grind the herbs together, one thinks that he has drunk the soma. Of the soma which the Brahmanas know, none whatsoever partakes.2 The hemistich,' Because they grind the herbs together, one thinks that he has drunk the soma ', refers to the uselessly-pressed soma, which is not soma at all. Of the soma which the Brahmanas know, none whatsoever, i. e. no one who does not offer sacrifice, can partake. This is with reference
 
@@ -4892,6 +5182,7 @@ Now with reference to the deity. The hemistich, ' Because they grind the herbs t
 one who is not a god, can partake.
 
 The following, another stanza, is addressed to him, or to the moon. (Here ends the fourth section.)
+### 
 
 O god, when they drink thee, forth thenceforward thou thrivest again. Wind is the protector of soma ; the month is the maker of years. O god, when they begin to drink thee, forth thenceforward thou again thrivest ; this refers to some particular libations, or to the first and second fortnights of the lunar month. Wind is the protector of soma. The seer calls wind its protector on account of companionship or extracting the juice.4
 
@@ -4904,6 +5195,7 @@ The month is the maker of years, of annual periods, i. e. the plant soma on acco
 It roams about beautifully, or it roams about for a long time. Or the former part of the word (candramas) is derived from (the verb) cam (to drink). Cam (bright) is derived from (the verb) rue (to shine) reversed. The following stanza is addressed to him.
 
 (Here ends the fifth section.)
+### 
 
 When he is born, he is ever new, the banner of day he goes before dawns. Approaching he distributes their share among the gods ; the moon extends farther long life.1 When he is born he is ever new to the beginning of the first fortnight. * The banner of days he goes before dawns ' refers to the end of the second
 
@@ -4912,12 +5204,14 @@ fortnight.
 According to some the second verse has the sun as its deity.' Approach ing he distributes their share to the gods' refers to the half-monthly obla tion of clarified butter. The moon farther extends long life.
 
 Mrtyu (death) is (so called) because he makes people die. 'He is (so called because) he causes the dead to be removed/ says atabalaksa, the son of Mudgala. The following stanza is addressedto him. (Here ends the sixth section.)
+### 
 
 Away, O Death, depart along the path that is thine own, but different from the road of the gods. I speak to thee, who hast eyes and possessest the power of hearing. Do not injure our children, nor our heroes.2
 
 Away, O Death, certainly, O Death, certainly depart, Death, with this it is declared, O Death, the dead is for him who causes him to be removed, O Death. It is derived from (the verb) mad or from mud. The following stanza is addressed to them.
 
 (Here ends the seventh section*)
+### 
 
 Here is the impetuous meeting of the two mighty ones. O Indra and Visnu, the drinker of the pressed soma-juice avoids you. You two turn aside that which is directed towards mortal man, aye, the dart of the archer Krs"anu.3
 
@@ -4926,6 +5220,7 @@ The stanza is explained by the mere reading of it.
 Vi&vanara has been explained.4 The following stanza is addressed to him.
 
 (Here ends the eighth section.)
+### 
 
 [^1]: x. 86. 19 ; cf. AV. 7. 81. 2. commentary on x. 18. 1 in the 7th section is * x. 18. 1 ; AV. 12. 2. 21 ; VS. 86. 7. omitted by Durga ; cf. Roth, op. cit., p. 147. 8i. 156. 2. The stanza together with the See 7. 21.
 
@@ -4938,12 +5233,14 @@ Honour [you] , with praise, the great god, giver of sacrificial food, whois bein
 The following, another stanza, is addressed to him.
 
 (Here ends the ninth section.)
+### 
 
 Vidvanara the divine stimulator has lifted up the all-impelling immortallight.2
 
 The meaning is that Visvanara, the god who stimulates, has lifted upthe all-impelling immortal light.
 
 Dhatr :J is the creator of all. The following stanza is addressed to him. (Here ends the tenth section.)
+### 
 
 May Dhatr give uninjured life extending to the sacrificer. We meditate on the goodwill of the god whose l$ws are true.4
 
@@ -4968,16 +5265,19 @@ x. 60. 1. s Cf. Professor Macdonell, op. tit., p. 115. vii. 76. 1 ; cf. Brh. D. 
 Kalih and kaldh are both derived from (the root) kf (to scatter) : their measures are scattered.
 
 (Here ends the twelfth section.)
+### 
 
 Now therefore (we shall deal with) the groups of atmospheric deities. Of these, the Maruts 1 come first. Ma-rutah, of measured sound (</mi+ VW), or of measured brilliancy (</mi + Jruc), or they run very much (mahad + dru). The following stanza is addressed to them.
 
 (Here ends the thirteenth section.)
+### 
 
 Come, O Maruts, with chariots charged with lightning, of good speed, furnished with spears and having horses as their wings. Fly to us like birds, O ye that have wise counsel, with the most wholesome food.2 O Maruts, with (chariots) charged with lightning. Of good speed, i.e. that turn well, or praise well, or shine well. Come with chariots furnished with spears. Having horses as their wings, as the means of flying. Fly to us like birds with the most wholesome food. Having
 
 wise counsel : whose works are blessed or whose wisdom is blessed. Rudras have been explained.3 The following stanza is addressed to them.
 
 (Here ends the fourteenth section.)
+### 
 
 Come, Rudras, accompanied by Indra, of one accord, riding in golden chariots for prosperity. This thought from us longs for you, (come) like springs from heaven for one who seeks water in the hot season.4
 
@@ -4986,6 +5286,7 @@ Come, O Rudras, with Indra, accordant for the action of bringing prosperity. Thi
 (to moisten).
 
 R-bftavah are (so called because) they shine widely (uru+ ^bhd), or they shine with sacred rite (rta + </bha)~ or they live with sacred rite (rta + */bhu).G The following stanza is addressed to them. (Here ends the fifteenth section.}
+### 
 
 Having performed laborious works with zeal," insti tutors of sacrifice, being mortals, they attained immortality. The Rbhus, sons of Sudhanvan,
 
@@ -5008,6 +5309,7 @@ The unconcealable one is the sun, (so called because) he cannot be con cealed. B
 Angirasas have been explained.4 The following stanza is addressed to them.
 
 (Here ends the sixteenth section.)
+### 
 
 These seers are indeed multiform, moreover they are inscrutable. They are sons of Arigiras ; they were born of Agni.5
 
@@ -5016,6 +5318,7 @@ These seers have many forms. Their actions are inscrutable, or their wisdom is p
 The Manes have been explained.6 The following stanza is addressed to them.
 
 (Here ends the seventeenth section.)
+### 
 
 Let the lower manes who press soma, go upwards, up the higher ones, and up the middle ones. May the manes who followed breath, who are harmless, and who know the sacred rites, come to us at our invocations.7
 
@@ -5030,10 +5333,12 @@ Let the lower manes ^o upwards, let the higher manes go upwards, let the middle 
 atmospheric deity,1 the manes are therefore regarded as atmospheric deities also. Angirasas have been explained.2 Manes have been explained.3 Bhrgus have been explained.4 Atharvdwts,5i. e. motionless the verb tharv means * to move ', its negation i. e. who are without motion. The follow- ing stanza is addressed to them in common.
 
 (Here ends the eighteenth section.)
+### 
 
 Angirasas and our manes of ninefold gaits, Atharvanas and Bhrgus, the soma-pressers : may we be in the goodwill of those holy ones, in the blessed favour of their minds.6
 
 Angirasas and our manes of nine gaits, i.e. whose ways of going lead in nine directions. Atharvanas and Bhrgus, the soma-pressers, i. e. who prepare the soma-juice. May we be in the goodwill, in the blessed will of the holy ones, in the auspicious, excellent, generous, or blessed favour of their minds. ' This refers to a group of atmospheric deities,' say the etymologists. ' They are manes/ says the tradition. Moreover, seers are praised. (Here ends the nineteenth section.)
+### 
 
 Their splendour is dazzling like that of the sun, their greatness is unfathomed like that of the ocean, their speed is like that of the wind. Your hymn, O Vasisthas, cannot be imitated by any other. 7 This is the
 
@@ -5048,6 +5353,7 @@ Praiseworthy, multiform, great, most supreme lord, worthy of being obtained amon
 Worthy of praise, of many forms, very wide, most supreme master, worthy of being obtained of those who should be obtained, who tears to pieces the seven givers or the seven gift-makers with his strength ; who overpowers many adversaries. The verb sdkx means to obtain.
 
 (Here ends the twenty-first section.)
+### 
 
 [^1]: Cf. Professor Macdonell, op. c<7., p. 171. 2 See 8. 17 ; cf. Professor Macdonell, op. Ht., p. 142.
 
@@ -5066,6 +5372,7 @@ Cf. Professor Macdonell, op. ctt., p. 67. x. 120. ; AV. 20. 107. 9.
 Now, therefore, (we shall deal with) the groups of atmospheric goddesses. Of these Aditi 2 comes first. Aditi has been explained.1 The following stanza is addressed to her.
 
 (Here ends the twenty-second section.}
+### 
 
 At the birth and ordinance of Daksa, thou attendest, Aditi, on the two kings Mitra and Varuna. In births of diverse forms, Aryaman of the seven priests and rich in chariots has his path unobstructed.2 O Aditi, thou attendest on two kings, Mitra and Varuna, at the birth and the ordinance, i. e. action, of Daksa. The verb vivasti is used in the sense of attending. Rich in obligations, he attends ujwn (gods).3 Or it is
 
@@ -5076,6 +5383,7 @@ They say that Daksa is a son of Aditi and is praised among the sons of Aditi. Bu
 Daksa was born from Aditi, and Aditi sprang into life from Daksa.8 This (is the text) also.9 How can this be possible ? (We reply) they may have 'had the same origin, or, in accordance with the nature of gods, they may have been born from each other, or they may have derived their characteristics from each other.10 Agni is called Aditi also. The following stanza is addressed to him.
 
 (Here ends the tiventy-tkird section.)
+### 
 
 May we be those to whom, O Aditi, mistress of noble wealth, thou wilt grant perfect innocence, and whom thou wilt impel with blessed strength, and food rich in offspring.11 O Aditi, mistress of noble wealth, (may we be they) to whom thou givest innocence, i. e. faultlessness, in the entire sphere of action. Agas is
 
@@ -5090,18 +5398,21 @@ And whom thou impellest with blessed strength, i. e. vigour, and goods, [wealth]
 Sarama is (so called) from moving (-/?'). The following stanza is addressed to her.
 
 (Here ends the twenty-fourth section.)
+### 
 
 With what desire has Sarama attained this place ? The road leads far off to distant regions. What is the errand for us ? what was the night ? and how hast thou crossed the waters of the Rasa ?l With what desire has Sarama come here? The road is distant. Jagurih (leading) is derived from the intensive form of the verb gam (to go). (Far off), i. e. winding with curves. What was the errand with regard to us ? what night ? Paritakmya, means night, (so called) because takma surrounds it on both sides. Takma is a synonym of heat, (so called) because it goes away ( Vtak). How hast thou crossed the waters of the Rasa ? Rasa, a river, is derived from (the verb) ras, meaning to make a sound. Or else how (hast thou crossed) those roaring waters ? There is a legend that the bitch of the gods, sent forth by Indra, conversed with the demons called Panis.
 
 Sarasvatl has been explained.2 The following stanza is addressed to her.
 
 [Here ends the twenty-fifth section.)
+### 
 
 May Sarasvatl, who purifies, who possesses large stores of food, and who is rich in devotion, like our sacrifice.3
 
 May Sarasvatl, our purifier, having abundant stores of food, and rich in devotion, i. e. in acts of worship, like the sacrifice.4 The following, another stanza, is addressed to her.
 
 (Here ends the tiventy-sixth section.)
+### 
 
 With her banner Sarasvatl makes the great ocean manifest. She presides over all devotions.5
 
@@ -5110,6 +5421,7 @@ With her banner, i.e. with her activity or wisdom, Sarasvatl makes the great oce
 Speech has been explained.6 The following stanza is addressed to her.
 
 (Here ends the faventy-seventh section.)
+### 
 
 [^1]: x. 108. 1 ; cf. Brh. D. viii. 26. 4 Durga explains it as may she carry the 2 See 2. 23. sacrifice to the gods .
 
@@ -5122,6 +5434,7 @@ When Vac, speaking unknown words, sat down as the charming queen of the gods, th
 goes to the earth or that which is taken away by the rays of the sun. The following, another stanza, is addressed to her.
 
 (Here ends the twenty-eighth section.)
+### 
 
 The gods generated divine speech. Animals of all shapes speak it. May that charming milch cow, in the form of speech bestowing on us strength giving food, easily approach us.6
 
@@ -5130,10 +5443,12 @@ The gods generated the goddess Vac.6 Animals of all shapes speak it, i. e. anima
 'Anumati and Raka are two wives of gods,' say the etymologists. ' They are the days of full moon,' say the ritualists. It is known : that which is the earlier day of full moon is Anumati, that which is later is Raka.7
 
 Anumati (approbation) is (so called) on account of approving (anu + Vman). The following stanza is addressed to her. (Here ends the twenty-ninth section.} &
+### 
 
 O Anumati, do thou approve of it and bring peace to us. Impel us for expert judgement, prolong our lives.8 Do thou approve, O Anumati, and bring happiness to us. Bestow food on our offspring and prolong our lives. Edka is derived from (the verb) ra, meaning to give. The following stanza is addressed to her.
 
 (Here ends the thirtieth section.)
+### 
 
 With noble praise I call upon Raka of noble invocations. Let the blessed one hear us and wake up herself. With unbreakable needle let her sew the work. May she give us a hero worthy of a hundredfold praise.9
 
@@ -5150,8 +5465,10 @@ With excellent praise, I invoke Raka, to whom excellent invocations are addresse
 Sinl-vdli : sinam means food : it makes created beings strong (sindti)'t vdlam means a particular period, and is derived from (the verb) vr (to cover) i.e. rich in food in that period, or hairy. Or it is (so called) because the moon being very minute during this period is to be attended,
 
 as it were, with a hair. The following stanza is addressed to her. (Here ends the thirty-first section.)
+### 
 
 broad-hipped Sinivali, thou who art the sister of the gods, enjoy this oblation which is offered to thee, and grant, goddess, offspring to us.2 Sinivali, having broad thighs. Stuka, (thigh or tuft of hair), derived from (the verb) styai (to be heaped together), means a heap, i. e. having a large tuft of hair, or praise. Thou art the sister of the gods. Svasd (sister) = su -f- asd, i. e. she who sits (sidati) among her own people (svesu). Enjoy this oblation, i. e. food. O goddess, grant us offspring. Kuhu is derived from the verb guh (to conceal). Or (it is said) where has she been ? Or at what place is she invoked ? Or where does she sacrifice the offered oblation ? The following stanza is addressed to her. (Here ends the thirty-second section.)
+### 
 
 [^1]: invoke again and again Kuhu of noble actions and invocations, who knows her work, in this sacrifice. May she give us the glory of our manes: as such, goddess, we worship thee with oblation.3
 
@@ -5168,8 +5485,10 @@ Yarn! has been explained.4 The following stanza is addressed to her. (ffere ends
 (Embrace) another, O Yam!, another shall embrace thee as a creeper a tree. Do thou seek his heart and he thine, with him make the blessed contract. 1
 
 Indeed, Yami, thou wilt embrace some one else and he thee, as a creeper does a tree. Do thou seek his heart and let him seek thine. With him make the blessed contract, i. e. blessed and auspicious. Yarn! loved Yamawho repulsed her, such is the legend. (Here ends the thirty-fourth section.)
+### 
 
 Urvasi has been explained.2 The following stanza is addressed to her. (Here ends the thirty-fifth section.
+### 
 
 Who shone like a flash of lightning bearing to me the desired watery (gifts). From the waters has been born a noble and strong hero. Urvasi extends long life. :j Who shone like a flash of lightning bringing to me the desired watery (gifts), i. e. waters of the world of the atmosphere. When (this takes place)
 
@@ -5178,6 +5497,7 @@ then certainly is born from the waters this lord, strong hero, i. e. man, or who
 Prthivi (earth) has been explained.4 The following stanza is addressed to her.
 
 (Here ends the thirty-sixth section.} .
+### 
 
 There indeed, O earth, thou bearest the instrument of splitting the mountains, O great one, and abounding in heights, thou quickenest the earth with thy might.5
 
@@ -5186,6 +5506,7 @@ Truly thou boldest, O earth, the instrument of splitting, of rending, [of tearin
 greatness.
 
 Indrani is the wife of Indra. The following stanza is addressed to her. (Here ends the thirty-seventh section.}
+### 
 
 I have heard the wife of Indra to be the most fortunate among these women. Like others, her husband never dies from old age. Indra is supreme over all.6
 
@@ -5200,22 +5521,26 @@ p. 134. c x. 86. 11 ; AV. 20. 126. 11. For the x. 95. 10. refrain cf. Deutschlan
 I have heard the wife of Indra to be the most fo-tunate among these women. Never, indeed, does her husband die from o age even in extreme years. We say this to Indra, who is supreme ove, all. The following, another stanza, is addressed to her.
 
 (Here ends the thirty-eighth section.)
+### 
 
 I never rejoice, O Indrani, without my friend Vrsakapi, whose watery and dear oblation here goes to the gods. Indra is supreme over all.1 O Indrani, I never enjoy myself without my friend Vrsakapi, whose watery oblation, i.e. cooked in water, or seasoned with water, which is pleasant, now goes to the gods. We say this to Indra, who is supreme over all.
 
 Gauri is derived from (the verb) rue, meaning to shine. This other word gaura, which means white colour, is derived from the same root also : it is praiseworthy. The following stanza is addressed to her. (Here ends the thirty-ninth section.]
+### 
 
 Fashioning waters Gauri lowed, one-footed, two-footed, aye, four-footed, eight-footed, nine-footed, and having become thousand-syllabled in the highest heaven.2
 
 Fashioning, creating waters Gauri lowed. One-footed with the middle (air). Two-footed, with the middle (air) and the sun. Four-footed, with the quarters. Eight-footed, with the quarters and intermediate quarters. Nine-footed,with the quarters, intermediate quarters, and the sun. Thousand syllabled, i. e. having much water in the highest heaven. The following, another stanza, is addressed to her.
 
 (Here ends the fortieth section.)
+### 
 
 Oceans flow down from her, thereby the four quarters subsist. Thence flows the imperishable ; on that the. entire universe lives.3
 
 Oceans flow down from her, i.e. the clouds pour rain, and all the created beings, dependent on the quarters, live thereby. Thence flows the imperishable water ; on that all created beings live.
 
 Gauh has been explained.4 The following stanza is addressed to her. (Here ends the forty-first section.)
+### 
 
 The cow lowed after the blinking calf. On its forehead she made the sound hin for recognition. Longing for the flow of the warm milk-stream, she utters a lowing sound and swells with milk.6
 
@@ -5228,16 +5553,19 @@ The cow lowed after the calf, who blinks, or who does not blink, i. e. the sun. 
 i.^ejbhe sun. This is the atmospheric speech.' This is the giver of warm milk/ say the ritualists. Dhenu (milch cow) is derived from (the root) dhe (to suck), or from dhi (to nourish). The following stanza is addressed to her.
 
 (Here ends the forty-second section.)
+### 
 
 I call upon this milch cow which is easy to milk. The deft-handed cow herd shall milk her. Savitr shall generate the best stimulation. I will well proclaim the heat kindled around us.2
 
 I call upon this milch cow which is milked easily, and the cow-milker of blessed hand milks her. May Savitr produce the be$t stimulation for us. This, indeed, is the best of all stimulations, the water or milk which is prepared with a yajus formula.
 
 Fire is kindled all around, I will proclaim it well. This is the atmo spheric speech.' This is the giver of warm milk,' say the ritualists. AghnyoL (cow) is (so called because) she is not to be killed, (a+ Vhan), or she is the destroyer of sin. The following stanza is addressed to her. (Here ends the forty-third section.)
+### 
 
 Be indeed fortunate with good pasturerhence may we also be fortunate. Eat grass, O cow, and always drink limpid water while wandering.3 Be fortunate indeed as eating good pasture. Hence may we now be fortunate. Eat grass, O cow ! Always drink limpid water while wandering. The following, another stanza, is addressed to her.
 
 (Here ends the forty-fourth section.)
+### 
 
 Making the kin sound, the treasure queen, desiring the calf of treasures with her mind, has approached. Let this cow yield milk for the two AsVins, and may she grow for greater prosperity.4
 
@@ -5248,6 +5576,7 @@ Pathyd means fortune, (so called because) it dwells in the atmosphere the word p
 The following stanza is addressed to it.
 
 (Here ends the forty-fifth section.)
+### 
 
 [^1]: According to Durga, the oozing ', &c., is 8i. 164. 40 ; AV. 7. 78. 11 ; 9. 10. 20. the flow of rain and the evaporation of water. < 164. 27 ; AV. 7. 78. 8 ; 9. 10. 5. 2i. 164. 26 ; AV. 7. 78. 7 ; 9. 10. 4.
 
@@ -5260,6 +5589,7 @@ Fortune is indeed best in the distant atmosphere. She comes abounding in wealth 
 Usas (dawn) has been explained.2 The following stanza is addressed to her.
 
 (Here ends the forty-sixth section.)
+### 
 
 Being afraid, Usas has fled from the shattered car/because the strong bull has struck it down.3
 
@@ -5268,12 +5598,14 @@ Being afraid, Usas has fled from the shattered car, i. e. the cloud. Anas means 
 Cloud is called anas from the same verb also. Because the strong bull, the rainer, i. e. the atmospheric god, has struck it down. The following, another stanza, is addressed to her.
 
 (Here ends the forty-seventh section.)
+### 
 
 Here lies her car, shattered and all broken into pieces. She has fled afar.5
 
 Here lies her car, shattered in such a manner as if it were a different car altogether. Broken into pieces, i.e. without a single connected piece. Dawn has fled afar, being pushed out, or being pursued.
 
 lid has been explained.6 The following stanza is addressed to her. (Here ends the forty-eighth section.)
+### 
 
 May Ila, the mother of the herd, or Urvas*! praise us with the rivers. May Urvas'i, praising with the mighty heaven, and concealing the prepared thing of the living man, accompany us for the increase of the strength giving portion.7
 
@@ -5288,16 +5620,20 @@ May Ila, the mother of the herd, or Urvas*! praise us with the rivers. May Urvas
 May Ila, the mother of the herd [the mother of all], or Urvasl with rivers praise us. Or may Urvasi, praising with the mighty heaven, i. e. the great heaven, arid concealing the prepared thing, i. e. the ready-made thing of the living being, [of the man.] of light, or of water, attend to the increase of our food.
 
 Rodasi is the wife of Rudra.1 The following stanza is addressed to her. (Here ends the forty-ninth section.)
+### 
 
 We invoke indeed the glorious chariot of the Maruts, wherein has stood Rodasi, bearing delightful things, in the company of the Maruts.2 We invoke the swift, the famous chariot of the Maruts, i. e. the cloud, wherein has stood Rodasi bearing the delightful waters, in the company of, i. e. together with, the Maruts.
 
 (Here ends the fiftieth section.)
+### 
 
 ## 
+### 
 
 CHAPTER XII
 
 Now, therefore, (we shall deal with) the celestial deities. Of these, the A6vins come first. The- AsVins 3 are (so called) because they two pervade (Vas) everything, one with moisture, the other with light.' They are called A4vins on account of their having horses (asva),' says Aurnavabha.4 Whothen are the AsVins ? According to some they are heaven and earth ; 5 day and night, according to others, Some take them to be the sun and the moon, (while) the historians regard them as two virtuous kings. Their time is after midnight, which, in consequence, is an impediment to the appearance of light. The part in the dark is the atmosphere, and the part in the light is the sun. The following stanza is addressed to them. (Here ends the first section.)
+### 
 
 [^1]: Cf. Sayana on i. 167. 4 : Some say that 2 v. 56. 8.
 
@@ -5316,6 +5652,7 @@ You wandered like two black clouds during the nights. O As*vins, when was it tha
 The stanza is explained by the mere reading of it.2 It is with reference to their separate individual praise that the hemistich is addressed to the two AsVins, who are mostly praised conjointly, and whose time and functions are identical. One is called the son of night, the other son of dawn. The following, another stanza, is addressed to them.
 
 (Here ends the second section.)
+### 
 
 Born here and there, they are conjointly praised with reference to their own names and a spotless body. One of you is the victor, the promoter of noble sacrifice ; the other is regarded as the blessed son of heaven.3 Born here and there they two are praised together with reference to a body unstained by sin and to their own names. One of you two is the victor, the furtherer of very great strength, i. e. belonging to the middle region ; the other is considered the blessed son of heaven, i. e. the sun. The following, another stanza, is addressed to them.
 
@@ -5342,10 +5679,12 @@ Usas is derived from (the verb) v*, meaning to desire. The other usas
 (dawn) is derived from (the verb) vas (to shine), and belongs to the middle region. The following stanza is addressed to her.
 
 (Here ends the fifth section.)
+### 
 
 O Usas, abounding in food, bring to us variegated (wealth), with which we may support son and grandson.1 Usas, rich in food, bring that [variegated,] noteworthy, [respectable] wealth to us, so that we may support our sons and grandsons thereby. The following, another stanza, is addressed to her.
 
 (Here ends the sixth section.)
+### 
 
 These same dawns have raised their banners, they anoint the sun in the eastern half of the region. Like bold heroes making their weapons ready, the red mother cows proceed.2
 
@@ -5358,6 +5697,7 @@ They go forth ; the rays (gavah) -are (so called) on account of going (Vgain). T
 Surya5 is the wife of the sun. This very dawn (usas) after the expiry of a good deal of time (becomes surya). The following stanza is addressed to her.
 
 (Here ends the seventh section.)
+### 
 
 Surya, ascend this world of nectar, which is very bright, free from impurities, multiform, golden in colour, easy to turn and with beautiful wheels, in order to bring comfort to thy husband.6
 
@@ -5372,6 +5712,7 @@ thorns. Surya, ascend the world of nectar, i. e. of water. Do so, in order to br
 Vrsdkapayt is the wife of Vrsakapi. This very (Surya) after the expiry of a good deal of time (becomes Vrtf&ap&yf). The following stanza is addressed to her.
 
 (Here ends the eighth section.)
+### 
 
 Vrsakapayi, abounding in wealth, having noble sons and fair daughters-in-law, Indra shall eat thy bulls and the agreeable oblation, which can do everything. Indra is supreme over all. 2 O Vrsakapayi, abounding in wealth. Having a noble son, i. e. the atmospheric Indra. Having a fair daughter-in-law, i.e. the atmospheric
 
@@ -5408,6 +5749,7 @@ Tvastr celebrates the marriage of his daughter.
 Savitr has been explained.2 His time is that when the sky, with its darkness dispelled, is overspread by the rays of the sun. The following stanza is addressed to him.
 
 (Here ends the twelfth section.)
+### 
 
 The wise one puts on all forms. He has generated bliss for the biped and the quadruped. Noble Savitr has looked on heaven. He shines bright after the departure of dawn.3
 
@@ -5438,6 +5780,7 @@ The meaning is that the rays lift up Surya, who has all created things as his pr
 [What god other than the sun would the seer have thus addressed?] The following, another stanza, is addressed to him.
 
 (Here ends the fifteenth section.)
+### 
 
 The variegated splendour of the gods, the eye of Mitra, Yaruna, and Agni, has gone up. He has filled heaven, earth, and the intermediate space. Surya is the soul of the moving and the stationary/1
 
@@ -5462,6 +5805,7 @@ Thy one form is bright, bright-red. Thy other is holy, i. e. to which the sacrif
 Made ready with desire, he has reached the worshipful overlord of every path with speech. He shall give us invigorating draughts of spark ling surface. Pusan shall accomplish our every thought.3 Made ready with desire, he has reached, or come in contact with, the worshipful supreme overlord of every path. May he give us treasures of noteworthy surface, and may Pusan accomplish our every action. Now that which is set free becomes Visnu. Visnu 4 is derived from (the root) vis (to pervade), or from vy-as (to interpenetrate). The following stanza is addressed to him.
 
 (Here ends the eighteenth section.)
+### 
 
 Visnu strode over this (universe). Thrice he planted his foot, enveloped in dust.5
 
@@ -5476,6 +5820,7 @@ Enveloped in his [dust], i. e. the foot-print is not visible in the stormy
 atmosphere. Or it is used in a metaphorical sense, i.e. his footstep is not visible, as if enveloped in a dusty place. Pdmsavah (dust) is (so called) because it is produced (Vsu) by feet (pddaih) or else it lies scattered on the ground, or it is trodden down.
 
 (Here ends the nineteenth section.)
+### 
 
 VisVanara has been explained.1 The following is his incidental mention in a stanza addressed to Indra.
 
@@ -5492,12 +5837,14 @@ The eye with which, pure Varuna, thou seest the active sacrificer among men.4
 The word bhuranyu is a synonym of * quick '. Bhuranyu means a bird : it flies to a long distance ; it carries one to the heavenly world also. Flying together with (bird), the sacrificer is called bhuranyu also.
 
 With this perception, O purifier, thou seest the actively striving sacrificer among men. The words * we praise that eye of thine ' must be supplied. Or else the context (should be sought) in the following stanza. (Here ends the twenty-second section.)
+### 
 
 The eye with which, O pure Varuna, thou seest the active sacrificer among) men : 6
 
 with that thou reachest heaven in various ways, measuring the wide region and days with nights, and seeing many generations, O sun ! Thou reachest heaven in different directions, measuring the broad region, the mighty world, and days with aktus, i. e. nights, and seeing, Surya, many generations, i. e. creatures. Or else (the context is to be sought) in its preceding stanza.
 
 (Here ends the tiventy-third section.)
+### 
 
 [^1]: See 7. 21. 4i. 50. 6 ; AV. 13. 2. 21.
 
@@ -5514,10 +5861,12 @@ The eye with which, O pure Varuna, thou seest the active sacrificer among men : 
 Before all this [thou risest. Light is called * facing this' because it faces everything]. Thou beholdest (this).3 Or else (the context is to be sought) in the stanza itself.
 
 (Here ends the twenty-fourth section)
+### 
 
 The eye with whicli, O pure Varuna, thou seest the active sacrificer among men,4 with the same eye thou beholdest us men also. Kesi, having long hair by hair, rays are meant, i. e. endowed with rays, (so called) on account of shining (kd&), [or on account of being very bright ('pra-Vkds)]. The following stanza is addressed to him.
 
 (Here ends the twenty-fifth section.)
+### 
 
 Kes"m bears fire, Kes*in water, Kes*in heaven and earth, Kes*in this entire universe for beholding the light, Kes*in is called this light.5
 
@@ -5526,6 +5875,7 @@ Kes*in (bears) fire and water. The word visam is a synonym of water, derived fro
 Moreover, these other two lights are called Kesin (having long hair) also : (terrestrial) fire on account of the smoke, and (the atmospheric) fire on account of mist. The following stanza is addressed to them in common.
 
 (Here ends the twenty-sixth section.)
+### 
 
 Three lights (having long hair) perceive at the proper season. One of them strews in the year. One beholds the entire universe with its powers. Of one the sweep is seen, but not its shape.6
 
@@ -5540,8 +5890,10 @@ Three lights (having long hair) perceive at the proper season, i. e. they behold
 Vrsakapi, i.e. the shaker with his rays. The following stanza is addressed to him.
 
 (Here ends the twenty-seventh section.)
+### 
 
 O Vrsakapi, thou who art the destroyer of dreams, who art about to set along the path once more ; come again, we two will regulate the prosperous course. Indra is supreme over all.1 O Vrsakapi, thou who art the destroyer of dreams, i. e. the sun, by rising (in the morning), causes dreams to be destroyed. As such thou art about to set along the path once more. Come again, we two will regulate the well-stimulated actions. We say this to Indra, i. e. the sun, who is supreme over all. Yama has been explained.2 The following stanza is addressed to him. (Here ends the twenty-eighth section.)
+### 
 
 Here, where under a tree of beautiful leaves Yama drinks together with the gods, our father, lord of the house, longs for the old ones.3 Where under a tree of beautiful leaves or in the chosen dwelling-place (of the virtuous). Or else it may have been used for the sake of com parison, i. e. as if under a tree of beautiful leaves.
 
@@ -5554,6 +5906,7 @@ Yama goes together with the gods, i. e. the sun with rays. There may the protect
 Aja ekapad:* the one-footed driver, or he protects with one foot, or he drinks with one foot, or he has only one foot. He does not draw one foot out.6 This too is a Vedic quotation.
 
 (Here ends the twenty-ninth section.)
+### 
 
 The daughter of lightning, thunder, the one-footed driver, supporter of heaven, the Sindhu, the waters of the ocean, the all-gods, and Sarasvati, together with prayers and praise, shall hear my words.6
 
@@ -5572,6 +5925,7 @@ heaven, and the river, and waters of the ocean (atmosphere), all the gods, and S
 Prthivi (earth) has been explained.1 The following is her incidental mention in a stanza addressed to Indra and Agni.
 
 (Here ends the thirtieth section.)
+### 
 
 Whether, O Indra and Agni, you two dwell on the highest, on the middlemost, or even on the lowest earth. From thence come, both of you, mighty lords ! Now drink of the pressed soma.2
 
@@ -5580,6 +5934,7 @@ The stanza is explained by the mere reading of it.
 Samudrah has been explained.3 The following is its incidental mention in a stanza addressed to Pavamana.
 
 (Here ends the thirty-first section.)
+### 
 
 Having a purifying instrument they sit round speech, their ancient father preserves the ordinance. Varuna placed the mighty ocean across, the wise were able to begin in the waters.4
 
@@ -5588,6 +5943,7 @@ Having a purifying instrument, having a ray, the groups of atmo spheric gods sit
 Prthivi (earth) has been explained.6 Ocean has been explained.7 The following is their incidental mention in another stanza addressed to manydeities.
 
 (Here ends the thirty-second section.)
+### 
 
 May the serpent of the depth hear us. May the one-footed driver, the earth, the ocean, the all-gods, the promoters of truth, who are invoked and praised, and the stanzas uttered by wise men, protect us.8
 
@@ -5606,6 +5962,7 @@ ix. 78. 8.' vi. 50. 14 ; VS. 84. 58.
 tion is driven into him. Atharvan has been explained.1 Manu is (so called) from thinking (Vman). The following is their incidental mention in a stanza addressed to Indra.
 
 (Here ends the thirty-third section.)
+### 
 
 Whatever devotion Atharvan, father Manu, and Dadhyan have spread, as before the prayers and hymns have come together in Indra, who respects self-rule.2
 
@@ -5616,6 +5973,7 @@ May the devotion which Atharvan, Manu, the father of the Manavas, and Dadhyan ha
 Now, therefore, (we shall progeed with the) groups of celestial gods. Of these, the Adityas come firSu The Adityas have been explained.3 The following stanza is addressed to them.
 
 (Here ends the thirty-fifth section.)
+### 
 
 I sacrifice these hymns, whose surface is brilliant with clarified. butter, with a ladle to the Adityas, who are eternal sovereigns. May Mitra, Aryaman, Bhaga, mighty Varuna, Daksa, and Am&i hear us.4
 
@@ -5624,6 +5982,7 @@ Whose surface is brilliant with clarified 'butter, i. e. emitting clarified butt
 Seven seers have been explained.5, ^jbie following stanza is addressed to them.
 
 (Here ends the thirty-sixth section.)
+### 
 
 Seven seers are placed in the body, seven protect the seat without neglect. Seven works went to the world of setting where two gods who never sleep and sit on the sacrifice keep watch.6
 
@@ -5635,83 +5994,90 @@ Seven seers are placed in the body, i e. rays in the sun. Seven protect the seat
 
 > 2. 13. 6 VS. 34. 55.
 
-   N5J
+N5J
 
-   196 SEVEN SEERS [12.37
+196 SEVEN SEERS [12.37
 
-   /
+/
 
-   the air and the sun. This is with reference to the deity. Now with reference to the self. Seven seers are placed in the body, i. e. six senses and the seventh knowledge in the soul. Seven protect the seat without neglect, i. e. they do not neglect the body. Seven works : these same go to the world of the sleepy one, i. e. the setting soul. There two gods who never sleep and sit at the sacrifice keep watch, i. e. the self of wisdom and lustre. Thus he describes the course of the self. The following, another stanza, is addressed to them.
+the air and the sun. This is with reference to the deity. Now with reference to the self. Seven seers are placed in the body, i. e. six senses and the seventh knowledge in the soul. Seven protect the seat without neglect, i. e. they do not neglect the body. Seven works : these same go to the world of the sleepy one, i. e. the setting soul. There two gods who never sleep and sit at the sacrifice keep watch, i. e. the self of wisdom and lustre. Thus he describes the course of the self. The following, another stanza, is addressed to them.
 
-   (Here ends the thirty-seventh section.)
+(Here ends the thirty-seventh section.)
+### 
 
-   The ladle having side holes and its bottom turned upwards wherein is placed the omniform glory. Here sit together the seven seers who became the guardians of this great one.1
+The ladle having side holes and its bottom turned upwards wherein is placed the omniform glory. Here sit together the seven seers who became the guardians of this great one.1
 
-   The ladle having side holes and a top-knot, or which expands at the top, wherein is placed the omniform glory. Here sifr together the seven seers, i. e. rays who became guardians of this mighty one. This is with reference to the deity. Now with reference to the self. The ladle having holes on the sides and held fast at the top, or arousing at the top, wherein is placed the omniform glory. Here sit together the seven seers, i. e. the senses which became the guarcjians of this mighty one. Thus he describes the course of the self.
+The ladle having side holes and a top-knot, or which expands at the top, wherein is placed the omniform glory. Here sifr together the seven seers, i. e. rays who became guardians of this mighty one. This is with reference to the deity. Now with reference to the self. The ladle having holes on the sides and held fast at the top, or arousing at the top, wherein is placed the omniform glory. Here sit together the seven seers, i. e. the senses which became the guarcjians of this mighty one. Thus he describes the course of the self.
 
-   The gods have been explained.2 The following stanza is addressed to them. (Here ends the thirty-eighth section.)
+The gods have been explained.2 The following stanza is addressed to them. (Here ends the thirty-eighth section.)
+### 
 
-   May the blessed goodwill of the righteous gods, may the gift of the gods, turn down towards us. We honoured the friendship of the gods, may the gods prolong our age so that we may live.3
+May the blessed goodwill of the righteous gods, may the gift of the gods, turn down towards us. We honoured the friendship of the gods, may the gods prolong our age so that we may live.3
 
-   May we (live) [in the goodwill], in the blessed will of gods, who go straight, or who go at the proper season. May the gift of the gods turn down towards us. We honoured the friendship of the gods. May the gods prolong our age so that we may live long.
+May we (live) [in the goodwill], in the blessed will of gods, who go straight, or who go at the proper season. May the gift of the gods turn down towards us. We honoured the friendship of the gods. May the gods prolong our age so that we may live long.
 
-   Vi6ve devdh, all the gods. The following stanza is addressed to them. (Here ends the thirty-ninth section.)
+Vi6ve devdh, all the gods. The following stanza is addressed to them. (Here ends the thirty-ninth section.)
+### 
 
-   Come, O All-gods, protectors and supporters of men, and gracious to the pressed soma of the worshipper.4
+Come, O All-gods, protectors and supporters of men, and gracious to the pressed soma of the worshipper.4
 
-   Protectors or to be protected ; supporters of men, all-gods, come here, liberal to the sacrificer of the pressed soma. With reference to this, there is found in the ten books (of the Bgveda) only one hymn, composed in the
+Protectors or to be protected ; supporters of men, all-gods, come here, liberal to the sacrificer of the pressed soma. With reference to this, there is found in the ten books (of the Bgveda) only one hymn, composed in the
 
-   1 AV. 10. 8. 9. i. 89. 2 ; VS. 25. 15.
+1 AV. 10. 8. 9. i. 89. 2 ; VS. 25. 15.
 
-   See 7. 15. i. 3. 7 ; VS. 7. 33 ; 33. 47.12. 42] THE VASUS 197       
+See 7. 15. i. 3. 7 ; VS. 7. 33 ; 33. 47.12. 42] THE VASUS 197       
 
-   Gayatri metre and containing three stanzas, which is addressed to the Viwc devdh (all-gods). But anything which is addressed to many deities is used in the place of those (hymns) addressed to the all-gods.' Only that hymnwhich has the characteristic word "all " should be used for them,' says 6akapuni. This principle, however, cannot be of very wide application. The hymn,1 'One taivny', contains ten stanzas of two verses each, without any characteristic mark. The hymn 2 of Bhutarps*a, son of Kas*yapa, addressed to the AsVins, has the characteristic mark in one stanza only (out of eleven). The Abhitastlya hymn '' has the characteristic mark in one stanza only.
+Gayatri metre and containing three stanzas, which is addressed to the Viwc devdh (all-gods). But anything which is addressed to many deities is used in the place of those (hymns) addressed to the all-gods.' Only that hymnwhich has the characteristic word "all " should be used for them,' says 6akapuni. This principle, however, cannot be of very wide application. The hymn,1 'One taivny', contains ten stanzas of two verses each, without any characteristic mark. The hymn 2 of Bhutarps*a, son of Kas*yapa, addressed to the AsVins, has the characteristic mark in one stanza only (out of eleven). The Abhitastlya hymn '' has the characteristic mark in one stanza only.
 
-   The gods who are to be propitiated are (so called) because they lead straight to the goal. The following stanza is addressed to them.
+The gods who are to be propitiated are (so called) because they lead straight to the goal. The following stanza is addressed to them.
 
-   (Here etuis the fortieth section.)
+(Here etuis the fortieth section.)
 
-   The gods worshipped sacrifice with sacred rites. Those were the first ordinances. Becoming great they verily obtained heaven, where dwell the earlier gods who are to be propitiated.4
+The gods worshipped sacrifice with sacred rites. Those were the first ordinances. Becoming great they verily obtained heaven, where dwell the earlier gods who are to be propitiated.4
 
-   The gods worshipped sacrifice with sacred rites, i. e. gods worshipped Agni by performing sacrifices (lit by kindling fire). There is a Brahmanapassage : Agni was the victim. They immolated him, with him they madesacrifice.6 Those were the first ordinances. Having become great they verily enjoyed heaven together, where dwell the earlier gods who are to be propitiated, i. e. who lead straight to the goal.' They are a group of gods whose sphere is heaven/ say the etymologists. The tradition is that that was the first epoch of the gods.
+The gods worshipped sacrifice with sacred rites, i. e. gods worshipped Agni by performing sacrifices (lit by kindling fire). There is a Brahmanapassage : Agni was the victim. They immolated him, with him they madesacrifice.6 Those were the first ordinances. Having become great they verily enjoyed heaven together, where dwell the earlier gods who are to be propitiated, i. e. who lead straight to the goal.' They are a group of gods whose sphere is heaven/ say the etymologists. The tradition is that that was the first epoch of the gods.
 
-   Vasus are (so called) because they put on everything. On account of the Vasus Agni is called Vasava, this is the explanation ; hence they are terrestrial. On account of the Vasus Indra is called Vasava, this is the explanation ; hence they are atmospheric. Vasus are the rays of the sun, (so called) on account of shining forth ; hence they are celestial. The follow- ing stanza is addressed to them.
+Vasus are (so called) because they put on everything. On account of the Vasus Agni is called Vasava, this is the explanation ; hence they are terrestrial. On account of the Vasus Indra is called Vasava, this is the explanation ; hence they are atmospheric. Vasus are the rays of the sun, (so called) on account of shining forth ; hence they are celestial. The follow- ing stanza is addressed to them.
 
-   (Here ends the forty-first section.)
+(Here ends the forty-first section.)
+### 
 
-   We have made your seat easy to approach, O gods, you who were pleased to come to this libation. Having eaten and drunk, may all the Vasus bestow treasures on us.6 We have made your paths easy to traverse. gods, you were pleased to come to this libation. Having Beaten and
+We have made your seat easy to approach, O gods, you who were pleased to come to this libation. Having eaten and drunk, may all the Vasus bestow treasures on us.6 We have made your paths easy to traverse. gods, you were pleased to come to this libation. Having Beaten and
 
-   1 viii. 29. a x. 106. 3iii. 88. 8 AB. i. 16 ; cf. Muir, op. cit., vol.ii, p. 177. 4i. 164. 50 ; x. 90. 16 ; AV. 7. 5. 1 ; VS. TS. i. 4. 44. 2; cf, AV. 7. 97. 4 ; VS. 8. 18. 81. 16.
+1 viii. 29. a x. 106. 3iii. 88. 8 AB. i. 16 ; cf. Muir, op. cit., vol.ii, p. 177. 4i. 164. 50 ; x. 90. 16 ; AV. 7. 5. 1 ; VS. TS. i. 4. 44. 2; cf, AV. 7. 97. 4 ; VS. 8. 18. 81. 16.
 
-   198 VAJINAH [12. 4*       
+198 VAJINAH [12. 4*       
 
-   drunk, may all the Vasus bestow treasures on us. The following, another stanza, is addressed to them.
+drunk, may all the Vasus bestow treasures on us. The following, another stanza, is addressed to them.
 
-   (Here ends the forty-second section.)
+(Here ends the forty-second section.)
+### 
 
-   The divine Vasus have here enjoyed themselves with the earth. The bright ones have embellished themselves in the wide atmosphere. O you, moving in extensive space, make your paths hitherward. Listen to this our messenger, who has started on his journey.1
+The divine Vasus have here enjoyed themselves with the earth. The bright ones have embellished themselves in the wide atmosphere. O you, moving in extensive space, make your paths hitherward. Listen to this our messenger, who has started on his journey.1
 
-   The divine Vasus enjoyed themselves here with the earth. Jmdmeans earth. The dwellers on earth and the bright ones, i. e. shining ones, embellished, i. e. cause to reach or to enjoy in the wide atmosphere. Make these paths lead towards us, O swift ones, and listen to this our messenger, i. e. Agni, who has started on his journey.
+The divine Vasus enjoyed themselves here with the earth. Jmdmeans earth. The dwellers on earth and the bright ones, i. e. shining ones, embellished, i. e. cause to reach or to enjoy in the wide atmosphere. Make these paths lead towards us, O swift ones, and listen to this our messenger, i. e. Agni, who has started on his journey.
 
-   Vqjinaft, (impetuous) has been explained.2 The following stanza is addressed to them.
+Vqjinaft, (impetuous) has been explained.2 The following stanza is addressed to them.
 
-   (Here ends the forty-third section.)
+(Here ends the forty-third section.)
+### 
 
-   May the impetuous ones of measured speed and shining brightly be favourable to us in invocations at divine service. Chewing the serpent, the wolf, and the demons, they shall quickly move diseases from us.3
+May the impetuous ones of measured speed and shining brightly be favourable to us in invocations at divine service. Chewing the serpent, the wolf, and the demons, they shall quickly move diseases from us.3
 
-   May the impetuous ones be a source of happiness for us in invocations at divine service, i.e. sacrifice. Of measured speed, of well-measured speed. Shining brightly, moving beautifully, or praising beautifully, or shining beautifully. Chewing the serpent, the wolf, and the demons, may
+May the impetuous ones be a source of happiness for us in invocations at divine service, i.e. sacrifice. Of measured speed, of well-measured speed. Shining brightly, moving beautifully, or praising beautifully, or shining beautifully. Chewing the serpent, the wolf, and the demons, may
 
-   the divine coursers soon remove diseases from us.
+the divine coursers soon remove diseases from us.
 
-   Divine wives, wives of the gods. The following stanza is addressed to them.
+Divine wives, wives of the gods. The following stanza is addressed to them.
 
-   (Here ends t?te forty-fourth section.)
+(Here ends t?te forty-fourth section.)
 
-   May the willing wives of the gods protect us. May they befriend us for offspring and winning of booty. Grant us protection, goddesses whose sphere is earth, and who abide in the ordinance of waters, and who are easy to invoke.4
+May the willing wives of the gods protect us. May they befriend us for offspring and winning of booty. Grant us protection, goddesses whose sphere is earth, and who abide in the ordinance of waters, and who are easy to invoke.4
 
-   May the willing wives of the gods protect us. May they befriend us [for offspring, i. e.] for begetting children, and for winning food. May those goddesses who are on earth, and who are also in the ordinance, i. e. pious work, of waters, and who have noble invocations addressed to them, grant us protection, i. e. shelter. The following, another stanza, is addressed to them. (Here ends the forty-fifth section.)
+May the willing wives of the gods protect us. May they befriend us [for offspring, i. e.] for begetting children, and for winning food. May those goddesses who are on earth, and who are also in the ordinance, i. e. pious work, of waters, and who have noble invocations addressed to them, grant us protection, i. e. shelter. The following, another stanza, is addressed to them. (Here ends the forty-fifth section.)
+### 
 
-   1 vii. 89. 3. s vii. 38. 7 ; VS. 9. 16 ; 21. 10.
+1 vii. 89. 3. s vii. 38. 7 ; VS. 9. 16 ; 21. 10.
 
 * See 2. 28. * v. 46. 7 ; AV. 7. 49. 1.
 
@@ -5722,6 +6088,7 @@ May the divine women, wives of gods : Indrani, Agnayl, Arivini, and Rat, enjoy t
 Moreover may the divine women, wives of the gods, enjoy themselves : Indrani, the wife of Indra ; Agnayi, wife of Agni ; As*vim, wife of the AsVins ; Rat, she who shines ; Rodasi, wife of Rudra ; Varunani, wife of Varuna. May the goddesses enjoy, i. e. long for that, the proper season of consorts.
 
 (Here ends the forty-sixth section.)
+### 
 
 [^1]: v. 46. 8.
 
