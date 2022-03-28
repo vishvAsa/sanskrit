@@ -272,7 +272,9 @@ Further, their meaning is obscure,17 as amyak,1 * yadr̥śmin,1 * jāraydyi,20 k
 
 ### 
 
-Vedic stanzas are signifieA&t, because (their) words are identical (with those of the spoken language). There is the Brahmana passage : This indeed is the perfection of the sacrifice, that the prescription of the form, that is to say, the action which is to be performed, is declared by a stanza of the Rg or the Yajurveda.22 ' Playing with their sons and grandsons,
+Vedic stanzas are significant, because (their) words are identical (with those of the spoken language). 
+
+There is the Brahmana passage : This indeed is the perfection of the sacrifice, that the prescription of the form, that is to say, the action which is to be performed, is declared by a stanza of the Rg or the Yajurveda.2  
 
 1 Cf. PM. i. 2. 1. J 6 See N. 4. 23.
 
@@ -290,7 +292,9 @@ Vedic stanzas are signifieA&t, because (their) words are identical (with those o
 
 18 i. 89. 10.1. 1 7] THE KAUTSA CONTROVERSY 17       
 
-&C.' 1 As to (the objection) that propositions have their words fixed, their order too is immutably fixed, (we reply) that it is the same with regard to the everyday speech of the world, as' Indra and Agni ',' father and son'.2 As to (the objection) that the accomplishment of the ritual form is enjoined by the Brahmana, (we reply) that this is a mere reiteration
+' Playing with their sons and grandsons, &C.' 1  
+
+As to (the objection) that propositions have their words fixed, their order too is immutably fixed, (we reply) that it is the same with regard to the everyday speech of the world, as' Indra and Agni ',' father and son'.2 As to (the objection) that the accomplishment of the ritual form is enjoined by the Brahmana, (we reply) that this is a mere reiteration
 
 of what has been said already. As to (the objection) that their meaning is impossible, (we reply) that no injury is to be inflicted, so it must be understood by the authority of the Vedic passage. As to (the objection) that their meaning is contradictory, (we reply) that the same (objection) is applicable to the everyday speech of the world, as 'this Brahmanahas no rival', 'this king has no enemies', &c. As to (the objection) that one enjoins a person who is already acquainted, (we- reply) that in salutation a person announces his name to one who is already acquainted with it; the mixture of honey and milk is declared (to the guest) whois already acquainted with it. .As to (the objection) that Aditi is every thing, (we reply) that it is the same in the everyday speech of the world, as' all fluids reside in water '. 3 As to (the objection) that their meaning is obscure, (we reply) that it is not the fault of the post if the blind mandoes not see it ; it is the fault of the man himself. Just as among the country-folk a man becomes distinguished with (a little) knowledge, so among the scholars of the traditional Vedic lore a man of profound knowledge alone is worthy of praised
 
