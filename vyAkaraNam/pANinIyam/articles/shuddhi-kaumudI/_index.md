@@ -3,6 +3,8 @@ title = "+शुटिकौमुदी"
 unicode_script = "devanagari"
 
 +++
+स्रोतः [अत्र](https://archive.org/details/hBcJ_shuddhi-kaumudi-by-janardan-hegde-sanskrit-bharati-publications/page/n1/mode/2up) । 
+
 प्रकाशनम् - संस्कृतभारती 'अक्षरम्', ८ उपमार्गः, २ घट्टः गिरिनगरम्, बेङ्गलूरु - ५६० ०८५ 
 
 ७-४७ 
