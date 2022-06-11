@@ -17,6 +17,15 @@ Further, there is the schwa-deletion phenomenon.
 
 There is also the lazy visarga syndrome - the regular visarga (or even colon) being substituted for jihvAmUlIya and upadhmAnIya.
 
+## Late holdovers
+shabdakalpadruma [saw](https://archive.org/details/dli.ernet.383702/page/n17/mode/1up?view=theater) some strange use -
+
+- अकुर्व्वन् ~~अकुर्वं~~
+- अकार्य्यन् ~~अकार्य्यं~~
+
+एतादृशम् अनुस्वारप्रयोगं वाक्यान्ते ऽपि प्रायेण तालपत्रेष्व् एव पुराऽपश्यम्!
+
+
 ### Alveolars in maLayALam
 Meanings change in Malayalam as the sound changes from retroflex to alveolar and to dental:  
 Kuṭṭi (retroflex ṭ) = child, Kuṯṯi (alveolar ṯ) = a stake, a bolt etc., Kutti (dental t) = past tense of kuttŭ meaning stabbed, pricked, etc, Paṇi (retroflex ṇ) = work, Paṉi (alveolar ṉ) = fever, dew.  
