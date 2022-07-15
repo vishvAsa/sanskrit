@@ -8,3 +8,6 @@ unicode_script: devanagari
 
 ## प्रक्रियान्तरम्
 <div class="spreadsheet" src="../prakriyAntaram.json"> </div>  
+
+## प्लुतः
+<div class="spreadsheet" src="../plutaH.json"> </div>  
