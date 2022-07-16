@@ -53,11 +53,11 @@ unicode_script: devanagari
   - "no Pratisakhyas consider r and ऋ to be retroflex sounds ( murdhanya ), and to find them classified as retroflexes we have to come down to such late texts as the Paniniya-Siksa."
   - "The Rktantra (2.1.4, 7, 8) classifies ऋ as a jihvA-muliya ‘velar’, and r as either a dantya ‘dental’ or danta-muliya ‘alveolar’ sound. The TaittirIya-prAtishAkhya (2.18, 41) classifies ऋ as being produced at the upper back gums and jaws, while r is an alveolar." Similarly the shaunakIyas.
 - "It may be that in all variant classifications of ऋ and r there is some degree of tongue-raising involved, if not retroflexing in the strict sense."
-- "It is important to realize that despite the variations in the phonetic classifications of ऋ and r in different texts, these sounds had the same functional load in all the known grammatical systems of Sanskrit, and this functional load was shared in common with the sibilant s, which is classified by all the known Sanskrit phonetic treatises as a retroflex. "
+- "It is important to realize that despite the variations in the phonetic classifications of ऋ and r in different texts, these sounds had the same functional load in all the known grammatical systems of Sanskrit, and this functional load was shared in common with the sibilant ष्, which is classified by all the known Sanskrit phonetic treatises as a retroflex. "
 
 ### क्वचिद् Alveolar-पुनर्भवः
 - In Assamese : "The O.I.A. dental and cerebral series lost their original sound values and became alveolars, i.e., the point of articulation for the dentals is pushed back and for the cerebrals pushed forward” due to the Tibeto-Burman influence which had this leveling effect." 
 - "The Cambodians also adopted several aspects of Indian culture, but not retroflexion. In old and modern Cambodian, the Sanskrit and Pali retroflexes are are reduced to dentals. The same Phenomenon takes place in Old and Modern Siamese. Burmese does have separate characters for retroflex sounds, which are only used in writing Pali words, but the Burmese pronounce them exactly as the corresponding alveolars." 
 
 ## ऋकारभेदाः
-- "ऋति सवर्णे ऋ वा" इति वार्तिकम् आश्रित्य "होतृ-ऋकारः = होतृकारः" इत्यत्र भाटोजीदीक्षितो नृसिंहाकृतिं काञ्चित् कल्पयति (पेजावरयतिर् [अत्र](https://youtu.be/CfmxMxgLHPI?t=1579) )। तद् अनपेक्षितम्। +++(कन्नडे लोपसन्धिर् इव।)+++ 
+- "ऋति सवर्णे ऋ वा" इति वार्तिकम् आश्रित्य "होतृ-ऋकारः = होतृकारः" इत्यत्र भट्टोजीदीक्षितो नृसिंहाकृतिं काञ्चित् कल्पयति (पेजावरयतिर् [अत्र](https://youtu.be/CfmxMxgLHPI?t=1579) )। तद् अनपेक्षितम्। +++(कन्नडे लोपसन्धिर् इव।)+++ 
