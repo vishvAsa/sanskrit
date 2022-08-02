@@ -1,5 +1,5 @@
 ---
-title: स्त्रीः
+title: +स्त्रीः
 unicode_script: devanagari
 ---
 
@@ -19,7 +19,7 @@ unicode_script: devanagari
 - द्विगोः ङीप्
 
 ## सूत्राणि
-<div class="spreadsheet" src="../strI.toml" fullHeightWithRowsPerScreen=8></div>
+<div class="spreadsheet" src="../strIH.toml" fullHeightWithRowsPerScreen=8></div>
 
 
 ## प्रत्यय-स्वरः
