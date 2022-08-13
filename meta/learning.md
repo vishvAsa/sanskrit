@@ -21,6 +21,7 @@ unicode_script: devanagari
 - "The best way to learn Sanskrit is by immersing in its poetic literature after some basic grammar (for me, Karnataka State Board 8th std - 10th std first language Sanskrit grammar 1989-1992 was more than enough to easily understand Shriharsha's Naishadheeya)." - Dr R Shankar, Poet and avadhAnin
 - Read 50 issues of https://sambhashanasandesha.in/ cover to cover. Take up SB correspondence course. Also read vAlmIki's rAmAyaNa cover to cover.
 - A friend use lessons from chitrapur maTha to learn the basics, and then started reading shAstra-s, stotras and kAvya-s that interested him.
+- "Go to vyoma. Sanskrit from home. Join the Sura Saraswati sabha prathama. Completed videos, ppts etc are available. Similarly Samskrita Sri  I and II. Subscribe and learn. Free courses. From varnamala (letters)" - [rAmu](https://groups.google.com/g/samskrita/c/dcU9llUDWjE)
 - पवनशर्मा (twitter: patangaH) - वैद्यः - संस्कृतेन भाषितुं स्वयं ज्ञातवान्। आदौ चित्रपुरमठजालक्षेत्रेण संस्कृतभारतीपुस्तकैर् ज्ञानसम्पादनम्। ततो लेखनाभ्यासः। दूरवाण्या स्वभाषणं परिचारकैर् धात्रीभिश् च सहापि भाषित्वा।
 
 ## Sanskrit household
