@@ -59,12 +59,8 @@ Many sūtras in Pāṇini grammar are interpreted through jñāpaka. This is esp
 
 Consider first P.2.3.13 चतुर्थी सम्प्रदाने. The Kātyāyana vārttika no.1 says: चतुर्थी-विधाने तादर्थ्ये उपसंख्यानम्. The Bhāṣyakāra says: “चतुर्थी-विधाने तादर्थ्ये उपसंख्यानं कर्तव्यम् । यूपाय दारु । कुण्डलाय हिरण्यम् ॥ ... ... तत् तर्हि वक्तव्यम् । न वक्तव्यम् । आचार्यप्रवृत्तिर्ज्ञापयति भवत्यर्थ-शब्देन योगे चतुर्थीति यदयं चतुर्थी तदर्थार्थ (२.१.३६) इति चतुर्थ्यन्तस्यार्थ-शब्देन सह समासं शास्ति॥” Bhoja includes this implied meaning of jñāpaka when along with the sūtra चतुर्थी सम्प्रदाने (2.3.13), he also gives तादर्थ्ये (3.1.234).  
 On the sūtra सार्वधातुके यक् (P.3.1.67), vārttika 3 says: भावकर्मणोर्यग्विधाने कर्मकर्तर्युपसंख्यानं कर्तव्यम्. On this the Bhāṣyakāra remarks: “भावकर्मणोर्यग्विधाने कर्मकर्तर्युपसंख्यानं कर्तव्यम् । पच्यते स्वयमेव । पठ्यते स्वयमेव । ... अथवाचार्य-प्रवृत्तिर्ज्ञापयति भवति कर्मकर्तरि यग् इति यदयं न दुह-स्नु-नमां यक्-चिणौ (३.१.८९) इति यक्-चिणोः प्रतिषेधं शास्ति ।” Bhoja includes the implied meaning of this jñāpaka and gives the sūtra कर्मकर्तरि च (१.३.१०४) after the sūtra सार्वधातुके यक् (३.१.६७).  
+
 A list of such sūtras along with corresponding Pāṇini sūtras is given in TABLE-I. A good discussion of all the peculiarities of Bhoja’s SKĀ can be found in the Prastāvanā (in Sanskrit) of K S Mahādeva Śāstrī , Vol. IV of Trivandrum Edition.
-
-
-## 04. Commentaries on SKĀ  
-There are three incomplete commentaries on SKĀ -- the first one is the Hr̥dayahāriṇī by Daṇḍanātha Nārāyaṇa Bhaṭṭa (either contemporary of Bhoja or 12th c. AD) and extends only up to ch.VII. Not only the commentary, but also some sūtras are missing in between (see TABLE-IV & V in the next section). The other commentary called Puruṣakāra is by Kr̥ṣṇalīlāśukamuni (c.12th century AD), the author of the commentary Puruṣakāra on the dhātupāṭha called Daivam. M. Krishnamacharya in his ‘History of Classical Sanskrit Literature’ mentions his name twice [^54] and says that in Kr̥ṣṇalīlāśuka’s commentary on
-
 
 
 **TABLE-I :  स॰कं॰ सूत्रs based on  ज्ञापक सूत्रs in पाणिनि**
@@ -82,8 +78,8 @@ There are three incomplete commentaries on SKĀ -- the first one is the Hr̥daya
 | 7.3.63                     | 8.2.7 v.2          | 8.2.68              |
 
 
-
-Bhoja’s grammatical treatise, Sarasvatīkaṇṭhābharaṇa, Pāṇini’s verses are quoted freely as illustrations. ‘A Catalogue of Skt MSS’, edited by T Gaṇapati Śāstrī (1921), Vol. VI, mentions at p.6, No.35 the commentary Puruṣakāra (sūtra-vyākhyā-rūpaò) of size 2200 granthas. Probably this commentary is related to Bhoja’s SKĀ. The New Catalogus Catalogurum, Vol IX, mentions Puruṣakāra as the commentary on Daivam only. The third commentary in Gujarati on ch. VIII by Dr N M Kansara has been written only recently (see the last para in the next section).
+## 04. Commentaries on SKĀ  
+There are three incomplete commentaries on SKĀ -- the first one is the Hr̥dayahāriṇī by Daṇḍanātha Nārāyaṇa Bhaṭṭa (either contemporary of Bhoja or 12th c. AD) and extends only up to ch.VII. Not only the commentary, but also some sūtras are missing in between (see TABLE-IV & V in the next section). The other commentary called Puruṣakāra is by Kr̥ṣṇalīlāśukamuni (c.12th century AD), the author of the commentary Puruṣakāra on the dhātupāṭha called Daivam. M. Krishnamacharya in his ‘History of Classical Sanskrit Literature’ mentions his name twice [^54] and says that in Kr̥ṣṇalīlāśuka’s commentary on Bhoja’s grammatical treatise, Sarasvatīkaṇṭhābharaṇa, Pāṇini’s verses are quoted freely as illustrations. ‘A Catalogue of Skt MSS’, edited by T Gaṇapati Śāstrī (1921), Vol. VI, mentions at p.6, No.35 the commentary Puruṣakāra (sūtra-vyākhyā-rūpaò) of size 2200 granthas. Probably this commentary is related to Bhoja’s SKĀ. The New Catalogus Catalogurum, Vol IX, mentions Puruṣakāra as the commentary on Daivam only. The third commentary in Gujarati on ch. VIII by Dr N M Kansara has been written only recently (see the last para in the next section).
 
 
 ## 05. Editions of SKĀ  
@@ -101,8 +97,6 @@ The complete sūtra-pāṭha of SKĀ, edited by T R Chintamani, was published in
 | Total-> | 855 | 1077 | 748 | 836 | 750 | 730 | 619 | 817 |
 
 The available Hr̥dayahāriṇī commentary of Daṇḍanātha has been published upto first six chapters in the Trivandrum Sanskrit Series Nos. 117, 127, 140 and 154, edited by K Sāmbaśiva Śāstrī, Vol. I (ch. I, 1935), Vol. II (ch.II, 1937), Vol. III (ch. III-IV, 1938) and V A Rāmaswāmi Śāstrī, Vol. IV (ch. V-VI, 1948). The Trivandrum edition is based on the following MSS --- (i) No. 806 (ii) No. 817 (iii) No. 557 (iv) R. No. 3279 (v) the Ms containing the sūtra-pāṭha alone obtained from Brahmasri Venkitarāma Śāstrī, Shenkotta. The commentary on ch. VII is still unpublished. There is considerable variance in readings of the sūtras in the two editions. Upto ch. VI, the number of sūtras in the Trivandrum edition is 5019, as against 4996 in the Madras edition. The pāda-wise break-up is shown in TABLE-III.  
-There is a difference also in the number of pratyāhāra-sūtras in the two editions. The Madras edition has 14, i.e. same as in the Aṣṭādhyāyī. But the Trivandrum edition has only 13, as in Cāndra-vyākaraṇa. The two sūtras ‘ह य व र ट् । ल ण् ।’ are combined into one as
-
 
 **TABLE-III: Number of sūtras in the Trivandrum Edition of SKĀ**
 
@@ -116,7 +110,8 @@ There is a difference also in the number of pratyāhāra-sūtras in the two edit
 
 
 
-‘ह य व र ल ण् ।’ With ṭakāra only one pratyāhāra viz. aṭ is used in grammar. The aṭ pratyāhāra does not occur in any Bhoja-sūtras. Therefore, the reading without the ṭakāra viz. ‘ह य व र ल ण् ।’ appears to be the correct one. The aṭ occurs in four Pāṇini sūtras: आतोऽटि नित्यम् (८.३.३), दीर्घादटि समानपादे (८.३.९), अट्-कुप्वाङ्-नुम्व्यवायेऽपि (८.४.२) and शश्छोऽटि (८.४.६३). The Bhoja-sūtras corresponding to P.8.3.9, 8.4.2 and 8.4.63 are: दीर्घादटि समानपादे (८.२.१२८), चु-टु-तु-ल-शर्-व्यवायेऽपि (७.४.१४५) mentioning the letters the intervention of which prevents ṇatva and चयश्शश्छोऽमि (७.४.१७६), which is based on the Kātyāyana’s vārttika: छत्वममि तच्छ्मश्रुणा तच्छलोकेनेति प्रयोजनम्. Bhoja has rejected the Pāṇini sūtra आतोऽटि नित्यम्, following the statement found in the Kāśikāvr̥tti : केचिदनुस्वारमधीयते, which indicates that the anunāsikatva is not nitya.  
+There is a difference also in the number of pratyāhāra-sūtras in the two editions. The Madras edition has 14, i.e. same as in the Aṣṭādhyāyī. But the Trivandrum edition has only 13, as in Cāndra-vyākaraṇa. The two sūtras ‘ह य व र ट् । ल ण् ।’ are combined into one as ‘ह य व र ल ण् ।’ With ṭakāra only one pratyāhāra viz. aṭ is used in grammar. The aṭ pratyāhāra does not occur in any Bhoja-sūtras. Therefore, the reading without the ṭakāra viz. ‘ह य व र ल ण् ।’ appears to be the correct one. The aṭ occurs in four Pāṇini sūtras: आतोऽटि नित्यम् (८.३.३), दीर्घादटि समानपादे (८.३.९), अट्-कुप्वाङ्-नुम्व्यवायेऽपि (८.४.२) and शश्छोऽटि (८.४.६३). The Bhoja-sūtras corresponding to P.8.3.9, 8.4.2 and 8.4.63 are: दीर्घादटि समानपादे (८.२.१२८), चु-टु-तु-ल-शर्-व्यवायेऽपि (७.४.१४५) mentioning the letters the intervention of which prevents ṇatva and चयश्शश्छोऽमि (७.४.१७६), which is based on the Kātyāyana’s vārttika: छत्वममि तच्छ्मश्रुणा तच्छलोकेनेति प्रयोजनम्. Bhoja has rejected the Pāṇini sūtra आतोऽटि नित्यम्, following the statement found in the Kāśikāvr̥tti : केचिदनुस्वारमधीयते, which indicates that the anunāsikatva is not nitya.  
+
 The Gujarati commentary of Dr Narayan M Kansara on ch. VIII has been published by Rashtriya Veda Vidya Pratishthan and Motilal Banarsidass, New Delhi, 1992. The editor deserves praise for bringing out the so far unavailable commentary on this chapter. This edition is based on the Madras edition only. No available MSS have been consulted. The variations from the Ms are not supplied. The Madras edition itself does not give the original readings of many sūtras. That is why the Gujarati edition also suffers from inaccuracy in case of many sūtras. In case of a few sūtras, the vr̥tti requires to be rewritten. Moreover, many correct sūtras of the Madras edition have been blunderingly modified in this edition. For example, the Bhoja-sūtra हियासामः (८.३.११) makes provision for the udāttatva of हि (the substitute for सि in लोट्), यास् (= यासुट्, the आगम in case of लिङ्) and आम् of अनडुह्. In the Gujarati edition this sūtra has been changed to हिमारण्याभ्याम्.
 
 
@@ -176,48 +171,29 @@ The symbol # after the sītra number indicates that only one or two words of com
 
 
 Vedic examples (naturally in the commentary only) – I.1.118 रक्षामाकिर्नो अघशंस ईशत (ऋ॰ ६.७५.१०); 119 अधैनं वृका रभसासो अद्युः (ऋ॰ १०.९५.१४) ; विश्वकर्मा विमना आद् विहायाः (यजु॰ १७.२६) etc [^56]. Regarding paribhāṣā-sūtras he says, not less interesting is the 2nd pāda which condenses all the paribhāṣās taken from Pāṇini as well as vārttikas and bhāṣya. There are some paribhāṣās which are not attested by Sīradeva, e.g. आदिष्टादचः पूर्वस्य (49). One also finds the maxims of Bhāṣya which have not been brought under special treatment, such as नानिष्टार्था शास्त्रप्रवृत्तिः (123). A few others make appearance unprecedented, such as the last but one, अभिधानलक्षणाः कृत्-तद्धित-समासाः (133) which summarises a point of view often expressed by the commentators [^57].  
+
 Commenting on the series of exceptional sūtras in between III.2.62-68, 73-88, related to composition (samāsa), he says, “This shows the considerable part of novelties, which the grammar of Bhoja provides. Novelties in the sense of relative term, because the vr̥tti of
 
 
 **TABLE-V: Sūtras with incomplete Daṇḍanātha commentary (*)**
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-Ch. पाद    सूत्र सं॰                     सूत्र सं॰  
-(TSS)              (Madras Edition)    
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-1   1    113m, 128m           113, 128
-2    9e                   9
-3    18i                  19
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-2   1    277m                 277
-3    95m                  96
-4    61m, 98e, 98bi,      59a, 97, 99, 183, 282
-183m, 284m
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-3   1    61e, 62i, 115m,      60, 61, 114, 119,
-120m, 212m, 280i     209, 276
+| Ch.  | पाद | सूत्र सं॰ (TSS)                                                   | सूत्र सं॰ (Madras)                 |
+|------|-----|----------------------------------------------------------------|---------------------------------|
+| 1    | 1   | 113m, 128m                                                     | 113, 128                        |
+| 1    | 2   | 9e                                                             | 9                               |
+| 1    | 3   | 18i                                                            | 19                              |
+| 2    | 1   | 277m                                                           | 277                             |
+| 2    | 3   | 95m                                                            | 96                              |
+| 2    | 4   | 61m, 98e, 98bi,                                                | 59a, 97, 99, 183, 282           |
+| 3    | 1   | 61e, 62i, 115m, 120m, 212m, 280i                               | 60, 61, 114, 119,209, 276       |
+| 3    | 2   | 6m, 10i, 41m, 43m,82e, 118i, 125m,150i                         | 6, 10, 41, 43, 82,115, 122, 147 |
+| 3    | 3   | 11i, 101e, 114i,141e, 143im                                    | 11,101,114,139,141              |
+| 3    | 4   | 1m, 7m, 10me, 11e,14m,16m,18ie, 19i,20e, 21ie,23m,25m,54e, 55i | same as in TSS                  |
+| 4    | 1   | 7i, 64e, 65i, 66i,193i, 197i                                   | 7, 64, 65, 66, 193,196a(fn)     |
+| 4    | 2   | 47i                                                            | 45b                             |
+| 4    | 3   | 49e,50i,55i,121m,247e                                          | 49, 50, 55-56, 122,244          |
+| 4    | 4   | 9e,26m,154e,155i                                               | 9, 26, 154, 154a                |
 
-2    6m, 10i, 41m, 43m,   6, 10, 41, 43, 82,
-82e, 118i, 125m,     115, 122, 147
-150i
-
-3    11i, 101e, 114i,     11,101,114,139,141
-141e, 143im
-
-4    1m, 7m, 10me, 11e,   same as in TSS
-14m,16m,18ie, 19i,
-20e, 21ie,23m,25m,
-54e, 55i
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-4   1    7i, 64e, 65i, 66i,   7, 64, 65, 66, 193,
-193i, 197i           196a(fn)
-
-2    47i                  45b
-
-3    49e,50i,55i,121m,    49, 50, 55-56, 122,
-247e                 244
-
-4    9e,26m,154e,155i     9, 26, 154, 154a
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 5   1    88e, 89i, 133m       88, 88a, 131
 
