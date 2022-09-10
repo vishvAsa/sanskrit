@@ -79,6 +79,21 @@ title: +लेखनम्
 >
 > - सम्मोदाचार्यः
 
+### दुरुच्चारणाद् व्यभिचाराः
+> "यथाप्रति तथा लिखितं, मम दोषो न दीयते"  
+> इत्यस्य स्थाने   
+> "जथाप्रति तथा लिषितं मम दोशो न दियते" 
+> [Manuscript of भगवद्गीता written by 'सुषः भारती' (सुख भारती?) for देव भारती.]   
+> [लालचन्दसङ्ग्रहे](https://dav.splrarebooks.com/collection/view/bhagavadgita13)
+
+तत्रैव सपतमीति "सप्तमी"-स्थाने। 
+
+
+### सङ्क्षेपलेखनम्
+- अनुस्वारा असकृत् वर्हीय-पञ्चमानां स्थाने प्रयुक्ता दृश्यन्ते
+- एवं जिह्वामूलीयोपध्मानीययोस् स्थाने विसर्गः
+
+
 ## अन्वेषण-सौकर्यम्
 The fact that there is no separate sign in roman scripts for independent vowel (eg आ) vs dependent vowel (eg the mAtrA in ा) helps easier searching. I generally get by quite well searching for a substring (वेक्ष्य instead of अवेक्ष्य or ावेक्ष्य) though.
 
