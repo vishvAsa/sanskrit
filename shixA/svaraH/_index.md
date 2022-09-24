@@ -5,8 +5,11 @@ unicode_script: devanagari
 
 
 ## लक्ष्याणि
+- स्वरित-विषये॑ लक्ष्यावेक्षण॑म् [अन्य॑त्र](svaritaH/) विहित॑म्।
+
 ### लोके
-- Natural prose or drama definitely better care for svara. Natural speech, even prAkRt and apabhraMsha-s, have svara-s. If kAlidAsa did not mark svara in his plays, I would ascribe it to his expectation that the actors will do their best to accent it properly.
+- Natural prose or drama definitely better care for svara. Natural speech, even prAkRt and apabhraMsha-s, have svara-s. If kAlidAsa did not mark svara in his plays, I would ascribe it to his expectation that the actors will do their best to accent it properly. The importance of accent in plays is easily apparent if we even watch some "Shakespear in the park".
+  - By accent here, I particularly mean natural grammatical accent "उच्चैर् उदात्तः etc..", whose continuation may be observed even today in some parts of hindI ("जो॑ कोई भी हो, ...") - and not the modern veda-paNDit-rap ("उच्चैस् स्वरितः").
 - उज्ज्वल-निर्मितिः॑, ऋग्वेदभाषा॑याम् - [YT Flight instructions](https://youtu.be/r5vsSEz1r48) ।
 
 ### वेदे
@@ -29,7 +32,7 @@ unicode_script: devanagari
 - "For the R.gveda the current practice in India is, apparently, to pronounce all
   syllables marked with the underbar ( anudatta and sannatara ) as anudatta , all
   unmarked syllables ( udatta and ekasruti ) as ekasruti , and syllables marked
-  svarita as moving from udatta to ekasruti ." - Wikner in - [IA](https://archive.org/details/accents_201803)
+  svarita as moving from udatta to ekasruti." - Wikner in - [IA](https://archive.org/details/accents_201803)
 - "When Udātta-s come in succession they all remain middle tone, Ekaśruti. U-U...n=>U-U...n Example: "अ॒मान् सु तत्र॑"  - MT [अत्र](https://archive.org/details/accents_201803/mode/2up) ।
 
 ##### माध्यन्दिनेषु भाषीक-स्वरः

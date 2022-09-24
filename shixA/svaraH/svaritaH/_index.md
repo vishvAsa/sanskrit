@@ -59,7 +59,8 @@ Why did the svara-vyavasthA that deviated fromthe aShTAdhyAyI system thrive at t
 - अष्टाध्याय्याश् च "पाणिनिय"शिक्षाग्रन्थस्य च मध्ये विवादे सति, अष्टाध्यायीम् एव प्रमाणं मन्ये – न पश्चाल् लिखितं शिक्षाग्रन्थम्।
 - अत्रौद्धत्यं चेद् दृश्यते, क्षन्तव्योऽहम् – अत्र भवादृशैः परीक्षा, खण्डनमण्डने, परिष्कारश् चैवेष्यन्ते ।
 
-### अष्टाध्यायिव्यवस्थापक्षे Basic appeal of the pANinIya system
+### अष्टाध्यायिव्यवस्थापक्षे 
+Basic appeal of the pANinIya system
 
 - An effort to revive and use the pANini’s svara system in veda and loka may be compared with Dr padmA subrahmanyan’s successful fairly revival of "mArga-nRtya" using bharata-muni’s texts and temple sculptures ("bharata"nATya wasn’t good enough).
 - Back to basics: Why is pANini’s svara system or grammar superior to alternatives?
@@ -69,7 +70,8 @@ Why did the svara-vyavasthA that deviated fromthe aShTAdhyAyI system thrive at t
     - they (spuriously) claim to be what some ancient sage (pANini for example) agrees with;
     - or that they dominate today.
 
-### अर्वाचीनव्यवस्थापक्षे Appeal of the non-pANinIya system
+### अर्वाचीनव्यवस्थापक्षे 
+Appeal of the non-pANinIya system
 
 - Everyone follows it! No one speaks sasvara saMskRta. Give up and go with the flow – it will be easier.
 - Tradition followers will not allow you to participate in a group ritual if you insist on the pANinIya system.
