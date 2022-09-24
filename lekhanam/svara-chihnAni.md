@@ -20,7 +20,7 @@ unicode_script: devanagari
 ### अनुदात्तः
 #### सन्नतरः
 - `अ॒`
-- काठकसंहिता - a horizontal or vertical line below
+- काठक-संहिता - a horizontal or vertical line below
 
 #### एकश्रुतिः
 - प्रायेणाचिह्नितः।
@@ -101,5 +101,5 @@ or three vertical strokes above it or a dot below it
 - स्वि॑दा॒सी३दु॒पिर॑स्विदासी३त् ||(ṚV10.129.4)
 
 ## एकश्रुतीभावः
-- "In some special cases a long section of the Saṃhitāpāṭha suppress all inherent accents and is rendered purely in Ekaśruti. This is mainly seen in KṛYV tradition." तैत्तिरीयारण्यक आरण्यकशिक्षानुसारं वाक्यस्वराधीनम् - अग्निश्च मा मन्युश्च मन्युपतयश्च मन्यु॑कृते॒भ्यः ।"
+- "In some special cases a long section of the Saṃhitāpāṭha suppress all inherent accents and is rendered purely in Ekaśruti. This is mainly seen in KṛYV tradition." तैत्तिरीयारण्यक आरण्यकशिक्षानुसारं वाक्यस्वराधीनम् - "अग्निश्च मा मन्युश्च मन्युपतयश्च मन्यु॑कृते॒भ्यः ।"
 
