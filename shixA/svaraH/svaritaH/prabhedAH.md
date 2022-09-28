@@ -4,6 +4,7 @@ unicode_script: devanagari
 ---
 
 ## शुद्धः
+- उदात्तजन्य इति विश्वासः। 
 - शुद्धः dependent , substitute, or enclitic svarita
 - "उदात्ताद् अनुदात्तस्य स्वरितः" इत्यनेन जातः।
 
