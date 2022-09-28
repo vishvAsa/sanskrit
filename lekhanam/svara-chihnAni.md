@@ -74,6 +74,10 @@ or three vertical strokes above it or a dot below it
 >
 > इत्य् उज्ज्वलः꣡।
 
+> The denotation and the reciprocal influence of the accents does in general not undergo any alteration from the divisions of the pratikas, the kandikás or the brdhmanas, with the only exception that the underlineal stroke is changed into three dots in the manuscripts: तत् (… under त) ॥१॥ स᳘ 
+> 
+> - Weber
+
 ### काठक-संहिता
 - ग्रन्थाः - [१‌](https://archive.org/details/kathaka_krishna_yajur_veda/mode/2up?view=theater) ।
 - इषे॑ त्वोर्जे॑ त्वा वाय॑वस्थोपाय॑वस्थ... देव॑स्य त्वा सवितुः॑ प्रसवे᳕ ऽश्वि॑नोर् … उर्व᳕न्त॑रिक्षं वी᳗हि।
