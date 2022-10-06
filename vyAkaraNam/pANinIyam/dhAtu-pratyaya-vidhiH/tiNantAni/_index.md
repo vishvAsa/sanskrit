@@ -1,5 +1,5 @@
 ---
-title: +धातुरूपावलिः
+title: +तिङन्तानि
 unicode_script: devanagari
 ---
 
