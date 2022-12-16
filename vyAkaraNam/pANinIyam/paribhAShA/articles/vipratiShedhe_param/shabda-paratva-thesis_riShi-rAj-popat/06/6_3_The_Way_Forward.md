@@ -13,9 +13,9 @@ While it may seem that anuvr̥tti34 does not directly influence or get influence
 
 [^32]: For a detailed discussion on this, see Joshi and Roodbergen (1983).  
 
-33 See example 1 of section 3.1, chapter 3 to understand this better.  
+[^33]: See example 1 of section 3.1, chapter 3 to understand this better.  
 
-34 For detailed studies on anuvr̥tti, see Joshi and Bhate (1983, 1984).
+[^34]: For detailed studies on anuvr̥tti, see Joshi and Bhate (1983, 1984).
 
 212 
 
@@ -29,13 +29,13 @@ My findings can also help develop new ideas for modern theoretical linguistics, 
 
 Pāṇini’s derivations are neither extrinsically nor intrinsically ordered. In fact, one need not  worry about the concept of rule order at all when performing Pāṇinian derivations. This is  because the choice of the rule which should apply at any given step, depends neither on  whether it feeds or bleeds another rule, not on any predetermined order of application.  Instead, this decision is made by the ingenious algorithm devised by Pāṇini to deal with  
 
-35 For instance, consider example 2 of section 3.1, chapter 3.  
+[^35]: For instance, consider example 2 of section 3.1, chapter 3.  
 
 36 ‘Sanskrit Computational Linguistics – First and Second International Symposia’ helps one gain a  good understanding about the diversity and scope of the field.  
 
-37 By ‘speaker’s intention’, I mean, information about the exact form he or she wishes to derive. For  example, ‘imperative passive third person singular’.  
+[^37]: By ‘speaker’s intention’, I mean, information about the exact form he or she wishes to derive. For  example, ‘imperative passive third person singular’.  
 
-38 A feeds B if the application of A facilitates the application of B, and P bleeds Q if the application of  P obstructs the application of Q.
+[^38]: A feeds B if the application of A facilitates the application of B, and P bleeds Q if the application of  P obstructs the application of Q.
 
 213 
 
@@ -103,7 +103,7 @@ A, B = non-terminal symbol
 
 α, β, γ, δ, θ = string of symbols39 
 
-39 This information has a purely indicative value but no claim to exhaustiveness. There are some  constraints on some of these strings depending on whether or not they can contain terminals, whether  or not they can be empty etc. but I won’t delve into this because it is not of much importance in the  present context. 
+[^39]: This information has a purely indicative value but no claim to exhaustiveness. There are some  constraints on some of these strings depending on whether or not they can contain terminals, whether  or not they can be empty etc. but I won’t delve into this because it is not of much importance in the  present context. 
 
 214 
 
@@ -163,7 +163,7 @@ To borrow terms from computational theory, Pāṇini has converted his ‘non-de
 
 deterministic machine is not desirable because it produces both correct and incorrect forms. Penn and Kiparsky (2012) say: “through the lens of contemporary NLP40, the most amazing  fact about the Aṣṭādhyāyī is not that it produces so many correct derivations, after all, but that  it simultaneously avoids so many incorrect ones.” 
 
-40 Natural Language Processing. 
+[^40]: Natural Language Processing. 
 
 217 
 

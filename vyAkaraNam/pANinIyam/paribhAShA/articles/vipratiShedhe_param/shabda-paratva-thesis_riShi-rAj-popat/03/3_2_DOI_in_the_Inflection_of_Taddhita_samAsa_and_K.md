@@ -23,15 +23,15 @@ The tradition has found a way to work around this. In pratyac + Ṅas, pratyac t
 
 Another Pāṇinian paribhāṣā, which makes this very argument in terms of antaraṅga and  bahiraṅga operations, is cited by the Siddhāntakaumudī17 when discussing this derivation:  akr̥tavyūhāḥ pāṇinīyāḥ ‘The Pāṇinīyas do not insist that a rule should take effect if its causes  disappear’. Nāgeśa (Pbh 56, Paribhāṣenduśekhara), while discussing this paribhāṣā in  antaraṅga and bahiraṅga terms, says: bahiraṅgeṇāntaraṅgasya nimittavināśe paścāt  
 
-12 Among other things, this rule teaches that KvIN occurs after the root añcU ‘to bend’ when this root  co-occurs with a pada ending in sUP. 
+[^12]: Among other things, this rule teaches that KvIN occurs after the root añcU ‘to bend’ when this root  co-occurs with a pada ending in sUP. 
 
-13 LOPA replaces the penultimate n of a verbal base ending in a consonant and not marked with I [in  the Dhātupāṭha] when an affix marked with K or Ṅ follows. 
+[^13]: LOPA replaces the penultimate n of a verbal base ending in a consonant and not marked with I [in  the Dhātupāṭha] when an affix marked with K or Ṅ follows. 
 
-14 Affix vI unaccompanied [by any other sound] is replaced with LOPA. 
+[^14]: Affix vI unaccompanied [by any other sound] is replaced with LOPA. 
 
-15 We know this because of a paribhāṣā it mentions, will I will discuss below.  16 Another version of this, which we occasionally find in paribhāṣā texts, is nimittāpāye naimittikasyāpy  apāyaḥ. 
+[^15]: We know this because of a paribhāṣā it mentions, will I will discuss below.  16 Another version of this, which we occasionally find in paribhāṣā texts, is nimittāpāye naimittikasyāpy  apāyaḥ. 
 
-17 SK 417 (6.3.138 cau).
+[^17]: SK 417 (6.3.138 cau).
 
 92 
 
@@ -57,7 +57,7 @@ This is a case of DOI. By my interpretation of 1.4.2, we apply the RHS rule 4.1.
 
 This is a case of DOI. By my interpretation of 1.4.2, the RHS rule 6.4.138 wins, and we get:  praticaḥ 🡪 pratīcaḥ (6.3.138 cau), which is the correct form. 
 
-18 This rule teaches all the declensional affixes. The affix that is applicable here is the genitive singular  Ṅas.
+[^18]: This rule teaches all the declensional affixes. The affix that is applicable here is the genitive singular  Ṅas.
 
 93 
 
@@ -65,11 +65,11 @@ This is a case of DOI. By my interpretation of 1.4.2, the RHS rule 6.4.138 wins,
 
 Here, again, the tradition uses the two paribhāṣās discussed above to circumvent this problem.  In sedivas + Ṅas, sedivas takes the designation bha because it is followed by a non sarvanāmasthāna affix beginning with a vowel (cf. 1.4.18 yaci bham). To this, the tradition  applies 6.4.131 vasoḥ samprasāraṇam, which teaches that the semivowel of the affix vasU in  an item termed bha is replaced with the corresponding vowel u. This gives sediuas, and the  augment i in sedivas, which is attached to vas by 7.2.67 vasv ekājādghasām, is lost, because its  cause v no longer exists (cf. akr̥tavyūhāḥ pāṇinīyāḥ and nimittāpāye naimittikasyāpy apāyaḥ).  Then, the a of seduas is deleted by 6.1.108 samprasāraṇāc ca which teaches that both the  
 
-19 We know this because of the use of the paribhāṣā, akr̥tavyūhāḥ pāṇinīyāḥ on SK 435 (6.4.131 vasoḥ samprasāraṇam). I will discuss this later in the example. 
+[^19]: We know this because of the use of the paribhāṣā, akr̥tavyūhāḥ pāṇinīyāḥ on SK 435 (6.4.131 vasoḥ samprasāraṇam). I will discuss this later in the example. 
 
-20 The affix LIṬ is optionally replaced with KvasU in classical Sanskrit after the roots sadA ‘to sit’,  vasA ‘to inhabit’ and śru ‘to listen’ when the action has taken place in the past. 21 An a, which occurs in between two single consonants of a verbal base whose initial sound has not  undergone replacement, is replaced with e, when a LIṬ affix marked with K or Ṅ follows. In such cases,  the abhyāsa (i.e., the first of the two reduplicated syllables) is also deleted.  
+[^20]: The affix LIṬ is optionally replaced with KvasU in classical Sanskrit after the roots sadA ‘to sit’,  vasA ‘to inhabit’ and śru ‘to listen’ when the action has taken place in the past. 21 An a, which occurs in between two single consonants of a verbal base whose initial sound has not  undergone replacement, is replaced with e, when a LIṬ affix marked with K or Ṅ follows. In such cases,  the abhyāsa (i.e., the first of the two reduplicated syllables) is also deleted.  
 
-22 I interpret this rule differently. I will discuss my interpretation later in this example. 
+[^22]: I interpret this rule differently. I will discuss my interpretation later in this example. 
 
 94 
 
@@ -99,9 +99,9 @@ This is a case of DOI. By my interpretation of 1.4.2, the RHS rule 3.2.108 wins 
 
 7.2.67 vasv ekājādghasām: (my interpretation) augment iṬ is introduced to vasU when it  occurs after a root which either consists of a single syllable, or ends in a, or else, is  constituted by ghas ‘to eat’.24 
 
-23 Note that, the whole base does not undergo reduplication. Instead, only one syllable does. See 6.1.1  ekāco dve prathamasya and 6.1.2 ajāder dvitīyasya. 
+[^23]: Note that, the whole base does not undergo reduplication. Instead, only one syllable does. See 6.1.1  ekāco dve prathamasya and 6.1.2 ajāder dvitīyasya. 
 
-24 The tradition interprets this rule as follows: augment iṬ is introduced to vasU when it occurs after a  root which, after doubling, either consists of a single syllable, or ends in a, or else, is constituted by  ghas ‘to eat’. Note that Pāṇini does not say ‘after doubling’ anywhere in his rule, and ‘after doubling’ 
+[^24]: The tradition interprets this rule as follows: augment iṬ is introduced to vasU when it occurs after a  root which, after doubling, either consists of a single syllable, or ends in a, or else, is constituted by  ghas ‘to eat’. Note that Pāṇini does not say ‘after doubling’ anywhere in his rule, and ‘after doubling’ 
 
 95 
 
@@ -133,7 +133,7 @@ Now let us consider the DOI relationship between 6.1.8 and 6.4.131. By my interp
 
 cannot be inferred by anuvr̥tti either. The tradition takes the liberty to read this phrase into this rule  purely on the basis of certain derivational considerations. I do not think we should make such  assumptions and therefore I do not include ‘after doubling’ in my interpretation. 25 1.2.46 kr̥ttaddhitasamāsāś ca. 
 
-26 1.4.18 yaci bham.
+[^26]: 1.4.18 yaci bham.
 
 96 
 
@@ -153,9 +153,9 @@ The tradition27 adds the declensional affix only after the base is ready. As per
 
 At this point, the tradition prescribes the addition of the affix Jas to the base gārgya: gārgya +  Jas. This leads to the application of 2.4.64 yañañōś ca, which teaches that the gotra affixes  yaÑ and aÑ are replaced with LUK when the following declensional affix denotes plural, except  when the base is feminine. Stopping here gives us the incorrect form: *gārgaḥ.  
 
-27 I give a reference later in the example. 
+[^27]: I give a reference later in the example. 
 
-28 The taddhita affix yaÑ is added to the syntactically related genitive form of any base included in the  list starting with garga to construct a form which means gotra-descendant of that individual. 29 A suP undergoes LUK deletion when it occurs inside a dhātu ‘verbal base’ or a prātipadika ‘nominal  base’.
+[^28]: The taddhita affix yaÑ is added to the syntactically related genitive form of any base included in the  list starting with garga to construct a form which means gotra-descendant of that individual. 29 A suP undergoes LUK deletion when it occurs inside a dhātu ‘verbal base’ or a prātipadika ‘nominal  base’.
 
 97 
 
@@ -185,7 +185,7 @@ This is a case of DOI. By my interpretation of 1.4.2, the right-most rule 4.1.2 
 
 This is a case of DOI. By my interpretation of 1.4.2, we apply the right most rule 2.4.64 and  get: garga + Jas 🡪 gargāḥ (6.1.102 prathamayoḥ pūrvasavarṇaḥ30), which is the correct form.  
 
-30 The a, i or u at the end of the base and the following vowel, which constitutes the first sound of  nominative and accusative affixes, are together replaced with the long equivalent of the former.
+[^30]: The a, i or u at the end of the base and the following vowel, which constitutes the first sound of  nominative and accusative affixes, are together replaced with the long equivalent of the former.
 
 98 
 
@@ -201,7 +201,7 @@ At this point, the tradition prescribes the addition of the affix Jas to the bas
 
 If the derivation stops here, we get pāñcāl + Jas 🡪 *pāñcālaḥ, which is not the correct answer.  On 2.4.62, the Bhaimī commentary on the Laghusiddhāntakaumudī suggests the metarule nimittāpāye naimittikasyāpy apāyaḥ, which we have discussed above, to solve this problem:  because aÑ is deleted, the vr̥ddhi of the first vowel (cf. 7.2.117) and the deletion of the final a  (6.4.148), which were caused by aÑ, also must be undone, thereby giving us the correct form:  
 
-31 I give a reference later in the example.
+[^31]: I give a reference later in the example.
 
 99 
 
@@ -261,7 +261,7 @@ By my interpretation of 1.4.2, we apply the RHS rule 4.1.2 and get: gārgya + ch
 
 If we apply 2.4.64 at this step, 7.1.2 will be applicable at the following step. If we apply 7.1.2  at this step, thereby replacing ch of cha with īy (which gives us gārgya + īya), then 4.1.89  gotre’lug aci comes into play: 
 
-32 Note that, in all the derivations that I have performed using my method in this chapter, I apply 2.4.71  supo dhātuprātipadikayoḥ before actually starting the derivation. I do this to avoid making the  derivations unnecessarily lengthy and to avoid monotony. I take this liberty because the correctness of  the form we get at the end of the derivation does not depend on the step at which we apply 2.4.71.  Ideally, one should apply this rule only when it ought to be applied. 
+[^32]: Note that, in all the derivations that I have performed using my method in this chapter, I apply 2.4.71  supo dhātuprātipadikayoḥ before actually starting the derivation. I do this to avoid making the  derivations unnecessarily lengthy and to avoid monotony. I take this liberty because the correctness of  the form we get at the end of the derivation does not depend on the step at which we apply 2.4.71.  Ideally, one should apply this rule only when it ought to be applied. 
 
 101 
 
@@ -287,11 +287,11 @@ By 2.4.71 supo dhātuprātipadikayoḥ, Ṭā is deleted, leading to puṣya + a
 
  7.2.117 6.4.148 4.2.4 4.1.2 
 
-33 4.1.83 prāg dīvyato’ṇ - 4.4.2 tena dīvyati khanati jayati jitam. 
+[^33]: 4.1.83 prāg dīvyato’ṇ - 4.4.2 tena dīvyati khanati jayati jitam. 
 
-34 Mbh II.240.14. 
+[^34]: Mbh II.240.14. 
 
-35 He focuses on the question: should the ya of gārgya be deleted by 2.4.64 yañañoś ca before a plural  declensional affix is introduced to the derivation? I think this question is invalid because, in my view,  2.4.64 should only apply to a base when a plural affix is present. 
+[^35]: He focuses on the question: should the ya of gārgya be deleted by 2.4.64 yañañoś ca before a plural  declensional affix is introduced to the derivation? I think this question is invalid because, in my view,  2.4.64 should only apply to a base when a plural affix is present. 
 
 102 
 
@@ -315,7 +315,7 @@ By my interpretation of 1.4.2, the right-most rule 4.2.4 applies and we get: pu�
 
 The Bhaimī commentary on the Laghusiddhāntakaumudī does not mention this conflict. However, after applying 4.2.4 at this step, it does say that by 1.1.63 na lumatāṅgasya, 7.2.117  and 6.4.148 fail to apply at the following step.  
 
-36 Note that our sentence is adya puṣyaḥ wherein the time mentioned is adya which is not specific  (unlike for example, rātri, which is specific); thus 4.2.4 is applicable here. 
+[^36]: Note that our sentence is adya puṣyaḥ wherein the time mentioned is adya which is not specific  (unlike for example, rātri, which is specific); thus 4.2.4 is applicable here. 
 
 103 
 
@@ -361,7 +361,7 @@ On 5.2.49, Nyāsa says that 5.2.49 is antaraṅga with respect to 6.4.143 and th
 
 Now, because KHaŚ is marked with Ś, it is a sārvadhātuka affix by 3.4.113 tiṅśit  sārvadhātukam. Here, 3.1.69 divādibhyaḥ ŚyaN instructs us to add the affix ŚyaN between the  root man, which belongs to the fourth class of verbal roots, and KHaŚ, which is a sārvadhātuka affix used in the active sense. This gives us manya + a. By 6.1.97 ato guṇe, both a and the  guṇa sound following it are replaced with the latter. This gives us manya.  
 
-37 A form is termed pada when a svādi (affixes enumerated under 4.1.2 svaujas... through 5.4.151 uraḥ prabhr̥tibhyaḥ kap) affix which is not a sarvanāmasthāna (sU, au, Jas, am, auṬ; see 4.1.2 svaujas...)  follows.
+[^37]: A form is termed pada when a svādi (affixes enumerated under 4.1.2 svaujas... through 5.4.151 uraḥ prabhr̥tibhyaḥ kap) affix which is not a sarvanāmasthāna (sU, au, Jas, am, auṬ; see 4.1.2 svaujas...)  follows.
 
 105 
 
@@ -389,7 +389,7 @@ Coming back to the problem, how do we explain this anomaly? Notice that these ru
 
 6.3.67 (khity anavyayasya uttarapade) arurdviṣadajantasya mum 
 
-38 One could argue that this should be [kālī am manya]. For a detailed discussion on this topic, see  Scharf (2016). 
+[^38]: One could argue that this should be [kālī am manya]. For a detailed discussion on this topic, see  Scharf (2016). 
 
 106 
 

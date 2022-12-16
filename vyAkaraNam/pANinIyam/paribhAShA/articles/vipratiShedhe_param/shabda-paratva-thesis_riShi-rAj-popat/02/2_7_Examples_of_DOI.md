@@ -37,7 +37,7 @@ However, if only one rule K1 is applicable (to c) at a given step c + d, then I 
 
 [^29]: RE = ‘Representative Example’. 
 
-30 Note that examples from nominal inflection are simpler than those from verbal inflection. One of the  many reasons behind this is that, while nominal inflection involves only two items, i.e., a base and affix,  verbal inflection generally involves at least three items, i.e., a base followed by two affixes. We will  look at examples from verbal inflections as well as primary and secondary derivatives in the following  chapters.
+[^30]: Note that examples from nominal inflection are simpler than those from verbal inflection. One of the  many reasons behind this is that, while nominal inflection involves only two items, i.e., a base and affix,  verbal inflection generally involves at least three items, i.e., a base followed by two affixes. We will  look at examples from verbal inflections as well as primary and secondary derivatives in the following  chapters.
 
 49 
 
@@ -65,7 +65,7 @@ By my interpretation of 1.4.2, the RHS operation 7.1.9 wins, leading to the corr
 
 In his comments on 7.1.9, Patañjali tries to solve this conflict by using paratva (the rule that  comes later in the serial order of the Aṣṭādhyāyī wins) but that gives the wrong answer:  *devebhis. He then asserts that 7.1.9 is nitya and thus wins, giving the correct form: devaiḥ.31 His explanation for calling 7.1.9 nitya is illogical at best, and we will not delve into it. Suffice  it to say that the nitya tool, which can only solve cases of unidirectional blocking, cannot be  applied to the present case of mutual blocking. Pradīpa and Uddyota, the two popular  commentaries on the Mahābhāṣya suggest that the rule 7.1.9 is anavakāśa whereas 7.3.103 is  
 
-31 Mbh III.244.13-21.
+[^31]: Mbh III.244.13-21.
 
 50sāvakāśa. So, the former wins. The anavakāśa tool is simply a technical way of arguing the  following: 
 
@@ -91,9 +91,9 @@ This is a case of mutual blocking, and thus of Type 2a (DOI conflict).
 
 By my interpretation of 1.4.2, the RHS operation 7.3.120 wins, leading to the correct form:  hariṇā.33 
 
-32 The instrumental singular affix taught by 4.1.2 sv-au-jas… is Ṭā and not āṄ. The use of āṄ instead  of Ṭā “is best understood as reflecting earlier traditions” (Cardona 1997: 51). 
+[^32]: The instrumental singular affix taught by 4.1.2 sv-au-jas… is Ṭā and not āṄ. The use of āṄ instead  of Ṭā “is best understood as reflecting earlier traditions” (Cardona 1997: 51). 
 
-33 n > ṇ, by 8.4.2 aṭkupvāṅnumvyavāye’pi.
+[^33]: n > ṇ, by 8.4.2 aṭkupvāṅnumvyavāye’pi.
 
 51 
 
@@ -135,7 +135,7 @@ Let us look at the DOI interaction between 6.1.77 and 7.1.73. If vāri takes the
 
 Now let us look at the DOI interaction between 7.1.73 and 7.3.120. If vāri takes the augment  nUM by 7.1.73, thereby becoming consonant-final vārin, then 7.3.120, which applies only to  
 
-34 Items marked with Ṭ and items marked with K should be attached to the beginning and end  respectively.
+[^34]: Items marked with Ṭ and items marked with K should be attached to the beginning and end  respectively.
 
 53 
 
@@ -157,9 +157,9 @@ strī + ām
 
 If the ī of strī is replaced with iyAṄ by 6.4.79, thereby making it striy, then 7.1.54, which  applies to ām when preceded by nadī-final vowels ī and ū, will not be applicable at the  following step.  
 
-35 Note that this is one of the rare cases in which even if we had applied another rule, namely 7.1.73,  we would still have got the correct form. 
+[^35]: Note that this is one of the rare cases in which even if we had applied another rule, namely 7.1.73,  we would still have got the correct form. 
 
-36 n > ṇ, by 8.4.2 aṭkupvāṅnumvyavāye’pi.
+[^36]: n > ṇ, by 8.4.2 aṭkupvāṅnumvyavāye’pi.
 
 54 
 
@@ -187,7 +187,7 @@ On the other hand, if the augment nUṬ is attached to the affix ām by 7.1.54, 
 
 Both 7.1.54 and 7.1.73 block each other. This is a case of mutual blocking, and thus of Type  2a (DOI conflict).  
 
-37 n > ṇ, by 8.4.2 aṭkupvāṅnumvyavāye’pi.
+[^37]: n > ṇ, by 8.4.2 aṭkupvāṅnumvyavāye’pi.
 
 55 
 
@@ -207,9 +207,9 @@ kroṣṭu + ām
 
 If the u of kroṣṭu becomes r̥ by 7.1.97, then 7.1.54, which applies to ām when it is preceded by  any of the short vowels, will be applicable to ām at the following step. But if the augment nUṬ is added to ām by 7.1.54, thereby making it (consonant-initial) nām, then 7.1.97, which applies  to kroṣṭu only when it is followed by a vowel-initial tritīyādi affix, will not be applicable at the  following step.  
 
-38 Note that both augments i.e., nUM and nUṬ essentially refer to the same sound n. However, if we  applied the rule prescribing nUM, we would get vārin + ām (1.1.47 mid aco’ntyāt paraḥ). In such a  situation, we would not be able to elongate the ī of vārin because 6.4.3 nāmi would not apply here. 39 Mbh III.276.6. 
+[^38]: Note that both augments i.e., nUM and nUṬ essentially refer to the same sound n. However, if we  applied the rule prescribing nUM, we would get vārin + ām (1.1.47 mid aco’ntyāt paraḥ). In such a  situation, we would not be able to elongate the ī of vārin because 6.4.3 nāmi would not apply here. 39 Mbh III.276.6. 
 
-40 Note that this is not actually an operational rule, but an atideśa sūtra ‘extension rule’. For the sake  of studying conflict, we may treat it as an operational rule which teaches that the u of kroṣṭu changes to  r̥.
+[^40]: Note that this is not actually an operational rule, but an atideśa sūtra ‘extension rule’. For the sake  of studying conflict, we may treat it as an operational rule which teaches that the u of kroṣṭu changes to  r̥.
 
 56 
 
@@ -235,9 +235,9 @@ This is a case of unidirectional blocking, and thus of Type 2a (DOI conflict).
 
 By my interpretation of 1.4.2, the RHS operation 7.1.23 wins, thereby giving the correct form:  kartr̥. 
 
-41 This is discussed in Pradīpa on vt. 11, 7.1.96. 
+[^41]: This is discussed in Pradīpa on vt. 11, 7.1.96. 
 
-42 Mbh III.276.6.
+[^42]: Mbh III.276.6.
 
 57 
 
@@ -263,9 +263,9 @@ If we apply 7.1.23 at this step, 7.2.102 will not be applicable at the following
 
 However, Patañjali then says that 7.1.23 is not nitya with respect to 7.2.102. This is because,  after the hypothetical application of 7.2.102, 7.1.23 is not the only rule that will be applicable.  7.1.24 ato ’m45 will also be applicable. Since 7.1.24 is an apavāda of 7.1.23, the former will  win. So 7.1.23 will, despite being applicable, fail to apply, following the application of 7.2.102.  
 
-43 Note that 7.2.102 is not applicable at this point, thanks to 1.1.63 na lumatāṅgasya. 44 Mbh III.248.23-249.2. 
+[^43]: Note that 7.2.102 is not applicable at this point, thanks to 1.1.63 na lumatāṅgasya. 44 Mbh III.248.23-249.2. 
 
-45 Affixes sU and am occurring after a neuter base ending in a are replaced with am.
+[^45]: Affixes sU and am occurring after a neuter base ending in a are replaced with am.
 
 58 
 
@@ -289,7 +289,7 @@ By my interpretation of 1.4.2, we apply the RHS rule 7.1.73 and get the correct 
 
 The tradition uses the vārttika, guṇavr̥ddhyauttvatr̥jvadbhāvebhyo num pūrvavipratiṣiddham (vt. 1046 on 7.1.96 striyāṁ ca) to solve this conflict. This vārttika teaches that even though the  rule teaching the attachment of the augment nUM (7.1.73) comes before the rule teaching guṇa (7.3.111) in the serial order of the Aṣṭādhyāyī, the former wins. 
 
-46 Mbh III.275.23.
+[^46]: Mbh III.275.23.
 
 59 
 
@@ -313,7 +313,7 @@ By my interpretation of 1.4.2, the RHS rule 6.1.68 wins and we get rājan. Now t
 
 Note that even if we had applied 6.4.8 (the LHS rule) at the first step, we could have still applied  6.1.68 at the following step. And applying these two rules in this order too would have given  us the correct form. 
 
-47 8.2.7 is asiddha with respect to 6.4.8 and 6.1.68 so it cannot be applied before them. 
+[^47]: 8.2.7 is asiddha with respect to 6.4.8 and 6.1.68 so it cannot be applied before them. 
 
 60Why then did Pāṇini need to say anything about DOI non-conflict at all? Why did he prescribe  that the RHS be applied in such cases (cf. my interpretation of 1.4.2)? We will answer this  question while discussing the following examples.  
 
@@ -335,7 +335,7 @@ Neither of the two rules blocks the other, and so this is a case of Type 2b (DOI
 
 In order to understand why Pāṇini has prescribed that we pick the RHS rule in cases of DOI  non-conflict, let us perform this derivation again, this time by picking the LHS rule in case of  DOI non-conflict. 
 
-48 The augment nUṬ is added at the beginning of ām by 1.1.46 ādyantau ṭakitau. 49 The r̥ of tisr̥ does not undergo elongation by 6.4.3 nāmi because this is prohibited by the following  rule 6.4.4 na tisr̥catasr̥. The n of nām becomes ṇ in tisr̥ṇām. There is no rule in the Aṣṭādhyāyī which  explicitly teaches this. However, there is a vārttika on 8.4.1 raṣābhyāṁ no ṇaḥ samānapade which  correctly teaches this operation: raṣābhyāṁ ṇatvam r̥kāragrahaṇam ‘it should be added that [not only]  after r and ṣ, [but after] r̥ [too], [n is replaced with] ṇ.’ (Mbh III.452.1-6).
+[^48]: The augment nUṬ is added at the beginning of ām by 1.1.46 ādyantau ṭakitau. 49 The r̥ of tisr̥ does not undergo elongation by 6.4.3 nāmi because this is prohibited by the following  rule 6.4.4 na tisr̥catasr̥. The n of nām becomes ṇ in tisr̥ṇām. There is no rule in the Aṣṭādhyāyī which  explicitly teaches this. However, there is a vārttika on 8.4.1 raṣābhyāṁ no ṇaḥ samānapade which  correctly teaches this operation: raṣābhyāṁ ṇatvam r̥kāragrahaṇam ‘it should be added that [not only]  after r and ṣ, [but after] r̥ [too], [n is replaced with] ṇ.’ (Mbh III.452.1-6).
 
 61 
 
@@ -393,7 +393,7 @@ id [ a-a ] + Ṅe
 
 6.1.97 ato guṇe: when a short a, which is not pada-final (word-final) is followed by a guṇa vowel i.e., a, e, or o, then both a and the following guṇa are replaced with the latter. 
 
-50 Mbh III.276.6-22.
+[^50]: Mbh III.276.6-22.
 
 63 
 
@@ -445,9 +445,9 @@ If we apply 7.2.94 at this step, 7.2.86 will be applicable at the following step
 
 Similarly, if we apply 7.2.94 at this step, 7.1.28 will be applicable at the following step. If we  apply 7.1.28 at this step, 7.2.94 will be applicable at the following step.52 There is a Type 2b  (DOI non-blocking) relationship between 7.2.94 and 7.1.28.  
 
-51 The tradition translates maparyantasya as ‘up to m’ but I think that Pāṇini means ‘up to ma’. Both  interpretations lead to correct answers for all forms of yuṣmad-asmad. My interpretation makes  derivations simpler and shorter.  
+[^51]: The tradition translates maparyantasya as ‘up to m’ but I think that Pāṇini means ‘up to ma’. Both  interpretations lead to correct answers for all forms of yuṣmad-asmad. My interpretation makes  derivations simpler and shorter.  
 
-52 Given that sU has been replaced with am, how will 7.2.94 apply at the following step? This is because,  by 1.1.56 sthānivadādeśo’nalvidhau, am is treated like sU. How do we know this is not an aL-vidhi?  asma and am are not adjacent to each other (d sits in the middle of the two), and so this is not an aL  operation.
+[^52]: Given that sU has been replaced with am, how will 7.2.94 apply at the following step? This is because,  by 1.1.56 sthānivadādeśo’nalvidhau, am is treated like sU. How do we know this is not an aL-vidhi?  asma and am are not adjacent to each other (d sits in the middle of the two), and so this is not an aL  operation.
 
 65 
 
@@ -467,9 +467,9 @@ If we apply 7.2.94 at this step, 7.2.90 will still be applicable at the followin
 
 As stated in a footnote on 7.2.94, the traditional interpretation of 7.2.94 is different from mine.  Thus, its derivational process is different and slightly longer. We will not delve into it here. I  will simply say that the tradition would have resolved the DOI conflict in this example using  the nitya tool. 
 
-53 Note that, here, the affix sU has undergone ādeśa ‘substitution’ with am. So, 7.2.86, which can only  apply to asmad when followed by a non-substituted and consonant initial affix, and which was  applicable in the previous step, is no longer applicable at this step. Instead of that rule, 7.2.90 has  become applicable. 
+[^53]: Note that, here, the affix sU has undergone ādeśa ‘substitution’ with am. So, 7.2.86, which can only  apply to asmad when followed by a non-substituted and consonant initial affix, and which was  applicable in the previous step, is no longer applicable at this step. Instead of that rule, 7.2.90 has  become applicable. 
 
-54 An a which is not at the end of a pada and the guṇa vowel following it are both replaced with the  latter.
+[^54]: An a which is not at the end of a pada and the guṇa vowel following it are both replaced with the  latter.
 
 66 
 

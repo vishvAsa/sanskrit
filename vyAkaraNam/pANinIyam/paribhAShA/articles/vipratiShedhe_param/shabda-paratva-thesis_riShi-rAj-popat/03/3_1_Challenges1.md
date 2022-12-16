@@ -165,7 +165,7 @@ To get the correct answer, we have to apply 6.4.14 first, and then apply 7.1.70:
 
 The tradition too takes cognizance of this problem, because even the application of its own  conflict resolution tools gives the wrong form. 7.1.70 is both nitya (the rule which  unidirectionally blocks the other rule) and para (the rule which comes after the other rule in  the serial order of the Aṣṭādhyāyī) with respect to 6.4.14. And yet 6.4.14 has to prevail for us  to get the correct answer. On 6.4.14 the Kāśikā says: atra kr̥te dīrghe numāgamaḥ kartavyaḥ.  yadi hi paratvān nityatvāc ca nuṁ syāt, dīrghasya nimittam atūpadhā vihanyeta ‘Here, the  
 
-5 An operation conditioned by an affix applies even if the affix has been replaced with LOPA. 6 Note that we cannot replace the penultimate a of bhavan at this stage with ā by 6.4.14 because 6.4.14  treats 8.2.23 as asiddha and thus cannot see that t has been deleted by 8.2.23. So 6.4.14 still sees the  form as bhavant, to which it cannot apply.
+[^5]: An operation conditioned by an affix applies even if the affix has been replaced with LOPA. 6 Note that we cannot replace the penultimate a of bhavan at this stage with ā by 6.4.14 because 6.4.14  treats 8.2.23 as asiddha and thus cannot see that t has been deleted by 8.2.23. So 6.4.14 still sees the  form as bhavant, to which it cannot apply.
 
 87 
 
@@ -177,7 +177,7 @@ Returning to the topic at hand, this example too seems to invalidate my interpre
 
 88 
 
-08 sarvanāmasthāne cāsambuddhau [dīrghaḥ nopadhāyāḥ] 
+[^08]: sarvanāmasthāne cāsambuddhau [dīrghaḥ nopadhāyāḥ] 
 
 09 [sarvanāmasthāne cāsambuddhau dīrghaḥ nopadhāyāḥ] (vā ṣapūrvasya nigame) 
 
@@ -187,13 +187,13 @@ If a term A in rule number ‘n’ does not have an equivalent term B in rule nu
 
 Note that cāsambuddhau ‘and not in vocative singular10’ which is anuvr̥tta from 6.4.8 into 6.4.9, 6.4.10 and 6.4.11 does not become anuvr̥tta in  6.4.12 śau inhanpūṣāryamṇām because Śi is never seen in sambuddhi ‘vocative singular’ forms. So, it is irrelevant there and does not get continued  into 6.4.12. The next rule is 6.4.13 sau ca, and we know that sU is added to bases to derive both vocative and non-vocative forms. cāsambuddhau is relevant in 6.4.13, because it can play the role of restricting 6.4.13 to only non-vocative cases of sU, and thus, gets anuvr̥tta in 6.4.13. This is  one of many examples in the Aṣṭādhyāyī in which a term displays what is called maṇḍukapluti ‘frog jump’, i.e., it becomes anuvr̥tta from rule  number ‘n’ to rule number ‘n+2’ without becoming anuvr̥tta in rule number ‘n+1’, thereby jumping like a frog from one rule in which it is relevant to the next rule in which it is relevant, skipping, on its way, those rules in which it would be irrelevant. 
 
-7 aptr̥ntr̥csvasr̥naptr̥neṣṭr̥kṣattr̥hotr̥potr̥praśāstr̥̄ṇām. 
+[^7]: aptr̥ntr̥csvasr̥naptr̥neṣṭr̥kṣattr̥hotr̥potr̥praśāstr̥̄ṇām. 
 
-8 Joshi-Bhate 1984: 48. 
+[^8]: Joshi-Bhate 1984: 48. 
 
-9 For more on the anuvr̥tti of optional terms see Joshi-Bhate (1984: 70). 
+[^9]: For more on the anuvr̥tti of optional terms see Joshi-Bhate (1984: 70). 
 
-10 2.3.49 ekavacanaṁ sambuddhiḥ.
+[^10]: 2.3.49 ekavacanaṁ sambuddhiḥ.
 
 89 
 

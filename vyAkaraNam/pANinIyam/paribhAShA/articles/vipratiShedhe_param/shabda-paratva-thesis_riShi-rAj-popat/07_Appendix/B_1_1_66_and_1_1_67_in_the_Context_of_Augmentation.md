@@ -15,7 +15,7 @@ In sum, according to the tradition, in x + y, if rule K is applicable, then: (i)
 
 Consider the derivation of the genitive plural of the pronominal stem sarva ‘everything’4: sarva  + ām. Here the pronominal stem sarva ends in a and is followed by ām. So, 7.1.52 āmi  sarvanāmnaḥ suṭ (āt) is applicable. By 1.1.66, the augment sUṬ should be attached to sarva 
 
-1 Please read the ‘Introduction’ section of Appendix A before reading further.  2 Kāśikā on 1.1.66: tasminn iti saptamyarthanirdeśe pūrvasyaiva kāryaṁ bhavati nottarasya. 3 Kāśikā on 1.1.67: tasmād iti pañcamyarthanirdeśa uttarasyaiva kāryaṁ bhavati na pūrvasya.  4 Note that I have not mentioned instances of DOI and SOI at different steps of this derivation, since  our focus is on the competition between paribhāṣā rules. Nonetheless, I follow my method of dealing  with SOI and DOI in this derivation.
+[^1]: Please read the ‘Introduction’ section of Appendix A before reading further.  2 Kāśikā on 1.1.66: tasminn iti saptamyarthanirdeśe pūrvasyaiva kāryaṁ bhavati nottarasya. 3 Kāśikā on 1.1.67: tasmād iti pañcamyarthanirdeśa uttarasyaiva kāryaṁ bhavati na pūrvasya.  4 Note that I have not mentioned instances of DOI and SOI at different steps of this derivation, since  our focus is on the competition between paribhāṣā rules. Nonetheless, I follow my method of dealing  with SOI and DOI in this derivation.
 
 224 
 
@@ -33,11 +33,11 @@ ablative forms. Since Pāṇini has used the locative form che, 6.1.76 could pot
 
 Consider the compound kuṭīcchāyā ‘shade of a hut’. When deriving this form, at step kuṭī +  chāyā, since kuṭī ends in a long vowel and since chāyā begins with a ch, 6.1.76 is applicable. By 1.1.66, the augment tUK should be attached to kuṭī but by 1.1.67, the augment tUK should  be attached to chāyā. Which of the two metarules should be chosen to govern 6.1.76? By  vārttikas 3 and 14, when there is a competition between the ablative and the locative, the  
 
-5 Mbh I.173.1. 
+[^5]: Mbh I.173.1. 
 
-6 Mbh I.174.6. 
+[^6]: Mbh I.174.6. 
 
-7 On 1.1.46, the Kāśikā says: ādiḥ ṭit bhavati antaḥ kit bhavati ṣaṣṭhīnirdiṣṭasya.
+[^7]: On 1.1.46, the Kāśikā says: ādiḥ ṭit bhavati antaḥ kit bhavati ṣaṣṭhīnirdiṣṭasya.
 
 225 
 

@@ -45,11 +45,11 @@ The Siddhāntakaumudī (SK) mentions the following relationships between these m
 
 2Alo’ntyasya ity asyāpavādaḥ (SK on 1.1.54). 
 
-3 Alo’ntyasūtrāpavādaḥ (SK on 1.1.55). 
+[^3]: Alo’ntyasūtrāpavādaḥ (SK on 1.1.55). 
 
-4 Sarvasya ity asyāpavādaḥ (SK on 1.1.53). 
+[^4]: Sarvasya ity asyāpavādaḥ (SK on 1.1.53). 
 
-5 Aṣṭābhya auś (7.1.21) ityādau deḥ parasya ity etad api paratvād anena bādhyate (SK on 1.1.55).
+[^5]: Aṣṭābhya auś (7.1.21) ityādau deḥ parasya ity etad api paratvād anena bādhyate (SK on 1.1.55).
 
 220Below, I have represented this information in the form of a diagram. The arrows point towards  the winning rules. 
 
@@ -69,7 +69,7 @@ or vr̥ddhi substitution in the preceding base (cf. 1.1.5 kṅiti ca), rather th
 
 Is there a way to derive the correct form likhatāt without flouting Pāṇini’s metarules? To  answer this question, let me discuss this problem from my perspective. To begin with, let me 
 
-6 Tātaṅi ṅitkaraṇasya sāvakāśatvād vipratiṣedhāt sarvādeśaḥ (1) ‘Because the Ṅ of tātAṄ is sāvakāśa ‘useful elsewhere’ [we can infer that] there is a vipratiṣedha ‘conflict’ (between 1.1.55 anekālśit  sarvasya and 1.1.53 ṅic ca) [and thus, the para rule, which teaches] sarvādeśa, [wins]’ (Mbh I.131.1). 
+[^6]: Tātaṅi ṅitkaraṇasya sāvakāśatvād vipratiṣedhāt sarvādeśaḥ (1) ‘Because the Ṅ of tātAṄ is sāvakāśa ‘useful elsewhere’ [we can infer that] there is a vipratiṣedha ‘conflict’ (between 1.1.55 anekālśit  sarvasya and 1.1.53 ṅic ca) [and thus, the para rule, which teaches] sarvādeśa, [wins]’ (Mbh I.131.1). 
 
 221 
 

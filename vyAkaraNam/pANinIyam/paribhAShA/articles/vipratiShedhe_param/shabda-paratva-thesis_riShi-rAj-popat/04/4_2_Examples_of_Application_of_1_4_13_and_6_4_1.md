@@ -41,7 +41,7 @@ To the best of my knowledge, the tradition does not discuss this example. Howeve
 
 [^8]: Unless I explicitly state that the form being derived is passive, it must be assumed that it is active. 9 1.1.64 aco’ntyādi ṭi.  
 
-10 When a short a, that is not pada-final (word-final) is followed by a guṇa vowel i.e., a, e, or o, then  both a and the following guṇa are replaced with the latter.
+[^10]: When a short a, that is not pada-final (word-final) is followed by a guṇa vowel i.e., a, e, or o, then  both a and the following guṇa are replaced with the latter.
 
 113 
 
@@ -59,11 +59,11 @@ My interpretations of 1.4.13 yasmāt pratyayavidhis tadādi pratyaye’ṅgam an
 
 As stated before, dhā cannot be called an aṅga with respect to jhi. Consequently, rules taught  in the aṅgādhikāra (6.4 – 7.4) cannot apply to dhā or jhi. For example, 7.1.3 jho’ntaḥ cannot  apply here. The derivation proceeds as follows: dhā + ŚaP + jhi (3.1.68 kartari śap) 🡪 dhā +  ŚLU + jhi (2.4.75 juhotyādibhyaḥ śluḥ11) 🡪 dhādhā + ŚLU + jhi (6.1.10 ślau12) 🡪 dhadhā +  ŚLU + jhi (7.4.59 hrasvaḥ13). At this point, we notice that dhadhā and ŚLU cannot undergo  any other operations which are not triggered by jhi. So, we can write dhadhā + ŚLU as dhadhā. 
 
-11 When the affix ŚaP is preceded by any verbal root belonging to the list headed by hu ‘to perform  sacrifice’, it is replaced with ŚLU (cf. 1.1.61 pratyayasya lukślulupaḥ). 
+[^11]: When the affix ŚaP is preceded by any verbal root belonging to the list headed by hu ‘to perform  sacrifice’, it is replaced with ŚLU (cf. 1.1.61 pratyayasya lukślulupaḥ). 
 
-12 A verbal base which has not already undergone reduplication undergoes reduplication when it is  followed by ŚLU. (Note that, the whole base does not undergo reduplication. Instead, only one syllable  does. See 6.1.1 ekāco dve prathamasya and 6.1.2 ajāder dvitīyasya. Unless necessary, I will not repeat  this clarification in this chapter). 
+[^12]: A verbal base which has not already undergone reduplication undergoes reduplication when it is  followed by ŚLU. (Note that, the whole base does not undergo reduplication. Instead, only one syllable  does. See 6.1.1 ekāco dve prathamasya and 6.1.2 ajāder dvitīyasya. Unless necessary, I will not repeat  this clarification in this chapter). 
 
-13 The vowel of the abhyāsa ‘first of two reduplicated syllables’ is replaced with its short counterpart. 
+[^13]: The vowel of the abhyāsa ‘first of two reduplicated syllables’ is replaced with its short counterpart. 
 
 114 
 
@@ -85,7 +85,7 @@ Thus, we get dhadhati 🡪 dadhati, which is the correct answer.
 
 Let us now look at how the tradition tackles this problem. Like in the previous example, in this  example too, there are no cases of DOI conflict, and so the tradition chooses to apply rules in  a random order. But some sequences of rule application can give the wrong answer. For  example: dhā + jhi 🡪 dhā + ŚaP + jhi (3.1.68) 🡪 dhā + ŚaP + anti (7.1.3) 🡪 dhā + ŚLU +  anti (2.4.75) 🡪 *dadhanti (6.1.10 ślau etc.). In sum, if jh undergoes replacement before the  reduplication of dhā, we get the wrong answer. To address this issue, the tradition has come up  
 
-14 8.2.1 pūrvatrāsiddham teaches that from this rule onwards, a following rule is asiddha ‘suspended’ with respect to a preceding rule. So, if 8.4.54 and any rule that precedes it in the Aṣṭādhyāyī’s serial  order are simultaneously applicable, then the latter will not acknowledge 8.4.54 and will thus apply at  that step. 8.4.54 can apply only after this. I will demonstrate this more elaborately in the following  chapter which is devoted to the concepts asiddha and asiddhavat.
+[^14]: 8.2.1 pūrvatrāsiddham teaches that from this rule onwards, a following rule is asiddha ‘suspended’ with respect to a preceding rule. So, if 8.4.54 and any rule that precedes it in the Aṣṭādhyāyī’s serial  order are simultaneously applicable, then the latter will not acknowledge 8.4.54 and will thus apply at  that step. 8.4.54 can apply only after this. I will demonstrate this more elaborately in the following  chapter which is devoted to the concepts asiddha and asiddhavat.
 
 115 
 
@@ -111,7 +111,7 @@ As stated in the first chapter, the tradition often comes up with a new paribhā
 
 My method ensures that the replacement of jha, which is taught in the aṅgādhikāra, takes place  after the reduplication of dhā, which is taught outside the aṅgādhikāra. Therefore, 7.1.3 jho’ntaḥ does not become applicable until 7.1.4 ad abhyastāt, its exception, also becomes  applicable. 7.1.4 wins, thereby giving the correct form dadhati. My method is able to tackle  
 
-15 Paribhāṣās 62 and 63 are found mentioned together on numerous occasions in the Mahābhāṣya (See  Bronkhorst 2004: 18, footnote 11 for details).
+[^15]: Paribhāṣās 62 and 63 are found mentioned together on numerous occasions in the Mahābhāṣya (See  Bronkhorst 2004: 18, footnote 11 for details).
 
 116 
 
@@ -133,7 +133,7 @@ hā is not an aṅga with respect to tas. So here, we cannot apply rules from th
 
 By my interpretation of 1.4.2, we apply the RHS rule 7.4.59 and get hahā + ŚLU + tas. To  this, we apply 7.4.62 and get jhahā + ŚLU + tas. Now, jhahā and ŚLU cannot undergo any  further operations which are not triggered by tas, so we can write jhahā + ŚLU as jhahā. Now,  
 
-16 A siP replacement of LOṬ is replaced with hi and is treated as if not marked with P. 17 The tas, thas, tha and miP replacements for any lakāra marked with Ṅ, are replaced with tām, tam,  ta and am, respectively.
+[^16]: A siP replacement of LOṬ is replaced with hi and is treated as if not marked with P. 17 The tas, thas, tha and miP replacements for any lakāra marked with Ṅ, are replaced with tām, tam,  ta and am, respectively.
 
 117 
 
@@ -157,7 +157,7 @@ To the best of my knowledge, the tradition has not discussed this problem. But, 
 
 The possibility of getting such a wrong answer is completely eliminated by following my  interpretations of 1.4.13 and 6.4.1 respectively. This is because, my method ensures that  6.4.116, which is taught in the aṅgādhikāra and replaces ā of hā with i, applies only after the reduplication of root hā by 6.1.10 ślau, which is taught outside the aṅgādhikāra. 
 
-18 Note that I will use the word ‘implement’ henceforth in relation with optionality.
+[^18]: Note that I will use the word ‘implement’ henceforth in relation with optionality.
 
 118 
 
@@ -183,9 +183,9 @@ upya + ta
 
 6.4.72 āḍ ajādīnām: the udāttaḥ ‘high-pitched’ augment āṬ is attached to a verbal base which  begins with a vowel (aC) when affixes LUṄ, LAṄ and LR̥Ṅ follow. 
 
-19 Note that this rule is applicable because ta, by virtue of being an apit sārvadhātuka, can be treated as marked with K, by 1.2.4 sārvadhātukam apit.  
+[^19]: Note that this rule is applicable because ta, by virtue of being an apit sārvadhātuka, can be treated as marked with K, by 1.2.4 sārvadhātukam apit.  
 
-20 A samprasāraṇa vowel and the following vowel, are together replaced with the former.
+[^20]: A samprasāraṇa vowel and the following vowel, are together replaced with the former.
 
 119 
 
@@ -201,8 +201,8 @@ In sum, these four examples prove that my interpretations of 1.4.13 and 6.4.1 re
 
 It is also noteworthy that in cases of the type ‘base + affix (1) + affix (2)’, Pāṇini teaches those  processes which contribute towards the construction of the aṅga with respect to affix (2) before  
 
-21 A single vr̥ddhi vowel replaces both āṬ and the vowel following it. 
+[^21]: A single vr̥ddhi vowel replaces both āṬ and the vowel following it. 
 
-22 Iha aijyata, aupyata, auhyata iti laṅi kr̥te lāvasthāyām aḍāgamād antaraṅgatvāl lādeśaḥ kriyate,  tatra kr̥te vikaraṇo nityatvād aḍāgamaṁ bādhate ‘Here [with reference to the derivation of the forms] aijyata, aupyata, auhyata, after the addition of the affix LAṄ, in that state of the lakāra, by  antaraṅgatva, the substitution of the lakāra is done [rather than] the addition of the augment aṬ, and  thereafter, by nityatva, the [addition of] vikaraṇa defeats [the insertion of] augment aṬ.’
+[^22]: Iha aijyata, aupyata, auhyata iti laṅi kr̥te lāvasthāyām aḍāgamād antaraṅgatvāl lādeśaḥ kriyate,  tatra kr̥te vikaraṇo nityatvād aḍāgamaṁ bādhate ‘Here [with reference to the derivation of the forms] aijyata, aupyata, auhyata, after the addition of the affix LAṄ, in that state of the lakāra, by  antaraṅgatva, the substitution of the lakāra is done [rather than] the addition of the augment aṬ, and  thereafter, by nityatva, the [addition of] vikaraṇa defeats [the insertion of] augment aṬ.’
 
 1206.4.1, in the Aṣṭādhyāyī’s serial order. For example, he teaches the addition of vikaraṇas in  pāda 3.1 and vowel sandhi, reduplication and samprasāraṇa in pāda 6.1. 

@@ -15,13 +15,13 @@ Kiparsky then says: “to use terms common in linguistics, asiddhatva blocks ble
 
 Kiparsky concludes: “it can be said that asiddha and the other devices are restrictions (niyamas)  on a general paribhāṣā that determines how rules interact when no special statement about their  ordering is made in the grammar. This paribhāṣā is not stated in the grammar itself but it is  presupposed by the correct operation of rules in it and implied by the various restrictions on it  that are stated in the grammar. It is to be formulated as ‘sarvatra siddham’ and we refer to it  as the siddha principle.”4 He continues: “[W]hat the siddha principle says is that in the general  case we have ādeśalakṣaṇabhāva and utsargalakṣaṇapratiṣedha…in short, the siddha relations  
 
-1 When A is suspended with respect to B, B cannot acknowledge A. 
+[^1]: When A is suspended with respect to B, B cannot acknowledge A. 
 
-2 The vārttika (Mbh III.65.9) has the word ṣatvatukor in it, but when Kiparsky quotes the vārttika, he  excludes this word from it. 
+[^2]: The vārttika (Mbh III.65.9) has the word ṣatvatukor in it, but when Kiparsky quotes the vārttika, he  excludes this word from it. 
 
-3 Kiparsky 1982: 77. 
+[^3]: Kiparsky 1982: 77. 
 
-4 Ibid., 79.
+[^4]: Ibid., 79.
 
 238 
 
@@ -31,11 +31,11 @@ Further, he says, “As far as feeding is concerned, this really goes without sa
 
 Thus, we can say feeding and bleeding together are simply equivalent to nityatva in the  Pāṇinian tradition. And the siddha principle, which means the maximization of feeding and  bleeding, is tantamount to the maximization, wherever possible, of the use of nityatva for rule  conflict resolution, that is, in all cases involving unidirectional blocking. 
 
-5 Ibid. 
+[^5]: Ibid. 
 
-6 Ibid. 
+[^6]: Ibid. 
 
-7 Ibid., 84-85.
+[^7]: Ibid., 84-85.
 
 239 
 
@@ -115,7 +115,7 @@ Regardless of that, let me briefly comment on the following question: how useful
 
 How useful is the siddha principle in dealing with cases of unidirectional blocking? Since the  siddha principle is no different from the nitya principle, albeit with a wider scope of application  than the traditional one, the answer to this question is the same as the answer to the question  about the potency of the nitya principle, which I have given in footnote 62 of chapter 4, and  which I reproduce here: “This is exactly why the traditional nitya tool which teaches that the  nitya rule defeats the anitya rule, always correctly resolves cases of DOI involving  
 
-8 As stated towards the end of section 6.2 in chapter 6, Joshi and Kiparsky admit that, for mutual  blocking, “no general solution has been found” (Kiparsky 1987: 295) by them.
+[^8]: As stated towards the end of section 6.2 in chapter 6, Joshi and Kiparsky admit that, for mutual  blocking, “no general solution has been found” (Kiparsky 1987: 295) by them.
 
 241 
 
@@ -127,15 +127,15 @@ Why does the derivational path in which siddha relations are maximized lead to t
 
 Now let us ask: how useful is the extended siddha principle in resolving cases of SSRI? If one  has to chart out all possible derivational paths to make a decision, how is choosing the  derivational path in which siddha-relations are maximized any better than simply choosing the  derivational path which gives the correct grammatical form – which we know thanks to our  
 
-9 Joshi and Kiparsky 2005: 7. 
+[^9]: Joshi and Kiparsky 2005: 7. 
 
-10 Ibid. 
+[^10]: Ibid. 
 
-11 The contents in brackets have been added by me.  
+[^11]: The contents in brackets have been added by me.  
 
-12 Joshi and Kiparsky 2005: 7. 
+[^12]: Joshi and Kiparsky 2005: 7. 
 
-13 I discuss this in a related context in section 1.3 of Chapter 1. 
+[^13]: I discuss this in a related context in section 1.3 of Chapter 1. 
 
 242 
 

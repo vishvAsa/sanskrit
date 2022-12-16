@@ -19,7 +19,7 @@ To adhī + Ktvā, we apply the rule 7.1.37 samāse’nañpūrve ktvo lyap which 
 
 both 6.1.101 akaḥ savarṇe dīrghaḥ and the outcome of its application (because, remember,  
 
-14 The Nyāsa on 8.2.1 too says so: śāstrasyāsiddhau ca kr̥tāyām arthataḥ kāryāsiddhatvaṁ kr̥tam eva  bhavati tasya tannibandhanatvāt. 
+[^14]: The Nyāsa on 8.2.1 too says so: śāstrasyāsiddhau ca kr̥tāyām arthataḥ kāryāsiddhatvaṁ kr̥tam eva  bhavati tasya tannibandhanatvāt. 
 
 173 
 
@@ -35,9 +35,9 @@ We have derived ko’siñcat by applying 6.1.109 eṅaḥ padāntād ati which t
 
 8.3.59 ādeśapratyayoḥ: ṣ replaces non-pada-final s of a substitute or of an affix occurring after  iṆ (any vowel except a; h, y, v, r and l) or a velar stop, even when there is intervention of nUM,  visarjanīya, or śaR (ś, ṣ, s). 
 
-15 Note that, if we had started the derivation with adhi + itvā, the derivation would have proceeded as  follows. Two rules are applicable here, namely 6.1.101 akaḥ savarṇe dīrghaḥ and 7.1.37  samāse’nañpūrve ktvo lyap. This is a case of DOI. By 1.4.2, the RHS rule wins and we get adhi + iya.  Here, two rules are applicable: 6.1.101 and 6.1.71 hrasvasya piti kr̥ti tuk. This is a case of SOI. 6.1.71  is more specific and thus wins. This gives us adhi + itya. Now 6.1.101 applies, giving the correct form  adhītya. Notice that, if we start the derivation with adhi + itvā, we get the correct form without applying  6.1.86. But the fact that Pāṇini composed 6.1.86 confirms the fact that the derivation of this compound  begins with adhī + tvā and not with adhi + itvā, even though the compound itself is being formed from  adhi and itvā by 2.2.18 kugatiprādayaḥ. I have discussed this in some detail in example 5 of section  4.3, chapter 4. 
+[^15]: Note that, if we had started the derivation with adhi + itvā, the derivation would have proceeded as  follows. Two rules are applicable here, namely 6.1.101 akaḥ savarṇe dīrghaḥ and 7.1.37  samāse’nañpūrve ktvo lyap. This is a case of DOI. By 1.4.2, the RHS rule wins and we get adhi + iya.  Here, two rules are applicable: 6.1.101 and 6.1.71 hrasvasya piti kr̥ti tuk. This is a case of SOI. 6.1.71  is more specific and thus wins. This gives us adhi + itya. Now 6.1.101 applies, giving the correct form  adhītya. Notice that, if we start the derivation with adhi + itvā, we get the correct form without applying  6.1.86. But the fact that Pāṇini composed 6.1.86 confirms the fact that the derivation of this compound  begins with adhī + tvā and not with adhi + itvā, even though the compound itself is being formed from  adhi and itvā by 2.2.18 kugatiprādayaḥ. I have discussed this in some detail in example 5 of section  4.3, chapter 4. 
 
-16 The s at the end of a pada and the final s of sajus ‘companion, together with’ are replaced with rU. 17 An uT replaces a rU when it is both preceded and followed by a non-pluta a.
+[^16]: The s at the end of a pada and the final s of sajus ‘companion, together with’ are replaced with rU. 17 An uT replaces a rU when it is both preceded and followed by a non-pluta a.
 
 174 
 
@@ -51,9 +51,9 @@ Here is a possible solution to this problem: I think that, in the Pāṇinian sy
 
 We do not find any examples of SOI or DOI involving 6.1.86 ṣatvatukor asiddhaḥ. Let us now  look at some derivations involving 8.2.1 pūrvatrāsiddham, and also how this rule interacts with SOI and DOI. 
 
-18 Yadi rutvam asiddhaṁ syāt tadā sthānitvena ror āśrayaṇam anarthakaṁ syāt. kasyacid  ukārānubandhaviśiṣṭasya ror asambhavāt. 
+[^18]: Yadi rutvam asiddhaṁ syāt tadā sthānitvena ror āśrayaṇam anarthakaṁ syāt. kasyacid  ukārānubandhaviśiṣṭasya ror asambhavāt. 
 
-19 However, I must admit that there exist other cases of this kind which remain intractable or  unexplainable. For example, see example 15 of section 4.3, chapter 4 where 6.1.101 applies after the  application of 8.2.28. 
+[^19]: However, I must admit that there exist other cases of this kind which remain intractable or  unexplainable. For example, see example 15 of section 4.3, chapter 4 where 6.1.101 applies after the  application of 8.2.28. 
 
 175 
 
@@ -67,15 +67,15 @@ If Pāṇini had not taught 8.2.1, we would have got the incorrect form *rājai�
 
 The derivation proceeds as follows: asmai + uddhara 🡪 asmāy + uddhara (6.1.78  eco’yavāyāvaḥ24) 🡪 asmā + uddhara (8.3.19 lopaḥ śākalyasya25). By 8.2.1, 8.3.19 is asiddha with respect to 6.1.87 ād guṇaḥ, which teaches that guṇa (a, e, o) replaces both a and the vowel  immediately following it. Thus, the outcome of the application of 8.3.19 (i.e., asmā + uddhara)  too is asiddha with respect to 6.1.87. Therefore, 6.1.87 is not applicable here. The correct  phrase is asmā uddhara. 
 
-20 Technically, there is a rule more specific than 8.2.1 pūrvatrāsiddham which teaches this asiddhatva.  This rule is 8.2.2 nalopaḥ supsvarasaṁjñātugvidhiṣu kr̥ti, which teaches that the rule teaching n deletion is suspended with respect to rules pertaining to declension (suP), accent (svara), technical  designations (saṁjñā) and introduction of augment tUK before a kr̥t affix. 8.2.2 is a niyama sūtra, which  allows n-deletion to be asiddha only in the aforementioned circumstances.  
+[^20]: Technically, there is a rule more specific than 8.2.1 pūrvatrāsiddham which teaches this asiddhatva.  This rule is 8.2.2 nalopaḥ supsvarasaṁjñātugvidhiṣu kr̥ti, which teaches that the rule teaching n deletion is suspended with respect to rules pertaining to declension (suP), accent (svara), technical  designations (saṁjñā) and introduction of augment tUK before a kr̥t affix. 8.2.2 is a niyama sūtra, which  allows n-deletion to be asiddha only in the aforementioned circumstances.  
 
-21 Ais replaces bhis when bhis occurs after an a-final base. 
+[^21]: Ais replaces bhis when bhis occurs after an a-final base. 
 
-22 The a at the end of a nominal base is replaced with its long equivalent when followed by a  declensional affix starting with yaÑ (i.e., y, v, r l, jh, bh or any nasal). 
+[^22]: The a at the end of a nominal base is replaced with its long equivalent when followed by a  declensional affix starting with yaÑ (i.e., y, v, r l, jh, bh or any nasal). 
 
-23 The a at the end of a nominal base is replaced with e when followed by a plural declensional affix  starting with jhaL (a non-nasal stop or a fricative).  
+[^23]: The a at the end of a nominal base is replaced with e when followed by a plural declensional affix  starting with jhaL (a non-nasal stop or a fricative).  
 
-24 An eC (e, o, ai, au) is replaced with ay, av, āy, āv respectively, when a vowel follows. 25 A pada-final v or y which occurs after a or ā is, in the opinion of Śākalya, replaced with LOPA when aŚ (any voiced sound) follows.
+[^24]: An eC (e, o, ai, au) is replaced with ay, av, āy, āv respectively, when a vowel follows. 25 A pada-final v or y which occurs after a or ā is, in the opinion of Śākalya, replaced with LOPA when aŚ (any voiced sound) follows.
 
 176 
 
@@ -107,7 +107,7 @@ In order to understand the crucial role played by 8.2.1 pūrvatrāsiddham in thi
 
 8.2.45 oditaś ca: same as above. 
 
-26 1.1.26 ktaktavatū niṣṭhā.
+[^26]: 1.1.26 ktaktavatū niṣṭhā.
 
 177 
 
@@ -123,7 +123,7 @@ Let me state in general terms how Pāṇini uses 8.2.1 to impact certain cases o
 
 unidirectional blocking, where it is desirable for him to do so.27 
 
-27 Even though the traditional understanding of vipratiṣedha is different from mine, it must be  mentioned here that, in his first vārttika on 8.2.1, Kātyāyana says: pūrvatrāsiddhe nāsti  vipratiṣedho’bhāvād uttarasya “in the section headed by 8.2.1, vipratiṣedha does not arise because of  the absence [i.e., suspension] of the rule which comes later in the Aṣṭādhyāyī’s serial order” (Mbh  III.385.14).
+[^27]: Even though the traditional understanding of vipratiṣedha is different from mine, it must be  mentioned here that, in his first vārttika on 8.2.1, Kātyāyana says: pūrvatrāsiddhe nāsti  vipratiṣedho’bhāvād uttarasya “in the section headed by 8.2.1, vipratiṣedha does not arise because of  the absence [i.e., suspension] of the rule which comes later in the Aṣṭādhyāyī’s serial order” (Mbh  III.385.14).
 
 178 
 
@@ -145,9 +145,9 @@ Thus, for the tradition, the exception rule 8.2.32 is not asiddha with respect t
 
 I disagree with the tradition. I think that, in case of SOI, the more specific rule wins even if it  is asiddha with respect to the general rule. Let me explain why. We know that Pāṇini has  instructed us on how to tackle DOI through his rule 1.4.2, but he has not given any instructions  about dealing with SOI. Similarly, I think that, in teaching 8.2.1 pūrvatrāsiddham and 6.4.22  
 
-28 dah + tum 🡪 daḍh + tum (8.2.31) 🡪 daḍh + dhum (8.2.40 jhaṣas tathor dho’dhaḥ) 🡪 daḍh + ḍhum (8.4.41 ṣṭunā ṣṭuḥ) 🡪 da + ḍhum (8.3.13 ḍho ḍhe lopaḥ) 🡪 *dāḍhum (6.3.111 ḍhralope pūrvasya  dīrgho’ṇaḥ).  
+[^28]: dah + tum 🡪 daḍh + tum (8.2.31) 🡪 daḍh + dhum (8.2.40 jhaṣas tathor dho’dhaḥ) 🡪 daḍh + ḍhum (8.4.41 ṣṭunā ṣṭuḥ) 🡪 da + ḍhum (8.3.13 ḍho ḍhe lopaḥ) 🡪 *dāḍhum (6.3.111 ḍhralope pūrvasya  dīrgho’ṇaḥ).  
 
-29 Mbh III.385.19-21.
+[^29]: Mbh III.385.19-21.
 
 179 
 
@@ -205,9 +205,9 @@ Type
 
 
 
-30 The taddhita affix vatI occurs to denote the sense of tulya ‘similar to, comparable with’ after a  syntactically related nominal stem ending in tr̥tīyā ‘instrumental’, provided what is tulya is also kriyā  ‘action’. 
+[^30]: The taddhita affix vatI occurs to denote the sense of tulya ‘similar to, comparable with’ after a  syntactically related nominal stem ending in tr̥tīyā ‘instrumental’, provided what is tulya is also kriyā  ‘action’. 
 
-31 Cardona (1997: 425) too holds this opinion: “I differ from Pāṇinīyas in my interpretation of 6.4.22  [asiddhavad atrābhāt]. Pāṇinīyas maintain that this too should be considered to provide for rule  suspension (śāstrāsiddhatvam), not the suspension of what results from applying rules  (kāryāsiddhatvam)”.
+[^31]: Cardona (1997: 425) too holds this opinion: “I differ from Pāṇinīyas in my interpretation of 6.4.22  [asiddhavad atrābhāt]. Pāṇinīyas maintain that this too should be considered to provide for rule  suspension (śāstrāsiddhatvam), not the suspension of what results from applying rules  (kāryāsiddhatvam)”.
 
 181 
 
@@ -331,7 +331,7 @@ han + siP
 
 This is a case of DOI. By my interpretation of 1.4.2, we apply the RHS rule 3.4.87 and get han  + hi. Thereafter the derivation proceeds as follows: han + hi 🡪 han + ŚaP + hi (3.1.68) 🡪 
 
-32 We have performed an almost identical derivation in chapter 4 (see derivation 10, section 4.3). There,  we replaced hi with tātAṄ, by the optional rule 7.1.35 tuhyos tātaṅ āśiṣy anyatarasyām. Here, however,  we will not apply 7.1.35.
+[^32]: We have performed an almost identical derivation in chapter 4 (see derivation 10, section 4.3). There,  we replaced hi with tātAṄ, by the optional rule 7.1.35 tuhyos tātaṅ āśiṣy anyatarasyām. Here, however,  we will not apply 7.1.35.
 
 184 
 
@@ -355,7 +355,7 @@ Now let us imagine what would have happened in the absence of 6.4.22. The follow
 
 This would have given the incorrect form *ja. 6.4.22 helps us avoid deriving this incorrect  form: as taught by 6.4.22, 6.4.36 is asiddhavat with respect to 6.4.105. So even though 6.4.105  can acknowledge the existence of 6.4.36, it cannot acknowledge the outcome of the application  of 6.4.36. As a result, 6.4.105 is not applicable to jahi. 
 
-33 Since hi is a sārvadhātuka which is not marked with P, we can say that it is marked with K by 1.2.4  sārvadhātukam apit. Thus 6.4.37 is applicable. 
+[^33]: Since hi is a sārvadhātuka which is not marked with P, we can say that it is marked with K by 1.2.4  sārvadhātukam apit. Thus 6.4.37 is applicable. 
 
 185 
 
@@ -389,7 +389,7 @@ bhū + affix beginning with aC
 
 other conditions 
 
-34 Note that, the whole base does not undergo reduplication. Instead, only one syllable does. See 6.1.1  ekāco dve prathamasya and 6.1.2 ajāder dvitīyasya.
+[^34]: Note that, the whole base does not undergo reduplication. Instead, only one syllable does. See 6.1.1  ekāco dve prathamasya and 6.1.2 ajāder dvitīyasya.
 
 186 
 
@@ -423,7 +423,7 @@ By my interpretation of 1.4.2, we perform the RHS operation. But which of the tw
 
 In vt. 1435 on 6.4.22, Kātyāyana alludes to the interaction between vUK (6.4.88) and uvAṄ (6.4.77). He says: vugyuṭāv uvaṅyaṇoḥ ‘rules teaching augments vUK and yUṬ [should be siddha and not asiddhavat] with respect to rules teaching uvAṄ and yaṆ’. This vārttika is  
 
-35 Mbh III.191.15.
+[^35]: Mbh III.191.15.
 
 187 
 
@@ -449,9 +449,9 @@ This is a case of DOI. By my interpretation of 1.4.2, we apply the RHS rule 3.4.
 
  6.4.34 6.4.35 6.4.101  
 
-36 We have performed this derivation in chapter 4. See derivation 9 of section 4.3. There, we replaced  hi with tātAṄ, by the optional rule 7.1.35 tuhyos tātaṅ āśiṣy anyatarasyām. Here, however, we will not  do so. 
+[^36]: We have performed this derivation in chapter 4. See derivation 9 of section 4.3. There, we replaced  hi with tātAṄ, by the optional rule 7.1.35 tuhyos tātaṅ āśiṣy anyatarasyām. Here, however, we will not  do so. 
 
-37 Affix ŚaP is replaced with LUK when it occurs after roots belonging to the set headed by adA ‘to eat’ (second class).
+[^37]: Affix ŚaP is replaced with LUK when it occurs after roots belonging to the set headed by adA ‘to eat’ (second class).
 
 188 
 
@@ -475,7 +475,7 @@ In order to understand the crucial role played by 6.4.22 in this derivation, let
 
 Let us examine the relationship between 6.4.35 and 6.4.101. If, by 6.4.35, we replace śās with  śā at this step, then 6.4.101, which applies to hi when hi is preceded by jhaL, will not be  applicable at the following step. If, by 6.4.101, we replace hi with dhi at this step, then 6.4.35,  which applies to śās when it is followed by hi, will not be applicable at the following step. This  is a case of mutual blocking in DOI.  
 
-38 hi is an apit (cf. 3.4.87 ser hy apic ca) sārvadhātuka, and so by 1.2.4 sārvadhātukam apit, we can say  that it is marked with K or Ṅ. Thus, 6.4.34 is applicable here. 
+[^38]: hi is an apit (cf. 3.4.87 ser hy apic ca) sārvadhātuka, and so by 1.2.4 sārvadhātukam apit, we can say  that it is marked with K or Ṅ. Thus, 6.4.34 is applicable here. 
 
 189 
 
@@ -493,7 +493,7 @@ Note that, if Pāṇini had taught 6.4.22 as asiddham atrā bhāt instead of asi
 
 Now, through the following derivation, I will provide evidence to support my claim that the  jurisdiction of 6.4.22 ends at 6.4.129. 
 
-39 For more examples of the impact of 6.4.22 on DOI, see derivations 24 and 26 of section 4.3, chapter 4.
+[^39]: For more examples of the impact of 6.4.22 on DOI, see derivations 24 and 26 of section 4.3, chapter 4.
 
 19010) Let us derive the accusative plural of the Vedic perfect participle of pā ‘to drink’: pā + LIṬ ‘he who had drunk’40. 
 
@@ -521,11 +521,11 @@ pā + vas + Śas
 
  6.1.8 6.4.131  
 
-40 In contrast with other derivations, where, for brevity’s sake, I start the derivation directly with the  substitute of the lakāra, here I have started this unconventional derivation with LIṬ for the sake of  clarity. 
+[^40]: In contrast with other derivations, where, for brevity’s sake, I start the derivation directly with the  substitute of the lakāra, here I have started this unconventional derivation with LIṬ for the sake of  clarity. 
 
-41 Note that the whole base does not undergo reduplication. Instead, only one syllable does. See 6.1.1  ekāco dve prathamasya and 6.1.2 ajāder dvitīyasya. 
+[^41]: Note that the whole base does not undergo reduplication. Instead, only one syllable does. See 6.1.1  ekāco dve prathamasya and 6.1.2 ajāder dvitīyasya. 
 
-42 This is applicable because KvasU is a kr̥t affix (cf. 1.2.46 kr̥ttaddhitasamāsāś ca).
+[^42]: This is applicable because KvasU is a kr̥t affix (cf. 1.2.46 kr̥ttaddhitasamāsāś ca).
 
 191 
 
@@ -585,9 +585,9 @@ As stated before, according to my interpretation of 6.4.22 asiddhavad atrā bhā
 
 However, in the opinion of the Kāśikā, this jurisdiction continues up to the end of 6.4 (i.e.,  6.4.175) and, therefore, it creates a difficulty in the derivation of papuṣaḥ. As seen above,  6.4.131 vasoḥ samprasāraṇam changes vas to uas. Since uas begins with a vowel, 6.4.64 āto  
 
-43 Note that the Mahābhāṣya discusses two possible interpretations of 1.1.59. I have mentioned the one  accepted by the Kāśikā. I think this is the correct interpretation. The Kaumudī accepts the other  interpretation, which I think is incorrect. I will not discuss the same here because it is not directly related  to the topic of asiddhavat. 
+[^43]: Note that the Mahābhāṣya discusses two possible interpretations of 1.1.59. I have mentioned the one  accepted by the Kāśikā. I think this is the correct interpretation. The Kaumudī accepts the other  interpretation, which I think is incorrect. I will not discuss the same here because it is not directly related  to the topic of asiddhavat. 
 
-44 The vowel of the abhyāsa ‘first of two reduplicated syllables’ is replaced with its short counterpart. 45 8.3.59 ādeśapratyayoḥ.
+[^44]: The vowel of the abhyāsa ‘first of two reduplicated syllables’ is replaced with its short counterpart. 45 8.3.59 ādeśapratyayoḥ.
 
 193 
 
@@ -599,7 +599,7 @@ But what exactly does samānāśraya stand for? The Nyāsa glosses āśraya as n
 
 It is not possible to answer this question with certainty. But one can speculate that when  Kātyāyana says two rules are samānāśraya, he likely means that they pertain to the same set  of items. Both rules 6.4.101 and 6.4.35 pertain to śās + hi, thus they are samānāśraya and  asiddhavat with respect to each other. However, in our present example, 6.4.131 pertains to  vas + Śas, whereas 6.4.64 āto lopa iṭi ca pertains to papā + uas. The two rules have different  āśrayas ‘substrata’ and thus, according to the tradition, they are not asiddhavat with respect to  each other. 
 
-46 On vt. 12 samānāśrayatvāt siddham, Patañjali says, samānāśrayam asiddhaṁ bhavati vyāśrayaṁ caitat. 
+[^46]: On vt. 12 samānāśrayatvāt siddham, Patañjali says, samānāśrayam asiddhaṁ bhavati vyāśrayaṁ caitat. 
 
 194 
 
@@ -617,9 +617,9 @@ For example, the problem faced by the tradition in deriving paśuṣaḥ (accusa
 
 As seen in this derivation, in order to correctly derive paśuṣaḥ, one needs to first apply 6.4.41  viḍvanor anunāsikasyāt and then 6.4.140 āto dhātoḥ. However, according to the tradition, since  the jurisdiction of 6.4.22 continues up to 6.4.175, 6.4.41 is asiddhavat with respect to 6.4.140.  Consequently 6.4.140 cannot apply after the application of 6.4.41. This creates an obstacle in  correctly deriving paśuṣaḥ. To deal with this problem, Kātyāyana has composed vt. 1148 on  
 
-47 Mbh III.190.11. 
+[^47]: Mbh III.190.11. 
 
-48 Mbh III.190.17.
+[^48]: Mbh III.190.17.
 
 195 
 
@@ -641,11 +641,11 @@ By my interpretation of 1.4.2, we apply the RHS rule 3.4.21 and get: praśam + �
 
  7.2.116 7.1.37 
 
-49 See R̥gveda 5.41.1 for the context of the phrase paśuṣo na vājān. 
+[^49]: See R̥gveda 5.41.1 for the context of the phrase paśuṣo na vājān. 
 
-50 The derivation of preyān discussed under vt. 16 on 6.4.22 ā bhād iti ced  vasusamprasāraṇayalopaprasthādīnāṁ pratiṣedhaḥ (Mbh III.193.17) also involves the same problem.  Extending the jurisdiction of 6.4.22 all the way up to the end of 6.4 produces undesirable results, to deal  with which Kātyāyana has composed vt. 16.  
+[^50]: The derivation of preyān discussed under vt. 16 on 6.4.22 ā bhād iti ced  vasusamprasāraṇayalopaprasthādīnāṁ pratiṣedhaḥ (Mbh III.193.17) also involves the same problem.  Extending the jurisdiction of 6.4.22 all the way up to the end of 6.4 produces undesirable results, to deal  with which Kātyāyana has composed vt. 16.  
 
-51 3.1.26 hetumati ca.
+[^51]: 3.1.26 hetumati ca.
 
 196 
 
@@ -685,6 +685,6 @@ In this chapter, I have discussed my opinion about the exact meanings of the thr
 
 Modern scholars, such as Bronkhorst (1980), Joshi (1982), Joshi and Roodbergen (1987), and  Yagi (1992) have published papers on the three suspension rules. Some of their opinions are  similar to mine, and others considerably different. However, in the interest of clarity, I have  restricted the discussions in this chapter to a limited set of traditional opinions and my own  opinion on this topic, without examining the opinions of modern scholars. 
 
-53 Mbh III.191.9.
+[^53]: Mbh III.191.9.
 
 198 

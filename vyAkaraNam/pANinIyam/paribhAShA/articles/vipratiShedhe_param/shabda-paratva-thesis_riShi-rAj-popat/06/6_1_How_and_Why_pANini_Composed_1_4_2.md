@@ -211,9 +211,9 @@ Firstly, Pāṇini wrote rules to substitute certain affixes with other equivale
 
 Sometimes, only affix substitution was required, and base modification was not required. For  example, consider deva + Ṅas (genitive singular). Here, Pāṇini simply had to replace Ṅas  
 
-1 The affix Ṅe, when occurring after a base ending in a, is replaced with ya. 
+[^1]: The affix Ṅe, when occurring after a base ending in a, is replaced with ya. 
 
-2 The a at the end of a nominal base is replaced with its long equivalent when followed by a  declensional affix starting with yaÑ (y, v, r l, jh, bh or any nasal).
+[^2]: The a at the end of a nominal base is replaced with its long equivalent when followed by a  declensional affix starting with yaÑ (y, v, r l, jh, bh or any nasal).
 
 201 
 
@@ -229,13 +229,13 @@ deva + bhis
 
 When multiple rules became simultaneously applicable, he decided to call the competition  between the rule(s) applicable to the LHS operand and the rule(s) applicable to the RHS  operand, vipratiṣedha ‘mutual opposition’. As we have seen above, Pāṇini’s goal was to  replace the affix first, where required, and only then to modify the base (or modify both base  and affix together, in case of ekādeśa) where required. So, despite the applicability of the  
 
-3 The affix Ṭā, ṄasI and Ṅas, when occurring after a base ending in a, are replaced with ina, āt and  sya respectively. 
+[^3]: The affix Ṭā, ṄasI and Ṅas, when occurring after a base ending in a, are replaced with ina, āt and  sya respectively. 
 
-4 The a at the end of a nominal base is replaced with its long equivalent when a yaÑ-initial  declensional affix follows. 
+[^4]: The a at the end of a nominal base is replaced with its long equivalent when a yaÑ-initial  declensional affix follows. 
 
-5 The a at the end of a nominal base is replaced with e when a plural declensional affix starting with  jhaL (a non-nasal stop or a fricative) follows. 
+[^5]: The a at the end of a nominal base is replaced with e when a plural declensional affix starting with  jhaL (a non-nasal stop or a fricative) follows. 
 
-6 Vr̥ddhi (ā, ai, au) replaces both a and the eC vowel (e, o, ai, au) immediately following it.
+[^6]: Vr̥ddhi (ā, ai, au) replaces both a and the eC vowel (e, o, ai, au) immediately following it.
 
 202 
 

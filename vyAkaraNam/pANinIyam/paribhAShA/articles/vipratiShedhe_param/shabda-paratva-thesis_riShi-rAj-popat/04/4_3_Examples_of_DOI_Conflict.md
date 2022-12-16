@@ -39,7 +39,7 @@ h a n + Kta
 
 6.4.37 anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti: the final nasal of a base  marked with anudātta when taught in the Dhātupāṭha, as well as of vanA ‘to like’ and the roots  
 
-24 Guṇa replaces the final sound iK (i, u, r̥, l̥) of a verbal base when a sārvadhātuka or ārdhadhātuka affix follows.
+[^24]: Guṇa replaces the final sound iK (i, u, r̥, l̥) of a verbal base when a sārvadhātuka or ārdhadhātuka affix follows.
 
 122 
 
@@ -65,7 +65,7 @@ h a n + jhi
 
 We already know from the previous example that there is a Type 2a (DOI conflict) between  6.4.15 and 6.4.37, and that 6.4.37 wins. So now let us consider the relationship between 6.4.37  and 7.1.3.  
 
-25 Affix ŚaP occurs after a verbal root when a sārvadhātuka affix which denotes kartr̥ ‘agent’ follows. 26 Affix ŚaP is replaced with LUK when it occurs after one of the roots headed by adA ‘to eat’ in the  Dhātupāṭha.
+[^25]: Affix ŚaP occurs after a verbal root when a sārvadhātuka affix which denotes kartr̥ ‘agent’ follows. 26 Affix ŚaP is replaced with LUK when it occurs after one of the roots headed by adA ‘to eat’ in the  Dhātupāṭha.
 
 123 
 
@@ -89,9 +89,9 @@ By my interpretation of 1.4.2, we apply the RHS rule 7.2.56 and get the correct 
 
 Note that both 6.4.18 and 7.2.56 are optional rules. So, for each of these rules we have a choice.  We can either implement the rule or not do so. Let us consider what happens in different  scenarios: 
 
-27 The penultimate sound of gam ‘to go’, han ‘to kill’, jan ‘to be born’, khan ‘to dig’ and ghas ‘to eat’,  is replaced with LOPA when an affix beginning with a vowel and marked with K or Ṅ, except aṄ,  follows. 
+[^27]: The penultimate sound of gam ‘to go’, han ‘to kill’, jan ‘to be born’, khan ‘to dig’ and ghas ‘to eat’,  is replaced with LOPA when an affix beginning with a vowel and marked with K or Ṅ, except aṄ,  follows. 
 
-28 The h of han ‘to harm, kill’ is replaced with a velar stop when an affix marked with Ñ and Ṇ, or  simply n (i.e., after LOPA of a) follows.
+[^28]: The h of han ‘to harm, kill’ is replaced with a velar stop when an affix marked with Ñ and Ṇ, or  simply n (i.e., after LOPA of a) follows.
 
 124 
 
@@ -121,7 +121,7 @@ By my interpretation of 1.4.2, we apply the RHS rule 7.1.37 and get the correct 
 
 It is important to point out an anomaly here. Pāṇini’s rule 2.2.18 kugatiprādayaḥ teaches that  the particle ku, items termed gati (including ati) and items belonging to the group headed by  pra (which also includes ati) combine with syntactically related padas to form tatpuruṣa compounds. We know, thanks to 2.1.4 saha supā, that a compound is composed of forms  ending in suP. Since the three forms krantvā / krāntvā / kramitvā (see example 4 of this section)  
 
-29 Note that, here, an SOI takes place between 7.1.37 samāse’nañpūrve ktvo lyap and 7.2.56 udito vā.  7.1.37 wins because it has been specifically taught for compounds. Here, since the focus is on DOI  conflict, I have avoided mentioning this and other such SOI relationships where it was possible to avoid  them. 
+[^29]: Note that, here, an SOI takes place between 7.1.37 samāse’nañpūrve ktvo lyap and 7.2.56 udito vā.  7.1.37 wins because it has been specifically taught for compounds. Here, since the focus is on DOI  conflict, I have avoided mentioning this and other such SOI relationships where it was possible to avoid  them. 
 
 125 
 
@@ -141,7 +141,7 @@ To derive the correct form, we have to start the derivation by adding the verbal
 
 Thus, the following question arises: if it is difficult to derive atikramya correctly as a  compound, why does Pāṇini want us to view atikramya as a compound in the first place? This  likely has to do with accentuation, which is not the focus of this thesis. The distinction between  atikramya and atikrāmati (where ati is only a morpho-syntactically bound particle cf. 1.4.8 te  prāg dhātoḥ), the status of particles like ati in Vedic and the relationship between Ktvā and  LyaP in Vedic can all shed more light on this matter, but we cannot delve into these topics  here. 
 
-30 The tradition too takes cognizance of this. Vyāḍi suggests that an operation involving the upasarga and the verbal base is antaraṅga: dhātūpasargayor antaraṅgaṁ kāryam bhavati (Pbh 37 of  Paribhāṣāsūcanam). We know that an antaraṅga operation gets precedence over a bahiraṅga  operation.
+[^30]: The tradition too takes cognizance of this. Vyāḍi suggests that an operation involving the upasarga and the verbal base is antaraṅga: dhātūpasargayor antaraṅgaṁ kāryam bhavati (Pbh 37 of  Paribhāṣāsūcanam). We know that an antaraṅga operation gets precedence over a bahiraṅga  operation.
 
 126 
 
@@ -191,9 +191,9 @@ If we apply 6.1.15 at this step, 7.1.37 will still be applicable at the followin
 
 By my interpretation of 1.4.2, we apply the RHS rule 7.1.37 and get: prave + ya 🡪 pravāya  (6.1.45 ād eca upadeśe’śiti33), which is the correct form. 
 
-31 The final nasal of a root marked with anudātta when taught in the Dhātupāṭha (cf. upadeśe), as well  as of vanA ‘to like’ and the roots headed by tanU ‘to extend’, is optionally replaced with LOPA before  the substitute LyaP. 
+[^31]: The final nasal of a root marked with anudātta when taught in the Dhātupāṭha (cf. upadeśe), as well  as of vanA ‘to like’ and the roots headed by tanU ‘to extend’, is optionally replaced with LOPA before  the substitute LyaP. 
 
-32 Augment tUK is attached to a root ending in a short vowel when a kr̥t affix marked with P follows. 33 The final sound of a verbal base ending in eC (e, o, ai, au) when taught in the Dhātupāṭha is replaced  with ā, when an affix that is not marked with Ś follows.
+[^32]: Augment tUK is attached to a root ending in a short vowel when a kr̥t affix marked with P follows. 33 The final sound of a verbal base ending in eC (e, o, ai, au) when taught in the Dhātupāṭha is replaced  with ā, when an affix that is not marked with Ś follows.
 
 128 
 
@@ -221,11 +221,11 @@ By my interpretation of 1.4.2, we apply the RHS rule 3.4.87 and get śās + hi �
 
 7.1.35 tuhyos tātaṅ āśiṣy anyatarasyām: affixes tu and hi are optionally replaced with tātAṄ,  provided benediction (āśiḥ) is denoted.36 
 
-34 Affix ŚaP is replaced with LUK when it occurs after one of the roots headed by adA ‘to eat’ in the  Dhātupāṭha. 
+[^34]: Affix ŚaP is replaced with LUK when it occurs after one of the roots headed by adA ‘to eat’ in the  Dhātupāṭha. 
 
-35 hi is an apit (cf. 3.4.87 ser hy apic ca) sārvadhātuka, and so by 1.2.4 sārvadhātukam apit, it can be  treated as marked with K or Ṅ. Thus, 6.4.34 is applicable here.  
+[^35]: hi is an apit (cf. 3.4.87 ser hy apic ca) sārvadhātuka, and so by 1.2.4 sārvadhātukam apit, it can be  treated as marked with K or Ṅ. Thus, 6.4.34 is applicable here.  
 
-36 For a discussion on how this rule should be interpreted using Pāṇini’s metarules, see Appendix A. 
+[^36]: For a discussion on how this rule should be interpreted using Pāṇini’s metarules, see Appendix A. 
 
 129 
 
@@ -249,9 +249,9 @@ Neither of the two rules blocks the other. This is a case of DOI non-conflict.
 
 By my interpretation of 1.4.2, we apply the RHS rule 3.4.87 and get han + hi 🡪 han + ŚaP +  hi (3.1.68) 🡪 han + hi (2.4.72 adiprabhr̥tibhyaḥ śapaḥ). han can now be called an aṅga with  respect to hi (cf. my interpretation of 1.4.13). Thus, the following rules from the aṅgādhikāra become applicable: 
 
-37 The operand of 6.4.34 is a part of the operand of 6.4.35 and so, like in the previous chapters, here  too, we classify such interactions as Type 1 (SOI).  
+[^37]: The operand of 6.4.34 is a part of the operand of 6.4.35 and so, like in the previous chapters, here  too, we classify such interactions as Type 1 (SOI).  
 
-38 Note that 6.4.35 is asiddhavat with respect to 6.4.34, but in my view, this does not affect the way in  which we deal with SOI. I will discuss this further in the next chapter. 
+[^38]: Note that 6.4.35 is asiddhavat with respect to 6.4.34, but in my view, this does not affect the way in  which we deal with SOI. I will discuss this further in the next chapter. 
 
 130han + hi 
 
@@ -269,7 +269,7 @@ If we apply 6.4.36 at this step, 7.1.35 will still be applicable at the followin
 
 By my interpretation of 1.4.2, we apply the RHS rule 7.1.35 and get han + tātAṄ 🡪 hatāt (6.4.37 anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti), which is the correct  form. 
 
-39 Since hi is an apit sārvadhātuka, it can be treated as marked with K by 1.2.4 sārvadhātukam apit.  Thus 6.4.37 is applicable. 
+[^39]: Since hi is an apit sārvadhātuka, it can be treated as marked with K by 1.2.4 sārvadhātukam apit.  Thus 6.4.37 is applicable. 
 
 131 
 
@@ -327,7 +327,7 @@ We have already established that there is a DOI conflict between 7.2.116 and 7.1
 
 By my interpretation of 1.4.2, we apply the RHS rule 7.1.61 and get randh + ṆiC + ŚaP + tiP. randh and ṆiC cannot undergo any other operations which are not triggered by ŚaP, so we can  write randh + ṆiC as randhi. randhi is an aṅga with respect to ŚaP. Thus by 7.3.84  sārvadhātukārdhadhātukayoḥ41, which belongs to the aṅgādhikāra and is triggered here by  ŚaP, is applicable to randhi. Upon its application, we get randhe + a + ti 🡪 randhaya + ti (6.1.78 eco’yavāyāvaḥ) 🡪 randhayati, which is the correct form.  
 
-41 Guṇa replaces the final sound iK of a verbal base when a sārvadhātuka or ārdhadhātuka affix follows.
+[^41]: Guṇa replaces the final sound iK of a verbal base when a sārvadhātuka or ārdhadhātuka affix follows.
 
 133 
 
@@ -441,7 +441,7 @@ grahis + t
 
 There is no conflict between these rules. By my interpretation of 1.4.2 we apply the RHS rule  7.3.96 and get grahis + īt. At this step, we apply 6.4.71 and get agrahis + īt. Now that all  possible rules from the sapādasaptādhyāyī have been applied, we apply 8.2.28 iṭa īṭi from the  
 
-42 One may ask: why did Pāṇini compose 7.2.5 if 7.2.4 neṭi already prohibits vr̥ddhi in such cases? It is  true that by 7.2.4 neṭi, when the consonant-final base is followed by an iṬ-initial sIC, vr̥ddhi is  prohibited. But 7.2.7 ato halāder laghoḥ makes this optional for bases which start with a consonant and  contain the light vowel a. Thus, Pāṇini has composed 7.2.5 to negate this optionality, or in other words,  to prescribe the mandatory prohibition of vr̥ddhi in the said circumstances. 
+[^42]: One may ask: why did Pāṇini compose 7.2.5 if 7.2.4 neṭi already prohibits vr̥ddhi in such cases? It is  true that by 7.2.4 neṭi, when the consonant-final base is followed by an iṬ-initial sIC, vr̥ddhi is  prohibited. But 7.2.7 ato halāder laghoḥ makes this optional for bases which start with a consonant and  contain the light vowel a. Thus, Pāṇini has composed 7.2.5 to negate this optionality, or in other words,  to prescribe the mandatory prohibition of vr̥ddhi in the said circumstances. 
 
 137 
 
@@ -469,9 +469,9 @@ gup + cli + t
 
 There is no conflict between the two rules. By my interpretation of 1.4.2, we apply the RHS  rule 3.1.44 and get: gup + sIC + t. Here multiple rules are applicable: 
 
-43 An important question arises here: how is it possible to apply 6.1.101, after applying 8.2.28, which  belongs to the asiddha section? Unfortunately, I have not been able to find a satisfactory explanation  for this. 
+[^43]: An important question arises here: how is it possible to apply 6.1.101, after applying 8.2.28, which  belongs to the asiddha section? Unfortunately, I have not been able to find a satisfactory explanation  for this. 
 
-44 By 3.1.31 āyādaya ārdhadhātuke vā, āya can be optionally added to gupU here, but we will not  discuss this option because it is not relevant to the present argument.
+[^44]: By 3.1.31 āyādaya ārdhadhātuke vā, āya can be optionally added to gupU here, but we will not  discuss this option because it is not relevant to the present argument.
 
 138 
 
@@ -557,7 +557,7 @@ Since no vikaraṇa is added between bhū and tiP in āśīrliṅ forms, at this
 
 3.4.100 neither blocks nor is blocked by the other two rules. By my interpretation of 1.4.2, we  apply the right most rule 3.4.100 and get bhū + t. Here two rules are applicable: 
 
-45 The final i and u of Śnu, and of any verbal base, and of bhrū ‘brow’ are replaced with iyAṄ and uvAṄ,  respectively, when an affix beginning with a vowel (aC) follows.
+[^45]: The final i and u of Śnu, and of any verbal base, and of bhrū ‘brow’ are replaced with iyAṄ and uvAṄ,  respectively, when an affix beginning with a vowel (aC) follows.
 
 141 
 
@@ -599,7 +599,7 @@ If we apply 7.1.60 at this step, 7.2.45 will still be applicable at the followin
 
 By my interpretation of 1.4.2, we apply the RHS rule 7.2.45 and get: naśitavya, which is the  correct form. If we do not implement the optional rule 7.2.45, we get: naṁṣṭavya, which is also  correct. 
 
-46 This set of roots includes naś.
+[^46]: This set of roots includes naś.
 
 143 
 
@@ -645,7 +645,7 @@ By my interpretation of 1.4.2, we apply the RHS rule 7.2.56 and get: div + itvā
 
 If we do not implement the optional rule 7.2.56, we get: div + tvā 🡪 diū + tvā (6.4.19 chvoḥ śūḍ anunāsike ca) 🡪 dyūtvā (6.1.77 iko yaṇ aci), which is also correct. 
 
-47 Ktvā which has taken the iṬ augment is not treated as marked with K.
+[^47]: Ktvā which has taken the iṬ augment is not treated as marked with K.
 
 145 
 
@@ -699,7 +699,7 @@ If we apply 6.4.110 at this step, 6.4.106 will be applicable at the following st
 
 By my interpretation of 1.4.2, we apply the RHS rule 6.4.106 and get karu. Since 6.4.106 is  asiddhavat with respect to 6.4.110, 6.4.110 does not acknowledge the outcome of the  application of 6.4.106. Thus 6.4.110 applies, and we get the correct form: kuru.  
 
-48 1.1.63 na lumatāṅgasya.
+[^48]: 1.1.63 na lumatāṅgasya.
 
 147 
 
@@ -783,9 +783,9 @@ Here, multiple rules from the aṅgādhikāra become applicable:
 
 Note that both these rules fall under the heading rule 6.4.22 asiddhavad atrābhāt. They are  asiddhavat with respect to each other. That is, each rule acknowledges the existence of the  other rule, but not the outcome of the application of the other rule. 
 
-49 Affix cli is added to a verbal root when LUṄ follows. 
+[^49]: Affix cli is added to a verbal root when LUṄ follows. 
 
-50 Note that, at this step, there is an SOI between 7.2.115 aco ñṇiti and 7.3.84  sārvadhātukārdhadhātukayoḥ. However, I have not drawn a diagram to show this in the main text for  the sake of brevity. Since 7.2.115 is conditioned by affixes marked with Ñ and Ṇ, it is more specific  and thus wins. 
+[^50]: Note that, at this step, there is an SOI between 7.2.115 aco ñṇiti and 7.3.84  sārvadhātukārdhadhātukayoḥ. However, I have not drawn a diagram to show this in the main text for  the sake of brevity. Since 7.2.115 is conditioned by affixes marked with Ñ and Ṇ, it is more specific  and thus wins. 
 
 150Since 6.4.71 and 6.4.104 acknowledge each other’s existence, we can use 1.4.2 to deal with  this case of DOI. 
 
@@ -809,11 +809,11 @@ krīnā + jhi
 
 There is an SOI between 6.4.112 and 6.4.113. First let us identify the more specific i.e., winning  rule. Then we will examine the DOI between the winning rule and 7.1.3.  
 
-51 1.1.63 na lumatāṅgasya. 
+[^51]: 1.1.63 na lumatāṅgasya. 
 
-52 Affix Śnā occurs after verbal roots belonging to the class headed by ḌUkrīÑ ‘to buy, barter’ when a  sārvadhātuka affix which denotes kartr̥ follows. 
+[^52]: Affix Śnā occurs after verbal roots belonging to the class headed by ḌUkrīÑ ‘to buy, barter’ when a  sārvadhātuka affix which denotes kartr̥ follows. 
 
-53 6.4.112 and 6.4.113 are applicable here because jhi is treated as marked with K / Ṅ by virtue of being  an apit sārvadhātuka (cf. 1.2.4 sārvadhātukam apit).
+[^53]: 6.4.112 and 6.4.113 are applicable here because jhi is treated as marked with K / Ṅ by virtue of being  an apit sārvadhātuka (cf. 1.2.4 sārvadhātukam apit).
 
 151 
 
@@ -845,9 +845,9 @@ By my interpretation of 1.4.2, we apply the RHS rule 3.4.79 and get udvij + te. 
 
 7.3.86 pugantalaghūpadhasya ca: guṇa replaces the iK (i, u, r̥, l̥) of a verbal base which ends  in the augment pUK or which has a laghu ‘light’ vowel as its penultimate sound when a  sārvadhātuka or ārdhadhātuka affix follows. 
 
-54 8.4.2 aṭkupvāṅnumvyavāye’pi. 
+[^54]: 8.4.2 aṭkupvāṅnumvyavāye’pi. 
 
-55 1.1.64 aco’ntyādi ṭi.
+[^55]: 1.1.64 aco’ntyādi ṭi.
 
 152 
 
@@ -875,7 +875,7 @@ At this point, bhibhī and ŚLU cannot undergo any other operations which are no
 
 6.4.115 bhiyo’nyatarasyām: the final ī of bhī is optionally replaced with i when an affix  beginning with a consonant, and marked with K or Ṅ follows.57 
 
-56 The vowel of the abhyāsa ‘first of two reduplicated syllables’ is replaced with its short counterpart. 57 By virtue of being an apit sārvadhātuka, jhi is treated as marked with K / Ṅ (cf. 1.2.4 sārvadhātukam  apit).
+[^56]: The vowel of the abhyāsa ‘first of two reduplicated syllables’ is replaced with its short counterpart. 57 By virtue of being an apit sārvadhātuka, jhi is treated as marked with K / Ṅ (cf. 1.2.4 sārvadhātukam  apit).
 
 153 
 
@@ -953,7 +953,7 @@ If we apply 7.3.86 at this step, 3.1.53 will be applicable at the following step
 
 By my interpretation of 1.4.2, we apply the RHS rule 3.1.53 and get sic + aṄ + t. sic and aṄ cannot undergo any other operations which are not triggered by t. Thus sic + aṄ can be written  as sica. Thereafter 6.4.71 luṅlaṅlr̥ṅṣv aḍ udāttaḥ from the aṅgādhikāra applies, leading to the  correct form, asicat. 
 
-58 In the interest of brevity, I have omitted to mention certain phonological processes here, which lead  us from naijs to naikṣ.
+[^58]: In the interest of brevity, I have omitted to mention certain phonological processes here, which lead  us from naijs to naikṣ.
 
 156 
 
@@ -1031,8 +1031,8 @@ Note that both v and y can potentially undergo samprasāraṇa by 6.1.16. If we 
 
 By my interpretation of 1.4.2, we apply the RHS rule 6.1.16 to y and get viadh + tvā.  Thereafter, the derivation proceeds as follows: vidh + tvā (6.1.108 samprasāraṇāc ca) 🡪 vidhdhvā (8.2.40 jhaṣas tathor dho’dhaḥ) 🡪 viddhvā (8.4.53 jhalāṁ jaś jhaśi), which is the  correct form. 
 
-59 See translation in example 3. 
+[^59]: See translation in example 3. 
 
-60 See translation in example 3.
+[^60]: See translation in example 3.
 
 159 

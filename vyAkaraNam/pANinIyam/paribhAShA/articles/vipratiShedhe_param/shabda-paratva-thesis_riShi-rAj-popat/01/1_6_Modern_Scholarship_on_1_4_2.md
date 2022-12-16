@@ -79,28 +79,45 @@ Note that both versions of 1.4.1 apply only to the section between 1.4.1 and 2.2
 
 So, what does the alternative version of 1.4.1 i.e., prāk kaḍārāt paraṁ kāryam exactly mean?  It translates as: between 1.4.1 and 2.2.38 the later rule should be applied. But when? In which  context or situation? This version of 1.4.1 is at best ambiguous. Secondly, it seems very  unlikely that Pāṇini would teach two different versions of his own rules to his pupils. In the  following chapter, I reinterpret the meaning of para, which makes it clear that the alternate  version of 1.4.1 does not make sense. For all these reasons, I conclusively reject the alternate  version.  
 
-On the other hand, Kiparsky assumes that the alternate version is the correct one, and uses this assumption to argue for restricting the scope of 1.4.2 to the section up to 2.2.38. He says, “A  very suggestive piece of evidence that the domain of 1.4.2 is limited to 1.4-2.2 is that Patañjali  actually records a variant reading of Pāṇini’s rules in which that must be the interpretation. In  discussing 1.4.1 Patañjali says, ‘How then is this rule to be read: as ā kaḍārād ekā saṁjñā “up  to kaḍāra (2.2.38) (everything gets only) one technical term” or as prāk kaḍārāt paraṁ kāryam  “up to kaḍāra apply the last”? Why is this an issue? Because the teacher [Pāṇini] had his  students recite both ways, some of the ā kaḍārād ekā saṁjñā, others prāk kaḍārāt paraṁ 
-
 [^72]: The presence of the word ca in 1.4.2 vipratiṣedhe ca hints at the fact that some words would become  anuvr̥tta from 1.4.1 into 1.4.2.
+
+### Span of 1.4.2
+On the other hand, Kiparsky assumes that the alternate version is the correct one, and uses this assumption to argue for restricting the scope of 1.4.2 to the section up to 2.2.38. He says, 
 
 29 
 
-kāryam. Thus, these were still two versions of the rules in Patañjali’s time. Not surprisingly,  the version in which the domain of the para relation could be extended over the whole grammar  eventually won out. But it seems reasonable to assume that the version in which the domain  obviously has to be limited to 1.4 to 2.2 has a greater claim to authenticity.’73 
 
-In his analysis, Kiparsky conveniently ignores the part where Patañjali talks about 1.4.2  vipratiṣedhe ca (param kāryam). If 1.4.1 is prāk kaḍārāt paraṁ kāryam, 1.4.2 would be vipratiṣedhe ca (param kāryam), as mentioned by Patañjali himself. Thus, the para relation  would still be applicable to the entire Aṣṭādhyāyī even if we accept the alternate version of  1.4.1-2 as being the actual or correct one. So, I conclude that contrary to Kiparsky’s claim, both  versions of the pair (1.4.1-2) allow the para relation to extend to the entire Aṣṭādhyāyī. Thus,  his speculation about why the ekā saṁjñā version won out does not pass muster, and the  argument that paraṁ kāryam does not hold beyond 2.2.38 too remains unsubstantiated. 
+> “A  very suggestive piece of evidence that the domain of 1.4.2 is limited to 1.4-2.2 is that Patañjali  actually records a variant reading of Pāṇini’s rules in which that must be the interpretation. In  discussing 1.4.1 Patañjali says,
+>
+> > ‘How then is this rule to be read: as ā kaḍārād ekā saṁjñā “up  to kaḍāra (2.2.38) (everything gets only) one technical term” or as prāk kaḍārāt paraṁ kāryam  “up to kaḍāra apply the last”? Why is this an issue? Because the teacher [Pāṇini] had his  students recite both ways, some of the ā kaḍārād ekā saṁjñā, others prāk kaḍārāt paraṁ kāryam. 
+> 
+> Thus, these were still two versions of the rules in Patañjali’s time. Not surprisingly,  the version in which the domain of the para relation could be extended over the whole grammar  eventually won out. But it seems reasonable to assume that the version in which the domain  obviously has to be limited to 1.4 to 2.2 has a greater claim to authenticity.’[^73] 
 
-Now going back to the general argument that 1.4.2 does not apply beyond 2.2.38, Faddegon  and others reduced the scope of 1.4.2 with the objective of avoiding the application of 1.4.2 to  those cases of conflict wherein applying 1.4.2 may give the wrong answer. But we have already  seen in the derivation of ūrṇāyu that even within 1.4.1-2.2.38, the pūrva rule 1.4.16 siti ca 
+In his analysis, Kiparsky conveniently ignores the part where Patañjali talks about 1.4.2  vipratiṣedhe ca (param kāryam). If 1.4.1 is prāk kaḍārāt paraṁ kāryam, 1.4.2 would be vipratiṣedhe ca (param kāryam), as mentioned by Patañjali himself. Thus, the para relation  would still be applicable to the entire Aṣṭādhyāyī even if we accept the alternate version of  1.4.1-2 as being the actual or correct one. So, I conclude that contrary to Kiparsky’s claim, both  versions of the pair (1.4.1-2) allow the para relation to extend to the entire Aṣṭādhyāyī. Thus,  his speculation about why the "ekā saṁjñā" version won out does not pass muster, and the  argument that "paraṁ kāryam" does not hold beyond 2.2.38 too remains unsubstantiated. 
 
-prevails over the para rule 1.4.18 yaci bham. In other words, even within 1.4.1-2.2.38, 1.4.2  does not give the right answer.  
+Now going back to the general argument that 1.4.2 does not apply beyond 2.2.38, Faddegon  and others reduced the scope of 1.4.2 with the objective of avoiding the application of 1.4.2 to  those cases of conflict wherein applying 1.4.2 may give the wrong answer. But we have already  seen in the derivation of ūrṇāyu that even within 1.4.1-2.2.38, the pūrva rule 1.4.16 siti ca prevails over the para rule 1.4.18 yaci bham. In other words, even within 1.4.1-2.2.38, 1.4.2  does not give the right answer.+++(4)+++  
 
-Besides, those conflicts which we come across in 1.4.2-2.2.38, which are essentially conflicts  between saṁjñā rules, can be successfully solved by choosing the specific rule (the exception)  over the general one, thereby rendering Faddegon’s restriction of 1.4.2’s scope redundant  anyway.74 For example, 1.4.16 siti ca, as we have seen above, is more specific than and  therefore an exception of 1.4.18 yaci bham. Thus 1.4.16 wins. Similarly, 1.4.11 saṁyoge guru 
 
-(which teaches that a short vowel is called guru ‘heavy’ when followed by a consonantal  conjunct) is more specific than 1.4.10 hrasvaṁ laghu (which teaches that a short vowel is called  laghu ‘light’). Thus, 1.4.11 wins.  
+## Exception rule sufficiency
+Besides, those conflicts which we come across in 1.4.2-2.2.38, which are essentially conflicts  between saṁjñā rules, can be successfully solved by choosing the specific rule (the exception)  over the general one, thereby rendering Faddegon’s restriction of 1.4.2’s scope redundant  anyway.[^74] For example, 1.4.16 siti ca, as we have seen above, is more specific than and  therefore an exception of 1.4.18 yaci bham. Thus 1.4.16 wins. Similarly, 1.4.11 saṁyoge guru (which teaches that a short vowel is called guru ‘heavy’ when followed by a consonantal  conjunct) is more specific than 1.4.10 hrasvaṁ laghu (which teaches that a short vowel is called  laghu ‘light’). Thus, 1.4.11 wins.  
 
 [^73]: Kiparsky 1982: 114. 
 
-[^74]: While Joshi (1998: 45)’s overall view on this topic is very different from mine, he makes some  observations which resonate with my findings: “the tradition in general is wrong…in thinking that  apavādatva cannot take care of the designations introduced in the ekā saṁjñā section”. 
+[^74]: 
 
-30In the same way, 1.4.100 taṅānāv ātmanepadam (which teaches that taṄ, ŚānaC and KānaC,  which replace la, take the ātmanepada saṁjñā) is more specific than and thus defeats 1.4.99  laḥ parasmaipadam (which teaches that the affixes which replace la take the parasmaipada  saṁjñā’). Similarly, 1.4.46 adhiśīṅsthāsāṁ karma (which teaches that a kāraka which  constitutes the locus of the action is called karma with the verbs śīṄ ‘to lie down’, sthā ‘to  stand’, and ās ‘to sit’ occurring with preverb adhi) is more specific than and thus wins against 1.4.45 ādhāro’dhikaraṇam (which teaches that a kāraka which constitutes the locus of the  action is called adhikaraṇa).75 These examples satisfactorily prove that the apavāda tool is  sufficient to identify the winning rule in the section 1.4.1-2.2.38. 
+    While Joshi (1998: 45)’s overall view on this topic is very different from mine, he makes some  observations which resonate with my findings: 
 
-Secondly, restricting the scope of 1.4.2 to 1.4.1-2.2.38 implies that Pāṇini has given us no  instructions about the conflicts that lie beyond 2.2.38, which I think is a highly unlikely  scenario. In any case, the few attempts that have been made to deal with conflicts beyond 2.2.38 by scholars such as Cardona (1970) and Joshi and Kiparsky (1979) address only certain types  of rule conflict and fail to paint an overarching picture.76 
+    > “the tradition in general is wrong…in thinking that  apavādatva cannot take care of the designations introduced in the ekā saṁjñā section”. 
+
+[[30]]
+
+In the same way, 1.4.100 taṅānāv ātmanepadam (which teaches that taṄ, ŚānaC and KānaC,  which replace la, take the ātmanepada saṁjñā) is more specific than and thus defeats 1.4.99  laḥ parasmaipadam (which teaches that the affixes which replace la take the parasmaipada  saṁjñā’). Similarly, 1.4.46 adhiśīṅsthāsāṁ karma (which teaches that a kāraka which  constitutes the locus of the action is called karma with the verbs śīṄ ‘to lie down’, sthā ‘to  stand’, and ās ‘to sit’ occurring with preverb adhi) is more specific than and thus wins against 1.4.45 ādhāro’dhikaraṇam (which teaches that a kāraka which constitutes the locus of the  action is called adhikaraṇa).[^75] These examples satisfactorily prove that the apavāda tool is  sufficient to identify the winning rule in the section 1.4.1-2.2.38. 
+
+[^75]: Besides, there are some cases which may appear to be conflicts between rules teaching kāraka saṁjñās but which, according to me, are not conflicts at all. For example, whether one says geham praviśati (cf. 1.4.49 kartur īpsitatamaṁ karma 🡪 2.3.2 karmaṇi dvitīyā) or gehe praviśati (cf. 1.4.45  ādhāro’dhikaraṇam 🡪 2.3.36 saptamy adhikaraṇe ca) depends entirely on the non-linguistic feature  that the speaker wishes to express - that is, whether he/she wants to express kartur īpsitatama or ādhāra. So, this choice lies outside the domain of Pāṇini’s Aṣṭādhyāyī. In conclusion, in my opinion, rule  conflict does not arise between 1.4.45 and 1.4.49.
+
+
+
+Secondly, restricting the scope of 1.4.2 to 1.4.1-2.2.38 implies that Pāṇini has given us no  instructions about the conflicts that lie beyond 2.2.38, which I think is a highly unlikely  scenario. In any case, the few attempts that have been made to deal with conflicts beyond 2.2.38 by scholars such as Cardona (1970) and Joshi and Kiparsky (1979) address only certain types  of rule conflict and fail to paint an overarching picture.[^76] 
+
+
+[^76]: We shall look at limited blocking (Cardona) in chapter 4 and siddha principle (Joshi and Kiparsky)  in Appendix E.

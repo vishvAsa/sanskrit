@@ -15,9 +15,9 @@ Vt. 3 jhādeśād āḍ leṭi
 
 [^7]: Mbh II.59.1. 
 
-8 I will translate and discuss vipratiṣedha later in this chapter from Kātyāyana’s perspective. 9 An aT which replaces a jh which is the initial sound of an affix preceded by śīṄ, takes the augment  rUṬ. 
+[^8]: I will translate and discuss vipratiṣedha later in this chapter from Kātyāyana’s perspective. 9 An aT which replaces a jh which is the initial sound of an affix preceded by śīṄ, takes the augment  rUṬ. 
 
-10 Augments aṬ and āṬ are introduced, in turn (paryāyeṇa), to affixes which replace LEṬ. 11 A jh which is the initial sound of an ātmanepada affix preceded by a verbal base that does not end  in a is replaced with at.
+[^10]: Augments aṬ and āṬ are introduced, in turn (paryāyeṇa), to affixes which replace LEṬ. 11 A jh which is the initial sound of an ātmanepada affix preceded by a verbal base that does not end  in a is replaced with at.
 
 204 
 
@@ -37,9 +37,9 @@ ekavarjam.
 
 6.1.158 teaches that a pada is entirely low-pitched (anudātta) with the exception of one  syllable. But how should we decide which syllable is not low-pitched? Is it a syllable of the  prakr̥ti ‘base’ or a syllable of the pratyaya ‘affix’? After discussing this topic in multiple  vārttikas on this rule, Kātyāyana says, in vt. 1212: śāstraparavipratiṣedhāniyamād vā  śabdaparavipratiṣedhāt siddham ‘[in the event of vipratiṣedha between two operations]  because it has not been [explicitly] mandated that paratva of rules [alone should be used to  resolve] vipratiṣedha, alternatively paratva of sounds [may also be used to] accomplish [the  task of resolving] vipratiṣedha’.13 In other words, here, Kātyāyana suggests that alongside  inferring that the rule that is para i.e., that comes later in the serial order of the Aṣṭādhyāyī 
 
-12 Mbh III.100.12. 
+[^12]: Mbh III.100.12. 
 
-13 Here, Nāgeśa, in his Uddyota, refers to another discussion on this subject on 1.1.57 acaḥ parasmin pūrvavidhau by Kaiyaṭa and Nāgeśa.
+[^13]: Here, Nāgeśa, in his Uddyota, refers to another discussion on this subject on 1.1.57 acaḥ parasmin pūrvavidhau by Kaiyaṭa and Nāgeśa.
 
 205 
 
@@ -51,7 +51,7 @@ One key repercussion of Kātyāyana’s belief that para in 1.4.2 stands for ‘
 
 In vt. 2 on 1.4.2, he says: ekasmin yugapat asaṁbhavāt pūrvaparaprāpter ubhayaprasaṅgaḥ “[Given the] impossibility [of] co-application at one [i.e., the same step, there arises] the  undesirable scenario of both pūrva and para being applicable.” In vt. 5, Kātyāyana says:  apratipattir vobhayos tulyabalatvāt ‘Or [maybe this results in] the failure of both [rules] to  apply because of [their] equal strength’. In vt. 6 he says: tatra pratipattyartham etad vacanam ‘So, this [sūtra] has been formulated in order to instruct us about this [i.e., the decision  regarding which rule should apply]’. From vts. 1, 2, 5 and 6 on 1.4.2, we can conclude that,  
 
-14 Mbh I.304.10-305.3.
+[^14]: Mbh I.304.10-305.3.
 
 206 
 
@@ -65,15 +65,15 @@ But even after inventing tools like nitya, antaraṅga, apavāda and anavakāśa
 
 vārttikas. By using the expression ‘pūrvavipratiṣiddha’, Kātyāyana points out that instead of  the para sūtra, which should win as per his interpretation of 1.4.2 vipratiṣedhe paraṁ kāryam, it is the pūrva sūtra which emerges victorious. We have already looked at some such  vārttikas in chapter 2, so I will simply mention one of them here. On 7.1.96 striyāṁ ca, vt.  1019 reads: guṇavr̥ddhyauttvatr̥jvadbhāvebhyo num pūrvavipratiṣiddham ‘In case of  vipratiṣedha, the pūrva sūtra, which teaches the insertion of the augment nUM, takes  
 
-15 It must be stated though that this passage is reproduced verbatim by Patañjali in his comments on  vt. 3 on 6.1.85 antādivac ca (Mbh III.59.20-60.6). 
+[^15]: It must be stated though that this passage is reproduced verbatim by Patañjali in his comments on  vt. 3 on 6.1.85 antādivac ca (Mbh III.59.20-60.6). 
 
-16 Note that this is an adhikāra rule. 
+[^16]: Note that this is an adhikāra rule. 
 
-17 Mbh III.93.1. 
+[^17]: Mbh III.93.1. 
 
-18 For instance, see example 5 of section 2.7, chapter 2. 
+[^18]: For instance, see example 5 of section 2.7, chapter 2. 
 
-19 Mbh III.275.23.
+[^19]: Mbh III.275.23.
 
 207 
 
@@ -87,7 +87,7 @@ After the composition of the Mahābhāṣya, ideas about the terms vipratiṣedh
 
 yatra dvau prasaṅgāv anyārthāv ekasmin yugapat prāpnutaḥ sa tulyabalavirodho  vipratiṣedhaḥ. tasmin vipratiṣedhe paraṁ kāryaṁ bhavati.  
 
-20 The contents in round brackets have been added by me to Kielhorn’s quote.
+[^20]: The contents in round brackets have been added by me to Kielhorn’s quote.
 
 208 
 
@@ -101,7 +101,7 @@ In sum, the relationships between tulyabala, vipratiṣedha, nitya, antaraṅga,
 
 literature. It is noteworthy that many of these paribhāṣās are anitya ‘not always applicable’  by the tradition’s own admission!  
 
-21 Abhyankar (ed.) 1967: 160a.
+[^21]: Abhyankar (ed.) 1967: 160a.
 
 209 
 
@@ -111,9 +111,9 @@ One would have expected the tradition to start paying ever closer attention to t
 
 They did this by shifting the focus of the tradition from the comprehensive functioning of the  Pāṇinian machine to the many individual products of the machine, namely, individual  derivations of various forms. Over time, students of the Kaumudī got so familiar with these  derivations that now, they do not have to and, consequently, do not, stop at most steps of the  
 
-22 Deshpande (1998, 2019) discusses this topic in great detail.  
+[^22]: Deshpande (1998, 2019) discusses this topic in great detail.  
 
-23 Another popular version of this, also written by Kaiyaṭa is: uttarottaraṁ munīnāṁ prāmāṇyam. 24 See Pradīpa on Mahābhāṣya on 1.1.29.
+[^23]: Another popular version of this, also written by Kaiyaṭa is: uttarottaraṁ munīnāṁ prāmāṇyam. 24 See Pradīpa on Mahābhāṣya on 1.1.29.
 
 210derivation to ask themselves: which rules are applicable at this step? Which of these rules  should I apply? And why? And if pupils do apply conflict resolution tools of their own accord and end up getting the wrong form, they are not encouraged by their teachers to ask why.  Instead, they are advised to consult the Kaumudī texts to ‘correct’ themselves i.e., to  memorize the explanation offered by their authors. 
 
@@ -123,19 +123,19 @@ Joshi and Kiparsky interpret vipratiṣedha as ‘mutual blocking’ and state t
 
 Bronkhorst (1984: 310-313) and Cardona (1999: 154-161) have correctly criticized the  reasoning behind this principle.31 
 
-25 I hope I have proven through this thesis that Pāṇini intended for his grammar to function like a  well-oiled machine. But I do not want to deny that he may have made certain mistakes by virtue of  being human or that interpolations and changes occurred in the Aṣṭādhyāyī at the hands of later  scholars. I think these factors certainly had a negative impact on the functioning of Pāṇini’s machine.  
+[^25]: I hope I have proven through this thesis that Pāṇini intended for his grammar to function like a  well-oiled machine. But I do not want to deny that he may have made certain mistakes by virtue of  being human or that interpolations and changes occurred in the Aṣṭādhyāyī at the hands of later  scholars. I think these factors certainly had a negative impact on the functioning of Pāṇini’s machine.  
 
-26 See section 1.3, chapter 1 for a detailed discussion on this subject. 
+[^26]: See section 1.3, chapter 1 for a detailed discussion on this subject. 
 
-27 For more on this, see example 3 in section 4.4, chapter 4. 
+[^27]: For more on this, see example 3 in section 4.4, chapter 4. 
 
-28 Kiparsky 1987: 295. 
+[^28]: Kiparsky 1987: 295. 
 
-29 Kiparsky (1991: 349) also says, “Joshi and I were unable to find any general way to predict which  rule wins in such a situation [i.e., vipratiṣedha, which they interpret as mutual blocking], although  solutions for some special subtypes of vipratiṣedha were suggested.” Note that the words in the  square brackets in this quote have been added by me for the sake of clarity. 
+[^29]: Kiparsky (1991: 349) also says, “Joshi and I were unable to find any general way to predict which  rule wins in such a situation [i.e., vipratiṣedha, which they interpret as mutual blocking], although  solutions for some special subtypes of vipratiṣedha were suggested.” Note that the words in the  square brackets in this quote have been added by me for the sake of clarity. 
 
-30 Kiparsky 1982: 84-85. 
+[^30]: Kiparsky 1982: 84-85. 
 
-31 For my criticism of the same, please see appendix E.
+[^31]: For my criticism of the same, please see appendix E.
 
 211 
 

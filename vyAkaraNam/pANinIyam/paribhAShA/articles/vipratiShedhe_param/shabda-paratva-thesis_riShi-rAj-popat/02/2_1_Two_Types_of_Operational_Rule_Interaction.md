@@ -11,18 +11,27 @@ In my opinion, at any step in a derivation, even though two (or more) rules are 
 
 Consider the two types of SSRI: 
 
-Type 1: A + B 
+Type 1: ( R1A R2A →) A + B
 
- R1A R2A 
+Type 2: (RA→) A + (RB→) B 
 
-Type 2: A + B 
-
- RA RB
+  
 
 33 
 
-We will call Type 1 Same Operand Interaction - henceforth SOI - because both rules R1A and R2A are applicable to the same operand A at the same step. We will call Type 2 Different  Operand Interaction - henceforth DOI - because the two rules RA and RB are applicable to two  different operands A and B respectively at the same step.  
+We will call Type 1 Same Operand Interaction - henceforth **SOI** - because both rules R1A and R2A are applicable to the same operand A at the same step. We will call Type 2 Different  Operand Interaction - henceforth **DOI** - because the two rules RA and RB are applicable to two  different operands A and B respectively at the same step.  
 
-In their efforts to understand the meaning of 1.4.2, both traditional and modern scholars have  failed to make good use of this clear distinction between SOI and DOI.1 Going further, we will  see that this distinction plays a critical role in helping us understand Pāṇini’s key rule 1.4.2  and, consequently, the entire derivational system of the Aṣṭādhyāyī.  
+In their efforts to understand the meaning of 1.4.2, both traditional and modern scholars have  failed to make good use of this clear distinction between SOI and DOI.[^1] Going further, we will  see that this distinction plays a critical role in helping us understand Pāṇini’s key rule 1.4.2  and, consequently, the entire derivational system of the Aṣṭādhyāyī.  
+
+[^1]: 
+
+    Cardona (1970: 48) does recognize this distinction:
+
+    > “the general condition for vipratiṣedha is, as  noted…that two rules tentatively apply to provide operations which cannot possibly take place  concurrently. The two operations can involve 
+    >
+    > (a) a single operand or  
+    > (b) different operands.” 
+
+    But he  does not develop this intuition, relying instead on the traditional approach to rule interaction.
 
 As stated before, in my opinion, at any step in a derivation, even though two (or more) rules  are applicable, only one rule applies. So, for both Type 1 and Type 2, we need to determine  which of the two rules should be applied at the given step.  

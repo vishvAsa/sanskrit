@@ -19,9 +19,9 @@ s i ū + na
 
 6.1.77 iko yaṇ aci: iK (i, u, r̥, l̥) is replaced with yaṆ (y, v, r, l) when aC (any vowel) follows. 
 
-1 See Pbh 50 in Abhyankar’s reprint (1960: 221-222) of Kielhorn’s translation of the  Paribhāṣenduśekhara. 
+[^1]: See Pbh 50 in Abhyankar’s reprint (1960: 221-222) of Kielhorn’s translation of the  Paribhāṣenduśekhara. 
 
-2 The Sanskrit text is as follows: antarmadhye bahiraṅgaśāstrīyanimittasamudāyamadhye ’ntarbhūtāny  aṅgāni nimittāni yasya tad antaraṅgam. evaṁ tadīyanimittasamudāyād bahirbhūtāṅgakaṁ bahiraṅgam. See the first two lines under Pbh 50 in Paribhāṣenduśekhara edited by Abhyankar (1962: 76). 3 Antaraṅgabahiraṅgayor antaraṅgo vidhir balīyān (Pbh 115, Vyāḍiparibhāṣāpāṭha). 4 The specific Uṇādisūtra teaching this is 289 siveṣ ṭer yū ca.
+[^2]: The Sanskrit text is as follows: antarmadhye bahiraṅgaśāstrīyanimittasamudāyamadhye ’ntarbhūtāny  aṅgāni nimittāni yasya tad antaraṅgam. evaṁ tadīyanimittasamudāyād bahirbhūtāṅgakaṁ bahiraṅgam. See the first two lines under Pbh 50 in Paribhāṣenduśekhara edited by Abhyankar (1962: 76). 3 Antaraṅgabahiraṅgayor antaraṅgo vidhir balīyān (Pbh 115, Vyāḍiparibhāṣāpāṭha). 4 The specific Uṇādisūtra teaching this is 289 siveṣ ṭer yū ca.
 
 229 
 
@@ -61,7 +61,7 @@ Several other examples discussed by Patañjali in his comments on different vār
 
 (3) Let us follow Patañjali’s method to derive the form dudyūṣati ‘desires to shine’. We start by adding the desiderative affix saN to the root div ‘to shine’ by 3.1.7 dhātoḥ karmaṇaḥ samānakartr̥kād icchāyāṁ vā (which teaches that the affix saN is optionally introduced after a  verbal stem, the action denoted by which is the object of a verbal stem expressing desire and  both actions have the same agent). Thereafter, by 6.4.19 chvoḥ śūḍ anunāsike ca (see  
 
-5 The final i or a of a bha item is replaced with LOPA when it is followed by ī or a taddhita affix. 6 Note that I have not added the nominative singular affix here for the purpose of brevity. 
+[^5]: The final i or a of a bha item is replaced with LOPA when it is followed by ī or a taddhita affix. 6 Note that I have not added the nominative singular affix here for the purpose of brevity. 
 
 231 
 
@@ -77,11 +77,11 @@ The examples jujñaudanīyiṣati and ātestīryate discussed by Patañjali are 
 
 (4) Patañjali says that in the string ayaja + i + indram ‘I worshipped Indra’, two rules are  simultaneously applicable: 6.1.87 ād guṇaḥ, which is applicable to a + i and 6.1.101 akaḥ savarṇe dīrghaḥ, which is applicable to i + i. He adds that 6.1.87 is antaraṅga and thus win,  thereby giving the correct form: ayaje indram.  
 
-7 If we interpret sanyaṅoḥ as locative, as I think Patañjali does in this case, then this rule teaches that a  verbal base which has not undergone reduplication is reduplicated when followed by saN or yaṄ. Note  that, the whole base does not undergo reduplication. Instead, only one syllable does. See 6.1.1 ekāco  dve prathamasya and 6.1.2 ajāder dvitīyasya. 
+[^7]: If we interpret sanyaṅoḥ as locative, as I think Patañjali does in this case, then this rule teaches that a  verbal base which has not undergone reduplication is reduplicated when followed by saN or yaṄ. Note  that, the whole base does not undergo reduplication. Instead, only one syllable does. See 6.1.1 ekāco  dve prathamasya and 6.1.2 ajāder dvitīyasya. 
 
-8 If we interpret it as locative, it is not possible to derive the form aṭiṭiṣati (Cardona 1997: xviii). Thus, we must interpret it as a genitive. 
+[^8]: If we interpret it as locative, it is not possible to derive the form aṭiṭiṣati (Cardona 1997: xviii). Thus, we must interpret it as a genitive. 
 
-9 The whole base does not undergo reduplication. Instead, only one syllable does. See 6.1.1 ekāco dve  prathamasya and 6.1.2 ajāder dvitīyasya.
+[^9]: The whole base does not undergo reduplication. Instead, only one syllable does. See 6.1.1 ekāco dve  prathamasya and 6.1.2 ajāder dvitīyasya.
 
 232 
 
@@ -103,7 +103,7 @@ Patañjali says that 6.1.45 is antaraṅga with respect to 6.1.78 and thus wins.
 
 According to me, this is a case of SOI, and we do not need the antaraṅga tool to deal with  cases of SOI. In case of SOI, the more specific rule wins. Let us compare the two rules: 
 
-10 Here, the following operations take place: ayaje indram 🡪 ayajay indram (6.1.78 eco’yavāyāvaḥ) 🡪 ayaja indram (8.3.19 lopaḥ śākalyasya). 
+[^10]: Here, the following operations take place: ayaje indram 🡪 ayajay indram (6.1.78 eco’yavāyāvaḥ) 🡪 ayaja indram (8.3.19 lopaḥ śākalyasya). 
 
 233 
 

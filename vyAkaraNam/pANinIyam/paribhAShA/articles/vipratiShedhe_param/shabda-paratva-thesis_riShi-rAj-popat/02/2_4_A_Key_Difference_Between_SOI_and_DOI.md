@@ -5,38 +5,13 @@ title = "2 4 A Key Difference Between SOI and DOI"
 
 SOI and DOI have one prominent feature in common: in case of both SOI and DOI, two (or  more) rules are simultaneously applicable at a certain step of the derivation. However, it is  important to shed light on a key difference between SOI and DOI. This difference between SOI  and DOI pertains to whether or not they involve competition between two operands.  
 
-should be used to resolve] vipratiṣedha, alternatively paratva of sounds [may also be used to]  accomplish [the task of resolving] vipratiṣedha’ (Mbh III.100.12). 
+ 
 
-[^8]: 5.3.10 saptamyās tral. 
+[[38]] 
 
-[^9]: Pūrvatra stands for ‘with respect to a rule which comes earlier in the Aṣṭādhyāyī’s serial order’.  10 As stated before, by ‘rule’, here I specifically mean vidhi sūtra ‘operational rule’. 
+Type 1: ( R1A R2A →) A + B
 
-38 
-
-Type 1 (SOI) 
-
-	Type 2 (DOI)
-
-	  
-
- A + B 
-
-  
-
- R1A R2A
-
-	 A + B 
-
-  
-
- RA RB
-
-	
-
-
-
-
-
+Type 2: (RA→) A + (RB→) B
 
 
 In case of DOI, we see that the two simultaneously applicable rules RA and RB compete for the  sole position of the rule that applies at that step. But the two operands A and B too compete for  the sole position of the operand that undergoes an operation at that step. 

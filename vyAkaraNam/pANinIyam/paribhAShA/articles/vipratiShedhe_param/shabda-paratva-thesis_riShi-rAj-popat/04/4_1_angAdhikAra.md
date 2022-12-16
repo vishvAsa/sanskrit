@@ -13,9 +13,9 @@ In my opinion, only one item can be called an aṅga with respect to a certain p
 
 Let me discuss an example from verbal inflection to explain what I mean. Consider the  derivation of the present-tense third-person singular form of cit ‘to think’: cit + LAṬ (3.2.123 vartamāne laṭ1) 🡪 cit + tiP (3.4.77 lasya, 3.4.78 tiptasjhi…2). According to the tradition3, cit  is an aṅga with respect to tiP. Then, after we add the vikaraṇa ŚaP by 3.1.68 kartari śap4, we  get cit + ŚaP + tiP. According to the tradition, cit + ŚaP too is an aṅga with respect to tiP.  
 
-1 Affix LAṬ occurs after a verbal root when the action is denoted at the current time (vartamāna). 2 Tip-tas-jhi-sip-thas-tha-mib-vas-mas-ta-ātāṁ-jha-thās-āthāṁ-dhvam-iḍ-vahi-mahiṅ. 3 Though the tradition does not explicitly state this, it becomes clear from the derivations we will  examine below that such is indeed the case.  
+[^1]: Affix LAṬ occurs after a verbal root when the action is denoted at the current time (vartamāna). 2 Tip-tas-jhi-sip-thas-tha-mib-vas-mas-ta-ātāṁ-jha-thās-āthāṁ-dhvam-iḍ-vahi-mahiṅ. 3 Though the tradition does not explicitly state this, it becomes clear from the derivations we will  examine below that such is indeed the case.  
 
-4 Affix ŚaP occurs after a verbal root when a sārvadhātuka affix which denotes kartr̥ ‘agent’ follows.
+[^4]: Affix ŚaP occurs after a verbal root when a sārvadhātuka affix which denotes kartr̥ ‘agent’ follows.
 
 109 
 
@@ -37,7 +37,7 @@ pratyaye – when tiP follows
 
 aṅgam – (is called) aṅga. 
 
-5 Guṇa replaces the iK of a verbal base which ends in the augment pUK or which has a laghu ‘light’  vowel as its penultimate sound when a sārvadhātuka or ārdhadhātuka affix follows. 6 I must clarify that, in my view, the modified version of an aṅga too can be called an aṅga, thanks to  1.1.56 sthānivad ādeśo’nalvidhau, which teaches that the substitute is treated like the substituendum,  except when an operation relative to the original sound is to be performed. So, for example, in deva +  bhyām, deva is an aṅga with respect to bhyām. By applying 7.3.102 supi ca, we get devā + bhyām. devā too can be called an aṅga with respect to bhyām by 1.1.56 sthānivad ādeśo’nalvidhau.
+[^5]: Guṇa replaces the iK of a verbal base which ends in the augment pUK or which has a laghu ‘light’  vowel as its penultimate sound when a sārvadhātuka or ārdhadhātuka affix follows. 6 I must clarify that, in my view, the modified version of an aṅga too can be called an aṅga, thanks to  1.1.56 sthānivad ādeśo’nalvidhau, which teaches that the substitute is treated like the substituendum,  except when an operation relative to the original sound is to be performed. So, for example, in deva +  bhyām, deva is an aṅga with respect to bhyām. By applying 7.3.102 supi ca, we get devā + bhyām. devā too can be called an aṅga with respect to bhyām by 1.1.56 sthānivad ādeśo’nalvidhau.
 
 110‘Upon the addition of tiP to cit, that which begins with cit is called aṅga when tiP follows.’ 
 
@@ -91,7 +91,7 @@ Also, note that I agree with the tradition that cit is an aṅga with respect to
 
 Before we go further, note that, we find vikaraṇas only in tiṅanta and kr̥danta derivations. So,  in the rest of the derivations, it is very easy to determine what we should call an aṅga with  respect to the affix. For instance, in deva + bhis (example 1 of section 2.7, chapter 2), deva is  an aṅga with respect to bhis simply because the affix bhis has been added to deva. Similarly,  in sad + vas + Ṅas (example 2 of section 3.2, chapter 3), sad + vas is an aṅga with respect to  
 
-7 w.r.t. = with respect to.
+[^7]: w.r.t. = with respect to.
 
 111 
 

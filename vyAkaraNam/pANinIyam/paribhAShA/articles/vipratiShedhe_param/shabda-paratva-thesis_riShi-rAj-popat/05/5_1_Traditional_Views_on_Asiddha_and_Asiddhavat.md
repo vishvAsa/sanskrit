@@ -13,11 +13,11 @@ Let me start by presenting the English translation of these three rules as per t
 
 Here, should the kārya (i.e., ‘operation’, or more aptly, ‘outcome of application of the rule’) be suspended or the śāstra (i.e., the rule) itself? In traditional literature, if the kārya is suspended,  this is called kāryāsiddhi, whereas if the śāstra is suspended, this is called śāstrāsiddhi.  According to the Kāśikā, asiddha implies kāryāsiddhi2, but according to the  Siddhāntakaumudī, asiddha stands for śāstrāsiddhi3.4 
 
-1 When A is suspended with respect to B, B cannot acknowledge A. 
+[^1]: When A is suspended with respect to B, B cannot acknowledge A. 
 
 2 ṣatve tuki ca kartavye ekādeśo’siddho bhavati, siddhakāryaṁ na karoti ity arthaḥ. 3 ṣatve tuki ca kartavye ekādeśaśāstram asiddhaṁ syāt. 
 
-4 In his commentary on 8.2.1, Rama Nath Sharma (2003, Vol. 6, p. 476) says, “The asiddhatva of 8.2.1  pūrvatrāsiddham is thus accepted as suspension of rules (sāstrāsiddhatva). Neo-grammarians such as 
+[^4]: In his commentary on 8.2.1, Rama Nath Sharma (2003, Vol. 6, p. 476) says, “The asiddhatva of 8.2.1  pūrvatrāsiddham is thus accepted as suspension of rules (sāstrāsiddhatva). Neo-grammarians such as 
 
 1708.2.1 pūrvatrāsiddham: that which is taught from here onwards is suspended (asiddham) with  respect to what precedes it (pūrvatra).  
 
@@ -39,11 +39,11 @@ On 6.4.22, Kātyāyana presents two different views on the meaning of the word a
 
 Nāgeśa and Bhaṭṭojī Dīkṣita accept this view. Earlier grammarians, which also includes authors of the  Kāśikāvr̥tti, accept the kāryāsiddhatva view.” 
 
-5 There is some controversy about the meaning of ā bhāt. We will examine this topic later in this chapter. 6 Kāśikā’s interpretation alludes to the rules which are asiddhavat, but does not mention the rules with  respect to which these rules are asiddhavat. We are left to answer the ‘with respect to what?’ question  on our own. 
+[^5]: There is some controversy about the meaning of ā bhāt. We will examine this topic later in this chapter. 6 Kāśikā’s interpretation alludes to the rules which are asiddhavat, but does not mention the rules with  respect to which these rules are asiddhavat. We are left to answer the ‘with respect to what?’ question  on our own. 
 
-7 atreti samānāśrayatvapratipattyartham. 
+[^7]: atreti samānāśrayatvapratipattyartham. 
 
-8 Explaining why asiddhavat is not applicable in a certain context, Kātyāyana says (vt. 12)  samānāśrayavacanāt siddham ‘[despite being placed in the section headed by 6.4.22] it (i.e., this rule)  is siddha [and not asiddhavat] because [asiddhavat has been taught only in regard with]  samānāśrayatva, [and here the samānāśrayatva condition has not been met]’ (Mbh III.190.22).
+[^8]: Explaining why asiddhavat is not applicable in a certain context, Kātyāyana says (vt. 12)  samānāśrayavacanāt siddham ‘[despite being placed in the section headed by 6.4.22] it (i.e., this rule)  is siddha [and not asiddhavat] because [asiddhavat has been taught only in regard with]  samānāśrayatva, [and here the samānāśrayatva condition has not been met]’ (Mbh III.190.22).
 
 171 
 
@@ -61,10 +61,10 @@ A is suspended with respect to B if:
 
 Note that the tradition does not make any actual distinction between asiddha and asiddhavat,  which is why I have translated both terms as ‘suspended’. 
 
-9 See Vt. 2 atragrahaṇam viṣayārtham (Mbh III.187.11) and Patañjali’s commentary on it. 10 For example, consider the form rāga ‘colour’ which is derived from the root rañjI ‘to colour’. The  derivation proceeds as follows: rañj + GHaÑ (3.3.18 bhāve) 🡪 raj + a (6.4.27 ghañi ca  bhāvakaraṇayoḥ) 🡪 rāj + a (7.2.116 ata upadhāyāḥ) 🡪 rāga (7.3.52 cajoḥ ku ghiṇṇyatoḥ). Here, if  6.4.27 is asiddhavat with respect to 7.2.116, then 7.2.116 will not apply after the application of 6.4.27. 11 On vt. 2, Patañjali says: viṣayaḥ pratinirdiśyate. atraitasminn ābhāc chāstra ā bhāc chāstram  asiddhaṁ yathā syāt. iha mā bhūt. abhāji rāgaḥ upabarhaṇam iti.  
+[^9]: See Vt. 2 atragrahaṇam viṣayārtham (Mbh III.187.11) and Patañjali’s commentary on it. 10 For example, consider the form rāga ‘colour’ which is derived from the root rañjI ‘to colour’. The  derivation proceeds as follows: rañj + GHaÑ (3.3.18 bhāve) 🡪 raj + a (6.4.27 ghañi ca  bhāvakaraṇayoḥ) 🡪 rāj + a (7.2.116 ata upadhāyāḥ) 🡪 rāga (7.3.52 cajoḥ ku ghiṇṇyatoḥ). Here, if  6.4.27 is asiddhavat with respect to 7.2.116, then 7.2.116 will not apply after the application of 6.4.27. 11 On vt. 2, Patañjali says: viṣayaḥ pratinirdiśyate. atraitasminn ābhāc chāstra ā bhāc chāstram  asiddhaṁ yathā syāt. iha mā bhūt. abhāji rāgaḥ upabarhaṇam iti.  
 
-12 yad ita ūrdhvam anukramiṣyāmaḥ ā adhyāyaparisamāpteḥ tad asiddhavat bhavati ity evaṁ veditavyam (Kāśikā on 6.4.22). 
+[^12]: yad ita ūrdhvam anukramiṣyāmaḥ ā adhyāyaparisamāpteḥ tad asiddhavat bhavati ity evaṁ veditavyam (Kāśikā on 6.4.22). 
 
-13 Mbh III.192.10-193.19.
+[^13]: Mbh III.192.10-193.19.
 
 172 

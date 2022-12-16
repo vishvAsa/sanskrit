@@ -5,25 +5,27 @@ title = "2 5 Pāṇinian and Post-Pāṇinian Approaches to Derivations"
 
 In order to determine why post-Pāṇinian (both traditional and modern) scholars have  misinterpreted Pāṇini’s rule 1.4.2, we need to understand that there is a fundamental difference  between what I think are Pāṇinian11 and post-Pāṇinian conceptions of, or perspectives towards,  the derivational procedure itself. I will explain exactly what I mean by this statement by means  of examining six representative examples of SSRI from both Pāṇinian and post-Pāṇinian  perspectives below.  
 
-Let us start with the latter. But before we examine these representative examples from the post Pāṇinian perspective, let me explain certain fundamental concepts which will help us  
 
 [^11]: When I make the distinction between Pāṇinian and post-Pāṇinian approaches in the following pages,  it must be understood that by ‘Pāṇinian approach’, I mean ‘my interpretation of the Pāṇinian approach’.
 
 39 
 
-understand this perspective better. Let us divide SSRI into two categories, namely ‘conflict’  and ‘non-conflict’. In order to define conflict and non-conflict, we must first define blocking. Let us say that two rules X and Y are simultaneously applicable at step K12. We say that rule  X blocks rule Y if Y will not be applicable at the following step (K+1) after the hypothetical  application of X at the present step (K). Conflict is defined as an SSRI which involves some  blocking. Non-conflict is defined as an SSRI which does not involve any blocking. 
+Let us start with the latter. But before we examine these representative examples from the post Pāṇinian perspective, let me explain certain fundamental concepts which will help us  understand this perspective better. Let us divide SSRI into two categories, namely ‘conflict’  and ‘non-conflict’. 
 
-SSRI 
+In order to define conflict and non-conflict, we must first define blocking. Let us say that two rules X and Y are simultaneously applicable at step K[^12]. We say that rule  X blocks rule Y if Y will not be applicable at the following step (K+1) after the hypothetical  application of X at the present step (K). Conflict is defined as an SSRI which involves some  blocking. Non-conflict is defined as an SSRI which does not involve any blocking. 
 
- blocking no blocking 
+[^12]: In other words, let us say that there is an SSRI between X and Y.
 
- conflict non-conflict 
+- SSRI 
+  - blocking → conflict
+  - no blocking → non-conflict
+
 
 Note that, in my opinion, Pāṇini has not defined or discussed the categories ‘conflict’ and ‘non conflict’ in any way whatsoever, and he does not expect us to know about or use them either.  Traditional scholars too have not made an explicit distinction between conflict and non conflict. In modern / western scholarship, the concept of ‘(rule) conflict’ has been widely used,  but ‘non-conflict’ has not been used at all.  
 
-Then, the question arises: why have I made this distinction between conflict and non-conflict?  I have done this to highlight that, for the most part, post-Pāṇinian scholarship has focused on  conflict and has not paid much attention to non-conflict. Why is this the case? To answer this  question, let us look closely at non-conflict, wherein the two rules X and Y do not block each  other: if X applies at the present step, then Y is applicable at the following step, and if Y applies  at the present step, then X is applicable at the following step. Before we go further, note that  ‘being applicable’ is different from ‘applying’. Consider the following situation: 
+Then, the question arises: why have I made this distinction between conflict and non-conflict?  I have done this to highlight that, for the most part, post-Pāṇinian scholarship has focused on  conflict and has not paid much attention to non-conflict. Why is this the case? To answer this  question, let us look closely at non-conflict, wherein the two rules X and Y do not block each  other: if X applies at the present step, then Y is applicable at the following step, and if Y applies  at the present step, then X is applicable at the following step. 
 
-[^12]: In other words, let us say that there is an SSRI between X and Y.
+Before we go further, note that  ‘being applicable’ is different from ‘applying’. Consider the following situation: 
 
 40Step 1: g h 
 
