@@ -19,7 +19,7 @@ In order to examine an example of competition between these paribhāṣā rules,
 
 āśiṣy anyatarasyām here. This rule teaches that tu and hi should be replaced with tātAṄ in a  benedictive form. If this rule is applied, which part of tu does tātAṄ replace? To get the correct  answer, likhatāt, tātAṄ needs to replace tu entirely. But what do the relevant metarules have to  say in this regard? Do they help us derive the correct answer, likhatāt? Let us look at them: 
 
-1 The full sūtra reads: tip-tas-jhi-sip-thas-tha-mip-vas-mas-t(a)-ātām-jha-thās-āthām-dhvam-iḍ-vahi mahiṅ. 
+[^1]: The full sūtra reads: tip-tas-jhi-sip-thas-tha-mip-vas-mas-t(a)-ātām-jha-thās-āthām-dhvam-iḍ-vahi mahiṅ. 
 
 219 
 

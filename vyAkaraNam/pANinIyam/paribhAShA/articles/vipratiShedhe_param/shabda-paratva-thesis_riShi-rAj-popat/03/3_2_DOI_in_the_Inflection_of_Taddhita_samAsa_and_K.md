@@ -11,7 +11,7 @@ We will see that the tradition manages to avoid dealing with conflict in the fir
 
 (1) Consider the genitive singular form of prati-ac11 ‘turned towards, facing’: pratīcas. By  2.2.18 kugatiprādayaḥ, prati-ac is a tatpuruṣa compound made of prati, which takes the  technical designation gati by 1.4.60 gatiś ca and ac, which is derived as follows: añcU + KvIN 
 
-11 I use the ‘+’ sign between a base and an affix. Since ac is not an affix with respect to prati, I put a ‘– ’ instead of a ‘+’ between prati and ac.
+[^11]: I use the ‘+’ sign between a base and an affix. Since ac is not an affix with respect to prati, I put a ‘– ’ instead of a ‘+’ between prati and ac.
 
 91 
 

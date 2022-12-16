@@ -21,7 +21,7 @@ ato dīrgho yañi supi cety asyāvakāśaḥ. vṛkṣābhyāṁ plakṣābhyā�
 
 This is explained by Vasu as follows: 
 
-51 I have translated para kārya as understood by the tradition.
+[^51]: I have translated para kārya as understood by the tradition.
 
 20‘As an example of rules of equal force, see 7.3.102 and 7.3.103. The first rule declares, when  a case-affix beginning with a letter of yaÑ pratyāhāra follows, the long vowel is substituted  for the final of an inflective base ending in a short a. As vr̥kṣa + bhyām = vr̥kṣābhyām. The  next rule declares:- When a plural case-affix beginning with a letter or [sic]52 jhaL pratyāhāra 
 
@@ -33,13 +33,13 @@ a. Between a nitya and an anitya operation, a nitya rule is more powerful. Nity�
 
 The more powerful rule wins. The following paribhāṣā, which has been popularized by the  Paribhāṣenduśekhara, creates a hierarchy of importance between four tools of rule conflict  resolution namely paratva, nityatva, antaraṅgatva and apavādatva57: pūrva-para-nitya 
 
-52 Of. 
+[^52]: Of. 
 
-53 Perhaps Vasu intended to say ‘sound’ and not ‘letter’. 
+[^53]: Perhaps Vasu intended to say ‘sound’ and not ‘letter’. 
 
-54 This example in the Kāśikā is borrowed from Mahābhāṣya on 1.4.2 (Mbh I.304.15). 55 Another version of this paribhāṣā is balavan nityam anityāt (92, Bhojaparibhāṣāsūtra). 56 Another version of this paribhāṣā is (balavad) antaraṅgaṁ bahiraṅgāt (93, Bhojaparibhāṣāsūtra),  where balavat is anuvr̥tta from the previous paribhāṣā. 
+[^54]: This example in the Kāśikā is borrowed from Mahābhāṣya on 1.4.2 (Mbh I.304.15). 55 Another version of this paribhāṣā is balavan nityam anityāt (92, Bhojaparibhāṣāsūtra). 56 Another version of this paribhāṣā is (balavad) antaraṅgaṁ bahiraṅgāt (93, Bhojaparibhāṣāsūtra),  where balavat is anuvr̥tta from the previous paribhāṣā. 
 
-57 It is not clear why the word pūrva has been mentioned in the paribhāṣā. 
+[^57]: It is not clear why the word pūrva has been mentioned in the paribhāṣā. 
 
 21 
 
@@ -63,7 +63,7 @@ If and only if this step does not yield the correct result, apply 1.4.2 viprati�
 
 d. para>pūrva: a para sūtra (a later rule in the Aṣṭādhyāyī’s serial order) is more powerful  than, and wins when competing with, a pūrva sūtra (which appears before the para sūtra). 
 
-58 Patañjali and Nāgeśa hold the antaraṅga paribhāṣā true for both conflict and other situations. See  the Mahābhāṣya on 1.4.2 (Mbh I.309.24 onwards) and paribhāṣā 50 of the Paribhāṣenduśekhara, asiddham bahiraṅgam antaraṅge.
+[^58]: Patañjali and Nāgeśa hold the antaraṅga paribhāṣā true for both conflict and other situations. See  the Mahābhāṣya on 1.4.2 (Mbh I.309.24 onwards) and paribhāṣā 50 of the Paribhāṣenduśekhara, asiddham bahiraṅgam antaraṅge.
 
 22 
 

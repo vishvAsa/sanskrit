@@ -11,7 +11,7 @@ When deriving its present third person singular form, two rules become applicabl
 
 (sārvadhātuke kartari), which teaches the addition of affix Śa after roots belonging to the class  starting with tud in the Dhātupāṭha, when the root is followed by a sārvadhātuka affix in an  
 
-59 See the entry on vipratiṣedha in Apte’s Sanskrit dictionary.  
+[^59]: See the entry on vipratiṣedha in Apte’s Sanskrit dictionary.  
 
 60 The terms in brackets are anuvr̥tta ‘continued’ from previous sūtras. 
 

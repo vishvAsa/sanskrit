@@ -17,11 +17,11 @@ Let us consider some examples from Group B. 1.1.47 mid aco’ntyāt paraḥ teac
 
 Furthermore, we also see that in the Aṣṭādhyāyī the term pūrva, the antonym of para, when  used specifically in the context of Pāṇinian derivations, means LHS. For example, consider the  pair of rules 1.1.66 tasminn iti nirdiṣṭe pūrvasya and 1.1.67 tasmād ity uttarasya. 1.1.66 teaches  that when an item is taught (nirdiṣṭe) in the locative (tasminn iti), it means that the item to its  left-hand side (pūrvasya) undergoes an operation, and 1.1.67 teaches that, when an item is  
 
-2 Since our focus is not on this group, I have not listed certain rules in which we find compounds or  secondary derivatives containing para. Examples include parasmaipada, parokṣa, aparokṣa, parovara, parama, and paraspara. 
+[^2]: Since our focus is not on this group, I have not listed certain rules in which we find compounds or  secondary derivatives containing para. Examples include parasmaipada, parokṣa, aparokṣa, parovara, parama, and paraspara. 
 
-3 The original rule is upasargād anotparaḥ, but Patañjali has suggested that it should be read as  upasargād bahulam. We find the latter version in many recensions. 
+[^3]: The original rule is upasargād anotparaḥ, but Patañjali has suggested that it should be read as  upasargād bahulam. We find the latter version in many recensions. 
 
-4 See Appendix F for the list of sūtras.
+[^4]: See Appendix F for the list of sūtras.
 
 36 
 
@@ -37,11 +37,11 @@ Let me summarize this topic now. In ordinary speech, para means ‘following, so
 
 This leads to an important question: if traditional scholars interpreted para as ‘RHS  item/operation’ in so many metarules as shown above, why did they interpret it as ‘the  following rule’ in 1.4.2?7 I think this misunderstanding possibly arose because another  
 
-5 Here uttara is a synonym of para. 
+[^5]: Here uttara is a synonym of para. 
 
-6 These are the traditional interpretations of these two rules. I discuss my interpretations of them in  Appendix B.  
+[^6]: These are the traditional interpretations of these two rules. I discuss my interpretations of them in  Appendix B.  
 
-7 While I will discuss this in detail in chapter 6, I must mention here that Kātyāyana mentions that para in 1.4.2 could mean ‘RHS’ in vt. 12 on 6.1.158 anudāttaṁ padam ekavarjam. He says:  śāstraparavipratiṣedhāniyamād vā śabdaparavipratiṣedhāt siddham ‘[in the event of vipratiṣedha between two operations] because it has not been [explicitly] mandated that paratva of rules [alone 
+[^7]: While I will discuss this in detail in chapter 6, I must mention here that Kātyāyana mentions that para in 1.4.2 could mean ‘RHS’ in vt. 12 on 6.1.158 anudāttaṁ padam ekavarjam. He says:  śāstraparavipratiṣedhāniyamād vā śabdaparavipratiṣedhāt siddham ‘[in the event of vipratiṣedha between two operations] because it has not been [explicitly] mandated that paratva of rules [alone 
 
 37 
 

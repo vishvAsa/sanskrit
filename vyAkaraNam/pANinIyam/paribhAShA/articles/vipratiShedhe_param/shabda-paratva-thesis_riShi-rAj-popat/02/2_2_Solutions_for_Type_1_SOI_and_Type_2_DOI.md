@@ -11,7 +11,7 @@ Which one of the two rules R1A and R2A should we apply at this step? Pāṇini d
 
 It is likely that Pāṇini did not deem it necessary to state explicitly that the exception rule defeats  the general rule in case of SOI because the general-exception framework is not a feature of  ‘grammar’ alone but more broadly, a feature of the sūtra style itself. Freschi and Pontillo (2013:  2) point out that “the basic framework of Sanskrit śāstras ‘systematic treatises’ is based on the  practical and effective opposition between general and specific rules”. 
 
-1 Cardona (1970: 48) does recognize this distinction: “the general condition for vipratiṣedha is, as  noted…that two rules tentatively apply to provide operations which cannot possibly take place  concurrently. The two operations can involve (a) a single operand or (b) different operands.” But he  does not develop this intuition, relying instead on the traditional approach to rule interaction. 
+[^1]: Cardona (1970: 48) does recognize this distinction: “the general condition for vipratiṣedha is, as  noted…that two rules tentatively apply to provide operations which cannot possibly take place  concurrently. The two operations can involve (a) a single operand or (b) different operands.” But he  does not develop this intuition, relying instead on the traditional approach to rule interaction. 
 
 34 
 

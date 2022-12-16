@@ -11,7 +11,7 @@ tatraikasaṁjñādhikāre tadvacanaṁ (vt. 2)
 
 tatraikasaṁjñādhikāre tadvaktavyam. kim. ekā saṁjñā bhavatīti. nanu ca yasyāpi  paraṁkāryatvaṁ tenāpi paragrahaṇaṁ kartavyam. parārtham mama bhaviṣyati. vipratiṣedhe  ca iti. mamāpi tarhy ekagrahaṇam parārthaṁ bhaviṣyati. sarūpāṇām ekaśeṣa ekavibhaktau  iti.67 
 
-66 On this, Joshi (1998: 58) makes an interesting remark: ‘in his 1936 publication on Pāṇini’s grammar  (p. 26-27) B. Faddegon casually notes that P. 1.4.2 is a paribhāṣā, and that it is valid up to the end of  P. 2.2, as if there never had been any doubt. Compare further Cardona 1976, p. 190.’ 67 Mbh I.296.11-18.
+[^66]: On this, Joshi (1998: 58) makes an interesting remark: ‘in his 1936 publication on Pāṇini’s grammar  (p. 26-27) B. Faddegon casually notes that P. 1.4.2 is a paribhāṣā, and that it is valid up to the end of  P. 2.2, as if there never had been any doubt. Compare further Cardona 1976, p. 190.’ 67 Mbh I.296.11-18.
 
 27 
 
@@ -23,13 +23,13 @@ In that section where one name applies, that should be stated. What [should be s
 
 The two versions of the rule pair 1.4.1-2 are: 1.4.1 ā kaḍārād ekā saṁjñā, 1.4.2 vipratiṣedhe  param kāryam; and 1.4.1 prāk kaḍārād param kāryam, 1.4.2 vipratiṣedhe ca. The former  version is found in the available manuscripts of the Aṣṭādhyāyī, while the latter version is first  mentioned by Patañjali himself. In the case of the latter, Patañjali only indirectly hints at what  I have called 1.4.2, when explaining how he could use para from 1.4.1 prāk kaḍārād paraṁ 
 
-68 Up to 2.2.38 kaḍārāḥ karmadhāraye, each item can take only one saṁjñā. 
+[^68]: Up to 2.2.38 kaḍārāḥ karmadhāraye, each item can take only one saṁjñā. 
 
-69 Up to 2.2.38 kaḍārāḥ karmadhāraye, the rule that comes later in the Aṣṭādhyāyī’s serial order  prevails. 
+[^69]: Up to 2.2.38 kaḍārāḥ karmadhāraye, the rule that comes later in the Aṣṭādhyāyī’s serial order  prevails. 
 
-70 In the Aṣṭādhyāyī’s serial order, 1.2.64 sarūpāṇām ekaśeṣa ekavibhaktau comes before 1.4.1 ā  kaḍārād ekā saṁjñā. So, one may wonder how Patañjali would be able to continue ekā from 1.4.1 into  1.2.64 by anuvr̥tti. I want to clarify here that Patañjali is proposing to reorder the rules such that ā  kaḍārād ekā saṁjñā comes before sarūpāṇām ekaśeṣa ekavibhaktau, so that he may be able to continue  ekā from the former into the latter by anuvr̥tti. I do not see how doing this would be justified or useful. 
+[^70]: In the Aṣṭādhyāyī’s serial order, 1.2.64 sarūpāṇām ekaśeṣa ekavibhaktau comes before 1.4.1 ā  kaḍārād ekā saṁjñā. So, one may wonder how Patañjali would be able to continue ekā from 1.4.1 into  1.2.64 by anuvr̥tti. I want to clarify here that Patañjali is proposing to reorder the rules such that ā  kaḍārād ekā saṁjñā comes before sarūpāṇām ekaśeṣa ekavibhaktau, so that he may be able to continue  ekā from the former into the latter by anuvr̥tti. I do not see how doing this would be justified or useful. 
 
-71 Note that there is no evidence that Kātyāyana was aware of these two versions. Vt. 2  tatraikasaṁjñādikāre tadvacanaṁ (Mbh I.296.15) has been written in context of the first vārttika, and  not in the context of these supposedly different versions of 1.4.1 (and 1.4.2). The first vārttika reads:  anyatra saṁjñāsamāveśān niyamārthaṁ vacanam “Because names co-apply elsewhere, the statement  is for the sake of making a restriction.” (Mbh I.296.3). And so, the second vārttika continues to discuss  this topic: tatraikasaṁjñādikāre tadvacanaṁ ‘In that section where one name applies, the statement of  that [must be made].’ As is peculiar of Patañjali, he skilfully weaves Kātyāyana’s vārttikas into his own  discourse. But it must be borne in mind that, as far as we know, the idea of two different versions of  1.4.1 (and 1.4.2) is Patañjali’s alone. 
+[^71]: Note that there is no evidence that Kātyāyana was aware of these two versions. Vt. 2  tatraikasaṁjñādikāre tadvacanaṁ (Mbh I.296.15) has been written in context of the first vārttika, and  not in the context of these supposedly different versions of 1.4.1 (and 1.4.2). The first vārttika reads:  anyatra saṁjñāsamāveśān niyamārthaṁ vacanam “Because names co-apply elsewhere, the statement  is for the sake of making a restriction.” (Mbh I.296.3). And so, the second vārttika continues to discuss  this topic: tatraikasaṁjñādikāre tadvacanaṁ ‘In that section where one name applies, the statement of  that [must be made].’ As is peculiar of Patañjali, he skilfully weaves Kātyāyana’s vārttikas into his own  discourse. But it must be borne in mind that, as far as we know, the idea of two different versions of  1.4.1 (and 1.4.2) is Patañjali’s alone. 
 
 28 
 
@@ -73,7 +73,7 @@ So, what does the alternative version of 1.4.1 i.e., prāk kaḍārāt paraṁ k
 
 On the other hand, Kiparsky assumes that the alternate version is the correct one, and uses this assumption to argue for restricting the scope of 1.4.2 to the section up to 2.2.38. He says, “A  very suggestive piece of evidence that the domain of 1.4.2 is limited to 1.4-2.2 is that Patañjali  actually records a variant reading of Pāṇini’s rules in which that must be the interpretation. In  discussing 1.4.1 Patañjali says, ‘How then is this rule to be read: as ā kaḍārād ekā saṁjñā “up  to kaḍāra (2.2.38) (everything gets only) one technical term” or as prāk kaḍārāt paraṁ kāryam  “up to kaḍāra apply the last”? Why is this an issue? Because the teacher [Pāṇini] had his  students recite both ways, some of the ā kaḍārād ekā saṁjñā, others prāk kaḍārāt paraṁ 
 
-72 The presence of the word ca in 1.4.2 vipratiṣedhe ca hints at the fact that some words would become  anuvr̥tta from 1.4.1 into 1.4.2.
+[^72]: The presence of the word ca in 1.4.2 vipratiṣedhe ca hints at the fact that some words would become  anuvr̥tta from 1.4.1 into 1.4.2.
 
 29 
 
@@ -89,9 +89,9 @@ Besides, those conflicts which we come across in 1.4.2-2.2.38, which are essenti
 
 (which teaches that a short vowel is called guru ‘heavy’ when followed by a consonantal  conjunct) is more specific than 1.4.10 hrasvaṁ laghu (which teaches that a short vowel is called  laghu ‘light’). Thus, 1.4.11 wins.  
 
-73 Kiparsky 1982: 114. 
+[^73]: Kiparsky 1982: 114. 
 
-74 While Joshi (1998: 45)’s overall view on this topic is very different from mine, he makes some  observations which resonate with my findings: “the tradition in general is wrong…in thinking that  apavādatva cannot take care of the designations introduced in the ekā saṁjñā section”. 
+[^74]: While Joshi (1998: 45)’s overall view on this topic is very different from mine, he makes some  observations which resonate with my findings: “the tradition in general is wrong…in thinking that  apavādatva cannot take care of the designations introduced in the ekā saṁjñā section”. 
 
 30In the same way, 1.4.100 taṅānāv ātmanepadam (which teaches that taṄ, ŚānaC and KānaC,  which replace la, take the ātmanepada saṁjñā) is more specific than and thus defeats 1.4.99  laḥ parasmaipadam (which teaches that the affixes which replace la take the parasmaipada  saṁjñā’). Similarly, 1.4.46 adhiśīṅsthāsāṁ karma (which teaches that a kāraka which  constitutes the locus of the action is called karma with the verbs śīṄ ‘to lie down’, sthā ‘to  stand’, and ās ‘to sit’ occurring with preverb adhi) is more specific than and thus wins against 1.4.45 ādhāro’dhikaraṇam (which teaches that a kāraka which constitutes the locus of the  action is called adhikaraṇa).75 These examples satisfactorily prove that the apavāda tool is  sufficient to identify the winning rule in the section 1.4.1-2.2.38. 
 

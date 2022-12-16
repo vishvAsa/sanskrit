@@ -11,7 +11,7 @@ Note that almost all cases of DOI conflict in derivations of finite verbs and pr
 
 Lastly, also note that kr̥danta forms are prātipadikas by 1.2.46 kr̥ttaddhitasamāsāś ca and thus  they can take suP affixes by 4.1.1 ṅyāpprātipadikāt. However, in the examples I have discussed  in this section, I have not added suP affixes to kr̥danta forms. This is purely to avoid repetition and redundancy. This does not affect the derivations discussed in this chapter.23 For example,  the first derivation śvi + Ktvā should actually begin in the following manner: śvi + Ktvā 🡪 śvi  + Ktvā + sU (4.1.2 su-au-jas…)🡪 śvi + Ktvā (1.1.40 ktvātosunkasunaḥ, 2.4.82 avyayād  āpsupaḥ). Here onwards, the derivation proceeds as follows: 
 
-23 I have included the kr̥danta derivation sad + KvasU + Ṅas in the previous chapter because there, nominal inflection plays a crucial role in helping us obtain the correct form. 
+[^23]: I have included the kr̥danta derivation sad + KvasU + Ṅas in the previous chapter because there, nominal inflection plays a crucial role in helping us obtain the correct form. 
 
 121 
 

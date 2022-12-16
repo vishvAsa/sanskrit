@@ -35,7 +35,7 @@ a + b
 
 However, if only one rule K1 is applicable (to c) at a given step c + d, then I do not draw  diagrams of the following kind to represent this: 
 
-29 RE = ‘Representative Example’. 
+[^29]: RE = ‘Representative Example’. 
 
 30 Note that examples from nominal inflection are simpler than those from verbal inflection. One of the  many reasons behind this is that, while nominal inflection involves only two items, i.e., a base and affix,  verbal inflection generally involves at least three items, i.e., a base followed by two affixes. We will  look at examples from verbal inflections as well as primary and secondary derivatives in the following  chapters.
 

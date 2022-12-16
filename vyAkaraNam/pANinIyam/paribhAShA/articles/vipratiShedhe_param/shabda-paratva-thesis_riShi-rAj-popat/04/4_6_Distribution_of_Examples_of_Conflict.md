@@ -55,7 +55,7 @@ The application of H (such as guṇa, samprasāraṇa etc.) is triggered by / de
 
 Before we proceed further, notice that, in almost all cases of unidirectional blocking in DOI discussed in the thesis, it is the RHS rule which unidirectionally blocks the LHS rule, and not  vice-versa.62 This is because, it is the RHS rule which is independent and it is the LHS rule  which is dependent. In other words, in almost all cases of unidirectional blocking, the  applicability of the RHS rule does not depend on whether the penultimate or last sound of the  
 
-62 This is exactly why the traditional nitya tool which teaches that the nitya rule defeats the anitya rule,  always correctly resolves cases of DOI conflict involving unidirectional blocking: the nitya rule is  applicable to the RHS operand and the anitya rule to the LHS operand. By (my interpretation of) 1.4.2,  the RHS rule (which is also the nitya rule) defeats the LHS rule (which is the anitya rule).
+[^62]: This is exactly why the traditional nitya tool which teaches that the nitya rule defeats the anitya rule,  always correctly resolves cases of DOI conflict involving unidirectional blocking: the nitya rule is  applicable to the RHS operand and the anitya rule to the LHS operand. By (my interpretation of) 1.4.2,  the RHS rule (which is also the nitya rule) defeats the LHS rule (which is the anitya rule).
 
 167 
 

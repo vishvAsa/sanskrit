@@ -39,6 +39,6 @@ The other examples in the taddhita section are quite similar to this one, so we 
 
 This brings us to the end of this chapter, and also to the end of our study of examples of conflict  from sandhi, subanta, taddhita and samāsa derivations. In the following chapter, we shall look  at examples from tiṅanta and kr̥danta derivations.  
 
-39 For a detailed study, see Deo (2007). 
+[^39]: For a detailed study, see Deo (2007). 
 
 108 

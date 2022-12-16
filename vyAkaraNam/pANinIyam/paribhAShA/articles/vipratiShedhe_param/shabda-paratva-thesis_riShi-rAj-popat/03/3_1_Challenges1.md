@@ -25,9 +25,9 @@ This is a case of unidirectional blocking, and thus of Type 2a (DOI conflict).
 
 By my interpretation of 1.4.2, the RHS rule 7.1.54 wins and we get: tri + nām (7.1.54) 🡪 trīnām (6.4.3 nāmi) 🡪 *trīṇām (8.4.2 aṭkupvāṅnumvyavāye’pi), which is not the correct form.  
 
-1 In this chapter, and in the following chapters, I will not provide anuvr̥tta ‘continued’ terms in brackets (unless necessary), even though I did this in the previous chapters. 
+[^1]: In this chapter, and in the following chapters, I will not provide anuvr̥tta ‘continued’ terms in brackets (unless necessary), even though I did this in the previous chapters. 
 
-2 These are the only two exceptions of my interpretation of 1.4.2 known to me.
+[^2]: These are the only two exceptions of my interpretation of 1.4.2 known to me.
 
 83 
 
@@ -43,9 +43,9 @@ In the course of time, as the language underwent further change, trīṇām got 
 
 In fact, we do find a very similar and related example of language change reflected in Pāṇini’s own rules. Consider the genitive plural of tri (feminine): tri + ām. As shown in example 2 of  section 2.3, after performing some operations, we get tisr̥ + nām. Here, 6.4.3 nāmi, which  teaches the elongation of r̥, is not applicable, thanks to 6.4.4 na tisr̥catasr̥, which forbids us  from applying 6.4.3 vis-à-vis tisr̥ and catasr̥. However, the next rule 6.4.5 chandasy ubhayathā teaches that, when constructing the Vedic form, one can optionally elongate r̥ in the genitive  
 
-3 This example has been given in the Kāśikā on 7.1.53. Another example is: mahi trīṇām avo’stu  dyukṣam mitrasyāryamṇaḥ (Maṇḍala 10, Sūkta 185, R̥k 1). 
+[^3]: This example has been given in the Kāśikā on 7.1.53. Another example is: mahi trīṇām avo’stu  dyukṣam mitrasyāryamṇaḥ (Maṇḍala 10, Sūkta 185, R̥k 1). 
 
-4 Observe its similarity with trayaḥ, the nominative plural form of tri (masculine). It is likely that the  presence of traya here rubbed off on the genitive plural.
+[^4]: Observe its similarity with trayaḥ, the nominative plural form of tri (masculine). It is likely that the  presence of traya here rubbed off on the genitive plural.
 
 84 
 

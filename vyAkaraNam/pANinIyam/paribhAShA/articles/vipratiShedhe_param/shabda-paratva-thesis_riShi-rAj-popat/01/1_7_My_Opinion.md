@@ -7,9 +7,9 @@ In my view, firstly, Pāṇini did not expect us to create the categories ‘tul
 
 More broadly, I do not agree with both the traditional and the modern perspectives towards this  topic, because instead of trying to decipher the actual meaning of 1.4.2, these approaches try  to brush 1.4.2 under the carpet, to make it less effective or to weaken its impact. One does it  
 
-75 Besides, there are some cases which may appear to be conflicts between rules teaching kāraka saṁjñās but which, according to me, are not conflicts at all. For example, whether one says geham praviśati (cf. 1.4.49 kartur īpsitatamaṁ karma 🡪 2.3.2 karmaṇi dvitīyā) or gehe praviśati (cf. 1.4.45  ādhāro’dhikaraṇam 🡪 2.3.36 saptamy adhikaraṇe ca) depends entirely on the non-linguistic feature  that the speaker wishes to express - that is, whether he/she wants to express kartur īpsitatama or ādhāra. So, this choice lies outside the domain of Pāṇini’s Aṣṭādhyāyī. In conclusion, in my opinion, rule  conflict does not arise between 1.4.45 and 1.4.49.  
+[^75]: Besides, there are some cases which may appear to be conflicts between rules teaching kāraka saṁjñās but which, according to me, are not conflicts at all. For example, whether one says geham praviśati (cf. 1.4.49 kartur īpsitatamaṁ karma 🡪 2.3.2 karmaṇi dvitīyā) or gehe praviśati (cf. 1.4.45  ādhāro’dhikaraṇam 🡪 2.3.36 saptamy adhikaraṇe ca) depends entirely on the non-linguistic feature  that the speaker wishes to express - that is, whether he/she wants to express kartur īpsitatama or ādhāra. So, this choice lies outside the domain of Pāṇini’s Aṣṭādhyāyī. In conclusion, in my opinion, rule  conflict does not arise between 1.4.45 and 1.4.49.  
 
-76 We shall look at limited blocking (Cardona) in chapter 4 and siddha principle (Joshi and Kiparsky)  in Appendix E.
+[^76]: We shall look at limited blocking (Cardona) in chapter 4 and siddha principle (Joshi and Kiparsky)  in Appendix E.
 
 31 
 

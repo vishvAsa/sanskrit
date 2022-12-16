@@ -97,6 +97,6 @@ I think that Cardona’s limited blocking principle is similar to my method of d
 
 This brings us to the end of our survey of SOI and DOI examples from derivations of finite  verbs and primary derivatives.  
 
-61 As pointed out by Kiparsky, Cardona means the exact opposite, that is, ‘7.3.84 will counter 7.1.100’.
+[^61]: As pointed out by Kiparsky, Cardona means the exact opposite, that is, ‘7.3.84 will counter 7.1.100’.
 
 163 

@@ -7,9 +7,9 @@ SOI and DOI have one prominent feature in common: in case of both SOI and DOI, t
 
 should be used to resolve] vipratiṣedha, alternatively paratva of sounds [may also be used to]  accomplish [the task of resolving] vipratiṣedha’ (Mbh III.100.12). 
 
-8 5.3.10 saptamyās tral. 
+[^8]: 5.3.10 saptamyās tral. 
 
-9 Pūrvatra stands for ‘with respect to a rule which comes earlier in the Aṣṭādhyāyī’s serial order’.  10 As stated before, by ‘rule’, here I specifically mean vidhi sūtra ‘operational rule’. 
+[^9]: Pūrvatra stands for ‘with respect to a rule which comes earlier in the Aṣṭādhyāyī’s serial order’.  10 As stated before, by ‘rule’, here I specifically mean vidhi sūtra ‘operational rule’. 
 
 38 
 

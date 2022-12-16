@@ -11,7 +11,7 @@ Even though the question of whether certain rules were interpolated into the ‘
 
 While it may seem that anuvr̥tti34 does not directly influence or get influenced by SSRI, there  are some strong links between the two topics. Anuvr̥tti alone helps us understand the exact  
 
-32 For a detailed discussion on this, see Joshi and Roodbergen (1983).  
+[^32]: For a detailed discussion on this, see Joshi and Roodbergen (1983).  
 
 33 See example 1 of section 3.1, chapter 3 to understand this better.  
 

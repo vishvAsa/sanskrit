@@ -7,7 +7,7 @@ In order to determine why post-Pāṇinian (both traditional and modern) scholar
 
 Let us start with the latter. But before we examine these representative examples from the post Pāṇinian perspective, let me explain certain fundamental concepts which will help us  
 
-11 When I make the distinction between Pāṇinian and post-Pāṇinian approaches in the following pages,  it must be understood that by ‘Pāṇinian approach’, I mean ‘my interpretation of the Pāṇinian approach’.
+[^11]: When I make the distinction between Pāṇinian and post-Pāṇinian approaches in the following pages,  it must be understood that by ‘Pāṇinian approach’, I mean ‘my interpretation of the Pāṇinian approach’.
 
 39 
 
@@ -23,7 +23,7 @@ Note that, in my opinion, Pāṇini has not defined or discussed the categories 
 
 Then, the question arises: why have I made this distinction between conflict and non-conflict?  I have done this to highlight that, for the most part, post-Pāṇinian scholarship has focused on  conflict and has not paid much attention to non-conflict. Why is this the case? To answer this  question, let us look closely at non-conflict, wherein the two rules X and Y do not block each  other: if X applies at the present step, then Y is applicable at the following step, and if Y applies  at the present step, then X is applicable at the following step. Before we go further, note that  ‘being applicable’ is different from ‘applying’. Consider the following situation: 
 
-12 In other words, let us say that there is an SSRI between X and Y.
+[^12]: In other words, let us say that there is an SSRI between X and Y.
 
 40Step 1: g h 
 
@@ -47,7 +47,7 @@ However, there is a minority of examples of non-conflict wherein if Y applies at
 
 Having defined both blocking and conflict, now let us look at how post-Pāṇinian scholarship  views the following representative examples: 
 
-13 So, going by the definition of blocking, Y does not block X.
+[^13]: So, going by the definition of blocking, Y does not block X.
 
 41 
 

@@ -13,7 +13,7 @@ Vt. 3 jhādeśād āḍ leṭi
 
 ‘[It must be stated that, contrary to 1.4.2, the introduction of] āṬ, [which is taught by the pūrva rule 3.4.94 leṭo’ḍāṭau10 wins against] the substitution of jh [which is taught by the para rule 7.1.5 ātmanepadeṣv anataḥ11].’ 
 
-7 Mbh II.59.1. 
+[^7]: Mbh II.59.1. 
 
 8 I will translate and discuss vipratiṣedha later in this chapter from Kātyāyana’s perspective. 9 An aT which replaces a jh which is the initial sound of an affix preceded by śīṄ, takes the augment  rUṬ. 
 

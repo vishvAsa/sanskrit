@@ -177,9 +177,9 @@ a + u 🡪 o
 
 a + r̥ 🡪 a 
 
-55 Mbh III.340.1-5. 
+[^55]: Mbh III.340.1-5. 
 
-56 Note that both 6.1.87 and 6.1.88 belong to the ekādeśa-adhikāra i.e., the section headed by the sūtra  6.1.84 ekaḥ pūrvaparayoḥ which teaches that both the LHS and the RHS item are replaced with a single  substitute.
+[^56]: Note that both 6.1.87 and 6.1.88 belong to the ekādeśa-adhikāra i.e., the section headed by the sūtra  6.1.84 ekaḥ pūrvaparayoḥ which teaches that both the LHS and the RHS item are replaced with a single  substitute.
 
 72 
 
@@ -265,7 +265,7 @@ tri + ām
 
  7.1.53 7.2.99  
 
-57 I must admit that my method is able to tackle other examples with greater ease as compared to this  one. Here, I am compelled to add an extra step i.e., that of excluding the condition ‘i / u / r̥ / l̥ + savarṇa’  from the comparison. Perhaps we could attach greater value to Pāṇini’s use of the term savarṇa and  characterize this SOI as follows: 
+[^57]: I must admit that my method is able to tackle other examples with greater ease as compared to this  one. Here, I am compelled to add an extra step i.e., that of excluding the condition ‘i / u / r̥ / l̥ + savarṇa’  from the comparison. Perhaps we could attach greater value to Pāṇini’s use of the term savarṇa and  characterize this SOI as follows: 
 
 6.1.101: 
 
@@ -337,7 +337,7 @@ u + any other vowel
 
 i / r̥ / l̥ + any vowel 
 
-58 Another way of comparing the two rules is to simply compare the RHS item of each. For example,  for 6.1.77, the RHS item is aC (any vowel) while for 6.1.101, it is specifically a savarṇa sound. This  leads us to the correct conclusion that 6.1.101 is more specific than 6.1.77. 
+[^58]: Another way of comparing the two rules is to simply compare the RHS item of each. For example,  for 6.1.77, the RHS item is aC (any vowel) while for 6.1.101, it is specifically a savarṇa sound. This  leads us to the correct conclusion that 6.1.101 is more specific than 6.1.77. 
 
 77 
 
@@ -441,7 +441,7 @@ Note that, here too, like in example 5 of this section, the operand of one rule 
 
 i / u/ r̥ / l̥ + any vowel 
 
-59 The base eka is listed in the sarvādigaṇa, referred to in 1.1.27 sarvādīni sarvanāmāni.
+[^59]: The base eka is listed in the sarvādigaṇa, referred to in 1.1.27 sarvādīni sarvanāmāni.
 
 806.1.102 
 
@@ -473,7 +473,7 @@ Now, in vāri + Ṅi, two rules are applicable:
 
  7.3.117 7.1.73 7.3.117 7.1.73 iko’ci vibhaktau (num napuṁsakasya): augment nUM is attached to a neuter iK-final  (ending in i, u, r̥, l) base when a vowel-initial declensional affix follows.’  
 
-60 See Staal’s ‘A Reader on the Sanskrit Grammarians’ (1972: 115).
+[^60]: See Staal’s ‘A Reader on the Sanskrit Grammarians’ (1972: 115).
 
 81 
 
@@ -497,6 +497,6 @@ This is a case of SOI-L and the condition which is marked ‘neuter’ is more s
 
 The tradition uses the vārttika, guṇavr̥ddhyauttvatr̥jvadbhāvebhyo num pūrvavipratiṣiddham (vt. 1061 on 7.1.96 striyāṁ ca), to solve this conflict. This vārttika teaches that even though the  rule teaching the attachment of the augment nUM (7.1.73) comes before the rule teaching  auttva (7.3.117 idudbhyām aud ac ca gheḥ) in the serial order of the Aṣṭādhyāyī, the former  wins. 
 
-61 Mbh III.275.23.
+[^61]: Mbh III.275.23.
 
 82 

@@ -5,7 +5,7 @@ title = "1 2 Metarules in the Pāṇinian Grammatical Tradition"
 
 Early grammatical thought in the Indian subcontinent, as represented by the works called  Prātiśākhyas, was intended to assist the recitation of Vedas by explaining the pronunciation of  accents and dissolution of sandhis. Their objective was merely descriptive, that is, to make  grammatical observations and offer clarifications where necessary. But a number of  
 
-14 I think that there was a break in the transmission of the Aṣṭādhyāyī between Pāṇini and Kātyāyana,  since Kātyāyana seems to be in the process of understanding the Aṣṭādhyāyī without much help from  anyone else. I shall furnish evidence to support this statement in chapter 6.
+[^14]: I think that there was a break in the transmission of the Aṣṭādhyāyī between Pāṇini and Kātyāyana,  since Kātyāyana seems to be in the process of understanding the Aṣṭādhyāyī without much help from  anyone else. I shall furnish evidence to support this statement in chapter 6.
 
 11 
 
@@ -19,9 +19,9 @@ Around 150 BC, Patañjali wrote the Mahābhāṣya, which is a commentary on Kā
 
 In the course of time, some Pāṇinīyastook it upon themselves to compile and comment on all  such metarules from Patañjali’s Mahābhāṣya. They also came up with new metarules to fill the  
 
-15 Cardona 1976: 267-268. 
+[^15]: Cardona 1976: 267-268. 
 
-16 The two major commentaries on the Mahābhāṣya are the Pradīpa of Kaiyaṭa and the Uddyota of  Nāgeśa.
+[^16]: The two major commentaries on the Mahābhāṣya are the Pradīpa of Kaiyaṭa and the Uddyota of  Nāgeśa.
 
 12 
 
@@ -33,15 +33,15 @@ Circa 7th century AD, Jayāditya and Vāmana wrote the Kāśikā, which consists
 
 Lastly, let us talk about kaumudī texts, which explicitly envision the Aṣṭādhyāyī as a  grammatical machine. The kaumudī tradition which began in the fifteenth century with  
 
-17 Abhyankar 1967: 12. 
+[^17]: Abhyankar 1967: 12. 
 
-18 K.V. Abhyankar has edited and compiled many Pāṇinian and non-Pāṇinian paribhāṣā treatises in his  Paribhāṣāsaṁgraha (1967). 
+[^18]: K.V. Abhyankar has edited and compiled many Pāṇinian and non-Pāṇinian paribhāṣā treatises in his  Paribhāṣāsaṁgraha (1967). 
 
-19 Abhyankar 1967: 12. 
+[^19]: Abhyankar 1967: 12. 
 
-20 Ibid., 3. 
+[^20]: Ibid., 3. 
 
-21 The two major commentaries on the Kāśikā are the Nyāsa of Jinendrabuddhi and the Padamañjarī of Haradatta.
+[^21]: The two major commentaries on the Kāśikā are the Nyāsa of Jinendrabuddhi and the Padamañjarī of Haradatta.
 
 13 
 

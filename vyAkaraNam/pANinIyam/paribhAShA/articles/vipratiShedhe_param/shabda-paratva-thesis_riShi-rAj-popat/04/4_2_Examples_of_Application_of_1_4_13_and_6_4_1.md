@@ -39,7 +39,7 @@ By my interpretation of 1.4.2, we apply the RHS rule 3.4.79 and get: edh + jhe. 
 
 To the best of my knowledge, the tradition does not discuss this example. However, let us  consider what would have happened if we had not accepted my interpretations of 1.4.13 and  6.4.1 respectively. At the step edh + jha, four rules would become applicable:  
 
-8 Unless I explicitly state that the form being derived is passive, it must be assumed that it is active. 9 1.1.64 aco’ntyādi ṭi.  
+[^8]: Unless I explicitly state that the form being derived is passive, it must be assumed that it is active. 9 1.1.64 aco’ntyādi ṭi.  
 
 10 When a short a, that is not pada-final (word-final) is followed by a guṇa vowel i.e., a, e, or o, then  both a and the following guṇa are replaced with the latter.
 
