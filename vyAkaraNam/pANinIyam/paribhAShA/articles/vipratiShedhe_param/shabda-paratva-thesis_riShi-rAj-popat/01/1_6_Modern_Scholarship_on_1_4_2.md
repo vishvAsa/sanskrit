@@ -3,69 +3,77 @@ title = "1 6 Modern Scholarship on 1 4 2"
 
 +++
 
-The tradition thinks that 1.4.2 applies to tulyabala conflicts between any two rules of the  Aṣṭādhyāyī. But many modern scholars, starting with Faddegon (1936), have tried to restrict  the scope of 1.4.2 further, to include only those rules that lie between 1.4.2 and 2.2.38: they  argue that since 1.4.2 lies within the ekā saṁjñā adhikāra (cf. 1.4.1 ā kaḍārād ekā saṁjñā ‘up  to 2.2.38 kaḍārāḥ karmadhāraye, each item can take only one saṁjñā’), the jurisdiction of  1.4.2 too should be suspended at 2.2.38.66 Kiparsky comes up with his own justification for  this interpretation, in which he argues that the alternate version of 1.4.1 mentioned by Patañjali  is proof of the fact that 1.4.2 only governs rules between 1.4.2 and 2.2.38. Let us look at  Patañjali’s commentary first, and then consider Kiparsky’s argument based on it. On 1.4.1,  Patañjali suggests that Pāṇini has taught two different versions of 1.4.1 to his pupils: 
-
-> kathaṁ tv etat sūtram paṭhitavyam. kim ā kaḍārād ekā saṁjñeti. āhosvit prāk kaḍārāt paraṁ kāryam iti. kutaḥ punar ayaṁ sandehaḥ. ubhayathā hy ācāryeṇa śiṣyāḥ sūtraṁ pratipāditāḥ.  kecid ākaḍārād ekā saṁjñeti. kecit prāk kaḍārāt paraṁ kāryam iti. kaś cātra viśeṣaḥ. 
->
-> tatraikasaṁjñādhikāre tadvacanaṁ (vt. 2) 
->
-> tatraikasaṁjñādhikāre tadvaktavyam. kim. ekā saṁjñā bhavatīti. nanu ca yasyāpi  paraṁkāryatvaṁ tenāpi paragrahaṇaṁ kartavyam. parārtham mama bhaviṣyati. vipratiṣedhe  ca iti. mamāpi tarhy ekagrahaṇam parārthaṁ bhaviṣyati. sarūpāṇām ekaśeṣa ekavibhaktau  iti.[^67] 
+The tradition thinks that 1.4.2 applies to tulyabala conflicts between any two rules of the  Aṣṭādhyāyī. But many modern scholars, starting with Faddegon (1936), have tried to restrict  the scope of 1.4.2 further, to include only those rules that lie between 1.4.2 and 2.2.38: they  argue that since 1.4.2 lies within the ekā saṁjñā adhikāra (cf. 1.4.1 ā kaḍārād ekā saṁjñā ‘up  to 2.2.38 kaḍārāḥ karmadhāraye, each item can take only one saṁjñā’), the jurisdiction of  1.4.2 too should be suspended at 2.2.38.[^66] 
 
 [^66]: On this, Joshi (1998: 58) makes an interesting remark: ‘in his 1936 publication on Pāṇini’s grammar  (p. 26-27) B. Faddegon casually notes that P. 1.4.2 is a paribhāṣā, and that it is valid up to the end of  P. 2.2, as if there never had been any doubt. Compare further Cardona 1976, p. 190.’ 67 Mbh I.296.11-18.
 
+Kiparsky comes up with his own justification for  this interpretation, in which he argues that the alternate version of 1.4.1 mentioned by Patañjali  is proof of the fact that 1.4.2 only governs rules between 1.4.2 and 2.2.38. Let us look at  Patañjali’s commentary first, and then consider Kiparsky’s argument based on it. On 1.4.1,  Patañjali suggests that Pāṇini has taught two different versions of 1.4.1 to his pupils: 
+
+> kathaṁ tv etat sūtram paṭhitavyam -  
+> kim ā kaḍārād ekā saṁjñeti, 
+> āhosvit prāk kaḍārāt paraṁ kāryam iti?  
+> 
+> kutaḥ punar ayaṁ sandehaḥ?  
+> ubhayathā hy ācāryeṇa śiṣyāḥ sūtraṁ pratipāditāḥ.  
+> kecid ākaḍārād ekā saṁjñeti.  
+> kecit prāk kaḍārāt paraṁ kāryam iti.  
+> 
+> kaś cātra viśeṣaḥ?  
+> tatraika-saṁjñādhikāre tad-vacanaṁ (vt. 2) 
+>
+> tatraika-saṁjñādhikāre tad vaktavyam.  
+> kim?  
+> ekā saṁjñā bhavatīti.  
+> nanu ca yasyāpi  paraṁkāryatvaṁ tenāpi paragrahaṇaṁ kartavyam.  
+> parārtham mama bhaviṣyati. vipratiṣedhe  ca iti.  
+> mamāpi tarhy ekagrahaṇam parārthaṁ bhaviṣyati.  
+> sarūpāṇām ekaśeṣa ekavibhaktau  iti.[^67] 
+
 27 
 
-“But how should this rule be read? Is it ā kaḍārād ekā saṁjñā68 or prāk kaḍārāt paraṁ kāryam69? But how [does] this doubt [arise]? Because the students have been taught this rule  in both ways by the teacher. Some [have been taught] ā kaḍārād ekā saṁjñā [and] some prāk  kaḍārāt paraṁ kāryam. And what is the difference [between these alternative readings] here? 
+> “But how should this rule be read?  
+> Is it ā kaḍārād ekā saṁjñā[^68] or prāk kaḍārāt paraṁ kāryam[^69]? 
+> 
+> But how [does] this doubt [arise]?  
+> Because the students have been taught this rule  in both ways by the teacher.  
+> Some [have been taught] ā kaḍārād ekā saṁjñā [and] some prāk  kaḍārāt paraṁ kāryam.  
+> 
+> And what is the difference [between these alternative readings] here?  
+> In that section where one name applies, the statement of that [must be made]. (vt. 2)  
+> In that section where one name applies, that should be stated.  
+> What [should be stated]?  
+> That  only one saṁjñā applies [per item]. 
+> 
+> However, one who [believes that] the following rule  [prevails] has to include the word para too. It will [serve] another [purpose] for me later [that  is, by continuation, in] vipratiṣedhe ca. 
+> 
+> For me too then, the mention of eka will [serve] another  [purpose], in sarūpāṇām ekaśeṣa ekavibhaktau.[^70]”[^71] 
 
-In that section where one name applies, the statement of that [must be made]. (vt. 2) 
+[^68]: Up to 2.2.38 kaḍārāḥ karmadhāraye, each item can take only one saṁjñā.
 
-In that section where one name applies, that should be stated. What [should be stated]? That  only one saṁjñā applies [per item]. However, one who [believes that] the following rule  [prevails] has to include the word para too. It will [serve] another [purpose] for me later [that  is, by continuation, in] vipratiṣedhe ca. For me too then, the mention of eka will [serve] another  [purpose], in sarūpāṇām ekaśeṣa ekavibhaktau.70”71 
+[^69]: Up to 2.2.38 kaḍārāḥ karmadhāraye, the rule that comes later in the Aṣṭādhyāyī’s serial order  prevails.
 
-The two versions of the rule pair 1.4.1-2 are: 1.4.1 ā kaḍārād ekā saṁjñā, 1.4.2 vipratiṣedhe  param kāryam; and 1.4.1 prāk kaḍārād param kāryam, 1.4.2 vipratiṣedhe ca. The former  version is found in the available manuscripts of the Aṣṭādhyāyī, while the latter version is first  mentioned by Patañjali himself. In the case of the latter, Patañjali only indirectly hints at what  I have called 1.4.2, when explaining how he could use para from 1.4.1 prāk kaḍārād paraṁ 
+[^70]: In the Aṣṭādhyāyī’s serial order, 1.2.64 sarūpāṇām ekaśeṣa ekavibhaktau comes before 1.4.1 ā  kaḍārād ekā saṁjñā. So, one may wonder how Patañjali would be able to continue ekā from 1.4.1 into  1.2.64 by anuvr̥tti. I want to clarify here that Patañjali is proposing to reorder the rules such that ā  kaḍārād ekā saṁjñā comes before sarūpāṇām ekaśeṣa ekavibhaktau, so that he may be able to continue  ekā from the former into the latter by anuvr̥tti. I do not see how doing this would be justified or useful.
 
-[^68]: Up to 2.2.38 kaḍārāḥ karmadhāraye, each item can take only one saṁjñā. 
+[^71]: Note that there is no evidence that Kātyāyana was aware of these two versions. Vt. 2  tatraika-saṁjñādikāre tadvacanaṁ (Mbh I.296.15) has been written in context of the first vārttika, and  not in the context of these supposedly different versions of 1.4.1 (and 1.4.2). The first vārttika reads:  anyatra saṁjñā-samāveśān niyamārthaṁ vacanam “Because names co-apply elsewhere, the statement  is for the sake of making a restriction.” (Mbh I.296.3). And so, the second vārttika continues to discuss  this topic: tatraikasaṁjñādikāre tadvacanaṁ ‘In that section where one name applies, the statement of  that [must be made].’ As is peculiar of Patañjali, he skilfully weaves Kātyāyana’s vārttikas into his own  discourse. But it must be borne in mind that, as far as we know, the idea of two different versions of  1.4.1 (and 1.4.2) is Patañjali’s alone.
 
-[^69]: Up to 2.2.38 kaḍārāḥ karmadhāraye, the rule that comes later in the Aṣṭādhyāyī’s serial order  prevails. 
+The two versions of the rule pair 1.4.1-2 are: 1.4.1 ā kaḍārād ekā saṁjñā, 1.4.2 vipratiṣedhe  param kāryam; and 1.4.1 prāk kaḍārād param kāryam, 1.4.2 vipratiṣedhe ca. The former  version is found in the available manuscripts of the Aṣṭādhyāyī, while the latter version is first  mentioned by Patañjali himself. In the case of the latter, Patañjali only indirectly hints at what  I have called 1.4.2, when explaining how he could use para from 1.4.1 prāk kaḍārād paraṁ kāryam later in the following rule (1.4.2) vipratiṣedhe ca through anuvr̥tti[^72]. It logically follows  that its co-referent kāryam too would be continued into 1.4.2 along with paraṁ.  
 
-[^70]: In the Aṣṭādhyāyī’s serial order, 1.2.64 sarūpāṇām ekaśeṣa ekavibhaktau comes before 1.4.1 ā  kaḍārād ekā saṁjñā. So, one may wonder how Patañjali would be able to continue ekā from 1.4.1 into  1.2.64 by anuvr̥tti. I want to clarify here that Patañjali is proposing to reorder the rules such that ā  kaḍārād ekā saṁjñā comes before sarūpāṇām ekaśeṣa ekavibhaktau, so that he may be able to continue  ekā from the former into the latter by anuvr̥tti. I do not see how doing this would be justified or useful. 
-
-[^71]: Note that there is no evidence that Kātyāyana was aware of these two versions. Vt. 2  tatraikasaṁjñādikāre tadvacanaṁ (Mbh I.296.15) has been written in context of the first vārttika, and  not in the context of these supposedly different versions of 1.4.1 (and 1.4.2). The first vārttika reads:  anyatra saṁjñāsamāveśān niyamārthaṁ vacanam “Because names co-apply elsewhere, the statement  is for the sake of making a restriction.” (Mbh I.296.3). And so, the second vārttika continues to discuss  this topic: tatraikasaṁjñādikāre tadvacanaṁ ‘In that section where one name applies, the statement of  that [must be made].’ As is peculiar of Patañjali, he skilfully weaves Kātyāyana’s vārttikas into his own  discourse. But it must be borne in mind that, as far as we know, the idea of two different versions of  1.4.1 (and 1.4.2) is Patañjali’s alone. 
-
-28 
-
-kāryam later in the following rule (1.4.2) vipratiṣedhe ca through anuvr̥tti72. It logically follows  that its co-referent kāryam too would be continued into 1.4.2 along with paraṁ.  
-
-1.4.1 prāk kaḍārād [paraṁ kāryam] 
-
-1.4.2 vipratiṣedhe ca 
-
-
-
-
-
-	Original version 
-
-	Patañjali’s alternate version
-
-	1.4.1 
-
-	ā kaḍārād ekā saṁjñā 
-
-	prāk kaḍārāt paraṁ kāryam
-
-	1.4.2 
-
-	vipratiṣedhe paraṁ kāryam 
-
-	vipratiṣedhe ca (paraṁ kāryam)
-
-	
+[[28]]
 
 
 
 
+1.4.1 prāk kaḍārād [paraṁ kāryam]   
+1.4.2 vipratiṣedhe ca
+
+Patañjali’s alternate version  
+prāk kaḍārāt paraṁ kāryam  
+vipratiṣedhe ca (paraṁ kāryam)
 
 
+Original version  
+1.4.1 ā kaḍārād ekā saṁjñā  
+1.4.2 vipratiṣedhe paraṁ kāryam 
 
 Note that both versions of 1.4.1 apply only to the section between 1.4.1 and 2.2.38, whereas  both versions of 1.4.2 apply to the entire Aṣṭādhyāyī. Besides, while the two versions of 1.4.1  say different things (one says ekā saṁjñā and the other says paraṁ kāryam), the two versions  of 1.4.2 essentially say the same thing. 
 
