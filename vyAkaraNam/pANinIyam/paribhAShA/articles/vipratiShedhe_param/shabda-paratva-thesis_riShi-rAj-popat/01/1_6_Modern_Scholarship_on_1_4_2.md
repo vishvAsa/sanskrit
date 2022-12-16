@@ -5,11 +5,11 @@ title = "1 6 Modern Scholarship on 1 4 2"
 
 The tradition thinks that 1.4.2 applies to tulyabala conflicts between any two rules of the  Aṣṭādhyāyī. But many modern scholars, starting with Faddegon (1936), have tried to restrict  the scope of 1.4.2 further, to include only those rules that lie between 1.4.2 and 2.2.38: they  argue that since 1.4.2 lies within the ekā saṁjñā adhikāra (cf. 1.4.1 ā kaḍārād ekā saṁjñā ‘up  to 2.2.38 kaḍārāḥ karmadhāraye, each item can take only one saṁjñā’), the jurisdiction of  1.4.2 too should be suspended at 2.2.38.66 Kiparsky comes up with his own justification for  this interpretation, in which he argues that the alternate version of 1.4.1 mentioned by Patañjali  is proof of the fact that 1.4.2 only governs rules between 1.4.2 and 2.2.38. Let us look at  Patañjali’s commentary first, and then consider Kiparsky’s argument based on it. On 1.4.1,  Patañjali suggests that Pāṇini has taught two different versions of 1.4.1 to his pupils: 
 
-kathaṁ tv etat sūtram paṭhitavyam. kim ā kaḍārād ekā saṁjñeti. āhosvit prāk kaḍārāt paraṁ kāryam iti. kutaḥ punar ayaṁ sandehaḥ. ubhayathā hy ācāryeṇa śiṣyāḥ sūtraṁ pratipāditāḥ.  kecid ākaḍārād ekā saṁjñeti. kecit prāk kaḍārāt paraṁ kāryam iti. kaś cātra viśeṣaḥ. 
-
-tatraikasaṁjñādhikāre tadvacanaṁ (vt. 2) 
-
-tatraikasaṁjñādhikāre tadvaktavyam. kim. ekā saṁjñā bhavatīti. nanu ca yasyāpi  paraṁkāryatvaṁ tenāpi paragrahaṇaṁ kartavyam. parārtham mama bhaviṣyati. vipratiṣedhe  ca iti. mamāpi tarhy ekagrahaṇam parārthaṁ bhaviṣyati. sarūpāṇām ekaśeṣa ekavibhaktau  iti.67 
+> kathaṁ tv etat sūtram paṭhitavyam. kim ā kaḍārād ekā saṁjñeti. āhosvit prāk kaḍārāt paraṁ kāryam iti. kutaḥ punar ayaṁ sandehaḥ. ubhayathā hy ācāryeṇa śiṣyāḥ sūtraṁ pratipāditāḥ.  kecid ākaḍārād ekā saṁjñeti. kecit prāk kaḍārāt paraṁ kāryam iti. kaś cātra viśeṣaḥ. 
+>
+> tatraikasaṁjñādhikāre tadvacanaṁ (vt. 2) 
+>
+> tatraikasaṁjñādhikāre tadvaktavyam. kim. ekā saṁjñā bhavatīti. nanu ca yasyāpi  paraṁkāryatvaṁ tenāpi paragrahaṇaṁ kartavyam. parārtham mama bhaviṣyati. vipratiṣedhe  ca iti. mamāpi tarhy ekagrahaṇam parārthaṁ bhaviṣyati. sarūpāṇām ekaśeṣa ekavibhaktau  iti.[^67] 
 
 [^66]: On this, Joshi (1998: 58) makes an interesting remark: ‘in his 1936 publication on Pāṇini’s grammar  (p. 26-27) B. Faddegon casually notes that P. 1.4.2 is a paribhāṣā, and that it is valid up to the end of  P. 2.2, as if there never had been any doubt. Compare further Cardona 1976, p. 190.’ 67 Mbh I.296.11-18.
 
