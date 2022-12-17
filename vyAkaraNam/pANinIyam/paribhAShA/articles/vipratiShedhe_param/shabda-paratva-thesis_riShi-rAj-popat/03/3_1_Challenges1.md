@@ -1,11 +1,14 @@
 +++
-title = "3 1 Challenges1"
+title = "3 1 Challenges"
 
 +++
 
+[1]: In this chapter, and in the following chapters, I will not provide anuvr̥tta ‘continued’ terms in brackets (unless necessary), even though I did this in the previous chapters.
+
+
 In the previous chapter, I introduced my solution to the problem of rule interaction at the same  step. In this chapter, I will discuss the relationship of my solution with other aspects of the  functioning of the Aṣṭādhyāyī. 
 
-Let us look at two examples of DOI from nominal inflection which pose a challenge to my  interpretation of 1.4.2. In these two cases, it can be argued that the Aṣṭādhyāyī’s derivational  machine does not follow its own algorithm.2 
+Let us look at two examples of DOI from nominal inflection which pose a challenge to my  interpretation of 1.4.2. In these two cases, it can be argued that the Aṣṭādhyāyī’s derivational  machine does not follow its own algorithm.[^2] 
 
 Like in the previous chapter, I will first prove that the example involves conflict, given the  interest of the post-Pāṇinian discourse in the subject of conflict, and will also discuss both my  solution and the traditional solution thereafter. 
 
@@ -25,7 +28,6 @@ This is a case of unidirectional blocking, and thus of Type 2a (DOI conflict).
 
 By my interpretation of 1.4.2, the RHS rule 7.1.54 wins and we get: tri + nām (7.1.54) 🡪 trīnām (6.4.3 nāmi) 🡪 *trīṇām (8.4.2 aṭkupvāṅnumvyavāye’pi), which is not the correct form.  
 
-[^1]: In this chapter, and in the following chapters, I will not provide anuvr̥tta ‘continued’ terms in brackets (unless necessary), even though I did this in the previous chapters. 
 
 [^2]: These are the only two exceptions of my interpretation of 1.4.2 known to me.
 
