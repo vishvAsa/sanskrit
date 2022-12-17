@@ -3,7 +3,7 @@ title = "2 7 Examples of DOI"
 
 +++
 
-In my opinion, 1.4.2 vipratiṣedhe paraṁ kāryam means: in the event of DOI, the RHS rule  wins. As stated before, I have not used the term ‘rule conflict’ in my interpretation of 1.4.2.  This is because I think that Pāṇini does not require us to use such a concept to understand 1.4.2,  and consequently, to perform derivations correctly. 
+In my opinion, "1.4.2 vipratiṣedhe paraṁ kāryam" means: in the event of DOI, the RHS rule  wins. As stated before, I have not used the term ‘rule conflict’ in my interpretation of 1.4.2.  This is because I think that Pāṇini does not require us to use such a concept to understand 1.4.2,  and consequently, to perform derivations correctly. 
 
 However, as shown above, all post-Pāṇinian discussion pertaining to 1.4.2 has focused on  conflict. So, I do need to deal with the topic of conflict to contextualize my findings in the  contemporary discourse. In other words, I need to show that my interpretation of 1.4.2 correctly  resolves examples of DOI conflict, which I will call Type 2a henceforth. For each example, I  will first prove that the example involves conflict, then discuss my solution to it, and finally  present the traditional solution to it. 
 

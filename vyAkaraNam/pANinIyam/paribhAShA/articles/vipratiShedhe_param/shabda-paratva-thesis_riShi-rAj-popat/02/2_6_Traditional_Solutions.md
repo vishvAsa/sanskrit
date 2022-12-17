@@ -19,83 +19,47 @@ They achieved this by restricting the meaning of vipratiṣedha to tulyabalaviro
 
 [^17]: See Abhyankar’s reprint (second edition) of Kielhorn’s work (1960: 221-222). 18 Mbh III.275.23-276.12.
 
-46 
+[[46]] 
 
 4. pūrva-vipratiṣiddha: when applying 1.4.2 gives the wrong answer, Kātyāyana comes up with  pūrva-vipratiṣiddha vārttikas. These state that in certain cases, contrary to what is taught by the  traditional interpretation of 1.4.2, it is not the para rule (the rule which comes after the other  rule in the serial order of the Aṣṭādhyāyī), but instead the pūrva rule (the rule that comes before  the other rule in the serial order of the Aṣṭādhyāyī) that wins. Pūrvavipratiṣiddha too has come  to be used like a conflict resolution tool. Here are two well-known examples of such vārttikas  (vt. 10 and 1118 respectively on 7.1.96 striyāṁ ca):
 
-a. vt. 10 guṇa-vr̥ddhyauttvatr̥jvad-bhāvebhyo num pūrva-vipratiṣiddham: in case of vipratiṣedha,  the pūrva sūtra, which teaches the insertion of the augment nUM, takes precedence over para  sūtras which teach (i) guṇa[^19], (ii) vr̥ddhi[^20], (iii) auttva[^21], (iv) tr̥jvadbhāva[^22]. 
+a. vt. 10 guṇa-vr̥ddhyauttvatr̥jvad-bhāvebhyo num pūrva-vipratiṣiddham: in case of vipratiṣedha,  the pūrva sūtra, which teaches the insertion of the augment nUM, takes precedence over para  sūtras which teach (i) guṇa[^19], (ii) vr̥ddhi[^20], (iii) auttva[^21], (iv) tr̥jvadbhāva[^22].
+
+[^19]: 7.3.111 gher ṅiti.
+
+[^20]: 7.2.115 aco ñṇiti.
+
+[^21]: 7.3.119 ac ca gheḥ.
+
+[^22]: 7.1.95 tr̥jvat kroṣṭuḥ.
 
 b. vt. 11 num-aci-ra-tr̥j-vad-bhāvebhyo nuṭ (pūrvavipratiṣiddham): in case of vipratiṣedha, the  pūrva sūtra, which teaches the insertion of the augment nUṬ[^23] takes precedence over para  sūtras which teach (i) numāgama ‘insertion of augment nUM’[^24], (ii) replacement with r when  followed by a vowel (aC)[^25], (iii) tr̥j-vad-bhāva[^26].  
 
-5. niravakāśa / anavakāśa > sāvakāśa27: In his first vārttika28 on 1.4.2, Kātyāyana defines  vipratiṣedha as a conflict which arises between two sāvakāśa rules: dvau prasaṅgāv anyārthāv  ekasmin sa vipratiṣedhaḥ ‘[When] two rules [which are] applicable elsewhere (i.e., in other  derivations) [become applicable] at the same place, this [situation is called] vipratiṣedha’. But  when one of the two rules is niravakāśa, that is, when it does not have scope to apply elsewhere,  such a conflict is not called vipratiṣedha. In such cases, the niravakāśa rule is thought to be  stronger than the sāvakāśa rule. The niravakāśa rule wins. 
+[^23]: 7.1.54 hrasvanadyāpo nuṭ.
 
-As discussed in the previous chapter, the tradition does not apply these tools consistently, and  often, applying some of these tools gives the wrong form. Nonetheless, through the table  presented below, I try to give a broad and general overview of the tools that are used to deal  with different kinds of conflicts: 
+[^24]: 7.1.73 iko’ci vibhaktau.
 
-[^19]: 7.3.111 gher ṅiti. 
+[^25]: 7.2.100 aci ra r̥taḥ.
 
-[^20]: 7.2.115 aco ñṇiti. 
+[^26]: 7.1.95 tr̥jvat kroṣṭuḥ.
 
-[^21]: 7.3.119 ac ca gheḥ. 
+5. niravakāśa / anavakāśa > sāvakāśa[^27]: In his first vārttika[^28] on 1.4.2, Kātyāyana defines  vipratiṣedha as a conflict which arises between two sāvakāśa rules: dvau prasaṅgāv anyārthāv  ekasmin sa vipratiṣedhaḥ ‘[When] two rules [which are] applicable elsewhere (i.e., in other  derivations) [become applicable] at the same place, this [situation is called] vipratiṣedha’. But  when one of the two rules is niravakāśa, that is, when it does not have scope to apply elsewhere,  such a conflict is not called vipratiṣedha. In such cases, the niravakāśa rule is thought to be  stronger than the sāvakāśa rule. The niravakāśa rule wins.+++(4)+++ 
 
-[^22]: 7.1.95 tr̥jvat kroṣṭuḥ. 
-
-[^23]: 7.1.54 hrasvanadyāpo nuṭ. 
-
-[^24]: 7.1.73 iko’ci vibhaktau. 
-
-[^25]: 7.2.100 aci ra r̥taḥ. 
-
-[^26]: 7.1.95 tr̥jvat kroṣṭuḥ. 
-
-[^27]: niravakāśā hi vidhayaḥ sāvakāśān vidhīn bādhante ‘niravakāśa operations defeat sāvakāśa operations’ (Pbh 11 of Vyāḍiparibhāṣāpāṭha). 
+[^27]: niravakāśā hi vidhayaḥ sāvakāśān vidhīn bādhante ‘niravakāśa operations defeat sāvakāśa operations’ (Pbh 11 of Vyāḍiparibhāṣāpāṭha).
 
 [^28]: Mbh I.304.13.
 
-47 
-
-RE 
-
-	Type 
-
-	Blocking 
-
-	Tools
-
-	1 
-
-	SOI conflict 
-
-	unidirectional 
-
-	nitya > anitya
-
-	2 
-
-	SOI conflict 
-
-	mutual 
-
-	niravakāśa > sāvakāśa, apavāda > utsarga,  pūrvavipratiṣiddha
-
-	3 
-
-	DOI conflict 
-
-	unidirectional 
-
-	nitya > anitya
-
-	4 
-
-	DOI conflict 
-
-	mutual 
-
-	niravakāśa > sāvakāśa, pūrvavipratiṣiddha
-
-	
+As discussed in the previous chapter, the tradition does not apply these tools consistently, and  often, applying some of these tools gives the wrong form. Nonetheless, through the table  presented below, I try to give a broad and general overview of the tools that are used to deal  with different kinds of conflicts: 
 
 
+[[47]] 
+
+| RE | Type | Blocking       | Tools                                                         |
+|----|------|----------------|---------------------------------------------------------------|
+| 1  | SOI  | unidirectional | nitya > anitya                                                |
+| 2  | SOI  | mutual         | niravakāśa > sāvakāśa,  apavāda > utsarga, pūrvavipratiṣiddha |
+| 3  | DOI  | unidirectional | nitya > anitya                                                |
+| 4  | DOI  | mutual         | niravakāśa > sāvakāśa,  pūrvavipratiṣiddha                    |
 
 
 
