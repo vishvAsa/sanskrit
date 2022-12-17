@@ -3,7 +3,7 @@ title = "2 5 Pāṇinian and Post-Pāṇinian Approaches to Derivations"
 
 +++
 
-In order to determine why post-Pāṇinian (both traditional and modern) scholars have  misinterpreted Pāṇini’s rule 1.4.2, we need to understand that there is a fundamental difference  between what I think are Pāṇinian11 and post-Pāṇinian conceptions of, or perspectives towards,  the derivational procedure itself. I will explain exactly what I mean by this statement by means  of examining six representative examples of SSRI from both Pāṇinian and post-Pāṇinian  perspectives below.  
+In order to determine why post-Pāṇinian (both traditional and modern) scholars have  misinterpreted Pāṇini’s rule 1.4.2, we need to understand that there is a fundamental difference  between what I think are Pāṇinian[^11] and post-Pāṇinian conceptions of, or perspectives towards,  the derivational procedure itself. I will explain exactly what I mean by this statement by means  of examining six representative examples of SSRI from both Pāṇinian and post-Pāṇinian  perspectives below.  
 
 
 [^11]: When I make the distinction between Pāṇinian and post-Pāṇinian approaches in the following pages,  it must be understood that by ‘Pāṇinian approach’, I mean ‘my interpretation of the Pāṇinian approach’.
@@ -27,15 +27,13 @@ Then, the question arises: why have I made this distinction between conflict and
 
 Before we go further, note that  ‘being applicable’ is different from ‘applying’. Consider the following situation: 
 
-40Step 1: g h 
+[[40]]
 
- X Y 
+Step 1: X → g, Y → h
 
 Let us say Y applies at this step, changing h to h*. Now, at the following step, not only X but  another rule Z too becomes applicable: 
 
-Step 2: g h* 
-
- X Z 
+Step 2: X → g, Z → h* 
 
 Suppose that Z, and not X, applies at step 2.  
 
