@@ -181,7 +181,7 @@ a + r̥ 🡪 a
 
 [^56]: Note that both 6.1.87 and 6.1.88 belong to the ekādeśa-adhikāra i.e., the section headed by the sūtra  6.1.84 ekaḥ pūrvaparayoḥ which teaches that both the LHS and the RHS item are replaced with a single  substitute.
 
-72 
+[[72]] 
 
 a + l̥ 🡪 a 
 

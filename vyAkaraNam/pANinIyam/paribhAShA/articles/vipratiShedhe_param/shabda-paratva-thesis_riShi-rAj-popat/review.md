@@ -19,5 +19,5 @@ or
 
 तत्र +उभयस्यापि निमित्तं "वी" इति गणयामश् चेद् ऋषिराजभाषया "single operand interaction (SOI)" इति वर्तते, यत्र "विप्रतिषेधे परं कार्यम्" न प्रवर्तते, अपि तु "उस्तर्गापवादक्रमः"। तेन द्वितीयं सूत्रं हि जयति खलु।
 
-"वारि ङे" ityatrāpi tathaivākariṣyad iti bhāti.
+kintu, "वारि ङे" ityatra sarala-sūtrakramō na yōgyaḥ!
 

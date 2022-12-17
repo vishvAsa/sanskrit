@@ -15,43 +15,40 @@ Before we start looking at examples, here is a diagram which summarizes this top
 
 Type 2 (DOI = vipratiṣedha)  
 
-unidirectional blocking (RE29 3) mutual blocking (RE 4) no blocking (RE 6) 
+- unidirectional blocking (RE[^29] 3)
+  - DOI conflict (Type 2a) [of significant interest to the tradition]
+- mutual blocking (RE 4) 
+  - DOI conflict (Type 2a) [of significant interest to the tradition]
+- no blocking (RE 6) 
+   - DOI non-conflict (Type 2b)  [not of much interest to the tradition] 
 
- DOI conflict (Type 2a) DOI non-conflict (Type 2b)  [of significant interest to the tradition] [not of much interest to the tradition] 
+[^29]: RE = ‘Representative Example’.
 
-  
-
- My solution: 1.4.2 (RHS wins) 
++++(In all cases - )+++  
+My solution: 1.4.2 (RHS wins) 
 
 Note the difference between vipratiṣedha, as interpreted by me, and the concept of conflict,  which is popularly discussed in modern post-Pāṇinian literature, in the diagram above.  
 
-In this section, I have chosen examples from nominal inflection.30 
+In this section, I have chosen examples from nominal inflection.[^30] 
 
 In all derivations performed in this thesis, I present only those steps diagrammatically at which  multiple rules are simultaneously applicable. For example, at step a + b, if rules R1 and R2 are  applicable to a and b respectively, then I draw the following kind of diagram to illustrate the  same: 
 
-a + b 
-
- R1 R2 
-
-However, if only one rule K1 is applicable (to c) at a given step c + d, then I do not draw  diagrams of the following kind to represent this: 
-
-[^29]: RE = ‘Representative Example’. 
+(R1→ )a + (R2→ )b 
 
 [^30]: Note that examples from nominal inflection are simpler than those from verbal inflection. One of the  many reasons behind this is that, while nominal inflection involves only two items, i.e., a base and affix,  verbal inflection generally involves at least three items, i.e., a base followed by two affixes. We will  look at examples from verbal inflections as well as primary and secondary derivatives in the following  chapters.
 
-49 
+[[49]] 
 
-c + d 
+However, if only one rule K1 is applicable (to c) at a given step c + d, then I do not draw  diagrams of the following kind to represent this:
 
- K1 
+(K1 →) c + d 
 
 Instead, I simply describe this in words, or symbolically, as follows: c + d 🡪 c* + d (K1). 
 
+## dēvaiḥ
 (1) deva + bhis – ‘God’ (masculine), instrumental plural 
 
- deva + bhis 
-
- 7.3.103 7.1.9 
+(7.3.103 →) deva + (7.1.9→) bhis 
 
 7.3.103 bahuvacane jhaly et (ataḥ supi): an e replaces the final a of a nominal base when a  plural declensional affix starting with jhaL (a non-nasal stop or a fricative) follows. 
 
@@ -63,23 +60,23 @@ Therefore, 7.1.9 and 7.3.103 block each other. This is a case of mutual blocking
 
 By my interpretation of 1.4.2, the RHS operation 7.1.9 wins, leading to the correct form: deva + ais 🡪 devais (6.1.88 vr̥ddhir eci) 🡪 devair (8.2.66 sasajuṣoḥ ruḥ) 🡪 devaiḥ (8.3.15  kharavasānayor visarjanīyaḥ). 
 
-In his comments on 7.1.9, Patañjali tries to solve this conflict by using paratva (the rule that  comes later in the serial order of the Aṣṭādhyāyī wins) but that gives the wrong answer:  *devebhis. He then asserts that 7.1.9 is nitya and thus wins, giving the correct form: devaiḥ.31 His explanation for calling 7.1.9 nitya is illogical at best, and we will not delve into it. Suffice  it to say that the nitya tool, which can only solve cases of unidirectional blocking, cannot be  applied to the present case of mutual blocking. Pradīpa and Uddyota, the two popular  commentaries on the Mahābhāṣya suggest that the rule 7.1.9 is anavakāśa whereas 7.3.103 is  
+In his comments on 7.1.9, Patañjali tries to solve this conflict by using paratva (the rule that  comes later in the serial order of the Aṣṭādhyāyī wins) but that gives the wrong answer:  *devebhis. He then asserts that 7.1.9 is nitya and thus wins, giving the correct form: devaiḥ.[^31] His explanation for calling 7.1.9 nitya is illogical at best, and we will not delve into it.+++(5)+++ Suffice  it to say that the nitya tool, which can only solve cases of unidirectional blocking, cannot be  applied to the present case of mutual blocking. 
 
 [^31]: Mbh III.244.13-21.
 
-50sāvakāśa. So, the former wins. The anavakāśa tool is simply a technical way of arguing the  following: 
+Pradīpa and Uddyota, the two popular  commentaries on the Mahābhāṣya suggest that the rule 7.1.9 is anavakāśa whereas 7.3.103 is [^50] sāvakāśa. So, the former wins. The anavakāśa tool is simply a technical way of arguing the  following: 
 
-(i) 7.1.9 does not apply anywhere else.  
+- (i) 7.1.9 does not apply anywhere else.  
+- (ii) Surely, Pāṇini must have composed 7.1.9 because it applies somewhere. 
 
-(ii) Surely, Pāṇini must have composed 7.1.9 because it applies somewhere.  From (i) and (ii), the tradition concludes that it has to apply here. 
+From (i) and (ii), the tradition concludes that it has to apply here. 
 
 For this and many other examples, instead of following a systematic procedure of rule conflict  resolution, the tradition adopts a trial-and-error approach to come up with a justification for the  application of the rule which leads to the correct form. 
 
+## hariṇā
 (2) hari + āṄ – ‘green’ (masculine), instrumental singular 
 
- hari + āṄ32 
-
- 6.1.77 7.3.120 
+(6.1.77 →) hari + (7.3.120 >>) āṄ[^32] 
 
 6.1.77 iko yaṇ aci: iK (i, u, r̥, l̥) is replaced with yaṆ (y, v, r, l) when aC (any vowel) follows. 
 
@@ -89,7 +86,7 @@ If the i of hari is replaced with y by 6.1.77, then 7.3.120 which applies only t
 
 This is a case of mutual blocking, and thus of Type 2a (DOI conflict).  
 
-By my interpretation of 1.4.2, the RHS operation 7.3.120 wins, leading to the correct form:  hariṇā.33 
+By my interpretation of 1.4.2, the RHS operation 7.3.120 wins, leading to the correct form:  hariṇā.[^33] 
 
 [^32]: The instrumental singular affix taught by 4.1.2 sv-au-jas… is Ṭā and not āṄ. The use of āṄ instead  of Ṭā “is best understood as reflecting earlier traditions” (Cardona 1997: 51). 
 
@@ -99,6 +96,7 @@ By my interpretation of 1.4.2, the RHS operation 7.3.120 wins, leading to the co
 
 To the best of my knowledge, the tradition does not discuss this conflict. But I would guess  that it would have used its interpretation of 1.4.2 (the rule that comes later in the serial order  of the Aṣṭādhyāyī wins) or niravakāśatva to solve it. 
 
+## vāriṇā
 (3) vāri + āṄ – ‘water’ (neuter), instrumental singular 
 
 For reasons I will clarify below, let us look at the three rules which are applicable at this step  without resorting to a diagram: 
@@ -113,38 +111,45 @@ The important question to ask here is, how should we regard the interaction betw
 
 One could argue that it is a case of DOI. Let me explain why. 6.1.77 is applicable to i of vāri. On the other hand, by 1.1.47 mid aco’ntyāt paraḥ (which teaches that an item marked with M  is placed after i.e., to the RHS of the last vowel of the morpheme), 7.1.73 is applicable, not to  i, but instead to the (currently empty) position that is to the right-hand side of i. Additionally,  note that 1.1.47 uses the term para which is also used in the rule governing DOI (cf. 1.4.2  vipratiṣedhe paraṁ kāryam). For these reasons, one could say that the two rules are applicable to two different operands. Here is the diagrammatic representation of the same: 
 
- vār i + āṄ 
+ vār ( 6.1.77→) i (7.1.73→) [] + (7.3.120→) āṄ 
 
- 6.1.77 7.1.73 7.3.120 On the other hand, one could argue that the interaction between 6.1.77 and 7.1.73 is a case of  SOI because the whole base vāri itself is the common operand of both 6.1.77 and 7.1.73. Here  is the diagrammatic representation of the same: 
+On the other hand, one could argue that the interaction between 6.1.77 and 7.1.73 is a case of  SOI because the whole base vāri itself is the common operand of both 6.1.77 and 7.1.73. Here  is the diagrammatic representation of the same: 
 
- [vāri] + āṄ 
+(6.1.77, 7.1.73 >>) [vāri] + (7.3.120 →) āṄ 
 
- 6.1.77 7.1.73 7.3.120
 
 52 
 
-In fact, we ought to answer other similar questions before moving forward: if there is an SSRI  between a rule teaching the attachment of an augment marked with Ṭ (cf. 1.1.46 ādyantau  ṭakitau34) to a given item and a rule teaching the substitution of the first sound of that item,  then should that interaction be treated as an SOI or as a DOI? Similarly, if there is an SSRI  between a rule teaching the attachment of an augment marked with K (cf. 1.1.46 ādyantau  ṭakitau) to a given item and a rule teaching the substitution of the last sound of that item, then  should that interaction be treated as an SOI or as a DOI? 
+In fact, we ought to answer other similar questions before moving forward: if there is an SSRI  between a rule teaching the attachment of an augment marked with Ṭ (cf. 1.1.46 ādyantau  ṭakitau[^34]) to a given item and a rule teaching the substitution of the first sound of that item,  then should that interaction be treated as an SOI or as a DOI? Similarly, if there is an SSRI  between a rule teaching the attachment of an augment marked with K (cf. 1.1.46 ādyantau  ṭakitau) to a given item and a rule teaching the substitution of the last sound of that item, then  should that interaction be treated as an SOI or as a DOI?+++(5)+++ 
 
-Without looking at a large number of examples of SSRI involving augments marked with M, Ṭ or K, it would be difficult to decide which of the two positions is correct. In my thesis, I do  not focus on augments and thus am not in a position to definitively answer the aforementioned  questions. For the sake of this thesis, I have treated examples of the aforementioned kind  involving M-marked augments as cases of DOI and those of the aforementioned kind involving  Ṭ- or K-marked augments as cases of SOI. I have done this so that the reader may get exposure  to both positions – one, that these are cases of SOI and the other, that these are cases of DOI.  This will help set the stage for future research on this topic. 
+Without looking at a large number of examples of SSRI involving augments marked with M, Ṭ or K, it would be difficult to decide which of the two positions is correct. In my thesis, I do  not focus on augments and thus am not in a position to definitively answer the aforementioned  questions. For the sake of this thesis, I have treated examples of the aforementioned kind  involving M-marked augments as cases of DOI and those of the aforementioned kind involving  Ṭ- or K-marked augments as cases of SOI. I have done this so that the reader may get exposure  to both positions – one, that these are cases of SOI and the other, that these are cases of DOI.  This will help set the stage for future research on this topic. +++(5 But, from private communication, he prefers SOI approach here.)+++
 
-Coming back to the present example, this is a case of DOI between the three rules.   vār i + āṄ 
+Coming back to the present example, this is a case of DOI between the three rules.
 
- 6.1.77 7.1.73 7.3.120 Now let us look at the relationships between these rules. We have already seen in the previous  example that 6.1.77 and 7.3.120 block each other.  
+vār ( 6.1.77→) i (7.1.73→) + (7.3.120→) āṄ
+
+
+Now let us look at the relationships between these rules. We have already seen in the previous  example that 6.1.77 and 7.3.120 block each other.  
 
 Let us look at the DOI interaction between 6.1.77 and 7.1.73. If vāri takes the augment nUM by 7.1.73, then we get vārin which does not end in vowel i and thus, 6.1.77 will not be  applicable at the following step. If i of vāri is replaced with y by 6.1.77, then we get vāry which  does not end in i, thus 7.1.73 will not be applicable at the following step. Thus, 6.1.77 and  7.1.73 block each other. This is a case of mutual blocking and thus of Type 2a (DOI conflict).  
-
-Now let us look at the DOI interaction between 7.1.73 and 7.3.120. If vāri takes the augment  nUM by 7.1.73, thereby becoming consonant-final vārin, then 7.3.120, which applies only to  
 
 [^34]: Items marked with Ṭ and items marked with K should be attached to the beginning and end  respectively.
 
 53 
 
-those affixes that are preceded by ghi bases ending in i or u, will not be applicable at the  following step. And if consonant-initial nā replaces Ṭā by 7.3.120, then 7.1.73 which only  applies to certain bases followed by vowel-initial affixes will not be applicable at the following  step. Thus, 7.3.120 and 7.1.73 block each other. This is a case of mutual blocking, and thus of  DOI conflict.  
+Now let us look at the DOI interaction between 7.1.73 and 7.3.120. If vāri takes the augment  nUM by 7.1.73, thereby becoming consonant-final vārin, then 7.3.120, which applies only to those affixes that are preceded by ghi bases ending in i or u, will not be applicable at the  following step. And if consonant-initial nā replaces Ṭā by 7.3.120, then 7.1.73 which only  applies to certain bases followed by vowel-initial affixes will not be applicable at the following  step. Thus, 7.3.120 and 7.1.73 block each other. This is a case of mutual blocking, and thus of  DOI conflict.  
 
-By my interpretation of 1.4.2, we apply the right-most rule 7.3.12035 and get the correct form:  vāriṇā.36 
+By my interpretation of 1.4.2, we apply the right-most rule 7.3.120[^35] and get the correct form:  vāriṇā.[^36] 
+
+[^35]: Note that this is one of the rare cases in which even if we had applied another rule, namely 7.1.73,  we would still have got the correct form.
+
+[^36]: n > ṇ, by 8.4.2 aṭkupvāṅnumvyavāye’pi.
+
+
 
 We have already discussed the traditional position on the conflict between 6.1.77 and 7.3.120 in the previous example. I do not think the tradition discusses the conflict between 6.1.77 and  7.1.73. We can assume that it would use its interpretation of 1.4.2 (the rule that comes later in  the serial order of the Aṣṭādhyāyī wins) or the apavāda tool to solve this conflict. As for the  conflict between 7.1.73 and 7.3.120, the Bālamanoramā commentary on the Siddhāntakaumudī solves it using the traditional interpretation of 1.4.2.  
 
+## strīṇām
 (4) strī + ām – ‘woman’ (feminine), genitive plural 
 
 strī + ām 
@@ -157,20 +162,17 @@ strī + ām
 
 If the ī of strī is replaced with iyAṄ by 6.4.79, thereby making it striy, then 7.1.54, which  applies to ām when preceded by nadī-final vowels ī and ū, will not be applicable at the  following step.  
 
-[^35]: Note that this is one of the rare cases in which even if we had applied another rule, namely 7.1.73,  we would still have got the correct form. 
-
-[^36]: n > ṇ, by 8.4.2 aṭkupvāṅnumvyavāye’pi.
-
-54 
+[[54]] 
 
 If the augment nUṬ is added to the affix ām by 7.1.54, thereby making it consonant-initial nām,  then 6.4.79, which is only applicable to the base strī when it is followed by vowel-initial affixes,  will not be applicable at the following step.  
 
 This is a case of mutual blocking, and thus of Type 2a (DOI conflict).  
 
-By my interpretation of 1.4.2, the RHS operation 7.1.54 wins, leading to the correct form:  strīṇām.37 
+By my interpretation of 1.4.2, the RHS operation 7.1.54 wins, leading to the correct form:  strīṇām.[^37] 
 
 The Bhaimī commentary on the Laghusiddhāntakaumudī solves the conflict between 6.4.79 and 7.1.54 using the traditional interpretation of 1.4.2 (i.e., the rule that comes later in the serial  order of the Aṣṭādhyāyī wins). 
 
+## vārīṇām
 (5) vāri + ām – ‘water’ (neuter), genitive plural 
 
  vāri + ām 
@@ -191,10 +193,11 @@ Both 7.1.54 and 7.1.73 block each other. This is a case of mutual blocking, and 
 
 55 
 
-By my interpretation of 1.4.2, the RHS operation 7.1.54 wins, leading to the correct form:  vārīṇām38 (6.4.3 nāmi, 8.4.2 aṭkupvāṅnumvyavāye’pi). 
+By my interpretation of 1.4.2, the RHS operation 7.1.54 wins, leading to the correct form:  vārīṇām[^38] (6.4.3 nāmi, 8.4.2 aṭkupvāṅnumvyavāye’pi). 
 
 The tradition resorts to Kātyāyana’s vārttika ‘numaciratr̥jvadbhāvebhyo nuṭ pūrvavipratiṣiddham’ (vt. 1139 on 7.1.96 striyāṁ ca) to solve this conflict. This vārttika teaches  that even though the rule teaching the attachment of the augment nUṬ (7.1.54) comes before  the rule teaching the attachment of the augment of nUM (7.1.73) in the serial order of the  Aṣṭādhyāyī, the former wins. In this and other pūrvavipratiṣiddha vārttikas, Kātyāyana simply  lists those conflicts which cannot be correctly solved using the traditional interpretation of  1.4.2. 
 
+## kroṣṭr̥̄ṇām
 (6) kroṣṭu + ām – ‘jackal’ (masculine), genitive plural 
 
 kroṣṭu + ām 
@@ -211,14 +214,15 @@ If the u of kroṣṭu becomes r̥ by 7.1.97, then 7.1.54, which applies to ām 
 
 [^40]: Note that this is not actually an operational rule, but an atideśa sūtra ‘extension rule’. For the sake  of studying conflict, we may treat it as an operational rule which teaches that the u of kroṣṭu changes to  r̥.
 
-56 
+[[56]] 
 
 7.1.54 blocks 7.1.97, but 7.1.97 does not block 7.1.54. This is a case of unidirectional blocking,  and thus of DOI conflict.  
 
 By my interpretation of 1.4.2, the RHS operation 7.1.54 wins, leading to the correct form:  kroṣṭūnām (6.4.3 nāmi). 
 
-Since this is a case of unidirectional blocking, the tradition could have used the nitya tool to  solve this conflict. However, it does not do so.41 Instead, Kātyāyana has written the vārttika ‘numaciratr̥jvadbhāvebhyo nuṭ pūrvavipratiṣiddham’ (vt. 1142 on 7.1.96 striyāṁ ca) to solve  it. This vārttika teaches that even though the rule teaching the attachment of the augment nUṬ (7.1.54) comes before the rule teaching tr̥jvadbhāva (7.1.97) in the serial order of the  Aṣṭādhyāyī, the former wins.  
+Since this is a case of unidirectional blocking, the tradition could have used the nitya tool to  solve this conflict. However, it does not do so.[^41] Instead, Kātyāyana has written the vārttika ‘numaciratr̥jvadbhāvebhyo nuṭ pūrvavipratiṣiddham’ (vt. 1142 on 7.1.96 striyāṁ ca) to solve  it. This vārttika teaches that even though the rule teaching the attachment of the augment nUṬ (7.1.54) comes before the rule teaching tr̥jvadbhāva (7.1.97) in the serial order of the  Aṣṭādhyāyī, the former wins.  
 
+## kartr̥
 (7) kartr̥ + sU – ‘doer’ (neuter), nominative singular 
 
 kartr̥ + sU 
@@ -243,6 +247,7 @@ By my interpretation of 1.4.2, the RHS operation 7.1.23 wins, thereby giving the
 
 To the best of my knowledge, the tradition does not discuss this conflict. However, I think it  would use the nitya tool (the rule that unidirectionally blocks the other wins) to solve it. 
 
+## tad
 (8) tad + sU – ‘that’ (neuter), nominative singular 
 
  tad + sU 
@@ -255,9 +260,9 @@ To the best of my knowledge, the tradition does not discuss this conflict. Howev
 
 What kind of interaction occurs between the two rules? The tradition seems to be confused  about this. So, let us start by looking at my solution. 
 
-This is a case of DOI. By my interpretation of 1.4.2, the RHS rule 7.1.23 wins, giving us the  correct answer: tad.43 
+This is a case of DOI. By my interpretation of 1.4.2, the RHS rule 7.1.23 wins, giving us the  correct answer: tad.[^43] 
 
-In his commentary44 on 7.1.23, Patañjali first tries to use the traditional interpretation of 1.4.2  (the rule that comes later in the serial order of the Aṣṭādhyāyī wins) to determine which of the  two rules he must apply. But he gets the wrong answer upon doing so. Then, he tries to use the  nitya tool.  
+In his commentary[^44] on 7.1.23, Patañjali first tries to use the traditional interpretation of 1.4.2  (the rule that comes later in the serial order of the Aṣṭādhyāyī wins) to determine which of the  two rules he must apply. But he gets the wrong answer upon doing so. Then, he tries to use the  nitya tool.  
 
 If we apply 7.1.23 at this step, 7.2.102 will not be applicable at the following step. On the other  hand, if we apply 7.2.102 at this step, 7.1.23 will still be applicable at the following step. Thus,  this is a case of unidirectional blocking, and of Type 2a (DOI conflict). Therefore, the nitya tool can be used here.  
 
@@ -273,11 +278,11 @@ For this reason, Patañjali says that 7.1.23 cannot be called nitya with respect
 
 Contrary to Patañjali’s conclusion that 7.1.23 cannot be called nitya, according to paribhāṣā 47 of the Paribhāṣenduśekhara, 7.1.23 is nitya and thus should win. It reads: yasya ca  lakṣaṇāntareṇa nimittaṁ vihanyate na tad anityam. Kielhorn translates it as follows: ‘(an  operation [here 7.1.23]), the cause of which would, (after the taking effect of another operation  [here, 7.2.102] that applies simultaneously), be removed by another (third) rule [here, 7.1.24],  is not (on that account regarded as) anitya.’ 
 
+## vāriṇe
 (9) vāri + Ṅe – ‘water’ (neuter), dative singular 
 
-vār i + Ṅe 
+vār (7.3.111→) i  (7.1.73 →)[] + Ṅe 
 
- 7.3.111 7.1.73  
 
 7.3.111 gher ṅiti (guṇaḥ supi): the final vowel of a ghi base (a base ending in i or u, except  sakhi) is replaced with guṇa (here, e / o) when followed by a declensional affix marked with  Ṅ. 
 
@@ -287,11 +292,11 @@ This is a case of DOI. If we apply 7.3.111 at this step, then 7.1.73 will not be
 
 By my interpretation of 1.4.2, we apply the RHS rule 7.1.73 and get the correct form: vāriṇe. 
 
-The tradition uses the vārttika, guṇavr̥ddhyauttvatr̥jvadbhāvebhyo num pūrvavipratiṣiddham (vt. 1046 on 7.1.96 striyāṁ ca) to solve this conflict. This vārttika teaches that even though the  rule teaching the attachment of the augment nUM (7.1.73) comes before the rule teaching guṇa (7.3.111) in the serial order of the Aṣṭādhyāyī, the former wins. 
+The tradition uses the vārttika, guṇa-vr̥ddhy-auttva-tr̥jvad-bhāvebhyo num pūrva-vipratiṣiddham (vt. 1046 on 7.1.96 striyāṁ ca) to solve this conflict. This vārttika teaches that even though the  rule teaching the attachment of the augment nUM (7.1.73) comes before the rule teaching guṇa (7.3.111) in the serial order of the Aṣṭādhyāyī, the former wins. 
 
 [^46]: Mbh III.275.23.
 
-59 
+[[59]] 
 
 Having looked at examples of DOI conflict (Type 2a), now let us look at examples of DOI non conflict (Type 2b). 
 
