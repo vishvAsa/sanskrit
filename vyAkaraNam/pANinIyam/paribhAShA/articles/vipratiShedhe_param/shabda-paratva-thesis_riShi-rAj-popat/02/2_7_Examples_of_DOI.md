@@ -288,6 +288,17 @@ vār (7.3.111→) i  (7.1.73 →)[] + Ṅe
 
 7.1.73 iko’ci vibhaktau (num napuṁsakasya): augment nUM is attached to a neuter base which  ends in iK (i, u, r̥, l̥), provided a vowel-initial declensional affix follows. 
 
+<details><summary>विश्वास-टिप्पनी - SOI view</summary>
+
+vār (7.3.111, 7.1.73 →) i + Ṅe
+
+Operand in case of 7.1.73 - i of a nueter base.  
+Operand in case of 7.3.111: i.  
+The former is more "specific".  
+Hence it wins and is applied.
+</details>
+
+
 This is a case of DOI. If we apply 7.3.111 at this step, then 7.1.73 will not be applicable at the  following step. If we apply 7.1.73 at this step, then 7.3.111 will not be applicable at the  following step. This is a case of mutual blocking and thus of Type 2a (DOI conflict). 
 
 By my interpretation of 1.4.2, we apply the RHS rule 7.1.73 and get the correct form: vāriṇe. 
