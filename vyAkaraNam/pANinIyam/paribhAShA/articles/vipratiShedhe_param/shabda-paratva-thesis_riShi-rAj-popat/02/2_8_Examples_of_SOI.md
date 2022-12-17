@@ -225,9 +225,9 @@ However, here, this too seems difficult. Thus, we have to eliminate those condit
 
 (4) Now let us consider an example similar to example 2. We will derive the genitive plural of  the feminine form of tri ‘three’. 
 
-tri (7.1.53, 7.2.99) + ām 
-
 [[75]] 
+
+(7.1.53, 7.2.99 →) tri + ām
 
 7.1.53 tres trayaḥ (āmi): the base tri is replaced with traya when ām follows. 
 
@@ -237,18 +237,17 @@ tri (7.1.53, 7.2.99) + ām
 
 tri + ām 
 
-7.2.99: 
+7.2.99:  
 
-tri (feminine) + ām 
-
-tri (feminine) + any other declensional affix 
-
-catur (feminine) + any declensional affix 
+- tri (feminine) + ām 
+- tri (feminine) + any other declensional affix 
+- catur (feminine) + any declensional affix 
 
 I have written the conditions that are relevant to the conflict in bold. 7.2.99 is applicable only  to the feminine tri base, whereas 7.1.53 is applicable to the base in all genders. 7.2.99 is more  specific and thus wins, thereby giving us the correct form: tisr̥ṇām. 
 
 To the best of my knowledge the tradition does not mention this conflict. I suppose it would  use its interpretation of 1.4.2 to resolve it.  
 
+## SOI-L and SOI-M
 Note that in the four examples above, (1) and (4) are similar to each other, and (2) and (3) are  similar to each other.  
 
 In both (1) and (4), the two conditions (in bold) involved in the SOI are not exactly the same.  One operation is conditioned by a grammatical specification (‘plural’ in example 1 and  ‘feminine’ in example 4), while the other is not. The operation conditioned by the grammatical  specification (which is often morphological) wins.  
@@ -257,10 +256,11 @@ On the other hand, in the case of examples (2) and (3), the conditions highlight
 
 For clarity, let us give names to these two types: we will call examples 1 and 4 SOI-L and  examples 2 and 3 SOI-M. The primary definition of SOI-L is that it can be resolved at the first  step of comparison: the conditions highlighted in bold are not exactly the same, and so the one  which has a specific restriction or marker (e.g., plural) wins. The choice of the winning rule  can be made at the first step of comparison itself, i.e., by comparing conditions.
 
-76 
+[[76]] 
 
 On the other hand, SOI-M cases are defined as those where the conditions highlighted in bold  are exactly the same, and so we cannot decide which one is more specific. We need to go a step  further and compare the two rules themselves to determine the winning rule.  
 
+## bhānūdaya
 (5) Now let us look at the sandhi-related step of the derivation of the compound bhānūdaya  ‘sunrise’: 
 
 bhānu + udaya 
@@ -275,25 +275,22 @@ However, the problem is that they do not have exactly the same operand. Here I u
 
 bhān[(u) + u]daya 
 
-The operand of 6.1.77 is inside the operand of 6.1.101. How do we solve such an example? I  propose that we treat u + u as the operand of both rules. This means that we have to reanalyse  rule 6.1.77: instead of saying that iK is replaced with yaṆ when aC follows, we say that iK + aC is replaced with yaṆ + aC.58  
+The operand of 6.1.77 is inside the operand of 6.1.101. How do we solve such an example? I  propose that we treat u + u as the operand of both rules. This means that we have to reanalyse  rule 6.1.77: instead of saying that iK is replaced with yaṆ when aC follows, we say that iK + aC is replaced with yaṆ + aC.[^58]  
+
+[^58]: Another way of comparing the two rules is to simply compare the RHS item of each. For example,  for 6.1.77, the RHS item is aC (any vowel) while for 6.1.101, it is specifically a savarṇa sound. This  leads us to the correct conclusion that 6.1.101 is more specific than 6.1.77.
 
 Now that both rules have the same operand, we can choose the rule that is more specific.  6.1.77: 
 
-u + savarṇa 
+- **u + savarṇa**  
+- u + any other vowel  
+- i / r̥ / l̥ + any vowel 
 
-u + any other vowel 
-
-i / r̥ / l̥ + any vowel 
-
-[^58]: Another way of comparing the two rules is to simply compare the RHS item of each. For example,  for 6.1.77, the RHS item is aC (any vowel) while for 6.1.101, it is specifically a savarṇa sound. This  leads us to the correct conclusion that 6.1.101 is more specific than 6.1.77. 
-
-77 
+[[77]] 
 
 6.1.101  
 
-u + savarṇa 
-
-a / i / r̥ / l̥ + savarṇa 
+- **u + savarṇa**  
+- a / i / r̥ / l̥ + savarṇa 
 
 The conditions in bold are exactly the same. This is a case of SOI-M. Thus, we need to compare  the two rules.  
 
@@ -301,11 +298,10 @@ Note that the conditions ‘i / r̥ / l̥ + any vowel’ (under 6.1.77) and ‘a
 
 To the best of my knowledge the tradition does not mention this conflict. I suppose it would  use its interpretation of 1.4.2 to resolve it.  
 
+## vanam
 (6) vana + sU – ‘forest’ (neuter), nominative singular 
 
- vana + sU 
-
- 7.1.23 7.1.24 
+vana + (7.1.23, 7.1.24 →) sU 
 
 7.1.23 svamor napuṁsakāt (luk): affixes sU and am occurring after a neuter base are replaced with LUK. 
 
@@ -314,24 +310,22 @@ To the best of my knowledge the tradition does not mention this conflict. I supp
 7.1.23 
 
 -a (neuter) + sU / am 
-
 - any other sound (neuter) + sU / am 
 
 7.1.24 
 
 -a (neuter) + sU / am
 
-78 
+[[78]] 
 
 The conditions in bold are exactly the same. This is a case of SOI-M. Thus, we now compare  the rules. Both rules are meant for sU and am affixes added to neuter bases, but 7.1.24 is  specifically meant for those cases in which sU and am are preceded by a base ending in a. 7.1.24 is more specific and thus wins, leading to the correct form: vanam. 
 
 On 7.1.24, the Kāśikā says that 7.1.24 is an apavāda of, and thus wins against, 7.1.23. 
 
+## yuṣmabhyam
 (7) yuṣmad + bhyas – ‘you’ (any gender), ablative plural 
 
-yuṣmad + bhyas 
-
- 7.1.30 7.1.31 
+yuṣmad + (7.1.30 7.1.31→)bhyas 
 
 7.1.30 bhyaso bhyam (yuṣmadasmadbhyām): the affix bhyas which occurs after the bases  yuṣmad and asmad is replaced with bhyam. 
 
@@ -349,17 +343,19 @@ Note that bhyas is a plural affix used for both dative and ablative forms. 7.1.3
 
 On 7.1.31, the Nyāsa says that 7.1.31 is an apavāda of, and thus wins against, 7.1.30. 
 
+[[79]]
+
+## ēkasmai
 (8) eka + Ṅe – ‘one’ (masculine), dative singular 
 
-eka + Ṅe 
-
- 7.1.13 7.1.14
-
-79 
+eka + (7.1.13, 7.1.14 →) Ṅe
 
 7.1.13 ṅer yaḥ (ataḥ): the affix Ṅe, when occurring after a base ending in a, is replaced with ya. 
 
-7.1.14 sarvanāmnaḥ smai (ṅer yaḥ ataḥ)59: the affix Ṅe, when occurring after a pronominal  base ending in a, is replaced with smai. 
+7.1.14 sarvanāmnaḥ smai (ṅer yaḥ ataḥ)[^59]: the affix Ṅe, when occurring after a pronominal  base ending in a, is replaced with smai. 
+
+
+[^59]: The base eka is listed in the sarvādigaṇa, referred to in 1.1.27 sarvādīni sarvanāmāni.
 
 7.1.13  
 
@@ -373,6 +369,7 @@ This is a case of SOI-L. 7.1.14 concerns only pronominal bases. Thus, it is more
 
 To the best of my knowledge the tradition does not mention this conflict. I suppose it would  use the apavāda tool to solve it.  
 
+## harī
 (9) hari + au – ‘green’ (masculine) nominative dual 
 
 hari + au 
@@ -385,13 +382,13 @@ The two rules that are applicable here are:
 
 Note that, here too, like in example 5 of this section, the operand of one rule is inside the  operand of another. We overcome this problem just as we did in example 5.  
 
+[[80]]
+
 6.1.77  
 
 i / u/ r̥ / l̥ + any vowel 
 
-[^59]: The base eka is listed in the sarvādigaṇa, referred to in 1.1.27 sarvādīni sarvanāmāni.
-
-806.1.102 
+6.1.102 
 
 a + any vowel (nominative / accusative) 
 
@@ -401,29 +398,28 @@ This is a case of SOI-L. 6.1.102 is more specific and thus wins, leading to the 
 
 To the best of my knowledge the tradition does not mention this conflict. I suppose it would  use its interpretation of 1.4.2 to solve it.  
 
+## vāriṇi
 (10) vāri + Ṅi – ‘water (neuter)’ locative singular 
 
 Let us look at the rules that apply: 
 
-7.3.116 ṅer ām nadyāmnībhyaḥ 
-
+7.3.116 ṅer ām nadyāmnībhyaḥ  
 7.3.117 idudbhyām 
-
 7.3.118 aut 
-
 7.3.119 ac ca gheḥ 
 
-Kielhorn60 shows that 7.3.117-7.3.119 together originally constituted one sūtra: idudbhyām  aud ac ca gheḥ. Kātyāyana split it into two: idudbhyām and aud ac ca gheh, and Patañjali  further split the latter into two: aut and ac ca gheḥ. I accept the original version taught by Pāṇini  himself: 7.3.117 idudbhyām aud ac ca gheḥ.  
-
-Now, in vāri + Ṅi, two rules are applicable: 
-
- vāri + Ṅi   
-
- 7.3.117 7.1.73 7.3.117 7.1.73 iko’ci vibhaktau (num napuṁsakasya): augment nUM is attached to a neuter iK-final  (ending in i, u, r̥, l) base when a vowel-initial declensional affix follows.’  
+Kielhorn[^60] shows that 7.3.117-7.3.119 together originally constituted one sūtra: idudbhyām  aud ac ca gheḥ. Kātyāyana split it into two: idudbhyām and aud ac ca gheh, and Patañjali  further split the latter into two: aut and ac ca gheḥ. I accept the original version taught by Pāṇini  himself: 7.3.117 idudbhyām aud ac ca gheḥ.  
 
 [^60]: See Staal’s ‘A Reader on the Sanskrit Grammarians’ (1972: 115).
 
-81 
+Now, in vāri + Ṅi, two rules are applicable: 
+
+(7.3.117 →) vāri (7.1.73  >>) [] + (7.3.117 →) Ṅi   
+
+7.1.73 iko’ci vibhaktau (num napuṁsakasya): augment nUM is attached to a neuter iK-final  (ending in i, u, r̥, l) base when a vowel-initial declensional affix follows.
+
+
+[[81]] 
 
 7.3.117 idudbhyām aut ac ca gheḥ (ṅer): after ghi bases, Ṅi is replaced with au, and the final  sound of the base is replaced with a.  
 
@@ -431,10 +427,8 @@ Note that 7.3.117 is unusual because it teaches two operations together. And cur
 
 7.1.73 applies to: 
 
-i/u (neuter) + Ṅi 
-
-i/u (neuter) + other vowel initial affixes  
-
+i/u (neuter) + Ṅi  
+i/u (neuter) + other vowel initial affixes   
 r̥/l̥ (neuter) + vowel initial affixes  
 
 7.3.117 applies to: 
@@ -443,7 +437,7 @@ i/u + Ṅi
 
 This is a case of SOI-L and the condition which is marked ‘neuter’ is more specific and thus  wins, giving us the correct form vāriṇi.  
 
-The tradition uses the vārttika, guṇavr̥ddhyauttvatr̥jvadbhāvebhyo num pūrvavipratiṣiddham (vt. 1061 on 7.1.96 striyāṁ ca), to solve this conflict. This vārttika teaches that even though the  rule teaching the attachment of the augment nUM (7.1.73) comes before the rule teaching  auttva (7.3.117 idudbhyām aud ac ca gheḥ) in the serial order of the Aṣṭādhyāyī, the former  wins. 
+The tradition uses the vārttika, guṇa-vr̥ddhy-auttva-tr̥jvad-bhāvebhyo num pūrvavipratiṣiddham (vt. 1061 on 7.1.96 striyāṁ ca), to solve this conflict. This vārttika teaches that even though the  rule teaching the attachment of the augment nUM (7.1.73) comes before the rule teaching  auttva (7.3.117 idudbhyām aud ac ca gheḥ) in the serial order of the Aṣṭādhyāyī, the former  wins. 
 
 [^61]: Mbh III.275.23.
 
