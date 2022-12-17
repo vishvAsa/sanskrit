@@ -11,7 +11,7 @@ Even though the tradition is not very interested in non-conflict, I will also sh
 
 Before we start looking at examples, here is a diagram which summarizes this topic:
 
-48 
+[[48]] 
 
 Type 2 (DOI = vipratiṣedha)  
 
