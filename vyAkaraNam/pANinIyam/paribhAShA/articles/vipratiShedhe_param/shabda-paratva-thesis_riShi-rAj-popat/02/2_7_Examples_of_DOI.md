@@ -300,6 +300,7 @@ The tradition uses the vārttika, guṇa-vr̥ddhy-auttva-tr̥jvad-bhāvebhyo num
 
 Having looked at examples of DOI conflict (Type 2a), now let us look at examples of DOI non conflict (Type 2b). 
 
+## rājā
 (10) rājan + sU – ‘king’ (masculine), nominative singular 
 
  rājan + sU 
@@ -320,15 +321,17 @@ Note that even if we had applied 6.4.8 (the LHS rule) at the first step, we coul
 
 [^47]: 8.2.7 is asiddha with respect to 6.4.8 and 6.1.68 so it cannot be applied before them. 
 
-60Why then did Pāṇini need to say anything about DOI non-conflict at all? Why did he prescribe  that the RHS be applied in such cases (cf. my interpretation of 1.4.2)? We will answer this  question while discussing the following examples.  
+60
+
+Why then did Pāṇini need to say anything about DOI non-conflict at all? Why did he prescribe  that the RHS be applied in such cases (cf. my interpretation of 1.4.2)? We will answer this  question while discussing the following examples.  
 
 The tradition is not interested in such cases of non-conflict.  
 
+## tisr̥ṇām
 (11) tri + ām – ‘three’ (feminine), genitive plural 
 
- tri + ām 
+(7.2.99 →) tri + (7.1.54→) ām 
 
- 7.2.99 7.1.54 
 
 7.2.99 tricaturoḥ striyāṁ tisr̥catasr̥: tri and catur are replaced with tisr̥ and catasr̥ respectively in the feminine. 
 
@@ -336,17 +339,15 @@ The tradition is not interested in such cases of non-conflict.
 
 If we replace tri with tisr̥ at this step, 7.1.54 will still be applicable at the following step because  tisr̥ ends in a short vowel. And if we apply 7.1.54 at this step, 7.2.99 will still be applicable at  the following step, because its application does not depend on the affix. 
 
-Neither of the two rules blocks the other, and so this is a case of Type 2b (DOI non-conflict).  By my interpretation of 1.4.2, we apply the RHS rule 7.1.54 and get tri + nām. Thereafter, we  apply 7.2.99 tricaturoḥ striyāṁ tisr̥catasr̥ and get the correct form: tisr̥ṇām49. 
-
-In order to understand why Pāṇini has prescribed that we pick the RHS rule in cases of DOI  non-conflict, let us perform this derivation again, this time by picking the LHS rule in case of  DOI non-conflict. 
+Neither of the two rules blocks the other, and so this is a case of Type 2b (DOI non-conflict).  By my interpretation of 1.4.2, we apply the RHS rule 7.1.54 and get tri + nām. Thereafter, we  apply 7.2.99 tricaturoḥ striyāṁ tisr̥catasr̥ and get the correct form: tisr̥ṇām[^49]. 
 
 [^48]: The augment nUṬ is added at the beginning of ām by 1.1.46 ādyantau ṭakitau. 49 The r̥ of tisr̥ does not undergo elongation by 6.4.3 nāmi because this is prohibited by the following  rule 6.4.4 na tisr̥catasr̥. The n of nām becomes ṇ in tisr̥ṇām. There is no rule in the Aṣṭādhyāyī which  explicitly teaches this. However, there is a vārttika on 8.4.1 raṣābhyāṁ no ṇaḥ samānapade which  correctly teaches this operation: raṣābhyāṁ ṇatvam r̥kāragrahaṇam ‘it should be added that [not only]  after r and ṣ, [but after] r̥ [too], [n is replaced with] ṇ.’ (Mbh III.452.1-6).
 
-61 
+[[61]] 
 
- tri + ām 
+In order to understand why Pāṇini has prescribed that we pick the RHS rule in cases of DOI  non-conflict, let us perform this derivation again, this time by picking the LHS rule in case of  DOI non-conflict.
 
- 7.2.99 7.1.54 
+(7.2.99→)tri + (7.1.54→) ām 
 
 7.2.99 tricaturoḥ striyāṁ tisr̥catasr̥: same as above. 
 
@@ -354,9 +355,7 @@ In order to understand why Pāṇini has prescribed that we pick the RHS rule in
 
 This is a Type 2b (DOI non-conflict). As stated above, as an experiment, we are going to apply  the LHS rule 7.2.99 in this case (of DOI non-conflict). Upon applying 7.2.99, we get tisr̥ + ām.  Here, two rules are applicable: 
 
- tisr̥ + ām 
-
-7.2.100 7.1.54 
+(7.2.100→) tisr̥ + (7.1.54→) ām 
 
 7.2.100 aci ra r̥taḥ (vibhaktau tricaturoḥ tisr̥catasr̥): a r replaces r̥ of the bases tisr̥ and catasr̥,  when a vowel-initial declensional affix follows. 
 
@@ -370,19 +369,18 @@ By my interpretation of 1.4.2, the RHS operation 7.1.54 wins, leading to the cor
 
 We have seen that, regardless of whether we pick the LHS or the RHS rule in case of Type 2b  (DOI non-conflict) here, we get the same answer: tisr̥ṇām. However, the two derivational paths  look different from each other. The first path, in which we pick the RHS rule at the first step (as taught by Pāṇini in [my interpretation of] 1.4.2), is significantly shorter than the second  path, in which we pick the LHS rule at the first step. In other derivations too, I have noticed that the derivation looks relatively shorter when we pick the RHS rule in case of type 2b (DOI  non-conflict) and relatively longer when we pick the LHS rule.
 
-62 
+[[62]] 
 
 But is it merely to keep derivations compact that Pāṇini has prescribed the choice of the RHS  rule in cases of DOI non-conflict? No. In the next example, we will see that we cannot get the  correct answer without picking the RHS rule in case of DOI non-conflict. 
 
 How does the tradition perform this derivation? Vārttikas 11 to 1450 on 7.1.96 striyāṁ ca, and  Patañjali’s comments on them, deal with this topic in detail and propose various tools like  pūrvavipratiṣiddha and apavāda to solve this problem. We will not delve into this topic here. 
 
+## asmai
 (12) idam + Ṅe – ‘this’ (masculine), dative singular 
 
 All cases of DOI in this derivation are of Type 2b (DOI non-conflict). I will not prove this at  each step.  
 
-id a m + Ṅe 
-
- 7.2.112 7.2.102 
+( 7.2.112 →) id a (7.2.102→) m + Ṅe 
 
 7.2.112 an āpy akaḥ (vibhaktau idamaḥ idaḥ): the id of idam is substituted with an, when it  does not include a k, and when a declensional affix belonging to āP, i.e., any instrumental,  dative, ablative, genitive or locative affix, follows. 
 
@@ -390,9 +388,8 @@ id a m + Ṅe
 
 By my interpretation of 1.4.2, the RHS rule 7.2.102 wins, and we get: ida-a + Ṅe. Here,  multiple rules are applicable: 
 
-id [ a-a ] + Ṅe 
-
- 7.2.112 6.1.97 7.1.14 
+(7.2.112.→) id (6.1.97→) [ a-a ] + (7.1.14→) Ṅe 
+ 
 
 7.2.112 an āpy akaḥ (vibhaktau idamaḥ idaḥ): same as above. 
 
@@ -400,27 +397,26 @@ id [ a-a ] + Ṅe
 
 [^50]: Mbh III.276.6-22.
 
-63 
+[[63]] 
 
 7.1.14 sarvanāmnaḥ smai (ṅer yaḥ ataḥ): the affix Ṅe, when occurring after a pronominal base  ending in a, is replaced with smai. 
 
 By my interpretation of 1.4.2, we apply the right-most rule 7.1.14, and get ida-a + smai. Here,  multiple rules are applicable: 
 
-id [ a-a ] + smai  
+( 7.2.112 7.2.113→) id (6.1.97→) [ a-a ] + smai  
 
- 7.2.112 7.2.113 6.1.97 
 
 7.2.112 an āpy akaḥ (vibhaktau idamaḥ idaḥ): the id of idam is substituted with an, when it  does not include a k, and when a declensional affix belonging to āP, i.e., any instrumental,  dative, ablative, genitive or locative affix, follows. 
 
-7.2.113 hali lopaḥ (vibhaktau idamaḥ idaḥ akaḥ): the id of idam is replaced with LOPA, when  it does not include a k, and when a consonant-initial declensional affix belonging to āP, i.e., any instrumental, dative, ablative, genitive or locative affix, follows. 
+7.2.113 hali lopaḥ (vibhaktau idamaḥ idaḥ akaḥ): the id of idam is replaced with LOPA, when  it does not include a k, and when a **consonant-initial** declensional affix belonging to āP, i.e., any instrumental, dative, ablative, genitive or locative affix, follows. 
 
 6.1.97 ato guṇe: same as above. 
 
 By my interpretation of 1.4.2, we apply the RHS rule 6.1.97 and get ida + smai. Here multiple  rules are applicable: 
 
- id a + smai 
+(7.2.112 7.2.113→) id a + smai 
 
- 7.2.112 7.2.113  
+
 
 We see that there is a case of SOI between 7.2.112 and 7.2.113. Because 7.2.113 applies only  when the base is followed by a consonant initial affix, it is more specific than, and defeats  7.2.112. Thus, we get the correct form: asmai. 
 
@@ -428,17 +424,18 @@ At the very first step of this derivation, where we see the two rules 7.2.112 an
 
 This shows that, even though whether we choose the LHS rule or the RHS rule may not matter  in certain cases of DOI non-conflict (see examples 10 and 11 above), in cases of DOI non conflict like this one, choosing the RHS rule alone gives the correct answer. 
 
-64 
+[[64]] 
 
+## aham
 Finally, let us look at an example which involves cases of both DOI conflict and DOI non conflict. 
 
 (13) asmad + sU – ‘I’ (any gender), nominative singular 
 
-asma d + sU 
+(7.2.94→) asma (7.2.86→) d + (7.1.28→) sU 
 
- 7.2.94 7.2.86 7.1.28 
+    
 
-7.2.94 tvāhau sau (yuṣmadasmador maparyantasya vibhaktau): the parts of yuṣmad and asmad  extending up to ma51 are replaced with tva and aha respectively when followed by the case  affix sU. 
+7.2.94 tvāhau sau (yuṣmadasmador maparyantasya vibhaktau): the parts of yuṣmad and asmad  extending up to ma[^51] are replaced with tva and aha respectively when followed by the case  affix sU. 
 
 7.2.86 yuṣmadasmador anādeśe (vibhaktau āḥ): the final sounds of yuṣmad and asmad are  replaced with ā when followed by consonant-initial case affixes which have not undergone any  substitution.  
 
@@ -448,13 +445,13 @@ Let us determine the relationship between 7.2.94 and the two other rules.
 
 If we apply 7.2.94 at this step, 7.2.86 will be applicable at the following step. Similarly, if we  apply 7.2.86 at this step, 7.2.94 will be applicable at the following step. There is a Type 2b  (DOI non-blocking) relationship between 7.2.94 and 7.2.86.  
 
-Similarly, if we apply 7.2.94 at this step, 7.1.28 will be applicable at the following step. If we  apply 7.1.28 at this step, 7.2.94 will be applicable at the following step.52 There is a Type 2b  (DOI non-blocking) relationship between 7.2.94 and 7.1.28.  
+Similarly, if we apply 7.2.94 at this step, 7.1.28 will be applicable at the following step. If we  apply 7.1.28 at this step, 7.2.94 will be applicable at the following step.[^52] There is a Type 2b  (DOI non-blocking) relationship between 7.2.94 and 7.1.28.  
 
 [^51]: The tradition translates maparyantasya as ‘up to m’ but I think that Pāṇini means ‘up to ma’. Both  interpretations lead to correct answers for all forms of yuṣmad-asmad. My interpretation makes  derivations simpler and shorter.  
 
 [^52]: Given that sU has been replaced with am, how will 7.2.94 apply at the following step? This is because,  by 1.1.56 sthānivadādeśo’nalvidhau, am is treated like sU. How do we know this is not an aL-vidhi?  asma and am are not adjacent to each other (d sits in the middle of the two), and so this is not an aL  operation.
 
-65 
+[[65]] 
 
 Thus 7.2.94 has a Type 2b (DOI non-conflict) with the other two rules.  
 
@@ -462,13 +459,13 @@ Now let us determine the relationship between 7.2.86 and 7.1.28. If we apply 7.2
 
 By my interpretation of 1.4.2, we apply the right-most rule 7.1.28 and get: asmad + am. Here  again, two rules are applicable: 
 
-asma d + am 
+(7.2.94→) asma  (7.2.90→) d +am 
 
- 7.2.94 7.2.90 
 
-7.2.90 śeṣe lopaḥ: the final sounds of yuṣmad and asmad are replaced with LOPA when  followed by case affixes not listed in the preceding rules (7.2.86-89).53 
 
-If we apply 7.2.94 at this step, 7.2.90 will still be applicable at the following step. If we apply  7.2.90 at this step, 7.2.94 will be applicable at the following step. This is a case of no blocking,  and thus of Type 2b (DOI non-conflict). By my interpretation of 1.4.2, we apply the RHS rule 7.2.90 and get asma + am. Lastly, we apply 7.2.94 and get aha + am, to which we apply 6.1.97  ato guṇe.54 This gives the correct form: aham. 
+7.2.90 śeṣe lopaḥ: the final sounds of yuṣmad and asmad are replaced with LOPA when  followed by case affixes not listed in the preceding rules (7.2.86-89).[^53] 
+
+If we apply 7.2.94 at this step, 7.2.90 will still be applicable at the following step. If we apply  7.2.90 at this step, 7.2.94 will be applicable at the following step. This is a case of no blocking,  and thus of Type 2b (DOI non-conflict). By my interpretation of 1.4.2, we apply the RHS rule 7.2.90 and get asma + am. Lastly, we apply 7.2.94 and get aha + am, to which we apply 6.1.97  ato guṇe.[^54] This gives the correct form: aham. 
 
 As stated in a footnote on 7.2.94, the traditional interpretation of 7.2.94 is different from mine.  Thus, its derivational process is different and slightly longer. We will not delve into it here. I  will simply say that the tradition would have resolved the DOI conflict in this example using  the nitya tool. 
 
@@ -476,7 +473,7 @@ As stated in a footnote on 7.2.94, the traditional interpretation of 7.2.94 is d
 
 [^54]: An a which is not at the end of a pada and the guṇa vowel following it are both replaced with the  latter.
 
-66 
+[[66]] 
 
 This brings us to the end of examples of DOI in this chapter. We will, of course, study more  examples of DOI conflict in later chapters. Before we go to the next section, here I want to  emphasize that I have discussed blocking and conflict in these derivations only because post Pāṇinian scholarship is interested in these topics. In other words, I have attempted to show that  examples of conflict can be solved by my interpretation of 1.4.2.  
 
