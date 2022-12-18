@@ -309,7 +309,7 @@ vana + (7.1.23, 7.1.24 →) sU
 
 7.1.23 
 
--a (neuter) + sU / am 
+- a (neuter) + sU / am 
 - any other sound (neuter) + sU / am 
 
 7.1.24 
@@ -325,7 +325,7 @@ On 7.1.24, the Kāśikā says that 7.1.24 is an apavāda of, and thus wins again
 ## yuṣmabhyam
 (7) yuṣmad + bhyas – ‘you’ (any gender), ablative plural 
 
-yuṣmad + (7.1.30 7.1.31→)bhyas 
+yuṣmad + (7.1.30, 7.1.31→)bhyas 
 
 7.1.30 bhyaso bhyam (yuṣmadasmadbhyām): the affix bhyas which occurs after the bases  yuṣmad and asmad is replaced with bhyam. 
 

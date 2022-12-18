@@ -489,3 +489,6 @@ As stated in a footnote on 7.2.94, the traditional interpretation of 7.2.94 is d
 This brings us to the end of examples of DOI in this chapter. We will, of course, study more  examples of DOI conflict in later chapters. Before we go to the next section, here I want to  emphasize that I have discussed blocking and conflict in these derivations only because post Pāṇinian scholarship is interested in these topics. In other words, I have attempted to show that  examples of conflict can be solved by my interpretation of 1.4.2.  
 
 Note that, if we had simply avoided talking about blocking and conflict, we would have  completed these derivations almost effortlessly, by simply picking the right-most rule (cf. my  interpretation of 1.4.2) in every case of DOI, irrespective of whether or not the rules in question are involved in any kind of conflict. 
+
+
+
