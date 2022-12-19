@@ -41,15 +41,15 @@ We know that Pāṇini was familiar with the form trayāṇām because he uses i
 
 In the course of time, as the language underwent further change, trīṇām got fully replaced with  trayāṇām.4 And to accommodate this change, it is possible that a later scholar added the sūtra 7.1.53 tres trayaḥ to the Aṣṭādhyāyī. This scholar may not have known the actual meaning of  1.4.2 vipratiṣedhe paraṁ kāryam, which is perhaps why he did not realize that this would create  a problem. 
 
-In fact, we do find a very similar and related example of language change reflected in Pāṇini’s own rules. Consider the genitive plural of tri (feminine): tri + ām. As shown in example 2 of  section 2.3, after performing some operations, we get tisr̥ + nām. Here, 6.4.3 nāmi, which  teaches the elongation of r̥, is not applicable, thanks to 6.4.4 na tisr̥catasr̥, which forbids us  from applying 6.4.3 vis-à-vis tisr̥ and catasr̥. However, the next rule 6.4.5 chandasy ubhayathā teaches that, when constructing the Vedic form, one can optionally elongate r̥ in the genitive  
+In fact, we do find a very similar and related example of language change reflected in Pāṇini’s own rules. Consider the genitive plural of tri (feminine): tri + ām. As shown in example 2 of  section 2.3, after performing some operations, we get tisr̥ + nām. Here, 6.4.3 nāmi, which  teaches the elongation of r̥, is not applicable, thanks to 6.4.4 na tisr̥catasr̥, which forbids us  from applying 6.4.3 vis-à-vis tisr̥ and catasr̥. 
 
 [^3]: This example has been given in the Kāśikā on 7.1.53. Another example is: mahi trīṇām avo’stu  dyukṣam mitrasyāryamṇaḥ (Maṇḍala 10, Sūkta 185, R̥k 1). 
 
 [^4]: Observe its similarity with trayaḥ, the nominative plural form of tri (masculine). It is likely that the  presence of traya here rubbed off on the genitive plural.
 
-84 
+[[84]] 
 
-plural of tri (feminine). This gives us two acceptable Vedic forms: tisr̥ṇām and tisr̥̄ṇām. It is  likely that when Pāṇini composed the Aṣṭādhyāyī, the older version, tisr̥̄ṇām was becoming  obsolete and simultaneously making way for the newer version tisr̥ṇām.  
+However, the next rule 6.4.5 chandasy ubhayathā teaches that, when constructing the Vedic form, one can optionally elongate r̥ in the genitive plural of tri (feminine). This gives us two acceptable Vedic forms: tisr̥ṇām and tisr̥̄ṇām. It is  likely that when Pāṇini composed the Aṣṭādhyāyī, the older version, tisr̥̄ṇām was becoming  obsolete and simultaneously making way for the newer version tisr̥ṇām.  
 
 Similarly, it seems plausible that, in order to register the change from trīṇām to trayāṇām in  the Aṣṭādhyāyī, or put differently, to update the Aṣṭādhyāyī, someone added the sūtra 7.1.53  tres trayaḥ to it. 7.1.53 tres trayaḥ must have been placed after 7.1.52 āmi sarvanāmnaḥ suṭ to  continue āmi into 7.1.53 by anuvr̥tti. But observe how oddly located it is – a substitution rule  in the midst of augment insertion rules. 
 
@@ -133,13 +133,10 @@ To conclude, as stated before, it is possible that when Pāṇini composed the A
 
 However, I admit it is odd that Pāṇini would use one form (trayāṇām) in his sūtra but would  teach the derivation of the other acceptable form (trīṇām), therefore this matter will require  further consideration.  
 
+## bhav
 (2) bhavatU + sU – ‘Sir’ (masculine), nominative singular 
 
-bhav a t + sU 
-
-  
-
- 6.4.14 7.1.70 6.1.68 
+bhav (6.4.14→) a (7.1.70→) t + (6.1.68→) sU 
 
 6.4.14 atvasantasya cādhātoḥ: the vowel, which is the penultimate sound of a base which ends  in atU or as but is not a verbal root, is replaced with its long counterpart when the non sambuddhi ending sU follows.  
 
@@ -147,29 +144,31 @@ bhav a t + sU
 
 6.1.68 halṅyābbhyo dīrghāt sutisyapr̥ktaṁ hal: there is elision by LOPA of the finite verb  affixes ti and si, when they consist of a single sound and follow a form which ends in a  consonant, and of the nominative singular case affix sU, when it follows a form which ends in  a consonant or the long final vowel of feminine affixes Ṅī or āP.
 
-86 
+[[86]] 
 
-If we apply 6.1.68 at this step, both 6.4.14 and 7.1.70 will potentially be applicable at the  following step, thanks to 1.1.62 pratyayalope pratyayalakṣaṇam5. Similarly, even after 6.4.14  and 7.1.70 have been applied, the stem will still end in the consonant t, so 6.1.68 will be  applicable at the following step. So, 6.1.68 neither blocks nor is blocked by the other two rules,  and thus shares a Type 2b (DOI non-conflict) relationship with them.  
+If we apply 6.1.68 at this step, both 6.4.14 and 7.1.70 will potentially be applicable at the  following step, thanks to 1.1.62 pratyayalope pratyayalakṣaṇam[^5]. Similarly, even after 6.4.14  and 7.1.70 have been applied, the stem will still end in the consonant t, so 6.1.68 will be  applicable at the following step. So, 6.1.68 neither blocks nor is blocked by the other two rules,  and thus shares a Type 2b (DOI non-conflict) relationship with them.  
 
 Now let us look at the relationship between 6.4.14 and 7.1.70. If we apply 6.4.14 at this step,  then 7.1.70 which introduces nUM after the last vowel, will still be applicable at the following  step. But if we apply 7.1.70 at this step, then a will no longer be the penultimate sound and so  6.4.14 will not be applicable at the following step. This is a case of unidirectional blocking,  and is classified as Type 2a (DOI conflict).  
 
 By my interpretation of 1.4.2, we apply the right-most rule 6.1.68 and get: bhavat. At this step,  thanks to 1.1.62 pratyayalope pratyayalakṣaṇam, two rules are applicable: 
 
-bhav a t 
+bhav  + (6.4.14→)a + (7.1.70→)t 
 
- 6.4.14 7.1.70 
-
-As seen above, there is a Type 2a (DOI conflict) relationship between them. By my  interpretation of 1.4.2, the RHS rule 7.1.70 wins and we get bhavant. Here, 6.4.14 is not  applicable. We apply 8.2.23 saṁyogāntasya lopaḥ which teaches LOPA deletion of the second  consonant of a pada-final conjunct. This gives us *bhavan which is not the correct answer.6 
+As seen above, there is a Type 2a (DOI conflict) relationship between them. By my  interpretation of 1.4.2, the RHS rule 7.1.70 wins and we get bhavant. Here, 6.4.14 is not  applicable. We apply 8.2.23 saṁyogāntasya lopaḥ which teaches LOPA deletion of the second  consonant of a pada-final conjunct. This gives us *bhavan which is not the correct answer.[^6] 
 
 To get the correct answer, we have to apply 6.4.14 first, and then apply 7.1.70: bhavat + sU 🡪 bhavat (6.1.68) 🡪 bhavāt (6.4.14) 🡪 bhavānt (7.1.70) 🡪 bhavān (8.2.23). 
 
-The tradition too takes cognizance of this problem, because even the application of its own  conflict resolution tools gives the wrong form. 7.1.70 is both nitya (the rule which  unidirectionally blocks the other rule) and para (the rule which comes after the other rule in  the serial order of the Aṣṭādhyāyī) with respect to 6.4.14. And yet 6.4.14 has to prevail for us  to get the correct answer. On 6.4.14 the Kāśikā says: atra kr̥te dīrghe numāgamaḥ kartavyaḥ.  yadi hi paratvān nityatvāc ca nuṁ syāt, dīrghasya nimittam atūpadhā vihanyeta ‘Here, the  
+The tradition too takes cognizance of this problem, because even the application of its own  conflict resolution tools gives the wrong form. 7.1.70 is both nitya (the rule which  unidirectionally blocks the other rule) and para (the rule which comes after the other rule in  the serial order of the Aṣṭādhyāyī) with respect to 6.4.14. And yet 6.4.14 has to prevail for us  to get the correct answer. 
 
 [^5]: An operation conditioned by an affix applies even if the affix has been replaced with LOPA. 6 Note that we cannot replace the penultimate a of bhavan at this stage with ā by 6.4.14 because 6.4.14  treats 8.2.23 as asiddha and thus cannot see that t has been deleted by 8.2.23. So 6.4.14 still sees the  form as bhavant, to which it cannot apply.
 
 87 
 
-augment nUM should be inserted [only] after lengthening [the vowel]. If nUM wins, because  it is para and nitya, then the cause of lengthening [namely] the status of a as the penultimate  sound is finished.’ 
+On 6.4.14 the Kāśikā says: 
+
+> atra kr̥te dīrghe numāgamaḥ kartavyaḥ.  yadi hi paratvān nityatvāc ca nuṁ syāt, dīrghasya nimittam atūpadhā vihanyeta 
+> 
+> ‘Here, the  augment nUM should be inserted [only] after lengthening [the vowel]. If nUM wins, because  it is para and nitya, then the cause of lengthening [namely] the status of a as the penultimate  sound is finished.’ 
 
 Returning to the topic at hand, this example too seems to invalidate my interpretation of 1.4.2. I have not found a fully satisfactory way to overcome this problem. Nonetheless, I present here,  which I think might explain why this happens. Let us write down the group of rules to which  6.4.14 belongs, along with those words (in box brackets) which are continued by anuvr̥tti. 
 
@@ -221,37 +220,34 @@ By my interpretation of 1.4.2, we apply the RHS rule 6.1.68 and get bhavat. Now 
 
 Admittedly, this is a weak explanation because, in order to facilitate the anuvr̥tti of saṁyogasya in 1.4.14, I had to split the compound atvasantasya into two, the at part, which is compatible  with saṁyogasya, and the vas part, which is not. Despite the helpful work done by Joshi and 
 
-90Bhate (1983, 1984) on the subject of anuvr̥tti, this is still a hitherto poorly understood topic.  As of now, we do not have sufficient evidence suggesting that it is acceptable to split a samāsa in this manner to accommodate items continued by anuvr̥tti. Further research needs to be done  on this topic. 
+90
+
+Bhate (1983, 1984) on the subject of anuvr̥tti, this is still a hitherto poorly understood topic.  As of now, we do not have sufficient evidence suggesting that it is acceptable to split a samāsa in this manner to accommodate items continued by anuvr̥tti. Further research needs to be done  on this topic. 
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
 ## द्यौः
-दिव् + सु  इत्यवस्थायां
+दिव् + सुँ  इत्यवस्थायां
 
-- दिव औत् [सौ] ( 7. 1.84 ) इति सूत्रेण सु-प्रत्ययं निमित्तीकृत्य वकारस्य औकारादेशः
-- हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल् [लोपः] ... ( 6 . 1.68 ) इति सूत्रेण हलन्तं अङ्गं निमित्तीकृत्य  सुप्रत्पयस्य लोपः ।
+- दिव औत् [सौ] ( 7.1.84 ) इति सूत्रेण सु-प्रत्ययं निमित्तीकृत्य वकारस्य औकारादेशः
+- हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल् [लोपः] ... ( 6 . 1.68 ) इति सूत्रेण हलन्तं अङ्गं निमित्तीकृत्य सुप्रत्पयस्य लोपः ।
 
 "विप्रतिषेधे परं कार्यम्" इत्यनेन
 
-दिव् + सु → (हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल् [लोपः]) दिव् + स्  
-
-### प्रत्ययलोपे प्रत्ययलक्षणम्?
-(प्रत्ययलोपे प्रत्ययलक्षणम्, दिव औत् [सौ]) द्यौ + स् → द्यौः
-
-अत्र प्रत्ययलोपो नाम प्रत्ययांशस्य लोप इत्य् अर्थो ग्राह्यः स्यात्। किन्तु
-
-> प्रत्यय इति वर्तमाने पुनः प्रत्ययग्रहणं किम् ? कृत्स्नप्रत्ययलोपे यथा स्यात् । इह मा भूत् - आघ्नीय । सङ्ग्मीय । हनिगम्योर्लिङात्मनेपदे लिङः सलोपोऽनन्त्यस्य ( ७.२.७९ ) इति सीयुट्सकारलोपः प्रत्ययैकदेशलोपः, तत्र प्रत्ययलक्षणेन झलि इत्यनुनासिकलोपो न भवति ( ६.४.३७ ) ।  
-> इति काशिका। 
+( दिव औत् [सौ]→ ) दिव् + (हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल् [लोपः]→) सुँ → ( दिव औत् [सौ], प्रत्ययलोपे प्रत्ययलक्षणम् →) दिव् → द्यौ । तद् अनिष्टम्।
 
 ### साम्प्रदायिकपद्धतिः
 स्वीकुरुते तदा क्लेशः नास्ति । यतोहि दिव औत् इति परं सूत्रं भवति नित्यत्वं च तस्य अस्ति अतः तस्यैव प्राबल्यत्वात् प्रथमं प्रवृत्तिः ।  
 दिव् सु → दि औ स् → द्यौः
 
 ## पन्था
-(7-1-85 पथिमथ्यृभुक्षामात्‌ [सौ आत्] → ) पथिन् + (६.१.६८ हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल् [लोपः] →) सुँ   
+(7-1-85 पथिमथ्यृभुक्षामात्‌ [सौ आत्] → ) पथिन् + (६.१.६८ हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल् [लोपः] →) सुँ → (7-1-85 पथिमथ्यृभुक्षामात्‌ [सौ आत्], प्रत्ययलोपे प्रत्ययलक्षणम् → ) पथिन् → (7-1-86 इतोऽत्‌ सर्वनामस्थाने, प्रत्ययलोपे प्रत्ययलक्षणम्→) पथि + आ → ( 7-1-87 थो न्थः, प्रत्ययलोपे प्रत्ययलक्षणम् →) पन्थ + आ → पन्था। तद् अनिष्टम्। 
 
-"विप्रतिषेधे परं कार्यम्" इत्यनेन  
-→ पथिन् स्
+## अहम्
+(७.२.९४ त्वाहौ सौ → ) अस्मद् + (७.१.२८ ङे प्रथमयोर् अम् [युष्मदस्मदोः], ६.१.६८ हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल् [लोपः] →)  सुँ  
+
+"विप्रतिषेधे परं कार्यम्" इत्यनेन परम् आदौ कार्यम्।  
+ततः सूक्ष्मतर(specific)-नियम-ग्रहणात् → (७.२.९४ त्वाहौ सौ, १.१.५६ स्थानिवदादेशोऽनल्विधौ → ) अस्मद् + अम् → अह + अम्
 
 ## सः
 
@@ -260,12 +256,5 @@ Admittedly, this is a weak explanation because, in order to facilitate the anuvr
 → तद् स्
 → सस् → सः
 
-अत्र तु समस्या नास्ति। 
-
-## अहम्
-(७.२.९४ त्वाहौ सौ → ) अस्मद् + (७.१.२८ ङे प्रथमयोर् अम् [युष्मदस्मदोः], ६.१.६८ हल्ङ्याब्भ्यो दीर्घात् सुतिस्यपृक्तं हल् [लोपः] →)  सुँ  
-
-"विप्रतिषेधे परं कार्यम्" इत्यनेन परम् आदौ कार्यम्।  
-ततः सूक्ष्मतर(specific)-नियम-ग्रहणात् → अस्मद् + अम् 
-
+अत्र तु समस्या नास्ति।
 </details>
