@@ -9,19 +9,20 @@ Generally speaking, as compared to the inflection of simple nominal bases, which
 
 We will see that the tradition manages to avoid dealing with conflict in the first four examples.  However, it has to rely on certain external (post-Pāṇinian) metarules to correctly derive these four forms. I will show that my solution for DOI (my interpretation of 1.4.2) can help us  perform these derivations without relying on such external metarules. In the following four examples, we do find cases of conflict. Here too, I use my solution for DOI (cf. my  interpretation of 1.4.2) to get the correct answer and also mention the traditional solution where  it is known. 
 
-(1) Consider the genitive singular form of prati-ac11 ‘turned towards, facing’: pratīcas. By  2.2.18 kugatiprādayaḥ, prati-ac is a tatpuruṣa compound made of prati, which takes the  technical designation gati by 1.4.60 gatiś ca and ac, which is derived as follows: añcU + KvIN 
+## pratīcas
+(1) Consider the genitive singular form of prati-ac[^11] ‘turned towards, facing’: pratīcas. By  2.2.18 kugatiprādayaḥ, prati-ac is a tatpuruṣa compound made of prati, which takes the  technical designation gati by 1.4.60 gatiś ca and ac, which is derived as follows: añcU + KvIN 
 
 [^11]: I use the ‘+’ sign between a base and an affix. Since ac is not an affix with respect to prati, I put a ‘– ’ instead of a ‘+’ between prati and ac.
 
 91 
 
-(3.2.59 r̥tvigdadhr̥ksragdiguṣṇigañcuyujikruñcāṁ ca12) 🡪 ac + v (6.4.24 aniditāṁ hala  upadhāyāḥ kṅiti13) 🡪 ac (6.1.67 ver apr̥ktasya14).  
+(3.2.59 r̥tvigdadhr̥ksragdiguṣṇigañcuyujikruñcāṁ ca[^12]) 🡪 ac + v (6.4.24 aniditāṁ hala  upadhāyāḥ kṅiti[^13]) 🡪 ac (6.1.67 ver apr̥ktasya[^14]).  
 
-The Siddhāntakaumudī (SK) completes all the operations within the base before adding the  genitive singular affix Ṅas15: prati-ac (2.4.71 supo dhātuprātipadikayoḥ) 🡪 pratyac (6.1.77  iko yaṇ aci). If the derivation is stopped at the addition of the genitive affix Ṅas to pratyac, that  does not give the correct answer: pratyac + Ṅas 🡪 *pratyacaḥ. 
+The Siddhāntakaumudī (SK) completes all the operations within the base before adding the  genitive singular affix Ṅas[^15]: prati-ac (2.4.71 supo dhātuprātipadikayoḥ) 🡪 pratyac (6.1.77  iko yaṇ aci). If the derivation is stopped at the addition of the genitive affix Ṅas to pratyac, that  does not give the correct answer: pratyac + Ṅas 🡪 *pratyacaḥ. 
 
 The tradition has found a way to work around this. In pratyac + Ṅas, pratyac takes the  designation bha by 1.4.18 because it is followed by a non-sarvanāmasthāna affix beginning  with a vowel. Then, 6.4.138 acaḥ teaches that the a of verbal base ac (from añc), when  designated as bha, is replaced with LOPA: pratyc + Ṅas. To get the correct form, it takes  recourse to the metarule nimittābhāve naimittikasyāpy abhāvaḥ16, which teaches that when the  cause of an operation is lost, the impact or effect of that operation too is lost. In other words, if  X causes A to change to B, upon the deletion of X, B becomes A again. Thanks to this  paribhāṣā, since the cause of the operation 6.1.77 iko yaṇ aci, namely a, has been deleted, the  preceding y will go back to its original form i. Thus, we get pratic + Ṅas. At this step the  tradition applies 6.3.138 cau, which teaches that, the final aṆ of the preceding pada in a  compound is replaced with its dīrgha equivalent when c (from añc) follows. This gives the  correct form: pratīcaḥ.  
 
-Another Pāṇinian paribhāṣā, which makes this very argument in terms of antaraṅga and  bahiraṅga operations, is cited by the Siddhāntakaumudī17 when discussing this derivation:  akr̥tavyūhāḥ pāṇinīyāḥ ‘The Pāṇinīyas do not insist that a rule should take effect if its causes  disappear’. Nāgeśa (Pbh 56, Paribhāṣenduśekhara), while discussing this paribhāṣā in  antaraṅga and bahiraṅga terms, says: bahiraṅgeṇāntaraṅgasya nimittavināśe paścāt  
+Another Pāṇinian paribhāṣā, which makes this very argument in terms of antaraṅga and  bahiraṅga operations, is cited by the Siddhāntakaumudī[^17] when discussing this derivation:  akr̥tavyūhāḥ pāṇinīyāḥ ‘The Pāṇinīyas do not insist that a rule should take effect if its causes  disappear’. Nāgeśa (Pbh 56, Paribhāṣenduśekhara), while discussing this paribhāṣā in  antaraṅga and bahiraṅga terms, says: bahiraṅgeṇāntaraṅgasya nimittavināśe paścāt  
 
 [^12]: Among other things, this rule teaches that KvIN occurs after the root añcU ‘to bend’ when this root  co-occurs with a pada ending in sUP. 
 
@@ -39,17 +40,14 @@ sambhāvite antaraṅgaṁ neti yāvat ‘An antaraṅga operation (here, 6.1.77
 
 These two paribhāṣās require one to go a step back into the derivation and undo a previous  operation. This runs contrary to the idea that derivations should move in one direction, and that  each operation should take us one step forward (rather than backward) into the derivation.  Besides, if Pāṇini wanted us to use these metarules, he would have taught them explicitly in  the Aṣṭādhyāyī. For these reasons, I do not accept these two paribhāṣās. Now I will derive this  form using my method. Two rules are simultaneously applicable to prati - ac: 
 
- prati - ac 
+(6.1.77→) prati - ac (4.1.2→)
 
- 6.1.77 4.1.2 
 
 4.1.2 svaujasamauṭchaṣṭābhyāmbhisṅebhyāmbhyasṅasibhyāmbhyasṅasosāmṅyossup18 6.1.77 iko yaṇ aci: iK (i, u, r̥, l̥) is replaced with yaṆ (y, v, r, l) when aC (vowel) follows. 
 
 This is a case of DOI. By my interpretation of 1.4.2, we apply the RHS rule 4.1.2 and get prati  - ac + Ṅas. Here two rules are applicable: 
 
- prati - ac + Ṅas 
-
- 6.1.77 6.4.138  
+(6.1.77→) prati - (6.4.138→) ac + Ṅas 
 
 6.1.77 iko yaṇ aci: same as above. 
 
@@ -61,6 +59,7 @@ This is a case of DOI. By my interpretation of 1.4.2, the RHS rule 6.4.138 wins,
 
 93 
 
+## seduṣaḥ
 (2) Let us derive the genitive singular of the perfect participle of sad ‘to sit’, namely sad + vas ‘one who had sat’. The Siddhāntakaumudī attaches the declensional affix Ṅas to the base only  after the base is fully ready.19 The base is derived by replacing LIṬ with KvasU: sad + LIṬ 🡪 sad + KvasU (3.2.108 bhāṣāyāṁ sadavasaśruvaḥ20). Now, (i) by 6.1.8 liṭi dhātor  anabhyāsasya, (which teaches that the un-reduplicated root undergoes reduplication when  followed by LIṬ), (ii) by 6.1.1 ekāco dve prathamasya (which teaches that the first syllable of  the root undergoes reduplication) and (iii) by 1.1.56 sthānivad ādeśo’nalvidhau (which teaches  that the substitute should be treated like the substituendum except when an operation relative  to the original sound is to be performed), we get sadsad + vas. By 7.4.60 halādiḥ śeṣaḥ, which  teaches that all but the first consonant of the abhyāsa (first half of sadsad) are deleted, we get  sasad + vas. Now, by 6.4.120 ata ekahalmadhye’nādeśāder liṭi21, we get sed + vas. At this  point, 7.2.67 vasv ekājādghasām is applicable, which, according to the tradition22, teaches that  the augment iṬ should be attached to vasU when it occurs after a root which, after doubling,  consists of a single syllable, or a root ending in ā, or ghas ‘to eat’. By applying this rule, we  get the base sedivas, but, if at the next step we add the genitive singular affix Ṅas, we get  *sedivasaḥ, which is the incorrect answer. 
 
 Here, again, the tradition uses the two paribhāṣās discussed above to circumvent this problem.  In sedivas + Ṅas, sedivas takes the designation bha because it is followed by a non sarvanāmasthāna affix beginning with a vowel (cf. 1.4.18 yaci bham). To this, the tradition  applies 6.4.131 vasoḥ samprasāraṇam, which teaches that the semivowel of the affix vasU in  an item termed bha is replaced with the corresponding vowel u. This gives sediuas, and the  augment i in sedivas, which is attached to vas by 7.2.67 vasv ekājādghasām, is lost, because its  cause v no longer exists (cf. akr̥tavyūhāḥ pāṇinīyāḥ and nimittāpāye naimittikasyāpy apāyaḥ).  Then, the a of seduas is deleted by 6.1.108 samprasāraṇāc ca which teaches that both the  
@@ -147,6 +146,7 @@ sad + uas + Ṅas
 
 This is a case of DOI. By my interpretation of 1.4.2, the RHS rule 6.1.108 wins and we get sad  + us + Ṅas. Thereafter, the derivation proceeds as follows: sadsad + us + Ṅas (6.1.8 liṭi dhātor  anabhyāsasya) 🡪 seduṣaḥ (6.4.120 ata ekahalmadhye’nādeśāder liṭi), which is the correct  form. 
 
+## gargāḥ
 (3) Let us derive the nominative plural of ‘descendant of garga’, first through the traditional  method and then through mine.  
 
 The tradition27 adds the declensional affix only after the base is ready. As per the traditional  method, we first add the affix yaÑ to garga + Ṅas by 4.1.105 gargādibhyo yañ28; then by 2.4.71  supo dhātuprātipadikayoḥ29, Ṅas is deleted, which gives us garga + yaÑ. At this juncture,  7.2.117 taddhiteṣv acām ādeḥ prescribes the vr̥ddhi substitution of the first vowel of garga  given that the following affix is marked with Ñ. Thus, we get gārga + yaÑ. The a of gārga is  deleted by 6.4.148 yasyeti ca, which teaches that the final i or a of a bha item is deleted when  it is followed by ī or a taddhita affix. Thus, we get our base gārgya. 
@@ -191,6 +191,7 @@ This is a case of DOI. By my interpretation of 1.4.2, we apply the right most ru
 
 Note that, at this point, 7.2.117 and 6.4.148 no longer have a chance to apply. So, unlike the  traditional solution, mine does not require us to go backwards to undo the application of rules  like 7.2.117 and 6.4.148. Therefore, my solution is more acceptable than the one provided by  the tradition.  
 
+## pañcālāḥ
 (4) Now let us derive the nominative plural of ‘a kṣatriya descendent of the country of the  pañcālas’ first through the traditional method, and then through mine. The tradition first  derives the base and then adds the declensional affix at the end. Consider the following rule: 
 
 4.1.168 janapadaśabdāt kṣatriyād añ: the taddhita affix aÑ is added to a syntactically related  base ending in the genitive which stands for both a janapada and its class of kṣatriyas, in order  to denote the sense of apatya ‘descendent’. 
@@ -231,6 +232,7 @@ This is a case of DOI. By my interpretation of 1.4.2, the right-most rule 4.1.2 
 
 This is a case of DOI. By my interpretation of 1.4.2, the right-most rule 2.4.62 wins and we  get: pañcāla + Jas 🡪 pañcālāḥ (6.1.102 prathamayoḥ pūrvasavarṇaḥ) which is the correct  form. As in the previous example, at this point 7.2.117 and 6.4.148 can no longer apply. This  shows that my solution is better than the traditional one.  
 
+## gārgīyāḥ
 (5) Now let us derive the nominative plural of ‘the student of gārgya’, or in other words, the  student of the descendent of garga’. To derive this form, cha is added to [gārgya + Ṅas] by  the following rule:  
 
 4.2.114 vr̥ddhāt chaḥ: affix cha is added to a syntactically related item termed vr̥ddha (cf.  1.1.73 vr̥ddhir yasyācām ādis tad vr̥ddham) in the remaining senses.
@@ -277,6 +279,7 @@ This gives us the correct form: gārgīyāḥ.
 
 Even though Patañjali does discuss this derivation in his commentary on vt. 234 on 4.1.89  gotre’lug aci, he does not discuss this conflict.35 
 
+## puṣyaḥ
 (6) Let us now derive the nominative singular of puṣya ‘a moon (which is) in conjunction with  the constellation Puṣya’ of the sentence adya puṣyaḥ ‘today the moon is in conjunction with  constellation puṣya. We start by adding the affix aṆ to puṣya + Ṭā by 4.2.3: 
 
 4.2.3 nakṣatreṇa yuktaḥ kālaḥ: the taddhita affix aṆ is introduced after a nominal form which  signifies a particular constellation (nakṣatra) and ends in tr̥tīyā ‘instrumental’, to denote the  time when the moon is in conjunction with that constellation. 
@@ -319,6 +322,7 @@ The Bhaimī commentary on the Laghusiddhāntakaumudī does not mention this conf
 
 103 
 
+## pañcamaḥ
 (7) Let us now derive the nominative singular form of ‘fifth’. We add ḌaṬ to pañcan + Ṅas  by the following rule: 
 
 5.2.48 tasya pūraṇe ḍaṭ: the taddhita affix ḌaṬ occurs to denote the sense of pūraṇa ‘that by  which something is brought to completion, ordinal number’ after a syntactically related nominal stem which signifies number and ends in ṣaṣṭhī ‘genitive’. 
@@ -355,6 +359,7 @@ This is a case of DOI. By my interpretation of 1.4.2, we apply the RHS rule 5.2.
 
 On 5.2.49, Nyāsa says that 5.2.49 is antaraṅga with respect to 6.4.143 and thus wins.  
 
+## kālimmanyā
 (8) Let us now look at the derivation of kālimmanyā ‘a woman who considers herself to be  Kālī’. This is the feminine version of the upapada compound made of the two padas kālī and  manya. manya is derived by adding KHaŚ to the verbal root man ‘to consider’ by the following  rule:  
 
 3.2.83 ātmamāne khaś ca: affixes KHaŚ and ṆinI are added to the verbal root man when the  root co-occurs with a pada which ends in a sUP and the derivate denotes ātmamāna ‘thinking  about one’s own self’.  
@@ -365,7 +370,7 @@ Now, because KHaŚ is marked with Ś, it is a sārvadhātuka affix by 3.4.113 ti
 
 105 
 
-Now let us build the compound: [kālī Ṅas manya]38. By 2.4.71 supo dhātuprātipadikayoḥ, Ṅas  is deleted. Here two rules are simultaneously applicable: 
+Now let us build the compound: [kālī Ṅas manya][^38]. By 2.4.71 supo dhātuprātipadikayoḥ, Ṅas  is deleted. Here two rules are simultaneously applicable: 
 
  kāl ī - manya 
 
