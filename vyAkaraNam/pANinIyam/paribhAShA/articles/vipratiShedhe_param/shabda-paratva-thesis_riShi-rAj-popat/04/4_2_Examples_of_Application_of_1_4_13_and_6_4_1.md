@@ -231,10 +231,9 @@ In order to overcome this problem, the Kāśikā, on 6.4.72 āḍ ajādīnām, s
 
 [^22]: Iha aijyata, aupyata, auhyata iti laṅi kr̥te lāvasthāyām aḍāgamād antaraṅgatvāl lādeśaḥ kriyate,  tatra kr̥te vikaraṇo nityatvād aḍāgamaṁ bādhate ‘Here [with reference to the derivation of the forms] aijyata, aupyata, auhyata, after the addition of the affix LAṄ, in that state of the lakāra, by  antaraṅgatva, the substitution of the lakāra is done [rather than] the addition of the augment aṬ, and  thereafter, by nityatva, the [addition of] vikaraṇa defeats [the insertion of] augment aṬ.’
 
-## Conclusion
-
 We may conclude that the tradition comes up with a tailored solution to this problem. In  contrast with this, my method eliminates the need to rely on post-Pāṇinian tools and  paribhāṣās. My respective interpretations of 1.4.13 and 6.4.1 ensure that the addition of the  augment, which is taught in the aṅgādhikāra, takes place only after samprasāraṇa, which is  taught outside the aṅgādhikāra. As a result of this, 6.4.71 luṅlaṅlr̥ṅṣv aḍ udāttaḥ does not  become applicable until 6.4.72 āḍ ajādīnām, which is its exception, also becomes applicable.  6.4.72 wins, thereby giving the correct form aupyata. 
 
+## Conclusion
 In sum, these four examples prove that my interpretations of 1.4.13 and 6.4.1 respectively are  correct. In all four derivations, the tradition applies rules in a haphazard order, as a result of  which it often gets the wrong form at the end of the derivation. It is forced to come up with  individual solutions for each of these problems. 
 
 [[120]]

@@ -9,17 +9,19 @@ In each example, I will prove the existence of DOI conflict and apply my interpr
 
 Note that almost all cases of DOI conflict in derivations of finite verbs and primary derivatives  involve unidirectional, and not mutual blocking. We will investigate this further later in this  chapter. 
 
-Lastly, also note that kr̥danta forms are prātipadikas by 1.2.46 kr̥ttaddhitasamāsāś ca and thus  they can take suP affixes by 4.1.1 ṅyāpprātipadikāt. However, in the examples I have discussed  in this section, I have not added suP affixes to kr̥danta forms. This is purely to avoid repetition and redundancy. This does not affect the derivations discussed in this chapter.23 For example,  the first derivation śvi + Ktvā should actually begin in the following manner: śvi + Ktvā 🡪 śvi  + Ktvā + sU (4.1.2 su-au-jas…)🡪 śvi + Ktvā (1.1.40 ktvātosunkasunaḥ, 2.4.82 avyayād  āpsupaḥ). Here onwards, the derivation proceeds as follows: 
+Lastly, also note that kr̥danta forms are prātipadikas by 1.2.46 kr̥ttaddhitasamāsāś ca and thus  they can take suP affixes by 4.1.1 ṅyāpprātipadikāt. However, in the examples I have discussed  in this section, I have not added suP affixes to kr̥danta forms. This is purely to avoid repetition and redundancy. This does not affect the derivations discussed in this chapter.[^23] For example,  the first derivation śvi + Ktvā should actually begin in the following manner: śvi + Ktvā 🡪 śvi  + Ktvā + sU (4.1.2 su-au-jas…)🡪 śvi + Ktvā (1.1.40 ktvātosunkasunaḥ, 2.4.82 avyayād  āpsupaḥ). 
 
 [^23]: I have included the kr̥danta derivation sad + KvasU + Ṅas in the previous chapter because there, nominal inflection plays a crucial role in helping us obtain the correct form. 
 
-121 
+[[121]] 
 
+Here onwards, the derivation proceeds as follows:
+
+## śvayitvā
 1. śvi + Ktvā – ‘to swell’, absolutive 
 
-śvi + Ktvā 
+(6.1.15>>) śvi + (7.2.35>>) Ktvā 
 
- 6.1.15 7.2.35 
 
 6.1.15 vacisvapiyajādīnām kiti: roots vac ‘to speak’, svap ‘to sleep’, and those headed by yaj ‘to perform sacrifice’ undergo samprasāraṇa when an affix marked with K follows. 
 
@@ -27,23 +29,20 @@ Lastly, also note that kr̥danta forms are prātipadikas by 1.2.46 kr̥ttaddhita
 
 If iṬ is attached to Ktvā by 7.2.35, then according to 1.2.18 na ktvā seṭ (which teaches that a  Ktvā which has taken the augment iṬ is not treated as marked with K), itvā will no longer be  treated as marked with K. And so, 6.1.15, which applies to certain roots which are followed by  a K-marked affix, will not be applicable at the following step. So, 7.2.35 blocks 6.1.15. On the  other hand, 7.2.35 will still be applicable after the application of 6.1.15. So, 6.1.15 does not  block 7.2.35. This is a case of unidirectional blocking and thus of DOI conflict. 
 
-By my interpretation of 1.4.2, the RHS rule 7.2.35 wins and we get: śvi + itvā. Since itvā can  no longer be treated as marked with K, 7.3.84 sārvadhātukārdhadhātukayoḥ24 causes guṇa of  i, thereby giving us śve + itvā. By 6.1.78 eco’yavāyāvaḥ, we get the correct form: śvayitvā. 
-
-2. han + Kta – ‘to kill’, past passive participle 
-
-h a n + Kta 
-
- 6.4.15 6.4.37 
-
-6.4.15 anunāsikasya kvijhaloḥ kṅiti: the penultimate vowel of a base which ends in a nasal  (anunāsika), is replaced with its long counterpart when affix KvI, or an affix beginning with  jhaL ‘a non-nasal stop or a fricative’ and marked with K or Ṅ follows. 
-
-6.4.37 anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti: the final nasal of a base  marked with anudātta when taught in the Dhātupāṭha, as well as of vanA ‘to like’ and the roots  
+By my interpretation of 1.4.2, the RHS rule 7.2.35 wins and we get: śvi + itvā. Since itvā can  no longer be treated as marked with K, 7.3.84 sārvadhātukārdhadhātukayoḥ[^24] causes guṇa of  i, thereby giving us śve + itvā. By 6.1.78 eco’yavāyāvaḥ, we get the correct form: śvayitvā. 
 
 [^24]: Guṇa replaces the final sound iK (i, u, r̥, l̥) of a verbal base when a sārvadhātuka or ārdhadhātuka affix follows.
 
-122 
+## hatvā
+2. han + Kta – ‘to kill’, past passive participle 
 
-headed by tanU ‘to extend’, is replaced with LOPA when an affix beginning with jhaL ‘a non nasal stop or a fricative’ and marked with K or Ṅ follows. 
+h (6.4.15→)a (6.4.37→)n + Kta
+
+6.4.15 anunāsikasya kvijhaloḥ kṅiti: the penultimate vowel of a base which ends in a nasal  (anunāsika), is replaced with its long counterpart when affix KvI, or an affix beginning with  jhaL ‘a non-nasal stop or a fricative’ and marked with K or Ṅ follows. 
+
+[[122]]
+
+6.4.37 anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti: the final nasal of a base  marked with anudātta when taught in the Dhātupāṭha, as well as of vanA ‘to like’ and the roots headed by tanU ‘to extend’, is replaced with LOPA when an affix beginning with jhaL ‘a non nasal stop or a fricative’ and marked with K or Ṅ follows. 
 
 If n of han is replaced with LOPA by 6.4.37, 6.4.15 will not be applicable at the following step.  But if the vowel of han is lengthened by 6.4.15, 6.4.37 will still be applicable at the following  step. This is a case of unidirectional blocking, and thus of DOI conflict.  
 
