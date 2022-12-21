@@ -130,13 +130,19 @@ My method is able to tackle this issue without relying on paribhāṣās like Pb
 
 Before we move on to discussing other examples, note that Pāṇini teaches most substitutions and other operations pertaining to the eighteen finite affixes from 3.4.77 to 3.4.112. For  example, 3.4.87 ser hy apic ca[^16], 3.4.101 tasthasthamipāṁ tāṁtaṁtāmaḥ[^17] etc. He teaches the  substitution of jhi from 3.4.108 jher jus to 3.4.112 dviṣaś ca. However, the three rules teaching  the replacement of jh, i.e., 7.1.3 jho’ntaḥ, 7.1.4 ad abhyastāt, and 7.1.5 ātmanepadeṣv anataḥ are found in the aṅgādhikāra, and not in the section 3.4.77-3.4.112. This strongly suggests that  Pāṇini wants us to treat 7.1.3-7.1.5 differently, that is, he wants us to apply them only when jh is part of an affix which is preceded by what I define as an aṅga.  
 
+## jahitaḥ
 (3) hā + tas – ‘to abandon’, present third-person dual 
 
-hā is not an aṅga with respect to tas. So here, we cannot apply rules from the aṅgādhikāra,  such as 6.4.116 jahāteś ca (see translation below). The derivation proceeds as follows: hā +  tas 🡪 hā + ŚaP + tas (3.1.68 kartari śap) 🡪 hā + ŚLU + tas (2.4.75 juhotyādibhyaḥ śluḥ) 🡪 hāhā + ŚLU + tas (6.1.10 ślau). Here, two rules are applicable, which are from the  aṅgādhikāra, but which are not triggered by tas:  
+hā is not an aṅga with respect to tas. So here, we cannot apply rules from the aṅgādhikāra,  such as 6.4.116 jahāteś ca (see translation below). The derivation proceeds as follows: 
 
- h ā hā + ŚLU + tas 
+hā +  tas 🡪  
+hā + ŚaP + tas (3.1.68 kartari śap) 🡪  
+hā + ŚLU + tas (2.4.75 juhotyādibhyaḥ śluḥ) 🡪  
+hāhā + ŚLU + tas (6.1.10 ślau). 
 
- 7.4.62 7.4.59  
+Here, two rules are applicable, which are from the  aṅgādhikāra, but which are not triggered by tas:  
+
+(7.4.62→) h (7.4.59→) ā hā + ŚLU + tas 
 
 7.4.62 kuhoś cuḥ: a consonant of the k-series (kU), or a h, that is part of the abhyāsa (first of  two reduplicated syllables) is replaced with a consonant of the c-series (cU). 
 
@@ -144,15 +150,16 @@ hā is not an aṅga with respect to tas. So here, we cannot apply rules from th
 
 By my interpretation of 1.4.2, we apply the RHS rule 7.4.59 and get hahā + ŚLU + tas. To  this, we apply 7.4.62 and get jhahā + ŚLU + tas. Now, jhahā and ŚLU cannot undergo any  further operations which are not triggered by tas, so we can write jhahā + ŚLU as jhahā. Now,  
 
-[^16]: A siP replacement of LOṬ is replaced with hi and is treated as if not marked with P. 17 The tas, thas, tha and miP replacements for any lakāra marked with Ṅ, are replaced with tām, tam,  ta and am, respectively.
+[^16]: A siP replacement of LOṬ is replaced with hi and is treated as if not marked with P. 
 
-117 
+[^17]: The tas, thas, tha and miP replacements for any lakāra marked with Ṅ, are replaced with tām, tam,  ta and am, respectively.
+
+[[117]] 
 
 jhahā is an aṅga with respect to tas. Thus, the following rules from the aṅgādhikāra, which  are triggered by tas, become applicable: 
 
- jhah ā + tas 
+jhah (6.4.113, 6.4.116→) ā + tas 
 
- 6.4.113 6.4.116 
 
 6.4.113 ī haly aghoḥ: the final ā of a base which ends in Śnā, or of a reduplicated stem  (abhyasta) excluding those termed ghu, is replaced with ī when a sārvadhātuka affix beginning  with a consonant and marked with K or Ṅ follows.  
 
@@ -162,9 +169,14 @@ There is an SOI relationship between 6.4.113 and 6.4.116. Since 6.4.116 has been
 
 Note that 6.4.116 jahāteś ca is an optional rule. If we do not implement18 it, 6.4.113 ī haly aghoḥ applies, giving us jahītaḥ, which is also correct.  
 
-To the best of my knowledge, the tradition has not discussed this problem. But, since this  derivation does not involve any DOI conflicts, the tradition would have applied rules in any  haphazard order. Let us look at one of the possible paths this derivation would have taken if  we had not accepted my interpretations of 1.4.13 and 6.4.1 respectively: hā + tas 🡪 hā + ŚaP + tas (3.1.68 kartari śap) 🡪 hā + ŚLU + tas (2.4.75 juhotyādibhyaḥ śluḥ) 🡪 hi + ŚLU + tas 
+### Wrong path
+To the best of my knowledge, the tradition has not discussed this problem. But, since this  derivation does not involve any DOI conflicts, the tradition would have applied rules in any  haphazard order. Let us look at one of the possible paths this derivation would have taken if  we had not accepted my interpretations of 1.4.13 and 6.4.1 respectively: 
 
-(6.4.116 jahāteś ca) 🡪 *jihitaḥ (6.1.10 ślau etc).  
+hā + tas 🡪  
+hā + ŚaP + tas (3.1.68 kartari śap) 🡪  
+hā + ŚLU + tas (2.4.75 juhotyādibhyaḥ śluḥ) 🡪  
+hi + ŚLU + tas (6.4.116 jahāteś ca) 🡪  
+*jihitaḥ (6.1.10 ślau etc).  
 
 The possibility of getting such a wrong answer is completely eliminated by following my  interpretations of 1.4.13 and 6.4.1 respectively. This is because, my method ensures that  6.4.116, which is taught in the aṅgādhikāra and replaces ā of hā with i, applies only after the reduplication of root hā by 6.1.10 ślau, which is taught outside the aṅgādhikāra. 
 
@@ -172,23 +184,26 @@ The possibility of getting such a wrong answer is completely eliminated by follo
 
 118 
 
+## aupyata
 (4) vap + ta – ‘to sow’, imperfect passive third-person singular  
 
 Note that vap is not an aṅga with respect to ta, so rules like 6.4.71 luṅlaṅlr̥ṅṣv aḍ udāttaḥ (see  translation below) which are part of the aṅgādhikāra, cannot apply at this step. The following  rules are applicable to vap + ta: 
 
-v ap + ta 
-
- 6.1.15 3.1.67 
+(6.1.15>>) v ap (3.1.67>>) + ta 
 
 6.1.15 vacisvapiyajādīnām ca: roots vac ‘to speak’, svap ‘to sleep’, and those headed by yaj ‘to perform sacrifice’ undergo samprasāraṇa when an affix marked with K follows.19 
 
 3.1.67 sārvadhātuke yak: affix yaK occurs after a verbal root when a sārvadhātuka affix which  denotes bhāva or karman follows. 
 
-By my interpretation of 1.4.2, the RHS rule 3.1.67 applies, and we get: vap + yaK + ta.  Thereafter the derivation proceeds as follows: vap + yaK + ta 🡪 uap + yaK + ta (6.1.15) 🡪 up + yaK + ta (6.1.108 samprasāraṇāc ca20). Since up and yaK cannot undergo any other  operations which are not triggered by ta, we can write up + yaK as upya. In upya + ta, upya is  an aṅga with respect to ta. Thus, the following rules from the aṅgādhikāra which are triggered  by ta become applicable: 
+By my interpretation of 1.4.2, the RHS rule 3.1.67 applies, and we get: vap + yaK + ta. Thereafter the derivation proceeds as follows: 
 
-upya + ta 
+vap + yaK + ta 🡪  
+uap + yaK + ta (6.1.15) 🡪  
+up + yaK + ta (6.1.108 samprasāraṇāc ca20). 
 
- 6.4.71 6.4.72 
+Since up and yaK cannot undergo any other  operations which are not triggered by ta, we can write up + yaK as upya. In upya + ta, upya is  an aṅga with respect to ta. Thus, the following rules from the aṅgādhikāra which are triggered  by ta become applicable: 
+
+(6.4.71, 6.4.72>>) upya + ta
 
 6.4.71 luṅlaṅlr̥ṅṣv aḍ udāttaḥ: the udātta ‘high-pitched’ augment aṬ is attached to a verbal  base when affixes LUṄ, LAṄ and LR̥Ṅ follow. 
 
@@ -198,22 +213,30 @@ upya + ta
 
 [^20]: A samprasāraṇa vowel and the following vowel, are together replaced with the former.
 
-119 
+[[119]] 
 
-This is a case of SOI. 6.4.72 has been taught specifically for bases which begin with a vowel  and thus wins, thereby giving us the correct form ā-upya + ta 🡪 aupyata (6.1.90 āṭaś ca21).  
+This is a case of SOI. 6.4.72 has been taught specifically for bases which begin with a vowel  and thus wins, thereby giving us the correct form ā-upya + ta 🡪 aupyata (6.1.90 āṭaś ca[^21]).  
 
-Let us now consider how the tradition deals with this example. Like in the previous examples,  here too, we do not find any instances of DOI conflict. Therefore, the tradition applies rules in  a random order. If the attachment of the augment had been undertaken before samprasāraṇa,  we would have got the incorrect form: a-vapyata (6.4.71 luṅlaṅlr̥ṅṣv aḍ udāttaḥ) 🡪 a-uapyata 
+### Wrong path
+Let us now consider how the tradition deals with this example. Like in the previous examples,  here too, we do not find any instances of DOI conflict. Therefore, the tradition applies rules in  a random order. If the attachment of the augment had been undertaken before samprasāraṇa,  we would have got the incorrect form: 
 
-(6.1.15 vacisvapiyajādīnām ca) 🡪 *opyata (6.1.108 samprasāraṇāc ca, 6.1.78  eco’yavāyāvaḥ). In order to overcome this problem, the Kāśikā, on 6.4.72 āḍ ajādīnām, suggests that there is a conflict between augment addition and processes such as replacement  of LAṄ and introduction of the vikaraṇa yaK, and by nityatva and antaraṅgatva respectively  these two processes defeat the addition of the augment aṬ.22 
+a-vapyata (6.4.71 luṅlaṅlr̥ṅṣv aḍ udāttaḥ) 🡪  
+a-uapyata (6.1.15 vacisvapiyajādīnām ca) 🡪  
+*opyata (6.1.108 samprasāraṇāc ca, 6.1.78  eco’yavāyāvaḥ). 
+
+In order to overcome this problem, the Kāśikā, on 6.4.72 āḍ ajādīnām, suggests that there is a conflict between augment addition and processes such as replacement  of LAṄ and introduction of the vikaraṇa yaK, and by nityatva and antaraṅgatva respectively  these two processes defeat the addition of the augment aṬ.[^22] 
+
+
+[^21]: A single vr̥ddhi vowel replaces both āṬ and the vowel following it.
+
+[^22]: Iha aijyata, aupyata, auhyata iti laṅi kr̥te lāvasthāyām aḍāgamād antaraṅgatvāl lādeśaḥ kriyate,  tatra kr̥te vikaraṇo nityatvād aḍāgamaṁ bādhate ‘Here [with reference to the derivation of the forms] aijyata, aupyata, auhyata, after the addition of the affix LAṄ, in that state of the lakāra, by  antaraṅgatva, the substitution of the lakāra is done [rather than] the addition of the augment aṬ, and  thereafter, by nityatva, the [addition of] vikaraṇa defeats [the insertion of] augment aṬ.’
+
+## Conclusion
 
 We may conclude that the tradition comes up with a tailored solution to this problem. In  contrast with this, my method eliminates the need to rely on post-Pāṇinian tools and  paribhāṣās. My respective interpretations of 1.4.13 and 6.4.1 ensure that the addition of the  augment, which is taught in the aṅgādhikāra, takes place only after samprasāraṇa, which is  taught outside the aṅgādhikāra. As a result of this, 6.4.71 luṅlaṅlr̥ṅṣv aḍ udāttaḥ does not  become applicable until 6.4.72 āḍ ajādīnām, which is its exception, also becomes applicable.  6.4.72 wins, thereby giving the correct form aupyata. 
 
 In sum, these four examples prove that my interpretations of 1.4.13 and 6.4.1 respectively are  correct. In all four derivations, the tradition applies rules in a haphazard order, as a result of  which it often gets the wrong form at the end of the derivation. It is forced to come up with  individual solutions for each of these problems. 
 
-It is also noteworthy that in cases of the type ‘base + affix (1) + affix (2)’, Pāṇini teaches those  processes which contribute towards the construction of the aṅga with respect to affix (2) before  
+[[120]]
 
-[^21]: A single vr̥ddhi vowel replaces both āṬ and the vowel following it. 
-
-[^22]: Iha aijyata, aupyata, auhyata iti laṅi kr̥te lāvasthāyām aḍāgamād antaraṅgatvāl lādeśaḥ kriyate,  tatra kr̥te vikaraṇo nityatvād aḍāgamaṁ bādhate ‘Here [with reference to the derivation of the forms] aijyata, aupyata, auhyata, after the addition of the affix LAṄ, in that state of the lakāra, by  antaraṅgatva, the substitution of the lakāra is done [rather than] the addition of the augment aṬ, and  thereafter, by nityatva, the [addition of] vikaraṇa defeats [the insertion of] augment aṬ.’
-
-1206.4.1, in the Aṣṭādhyāyī’s serial order. For example, he teaches the addition of vikaraṇas in  pāda 3.1 and vowel sandhi, reduplication and samprasāraṇa in pāda 6.1. 
+It is also noteworthy that in cases of the type ‘base + affix (1) + affix (2)’, Pāṇini teaches those  processes which contribute towards the construction of the aṅga with respect to affix (2) before 6.4.1, in the Aṣṭādhyāyī’s serial order. For example, he teaches the addition of vikaraṇas in  pāda 3.1 and vowel sandhi, reduplication and samprasāraṇa in pāda 6.1. 
