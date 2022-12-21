@@ -60,7 +60,7 @@ a& + yaÑ! 🡪 ā& + yaÑ!
 8. a& +ṇ!🡪 ā& + ṇ! 
 9. a& + n!🡪 ā& + n! 
 10. a& + jh!🡪 ā& + jh! 
-11. a& + bh!🡪 ā& + bh! 
+**11. a& + bh!🡪 ā& + bh!** 
 
 Pāṇini teaches these 11 sub-rules together in the form of the rule 7.3.102, using his pratyāhāra system, purely for the sake of brevity. Similarly, let us deconstruct 7.3.103 which teaches: 
 
@@ -71,14 +71,14 @@ a& + jhaL!# 🡪 e& + jhaL!#
 7.3.103 can be represented by the following collection of sub-rules: 
 
 1. a& + jh! #🡪 e & + jh! # 
-2. a& + bh! #🡪 e & + bh! # 
+**2. a& + bh!#🡪 e & + bh! #** 
 3. a& + gh! #🡪 e & + gh! # 
 4. a& + ḍh! #🡪 e & + ḍh! # 
 5. a& + dh! #🡪 e & + dh! # 
 
 …and so on. 
 
-Note that two sub-rules from the collection represented by 7.3.102, namely 11 and 12, which I  have underlined, look similar to their respective underlined counterparts in the collection  represented by 7.3.103. The actual SOI takes place between these two pairs of sub-rules. In  fact, when I say that the more specific rule prevails in case of SOI, I mean, the more specific  ‘subrule’ prevails.  
+Note that two sub-rules from the collection represented by 7.3.102, namely 11 and 2, which I  have underlined, look similar to their respective underlined counterparts in the collection  represented by 7.3.103. The actual SOI takes place between these two pairs of sub-rules. In  fact, when I say that the more specific rule prevails in case of SOI, I mean, the more specific  ‘subrule’ prevails.  
 
 The other (non-underlined) subrules just happen to be represented by 7.3.102 and 7.3.103  respectively and are actually completely irrelevant to the SOI at hand.  
 

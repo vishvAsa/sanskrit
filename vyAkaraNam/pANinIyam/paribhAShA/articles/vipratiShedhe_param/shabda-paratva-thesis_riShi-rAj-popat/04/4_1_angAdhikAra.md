@@ -11,15 +11,21 @@ I think that the tradition has not correctly understood these rules, as a result
 
 In my opinion, only one item can be called an aṅga with respect to a certain pratyaya in a  derivation. I must admit that I am unable to support this statement using Pāṇini’s rules.  However, through the examples discussed in section 4.2 of this chapter, I will show that it is  not possible to correctly perform certain derivations without accepting this assumption. 
 
-Let me discuss an example from verbal inflection to explain what I mean. Consider the  derivation of the present-tense third-person singular form of cit ‘to think’: cit + LAṬ (3.2.123 vartamāne laṭ1) 🡪 cit + tiP (3.4.77 lasya, 3.4.78 tiptasjhi…2). According to the tradition3, cit  is an aṅga with respect to tiP. Then, after we add the vikaraṇa ŚaP by 3.1.68 kartari śap4, we  get cit + ŚaP + tiP. According to the tradition, cit + ŚaP too is an aṅga with respect to tiP.  
+Let me discuss an example from verbal inflection to explain what I mean. Consider the  derivation of the present-tense third-person singular form of cit ‘to think’: 
 
-[^1]: Affix LAṬ occurs after a verbal root when the action is denoted at the current time (vartamāna). 2 Tip-tas-jhi-sip-thas-tha-mib-vas-mas-ta-ātāṁ-jha-thās-āthāṁ-dhvam-iḍ-vahi-mahiṅ. 3 Though the tradition does not explicitly state this, it becomes clear from the derivations we will  examine below that such is indeed the case.  
+> cit + LAṬ (3.2.123 vartamāne laṭ[^1]) 🡪 cit + tiP (3.4.77 lasya, 3.4.78 tiptasjhi…[^2]). According to the tradition3, cit  is an aṅga with respect to tiP. Then, after we add the vikaraṇa ŚaP by 3.1.68 kartari śap4, we  get cit + ŚaP + tiP. According to the tradition, cit + ŚaP too is an aṅga with respect to tiP.  
+
+[^1]: Affix LAṬ occurs after a verbal root when the action is denoted at the current time (vartamāna). 
+
+[^2]: Tip-tas-jhi-sip-thas-tha-mib-vas-mas-ta-ātāṁ-jha-thās-āthāṁ-dhvam-iḍ-vahi-mahiṅ.
+
+[^3]: Though the tradition does not explicitly state this, it becomes clear from the derivations we will  examine below that such is indeed the case.  
 
 [^4]: Affix ŚaP occurs after a verbal root when a sārvadhātuka affix which denotes kartr̥ ‘agent’ follows.
 
-109 
+[[109]] 
 
-Thereafter, we apply 7.3.86 pugantalaghūpadhasya ca5 to cit and get cet + ŚaP + tiP i.e., ceta  + tiP. According to the tradition, ceta too can be called an aṅga with respect to tiP. 
+Thereafter, we apply 7.3.86 pugantalaghūpadhasya ca[^5] to cit and get cet + ŚaP + tiP i.e., ceta  + tiP. According to the tradition, ceta too can be called an aṅga with respect to tiP. 
 
 So, cit, cit + ŚaP and ceta can all be called aṅga with respect to tiP, in the tradition’s opinion.  I disagree with the traditional perspective: in my opinion, we can have only one aṅga per affix  per derivation6. So, which one of the three options, namely cit, cit + ŚaP and ceta, should be  called an aṅga with respect to tiP? I think ceta alone can be called an aṅga with respect to tiP. 
 
