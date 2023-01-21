@@ -9,8 +9,5 @@ unicode_script: devanagari
 ## भस्य
 <div class="spreadsheet" src="bhasya.toml" fullHeightWithRowsPerScreen=8></div>
 
-## वृद्धिः
-<div class="spreadsheet" src="vRddhiH.toml" fullHeightWithRowsPerScreen=8></div>
-
 ## Misc
 <div class="spreadsheet" src="misc.toml" fullHeightWithRowsPerScreen=8></div>
