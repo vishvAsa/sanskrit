@@ -2,13 +2,13 @@
 title = "प्रातिशाख्यम्"
 +++
 
-तैत्तिरीय-प्रातिशाख्ये "आदिरस्योदात्तसमः शेषो ऽनुदात्तसम इत्याचार्याः॥" इत्य् अवधेयम्। (मूलम् [अत्र](http://bangla.name/citi/taittiriya/tait_dev.htm))। paaNini’s arrangment is explicitly allowed. there is one other similar alternative. The pair that grant higher tone to the *first half hrasva duration only* are still different from current "pure higher tone" or rising tone practice. Also, some "hand waving" is allowed by the last sUtra (सर्वः प्रवण इत्येके॥१.४७॥).
+तैत्तिरीय-प्रातिशाख्ये "आदिरस्योदात्तसमः शेषो ऽनुदात्तसम इत्याचार्याः॥" इत्य् अवधेयम्। (मूलम् [अत्र](/sanskrit/shixA/granthAH/yajur-vedaH/kRShNaH/taittirIya-prAtishAkhyam/))। paaNini’s arrangment is explicitly allowed. there is one other similar alternative. The pair that grant higher tone to the *first half hrasva duration only* are still different from current "pure higher tone" or rising tone practice. Also, some "hand waving" is allowed by the last sUtra (सर्वः प्रवण इत्येके॥१.४७॥).
 
 As shrI dhananjaya says:
 
 > "As you can see from the description, when this passage was written, apparently one couldn’t just listen to people speak, and know the pronunciation."
 
-वाजसेनयि-प्रातिशाख्ये (मूलम् [अत्र](http://peterffreund.com/Vedic_Literature/shukl_yajur_veda_pratishakhya.htm), टीका [अत्र](https://archive.org/details/in.ernet.dli.2015.513471)): "उच्चैरुदात्तः, नीचैरनुदात्तः, उभयवान् स्वरितः" १.११०। एवञ्च - `चत्वारस्तिर्यक् स्वरिताः १२२ … तस्यादित उदात्तं स्वरार्धमात्रम् १२६`
+वाजसेनयि-प्रातिशाख्ये (मूलम् [अत्र](/sanskrit/shixA/granthAH/yajur-vedaH/shuklaH/kAtyAyana-prAtishAkhyam)): "उच्चैरुदात्तः, नीचैरनुदात्तः, उभयवान् स्वरितः" १.११०। एवञ्च - `चत्वारस्तिर्यक् स्वरिताः १२२ … तस्यादित उदात्तं स्वरार्धमात्रम् १२६`
 
 What about multiple non-pANiniiya options preserved in – say – taittiriiya prAtishAkhya?
 

@@ -159,7 +159,7 @@ Their combination is circumflex.
 
 tasyādiruccaistarāmudāttādantare yāvadardham̐ hrasvasya  
 
-Of this circumflex, in case it imeediately follows an acute, the first part, to the extent of half a short vowel, is uttered in a yet higher tone.  
+Of this circumflex, in case it immediately follows an acute, the first part, to the extent of half a short vowel, is uttered in a yet higher tone.  
 
 उदात्तसमः शेषः॥१.४२॥  
 udāttasamaḥ śeṣaḥ  
