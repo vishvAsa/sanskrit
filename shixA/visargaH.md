@@ -21,7 +21,9 @@ unicode_script: devanagari
 - तत उवटः कथयति यद्, अनयोः उभावपि पक्षौ युक्तौ। शास्त्रान्तरे विसर्जनीयस्य कण्ठस्थानं, पूर्वसस्थानत्वं च विहितम्। अत्र तु दोषसमुच्चयप्रकरणे वचनाद् अयं दोष इत्येव निर्णेयम्। शास्त्रान्तरदृशा अस्य दोषत्वं नेति। (तत्रैव उ०भा०)।
 
 ## प्रयत्नः
-- "the voiced ह survived in all the Prakrits from the ancient to modern times.  Under the influence of this situation, the pronunciation of visarga was affected and in many regions of India a word like देवै: came to be pronounced as देवैहि.  This is no surprise, as the instrumental plural form reported in Prakrit and Pali exactly matches देवेहि [Skt. ऐ > ए, standard change in Pali and Prakrit]. " इति देशपाण्डेय-माधवः। नैवमित्यन्ये। 
+> "the voiced ह survived in all the Prakrits from the ancient to modern times.  Under the influence of this situation, the pronunciation of visarga was affected and in many regions of India a word like देवैः came to be pronounced as देवैहि.  This is no surprise, as the instrumental plural form reported in Prakrit and Pali exactly matches देवेहि [Skt. ऐ > ए, standard change in Pali and Prakrit]. " 
+
+इति देशपाण्डेय-माधवः। नैवमित्यन्ये। 
 
 ## विश्वासाभिप्रायः
 - विसर्गो नाम प्राक्तन-स्वरस्योच्चारणे यो वायुस् तस्यान्तिमभागस्य विसर्जनम्, तेन प्राक्तनस्वरस्य कर्तनम् इव। एवं विसृष्टो वायुभागः प्राक्तनस्वरस्य छायामिवेषद् अनुवहति।

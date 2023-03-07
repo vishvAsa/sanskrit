@@ -6,7 +6,9 @@ Source: [TW](https://manasataramgini.files.wordpress.com/2008/09/svaras_new.pdf)
 A practical guide to Svaras in Vedic recitation  
 
 ## Vedic accents and their vocal rendering
-Udātta-s(U) are marked in red in this article. This is the natural or inherent accent in a word. Traditionally it is rendered as middle pitch. Udātta may be signaled especially in ṚV and AV traditions by raising the hand. Hence, Pāṇini’s sūtra on Udātta (उच्चैरु दात्तः | 1.2.29) originally meant that the arm was raised rather than the pitch being raised (as commonly understood by many). Frequently it is left unmarked in vedic texts. In texts of certain śākhā-s, like certain kaṭha manuscripts, it is the only marked Svara and shown as a vertical over-bar.
+Udātta-s(U) are marked in red in this article. This is the natural or inherent accent in a word. Traditionally it is rendered as middle pitch. Udātta may be signaled especially in ṚV and AV traditions by raising the hand. Hence, Pāṇini’s sūtra on Udātta (उच्चैरु दात्तः | 1.2.29) originally meant that the arm was raised rather than the pitch being raised (as commonly understood by many). +++(V: Disagree)+++
+
+Frequently it is left unmarked in vedic texts. In texts of certain śākhā-s, like certain kaṭha manuscripts, it is the only marked Svara and shown as a vertical over-bar.
 
 The same convention is also used to mark the Udātta in printed texts of the ṚV-khila. In this case the remaining accents must be derived from the Udātta using the below rules or using the oral tradition where
 available. In the ŚYV, Śatapatha Brāhmaṇa (including Bṛhadāraṇyakopaniṣad) it is marked by a single
