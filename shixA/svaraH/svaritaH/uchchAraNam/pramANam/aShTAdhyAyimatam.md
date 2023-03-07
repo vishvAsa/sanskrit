@@ -48,13 +48,3 @@ If so, this too is unnecessary. This, too, he will learn through experience.
 
 - भाष्यम् [अत्र](https://archive.org/details/VyakaranaMahabhashyaWithPradeepAndUdyotaPart2HaryanaSahityaSansthan/page/n49/mode/2up)। तदाङ्ग्लानुवादो [ऽत्र](https://archive.org/stream/LecturesOnPatanjalisVyakaranaMahabhashya4/LecturesOnPatanjalisMahabhashya4#page/n63/mode/2up)।
 
-## हस्त-स्वर-पक्षः
-> Pāṇini’s sūtra on Udātta (उच्चैरुदात्तः 1.2.29) originally meant that the arm was raised rather than the pitch being raised (as commonly understood by many).  
-> इति केचित् । 
-
-अयुक्तम् एतत्।  
-
-तद् एव सूत्रम् [प्रातिशाख्येष्व्](../prAtishAkhyam) अपि दृश्यते - विकल्पान्तरैस् सह। यथा तैत्तिरीयप्रातिशाख्ये - "समाहारः स्वरितः॥ तस्यादिरुच्चैस्तरामुदात्तादन्तरे यावदर्धꣳ ह्रस्वस्य॥ … आदिरस्योदात्तसमः शेषो ऽनुदात्तसम इत्याचार्याः॥" नेदं हस्तस्वरविवरणम्। यतः -
-
-- शिक्षाग्रन्थानाम् उच्चारणे प्रधानं तात्पर्यम्। एतानि सूत्राण्य् अन्तरा तत्-तत्-प्रातिशाख्यय् स्वरितोच्चारणविवरणम् अन्यन् नैव विद्यते। 
-- हस्त-स्वरे तु विकल्पो न युज्यते।  एवं विकल्पैर् ज्ञायते 
