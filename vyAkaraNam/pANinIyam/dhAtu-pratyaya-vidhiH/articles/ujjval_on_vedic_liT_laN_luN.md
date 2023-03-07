@@ -7,6 +7,8 @@ Source: [TW](https://discord.com/channels/1073779927482109952/107401754367886956
 
 Aorist: लुङ्, imperfect: लङ्, perfect: लिट्
 
+As a side note, the terms "perfect", "imperfect" and "aorist" are used in Sanskrit studies because of the correspondence of the verb forms with Greek forms, but should not be confused with the actual meaning of these in general linguistics out of Sanskrit.
+
 The sense of the Vedic aorist is well preserved (action that has happened, also expressed by क्त).  
 
 Imperfect was used for repetitive or continuing actions (happening in the past) but in classical Sanskrit is also employed somewhat in the Vedic aorist sense.  
