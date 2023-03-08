@@ -18,6 +18,12 @@ title = "प्रमाणानि"
 ## लक्षणानि
 - अपि॑ च [सिद्धान्तकौमु॒द्याः स्व॑रप्रकर॒णम्](https://drdhaval2785.github.io/siddhantakaumudi/#SK3650) अथ॑ [स्वरसिद्धान्तचन्द्रि॒का](https://archive.org/details/Svara-Siddhanta-Chandrika-Of-Srinivasa-Yajva-Sivaramakrishna-Sastri-1936-Annamalai-University) च स्तः। अपि॑ च [Sanskrit Grammar (Whitney)](https://en.wikisource.org/wiki/Sanskrit_Grammar_(Whitney)) इ॒दम् अ॑स्ति॒ यस्मि॒न् ब॒हूनि॑ नि॒दर्श॑नानि॒ वेदे॑भ्यो॒ यथा॑प्रकरणम् लिखि॒तानि॑, सु॒मृग्यं॑ चे॒दम्।
 
+- "Whitney and MacDonell give a statistical generalization that applies 60% of the time while Pā́ṇini gives a rule that is always supposed to be applied."
+-  Whitney's "Contributions from the Atharva-vedá to the theory of Sanskrit verbal accent"
+- Abhyankar's "Accent in Sanskrit",  
+- Wikner's "Vedic accents"
+- Whitney's "On the nature and designation of the accent in Sanskrit"
+- Beguš's "The phonetics of the independent svaritá in Vedic"
 
 ### सूत्राणि
 <div class="spreadsheet" src="../svara-sUtrANi.toml" fullHeightWithRowsPerScreen=8></div>
