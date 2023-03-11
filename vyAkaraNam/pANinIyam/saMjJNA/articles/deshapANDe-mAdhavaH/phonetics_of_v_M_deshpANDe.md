@@ -4,6 +4,14 @@ title = "Phonetics of V"
 
 Source: [TW](https://zero.sci-hub.ru/4619/88ac2d4cbe694beda42c862947b9ba84/10.2307@41691550.pdf)
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> The aim of this paper is not to prove that for Pānini v did not involve teeth in any capacity or that it was a pure bi-labial sound. It could have been a bi-labial ; but we have no positive proof to that effect.
+
+So this paper is more about the vyAkaraNa sanJNA rather than actual pronunciation.
+</details>
+
+
 ## Intro
 Bhandarkar Oriental Research Institute  
 PHONETICS OF V IN PĀṆINI  
