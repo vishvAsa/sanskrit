@@ -3,6 +3,11 @@ title = "+निरुक्तम्"
 unicode_script = "devanagari"
 +++
 
+## व्युत्पत्तेर् भेदः
+
+> These sorts of mystical "punning" formulations præsent throughout the Brā́hmaṇa-s (trí-ambaka < stríyā Ámbikā ŞB 2.6.2.9, sóma < svā́ me ŞB 3.9.4.22) often aren't meant to be taken seriously as actual linguistic analysis, but rather a sacred identification or association. - Nikhil
+
+
 ## portmanteau
 ### उपायः
 उपा(दाय हे)यः -- उपायः ।
