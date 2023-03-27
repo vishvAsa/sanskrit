@@ -125,9 +125,9 @@ title = "पदस्वरः"
 ### समासे
 - साधारणतः - उत्तर-पद-प्रकृतेर् अन्तिमाक्षर उदात्तः - `समासस्य` इति सूत्रम्। यथा - … ब्रह्मवर्च॒सेन॑।
 - उभयपदप्रकृतिस्वरः
-  - `उभे वनस्पत्यादिषु युगपत्। देवताद्वन्द्वे च।`
-  - Índra–Sóma, Índra–Víṣṇu, Agnī́–Ṣóma are doubly accented because their second members all have accent on their first syllables.
-  
+  - `उभे वनस्पत्यादिषु युगपत्। देवताद्वन्द्वे च। नोत्तरपदेऽनुदात्तादावपृथिवीरुद्रपूषमन्थिषु`
+    - Índra–Sóma, Índra–Víṣṇu, Agnī́–Ṣóma are doubly accented because their second members all have accent on their first syllables.
+
 #### बहुव्रीहाव् अपवादाः
 - `बहुव्रीहौ प्रकृत्या पूर्वपदम्` - पूर्वपदस्य उदात्तः। `इन्द्र॑शत्रुर्वर्धस्व`। (शत्रुर् हन्त्रर्थे।) [अत्र॑](/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/2/5/) पठ्यतां॒ तद् वृ॒त्रस्य॑ वृ॒त्तम् ।
 
