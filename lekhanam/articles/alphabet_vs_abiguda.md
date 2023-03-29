@@ -39,4 +39,5 @@ There aren't any arguments for abugidas other than saving space (hardly a concer
 रोमकलिपौ॑ तु॑-  "i", "ī" इ॑ति अ॑ल्पो भे॑दः।  
 दो॑षे कृते॑ न॑ स्फुटं परजञसयत।  
 
+ápi ca yádi várgasya prathamásya sthā́nai tr̥tī́yau likhyátai - "क", "ख" íti mahā́n bhaídaḥ. "k", "kh" ítyátra ná táthā. iyáṁ samasyā́ máyā prāyaíṇā́nubhūyatai yád raumakalipyā́ svayáṁ likhitaí pāṭhaí daúṣai kr̥taí ápi sá ná dr̥śyatai. ítīhá vivakṣitám āsīt.
 </details>
