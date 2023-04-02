@@ -15,7 +15,7 @@ unicode_script = "devanagari"
 <details>
 <summary>सिद्धान्तकौमुदी</summary>
 
-प्रातिपदिक फिट् । तस्यान्त उदात्तः स्यात् । उच्चैः ॥
+प्रातिपदिकं फिट् । तस्यान्त उदात्तः स्यात् । उच्चैः ॥
 </details>
 <details><summary>मूलम्</summary>
 
