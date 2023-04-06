@@ -9,7 +9,7 @@ title = "प्रमाणानि"
 ### कोशाः
 - अधो निर्दिष्टा कोशाः मुक्तं नानायन्त्रेषु सुलभप्रयोगार्थं लभ्यन्ते [गिट्-क्षेत्रात्](https://github.com/indic-dict/) ।  तत् स्थापनं सरलम्, [यदत्र](https://sanskrit-coders.github.io/dictionaries/offline/Stardict/) विवृतम्।
 - को꣡शेषु स्वराङ्कनव्यत्यासा꣡ [अ꣡त्रोक्ताः꣡](https://github.com/sanskrit-lexicon/csl-ldev/issues/7#issuecomment-1044738582)। 
-- [शकलसंहितायाः](https://github.com/indic-dict/stardict-sanskrit-kAvya/tree/master/rv-padasvara-dev), [तैत्तिरीयसंहितायाश्](https://github.com/indic-dict/stardict-sanskrit-kAvya/tree/master/kyv-ts-padasvara) च पदपाठकोशा लभ्यन्ते।
+- [शकलसंहितायाः](https://github.com/indic-dict/stardict-sanskrit-kAvya/tree/master/rv-padasvara-dev), [तैत्तिरीयसंहितायाश्](https://github.com/indic-dict/stardict-sanskrit-kAvya/tree/master/kyv-ts-padasvara), [शौनकसंहितायाश्](https://github.com/indic-dict/stardict-sanskrit-kAvya/tree/master/av-padasvara) च पदपाठकोशा लभ्यन्ते।
 - अ॒ङ्कि॒तस्व॑राणां॒ वेदा॑ना॒म् अल्प॑शेषाः॒ शब्दाः॑ [Otto von Böhtlingk](https://en.wikipedia.org/wiki/Otto_von_B%C3%B6htlingk)-अ॒नेन॒ त्रयो॑विंशत्या वत्स॒रैः [Petersburger Wörterbuch](https://www.sanskrit-lexicon.uni-koeln.de/scans/PWGScan/2020/web/index.php)-अ॒स्मिन् कोशे॒ संगृ॑हीताः॒ सनि॑दर्शनाश्च लिखि॒ताः। 
 - तत॑ ए॒व गृ॑ही॒त्वा ब॒हवः॑ [Monier-Williams Sanskrit-English Dictionary](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php)- अ॒स्मिन् कोशेऽपि॒ सञ्चि॑ताः।
 - Grassmann, Cappeller, MacDonnel, Schmidt इत्येतेष्व् अपि स्वराङ्कनानि विद्यन्ते।
