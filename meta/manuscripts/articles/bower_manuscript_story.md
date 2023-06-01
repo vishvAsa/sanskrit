@@ -159,7 +159,7 @@ THE SUBSTANTIAL WEALTH OF LITERATURE about the Kizil Caves also reaffirms a comm
 
 In fact, the legendary DVG had condemned Indira Gandhi more than 40 years ago precisely on this point:
 
-Thanks to the great winner of independence and his daughter, India stands tied to the apron­-strings of the mother of Communism even though the bulk of India's population is not communist… what gives poignancy to the reflection that we are so miserably incapable of going at least to the moral support of Cambodia is the recollection of the historical fact of our ancient kinship. Once upon a time perhaps about the time of the beginning of the Christian era – Cambodia was part of the cultural empire of Hinduism.
+> Thanks to the great winner of independence and his daughter, India stands tied to the apron­-strings of the mother of Communism even though the bulk of India's population is not communist… what gives poignancy to the reflection that we are so miserably incapable of going at least to the moral support of Cambodia is the recollection of the historical fact of our ancient kinship. Once upon a time perhaps about the time of the beginning of the Christian era – Cambodia was part of the cultural empire of Hinduism.
 
 What applies to Cambodia also applies to China in varying degrees. If we had actually played to our strengths, our foreign policy doctrine would have been perpetually reminding China of the incalculable debt it owes to the Santana civilisation. The debt among other things, visible to the eye, in the Kizil Caves and other ancient sites.
 
@@ -225,13 +225,13 @@ THE SO-CALLED BOWER MANUSCRIPT that Rudolf Hoernle deciphered was finally publis
 
 Sri Balwant Mohan, an academic and scholar, stepped in to help them. He initiated a correspondence with the Bengal Asiatic Society and after battling with the colonial bureaucracy, got the full manuscript and began working on it. After two years of sustained effort, he published a slim and affordable volume of the complete Navanītakaṁ in the original Sanskrit. He wrote a learned introduction and a preface to the work. Some extracts from his preface are painful and moving at the same time.
 
-The… reason for neglect in its study by the Vaidyas, was its enormous size and high price, which a few could afford to pay.
-
-It was possible therefore that this grantha, one of the best researches into the state of Indian medicines, must have remained in obscurity for a still longer period, but for the attempt to bring it into the present form, as it lies before the readers. It was one of the several sources of information to scrutinise the fact that how such a valuable literature of our ancient ancestors went into decay…
-
-The main object of the present work is to furnish the Vaidyas with useful Ayurvedic work of ārṣa formulae and the way in which they were prevalent in the olden times…
-
-This work is produced…with no other motive of self-interest but with a view to make it accessible to all interested in Ayurvedic science. [Emphasis added] 
+> The… reason for neglect in its study by the Vaidyas, was its enormous size and high price, which a few could afford to pay.
+>
+> It was possible therefore that this grantha, one of the best researches into the state of Indian medicines, must have remained in obscurity for a still longer period, but for the attempt to bring it into the present form, as it lies before the readers. It was one of the several sources of information to scrutinise the fact that how such a valuable literature of our ancient ancestors went into decay…
+>
+> The main object of the present work is to furnish the Vaidyas with useful Ayurvedic work of ārṣa formulae and the way in which they were prevalent in the olden times…
+>
+> This work is produced…with no other motive of self-interest but with a view to make it accessible to all interested in Ayurvedic science. [Emphasis added] 
 
 Sri Balwant Mohan’s volume was published in January 1925 by Mehar Chand Lachman Das, Proprietor of the Sanskrit Book Depot in Said Mittha Bazaar, Lahore. 
 
