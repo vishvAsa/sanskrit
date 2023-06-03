@@ -2,6 +2,8 @@
 title = "२ उपोद्घातः"
 +++
 
+[[TODO: proofread??]]
+
 Source: [TW](https://archive.org/details/UpasargaArthaCandrika/upasarga-artha-candrika.%20vol.%201%20%28pra-sam%29/page/n5/mode/2up?view=theater)
 
 अथोपसर्गार्थचन्द्रिका 
