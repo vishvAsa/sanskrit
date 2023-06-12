@@ -61,7 +61,7 @@ This is not the Amrit Kaal; it is, in fact, the Shudra Kaal. +++(Maybe.)+++ In t
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Kancha Ilaiah Shepherd is a political theorist, social activist and author. His latest book is The Shudras—Vision For a New Path co-edited with Karthik Raja Karuppusamy. He is currently working on a book, The Shudra Rebellion—History From Field Memories. Views are personal.
+Kancha Ilaiah Shepherd is a political theorist, social activist and author. His latest book is The Shudras—Vision For a New Path co-edited with Karthik Raja Karuppusamy. He is currently working on a book, The Shudra Rebellion— History From Field Memories. Views are personal.
 
 (Edited by Prashant)
 </details>
