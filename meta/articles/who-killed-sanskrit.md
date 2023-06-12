@@ -4,6 +4,12 @@ title = "who-killed-sanskrit"
 
 Source: [TW](https://theprint.in/opinion/doniger-truschke-pollock-didnt-kill-sanskrit-brahmins-did/1621532/)
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Some of the points are addressed in [misconceptions page](https://vishvasa.github.io/sanskrit/meta/misconceptions/Sanskrit_Phobia/) ; will expand to encompass accusation of brAhmaNa hypocracy/ incompetence.
+</details>
+
+
 Doniger, Truschke, Pollock didn’t ‘kill’ Sanskrit. Brahmins did
 
 Indian Americans who have written 'Ten Heads of Ravana' aim to decolonise the Indian mindset. Why do they not send their children to Sanskrit schools in India but to prestigious universities in US?
@@ -17,7 +23,7 @@ Malhotra and his team attack these scholars by comparing them to the mythologica
 
 Notably, the four foreign scholars targeted in the book have worked on Sanskrit and taught the language in various Western universities for quite a long time. On the other hand, Malhotra owns a financial network called Infinity Foundation in America and runs Garuda Prakashan in Delhi, which has published the book.
 
-Now the question is: Why did these Sanskrit-loving Indian Americans not write their book in Sanskrit? They write books in English and attack the language as colonial. They praise Sanskrit as a great global living language but never use it in any text. When Sheldon Pollock called Sanskrit a dead language in modern times, he was not wrong. How many households are there in India where family members communicate in Sanskrit or use it in their daily lives?  
+Now the question is: Why did these Sanskrit-loving Indian Americans not write their book in Sanskrit? They write books in English and attack the language as colonial. +++(False - they mainly attack colonialism and colonial Indology.)+++ They praise Sanskrit as a great global living language but never use it in any text. +++(Says who? There was even an [MIT PhD Thesis](https://groups.google.com/g/hindu-vidya/c/VB7n3nrgOVo/m/FHMo7iPXAgAJ) which used sanskrit.)+++ When Sheldon Pollock called Sanskrit a dead language in modern times, he was not wrong. How many households are there in India where family members communicate in Sanskrit or use it in their daily lives?  
 +++(Stupid definition of language death.)+++
 
 The problem with these pseudo-intellectuals is that they think abuse is analysis. By writing this book, they have exposed only themselves, not Romila Thapar, Irfan Habib, Shashi Tharoor, Ramachandra Guha, Sheldon Pollock, Wendy Doniger, Devdutt Pattanaik, Audrey Truschke, Michael Witzel, or this author.  
@@ -49,7 +55,7 @@ All Hindutva writers accuse those who view civilisation from an agrarian, artisa
 
 These forces are internationalising their hypocrisy and constructing a literary treasure trove filled with myths. They want the world to believe that India sustained itself by consuming the Amrutam (elixir) that emerged from the churning of the seas. They never write about those who tilled the land, produced meat and milk through animal grazing, or crafted the ornaments worn by the kings and queens who supposedly lived in that “Sanskrit Age”.
 
-Ironically, these Indian American elites, particularly members of the Infinity Foundation who oppose anti-caste laws in the US, refer to themselves as “Intellectual Kshatriyas”. Isn’t that casteism? Dalits, Adivasis, and Shudras are not interested in your Sanskrit Age. +++(Speak for yourself, chaNDAla. There exist sachchUdra-s.)+++ They want to move forward into the English Age, displace these forces from all centres of knowledge production, and establish a connection between food production and knowledge production.
+Ironically, these Indian American elites, particularly members of the Infinity Foundation who oppose anti-caste laws in the US, refer to themselves as “Intellectual Kshatriyas”. Isn’t that casteism? Dalits, Adivasis, and Shudras are not interested in your Sanskrit Age. +++(Speak for yourself. There exist sachchUdra-s. Also, are Narendra Modi and Rajiv Malhotra who you argue against here not shUdras?)+++ They want to move forward into the English Age, displace these forces from all centres of knowledge production, and establish a connection between food production and knowledge production.
 
 This is not the Amrit Kaal; it is, in fact, the Shudra Kaal. +++(Maybe.)+++ In this era, production is not pollution, as depicted in Sanskrit books. +++(No such depiction.)+++ Here, production is sacred.
 
