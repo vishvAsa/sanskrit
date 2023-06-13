@@ -3,6 +3,8 @@ title = "Caste system"
 
 +++
 
+Also see: [Restricted social role](../Restricted_social_role/).
+
 ## Caste system reinforcement
 > Claim: "Sanskrit literature reinforces the hindu caste system."
 

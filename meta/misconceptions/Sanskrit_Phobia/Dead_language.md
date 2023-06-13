@@ -10,11 +10,12 @@ title = "Dead language"
 - Just search Youtube for Sanskrit videos - even omitting ancient hymns, you will find a lot.
 - "Sanskrit villages" -
     - mattUru [1](https://www.youtube.com/watch?v=s0I8h5oCbrQ).
+- Interesting account of sanskrit use from the perspective of western academics, with references: [NLL](http://languagelog.ldc.upenn.edu/nll/?p=23412).
 
 ## Thriving literary scene and scholarship
-    - 200-300 Mahakavyas composed in Sanskrit since independence. Total literary output is much more.
-    - I myself am in regular contact - in person and electronically - with a quite a few sanskrit scholars of the very high caliber - even more if you consider second degree contacts.
-    - Interesting account of sanskrit use from the perspective of western academics, with references: [NLL](http://languagelog.ldc.upenn.edu/nll/?p=23412).
+- 200-300 Mahakavyas composed in Sanskrit since independence. Total literary output is much more.
+- I myself am in regular contact - in person and electronically - with a quite a few sanskrit scholars of the very high caliber - even more if you consider second degree contacts.
+
 
 
 ## Immortality by standardization
