@@ -7,7 +7,7 @@ title = "Content-scope"
 Popular and award-winning novels encompassing history (Eg. Bhairappa's sArtha) and science fiction (bhuvanam AnIta) have been published.
 
 ### Pre-1947
-- 
+
 - James R. Ballantyne wrote Iṅglaṇḍīya-bhāṣā-vyākaraṇam
 
 The Pandit (काशीविद्यासुधानिधिः), a Monthly Journal (1866 to 1920), of the Benares College, devoted to Sanskrit Literature carried the following:
