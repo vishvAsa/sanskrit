@@ -120,3 +120,9 @@ or three vertical strokes above it or a dot below it
 ## एकश्रुतीभावः
 - "In some special cases a long section of the Saṃhitāpāṭha suppress all inherent accents and is rendered purely in Ekaśruti. This is mainly seen in KṛYV tradition." तैत्तिरीयारण्यक आरण्यकशिक्षानुसारं वाक्यस्वराधीनम् - "अग्निश्च मा मन्युश्च मन्युपतयश्च मन्यु॑कृते॒भ्यः ।"
 
+## चिह्नान्तराणि
+### कर्षणम्
+> A practitioner of the 4th veda from the andhra country had his text marked up with marks corresponding to these ^ said to be vishiShTa-dhAraNa-sthalAni, where the reciter lingers/pauses a bit. - MT
+
+इ॒है᳐वाभि वि त॑नू॒᳐भे आनी॑ इव॒ ज्यया॑ ।  
+वा॒चस् प॒तिर् नि य॑छतु मय्य् ए॒᳐वास्तु मयि॑ श्रु॒तम् ॥३॥
