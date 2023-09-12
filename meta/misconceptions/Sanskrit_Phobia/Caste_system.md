@@ -13,3 +13,4 @@ Why single out Sanskrit epics for this analysis? What about Hindi, Tamil, Kannad
 Why would you turn a blind eye to mountains of Sanskrit works (hindu, buddhist, jain) which talk nothing about caste or gender roles in a way you dislike?
 
 ## brAhmaNa-incompetence
+TODO: Fill
