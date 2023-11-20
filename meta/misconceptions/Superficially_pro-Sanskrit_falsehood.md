@@ -65,3 +65,6 @@ Suhasa says:
   - As suhAsa says: "Word-offerings of praises (read lies) will do nothing to revive the language. Learn the language, speak it, enjoy its literary richness and then proudly wear the badge of Sanskrit on your chest."
 - Other analyses:
     - Suhasa's [post](https://www.facebook.com/photo.php?fbid=10200606487618941&set=a.2863903190992.141823.1062114412&type=1).
+
+## Memory magic plus
+Hartzell's 2018 work highlights effects of verbal memorization, which is not particular to sanskrit. (London Taxi Drivers who were required to memorize lot of info showed similar brain changes). Also, hypertrophy in memory-specific areas may or may not correlate significantly with overall cognitive performance.
