@@ -101,11 +101,6 @@ DG0115 कटु kaṭu 1. Pungent; One among six rasa. 2. Synonym of Katuki(Pic
 तीक्ष्ण तीक्ष्ण, अस्, आ, अम् (fr. rt. तिज्; cf. the similar word तिग्म, which is more used than तीक्ष्ण in the older literature), sharp (in all senses), hot, pungent, warm, fiery; acid (= खर-उष्ण);  
 Cardiospermum Halicacabum; black mustard;
 
-यतीन्द्रमत-तीपिकायां तु - 
-
-> किम्पाक-निम्बादि-रसाः तिक्त-भेदाः ।  
-शुण्ठी-मरीची-सर्षपादि-रसाः कटु-भेदाः ।  
-
 अभिधान-मञ्जर्याम्
 
 > मरिचं श्यामं पलितं कृष्णं कटुकासितं च यव(नेष्टम्) ।  
@@ -170,6 +165,11 @@ Cardiospermum Halicacabum; black mustard;
 पदविभागः - नपुंसकलिङ्गः  
 कन्नडार्थः - ಗುಗ್ಗುಳ /ದೇವಧೂಪ  
 विस्तारः - "श्रीमान् स्निग्धः सर्वसहःश्लेष्मी तिक्तः कटुर्लघुः" - वैज० ।
+
+यतीन्द्रमत-तीपिकायां तु -
+
+> किम्पाक-निम्बादि-रसाः तिक्त-भेदाः ।  
+शुण्ठी-मरीची-सर्षपादि-रसाः कटु-भेदाः ।
 
 
 
