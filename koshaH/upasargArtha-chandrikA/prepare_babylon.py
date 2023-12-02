@@ -12,6 +12,7 @@ header = """
 def prepare_babylon():
 	content_files = glob.glob('*.md')
 	content_files = [f for f in content_files if 'index.md' not in f]
+	content_files = sorted(content_files)
 	fileout = 'upasargArthachandrikA.babylon'
 	fout = open(fileout, 'w')
 	fout.write(header)
@@ -34,7 +35,7 @@ def prepare_babylon():
 			definition = definition.rstrip()
 			definition = definition.replace('\n', '<br>')
 			hws = dhAtu + '|' + sopasarga
-			print(hws)
+			#print(hws)
 			#print(definition)
 			#print()
 			fout.write(hws + '\n' + definition + '\n\n')
