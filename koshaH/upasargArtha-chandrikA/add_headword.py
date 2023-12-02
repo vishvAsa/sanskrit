@@ -1,6 +1,7 @@
 import re
 import glob
 import json
+from indic_transliteration import sanscript
 
 def generate_file_upasarga_map():
 	content_files = glob.glob('*.md')
@@ -8,7 +9,8 @@ def generate_file_upasarga_map():
 	file_upasarga_map = {}
 	for fil in content_files:
 		prt = fil.split('_')
-		upasarga = prt[1]
+		upasarga = prt[1].rstrip('.md')
+		upasarga = sanscript.transliterate(upasarga, 'itrans', 'devanagari')
 		file_upasarga_map[fil] = upasarga
 	print(file_upasarga_map)
 	fileout = 'trial/file_upasarga_map.json'
