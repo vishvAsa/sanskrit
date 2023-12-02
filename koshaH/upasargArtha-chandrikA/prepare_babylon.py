@@ -34,6 +34,8 @@ def prepare_babylon():
 			definition = '-' + definition
 			definition = definition.rstrip()
 			definition = definition.replace('\n', '<br>')
+			# Try to convert double asterisks to `<b></b>` tags.
+			definition = re.sub('[*]{2}([^*]*)[*]{2}', '<b>\g<1></b>', definition)
 			hws = dhAtu + '|' + sopasarga
 			#print(hws)
 			#print(definition)
@@ -42,6 +44,7 @@ def prepare_babylon():
 
 	fout.close()
 
+	# Postprocessing to remove trailing blank lines
 	babylon_file = 'upasargArthachandrikA.babylon'
 	fin = open(babylon_file, 'r')
 	data = fin.read()
