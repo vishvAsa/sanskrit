@@ -37,5 +37,5 @@ def prepare_auto_added_upasargas():
 		fout.write(data)
 		fout.close()
 
-#prepare_auto_added_upasargas()
+prepare_auto_added_upasargas()
 
