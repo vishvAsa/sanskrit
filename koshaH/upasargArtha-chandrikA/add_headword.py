@@ -3,7 +3,7 @@ import glob
 import json
 from indic_transliteration import sanscript
 
-def generate_file_upasarga_map():
+def obsolete_generate_file_upasarga_map():
 	content_files = glob.glob('*.md')
 	content_files = [f for f in content_files if 'index.md' not in f]
 	file_upasarga_map = {}
@@ -20,7 +20,7 @@ def generate_file_upasarga_map():
 #generate_file_upasarga_map()
 
 
-def prepare_auto_added_upasargas():
+def obsolete_prepare_auto_added_upasargas():
 	content_files = glob.glob('*.md')
 	content_files = [f for f in content_files if 'index.md' not in f]
 	with open('trial/file_upasarga_map.json', 'r') as jin:
@@ -37,5 +37,25 @@ def prepare_auto_added_upasargas():
 		fout.write(data)
 		fout.close()
 
-prepare_auto_added_upasargas()
+# Not necessary to run again
+# prepare_auto_added_upasargas()
+
+# change the triple hashes to "- {प्राज्}"
+def change_hash_to_dash():
+	content_files = glob.glob('trial/*.md')
+	for filein in content_files:
+		print(filein)
+		fin = open(filein, 'r')
+		data = fin.read()
+		fin.close()
+		# make the necessary change
+		data = re.sub('\n###[ ]*(.*)[ ]*\n', '\n- {\g<1>}\n', data)
+		fileout = filein
+		fout = open(fileout, 'w')
+		fout.write(data)
+		fout.close()
+
+
+if __name__ == "__main__":
+	change_hash_to_dash()
 
