@@ -17,7 +17,7 @@ def generate_file_upasarga_map():
 	fout = open(fileout, 'w')
 	json.dump(file_upasarga_map, fout, ensure_ascii=False, indent=1)
 # No need to rerun. The file is already generated.
-generate_file_upasarga_map()
+#generate_file_upasarga_map()
 
 
 def prepare_auto_added_upasargas():
