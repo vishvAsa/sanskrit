@@ -41,7 +41,7 @@ def obsolete_prepare_auto_added_upasargas():
 # prepare_auto_added_upasargas()
 
 # change the triple hashes to "- {प्राज्}"
-def change_hash_to_dash():
+def obsolete_change_hash_to_dash():
 	content_files = glob.glob('trial/*.md')
 	for filein in content_files:
 		print(filein)
@@ -55,7 +55,10 @@ def change_hash_to_dash():
 		fout.write(data)
 		fout.close()
 
+# No need to rerun. Not risky though. Script is idempotent
+#change_hash_to_dash()
+
 
 if __name__ == "__main__":
-	change_hash_to_dash()
+	pass
 
