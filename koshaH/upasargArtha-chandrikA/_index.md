@@ -3,6 +3,12 @@ title = "+उपसर्गार्थ-चन्द्रिका"
 unicode_script = "devanagari"
 
 +++
+
+Source: [TW](https://archive.org/details/UpasargaArthaCandrika/upasarga-artha-candrika.%20vol.%201%20%28pra-sam%29/)
+
+Source: [v2](https://archive.org/details/Upasargarthachandrika-2ndVolume/mode/2up)
+
+
 उपसर्गार्थचन्द्रिका  
 A thesaurus of Sanskrit prepositional verbs
 
