@@ -33,16 +33,25 @@ unicode_script: devanagari
 #### शुद्धः
 - विवरणान्य् [अत्र](../../shixaa/svaraH/svaritaH/prabhedAH/)।
 - पाश्चात्याः - `S_d`
-- मैत्रायणीयाः - a horizontal line crossing the middle of the syllable
-or three vertical strokes above it or a dot below it 
-- काठक-संहिता - dot below
+- मैत्रायणीयाः 
+  - तालपत्त्रेषु 
+    - three vertical strokes above it or a dot below it generally
+    - a horizontal line crossing the middle of the syllable if followed by sannatara, svarita sequence 
+  - क्वचिन् मुद्रित-ग्रन्थेषु 
+    - `᳕` below generally,
+    - `᳖` if followed by sannatara, svarita sequence
+- काठक-संहिता 
+  - क्वचित् - dot below
+  - क्वचित् - unmarked
 
 #### जात्यः
 - विवरणान्य् [अत्र](../../shixaa/svaraH/svaritaH/prabhedAH/)।
 - `'`, "`" इति पाश्चात्याः। "saMhita text in transliteration: at best only the udAtta and jAtya svarita are marked." S_i इत्यपि. 
-- मैत्रायणीयाः - curve below `᳘`.
+- मैत्रायणीयाः
+  - तालपत्रेषु - `᳗`  
+  - मुद्रित-ग्रन्थे क्वचित् - curve below `᳘`.
 - वाजसनेय-संहिता - `᳖`
-- काठक-संहिता - `᳗` below only if an anudAtta follows, otherwise hook `᳕`.
+- काठक-संहिता - `᳕` below only if a sannatara follows, otherwise hook `᳗`.
 - काश्मीरक-ऋग्वेदः - `᳠`
 - शौनकशाखा - `᳡` is used to depict such Svarita -s, i.e. वी॒र्या॑᳡णि. 
 
@@ -81,6 +90,9 @@ or three vertical strokes above it or a dot below it
 ### काठक-संहिता
 - ग्रन्थाः - [१‌](https://archive.org/details/kathaka_krishna_yajur_veda/mode/2up?view=theater) ।
 - इषे॑ त्वोर्जे॑ त्वा वाय॑वस्थोपाय॑वस्थ... देव॑स्य त्वा सवितुः॑ प्रसवे᳕ ऽश्वि॑नोर् … उर्व᳕न्त॑रिक्षं वी᳗हि।
+
+### मैत्रायणीय-संहिता
+- क्वचिन् मुद्रित-ग्रन्थय् एवम् - वि॑ष्णु᳕र् अ॒न्त॑रि᳖क्षे॒ व्य᳘क्रँस्त॒ …
 
 ### सामवेदे राणायनीय-गाने 
 - अक्षरैः स्वराङ्कनम्
