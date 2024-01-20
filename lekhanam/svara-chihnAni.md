@@ -15,7 +15,7 @@ unicode_script: devanagari
 ### उदात्तः
 - प्रसिद्धभारतीयविधिः - अचिह्नितः, परिवेश्य् अनुदात्त-स्वरिताभ्यां पदपाठज्ञानेन च ज्ञेयः।
 - पाश्चात्याः - `\``
-- काठक-संहिता - `॑`
+- काठक-संहिता, मैत्रायणीय-संहिता (([म](https://archive.org/details/maitrayanisamhit015004mbp))) - `॑`
 
 ### अनुदात्तः
 #### सन्नतरः
@@ -35,14 +35,16 @@ unicode_script: devanagari
 - पाश्चात्याः - `S_d`
 - मैत्रायणीयाः 
   - तालपत्त्रेषु 
-    - three vertical strokes above it or a dot below it generally
-    - a horizontal line crossing the middle of the syllable if followed by sannatara, svarita sequence 
-  - क्वचिन् मुद्रित-ग्रन्थेषु 
-    - `᳕` below generally,
-    - `᳖` if followed by sannatara, svarita sequence
+    - अ᳛ (three vertical strokes above) svarita is short and followed by sannatara
+      - or a dot below it
+    - अ᳔ (a horizontal line crossing the middle of the syllable) otherwise.
+  - क्वचिन् मुद्रित-ग्रन्थेषु ([म](https://archive.org/details/maitrayanisamhit015004mbp)) 
+    - `᳕` when svarita is short and followed by sannatara,
+    - `᳖` otherwise
 - काठक-संहिता 
   - क्वचित् - dot below
   - क्वचित् - unmarked
+
 
 #### जात्यः
 - विवरणान्य् [अत्र](../../shixaa/svaraH/svaritaH/prabhedAH/)।
@@ -53,7 +55,7 @@ unicode_script: devanagari
 - वाजसनेय-संहिता - `᳖`
 - काठक-संहिता - `᳕` below only if a sannatara follows, otherwise hook `᳗`.
 - काश्मीरक-ऋग्वेदः - `᳠`
-- शौनकशाखा - `᳡` is used to depict such Svarita -s, i.e. वी॒र्या॑᳡णि. 
+- शौनक-शाखा - `᳡` is used to depict such Svarita -s, i.e. वी॒र्या॑᳡णि. 
 
 #### अनित्यः
 - कम्पः - `सु॒प्र॒ऽअ॒व्ये॑ + यज॑मानाय → सुप्रा॒व्ये॒३॒॑ यज॑मानाय`। विवरणान्य् [अत्र](../../shixaa/svaraH/svaritaH/kampaH/)।
@@ -92,7 +94,7 @@ unicode_script: devanagari
 - इषे॑ त्वोर्जे॑ त्वा वाय॑वस्थोपाय॑वस्थ... देव॑स्य त्वा सवितुः॑ प्रसवे᳕ ऽश्वि॑नोर् … उर्व᳕न्त॑रिक्षं वी᳗हि।
 
 ### मैत्रायणीय-संहिता
-- क्वचिन् मुद्रित-ग्रन्थय् एवम् - वि॑ष्णु᳕र् अ॒न्त॑रि᳖क्षे॒ व्य᳘क्रँस्त॒ …
+- क्वचिन् मुद्रित-ग्रन्थय् (([म](https://archive.org/details/maitrayanisamhit015004mbp))) एवम् - वि॑ष्णु᳕र् अ॒न्त॑रि᳖क्षे॒ व्य᳘क्रँस्त॒ …
 
 ### सामवेदे राणायनीय-गाने 
 - अक्षरैः स्वराङ्कनम्
