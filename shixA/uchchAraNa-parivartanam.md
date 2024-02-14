@@ -3,12 +3,20 @@ title: उच्चारण-परिवर्तनम्
 unicode_script: devanagari
 ---
 
+
 ## परिवर्तनक्रमः
 {{< figure src="../images/phonetic_transformation.png"  >}}
 {{< figure src="../images/phonetic_transformation_text.png"  >}}
 
 - "The orthodox Indian tradition has greatly respected the relationship of a teacher and his disciple and has continued to believe that nothing ever changed in this oral transmission. It is believed that the oral text has been handed down from one generation to the next without any changes. However, we must view a preliterate oral tradition with a fresh linguistic and analytical approach. We must distinguish a “pseudo-connection” from a “real connection” between two successive synchronic states of a preliterate oral text."
 - Within the veda-s, one finds great inconsistency in applicaiton of phonetic rules ("प्र णो " इत्यपि दृश्यते, "प्र नो" इत्यपि।) - so that "the preredaction oral traditions were extremely irregular, imperfect, flexible and, therefore, ironically, more “natural” to ancient oral literature, and that a major amount of the phonetic “information” which we find in the existing Vedic recensions can hardly be considered to represent the original compositions."
+
+### प्रादेशिक-परिवर्तनानि
+वर्ण-व्यत्ययो ऽन्यत्र द्रष्टव्यः।
+
+
+- Kashmiri īḍe -> ēḍe, purohitam -> purohētam
+- yajñasya :  jña -> Maharasthra  dnya, N. India gny,
 
 ### लल्लावाक्यानाम् उदाहरणम्
 - "Grierson (1929) has given a fascinating account of how the Kashmiri text of Lalla-vAkyAni, originally composed in the latter half of the fourteenth century, has been preserved orally to the present day without ever having been written down. Grierson (1929:74) points out that “save for a few forms that have remained unchanged...her verses are in what is practically modern Kashmiri.” However, the text of the Mahanayaprakasha was composed in the fifteenth century and was written down at the time it was composed, and hence its language is preserved without any further change. "
@@ -28,12 +36,13 @@ unicode_script: devanagari
 - न्यूङ्खवचने शस्त्राणि बहुदीर्घ+ओकारेणोच्यन्ते। 
 
 ### ऋग्वेदे पादशो वचनम्
-- अनुदात्तं सर्वमपादादौ ८.१.१८ इति पाणिनिः। तेन विषमपादादाव् अपि न स्वरनिघातः, यथा- "जी॒वात॑वे प्रत॒रं सा॑धया॒ धियोऽग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥" [इत्यत्र](http://rigveda.sanatana.in/describe/pada/%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A5%91)। तथा, "the enclitic forms such as ते and मे, as they come under the Pāṇinian restriction of अपादादौ cannot occur at the beginning of any pādas" इत्यपि वर्तते।
+- अनुदात्तं सर्वमपादादौ ८.१.१८ इति पाणिनिः।  
+  - तेन विषमपादादाव् अपि न स्वरनिघातः, यथा- "जी॒वात॑वे प्रत॒रं सा॑धया॒ धियोऽग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥" [इत्यत्र](http://rigveda.sanatana.in/describe/pada/%E0%A4%85%E0%A4%97%E0%A5%8D%E0%A4%A8%E0%A5%87%E0%A5%91)। तथा, "the enclitic forms such as ते and मे, as they come under the Pāṇinian restriction of अपादादौ cannot occur at the beginning of any pādas" इत्यपि वर्तते।
 - It is interesting to note that lots of Rk-s preserved in other vaidika texts, such as [naxatra sUkta from TB](https://archive.org/stream/Anandashram_Samskrita_Granthavali_Anandashram_Sanskrit_Series/ASS_037_Taittiriya_Brahmanam_with_Sayanabhashya_Part_2_-_Narayanasastri_Godbole_1898#page/n249/mode/2up) are indeed split pAda-wise. This can still be heard in current recitations. Ditto in case of sAma reciters (at least the one tradition I've heard) chanting Rks such as ["आ꣡क्र꣢न्दय कु꣣रु꣡ घोष꣢꣯म् म꣣हा꣢न्तम्... "](https://archive.org/details/SamaVedaSanhitaWithSayanabhashyaVolume2SatyavrataSamasrami1876bis_201804/page/n443/mode/2up). They were probably received at a similar time.
 - Timing. This pAda-wise recitation may have been before the production of current Rk saMhitA as well as kramapATha: "However, beginning with the Kramapāṭha, the half-verses [ardharca] are treated as units, and the end of the half-verse [ardharca] is marked with a repetition of the last word like X iti X." 
 
 ### वेदेष्वेवोल्लेखः
-- सणषकारपाठ-विषये ब्राह्मणे चर्चा दृश्यते- [मूर्धाभागे](../mUrdhA/) दृश्यताम्।
+- स-ण-षकारपाठ-विषये ब्राह्मणे चर्चा दृश्यते- [मूर्धाभागे](../mUrdhA/) दृश्यताम्।
 
 ### पुराणोल्लेखः
 - लिङ्गपुराणे - एको वेदश्चतुष्पादस् त्रेतास्विह विधीयते । संक्षयाद् आयुषश् चैव व्यस्यते द्वापरेषु सः ॥ १,३९.५७ ॥ ऋषिपुत्रैः पुनर्भेदा भिद्यन्ते दृष्टिविभ्रमैः । मन्त्रब्राह्मण-विन्यासैः स्वर-वर्ण-विपर्ययैः ॥ १,३९.५८ ॥ संहिता ऋग्यजुःसाम्नां संहन्यन्ते मनीषिभिः । सामान्या वैकृताश्चैव द्रष्टृभिस्तैः पृथक्पृथक् ॥ १,३९.५९ ॥

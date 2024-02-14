@@ -41,6 +41,15 @@ unicode_script = "devanagari"
 ## पद्येषु
 - "अपि माषं मषं कुर्यात् छन्दोभङ्गं न कारयेत्" इति प्रसिद्धा। रामायणे - " तस्याभिषेकसंभारान् दृष्ट्वा भार्या ऽथ कैकयी ।"
 
+## ऋग्-वेदे
+> initial sound (not word!) changes like īḍe -> Iḷe or súvàr -> svàr) and the subsequent  orthoepic diaskeuasis (like pāvaka/pavāka),  resulting in Śākalya’s RV Padapāṭha. 
+>
+> Vedic Variants occur in the adaptation and transmission of RV mantras in OTHER Vedas. RV mantras have been taken over early on by various Śākhās of the YV, SV, AV in “deteriorated” (perseverated) form, see Oldenberg (and even Aufrecht’s introduction to his RV edition!)  
+> 
+> Oldenberg clearly shows how RV Mantras were adopted in perseverated form into the early YV while the later YV (Agnicayana) uses the correct, established forms of the RV transmission. Once adopted by the YV, SV, AV, they have been transmitted faithfully in the form they had attained in these various Śākhās. Hence so many “Vedic Variants”.
+
+- M Witzel.
+
 ## तैत्तिरीयशाखायाम्
 ### पाणिनीय-विकल्पाः
 केचन विकल्पाः सर्वत्रैव प्रायेणानुसृतः -  
@@ -78,11 +87,13 @@ if ङ्  followed by  स् ,   ष्   then  क्  is Agama.
 
 ## माध्यन्दिन-विकाराः
 - भाषिकस्वरः तेषाम् उपनिषत्सु एव वर्तते \- संहितायां नास्ति। तत्र हस्तस्वर एव प्रधानः।
+
+### षस्य खम्
 - षकारस्य खकारोच्चारणं नियमानुसारं भवति
-    - तच्च प्रातिशाख्यपरिशिष्टात्मके कात्यायनकृते [प्रतिज्ञासूत्रे](http://vedicreserve.mum.edu/shiksha/pratijna_sutram.pdf) "तस्मिञ्छुक्ले याजुषाम्नाये _माध्यन्दिनीयके_ मन्त्रे स्वरप्रक्रिया। ... अथो मूर्धन्यस्योष्मणोऽसंयुक्तस्य टुमृते संंयुक्तस्य च खकारोच्चारणमद्ध्ययनकर्मस्थवेलायाम् प्रकृत्या" इति वचनेनैव सुष्पष्टतयाऽन्वाख्यातमस्ति । \[सम्मोदः [अत्र](https://twitter.com/sammodacharya/status/953073357037031424)\]
-    - केशवीशिक्षायाम् - "षः खस् टुमृते च"
-    - एवं लघुमाध्यन्दिनशिक्षायामपि किञ्चित् - षकारस्य खकारस्स्यात् टुग्योगे तु न भवेत्।
-    - ऐतिहासिकदृष्ट्यै [मूर्धापृष्ठम्](../mUrdhA/) ईक्षताम्।
+- तच्च प्रातिशाख्यपरिशिष्टात्मके कात्यायनकृते [प्रतिज्ञासूत्रे](http://vedicreserve.mum.edu/shiksha/pratijna_sutram.pdf) "तस्मिञ्छुक्ले याजुषाम्नाये _माध्यन्दिनीयके_ मन्त्रे स्वरप्रक्रिया। ... अथो मूर्धन्यस्योष्मणोऽसंयुक्तस्य टुमृते संंयुक्तस्य च खकारोच्चारणमद्ध्ययनकर्मस्थवेलायाम् प्रकृत्या" इति वचनेनैव सुष्पष्टतयाऽन्वाख्यातमस्ति । \[सम्मोदः [अत्र](https://twitter.com/sammodacharya/status/953073357037031424)\]
+- केशवीशिक्षायाम् - "षः खस् टुमृते च"
+- एवं लघुमाध्यन्दिनशिक्षायामपि किञ्चित् - षकारस्य खकारस्स्यात् टुग्योगे तु न भवेत्।
+- ऐतिहासिकदृष्ट्यै [मूर्धापृष्ठम्](../mUrdhA/) ईक्षताम्।
 
 ### जकारीकरणम्
 एतेनैव प्रकारेण यकारस्य जकारोच्चारणमपि।
