@@ -40,22 +40,9 @@ Suhasa says:
 
 - puShpaka-vimAna in the Ramayana and the vaimAnika-shAstra merely show the excellent imagination of their authors. \[[MT](https://manasataramgini.wordpress.com/2007/07/23/vaimanika-shastra/)\]
 - This is not to deny that ancient hindu scientists and mathematicians expressed themselves using Sanskrit.
+- Forgery list [here](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/resources/science/hype)
 
-<details><summary>Forgery list</summary>
-
-> संस्थाप्य मृण्मये पात्रे ताम्रपत्रं सुसंस्कृतम्।‌  
-> छादयेच्छिखिग्रीवेन चार्द्रााभि काष्ठापांसुभिः॥  
-> दस्तालोष्टो निधात्वयः पारदाच्छादितस्ततः।  
-> संयोगाज ्जायते तेजो मित्रावरुणसंज्ञितम्‌॥  
-> 
-> Misattributed to agastya-saMhitA. [TW](https://twitter.com/vedicgyaanindia/status/1501973903656177678)
-
-
-</details>
-
-
-
-## Known sources of errors
+### Known sources of errors
 
 - As of 2016 - some Samsrita Bharati books including "Pride of India" \[[TW16](https://twitter.com/sudarshanhs/status/774433418515849216)\] and "kovida text". \[[TW16](https://twitter.com/blog_supplement/status/774418049642487810)\]
 
