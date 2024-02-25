@@ -36,8 +36,6 @@ jobs:
       if: ${{ steps.changed-files.conclusion == 'skipped' || !contains(steps.changed-files.outputs.all_changed_files, 'content') }}
       run: |
         set -o xtrace
-        echo "=====${{ steps.changed-files.outputs.all_changed_files}}======"
-        echo "=====${{ steps.changed-files.outputs.all_changed_files}}======"
         git submodule update  --init --recursive
         git submodule update --remote --merge --recursive
     - name: Setup Hugo
