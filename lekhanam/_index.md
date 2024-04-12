@@ -122,12 +122,18 @@ Here space is avoided in case of most sandhis (makAra to anusvAra being an excep
 यथा "अवभ्रियन्ते उत्सृज्यन्ते कानिचिद् द्रव्याण्य् अस्मिन्नित्य् अवभृथः कर्मविशेषः" इति वाक्यम् पश्यतु। रीत्यन्तरेण लिखितं तदेव वाक्यम् एवम् अभविष्यत् - "अवभ्रियन्ते उत्सृज्यन्ते कानिचिद्द्रव्याण्यस्मिन्नित्यवभृथः कर्मविशेषः ।" वीक्षताम् - "कानिचिद् द्रव्याण्य् अस्मिन्नित्य् अवभृथः" इति पठितुं सरलतरम्, "कानिचिद्द्रव्याण्यस्मिन्नित्यवभृथः" इति पठितुम् अधिकः श्रमः।
 
 #### Objection to uniformity
-An objection I've come across multiple times is as follows: "As I had indicated to you earlier, the break up of words is fine for your conversational exchanges, news reporting, indology word analysis, personal study, and to teach students, but not for the original texts. They should not be disturbed."
+An objection I've come across multiple times is as follows: 
 
-To this, my response is to note as follows: If you want to "keep it original" - you should remove EVERY bit of whitespace (and even very many avagrahas) - that was how all indian scripts were written 200 years ago as may be verified from palm leaf manuscripts. There is no shAstra requiring me to follow some arbitrary, modern and inconsistent rule for breaking up words. As such my personal convenience trumps such shaky conventions.
+> "The break up of words is fine for your conversational exchanges, news reporting, indology word analysis, personal study, and to teach students, but not for the original texts. They should not be disturbed."
+
+To this, my response is to note as follows: If you want to "keep it original" - 
+
+> you should remove EVERY bit of whitespace (and even very many avagrahas) - that was how all indian scripts were written 200 years ago as may be verified from palm leaf manuscripts. There is no shAstra requiring anyone to follow some arbitrary, modern and inconsistent rule for breaking up words. As such personal convenience trumps such shaky conventions.
 
 अन्येभ्यो भारतीयेभ्यो बहुभ्यस् स्वसंस्कार-वशाद् इयं ("कानिचिद् द्रव्याण्य् अस्मिन्नित्य् अवभृथः" इति) लिखनपद्धतिर् न रोचत इति वेद्मि - तेषां कृते "कानिचिद्द्रव्याण्यस्मिन्नित्यवभृथः" इति पाठम् पुनर् यान्त्रि-करीत्या तस्मात् पाठाज् जनयितुं सरलम् (न तावद् विपरीतम् - यान्त्रिक-पद-विभाग-करणे दोष-सम्भवात्)।
 
 #### Related discussions
-- गद्य-लेखने सन्धिनियम-पालने च रिक्तस-्थान-योजने [अत्र](https://groups.google.com/d/msg/padyadhaaraa/ZY406Vm81I4/bfTFd1omfJUJ), [अत्र](https://groups.google.com/d/msg/bvparishat/69maR5wwmKw/6Fcm5fL2BgAJ) च। 
+- गद्य-लेखने सन्धिनियम-पालने च रिक्त-स्थान-योजने [अत्र](https://groups.google.com/d/msg/padyadhaaraa/ZY406Vm81I4/bfTFd1omfJUJ), [अत्र](https://groups.google.com/d/msg/bvparishat/69maR5wwmKw/6Fcm5fL2BgAJ) च। 
 
+## Misc conventions
+- ४ं is चतुर्वारं (four times डं, हं, णं etc.)
