@@ -15,5 +15,5 @@ title: व्यङ्ग्यः
 
 
 ## प्रकाराः
-<div class="spreadsheet" src="../vyangyaH.json"> </div>  
+<div class="spreadsheet" src="../vyangyaH.toml"> </div>  
 

@@ -17,6 +17,6 @@ unicode_script: devanagari
 
 
 ## प्रकाराः
-<div class="spreadsheet" src="../laxaNA.json"> </div>  
+<div class="spreadsheet" src="../laxaNA.toml"> </div>  
 
 
