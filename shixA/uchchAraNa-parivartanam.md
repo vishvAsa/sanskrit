@@ -71,7 +71,7 @@ To this day, you find (particularly N Indian) pAThaka-s mispronouncing anusvAra 
 
 
 ## ह्म →म्ह
-Many traditionalists transpose ह्म् ह्न् ह्ण् -  
+Many traditionalists transpose ह्म् ह्न् ह्ण् into म्ह् म्न् ण्ह् -  
 
 
 They cite -
@@ -81,12 +81,15 @@ They cite -
 > हकारान् +++(शाखान्तरे लोकप्रसिद्धप्रयोगे वा)+++ नणम-परान् नासिक्यम्॥२१.१४॥ +++(पूर्वं निपात्यते)+++  
 > After h, when followed by n, ṇ, or m, is inserted nāsikya.
 
-If this is not dismissed as a record of later practice, it is to be taken as being specific to particular vedic traditions.  
+If this is not dismissed as a record of later practice, it is to be taken as being a compulsion specific to a particular vedic branch only.  
+Besides, it itself is proof of the ह्म् ह्न् ह्ण् pronunciation commonly accepted by shiShTas outside taittirIya shAkhA at that time.
+
+
 यतो लिखित-पाठः कथम् पठनीय इति वक्तुं न प्रवृत्तम् प्रातिशाख्यम् इति तद्विदः।  
 तेन सम्मतोच्चारणान्तरापेक्षयैवात्र परिवर्तनं विहितं स्यात्। 
 
 
-Some sAmpradAyikas quote a pANinIya-shixA verse (itself a misattribution to pANini) to justify their traditional (ह्म →म्ह) mispronunciation - 
+Some sAmpradAyikas quote a pANinIya-shixA verse in isolation to justify their traditional (ह्म →म्ह) pronunciation - 
 
 > हकारं पञ्चमैर्युक्तम्  
 > अन्तस्थाभिश्च संयुतम् ।  
@@ -99,7 +102,7 @@ On the contrary, a parallel verse in shaunaka shixA indicates that hm hn etc.. w
 > हकारं पञ्चमैर्युक्तं  
 अन्तःस्थाभिश्च संयुतम् । 
 उरस्यं तं विजानीयात्  
-परं चेत् पृथगुच्चरेत् ॥
+परं चेत् पृथग् उच्चरेत् ॥
 
 रङ्गनाथशर्मा यथा -
 
@@ -109,10 +112,10 @@ On the contrary, a parallel verse in shaunaka shixA indicates that hm hn etc.. w
 अत्र नकारात् परो हकारः इति तस्य कण्ठ्यत्वम् एव ।  
 प्रकृते उरस्यं हकारस्य ।  
 इमानि उदाहरणानि - पूर्वाह्नः, मध्याह्नः, ब्रह्मा, ब्राह्मणः इति पञ्चमवर्णात् पूर्वस्य ।  
-…
+…  
 तत्र वायोः अभिघातस्य शिथिलत्वात्  
 अत्यन्त-शैथिल्येन हकारस्य उच्चारणम् उरसि भवस्य इति ब्रूमः ।  
 …  
 एवं च ब्रह्म, ब्राह्मणः, मध्याह्नः इति हकारं कर्णकठोरं पठन्तः पाठयन्तः च परास्ताः वेदितव्याः ।
 
-So, coorect tradition is that in ह्म , h is lighter/ less emphasized.
+So, correct tradition, as per shixA texts alone, is that in ह्म , h is lighter/ less emphasized.
