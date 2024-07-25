@@ -2,6 +2,8 @@
 title = "इद्-विवेकः"
 +++
 
+Source: [TW](https://archive.org/details/Idviveka)
+
 TODO: परिष्कार्यम्
 
 इद्विवेकः
