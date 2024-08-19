@@ -11,6 +11,7 @@ title = "Restricted social role"
 - There are plenty of Sanskrit scholars (right from upaniShadic seers such as Aitreya mahidAsa to dArA-shikoh / [Abdul Rahim Khan](http://en.wikipedia.org/wiki/Abdul_Rahim_Khan-I-Khana)) who were not brahmaNa-s or kShatriya-s. Eg: mAtanga-divAkara the chaNDAla \[[TW](https://twitter.com/blog_supplement/status/632370949975883776)\]. bhartRmENTa the mahout.
 - Sanskrit is also a liturgical language of buddhism, jainism: even Zoroastrians used it when they came to India and recognized the sanskrit-avestan-monophyly! ([Q1](http://www.quora.com/Why-did-Buddhism-and-Jainism-adopted-Prakrit-instead-of-Sanskrit/answer/Vishvas-Vasuki), [YT15](https://www.youtube.com/watch?v=1NRLdoV_Vw8&index=69&list=WL))
 - shatAvadhAnI gaNesh on this:[video](https://www.youtube.com/watch?v=ff6mVQ_yn2s). Other examples: Abhinavabharata-sara-sangraha by Mummadi Cikkabhupala (= sippgowDa, a chieftain of Madhugiri, Karnataka),Pedakomati Vemareddy, who wrote an extensive vyAkhyAna to Amaru Shatakam.
+- References - [satya-sharma](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v4/articles/satya-sharmA/sanskritsts/)
 - Now foreigners speak and chant Sanskrit quite comfortably ([G15](https://www.youtube.com/watch?v=DQg5k1RHitU)).
 
 - Modern experience with dalits acquiring sanskrit scholarship shows more support than deprecation.
