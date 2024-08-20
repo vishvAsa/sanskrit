@@ -14,6 +14,13 @@ The first recognisable step taken by the Indian government for the preservation 
 ## Diminished role
 Sanskrit’s coeval status with pedagogy reflects the diminished role of the language in the modern era. There is no presence of Sanskrit in journalism, modern literature, the film and music industries, advertising, or public relations. Most accomplished Sanskrit scholars aspire to secure teaching positions, so when they speak of the ‘promotion of Sanskrit,’ they primarily refer to the creation of more teaching posts. +++(5 false)+++
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+The real scholars care about revival of sanskrit, and with that the dharma of the Gods and sages in the hearts of men of AryAvarta.  
+Yet their on-the-ground  impact is comparatively much bigger - samskrita bharati being the main example.
+</details>
+
+
 ## Past, no future
 The Sanskrit Commission independently explored the preservation and research of Sanskrit manuscripts, another area of interest for Sanskrit scholars. While Sanskrit undeniably holds a great heritage, it is more about the past than the future.+++(5)+++
 
@@ -86,7 +93,7 @@ Even without the patronage of any Vikramaditya, the modern Indian languages prod
 
 Why Sanskrit failed to produce its new Kalidas, Bharavi, and Bhavabhuti requires introspection on the part of its proponents. +++(5 Says who? What do you know of modern sanskrit literature?)+++ Sanskrit had flourished and produced its finest gems when there was no competition for its dominance, much like Doordarshan in our times. However, once competition arose, the language failed to keep pace with the changing grammar of time.+++(5 Quibble below.)+++
 
-<details open><summary>विश्वास-टिप्पनी</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
 What does it even mean for a language to "keep pace" with time? If Sanskrit is so otiose as to be incapable of expressing ideas related to modern time, how is it that there exist so many books and articles published and read about the same?
 
@@ -96,7 +103,7 @@ It is a different matter that most people sold out or were forced to sell out of
 
 Sanskrit will still remain a repository of Hindu religion and Indian culture. However, its halcyon days are behind us.
 
-<details open><summary>विश्वास-टिप्पनी</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
 This is contradictory since it amounts to saying "halcyon days of Hindu religion are behind us", since this "sanskrit repository" is the core repository of Hinduism; and will remain so. 
 </details>
