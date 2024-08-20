@@ -19,7 +19,7 @@ The questions of this sort demand clarification of a few points before being ans
 
 One must be convinced enough of the current applicability of Sanskrit, which is widely debated even within India and beyond before having a vested interest in, let alone learning and using, it. Not attempted here is defending the significance of Sanskrit or elaborating on the role of the language, which may be “divine” for some, and “not-so-divine but a useful tool in certain contexts” for some others, and again an “unpleasantly hegemonic and paradigmatic” for another group. I would also skip why on earth we learn Sanskrit here in Sri Lanka. However, I will return to Sri Lanka’s context to highlight a few points relevant to the public impression of Sanskrit scholarship today. I am attempting to present before you an overview of the principal dimensions of Sanskrit scholarship in the contemporary world with particular emphasis on contemporary India, and the countries in Europe and the west, which we generally believe do not promote but treat Sanskrit as a dead language or even an extinct language. I would also attempt to prove that such a belief is simply a semblance or an ābhasa – to dub it in Sanskrit. 
 
-Where is Sanskrit heading? 
+## Where is Sanskrit heading? 
 
 
 It is obvious that we have to place the Sanskrit language in the global context to recognize its current role, limitations, accolades, and humiliations. Surprising enough to kupamandukas (frogs in the well) but not-so-puzzling to people out-of-the-box, Sanskrit receives accolades and humiliations, more often the latter, not only in the contemporary Hindu dominant India but also among the Hindus and even among Brahmins, the longtime custodians of it. 
@@ -38,7 +38,7 @@ Samskrtha Bharati’s endeavour to democratize and popularize conversational San
 
 Having glanced at how Sanskrit is received in contemporary India, I would like to step outside of its birthplace to review succinctly its trod in the west. 
 
-Sanskrit Scholarship outside India 
+## Sanskrit Scholarship outside India 
 
 Approaches to studies of Sanskrit in Europe, as I witnessed at Oxford and a few European universities including “the other place”, the SOAS of London, and Edinburgh in the UK, Gottingen and Heidelberg in Germany, and Vienna in Austria were, surprisingly, not as avant-garde, ultra-modern or radical as I arbitrarily expected them to have been. While working with my supervisors, advisors, thesis examiners, and teachers who had received their doctoral training from top universities including Oxbridge, Harvard, Stanford, Chicago, Yale, Columbia, and Princeton, I observed that they were several times more meticulous and assiduous than most of the traditional scholars I met in India. 
 
@@ -48,31 +48,31 @@ Well, if the westerners are more pedantically traditional – in the sense much 
 
 Here are a few dimensions of western approaches to Sanskrit scholarship in today’s dynamic world. I should tell you that these approaches have had the pizza effect since Indian scholars have started to respond to them favourably and assimilate some in their system of pedagogy and research culture. 
 
-1. Desaffronization of texts 
+## 1. Desaffronization of texts 
 
 Although susceptible to derogatory remarks as writings of pagans or heathens, contemporary critiques of sacred texts by most of the academics that do not compensate truth for sacredness tend to disregard the religious garb of such texts. As long as texts are smeared with religiosity – or to borrow an Indian political neologism – saffronized, to an extent that impedes scientific examination of them, they would not add to valid knowledge. Desaffronizing is thus required to see the core with no frills. Desaffronized and exposed, Sanskrit would be more realistic, commanding and attractive rather than vulnerable, pejoratively mystic, and obsolete. 
 
-2. Texts in context 
+## 2. Texts in context 
 
 Contextualizing Sanskrit texts precisely is yet another approach, predominantly made by westerners, although not as easy as it might sound, to recognize the phases and paths of Indian intellectual history. Since most authors of Sanskrit works remained anonymous, used pen names, ascribed their works to acclaimed authors – sometimes their gurus or patrons – and consequently left minimal personal evidence for us to identify them, we are left only with what they say in the colophons or introductory remarks. Scholars work hard, by reading between the lines, to detect the context in which the text was produced. The hermeneutical literature on some works does become the saviour at least into some extent, but most of the time the commentators were humbler incognitos than the authors! 
 
 What do we understand by contextualizing the texts? Lineal conflicts and personal attacks that developed into prolonged clashes between the gurukulas, for instance. And the scribal errors purported to be as such but purposely employed devices to alter meaning or variants resulting from the popularity of the text in vernacular traditions. Even beneath an ostentatious eulogy, we may decipher a lamentation if carefully gone against the grain by following the paronomastic hints or “slesharthas“. Some Indian pundits in early modern India, as we get to know now, produced perverted commentaries of Sanskrit texts in order to elude harsh polemics, win patronage, or take revenge on the gurukula such texts belonged to. 
 
-3. Naked texts 
+## 3. Naked texts 
 
 As many non-Indian scholars argue, Indic texts garbed in religious and mostly mystic attire require being stripped off in order to reveal the significance they deserve. They have been doing this ever since the colonial pursuits to distinguish Sanskrit from – rather situate Sanskrit in – Indo European philology. One of the discoveries along this line was untraceable quotes in philosophical texts. For instance, Appayya Dikshita and his followers in the early modern Benares critically analysed the Dvaita philosophical texts by Madhva’s disciples. Roque Mesquita (d. 2016), for example, wrote widely on Madhva’s Unknown Sources and defended Appaya’s views to Dvaita Vedantins’ disappointment, more importantly, by dismantling the saint-like stature of a few doyens of Sanskrit classics and revealing the intellectual forgery disregarded or viewed otherwise for over centuries. 
 
-4. Scientific evidence over traditional beliefs 
+## 4. Scientific evidence over traditional beliefs 
 
 Sanskrit scholars – particularly those with academic training from the west do not let go texts without being pinpointed on the timeline. Dating of texts, therefore, remains significant since faulty dates or no dates at all either mislead us or lead us nowhere. Patanjali, a polymath especially in Sanskrit grammar who composed the prestigious Mahabhasya or the great commentary on Panini’s magnum opus, the Astadhyayi, for instance, is never recognized, by traditional pundits, to be different from the Patanjali writing the Yogasutra, the foundation text of the classical yoga. But evidence from the Indian intellectual history itself proved very clearly that they were at least half a millennium apart. 
 
 Lateral thinking plays a significant role here. To read philosophical texts against the grain – for example, from the viewpoint of sociology or cognitive psychology – requires a bold departure from conservative zeal about the “indispensable” divinity and finite liberation on the bank of the Ganges. Similarly, a recent project completed in the US – with the involvement of Stephanie Jamison (b. 1948) from UCLA, a big name in the field of Western Sanskrit scholarship – was on translating the Rgveda, oldest Sanskrit text, into English, with the help of Indo-European linguistics rather than slavishly depending on Indian hermeneutics as many Indian scholars did so far. We know that the most esteemed commentator Sayana’s Vedartha Prakasha commentary come into existence in the 12th century and his interpretations could not satisfy serious scholars with what the Rgveda meant to Indians more than two millennia. 
 
-5. Dissection of Esoteric texts 
+## 5. Dissection of Esoteric texts 
 
 Vedic and Tantric scriptures remained unquestionable (amimamsya) for ages and would continue to do so unless bold approaches to analyze them by using areligious, therefore non-predisposed – tools come to play. The Sanskrit scholarship in today’s west should not, however, be labelled as one bereft of piety but laden with blasphemy and sacrilege. The attempts are made to question the “unquestionability” of the unquestionable, rather than to grill “the unquestionable” themselves. 
 
-6. Sanskrit for Computational Linguistics 
+## 6. Sanskrit for Computational Linguistics 
 
 Computational linguistics is not a new member of the ever-growing discipline linguistics but during the last couple of decades, the involvement of Sanskrit in it has triggered an unprecedented interest among hardcore linguists and computer scientists who are not necessarily Sanskrit pundits by training. Sanskrit computational linguistics has also awakened an increasing number of young scientists and engineers around the globe to probe into the so-far-unfathomed rationality of Sanskrit grammar. Their research in the subdomains such as knowledge extraction and knowledge structure identification from resources, text to speech conversion and vice versa, identification of mathematical elements in Sanskrit grammar, and development of tools for analysing and producing Sanskrit texts are literally revolutionizing our existing understanding of Sanskrit including the ways we teach and learn this pleasantly recondite language and associated branches of knowledge. 
 
@@ -86,7 +86,7 @@ Another point is that the non-translatable Sanskrit terms must enter the mainstr
 
 Malhotra argues that India has had to experience the Pizza effect as regards Sanskrit and its intellectual legacy is exploited at an alarming rate. 
 
-“If these trends continue, India will remain an importer of knowledge about its own civilization rather than being at the helm of the discourse concerning itself.” End quote. (Battle for Sanskrit, 357) 
+> “If these trends continue, India will remain an importer of knowledge about its own civilization rather than being at the helm of the discourse concerning itself.” End quote. (Battle for Sanskrit, 357) 
 
 Malhotra’s accusations are largely grounded on the works by the western writers and he has written a lot – substantially in a proleptical manner – on the ways and means and also the extent of Sanskrit being westernized. Let me quote a few lines from Malhotra’s work “Being Different”, again a Harper Collins publication in 2011, where he illustrates a fine example for the so-called westernization of Sanskrit intellectual legacy. 
 

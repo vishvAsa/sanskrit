@@ -42,5 +42,6 @@ Some object: "Simple Sanskrit is like Butler English only less useful. One can't
 - You can consume lots of modern novels, texts and speeches using Simple sanskrit.
 
 ## Simple sanskrit register is a recent fake neo-language.
-- "There are several offshoots of Sanskrit that already exist and have evolved organically ... Why engineer a neo-language?"
+> "There are several offshoots of Sanskrit that already exist and have evolved organically ... Why engineer a neo-language?"
+
 - Simple standard sanskrit is an organic, well-attested register of the language. Listen to this 1961 radio broadcast - https://www.youtube.com/watch?v=1oH80EHYu4I .
