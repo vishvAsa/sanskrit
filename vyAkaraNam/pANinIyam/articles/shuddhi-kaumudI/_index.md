@@ -1,5 +1,5 @@
 +++
-title = "+शुटिकौमुदी"
+title = "+शुद्धि-कौमुदी"
 unicode_script = "devanagari"
 
 +++
