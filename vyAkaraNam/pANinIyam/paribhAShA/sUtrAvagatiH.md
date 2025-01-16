@@ -9,4 +9,4 @@ unicode_script: devanagari
 
 ## पूर्वत्रासिद्धम्
 - The rules defined in त्रिपादी are non existent with respect to the rules of सपादसप्ताध्यायी. Even within त्रिपादी, the later rules are non existent with respect to the former rules.
-- यथा - अस्मा उद्धर इत्यत्र अकः सवर्णे दीर्घः ( ६.१.१ ) इति न भवति, यतस् तद्दृष्ट्या लोपः शाकल्यस्य ( ८.३.३ ) इति यकारलोपो न जात इव।
+- यथा - अस्मा उद्धर इत्यत्र `आद् गुणः` (6.1.87) न भवति, यतस् तद्दृष्ट्या `लोपः शाकल्यस्य` ( ८.३.३ ) इति यकारलोपो न जात इव।
