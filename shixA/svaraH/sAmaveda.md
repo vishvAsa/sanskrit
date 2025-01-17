@@ -6,7 +6,7 @@ unicode_script: devanagari
 ## गाने कण्ठस्वरे भेदः
 - In current sAmagAna traditions, the hastasvara gestures matches the prescription of lakShaNa-grantha-s and notations, but the kaNTha-svara (actual singing) does not match the gestures to a great extant. Modulating the notation to match the actual singing or vice-versa is definitely worthy of being considered. {[वंशीकृष्णार्यो ऽत्र](https://youtu.be/sxPyUzcZBos?t=969)।}
 
-## आर्चिकस्वरोच्चारणे भेदः
+## आर्चिक-स्वरोच्चारणे भेदः
 
 मा꣡ त्वा꣢ मू꣣रा꣡ अ꣢वि꣣ष्य꣢वो꣣ मो꣢प꣣ह꣡स्वा꣢न꣣ आ꣡ द꣢भन्। मा꣡ कीं꣢ ब्रह्म꣣द्वि꣡षं꣢ वनः ॥ 07-2:0732 ॥
 
