@@ -5,9 +5,9 @@ title = "लोकावेक्षणम्"
 ## वैदिकोच्चारणम्
 In nearly all contemporary vedic recitation systems, the aShTAdhyAyI system is contradicted except for the following:
 
-- Frits Staal made a claim that certain nambUtiri-s recite udAtta in high-pitch pada&"ratha-pATha". He claimed this was retention of ancestral style of veda recitation or even accented Skt speech as recorded by pANini’s statement of "ucchair udAttaH |". \[[TW17](https://twitter.com/blog_supplement/status/818991564290719744)\]
+- Frits Staal made a claim that certain nambUtiri-s recite udAtta in high-pitch pada & "ratha-pATha". He claimed this was retention of ancestral style of veda recitation or even accented Skt speech as recorded by pANini’s statement of "ucchair udAttaH |". \[[TW17](https://twitter.com/blog_supplement/status/818991564290719744)\]
 
-The recently extinct kAshmIra kaTha system seems to have emphasized udAtta, based on their svara marking sysetm.
+The recently extinct kAshmIra kaTha system seems to have emphasized udAtta, based on their svara marking system.
 
 
 सामवेदे - see sAmaveda notes [elsewhere](/sanskrit/shixA/svaraH/sAmaveda).
