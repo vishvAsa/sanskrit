@@ -6,10 +6,11 @@ title = "लोकावेक्षणम्"
 In nearly all contemporary vedic recitation systems, the aShTAdhyAyI system is contradicted except for the following:
 
 - Frits Staal made a claim that certain nambUtiri-s recite udAtta in high-pitch pada&"ratha-pATha". He claimed this was retention of ancestral style of veda recitation or even accented Skt speech as recorded by pANini’s statement of "ucchair udAttaH |". \[[TW17](https://twitter.com/blog_supplement/status/818991564290719744)\]
-- प्रकृतिऋचः साम्नाम् उदात्तं स्वरिताद् \*ऊर्ध्वं\* दर्शयन्तीति भाति। यथा ऽष्टाध्याय्याम्, आचार्यसम्मतप्रातिशाख्यविकल्पेषु च।
-- यथा – तद्विष्णोः॑ पर॒मम्प॒दं सदा॑ पश्यन्ति सू॒रयः॑ । in sAmaveda becomes :
-  {{< figure src="../../images/tad-viShNoH-saama-Rk.png" title="तद्विष्णोः॑ पर॒मम्प॒दं सदा॑ पश्यन्ति सू॒रयः॑ । in sAmaveda becomes this" >}}
-  - The order of increasing pitch in this notation:  ४ > ३ > २ > १
+
+The recently extinct kAshmIra kaTha system seems to have emphasized udAtta, based on their svara marking sysetm.
+
+
+सामवेदे - see sAmaveda notes [elsewhere](/sanskrit/shixA/svaraH/sAmaveda).
 
 ## भाषान्तरेषु
 - अपि स्पानिकादिभाषास्व् अवलोकनेन उदात्तस्य तारतमस्वरत्वंज्ञायते। तदपि बहुशः पाणिन्युक्तस्थानेष्वेव – **amo** (आद्युदात्तम्) **amAmos**। प्रत्ययस्य आद्युदात्तत्वेन पदमध्यो "A" उदात्तः। पाणिनीये शास्त्रेऽपि अपित् प्रत्यय आद्युदात्त एव, इति स्मरणीयम् ।

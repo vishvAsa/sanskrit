@@ -13,7 +13,6 @@ title = "स्वनिर्णयः"
 Basic appeal of the ancient system
 
 - Ancient vaidika-s used it, as evident from recorded information in early texts, as well as inferable from sandhi and such.
-- A small minority of modern vaidika-s (mostly theoretically, sAmavedins in Archika portions) do use this svara system. The recently extinct kAshmIra kaTha system reputedly did the same.
 - An effort to revive and use the pANini’s svara system in veda and loka may be compared with Dr padmA subrahmanyan’s successful fairly revival of "mArga-nRtya" using bharata-muni’s texts and temple sculptures ("bharata"nATya wasn’t good enough).
 - Back to basics: Why is pANini’s svara system or grammar superior to alternatives?
 - Why ever is sanskrit superior to alternatives? Because it was the "language" of father manu and bhRgu, and the language of the deva-s, which encodes sagely thought about dharma and more.
