@@ -11,7 +11,7 @@ unicode_script: devanagari
 
 A small minority of modern vaidika-s (mostly theoretically) do emphasize udAtta high-pitch system - based on their notation system. The order of increasing pitch in this notation:  ४ < ३ < २ < १ .
 
-However this is mostly not observed in practice. 
+However this is mostly not observed in practice - २, ३ are high pitched, with ३ < २ (verified with shrI kRSNa-sharma of mysUru 2025). 
 
 
 मा꣡ त्वा꣢ मू꣣रा꣡ अ꣢वि꣣ष्य꣢वो꣣ मो꣢प꣣ह꣡स्वा꣢न꣣ आ꣡ द꣢भन्। मा꣡ कीं꣢ ब्रह्म꣣द्वि꣡षं꣢ वनः ॥ 07-2:0732 ॥
