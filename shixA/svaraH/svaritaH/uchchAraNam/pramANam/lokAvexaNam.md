@@ -7,7 +7,11 @@ In nearly all contemporary vedic recitation systems, the aShTAdhyAyI system is c
 
 - Frits Staal made a claim that certain nambUtiri-s recite udAtta in high-pitch pada & "ratha-pATha". He claimed this was retention of ancestral style of veda recitation or even accented Skt speech as recorded by pANini’s statement of "ucchair udAttaH |". \[[TW17](https://twitter.com/blog_supplement/status/818991564290719744)\]
 
-The recently extinct kAshmIra kaTha system seems to have emphasized udAtta, based on their svara marking system.
+The recently extinct kAshmIra kaTha system emphasized udAtta, based on 
+
+- Recordings such as इ꣡न्द्राय वा꣡चं वदते꣡न्द्रं वा꣡जं जापयते꣡न्द्रो वा꣡जम्  अजयित्। [YT](https://youtu.be/MqLRyuZp9Z0?t=370)
+
+- their svara marking system.
 
 
 सामवेदे - see sAmaveda notes [elsewhere](/sanskrit/shixA/svaraH/sAmaveda).
