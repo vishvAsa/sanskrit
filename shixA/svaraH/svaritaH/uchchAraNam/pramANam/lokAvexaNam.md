@@ -9,10 +9,8 @@ In nearly all contemporary vedic recitation systems, the aShTAdhyAyI system is c
 
 The recently extinct kAshmIra kaTha system emphasized udAtta, based on 
 
-- Recordings such as इ꣡न्द्राय वा꣡चं वदते꣡न्द्रं वा꣡जं जापयते꣡न्द्रो वा꣡जम्  अजयित्। [YT](https://youtu.be/MqLRyuZp9Z0?t=370)
-
 - their svara marking system.
-
+- However, recordings such as इ꣡न्द्राय वा꣡चं वदते꣡न्द्रं वा꣡जं जापयते꣡न्द्रो वा꣡जम्  अजयित् in [YT](https://youtu.be/MqLRyuZp9Z0?t=370) by Ananda ghanapatigal of Kanchipuram & team seem to use taittirIya mantra-s and svaras.
 
 सामवेदे - see sAmaveda notes [elsewhere](/sanskrit/shixA/svaraH/sAmaveda).
 
