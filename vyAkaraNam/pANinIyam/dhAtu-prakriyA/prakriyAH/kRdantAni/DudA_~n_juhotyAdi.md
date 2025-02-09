@@ -223,7 +223,7 @@ title = "डुदा॒ञ् जुहोत्यादि"
 अ 1.1.40 → दा,त्वा (क्त्वातोसुन्कसुनः [A](https://ashtadhyayi.github.io/suutra/1.1/1.1.40))  
 अ 7.2.10 → दा,त्वा (एकाच उपदेशेऽनुदात्तात् [A](https://ashtadhyayi.github.io/suutra/7.2/7.2.10))  
 अ 1.4.13 → दा,त्वा (यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम् [A](https://ashtadhyayi.github.io/suutra/1.4/1.4.13))  
-अ 7.4.46 → दत्,त्वा (दो दद् घोः [A](https://ashtadhyayi.github.io/suutra/7.4/7.4.46))  
+**अ 7.4.46 → दत्,त्वा (दो दद् घोः [A](https://ashtadhyayi.github.io/suutra/7.4/7.4.46))**  
 अ 8.4.68 → दत्,त्वा (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
