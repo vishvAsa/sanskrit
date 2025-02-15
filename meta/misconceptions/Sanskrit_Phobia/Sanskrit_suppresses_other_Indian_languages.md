@@ -16,6 +16,12 @@ title = "Sanskrit suppresses other (Indian) languages"
   - Again and again, the Tamil shaiva saints speak of how shiva revealed truth in Aariyam and Tamil. [1](http://www.thevaaram.org/thirumurai_1/songview_en.php?thiru=10&Song_idField=10103&padhi=%20&startLimit=8&limitPerPage=1&sortBy=&sortOrder=DESC), [2](http://thevaaram.org/thirumurai_1/songview.php?Song_idField=50180&limitPerPage=1&padhi=018&sortBy=&sortOrder=DESC&startLimit=3&thiru=5), [3](http://thevaaram.org/en/thirumurai_1/songview.php?thiru=11&Song_idField=11033&padhi=040&startLimit=72&limitPerPage=1&sortBy=&sortOrder=DESC&Submit=Please+go)
 - It is not the case that the substratum of India when Vedic Indo Aryans arrived was draviDian ( [DS_YT](https://youtu.be/qXfkDk4fGeY?t=2778) ).
 
+### Grammar impact
+Tolkappiyar, the author of Tolkappiyam Tamil grammar, says he is well versed in Aindram, ie, Aindram School of sanskrit grammar.
+ 
+> Oldest malayalam grammar book is called lilatilakam and belongs to 14th century. It calls the language itself as manipravalam. So no one can say that it is unaffected by sanskrit.
+
+
 ## Sanskrit also borrows
 - Linguists say that Sanskrit \*borrowed\* from as well as lent words to other languages (a hallmark of living languages).
 - Sanskritization is often involved in the process of borrowing.

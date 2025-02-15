@@ -28,3 +28,6 @@ As suhAsa says [here](http://swarajyamag.com/columns/verses-which-produce-magic-
 > Old English is as intelligible to me as Hebrew. Reading Geoffrey Chaucer is like wading through quicksand. Time will ensure libraries move Shakespeare from the literature section to history section. 
 > 
 > But frozen in time by the spell of Pāṇini, only Classical Sanskrit will remain untouched. A few hundred years from now, a young boy (or girl), having taught himself Sanskrit, may decide to write a work to top Rāma Śāstrī. The poet to top Kālidasa may well be born a thousand years from now. My own descendants may spend a sunday afternoon, sipping soylent, and laughing at their ancestor’s metrical misadventures. How absurd it is to label such a language dead! Immortal is more like it."
+
+## Utility
+One should pause to think why Google, Bing, Dharmamitra spend so much money developing and supporting sanskrit translation etc.; why Government of India recognizes it as an official language and translates parliament debates into it.
