@@ -3,6 +3,40 @@ title = "बृहिँ भ्वादि"
 
 +++
 
+## बृहिँ + णिच् + मनिन्
+अ 1.3.1 → बृहिँ (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
+अ 1.3.2 → बृहिँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.9 → बृह् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
+अ 7.1.58 → बृन्ह् (इदितो नुम् धातोः [A](https://ashtadhyayi.github.io/suutra/7.1/7.1.58))  
+अ 3.1.26 → बृन्ह्,णिच् (हेतुमति च [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.26))  
+अ 3.1.32 → बृन्ह्,णिच् (सनाद्यन्ता धातवः [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.32))  
+अ 1.3.3 → बृन्ह्,णिच् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.7 → बृन्ह्,णिच् (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
+अ 1.3.9 → बृन्ह्,इ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
+अ 3.4.114 → बृन्ह्,इ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
+अ 1.4.13 → बृन्ह्,इ (यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम् [A](https://ashtadhyayi.github.io/suutra/1.4/1.4.13))  
+उ 4.144 → बृन्ह्,इ,मनिँन् (सर्वधातुभ्यो मनिन्)  
+अ 6.4.51 → बृन्ह्,,अ (णेरनिटि [A](https://ashtadhyayi.github.io/suutra/6.4/6.4.51) कथम् अनिट्त्वम्??)  
+उ 4.145 → बृ+अ+ह्,मनिँन् (बृंहेर् नोऽच् च)  
+अ 1.3.3 → ब्रह्,मनिँन् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.2 → ब्रह्,मनिँन् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.9 → ब्रह्,मन् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))
+
+
+अग्रे??
+
+## बृहिँ + मनिन्
+अ 1.3.1 → बृहिँ (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
+अ 1.3.2 → बृहिँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.9 → बृह् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
+अ 7.1.58 → बृन्ह् (इदितो नुम् धातोः [A](https://ashtadhyayi.github.io/suutra/7.1/7.1.58))  
+अ 1.4.13 → बृन्ह्,इ (यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम् [A](https://ashtadhyayi.github.io/suutra/1.4/1.4.13))  
+उ 4.144 → बृन्ह्,मनिँन् (सर्वधातुभ्यो मनिन्)  
+उ 4.145 → बृ+अ+ह्,मनिँन् (बृंहेर् नोऽच् च)  
+अ 1.3.3 → ब्रह्,मनिँन् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.2 → ब्रह्,मनिँन् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.9 → ब्रह्,मन् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))
+
 
 ## बृहिँ + अच्
 

@@ -12842,7 +12842,7 @@ unicode_script = "devanagari"
 ### 144
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वधातुभ्यो मनिन्
+सर्वधातुभ्यो मनिन् +++(5)+++
 </details>
 
 <details><summary>प्रत्ययाः</summary>
@@ -12874,7 +12874,7 @@ unicode_script = "devanagari"
 
 <details><summary>सि‌.कौ.</summary>
 
-नकारस्याकारः । ब्रह्म तत्वं तपो वेदो ब्रह्मा विप्रः प्रजापतिः ।
+नकारस्याकारः । ब्रह्म तत्त्वं तपो वेदो ब्रह्मा विप्रः प्रजापतिः ।
 </details>
 
 <details><summary>मूलम्</summary>
