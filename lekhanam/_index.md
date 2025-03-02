@@ -97,43 +97,5 @@ title: +लेखनम्
 ## अन्वेषण-सौकर्यम्
 The fact that there is no separate sign in roman scripts for independent vowel (eg आ) vs dependent vowel (eg the mAtrA in ा) helps easier searching. I generally get by quite well searching for a substring (वेक्ष्य instead of अवेक्ष्य or ावेक्ष्य) though.
 
-## Whitespace conventions
-### उच्चारणेन सम्बन्धः
-**प्रायः** सर्वत्र वस्तुतो वाक्यानां लेखने रिक्तस्थानेषु दर्शितेषु अपि, उच्चारणे तत्कारणाद् विरामो न लक्ष्यते। उदाहरणाय, गतवाक्यम् उक्त्वा पश्यतु, साधारणरीत्या। केवलम्, '।॥' इति चिह्नेन च ',' चिह्नेन सूचितयोस् स्थानयोश् च विरामो ऽनुभूयते। स्वरव्यत्ययस् तु यथा साधारणं भिन्नपदेषु दृश्यते - तत्र न किमप्य् उच्यते। कदाचित् तदृश-छिह्नाभावेऽपि विरामो लक्ष्येत, परन्तु "तद् रिक्तस्थानस्य कारणाद् एव" इति न वक्तुम् अर्हामः। प्रायः तत्र विरामचिह्नयोजनं श्रेयस इति वचनन्तु साधु स्यात्।
-
-आङ्ग्लिके ऽपि तथैव। "I went to hear the conference call. But it was so noisy that I quit." इति वाक्यं सस्वरं यथासाधारणम् उक्त्वा परीक्षताम्। तत्रापि न कुत्रापि विरामो लक्ष्यते। एवं "रिक्तस्थानात् पृथक्पठनं" नाम विरामस्वीकृतिर् इति सूचिता चेत् तर्हि, "हरिर् आगतः" इत्यादौ पृथक्पठनस्य संभावना एव नास्ति।
-
-सर्वासु भाषास्व् इयम् एव स्थितिः।
-
-### No spacing
-- Pre 1800 manuscripts did not use whitespaces.
-- Rarely, one sees people following this convention.
-
-यथा तालपत्राद्यवेक्षणेन जानीयात् - २००-वर्षाभ्याम् पूर्वं भारतीया न हि विदुर् एव रिक्तस्थानप्रयोजनम्। पश्चाद् आङ्ग्लेयेभ्यो ऽवगत्य किञ्चित् प्रयोक्तुम् प्रारभन्त।
-
-### Some spacing
-Here space is avoided in case of most sandhis (makAra to anusvAra being an exception), but is introduced everywhere else between pada-s.  This is popular with the advent of printing.
-
-### Extra spacing
-- I _sometimes_ like to follow the convention shown here: "व्याख्यातुं कुशलाः केचिद् ग्रन्थान् धारयितुम् परे॥". Whatever helps the reader.
-
-इयं पाश्चात्य-लेखनशैली पदविभागम् प्रकटीकरोतितराम्। इयं हि शैली ममेष्टं पठनसौकर्यात्। 
-
-यथा "अवभ्रियन्ते उत्सृज्यन्ते कानिचिद् द्रव्याण्य् अस्मिन्नित्य् अवभृथः कर्मविशेषः" इति वाक्यम् पश्यतु। रीत्यन्तरेण लिखितं तदेव वाक्यम् एवम् अभविष्यत् - "अवभ्रियन्ते उत्सृज्यन्ते कानिचिद्द्रव्याण्यस्मिन्नित्यवभृथः कर्मविशेषः ।" वीक्षताम् - "कानिचिद् द्रव्याण्य् अस्मिन्नित्य् अवभृथः" इति पठितुं सरलतरम्, "कानिचिद्द्रव्याण्यस्मिन्नित्यवभृथः" इति पठितुम् अधिकः श्रमः।
-
-#### Objection to uniformity
-An objection I've come across multiple times is as follows: 
-
-> "The break up of words is fine for your conversational exchanges, news reporting, indology word analysis, personal study, and to teach students, but not for the original texts. They should not be disturbed."
-
-To this, my response is to note as follows: If you want to "keep it original" - 
-
-> you should remove EVERY bit of whitespace (and even very many avagrahas) - that was how all indian scripts were written 200 years ago as may be verified from palm leaf manuscripts. There is no shAstra requiring anyone to follow some arbitrary, modern and inconsistent rule for breaking up words. As such personal convenience trumps such shaky conventions.
-
-अन्येभ्यो भारतीयेभ्यो बहुभ्यस् स्वसंस्कार-वशाद् इयं ("कानिचिद् द्रव्याण्य् अस्मिन्नित्य् अवभृथः" इति) लिखनपद्धतिर् न रोचत इति वेद्मि - तेषां कृते "कानिचिद्द्रव्याण्यस्मिन्नित्यवभृथः" इति पाठम् पुनर् यान्त्रि-करीत्या तस्मात् पाठाज् जनयितुं सरलम् (न तावद् विपरीतम् - यान्त्रिक-पद-विभाग-करणे दोष-सम्भवात्)।
-
-#### Related discussions
-- गद्य-लेखने सन्धिनियम-पालने च रिक्त-स्थान-योजने [अत्र](https://groups.google.com/d/msg/padyadhaaraa/ZY406Vm81I4/bfTFd1omfJUJ), [अत्र](https://groups.google.com/d/msg/bvparishat/69maR5wwmKw/6Fcm5fL2BgAJ) च। 
-
 ## Misc conventions
 - ४ं is चतुर्वारं (four times डं, हं, णं etc.)
