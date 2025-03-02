@@ -97,7 +97,6 @@ To this, my response is to note as follows: If you want to "keep it original" -
 यथा कश्चिद् "kaścit kāntāvirahaguruṇā " इति दृष्ट्वा संस्कृतज्ञः  
 नानारेखाबिन्द्वादीनाम् अर्थान् अजानन् कष्टेनोहित्वाऽवगच्छेत्। 
 
-
 शैलीयम् अभाससापेक्षा। अन्यत्र यथोच्यते
 
 > The spread of word separation across Europe was gradual, becoming more widespread by the late 10th century as scholars began to master and disseminate classical texts.
