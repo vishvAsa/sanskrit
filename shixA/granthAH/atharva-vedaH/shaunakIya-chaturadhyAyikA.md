@@ -1,5 +1,5 @@
 +++
-title = "Shaunak Iya chaturadhy Ayik A"
+title = "ŚAUNAKĪYĀ CATURĀDHYĀYIKĀ"
 +++
 TODO: footnote and other formatting
 
