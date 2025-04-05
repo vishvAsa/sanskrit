@@ -7,6 +7,16 @@ unicode_script: devanagari
 ## लक्ष्याणि
 - स्वरित-विषये॑ लक्ष्यावेक्षण॑म् [अन्य॑त्र](svaritaH/) विहित॑म्।
 
+> अष्ट-प्रकारं विज्ञेयं  
+पदानां स्वर-लक्षणम्  
+अन्तोदात्तम्, आद्युदात्तम्,  
+उदात्तम्, अनुदात्तं, नीच-स्वरितम् ५  
+मध्योदात्तं, स्वरितं, द्विर्-उदात्तम्  
+इत्येता अष्टौ पदसंज्ञाः  
+अग्निः꣡ सो꣡मः प्र꣡ वो वीर्यं᳕  
+हवि꣡षा स्व᳕र् व꣡नस्प꣡तिः ६  
+
+
 ### लोके
 - Natural prose or drama definitely better care for svara. Natural speech, even prAkRt and apabhraMsha-s, have svara-s. If kAlidAsa did not mark svara in his plays, I would ascribe it to his expectation that the actors will do their best to accent it properly. The importance of accent in plays is easily apparent if we even watch some "Shakespear in the park".
   - By accent here, I particularly mean natural grammatical accent "उच्चैर् उदात्तः etc..", whose continuation may be observed even today in some parts of hindI ("जो॑ कोई भी हो, ...") - and not the modern veda-paNDit-rap ("उच्चैस् स्वरितः").
