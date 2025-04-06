@@ -7,6 +7,28 @@ unicode_script: devanagari
 ## लक्ष्याणि
 - स्वरित-विषये॑ लक्ष्यावेक्षण॑म् [अन्य॑त्र](svaritaH/) विहित॑म्।
 
+पाणिनीय-शिक्षा - 
+
+> अन्तोदात्तम् आद्युदात्तम्  
+उदात्तम् अनुदात्तं नीच+++(=अनुदात्त)+++स्वरितम्  
+मध्योदात्तं स्वरितं  
+द्व्युदात्तं त्र्युदात्तम् इति नवपदशय्या ४५
+>
+> +++(उदाहरणानि -)+++  
+अ॒ग्निः सोमः॑ प्र वो वी॒र्यं॑ ह॒विषां॑  
+स्व॑र् बृह॒स्पति॑र् इन्द्रा॒बृह॒स्पती॑।
+>
+> अग्नि꣡र् इत्य् अन्तोदात्तं  
+सो꣡म इत्य् आद्युदात्तं  
+प्रे꣡त्य् उदात्तं व॒ इत्य् अनुदात्तं  
+वीर्यं᳕ नीच-स्वरितम् ४६  
+हवि꣡षां मध्योदात्तं  
+स्व᳕र् इति स्वरितं  
+बृ꣡हस्प꣡तिर् इति द्व्युदात्तम्  
+इ꣡न्द्राबृ꣡हस्प꣡ती इति त्र्युदात्तम् ४७
+
+नारदीय-शिक्षा
+
 > अष्ट-प्रकारं विज्ञेयं  
 पदानां स्वर-लक्षणम्  
 अन्तोदात्तम्, आद्युदात्तम्,  
@@ -14,8 +36,7 @@ unicode_script: devanagari
 मध्योदात्तं, स्वरितं, द्विर्-उदात्तम्  
 इत्येता अष्टौ पदसंज्ञाः  
 अग्निः꣡ सो꣡मः प्र꣡ वो वीर्यं᳕  
-हवि꣡षा स्व᳕र् व꣡नस्प꣡तिः ६  
-
+हवि꣡षा स्व᳕र् व꣡नस्प꣡तिः ६
 
 ### लोके
 - Natural prose or drama definitely better care for svara. Natural speech, even prAkRt and apabhraMsha-s, have svara-s. If kAlidAsa did not mark svara in his plays, I would ascribe it to his expectation that the actors will do their best to accent it properly. The importance of accent in plays is easily apparent if we even watch some "Shakespear in the park".
