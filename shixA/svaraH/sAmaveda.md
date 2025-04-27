@@ -9,9 +9,7 @@ unicode_script: devanagari
 In current sAmagAna traditions, the hastasvara gestures matches the prescription of lakShaNa-grantha-s and notations, but the kaNTha-svara (actual singing) does not match the gestures to a great extant. Modulating the notation to match the actual singing or - better - vice-versa is worthy of being considered. {[वंशीकृष्णार्यो ऽत्र](https://youtu.be/sxPyUzcZBos?t=969)।}
 
 ## आर्चिक-स्वरोच्चारणे भेदः
-प्रकृतिऋचः साम्नाम् उदात्तं स्वरिताद् \*ऊर्ध्वं\* दर्शयन्तीति भाति। यथा ऽष्टाध्याय्याम्, आचार्यसम्मतप्रातिशाख्यविकल्पेषु च।
-
-A small minority of modern vaidika-s (mostly theoretically) do emphasize udAtta high-pitch system - based on their notation system. The order of increasing pitch in this notation:  ४ < ३ < २ < १ .
+A small minority of modern vaidika-s (mostly theoretically) do emphasize udAtta high-pitch system - based on their notation system. The order of increasing pitch in this notation:  ४ < ३ < २ < १ . प्रकृतिऋचः साम्नाम् उदात्तं स्वरिताद् \*ऊर्ध्वं\* दर्शयन्तीति भाति। यथा ऽष्टाध्याय्याम्, आचार्यसम्मतप्रातिशाख्यविकल्पेषु च।
 
 However this is mostly not observed in practice - २, ३ are high pitched, with ३ < २ (verified with shrI kRSNa-sharma of mysUru 2025). किञ्चैतत् तेषां गान-गत-सङ्ख्यात-स्वरोच्चारणप्रक्रियाया व्यभिचारः।
 
