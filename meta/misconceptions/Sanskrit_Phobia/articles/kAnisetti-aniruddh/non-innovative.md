@@ -1,0 +1,58 @@
++++
+title = "Non innovative"
++++
+
+Sanskrit didn’t always drive innovation in ancient India. There are two reasons,
+
+Sanskrit was seen as the language of divinity, thus the main current of Sanskrit knowledge tended to be conservative, resistant to new developments.
+
+Earlier this month, Delhi Chief Minister Rekha Gupta [declared](https://theprint.in/india/sanskrit-scientific-language-nasa-has-written-papers-on-it-delhi-cm-rekha-gupta/2614904/) that Sanskrit, ancient India’s premier language of power and literature, is “scientific” and “the most computer-friendly language”, according to “NASA scientists”. This claim has been doing the rounds for over a decade, sometimes accompanied by pseudoscientific declarations of the achievements of ancient Indians—think flying saucers, cloning, nuclear weapons, and whatnot.
+
+On the strength of these claims, various NGOs and politicians have called for Sanskrit learning to be a part of school curricula. But few seem aware of the actual history of science in Sanskrit. As with every scientific tradition across the world, the Sanskritic approach made extraordinary achievements—but it also had severe limitations that took centuries to overcome. To understand this, let’s look specifically at the science of astronomy.
+
+(function(v,d,o,ai){ai=d.createElement('script');ai.defer=true;ai.async=true;ai.src=v.location.protocol+o;d.head.appendChild(ai);})(window, document, '//a.vdo.ai/core/theprint/vdo.ai.js');
+
+## **Beginnings of math and astronomy**
+
+Mathematics and geometry in the Indian subcontinent began with the Harappans, who deployed them extensively in urban planning, construction, and hydraulic engineering. Despite [various attempts](https://theprint.in/feature/here-are-two-indians-whove-tried-to-crack-the-indus-script-in-last-10-years/2452190/), the Harappan script remains undeciphered. The earliest recorded Indian mathematics, then, comes from the Vedas. Historian David Pingree studied them in his _Jyotiḥśāstra: Astral and Mathematical Literature._ Vedic priests constructed elaborate altars of mud-brick, in the shape of hawks, herons, chariots and so on. In order to maintain consistent designs, they used geometrical formulae, recorded in the _Sulbasutras_, appendices of the Yajur Veda dating to c. 500 BCE. From this early period, Indians developed a fascination with trigonometry, including what came to be known as the Pythagorean theorem.
+
+In the centuries after, the trajectory of Indian mathematics is somewhat unclear. Around the 4th century BCE, Jains were developing an expansive cosmology, with vast distances and eras of time. Mathematician George Gheverghese Joseph, in _The Crest of the Peacock: Non-European Roots of Mathematics_, provides some examples. 
+
+> “A _rajju_ is the distance traveled by a god in six months if he covers 1,00,000 _yojanas_ (a million kilometres) in each blink of his eyes; a _palya_ is the time it will take to empty a cubic vessel of side one _yojana_ filled with the wool of newborn lambs if one strand is removed every century.” 
+
+This led Jains to develop advanced concepts of infinity: infinite in one or two directions, in area, in time, in space. Europeans, writes Joseph, only came round to this idea in the late 1800s.
+
+By the turn of the first millennium CE, the subcontinent’s connections to global trade grew denser — a phenomenon we’ve examined many times in _Thinking Medieval._ As Indian textiles, spices, animals and other exotica went to the Mediterranean, mathematical and astronomical ideas flowed in the other direction. Sanskrit learning branched out from liturgy into new disciplines, like politics and aesthetics; the earliest _Puranas_ were also compiled, addressing topics of mythology, ritual, history, and cosmology.
+
+Sanskrit scientific writings took on a heterogeneous character. Puranic authors insisted that the Earth was a flat disc surrounded by oceans, supported by elephants, turtles and serpents; the planets, stars, Sun and Moon were held to revolve in wheels above. But another set of authors, composing treatises called _Siddhantas_, absorbed Mediterranean conceptions such as a spherical Earth and elliptical orbits. However, the basis for calculations and geometry was rooted in Indian techniques. This rich exchange is visible in the work of then 23-year-old prodigy Aryabhata in his _Aryabhatiya_, completed in 499 CE. According to Joseph, the _Aryabhatiya_ introduces the sine and versine (1-cosine) functions, as well as methods for solving quadratic equations. Wielding these techniques, Aryabhata made extremely accurate calculations of the value of _pi_, of longitude and the position of planets over time.
+
+
+## **Stagnation and innovation**
+
+Over the next centuries, Sanskrit writers further developed their knowledge of trigonometry, calendrical calculations, and arithmetic. However, there were two major challenges. As Sanskrit was seen as the language of divinity, the main current of Sanskrit knowledge tended to be conservative, resistant to new developments. And rather than developing ideas based on observations, there was a tendency to emphasise theory over observation and experimentation. Arabs, in the 8th and 9th centuries CE, were able to break new ground in optics, hydraulics, and astronomy, both by [translating Indian ideas](https://theprint.in/opinion/who-brought-sanskrit-to-baghdad-this-is-how-iranian-buddhists-zoroastrians-changed-arabs/1895052/) and verifying claims with observations. 
+
+In India, meanwhile, as late as the 12th century, _Siddhanta_ writers such as Bhaskara II were still rejecting Puranic notions that eclipses were caused by the demon Rahu. Prof Pingree, in his 1978 paper ‘Indian Astronomy’, argues that medieval Indian astronomers often miscalculated eclipses, and found that despite the confident statements of some Sanskrit treatises, their tables of planetary and star positions could contain errors. There are also precious few descriptions of measuring equipment, such as astrolabes.
+
+How could both innovation and stagnation, dogma and genius, coexist in the same literary tradition? Firstly, to be “learned” by medieval standards was to have an encyclopaedic command of texts, wielding rhetorical, linguistic and logical tools to defend a metaphysical viewpoint taught by one’s _guru_. Mathematical truths were developed out of curiosity, or for better calculations. But the idea of scientific innovation for its own sake, to profitably harness natural principles, did not exist as it does today.+++(5)+++
+
+The bigger limiting factor on Sanskrit was that it required years of specialised study. This could only happen at elite institutions with endowments of food and capital, such as Brahmin _Agraharam_ settlements or [Buddhist _mahaviharas_](https://theprint.in/opinion/how-buddhists-lost-out-to-brahmins-in-nalanda-even-before-the-turks-came/2149616/). Needless to say, these institutions tended to be open only to elite men, even if they came from distant countries_._ Though many male-authored Sanskrit texts pay lip service to female and “lower” caste devotees, barely a handful of actual texts authored by these groups survive across Sanskrit’s millennia-long history. They made their own advancements, though poorly recorded. Even as the Sanskrit astronomical tradition floundered, as attested by Arab travellers in the 12th century CE, the star-charts of illiterate South Indian seafarers were the most accurate in the world. +++(This is Proof?? 5)+++
+
+* * *
+
+## **New ideas**
+
+For centuries, Indian mathematics had led the world. But by the 1200s and 1300s, Indian writings seem to have withdrawn from the world stage as advanced Persianate astronomical methods — often based on Indian maths — took over. To be clear, there were still innovations, especially in Kerala, where the Brahmin school of Madhava made substantial innovations in circular and trigonometric functions. Bigger changes, though, came only gradually: the Sanskrit tradition, unfortunately, had become more interested in preserving its prestige and age-old conventions, and only rarely engaged with new, ‘alien’ (and hence less prestigious) ideas.
+
+As Sanskritist Christopher Minkowski writes in ‘Astronomers and their Reasons: Working Paper on Jyōtiḥśāstra’, members of this school, by the 16th century, were calling for the increased use of observations to verify their methods. Somewhat later, and apparently independently, a Brahmin at the court of Shah Jahan began to translate Persian astronomical treatises into Sanskrit. This was controversial; 17th-century Benares was alight with debates as to whether observation-based Muslim astronomy was acceptable at all. But change was in the air. By 1730, the astronomer-king Sawai Jai Singh II tacitly accepted the importance of observation, setting up large observatories such as the Jantar Mantar in Jaipur.
+
+Attempts to shake up the Sanskritic knowledge system continued under British administrators. In his chapter ‘The Pandit as Public Intellectual: The Controversy over Virodha or Inconsistency in the Astronomical Sciences’, part of the edited volume _The Pandit: Traditional Scholarship in India_, Minkowski looks at Lancelot Wilkinson, British Political Agent at the court of Bhopal. Wilkinson commissioned a Brahmin to write a Marathi text on the modern, Copernican system of astronomy. Within two years, it attracted multiple critiques and commentaries from Brahmins bashing it in Marathi, Hindi, English and Sanskrit. The text’s author was forced to retract his assertions. But the floodgates were opened: one of Wilkinson’s proteges, writes Minkowski, went on to teach both Indian and European astronomy at the Benares Sanskrit college, providing a model of the “accommodation of science and scientific rationality which still enabled holding on to the context of traditional Sanskrit learning.”
+
+Today, Sanskrit is no longer just a language: it has become a stand-in for something bigger, the idea of a perfect, just, advanced ancient Indian society that could be resurrected if only we all spoke it again. Indeed, NGOs such as Samskrita Bharati — at whose event CM Gupta spoke earlier this month — claim that Sanskrit was the mother tongue of all Indians irrespective of caste, class, and religion. (Anthropologist Adi Hastings conducted a [detailed study](https://www.jstor.org/stable/43104174) of this organisation in 2008). Since the 1900s, led by ideologues like Dayanand Saraswati, Sanskrit texts like the Vedas have come to be seen as infallible, as already containing all scientific knowledge. Praising Sanskrit orthodoxy and buzzwords seems to have replaced Independent India’s proud traditions of serious, independent scientific research open to scholars of all backgrounds.
+
+But the fact is that languages are products of history: they are not divine or perfect, but have their brilliances and their flaws. Insisting on the superiority of a single language closes us off from learning from the others: in my view, a mistake our ancestors have already made. The language of science and progress is not English, or Persian, or Greek, or Latin. Nor is it Sanskrit. It is mathematics, it is reason, it is evidence: the common heritage of all humanity.
+
+_Anirudh Kanisetti is a public historian. He is the author of ‘Lords of Earth and Sea: A History of the Chola Empire’ and the award-winning ‘Lords of the Deccan’. He hosts the Echoes of India and Yuddha podcasts. He tweets @AKanisetti and is on Instagram @anirbuddha._
+
+_This article is a part of the ‘[Thinking Medieval](https://theprint.in/tag/thinking-medieval/)‘ series that takes a deep dive into India’s medieval culture, politics, and history.  
+_  
+(Edited by Theres Sudeep)
