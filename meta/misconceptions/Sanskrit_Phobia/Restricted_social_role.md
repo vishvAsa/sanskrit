@@ -18,13 +18,19 @@ title = "Restricted social role"
   - Kumud Pawde (Mahar 1960-s [GB](https://books.google.com/books?id=NN48WUBx_54C&lpg=PP1&pg=PA85#v=onepage&q&f=false))
 
 
-### Theoretical prohibition for asachchUdra-s
+### Limited ritual prohibition
+[SS](/kalpAntaram/dharmaH/vishvAsaH/visheSha-dharmaH/clan/theory/shUdra/articles/satya-sharmA/sanskrit).
+
 - It is a matter of fact that various religious streams - Hindu Agamas and tantras and jaina/ bauddha traditions - allowed instruction and utilization of sanskrit by adherents irrespective of jAti.
-- Some cite a pair of verses from skanda-purANa ("नोच्चरेत् प्रणवं मन्त्रं... न शिखां नोपवीतं च नोच्चरेत् संस्कृतां गिरम्।") and padma-purANa (न‌ शिखी नोपवीती स्यान्नोच्चरेत्संस्कृतां गिरम्). Details [here](https://groups.google.com/g/bvparishat/c/7aihuwshbl4/m/moEQCAqcAgAJ)). These have been interpreted by medieval dharmashAstra nibandha writers, some of their modern adherents and anti-hindu activists as barring sanskrit speech by certain jAti-s. 
+- Some cite a pair of verses from skanda-purANa ("नोच्चरेत् प्रणवं मन्त्रं... न शिखां नोपवीतं च नोच्चरेत् संस्कृतां गिरम्।") and padma-purANa (न‌ शिखी नोपवीती स्यान्नोच्चरेत्संस्कृतां गिरम्). Details [here](https://groups.google.com/g/bvparishat/c/7aihuwshbl4/m/moEQCAqcAgAJ)). These have been interpreted by some medieval dharmashAstra nibandha writers, some of their modern adherents and anti-hindu activists as barring sanskrit speech by certain jAti-s. 
   - Note: Some of these dharmashAstra compilers proposed that the "न शिखां नोपवीतं" part to refer to social classes with low religious commitment ('असच्छूद्रपरम्' and 'अपाकृष्टशूद्रपरम्').  धर्मशास्त्रकारैः शेषकृष्णप्रभृतिभिः 'न शिखां नोपवीतञ्च नोच्चरेत् संस्कृतां गिरम्' इति विवेकेन गृहीतम्। ते च एतद्वचनं प्रायः असच्छूद्रपरमिति स्वीकुर्वन्ति। संस्कृतां गिरमित्यस्य अपि वैदिकीं गिरमित्यभिप्रायं मन्यन्ते।
-  - The latter cannot be traced in current published recensions (though cited by dharmashAstra writers in 17th CE). The former, being followed by "नमस्कारेण मन्त्रेण क्रियासिद्धिर् भवेद् ध्रुवम्" clearly implies that it refers to the use of generic scriptural sanskrit mantra-s should not be used by certain classes of people in the context of rituals (with bountiful exceptions among paurANika and Agama literature).
-- The orthodox vaidika/ paurANika tradition forbids the study of particular classes of sanskrit literature (veda-s and their literal meaning) for certain jAti-s. For other categories (purANa-s, smRti-s, itihAsa-s, vedAnga-s), they allow and encourage these jAti-s to hear the lore when recited by a brAhmaNa (in whom the ultimate religious interpretive authority rests). Direct study of particular subsets of these texts was forbidden.
-- Orthodox dharmashAstra tradition admits the possibility of **change in "dharma" based on changes in circumstance** (including time and place). Clearly, the current context, with it's advent of such innovations such as the printing press, social and audio-visual media, mass literacy requires orthodox hindu paurANika tradition to adapt in order to compete with inimical doctrines.
+  - The pAdma verse cannot be traced in current published recensions (though cited by dharmashAstra writers in 17th CE). So, it's not possible to determine it's scope, and should therefore be subsumed under the skanda purANa reference. 
+  - The skAnda verse, being followed by "नमस्कारेण मन्त्रेण क्रियासिद्धिर् भवेद् ध्रुवम्" clearly implies that it refers to the use of generic scriptural sanskrit mantra-s should not be used by certain classes of people in the context of rituals (with bountiful exceptions among paurANika and Agama literature). Further, the context of the skAnda verse and related vidhis is just tIrtha-yAtrA to somanAtha. 
+- The orthodox vaidika/ paurANika tradition forbids the study of particular classes of sanskrit literature (veda-s and their literal meaning) for certain jAti-s. 
+  - For other categories (purANa-s, smRti-s, itihAsa-s, vedAnga-s), they allow and encourage these jAti-s to hear (atleast at the first instance) the lore when recited by a brAhmaNa (in whom the ultimate religious interpretive authority rests). Direct study of particular subsets of these texts was forbidden.
+
+
+In any case - Orthodox dharmashAstra tradition admits the possibility of **change in "dharma" based on changes in circumstance** (including time and place). Clearly, the current context, with it's advent of such innovations such as the printing press, social and audio-visual media, mass literacy requires orthodox hindu paurANika tradition to adapt in order to compete with inimical doctrines.
 
 ## Female usage
 - rAjashekhara clearly says in Kavyamimamsa 10th chapter:
