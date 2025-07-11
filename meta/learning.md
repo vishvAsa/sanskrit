@@ -8,6 +8,7 @@ unicode_script: devanagari
   - PS: Grammar translation method is a bad idea. Leads to myths about "Sanskrit is a tough language".
 - Approaches for learning grammar described elsewhere.
 
+Other language learning [tips](/notes/skills/education/) elsewhere.
 
 ## Learn with AI
 - Top tools - Ai studio google. polish with DeepSeek and chatgpt.
@@ -43,4 +44,4 @@ kArttik of puNe -
 
 ## Sanskrit household
 - How to raise a mutlilingual kid in an environment dominated by English?
-    - Use the "don't/ won't understand" policy.
+  - Use the "don't/ won't understand" policy.
