@@ -3,7 +3,7 @@ title: +शिक्षा
 ---
 
 ## उच्चारण-प्रदर्शनानि सूचनाश्च।
-- धनञ्जयो वैद्यः \- [अकारे](http://deejayvaidya.tumblr.com/post/42275194921/sanskrit-pronunciation-podcast-1-introduction)। [स्पर्शवर्ण](http://deejayvaidya.tumblr.com/post/42275304138/sanskrit-pronunciation-podcast-2-the-stop)। [इच्](http://deejayvaidya.tumblr.com/post/42275475669/sanskrit-pronunciation-podcast-3-the-vowels)। [य र ल व श ष स ह](http://deejayvaidya.tumblr.com/post/42427396743/sanskrit-pronunciation-podcast-4-the-semivowels)। [अनुस्वारः](http://deejayvaidya.tumblr.com/post/42427477788/sanskrit-pronunciation-podcast-5-anusvara-the)।
+- धनञ्जयो वैद्यः \- [अकारे](http://deejayvaidya.tumblr.com/post/42275194921/sanskrit-pronunciation-podcast-1-introduction)। [स्पर्शवर्ण](http://deejayvaidya.tumblr.com/post/42275304138/sanskrit-pronunciation-podcast-2-the-stop)। [इच्](http://deejayvaidya.tumblr.com/post/42275475669/sanskrit-pronunciation-podcast-3-the-vowels)। [य र ल व श ष स ह](http://deejayvaidya.tumblr.com/post/42427396743/sanskrit-pronunciation-podcast-4-the-semivowels)। [अनुस्वारः](http://deejayvaidya.tumblr.com/post/42427477788/sanskrit-pronunciation-podcast-5-anusvara-the)।  [Ar](https://archive.org/details/dhananjaya-vaidya-shabda-parichayaH)
 - विश्वासः [अत्र](https://goo.gl/htvxdN)। सूचनान्तराण्य् [अत्र](https://sanskrit.github.io/projects/audio/mbh-audio/how.html#expected-recording-quality)।
 - वर्णविशेषोच्चारणदोषा अन्यत्रापि - यथा [विसर्गे](visargaH/) ।
 - नरसिंहरायः \- [अत्र](https://www.youtube.com/watch?v=cMhe2QgDm28), मुखपुस्तकचर्चा [अत्र](https://www.facebook.com/pvr108/posts/10153038114188284?pnref=story)।
