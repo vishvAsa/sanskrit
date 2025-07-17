@@ -41,7 +41,7 @@ unicode_script: devanagari
 ### लोके
 - Natural prose or drama definitely better care for svara. Natural speech, even prAkRt and apabhraMsha-s, have svara-s. If kAlidAsa did not mark svara in his plays, I would ascribe it to his expectation that the actors will do their best to accent it properly. The importance of accent in plays is easily apparent if we even watch some "Shakespear in the park".
   - By accent here, I particularly mean natural grammatical accent "उच्चैर् उदात्तः etc..", whose continuation may be observed even today in some parts of hindI ("जो॑ कोई भी हो, ...") - and not the modern veda-paNDit-rap ("उच्चैस् स्वरितः").
-- उज्ज्वल-निर्मितिः॑, ऋग्वेदभाषा॑याम् - [YT Flight instructions](https://youtu.be/r5vsSEz1r48) ।
+- उज्ज्वल-निर्मितिः॑, ऋग्वेदभाषा॑याम् - [YT Flight instructions](https://youtu.be/r5vsSEz1r48) । [RV](https://www.youtube.com/watch?v=_ZfWu58jQog) ।
 
 ### वेदे
 - किञ्चन त्वन्नाल-सङ्कलनम् [अत्र](https://www.youtube.com/playlist?list=PL63uIhJxWbggXl0JZBmuPlb36D_twYV-4)।
