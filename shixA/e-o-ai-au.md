@@ -42,13 +42,18 @@ unicode_script: devanagari
 - [मार्गीयवे](/vedAH_sAma/paravastu-saama/devaH/indraH/mArgIyavam/) यथा औउहोइ इत्यस्य आउहऊइ इति वचने उकारय् उचितः स्वरः स्यात्। 
 
 ## नव्योच्चारणम्
-By the time of patanjali (classical saMskRta) the ए ओ were monophthongs, but ऐ औ were diphthongs:
+By the time of patanjali (classical saMskRta) the ए ओ were monophthongs, but ऐ औ were diphthongs, but there was memory.
+
+(पतञ्जलेः काले त्व् ए ओ चासमाहार-वर्णाव् आस्ताम्,  
+किन्तु, इ-उ-आदेशतस् तन्-मूलस्य स्मृतिर् अवर्ततैव काचित्।
+
+एच इग् +ह्रस्वादेशे इत्यत्र  पतञ्जलिर् आह - )
 
 > किं प्रयोजनम्? Why ?  
-> एचो ह्रस्वादेशशासनेष्वर्ध एकारोऽर्व ओकारो वा मा भूत् इति  
+> एचो ह्रस्वादेशशासनेष्वर्ध एकारोऽर्ध ओकारो वा मा भूत् इति  
 So that half e' and 'half o' may not be used when the rules relating to the shortening of long vowels operate.
 >
-> ननु च यस्यापि तपराणि तेनाप्येतद्वक्तव्यम्; इमावैचौ समाहारवर्णौ मात्रा- वर्णस्य मात्रेवर्णोवर्णयोः । तयोर्हस्वादेशशासनेषु कदाचिदवर्णः स्यात् कदाचिदिवर्णोवर्णो, मा कदाचित् अवर्णः भूत् इति  
+> ननु च यस्यापि तपराणि तेनाप्येतद्वक्तव्यम्; इमावैचौ समाहारवर्णौ मात्रा- वर्णस्य मात्रेवर्णोवर्णयोः । तयोर्ह्रस्वादेशशासनेषु कदाचिदवर्णः स्यात् कदाचिदिवर्णोवर्णो, मा कदाचित् अवर्णः भूत् इति  
 Oh! this has to be read even when one reads the diphthongs with at the end. The two letters which come under the pratyaharu are diphthongs having one matra for a and another matra for i or u. Hence when rules relating to shortening operate, sometimes a may be substituted and sometimes i or u. They have to avoid the substitution of a.
 > 
 > [MB](https://archive.org/stream/LecturesOnPatanjalisVyakaranaMahabhashya1/LecturesMahabhasya#page/n189/mode/2up)
