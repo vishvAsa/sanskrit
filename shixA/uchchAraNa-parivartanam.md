@@ -119,3 +119,9 @@ On the contrary, a parallel verse in shaunaka shixA indicates that hm hn etc.. w
 एवं च ब्रह्म, ब्राह्मणः, मध्याह्नः इति हकारं कर्णकठोरं पठन्तः पाठयन्तः च परास्ताः वेदितव्याः ।
 
 So, correct tradition, as per shixA texts alone, is that in ह्म , h is lighter/ less emphasized.
+
+## Success
+तत्र तत्र तादृशे स्वरविकारे ऽपि साफल्यं पूर्वेषाम् अनुभवाज् ज्ञेयम्।
+
+स्वरसंस्कारे ऽपि साफल्यम् भवत्य् एवेति  
+संस्कारस्य वेदाङ्गमूलत्वाद् अनुमातुं शक्यम्। 
