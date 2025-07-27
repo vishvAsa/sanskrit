@@ -3123,7 +3123,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5NzQzNDQ2NzE
  „   „   „  ड अ थ वा ढ    „    „  ण्     
 „
 
-„   „   „    ल         „    „  ꣲ   
+„   „   „    ल         „    „  ँ   
   „
 
 उदाहरणः—तान् +चोरान् =तांश्चोरान्
