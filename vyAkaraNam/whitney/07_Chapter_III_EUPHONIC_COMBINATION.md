@@ -1758,7 +1758,7 @@ putting a sign of nasality above; the latter, however, is inexact, and a
 better way would be to represent the two l's, writing the first with
 virāma and a nasal sign above. Thus (from trīn lokān):
 
-manuscripts त्रींलोकान् or त्रीँल्लोकान्; better त्रील्ँ लोकान्.
+manuscripts त्रींलोकान् or त्रील्ँलोकान्; better त्रील्ँ लोकान्.
 
 The second of these methods is the one oftenest followed in printed
 texts.

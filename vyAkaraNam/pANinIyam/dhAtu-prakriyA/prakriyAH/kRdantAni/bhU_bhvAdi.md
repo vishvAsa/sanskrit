@@ -52,14 +52,14 @@ title = "भू भ्वादि"
 अ 8.4.68 → भाव्,उक (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
-## भू + कमुँल्
+## भू + कमुल्ँ
 
 ### भुवम्
 अ 1.3.1 → भू (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
-अ 3.4.12 → भू,कमुँल् (शकि णमुल्कमुलौ [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.12))  
-अ 1.3.2 → भू,कमुँल् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
-अ 1.3.3 → भू,कमुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.8 → भू,कमुँल् (लशक्वतद्धिते [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.8))  
+अ 3.4.12 → भू,कमुल्ँ (शकि णमुल्कमुलौ [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.12))  
+अ 1.3.2 → भू,कमुल्ँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.3 → भू,कमुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.8 → भू,कमुल्ँ (लशक्वतद्धिते [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.8))  
 अ 1.3.9 → भू,अम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → भू,अम् (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → भू,अम् (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
@@ -330,14 +330,14 @@ title = "भू भ्वादि"
 अ 8.4.68 → भव्,अ,म्,आन (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
-## भू + णमुँल्
+## भू + णमुल्ँ
 
 ### भावम्
 अ 1.3.1 → भू (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
-अ 3.4.22 → भू,णमुँल् (आभीक्ष्ण्ये णमुल् च [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.22))  
-अ 1.3.2 → भू,णमुँल् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
-अ 1.3.3 → भू,णमुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.7 → भू,णमुँल् (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
+अ 3.4.22 → भू,णमुल्ँ (आभीक्ष्ण्ये णमुल् च [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.22))  
+अ 1.3.2 → भू,णमुल्ँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.3 → भू,णमुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.7 → भू,णमुल्ँ (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
 अ 1.3.9 → भू,अम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → भू,अम् (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → भू,अम् (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
@@ -381,13 +381,13 @@ title = "भू भ्वादि"
 अ 8.4.68 → भाव्,य (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
-## भू + ण्वुँल्
+## भू + ण्वुल्ँ
 
 ### भावक
 अ 1.3.1 → भू (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
-अ 3.1.133 → भू,ण्वुँल् (ण्वुल्तृचौ [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.133))  
-अ 1.3.3 → भू,ण्वुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.7 → भू,ण्वुँल् (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
+अ 3.1.133 → भू,ण्वुल्ँ (ण्वुल्तृचौ [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.133))  
+अ 1.3.3 → भू,ण्वुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.7 → भू,ण्वुल्ँ (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
 अ 1.3.9 → भू,वुँ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → भू,वुँ (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → भू,वुँ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  

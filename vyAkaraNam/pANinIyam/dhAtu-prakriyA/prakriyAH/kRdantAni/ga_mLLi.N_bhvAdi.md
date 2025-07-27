@@ -73,17 +73,17 @@ title = "ग॒मॢँ भ्वादि"
 अ 8.4.68 → गाम्,उक (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
-## ग॒मॢँ + कमुँल्
+## ग॒मॢँ + कमुल्ँ
 
 ### ग्मम्
 अ 1.3.1 → ग॒मॢँ (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
 अ 1.3.2 → ग॒मॢँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
 अ 1.3.9 → गम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 धातुपाठः 01.0934 → गम् (जनीजॄष्कनसुरञ्जोऽमन्ताश्च )  
-अ 3.4.12 → गम्,कमुँल् (शकि णमुल्कमुलौ [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.12))  
-अ 1.3.2 → गम्,कमुँल् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
-अ 1.3.3 → गम्,कमुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.8 → गम्,कमुँल् (लशक्वतद्धिते [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.8))  
+अ 3.4.12 → गम्,कमुल्ँ (शकि णमुल्कमुलौ [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.12))  
+अ 1.3.2 → गम्,कमुल्ँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.3 → गम्,कमुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.8 → गम्,कमुल्ँ (लशक्वतद्धिते [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.8))  
 अ 1.3.9 → गम्,अम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → गम्,अम् (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → गम्,अम् (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
@@ -421,17 +421,17 @@ title = "ग॒मॢँ भ्वादि"
 अ 8.4.68 → गच्छ्,अ,म्,आन (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
-## ग॒मॢँ + णमुँल्
+## ग॒मॢँ + णमुल्ँ
 
 ### गामम्
 अ 1.3.1 → ग॒मॢँ (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
 अ 1.3.2 → ग॒मॢँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
 अ 1.3.9 → गम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 धातुपाठः 01.0934 → गम् (जनीजॄष्कनसुरञ्जोऽमन्ताश्च )  
-अ 3.4.22 → गम्,णमुँल् (आभीक्ष्ण्ये णमुल् च [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.22))  
-अ 1.3.2 → गम्,णमुँल् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
-अ 1.3.3 → गम्,णमुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.7 → गम्,णमुँल् (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
+अ 3.4.22 → गम्,णमुल्ँ (आभीक्ष्ण्ये णमुल् च [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.22))  
+अ 1.3.2 → गम्,णमुल्ँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.3 → गम्,णमुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.7 → गम्,णमुल्ँ (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
 अ 1.3.9 → गम्,अम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → गम्,अम् (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → गम्,अम् (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
@@ -459,16 +459,16 @@ title = "ग॒मॢँ भ्वादि"
 अ 7.2.116 → गाम्,इन् (अत उपधायाः [A](https://ashtadhyayi.github.io/suutra/7.2/7.2.116))
 
 
-## ग॒मॢँ + ण्वुँल्
+## ग॒मॢँ + ण्वुल्ँ
 
 ### गामक
 अ 1.3.1 → ग॒मॢँ (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
 अ 1.3.2 → ग॒मॢँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
 अ 1.3.9 → गम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 धातुपाठः 01.0934 → गम् (जनीजॄष्कनसुरञ्जोऽमन्ताश्च )  
-अ 3.1.133 → गम्,ण्वुँल् (ण्वुल्तृचौ [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.133))  
-अ 1.3.3 → गम्,ण्वुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.7 → गम्,ण्वुँल् (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
+अ 3.1.133 → गम्,ण्वुल्ँ (ण्वुल्तृचौ [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.133))  
+अ 1.3.3 → गम्,ण्वुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.7 → गम्,ण्वुल्ँ (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
 अ 1.3.9 → गम्,वुँ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → गम्,वुँ (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → गम्,वुँ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  

@@ -92,7 +92,7 @@ title = "बृहिँ भ्वादि"
 अ 8.4.68 → बृंह्,,अणीय (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
-## बृहिँ + कमुँल्
+## बृहिँ + कमुल्ँ
 
 ### बृंहम्
 अ 1.3.1 → बृहिँ (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
@@ -106,10 +106,10 @@ title = "बृहिँ भ्वादि"
 अ 1.3.9 → बृन्ह्,इ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 3.4.114 → बृन्ह्,इ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
 अ 1.4.13 → बृन्ह्,इ (यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम् [A](https://ashtadhyayi.github.io/suutra/1.4/1.4.13))  
-अ 3.4.12 → बृन्ह्,इ,कमुँल् (शकि णमुल्कमुलौ [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.12))  
-अ 1.3.2 → बृन्ह्,इ,कमुँल् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
-अ 1.3.3 → बृन्ह्,इ,कमुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.8 → बृन्ह्,इ,कमुँल् (लशक्वतद्धिते [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.8))  
+अ 3.4.12 → बृन्ह्,इ,कमुल्ँ (शकि णमुल्कमुलौ [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.12))  
+अ 1.3.2 → बृन्ह्,इ,कमुल्ँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.3 → बृन्ह्,इ,कमुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.8 → बृन्ह्,इ,कमुल्ँ (लशक्वतद्धिते [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.8))  
 अ 1.3.9 → बृन्ह्,इ,अम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → बृन्ह्,इ,अम् (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → बृन्ह्,इ,अम् (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
@@ -688,7 +688,7 @@ title = "बृहिँ भ्वादि"
 अ 8.4.68 → बृंह्,अय्,अ,म्,आण (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
-## बृहिँ + णमुँल्
+## बृहिँ + णमुल्ँ
 
 ### बृंहम्
 अ 1.3.1 → बृहिँ (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
@@ -702,10 +702,10 @@ title = "बृहिँ भ्वादि"
 अ 1.3.9 → बृन्ह्,इ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 3.4.114 → बृन्ह्,इ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
 अ 1.4.13 → बृन्ह्,इ (यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम् [A](https://ashtadhyayi.github.io/suutra/1.4/1.4.13))  
-अ 3.4.22 → बृन्ह्,इ,णमुँल् (आभीक्ष्ण्ये णमुल् च [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.22))  
-अ 1.3.2 → बृन्ह्,इ,णमुँल् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
-अ 1.3.3 → बृन्ह्,इ,णमुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.7 → बृन्ह्,इ,णमुँल् (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
+अ 3.4.22 → बृन्ह्,इ,णमुल्ँ (आभीक्ष्ण्ये णमुल् च [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.22))  
+अ 1.3.2 → बृन्ह्,इ,णमुल्ँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.3 → बृन्ह्,इ,णमुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.7 → बृन्ह्,इ,णमुल्ँ (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
 अ 1.3.9 → बृन्ह्,इ,अम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → बृन्ह्,इ,अम् (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → बृन्ह्,इ,अम् (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
@@ -745,7 +745,7 @@ title = "बृहिँ भ्वादि"
 अ 8.4.37 → बृंह्,,इन् (पदान्तस्य [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.37))
 
 
-## बृहिँ + ण्वुँल्
+## बृहिँ + ण्वुल्ँ
 
 ### बृंहक
 अ 1.3.1 → बृहिँ (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
@@ -759,9 +759,9 @@ title = "बृहिँ भ्वादि"
 अ 1.3.9 → बृन्ह्,इ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 3.4.114 → बृन्ह्,इ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
 अ 1.4.13 → बृन्ह्,इ (यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम् [A](https://ashtadhyayi.github.io/suutra/1.4/1.4.13))  
-अ 3.1.133 → बृन्ह्,इ,ण्वुँल् (ण्वुल्तृचौ [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.133))  
-अ 1.3.3 → बृन्ह्,इ,ण्वुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.7 → बृन्ह्,इ,ण्वुँल् (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
+अ 3.1.133 → बृन्ह्,इ,ण्वुल्ँ (ण्वुल्तृचौ [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.133))  
+अ 1.3.3 → बृन्ह्,इ,ण्वुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.7 → बृन्ह्,इ,ण्वुल्ँ (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
 अ 1.3.9 → बृन्ह्,इ,वुँ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → बृन्ह्,इ,वुँ (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → बृन्ह्,इ,वुँ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  

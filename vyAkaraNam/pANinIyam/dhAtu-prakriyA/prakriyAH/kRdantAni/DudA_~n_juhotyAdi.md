@@ -23,7 +23,7 @@ title = "डुदा॒ञ् जुहोत्यादि"
 अ 8.4.68 → दा,नीय (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
-## डुदा॒ञ् + कमुँल्
+## डुदा॒ञ् + कमुल्ँ
 
 ### दम्
 अ 1.3.1 → डुदा॒ञ् (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
@@ -31,10 +31,10 @@ title = "डुदा॒ञ् जुहोत्यादि"
 अ 1.3.5 → डुदा॒ञ् (आदिर्ञिटुडवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.5))  
 अ 1.3.9 → दा (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.1.20 → दा (दाधा घ्वदाप् [A](https://ashtadhyayi.github.io/suutra/1.1/1.1.20))  
-अ 3.4.12 → दा,कमुँल् (शकि णमुल्कमुलौ [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.12))  
-अ 1.3.2 → दा,कमुँल् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
-अ 1.3.3 → दा,कमुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.8 → दा,कमुँल् (लशक्वतद्धिते [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.8))  
+अ 3.4.12 → दा,कमुल्ँ (शकि णमुल्कमुलौ [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.12))  
+अ 1.3.2 → दा,कमुल्ँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.3 → दा,कमुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.8 → दा,कमुल्ँ (लशक्वतद्धिते [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.8))  
 अ 1.3.9 → दा,अम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → दा,अम् (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → दा,अम् (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
@@ -393,7 +393,7 @@ title = "डुदा॒ञ् जुहोत्यादि"
 अ 8.4.68 → दा,य्,अ (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
-## डुदा॒ञ् + णमुँल्
+## डुदा॒ञ् + णमुल्ँ
 
 ### दायम्
 अ 1.3.1 → डुदा॒ञ् (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
@@ -401,10 +401,10 @@ title = "डुदा॒ञ् जुहोत्यादि"
 अ 1.3.5 → डुदा॒ञ् (आदिर्ञिटुडवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.5))  
 अ 1.3.9 → दा (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.1.20 → दा (दाधा घ्वदाप् [A](https://ashtadhyayi.github.io/suutra/1.1/1.1.20))  
-अ 3.4.22 → दा,णमुँल् (आभीक्ष्ण्ये णमुल् च [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.22))  
-अ 1.3.2 → दा,णमुँल् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
-अ 1.3.3 → दा,णमुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.7 → दा,णमुँल् (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
+अ 3.4.22 → दा,णमुल्ँ (आभीक्ष्ण्ये णमुल् च [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.22))  
+अ 1.3.2 → दा,णमुल्ँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.3 → दा,णमुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.7 → दा,णमुल्ँ (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
 अ 1.3.9 → दा,अम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → दा,अम् (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → दा,अम् (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
@@ -439,7 +439,7 @@ title = "डुदा॒ञ् जुहोत्यादि"
 अ 1.3.9 → दा,य्,इन् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))
 
 
-## डुदा॒ञ् + ण्वुँल्
+## डुदा॒ञ् + ण्वुल्ँ
 
 ### दायक
 अ 1.3.1 → डुदा॒ञ् (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
@@ -447,9 +447,9 @@ title = "डुदा॒ञ् जुहोत्यादि"
 अ 1.3.5 → डुदा॒ञ् (आदिर्ञिटुडवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.5))  
 अ 1.3.9 → दा (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.1.20 → दा (दाधा घ्वदाप् [A](https://ashtadhyayi.github.io/suutra/1.1/1.1.20))  
-अ 3.1.133 → दा,ण्वुँल् (ण्वुल्तृचौ [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.133))  
-अ 1.3.3 → दा,ण्वुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.7 → दा,ण्वुँल् (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
+अ 3.1.133 → दा,ण्वुल्ँ (ण्वुल्तृचौ [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.133))  
+अ 1.3.3 → दा,ण्वुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.7 → दा,ण्वुल्ँ (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
 अ 1.3.9 → दा,वुँ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → दा,वुँ (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → दा,वुँ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  

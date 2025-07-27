@@ -54,7 +54,7 @@ title = "काशृँ॒($णिच्) भ्वादि"
 अ 8.4.68 → काश्,,अनीय (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
-## काशृँ॒($णिच्) + कमुँल्
+## काशृँ॒($णिच्) + कमुल्ँ
 
 ### काशम्
 अ 1.3.1 → काशृँ॒ (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
@@ -67,10 +67,10 @@ title = "काशृँ॒($णिच्) भ्वादि"
 अ 1.3.9 → काश्,इ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 3.4.114 → काश्,इ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
 अ 1.4.13 → काश्,इ (यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम् [A](https://ashtadhyayi.github.io/suutra/1.4/1.4.13))  
-अ 3.4.12 → काश्,इ,कमुँल् (शकि णमुल्कमुलौ [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.12))  
-अ 1.3.2 → काश्,इ,कमुँल् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
-अ 1.3.3 → काश्,इ,कमुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.8 → काश्,इ,कमुँल् (लशक्वतद्धिते [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.8))  
+अ 3.4.12 → काश्,इ,कमुल्ँ (शकि णमुल्कमुलौ [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.12))  
+अ 1.3.2 → काश्,इ,कमुल्ँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.3 → काश्,इ,कमुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.8 → काश्,इ,कमुल्ँ (लशक्वतद्धिते [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.8))  
 अ 1.3.9 → काश्,इ,अम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → काश्,इ,अम् (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → काश्,इ,अम् (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
@@ -610,7 +610,7 @@ title = "काशृँ॒($णिच्) भ्वादि"
 अ 8.4.68 → काश्,अय्,अ,म्,आन (अ अ [A](https://ashtadhyayi.github.io/suutra/8.4/8.4.68))
 
 
-## काशृँ॒($णिच्) + णमुँल्
+## काशृँ॒($णिच्) + णमुल्ँ
 
 ### काशम्
 अ 1.3.1 → काशृँ॒ (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
@@ -623,10 +623,10 @@ title = "काशृँ॒($णिच्) भ्वादि"
 अ 1.3.9 → काश्,इ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 3.4.114 → काश्,इ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
 अ 1.4.13 → काश्,इ (यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम् [A](https://ashtadhyayi.github.io/suutra/1.4/1.4.13))  
-अ 3.4.22 → काश्,इ,णमुँल् (आभीक्ष्ण्ये णमुल् च [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.22))  
-अ 1.3.2 → काश्,इ,णमुँल् (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
-अ 1.3.3 → काश्,इ,णमुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.7 → काश्,इ,णमुँल् (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
+अ 3.4.22 → काश्,इ,णमुल्ँ (आभीक्ष्ण्ये णमुल् च [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.22))  
+अ 1.3.2 → काश्,इ,णमुल्ँ (उपदेशेऽजनुनासिक इत् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.2))  
+अ 1.3.3 → काश्,इ,णमुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.7 → काश्,इ,णमुल्ँ (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
 अ 1.3.9 → काश्,इ,अम् (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → काश्,इ,अम् (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → काश्,इ,अम् (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
@@ -662,7 +662,7 @@ title = "काशृँ॒($णिच्) भ्वादि"
 अ 6.4.51 → काश्,,इन् (णेरनिटि [A](https://ashtadhyayi.github.io/suutra/6.4/6.4.51))
 
 
-## काशृँ॒($णिच्) + ण्वुँल्
+## काशृँ॒($णिच्) + ण्वुल्ँ
 
 ### काशक
 अ 1.3.1 → काशृँ॒ (भूवादयो धातवः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.1))  
@@ -675,9 +675,9 @@ title = "काशृँ॒($णिच्) भ्वादि"
 अ 1.3.9 → काश्,इ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 3.4.114 → काश्,इ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  
 अ 1.4.13 → काश्,इ (यस्मात् प्रत्ययविधिस्तदादि प्रत्ययेऽङ्गम् [A](https://ashtadhyayi.github.io/suutra/1.4/1.4.13))  
-अ 3.1.133 → काश्,इ,ण्वुँल् (ण्वुल्तृचौ [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.133))  
-अ 1.3.3 → काश्,इ,ण्वुँल् (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
-अ 1.3.7 → काश्,इ,ण्वुँल् (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
+अ 3.1.133 → काश्,इ,ण्वुल्ँ (ण्वुल्तृचौ [A](https://ashtadhyayi.github.io/suutra/3.1/3.1.133))  
+अ 1.3.3 → काश्,इ,ण्वुल्ँ (हलन्त्यम् [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.3))  
+अ 1.3.7 → काश्,इ,ण्वुल्ँ (चुटू [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.7))  
 अ 1.3.9 → काश्,इ,वुँ (तस्य लोपः [A](https://ashtadhyayi.github.io/suutra/1.3/1.3.9))  
 अ 1.2.46 → काश्,इ,वुँ (कृत्तद्धितसमासाश्च [A](https://ashtadhyayi.github.io/suutra/1.2/1.2.46))  
 अ 3.4.114 → काश्,इ,वुँ (आर्धधातुकं शेषः [A](https://ashtadhyayi.github.io/suutra/3.4/3.4.114))  

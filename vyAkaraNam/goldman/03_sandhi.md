@@ -428,7 +428,7 @@ Final"-T' (-n) before initial" (1) becomes " "(m) (3174R anusvāra), and an addi
 
 Example: 3746 + 9 + + : → uttamān + lokān + labhate + dharmajñaḥ →
 
-उत्तमाँल्लोकाँल्लभते धर्मज्ञः । uttamāml lokāml labhate dharmajñaḥ. (A knower of dharma attains to excellent worlds.)
+उत्तमाल्ँलोकाल्ँलभते धर्मज्ञः । uttamāml lokāml labhate dharmajñaḥ. (A knower of dharma attains to excellent worlds.)
 
 3.55
 
