@@ -31,7 +31,7 @@ jobs:
         # This creates a 'pagefind' directory with the search index.
         run: |
           npm install -g pagefind
-          npx pagefind --source . --output-path pagefind
+          npx pagefind --site . --output-path pagefind
 
       - name: Deploy Index to gh-pages
         uses: peaceiris/actions-gh-pages@v3
