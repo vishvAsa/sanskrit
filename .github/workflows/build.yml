@@ -63,3 +63,17 @@ jobs:
         publish_dir: ./build_github
         publish_branch: gh-pages
         force_orphan: true # git history growth - even on non-src branches - makes cloning slow.
+    - name: Trigger indexing
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          await github.rest.actions.createWorkflowDispatch({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            workflow_id: 'index_pages.yml',
+            ref: 'gh-pages',
+            inputs: {
+              logLevel: 'info'
+            }
+          })
