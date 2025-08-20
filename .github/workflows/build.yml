@@ -78,7 +78,4 @@ jobs:
             repo: context.repo.repo,
             workflow_id: 'index_pages.yml',
             ref: 'master',
-            inputs: {
-              logLevel: 'info'
-            }
           })
