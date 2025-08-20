@@ -13,6 +13,8 @@ on:
 jobs:
   transform:
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
     steps:
     - name: Inject slug/short variables
       uses: rlespinasse/github-slug-action@v4.4.1
