@@ -1,12 +1,9 @@
-name: Index Hugo site
+name: Index site
 
 on:
   push:
     branches: [ 'gh-pages' ]
   workflow_dispatch:
-    inputs:
-      logLevel:
-        default: 'warning'
 
 jobs:
   transform:
