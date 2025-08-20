@@ -11,7 +11,6 @@ jobs:
     steps:
       - name: Inject slug/short variables
         uses: rlespinasse/github-slug-action@v4
-
       - name: Checkout gh-pages branch
         id: checkout
         uses: actions/checkout@v4
