@@ -6,7 +6,8 @@ title = "Hard language"
 - If the right register ([Simple Standard Sanskrit](../../simple_standard) -  [archive](https://archive.org/details/simple-standard-sanskrit/mode/2up)) is used, sanskrit is quite easy for all Indians. \[chamu [video](https://www.youtube.com/watch?v=yr8iB6cscjM)\] It can be learned in a few days. Samskrita bhArati routinely teaches this.
   - I know idiots who've learned. So have lakhs of people. I know very intelligent people (superspecialized famous doctors) who haven't - despite me taking them to a camp. What matters is simply honesty and the lack of fear of "mistakes" (and looking silly).
   
-{{< figure src="../images/common-registers.jpg" title="" class="thumbnail">}}
+![](../images/common-registers.jpg)
+{caption="" class="thumbnail"}
 
 
 ## Simple sanskrit is good only for gimmicks.

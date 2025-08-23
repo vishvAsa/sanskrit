@@ -63,7 +63,8 @@ unicode_script: devanagari
 - "गन्धवती पृथिवी।"
   - गन्धवती = गन्धः अस्याम् अस्ति। यथा ऽत्र "पृथिव्याम् गन्धो ऽस्ति" इतीष्टस्यार्थस्य निरूपणं विग्रहवाक्यसहित-प्रकृति-प्रत्ययादिविवेकेन दर्शितः।  तदभिव्यक्तिः वचोभिः - "पृथिवी-निष्ठा-ऽधिकरणता-निरूपित+आधेयता-ऽऽश्रयो गन्धः।"
 
-{{< figure src="images/adhikaraNatA-niShThAdheyatAshrayaH" title="" class="thumbnail">}}
+![](images/adhikaraNatA-niShThAdheyatAshrayaH)
+{caption="" class="thumbnail"}
 
 - तले पुस्तकम्। 
   - तलनिष्ठाधिकरणतानिरूपकाधेयताश्रयः पुस्तकम्।
