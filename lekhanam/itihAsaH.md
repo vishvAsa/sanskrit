@@ -6,12 +6,19 @@ unicode_script: devanagari
 - ‘तद् यथा शङ्कुना सर्वाणि पर्णानि सन्तृण्णान्य्+++(=संविद्धानि)+++ एवम् ओङ्कारेण सर्वा वाक् सन्तृण्णा। ओङ्कार एवेदं सर्वम्।’ (छा.उ. २। २३। ३) पर्ण-ग्रन्थस्योल्लेखो ऽयम् इति केचित्।
 
 ## Early inadequacy
-- "All indications are that the spoken language for which the early scripts (brahmi & kharosthi) were invented did not follow a fully scientific (or standardized) mapping of sounds to script, so the early scripts did not allow for phonetically accurate representation of the spoken language."
-- "In fact the kharosthi script in its early centuries did not even show vowel length distinctions but this is no evidence to show that the underlying spoken Indo-Aryan language in the 4th century BCE had shed its all its long vowels. It is only an evidence that the script did not allow such vowel length distinctions to be orthographically represented (until that script evolved enough over the centuries to allow fully phonetic representation of the spoken language -- and voila, you have phonetically accurate sanskrit appearing after centuries of apparent written "prakrit" -- when really all that had happened is only that the script had evolved, not so much the spoken language)." [रामकृष्णः](https://groups.google.com/forum/#!topic/bvparishat/e26Gh14ohxI)
-- Even in later scripts, there is problem writing तल्ँ लाति (writ as तल्ँलाति), अ॒मुष्मि॑ल्ँ लो॒के (writ as अ॒मुष्मि॑ल्लोँ॒के) or समा॒नय्ँ योनि॒म् (writ as समा॒नँय्योनि॒म्). 
+> "All indications are that the spoken language for which the early scripts (brahmi & kharosthi) were invented did not follow a fully scientific (or standardized) mapping of sounds to script, so the early scripts did not allow for phonetically accurate representation of the spoken language."  
+"In fact the kharosthi script in its early centuries did not even show vowel length distinctions but this is no evidence to show that the underlying spoken Indo-Aryan language in the 4th century BCE had shed its all its long vowels. It is only an evidence that the script did not allow such vowel length distinctions to be orthographically represented (until that script evolved enough over the centuries to allow fully phonetic representation of the spoken language -- and voila, you have phonetically accurate sanskrit appearing after centuries of apparent written "prakrit" -- when really all that had happened is only that the script had evolved, not so much the spoken language)." [रामकृष्णः](https://groups.google.com/forum/#!topic/bvparishat/e26Gh14ohxI)
+
+Even in later scripts, there is problem writing तल्ँ लाति (writ as तल्ँलाति), अ॒मुष्मि॑ल्ँ लो॒के (writ as अ॒मुष्मि॑ल्लोँ॒के) or समा॒नय्ँ योनि॒म् (writ as समा॒नँय्योनि॒म्). 
+
+## Post-gupta Drift
+> What happened in the 6th c. CE? Did the northern Gupta Empire have a centrifugal cultural effect on non-Gupta India? Post-Gupta even N. India dispersed. Check (d)evolution of Tamil script from ancient pan-Indic #Brahmi to what I call intricate saree-border script.
+
+gupta-period = classical hindu civilization height - people sought more and more beauty - even in script it seems.
+
 
 ## shirorekhA
-> The top line we use for devanagari script is actually the lines we see in tree barks.  Letter wrtten along that line.  Later in paper also, it was copied as it is without understanding what that line is for.
+> The top line we use for devanagari script is actually the lines we see in tree barks.  Letter written along that line.  Later in paper also, it was copied as it is without understanding what that line is for.
 
 ## Later script degeneracy
 In many medieval and modern scripts, vargIya-panchama-s stopped being used - substituted by anusvAra-s. In Hindi, anusvAra also came to be used in place of anunAsika - as in हैँ. Also in Hindi, is written as हैं though pronounced as हॆँ (similar with मैं). 
