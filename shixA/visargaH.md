@@ -99,6 +99,11 @@ unicode_script: devanagari
 इति देशपाण्डेय-माधवः। नैवमित्यन्ये।
 </details>
 
+<details><summary>ॠः (द्रष्टुं नोद्यम्)</summary>
+
+मातॄः - One might wonder if it would be pronounced closer to RRhi or RRhu or RRha (the last vowel being indistinct/ muted). Answer is that it depends on the way ॠ is pronounced - is it closer to री or रू, or neither (pure र्-like). The last would be most justifiable due to its distinctiness.
+</details>
+
 
 ### उपध्मानीयदेर् भेदः
 पफयोः परयोर् यद् वायु-विसर्गो भवति,  
