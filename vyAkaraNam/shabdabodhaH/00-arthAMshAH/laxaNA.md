@@ -15,6 +15,7 @@ unicode_script: devanagari
 
 इति तन्त्रवार्तिके।
 
+पद-लक्षणा बाधे हि ग्राह्या। तस्याप्य् अपर्याप्ताव् एव वाक्य-लक्षणा ग्राह्या। 
 
 ## प्रकाराः
 <div class="spreadsheet" src="../laxaNA.toml"> </div>  
