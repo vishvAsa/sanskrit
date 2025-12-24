@@ -1,5 +1,5 @@
 ---
-title: वाक्यभेदप्रबन्धः
+title: वाक्य-भेदप्रबन्धः
 unicode_script: devanagari
 ---
 
