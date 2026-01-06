@@ -12,8 +12,7 @@ unicode_script = "devanagari"
 फिषो+++(=प्रातिपदिकस्य)+++ ऽन्त उदात्तः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 प्रातिपदिकं फिट् । तस्यान्त उदात्तः स्यात् । उच्चैः ॥
 </details>
@@ -29,8 +28,7 @@ unicode_script = "devanagari"
 पाटलापालङ्काम्बासागरार्थानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 एतद्-अर्थानाम् अन्त उदात्तः । पाटला, फलेरुहा, सुरूपा, पाकला - इति पर्यायाः । `लघावन्ते—` इति प्राप्ते । अपालङ्क, व्याधिघात, आरेवत, आरग्वध - इति पर्यायाः । अम्बार्थः । माता । `उनर्वन्नन्तानाम्` इत्याद्युदात्तत्वे प्राप्ते । सागरः । समुद्रः ॥
 </details>
@@ -46,8 +44,7 @@ unicode_script = "devanagari"
 गेहार्थानाम् अस्त्रियाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 गेहम् । `नविषयस्य—` इति प्राप्ते । अस्त्रियाम् किम् ? शाला । आद्युदात्तोऽयम् । इहैव पर्युदासाज्ज्ञापकात् ॥
 </details>
@@ -63,8 +60,7 @@ unicode_script = "devanagari"
 गुदस्य च
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अन्त उदात्तः स्यान्, न तु स्त्रियाम् । गुदम् । अस्त्रियाम् किम् ?  आ॒न्त्रेभ्य॑स्ते॒ गुदा॑भ्यः । `स्वाङ्गशिटामदन्तानाम्` इत्यन्तरङ्गमाद्युदात्तत्वम् । ततष्टाप् ॥
 </details>
@@ -80,8 +76,7 @@ unicode_script = "devanagari"
 ध्यपूर्वस्य स्त्रीविषयस्य
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 धकारयकारपूर्वो योऽन्त्योऽच् स उदात्तः । अन्तर्धा । `स्त्रीविषयवर्ण—` इति प्राप्ते । छा॒या । मा॒या । जा॒या । `यान्तस्यान्त्यात्पूर्वम्` इत्याद्युदात्तत्वे प्राप्ते । स्त्री इति किम् ? बाह्यम् । यञन्तत्वादाद्युदात्तत्वम् । विषयग्रहणम् किम् ? इभ्या । क्षत्रिया । `यतोऽनाव:` [[6.1.213]] इत्याद्युदात्त इभ्यशब्दः । क्षत्रियशब्दस्तु `यान्तस्यान्त्यात्पूर्वम्` इति मध्योदात्तः ॥
 </details>
@@ -97,8 +92,7 @@ unicode_script = "devanagari"
 खान्तस्याश्मादेः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 नखम् । उखा । सुखम् । दुःखम् । नखस्य `स्वाङ्गशिटामदन्तानाम्` इत्याद्युदात्तत्वे प्राप्ते । उखा नाम भाण्डविशेषः । तस्य कृत्रिमत्वात् `खय्युवर्ण कृत्रिमाख्या चेत्` इत्युवर्णस्योदात्तत्वे प्राप्ते । सुखदुःखयोः `नब्विषयस्य—` इति प्राप्ते । अश्मादेः  किम् ? शिखा । मुखम् । मुखस्य `स्वाङ्गशिटाम्—` इति `नब्विषयस्य—` आद्युदात्तत्वम् । शिखायास्तु `शीडः खो निद्ध्रस्वश्च` इत्युणादिषु नित्वोक्तेरन्तरङ्गत्वाट्टापः  प्रागेव `स्वाङ्गशिटाम्—` इति वा बोध्यम् ॥
 </details>
@@ -114,8 +108,7 @@ unicode_script = "devanagari"
 बंहिष्ठवत्सरतिशत्थान्तानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 एषामन्त उदात्तः स्यात् । अतिशयेन बहुलो बंहिष्ठः । नित्त्वादाद्युदात्तत्वे प्राप्ते । बंहि॑ष्ठै॒रश्वैः॑ सु॒वृता॒ रथे॑न, यद्बंहि॑ष्ठं॒ नाति॒विदे॑ इत्यादौ व्यत्ययादाद्युदात्तः । सवत्सरः, परिवत्सरः । अव्ययपूर्वपदप्रकृतिस्वरोऽत्र बाध्यत इत्याहुः । सप्ततिः । अशीतिः । `लघावन्ते—` इति प्राप्ते । चत्वारिंशत् । इहापि प्राग्वत् । 'अ॒भ्यू॑र्ण्वा॒ना प्र॑भृ॒थस्या॒योः' । अव्ययपूर्वपदप्रकृतिस्वरोऽत्र बाध्यत इत्याहुः । थाथादिसूत्रेण गतार्थमेतत् ॥
 </details>
@@ -131,8 +124,7 @@ unicode_script = "devanagari"
 दक्षिणस्य साधौ
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अन्त उदात्तः स्यात् । साधुवाचित्वाभावे तु व्यवस्थायां सर्वनामतया `स्वाङ्गशिटाम्—` इत्याद्युदात्तः । अर्थान्तरे तु `लघावन्ते—` इति गुरुरुदात्तः । 'दक्षिणः सरलोदारपरच्छन्दानुवर्तिषु' इति कोशः ॥
 </details>
@@ -148,8 +140,7 @@ unicode_script = "devanagari"
 स्वाङ्गाख्यायामादिर्वा
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 इह दक्षिणस्याद्यन्तौ पर्यायेणोदात्तौ स्तः । दक्षिणो बाहुः । आख्याग्रहणम् किम् । प्रत्यङ्मुखस्यासीनस्य वामपाणिर्दक्षिणो भवति ॥
 </details>
@@ -165,8 +156,7 @@ unicode_script = "devanagari"
 छन्दसि च
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अस्वाङ्गार्थमिदम् । दक्षिणः । इह पर्यायेणाद्यन्तावुदात्तौ ॥
 </details>
@@ -182,8 +172,7 @@ unicode_script = "devanagari"
 कृष्णस्यामृगाख्या चेत्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अन्त उदात्तः । `वर्णानां तण—` इत्याद्युदात्तत्वे प्राप्ते अन्तोदात्तो विधीयते । कृष्णानां व्रीहीणाम् । कृ॒ष्णो नो॑ नाव वृष॒भः । मृगाख्यायां तु कृष्णो रात्र्यै ॥
 </details>
@@ -199,8 +188,7 @@ unicode_script = "devanagari"
 वा नामधेयस्य
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 कृष्णस्येत्येव । अ॒यं वा॑ कृ॒ष्णाे अ॑श्विना । कृष्णर्षिः ॥
 </details>
@@ -216,8 +204,7 @@ unicode_script = "devanagari"
 शुक्लगौरयोरादिः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 नित्यमुदात्तः स्यादित्येके । वेत्यनुवर्तत इति तु युक्तम् । सरो॑ गौ॒रो यथा॑ पिब - इत्यत्रान्तोदात्तदर्शनात् ॥
 </details>
@@ -233,8 +220,7 @@ unicode_script = "devanagari"
 अङ्गुष्ठोदकबकवशानां छन्दस्यन्तः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अङ्गुष्ठस्य `स्वाङ्गानामकुर्वादीनाम्` इति द्वितीयस्योदात्तत्वे प्राप्तेऽन्तोदात्तार्थ आरम्भः । वशाग्रहणं नियमार्थं छन्दस्येवेति । तेन लोके आद्युदात्ततेत्याहुः ॥
 </details>
@@ -250,8 +236,7 @@ unicode_script = "devanagari"
 पृष्ठस्य च
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 छन्दस्यन्त उदात्तः स्याद्वा भाषायाम् । पृष्ठम् ॥
 </details>
@@ -267,8 +252,7 @@ unicode_script = "devanagari"
 अर्जुनस्य तृणाख्या चेत्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 `उनर्वन्नन्तानाम्` इत्याद्युदात्तस्यापवादः ॥
 </details>
@@ -284,8 +268,7 @@ unicode_script = "devanagari"
 अर्यस्य स्वाम्याख्या चेत्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 `यान्तस्यान्त्यात्पूर्वम्` इति `यतोऽनाव` [[6.1.213]] इति वाद्युदात्ते प्राप्ते वचनम् ॥
 </details>
@@ -301,8 +284,7 @@ unicode_script = "devanagari"
 आशाया अदिगाख्या चेत्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 दिगाख्याव्यावृत्त्यर्थमिदम् । अत एव ज्ञापकाद्दिक्पर्यायस्याद्युदात्तता । इन्द्र॒ आशा॑भ्य॒ स्परि॑ ॥
 </details>
@@ -318,8 +300,7 @@ unicode_script = "devanagari"
 नक्षत्राणामाब्विषयाणाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अन्त उदात्तः स्यात् । आश्लेषानुराधादीनां `लघावन्ते—` इति प्राप्ते ज्येष्ठाश्रविष्ठाधनिष्ठानामिष्ठन्नन्तत्वेनाद्युदात्ते प्राप्ते वचनम् ॥
 </details>
@@ -335,8 +316,7 @@ unicode_script = "devanagari"
 न कुपूर्वस्य कृत्तिकाख्या चेत्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अन्त उदात्तो न । कृत्तिका नक्षत्रम् । केचित्तु कुपूर्वो य आप्तद्विषयाणामिति व्याख्याय आर्यिका, बहुलिका इत्यत्राप्यन्तोदात्तो नेत्याहुः ॥
 </details>
@@ -352,8 +332,7 @@ unicode_script = "devanagari"
 घृतादीनां च
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अन्त उदात्तः । 'घृ॒तं मि॑मिक्षे' । आकृतिगणोऽयम् ॥
 </details>
@@ -369,8 +348,7 @@ unicode_script = "devanagari"
 ज्येष्ठकनिष्ठयोर्वयसि
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अन्त उदात्तः स्यात् । ज्ये॒ष्ठ आ॑ह च॒मसा । कनि॒ष्ठ आ॑ह च॒तुरः॑ । वयसि किम् ? ज्येष्ठः श्रेष्ठः , कनिष्ठोऽल्पिकः । इह नित्त्वादाद्युदात्त एव ॥
 </details>
@@ -386,8 +364,7 @@ unicode_script = "devanagari"
 बिल्वतिष्ययोः स्वरितो वा
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अनयोरन्तः स्वरितो वा स्यात् । पक्ष उदात्तः ॥ 
 </details>
@@ -404,8 +381,7 @@ unicode_script = "devanagari"
 अथादिः प्राक् शकटेः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अधिकारोऽयम् । `शकटिशकट्योः—` इति यावत् ॥
 </details>
@@ -421,8 +397,7 @@ unicode_script = "devanagari"
 हस्वान्तस्य स्त्रीविषयस्य
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 आदरुदात्तः स्यात् । बलिः । तनुः ॥
 </details>
@@ -438,8 +413,7 @@ unicode_script = "devanagari"
 नब्विषयस्यानिसन्तस्य
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 व॒ने न वा॒ यः । इसन्तस्य तु सर्पिः । नब्नपुंसकम् ॥
 </details>
@@ -455,8 +429,7 @@ unicode_script = "devanagari"
 तृणधान्यानां च द्व्यषाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 द्व्यचामित्यर्थः । कुशाः । काशाः । माषाः । तिलाः । बह्वचां तु गोधूमाः ॥
 </details>
@@ -472,8 +445,7 @@ unicode_script = "devanagari"
 न्रः सङ्ख्यायाः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 पञ्च । चत्वारः ॥
 </details>
@@ -489,8 +461,7 @@ unicode_script = "devanagari"
 स्वाङ्गशिटामदन्तानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 शिट् सर्वनाम । कर्णा॑भ्यां॒ चु॒बु॑कादधि॑ । ओष्ठा॑विव॒ मधु॑ । विश्वो॒ विहा॑याः ॥
 </details>
@@ -506,8 +477,7 @@ unicode_script = "devanagari"
 प्राणिनां कुपूर्वम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 कवर्गात्पूर्वः आदिरुदात्तः । काकः । वृकः । शुके॑षु मे । प्राणिनाम् किम् ? क्षी॒रं स॒र्पिर्मधू॑द॒कम् । कुपूर्वाद् किम् ? धनुः ॥
 </details>
@@ -523,8 +493,7 @@ unicode_script = "devanagari"
 खय्युवर्ण कृत्रिमाख्या चेत्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 खयि परे उवर्णमुदात्तं स्यात् । कन्दुकः ॥
 </details>
@@ -540,8 +509,7 @@ unicode_script = "devanagari"
 उनर्वन्नन्तानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 उन । 'वरु॑ण वो रि॒शाद॑सम्' । ॠ । स्वसा॑रं त्वा कृणवै॒ । वन् । पीवा॑न मे॒षम् ॥
 </details>
@@ -557,8 +525,7 @@ unicode_script = "devanagari"
 वर्णानां तणतिनितान्तानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 आदिरुदात्तः । एतः । हरिणः । शितिः । पृश्निः । हरित् ॥
 </details>
@@ -574,8 +541,7 @@ unicode_script = "devanagari"
 हस्वान्तस्य हस्वमनृताच्छील्ये
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 ऋद्वर्जं हस्वान्तस्यादिभूतं हस्वमुदात्तं स्यात् । मुनिः ॥
 </details>
@@ -591,8 +557,7 @@ unicode_script = "devanagari"
 अक्षस्यादेवनस्य
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 आदिरुदात्तः । तस्य॒ नाक्षः॑ । देवने तु - अ॒क्षैर्मा दी॑व्यः ॥
 </details>
@@ -608,8 +573,7 @@ unicode_script = "devanagari"
 अर्धस्यासमद्योतने
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अर्धो ग्रामस्य । समेंऽशके तु अर्धं पिप्पल्याः ॥
 </details>
@@ -625,8 +589,7 @@ unicode_script = "devanagari"
 पीतद्र्वर्थानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 आदिरुदात्त । पीतद्रुः सरलः ॥
 </details>
@@ -642,8 +605,7 @@ unicode_script = "devanagari"
 ग्रामादीनां च
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 ग्रामः । सोमः । यामः ॥
 </details>
@@ -659,8 +621,7 @@ unicode_script = "devanagari"
 लुबन्तस्योपमयनामधेयस्य
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 चञ्चेव चञ्चा । 'स्फिगन्तस्य' इति पाठान्तरम् । स्फिगिति लुपः प्राचां संज्ञा ॥
 </details>
@@ -676,8 +637,7 @@ unicode_script = "devanagari"
 न वृक्षपर्वतविशेषव्याघ्रसिंहमहिषाणाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 एषामुपमेयनाम्नामादिरुदात्तो न । ताल इव तालः । मेरुरिव मेरुः । व्याघ्रः । सिंहः । महिषः ॥
 </details>
@@ -693,8 +653,7 @@ unicode_script = "devanagari"
 राजविशेषस्य यमन्वा चेत्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 यमन्वा वृद्धः। आङ्गमुदाहरणम् । अङ्गाः प्रत्युदाहरणम् ॥
 </details>
@@ -710,8 +669,7 @@ unicode_script = "devanagari"
 लघावन्ते द्वयोश्च बह्वषो गुरुः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अन्ते लघौ, द्वयोश्च लध्वोः सतोर्बह्वच्कस्य गुरुरुदात्तः । कल्याणः । कोलाहलः ॥
 </details>
@@ -727,8 +685,7 @@ unicode_script = "devanagari"
 स्त्रीविषयवर्णक्षुपूर्वाणाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 एषा त्रयाणामाद्युदात्तः । स्त्रीविषयम् । मल्लिका । वर्णः श्येनी । हरिणी । अक्षुशब्दात्पूर्वोऽस्त्येषां ते अक्षुपूर्वाः । तरक्षुः ॥
 </details>
@@ -744,8 +701,7 @@ unicode_script = "devanagari"
 शकुनीनां च लघु पूर्वम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 पूर्वं लघु उदात्त स्यात् । कुक्कुटः । तित्तिरिः ॥
 </details>
@@ -761,8 +717,7 @@ unicode_script = "devanagari"
 नर्तुप्राण्याख्यायाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 यथालक्षणं प्राप्तमुदात्तत्वं न । वसन्तः । कृकलासः ॥
 </details>
@@ -778,8 +733,7 @@ unicode_script = "devanagari"
 धान्यानां च वृद्धक्षान्तानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 आदिरुदात्तः । कान्तानाम् - श्यामाकाः । षान्तानाम् - राजमाषाः ॥
 </details>
@@ -795,8 +749,7 @@ unicode_script = "devanagari"
 जनपदशब्दानामषान्तानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 आदिरुदात्तः । केकयः । `यान्तस्यान्त्यात् पूर्वम्` इति प्राप्ते ॥
 </details>
@@ -812,8 +765,7 @@ unicode_script = "devanagari"
 हयादीनामसंयुक्तलान्तानामन्तः पूर्वं वा
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
  हयिति हल्सज्ञा । पललम् । शललम् । हयादीनाम् किम् ? एकलः । असंयुक्त इति किम् । मल्लः ॥
 </details>
@@ -829,8 +781,7 @@ unicode_script = "devanagari"
 इगन्ताना च द्व्यषाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 आदिरुदात्तः । कृषिः ॥
 </details>
@@ -847,8 +798,7 @@ unicode_script = "devanagari"
 अथ द्वितीयं प्रागीषात्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 `ईषान्तस्य हयादे—` इत्यतः प्राग्द्वितीयाधिकार ॥
 </details>
@@ -864,8 +814,7 @@ unicode_script = "devanagari"
 त्र्यचा प्राङ्मकरात्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 `मकरवरूढ—` इत्यतः प्राक् त्र्यचामित्यधिकारः ॥
 </details>
@@ -881,8 +830,7 @@ unicode_script = "devanagari"
 स्वाङ्गानामकुर्वादीनाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 कवर्गरेफवकारादीनि वर्जयित्वा त्र्यचां स्वाङ्गानां द्वितीयमुदात्तम् । ल॒लाट॒म् । कुर्वादीनां तु । क॒पोलः॑ । रसना । वदनम् ॥
 </details>
@@ -898,8 +846,7 @@ unicode_script = "devanagari"
 मादीनां च
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 मलयः । मकरः ॥
 </details>
@@ -915,8 +862,7 @@ unicode_script = "devanagari"
 शादीनां शाकानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 शीतन्या । शतपुष्पा ॥
 </details>
@@ -932,8 +878,7 @@ unicode_script = "devanagari"
 पान्तानां गुर्वादीनाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 पादपः । आतपः । लघ्वादीना तु - अनूपम् । द्व्यचां तु - नीपम् ॥
 </details>
@@ -949,8 +894,7 @@ unicode_script = "devanagari"
 युतान्यण्यन्तानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 युत । अयुतम् । अनि । धमनि । अणि । विपणिः ॥
 </details>
@@ -966,8 +910,7 @@ unicode_script = "devanagari"
 मकरवरूढपारेवतवितस्तेक्ष्वार्जिद्राक्षाकलोमाकाष्ठापेष्ठाकाशीनामादिर्वा
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 एषामादिर्द्वितीयो वोदात्तः । मकरः वरूढ इत्यादि ॥
 </details>
@@ -983,8 +926,7 @@ unicode_script = "devanagari"
 छन्दसि च
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अमकराद्यर्थ आरम्भः । लक्ष्यानुसारादादिर्द्वितीयं चोदात्तं ज्ञेयम् ॥
 </details>
@@ -1000,8 +942,7 @@ unicode_script = "devanagari"
 कर्दमादीनां च
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 आदिर्द्वितीयं वोदात्तम् ॥
 </details>
@@ -1017,8 +958,7 @@ unicode_script = "devanagari"
 सुगन्धितेजनस्य ते वा
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 आदिर्द्वितीयं तेशब्दश्चेति त्रयः पर्यायेणोदात्ताः । सुगन्धितेजनाः ॥
 </details>
@@ -1034,8 +974,7 @@ unicode_script = "devanagari"
 नपः फलान्तानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 आदिर्द्वितीयं वोदात्तम् । राजादनफलम् ॥
 </details>
@@ -1051,8 +990,7 @@ unicode_script = "devanagari"
 यान्तस्यान्त्यात्पूर्वम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 कुलायः । तलयः । वलयः ॥
 </details>
@@ -1068,8 +1006,7 @@ unicode_script = "devanagari"
 थान्तस्य च नालघुनी
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 नाशब्दो लघु च उदात्ते स्तः । सनाथा सभा ॥
 </details>
@@ -1085,8 +1022,7 @@ unicode_script = "devanagari"
 शिशुमारोदुम्बरबलीवर्दोष्ट्रारपुरूरवसां च
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अन्त्यात्पूर्वमुदात्तं द्वितीयं वा ॥
 </details>
@@ -1102,8 +1038,7 @@ unicode_script = "devanagari"
 साङ्काश्यकाम्पिल्यनासिक्यदार्वाघाटानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 द्वितीयमुदात्तं वा ॥
 </details>
@@ -1119,8 +1054,7 @@ unicode_script = "devanagari"
 ईषान्तख्य हयादेरादिर्वा
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 हलीषा । लाङ्गलीषा ॥
 </details>
@@ -1136,8 +1070,7 @@ unicode_script = "devanagari"
 उशीरदाशेरकपालपलालशैवालश्यामाकशारीरशरावहृदयहिरण्यारण्यापत्यदेवराणाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 एषामादिरुदात्तः स्यात् ॥
 </details>
@@ -1153,8 +1086,7 @@ unicode_script = "devanagari"
 महिष्याषाढयोर्जायेष्टकाख्या चेत्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 आदिरुदात्तः । महिषी जाया । आषाढा उपदधाति ॥
 </details>
@@ -1171,8 +1103,7 @@ unicode_script = "devanagari"
 शकटिशकट्योरक्षरमक्षरं पर्यायेण
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 उदात्तम् । शकटिः । शकटी ॥
 </details>
@@ -1188,8 +1119,7 @@ unicode_script = "devanagari"
 गोष्ठजस्य ब्राह्मणानामधेयस्य
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अक्षरमक्षर पर्यायेणोदात्तम् । गोष्ठजो ब्राह्मणः । अन्यत्र गोष्ठजः पशुः । कृदुत्तरपदप्रकृतिस्वरेणान्तोदात्तः ॥
 </details>
@@ -1205,8 +1135,7 @@ unicode_script = "devanagari"
 पारावतस्योपोत्तमवर्जम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 शेष क्रमेणोदात्तम् । पारावतः ॥
 </details>
@@ -1222,8 +1151,7 @@ unicode_script = "devanagari"
 धूम्रजानुमुञ्जकेशकालवालस्थालीपाकानामधूजलस्थानाम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 एषां चतुर्ण्णां धूप्रभृतींश्चतुरो वर्जयित्वा शिष्टानि क्रमेणोदात्तानि । धूम्रजानुः । मुञ्जकेशः । कालवालः । स्थालीपाकः ॥
 </details>
@@ -1239,8 +1167,7 @@ unicode_script = "devanagari"
 कपिकेशहरिकेशयोश्छन्दसि
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 कपिकेशः । हरिकेशः ॥
 </details>
@@ -1256,8 +1183,7 @@ unicode_script = "devanagari"
 न्यङ्स्वरौ स्वरितौ
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 स्पष्टम् । न्य॑ङ्ङुत्ता॒नः । व्य॑चक्षय॒त्स्वः ॥
 </details>
@@ -1273,8 +1199,7 @@ unicode_script = "devanagari"
 न्यर्बुदव्यल्कशयोरादि
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 स्वरितः स्यात् । न्यर्बुदाय स्वाहा । पाकदूर्वा व्यल्कशा ॥
 </details>
@@ -1290,8 +1215,7 @@ unicode_script = "devanagari"
 तिल्यशिक्यमत्यकार्ष्मर्यधान्यकन्याराजन्यमनुष्याणामन्त
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 स्वरितः स्यात् । तिलाना भवनं क्षेत्रं तिल्यम् । वैश्वानर्या शिक्यमादत्ते । प्रभिन्नायमत्यमन्व्यास्यति । वज्रः कार्ष्मर्योर्वज्रेण । `यतोऽनाव:` [[6.1.213]]  इति प्राप्ते । कार्ष्मर्यमुपयाति । धान्यमसिधिनुहि । मावीरवीकन्या । राजन्यो वज्रस्य रूपम् । प्रतीची मनुष्या ॥
 </details>
@@ -1307,8 +1231,7 @@ unicode_script = "devanagari"
 बिल्वभक्ष्यवीर्याणि च्छन्दसि
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अन्तस्वरितानि । ततो बिल्वस्य उदतिष्ठत् । बलं विरुजवीर्यम् ॥
 </details>
@@ -1324,8 +1247,7 @@ unicode_script = "devanagari"
 त्वत्त्वसमसिमेत्यनुच्चानि
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 स्त॒रीरु॑ त्व॒त् । उ॒त त्वः॒ पश्य॑न् । नभ॑न्तामन्यके॒ स॑मे । सिम॑स्मै ॥
 </details>
@@ -1341,8 +1263,7 @@ unicode_script = "devanagari"
 सिमस्याथर्वणेऽन्त उदात्तः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 अथर्वण इति प्रायिकम् । तत्र दृष्टस्येत्येवंपरं वा । तेन 'वास॑स्तनुते सि॒मस्मै॑' इत्यृग्वेदेऽपि भवत्येव ॥
 </details>
@@ -1358,8 +1279,7 @@ unicode_script = "devanagari"
 निपाता आद्युदात्ताः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 स्वाहा ॥
 </details>
@@ -1388,8 +1308,7 @@ unicode_script = "devanagari"
 एवादीनाम् अन्तः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 एवमादीनामिति पाठान्तरम् । एव । एवम् । नूनम् । सह । 
 
@@ -1407,8 +1326,7 @@ unicode_script = "devanagari"
 वाचादीनामुभावुदात्तौ
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 उभौग्रहणमनुदात्तं पदमेकवर्जमित्यस्य बाधाय ॥
 </details>
@@ -1424,8 +1342,7 @@ unicode_script = "devanagari"
 चादयोऽनुदात्ताः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 स्पष्टम् ॥
 </details>
@@ -1441,8 +1358,7 @@ unicode_script = "devanagari"
 यथेति पादान्ते
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 तं ने॒मिमृ॒भवो॑ य॒था । पादान्ते किम् । यथा॑नो॒ अदि॑तिः॒ कर॑त् ॥
 </details>
@@ -1458,8 +1374,7 @@ unicode_script = "devanagari"
 प्रकारादिद्विरुक्तौ परस्यान्त उदात्तः
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 पटुपटुः ॥
 </details>
@@ -1475,8 +1390,7 @@ unicode_script = "devanagari"
 शेषं सर्वमनुदात्तम्
 </details>
 
-<details>
-<summary>सिद्धान्तकौमुदी</summary>
+<details><summary>सिद्धान्तकौमुदी</summary>
 
 शेषमित्यादिद्विरुक्तस्य परमित्यर्थः । प्रप्रा॒यम् । दि॒वेदि॑वे ॥
 </details>
