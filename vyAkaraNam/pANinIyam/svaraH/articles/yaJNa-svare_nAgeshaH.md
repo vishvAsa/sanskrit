@@ -2,7 +2,14 @@
 title = "यज्ञ-स्वरे नागेशः"
 +++
 
-नागेशभट्ट (बृहत्-शब्द-शेखरः)
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+नागेशभट्ट (बृहत्-शब्द-शेखरः। )
+
+Source: [TW](https://archive.org/details/vaiyakaransiddhantakaumudikridantamlbd/page/n473/mode/2up)
+
+</details>
+
 
 ## पदार्थः
 **यज्ञकर्मण्यजप॰**।  
