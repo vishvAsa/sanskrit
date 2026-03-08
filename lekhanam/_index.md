@@ -107,8 +107,10 @@ title: +लेखनम्
 - एवं जिह्वामूलीयोपध्मानीययोस् स्थाने विसर्गः
 
 
+
 ## अन्वेषण-सौकर्यम्
 The fact that there is no separate sign in roman scripts for independent vowel (eg आ) vs dependent vowel (eg the mAtrA in ा) helps easier searching. I generally get by quite well searching for a substring (वेक्ष्य instead of अवेक्ष्य or ावेक्ष्य) though.
 
 ## Misc conventions
 - ४ं is चतुर्वारं (four times डं, हं, णं etc.)
+- अथा᳙सौ is used to denote sandhi in  [TW](https://archive.org/details/panchatantracoll00purn/page/n42/mode/1up) ।
