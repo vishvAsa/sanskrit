@@ -6,10 +6,14 @@ unicode_script = "devanagari"
 ## उच्चारणभेदः
 केचन ब्राह्मण, वह्नि…, ग्रुह्णमि इत्यादीनां वचने हकारानुनासिकयोः क्रमम् परिवर्तयन्ति। 
 
+अन्ये तु नम्बूतिरि-निभा न तथा - यथात्र ब्रह्मणस्पतेर् उच्चारणे - [TW](https://www.youtube.com/watch?v=FBv3edKB_yM) ।
+
 ## पाणिनीयकाले
 - sUtras such as https://ashtadhyayi.github.io/suutra/8.3/8.3.26/ (he mapare maḥ, napare naḥ) provides evidence that at the time of pANini, the sequence hm and hn was clearly prevalent in spoken language. 
 
 >  As best as I know, historically all these clusters are h-initial clusters.  The reasons are not hard to see.  Just as -jñ- in forms like rājñaḥ is a contraction of -jan- in rājan, similarly -hn- in ahnaḥ is a contraction of -han- in ahan.  - MD
+
+> From the Greek loan brachman, no way this would have been the form if source was non-nambu pronouncement. - KRK
 
 ## अर्वाचीनकाले वर्णपरिवर्तने प्रभावः
 - शिष्टाचारः

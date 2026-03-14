@@ -135,3 +135,7 @@ Source: [TW](https://youtu.be/UURpRUUYnY0)
 - [YT19](https://www.youtube.com/watch?v=BTzqFzFsWS0&feature=youtu.be) (<- शुद्धाद् +हकाराद् भेदं नालं दर्शयति।)
 - पेजावर-माध्व-मठस्य विश्वप्रसन्नतीर्थो [ऽत्र](https://www.youtube.com/watch?v=dSY_ZOtTjuM&list=PL-L4Wguz-JM7dUqAVrvXg6F2q6Z5mjFu9&index=7) ।
 - उज्ज्वलो राजपुत्रः - "मया॑ क॒दाचि॑त् कारणविशे॒षाद् दन्ता॑दिना॒ केनापि॑ मुखस्था॒नेन॑ जिह्वा॒ग्रं संयो॑जयितु॒म् अश॑क्नुवता सका॒रम् उच्चा॑रयितु॒म् अस॑मर्थे॒नापि॑ आर्यभा॒षाया॒ अल॑मर्थं॒ बस् इत्ये॒नं शब्दं॑ कारणान्त॒रात् क॒थमपि॒ विव॑क्षता॒ तस्य॒ यो नेदि॑ष्ठश्रवणः॒ शब्दः॑ कृ॒तस् तस्यान्ते॑ विस॒र्गमि॑व श्रु॒तव॑ता विस्म॒यो ल॒ब्धः। यत् सं॑स्कृतवा॒क्येषु॑ यत्राव॒साने॑षु विस॒र्ग उ॒च्यते॒ तत्रै॒वान्यासु॒ सम्ब॑द्धासु॒ ग्रीका॑दिषु वा॒क्षु स॑का॒र इति॒ तेन॒ ममापि॑ आर्यभा॒षायाः॑ सका॒रस्य॒ तस्या॑म् अव॒स्थायां॑ विसर्गो॒च्चार॑ण॒म् उप॑पद्यत ए॒व।"
+
+
+
+> I was once told by a Sanskrit scholar that the pronunciation of visarga by Bengali vaidikas used to be similar to that of Nambudiri vaidikas - aniruddhaH smArtaH
