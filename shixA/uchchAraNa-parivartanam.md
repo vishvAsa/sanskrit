@@ -67,57 +67,11 @@ To this day, you find (particularly N Indian) pAThaka-s mispronouncing anusvAra 
 - Hasta-svara-s, keraLa-style mudra-s and vikRti-pATha-s serve similar conservative purpose.
 - "Once personalities like Sakalya and Mandukeya had fixed the texts of their respective recensions, the orally preserved texts were as if quickly frozen with all the changes that had taken place so far, and then texts like PratishAkhyas were composed to describe in detail the features of these “frozen” texts. Staal (1967:17) rightly points out that the PratishAkhyas were “not interested in the Vedic language as such, but in the utterances handed down ” by the oral tradition. However, phenomena like retroflexion had set in (but not completely pervaded) before the process of “text freezing” had begun. The same phenomenon is seen in the application of other sandhi rules in the preserved recensions."
 
-
+### कैरल-शैली
+From the testimony of a chera acquaintance, the new style was a created on sometime around ~12 CE.
 
 ## ह्म →म्ह
-Many traditionalists transpose ह्म् ह्न् ह्ण् into म्ह् म्न् ण्ह् -  
-
-
-They cite -
-
-तैत्तिरीय-प्रातिशाख्ये -
-
-> हकारान् +++(शाखान्तरे लोकप्रसिद्धप्रयोगे वा)+++ नणम-परान् नासिक्यम्॥२१.१४॥ +++(पूर्वं निपात्यते)+++  
-> After h, when followed by n, ṇ, or m, is inserted nāsikya.
-
-If this is not dismissed as a record of later practice, it is to be taken as being a compulsion specific to a particular vedic branch only.  
-Besides, it itself is proof of the ह्म् ह्न् ह्ण् pronunciation commonly accepted by shiShTas outside taittirIya shAkhA at that time.
-
-
-यतो लिखित-पाठः कथम् पठनीय इति वक्तुं न प्रवृत्तम् प्रातिशाख्यम् इति तद्विदः।  
-तेन सम्मतोच्चारणान्तरापेक्षयैवात्र परिवर्तनं विहितं स्यात्। 
-
-
-Some sAmpradAyikas quote a pANinIya-shixA verse in isolation to justify their traditional (ह्म →म्ह) pronunciation - 
-
-> हकारं पञ्चमैर्युक्तम्  
-> अन्तस्थाभिश्च संयुतम् ।  
-> उरस्यं तं विजानीयात्  
-> कण्ठयम् आहुर् असंयुतम् ॥ 
-
-but this makes no such transposition recommendation.  
-On the contrary, a parallel verse in shaunaka shixA indicates that hm hn etc.. were pronounced exactly in that order:
-
-> हकारं पञ्चमैर्युक्तं  
-अन्तःस्थाभिश्च संयुतम् । 
-उरस्यं तं विजानीयात्  
-परं चेत् पृथग् उच्चरेत् ॥
-
-रङ्गनाथशर्मा यथा -
-
-> संयोगश्च हकारस्य एभ्यः पूर्वत्वेन, न तु परत्वेन ।  
-तद् उक्तं शौनकशिक्षायाम् …  
-यथा - "रथान् हयाः वहन्ति । "  
-अत्र नकारात् परो हकारः इति तस्य कण्ठ्यत्वम् एव ।  
-प्रकृते उरस्यं हकारस्य ।  
-इमानि उदाहरणानि - पूर्वाह्नः, मध्याह्नः, ब्रह्मा, ब्राह्मणः इति पञ्चमवर्णात् पूर्वस्य ।  
-…  
-तत्र वायोः अभिघातस्य शिथिलत्वात्  
-अत्यन्त-शैथिल्येन हकारस्य उच्चारणम् उरसि भवस्य इति ब्रूमः ।  
-…  
-एवं च ब्रह्म, ब्राह्मणः, मध्याह्नः इति हकारं कर्णकठोरं पठन्तः पाठयन्तः च परास्ताः वेदितव्याः ।
-
-So, correct tradition, as per shixA texts alone, is that in ह्म , h is lighter/ less emphasized.
+पृष्ठान्तरे [विस्तारः](/sanskrit/shixA/hakArottAnunAsikAH) । 
 
 ## Success
 तत्र तत्र तादृशे स्वरविकारे ऽपि साफल्यं पूर्वेषाम् अनुभवाज् ज्ञेयम्।
