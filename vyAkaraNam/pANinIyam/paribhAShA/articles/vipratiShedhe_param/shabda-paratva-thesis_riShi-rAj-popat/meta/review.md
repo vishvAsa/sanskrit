@@ -3,7 +3,9 @@ title = "Review"
 +++
 
 ## कृतिः
-नात्र प्राचीनैः क्वचिद् आनुषङ्गिकरीत्या ऽङ्गीकृतस्य प्राक्तन-प्रयोग-क्रमाधारित-परत्वस्य +आविष्करणं योगदानम्। अपि तु सूत्र-क्रम-परत्व-निवृत्ति-सहितम् शब्द-क्रमाधारित-परत्वस्य प्रतिष्ठापनम्, सूत्रस्पर्धासु च जटिल-परिभाषा-जालापेक्षा-निवृत्तिः।
+नात्र प्राचीनैः क्वचिद् आनुषङ्गिकरीत्या ऽङ्गीकृतस्य प्राक्तन-प्रयोग-क्रमाधारित-परत्वस्य +आविष्करणं योगदानम्।  
+अपि तु सूत्र-क्रम-परत्व-निवृत्ति-सहितं शब्द-क्रमाधारित-परत्वस्य प्रतिष्ठापनम्,  
+सूत्रस्पर्धासु च जटिल-परिभाषा-जालापेक्षा-निवृत्तिः।
 
 ### गण्यता
 This discovery (if it stands up to scrutiny as it seems to), about how a certain crucial rule is to be interpreted, overturns 2k years of tradition. This type of research would be very unlikely in traditional India - since any such researcher would be stuck within tradition - forced to parrot the same old ancient misunderstandings of scholars (who're turned into "always-correct" sages by tradition).
@@ -29,7 +31,7 @@ This discovery (if it stands up to scrutiny as it seems to), about how a certain
 नूनं जटिलपरिभाषाजालपारङ्गतेभ्य एषा बालक्रीडैव स्यात्। तस्य मूलप्रक्रिया तावती क्लिष्टा नास्ति -
 
 - केवलं स्पर्धमान-सूत्र-प्रयोग-स्थान-विभागो ((DOI, SOI)-विभागो) ज्ञेयः,
-- स्थान-भेद-(DOI)-पक्षे शब्दक्रमपरत्वं विप्रतिशेधसूत्रं व्यापारणीयम्
+- स्थान-भेद-(DOI)-पक्षे शब्दक्रमपरत्वं - विप्रतिशेधसूत्रं व्यापारणीयम्
 - समानस्थान(SOI-)पक्षे सूक्ष्मतातुलनया नियमश् चेयः। तुलनाप्रक्रिया स्वाभाविकी तेनैव दर्शिता।
 
 ## DOI स्थान-भेद-सहित-स्पर्धा
