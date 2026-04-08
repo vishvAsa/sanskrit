@@ -2,7 +2,7 @@
 title: +Fonts
 ---
 
-## Principles
+## Mechanism
 Several things are required for digitally encoded script to properly appear on the screen.
 
 - First, the representation of a text should be something one's font files and rendering engines understand. Currently, Unicode is the well-entrenched standard.
@@ -50,12 +50,16 @@ Other information on Ulrich's site: [here](http://www.sanskritweb.net/itrans/ind
 
 ### Font directories
 
-  - Alan Woods'
-    listing [here](http://www.alanwood.net/unicode/fonts-south-asian.html#devanagari).
-  - devanAgarI.net
-    listing [here](http://www.devanaagarii.net/fonts/).
+- Alan Woods'
+  listing [here](http://www.alanwood.net/unicode/fonts-south-asian.html#devanagari).
+- devanAgarI.net
+  listing [here](http://www.devanaagarii.net/fonts/).
 
 ## Font selection
+Single font which supports multiple codepoints are better for pdf making etc..
+  
+Tiro Devanagari is good.
+
 Can filter [here](https://fonts.google.com/?preview.text=test%20%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE%E0%A4%83%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%82%20%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A5%87%E0%A4%83%20%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A5%8D%E0%A4%B5%E0%A4%BE%20english%20%E0%A4%B9%E1%B3%93%E0%A4%B0%E0%A4%BF%E0%A4%83%20%E0%A4%B9%E0%A5%91%E0%A4%B0%E0%A4%81%E0%A5%92&script=Deva) or [here](https://fonts.google.com/?preview.text=test%20%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE%E0%A4%83%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%82%20%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A5%87%E0%A4%83%20%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A5%8D%E0%A4%B5%E0%A4%BE%20english%20%E0%A4%B9%E1%B3%93%E0%A4%B0%E0%A4%BF%E0%A4%83%20%E0%A4%B9%E0%A5%91%E0%A4%B0%E0%A4%81%E0%A5%92&lang=en_Latn;sa_Deva&script=Deva;Latn).
 
 ## Best practices for webmasters.
