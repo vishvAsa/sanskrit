@@ -50,8 +50,8 @@ If so, this too is unnecessary. This, too, he will learn through experience.
 
 ## काशिका
 > उच्चैर् उपलभ्यमानो योऽच्  
-> स उदात्तसंज्ञो भवति।  
-> उच्चैरिति च श्रुतिप्रकर्षो न गृह्यते।  
+> स उदात्त-संज्ञो भवति।  
+> उच्चैर् इति च श्रुतिप्रकर्षो न गृह्यते।  
 > उच्चैर्भाषते। उच्चैः पठतीति। 
 > 
 > किं तर्हि? स्थानकृतम् उच्चैस्त्वं संज्ञिनो विशेषणम्।  
@@ -65,9 +65,10 @@ If so, this too is unnecessary. This, too, he will learn through experience.
 > The vowel which is perceived as having a high tone is called udatta. This tone depends upon the organ from which the vowel is pronounced. In the various organs, such as the throat, palate, &c., if a vowel is pronounced from a higher part of that organ, it is called udatta. The vowel in the pronouncing of which there is the restraining and checking of the bodily parts, and in which there is dryness and roughness of tone as well as a contraction of the larynx, is said to have the acute accent.
 
 ## सिद्धान्तकौमद्य्-आदि
->  नादधर्मविशेष उच्चैस्त्वं नेह विवक्षितम्,  
+> नाद-धर्म-विशेष उच्चैस्त्वं नेह विवक्षितम्,  
 > उपांशूच्चार्यमाणे अव्याप्तेः ।  
-> किन्तूच्चैश्शब्दो ऽधिकरणशक्ति प्रधान ऊध्र्वभागे इत्यर्थे वर्तते ।
-> ऊर्ध्वायववस्य चावयव्य्-अपेक्षायां तालु-कण्ठादिवर्णाभिव्यक्ति-स्थानानाम् इत्य् अर्थाल् लभ्यते ।  
-> - बालमनोरमा
+> किन्तूच्चैश्-शब्दो ऽधिकरण-शक्ति-प्रधान ऊर्ध्व-र्भागे इत्य् अर्थे वर्तते ।  
+> ऊर्ध्वावयवस्य चावयव्य्-अपेक्षायां  
+> तालु-कण्ठादि-वर्णाभिव्यक्ति-स्थानानाम् इत्य् अर्थाल् लभ्यते ।  
+> \- बालमनोरमा
 
