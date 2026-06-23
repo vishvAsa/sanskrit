@@ -3,11 +3,11 @@ title = "स्वनिर्णयः"
 
 +++
 
-- वर्तमान-परम्परा उच्चरण-विषये प्रायेण स्खलिताश् चेदपि,  
+वर्तमान-परम्परा उच्चरण-विषये प्रायेण स्खलिताश् चेदपि,  
   तदनुसरणे रक्षणे वा जनानाम् अधिकारम् अभ्युपगच्छामि।
-- अष्टाध्याय्याश् च "पाणिनिय"शिक्षाग्रन्थस्य च मध्ये विवादे सति,  
-  अष्टाध्यायीम् एव प्रमाणं मन्ये – न पश्चाल् लिखितं शिक्षाग्रन्थम्।
-- अत्रौद्धत्यं चेद् दृश्यते, क्षन्तव्योऽहम् – अत्र भवादृशैः परीक्षा, खण्डनमण्डने, परिष्कारश् चैवेष्यन्ते ।
+अष्टाध्याय्याश् च "पाणिनिय"शिक्षाग्रन्थस्य च मध्ये विवादे सति,  
+अष्टाध्यायीम् एव प्रमाणं मन्ये – न पश्चाल् लिखितं शिक्षाग्रन्थम्।
+अत्रौद्धत्यं चेद् दृश्यते, क्षन्तव्योऽहम् – अत्र भवादृशैः परीक्षा, खण्डनमण्डने, परिष्कारश् चैवेष्यन्ते ।
 
 ## प्राचीन-व्यवस्थापक्षे
 Basic appeal of the ancient system
@@ -20,6 +20,12 @@ Basic appeal of the ancient system
 - One must not forget where the authority of other shikSha-s come from. It’s not that they sound more pleasant and beautiful. Rather, it is either that:
   - they (spuriously) claim to be what some ancient sage (pANini for example) agrees with;
   - or that they dominate today.
+
+### Demonstrations
+Examples of this accent system - [here](/sanskrit/registers/early-vedic). 
+
+Like sannatara, svarita here seems more theoretical than tangible (emphasis being on the udAtta). Still, svaritas should be more apparent in case of dIrgha-s (eg. विश्व᳓देवा https://youtu.be/EOJfp1GRM4k?t=151 ) and svatantra-svarita-s.  
+The laxaNa-granthas would naturally theorize udAtta-borders beyond what's readily apparent.
 
 ## अर्वाचीनव्यवस्थापक्षे
 Appeal of the non-pANinIya system

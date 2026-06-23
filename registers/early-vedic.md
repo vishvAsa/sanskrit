@@ -16,6 +16,10 @@ Major deviations (details elsewhere):-
 > kart/कर्त meaning hole/cavity in vedic texts seize to exist later, which was already early form of gart/गर्त with same meaning .
 
 ## Demonstrations  
-- उज्ज्वल-निर्मितिः᳓, ऋग्वेदभाषा᳓याम् - [YT Flight instructions](https://youtu.be/r5vsSEz1r48) । [RV](https://www.youtube.com/watch?v=_ZfWu58jQog) ।
+- उज्ज्वल-निर्मितिः᳓, ऋग्वेदभाषा᳓याम् - [YT Flight instructions](https://youtu.be/r5vsSEz1r48) ।  
+  [RV](https://www.youtube.com/watch?v=_ZfWu58jQog) ।
+- पर्जन्य-निर्मितिः - [YT](https://www.youtube.com/@perquunos), [RV](https://www.youtube.com/watch?v=EOJfp1GRM4k)
+
+svara notes [here](/sanskrit/shixA/svaraH/svaritaH/uchchAraNam/svanirNayaH).
 
 
