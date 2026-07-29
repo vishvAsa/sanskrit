@@ -14,7 +14,7 @@ unicode_script: devanagari
   - यम-रम-आतां सक्+इत्+सिच्
 - शल+++(=शषसह-अन्तात्)+++ इगुपधाद् अनिटः क्सः । श्लिष आलिङ्गने । न दृशः ।
   - अ+ कृष् + सत् → अकृक्षत्
-- णिश्रिद्रुस्रुभ्यः+++(५)+++ कर्तरि चङ् ।
+- णिश्रिद्रुस्रुभ्यः+++(५)+++ कर्तरि चङ् । णिज्-अन्तेभ्योऽपि।
 - अस्यतिवक्तिख्यातिभ्यः अङ् । लिपिसिचिह्वश्च । पुषादिद्युताद्यॢदितः परस्मैपदेषु । सर्त्तिशास्त्यर्तिभ्यश्च ।
   - आत्मनेपदेष्वन्यतरस्याम् । +++(अलिपत / अलिप्त (सिच्))+++
   - इरितो+++(१४ धातवः)+++ वा । जॄ-स्तन्भु-म्रुचु-म्लुचु-ग्रुचु-ग्लुचु-ग्लुञ्चु-श्विभ्यश्च । कृमृदृरुहिभ्यश्छन्दसि ।
@@ -30,7 +30,19 @@ unicode_script: devanagari
 ### इडागमः
 - [आनुकूल्यविचारोऽत्र](../../angAni/iDAgama-nishcayaH/)।
 
-<div class="js_include" url="../../angAni/ArdhadhAtuka-kAryANi/"  newLevelForH1="1" includeTitle="true"> </div>
+<div class="js_include" url="../../angAni/ArdhadhAtuka-kAryANi/"  newLevelForH1="1" includeTitle="true"> 
+## लोपक्रिया
+अतो लोपः । यस्य हलः। णेर् अनिटि। निष्ठायां सेटि ।
+
+- [अत्र](https://docs.google.com/spreadsheets/d/1DVFj51q9dd34v_-78pAZ3zyNsaUrMO6NPm2JzGeQFDw/edit#gid=37) विस्तारः।
+
+## धात्वादेशाः
+- [अत्र](https://docs.google.com/spreadsheets/d/1DVFj51q9dd34v_-78pAZ3zyNsaUrMO6NPm2JzGeQFDw/edit#gid=37) विस्तारः।
+
+### आद् एच् अशिति 
+विस्तारो [ऽत्र](https://docs.google.com/spreadsheets/d/1DVFj51q9dd34v_-78pAZ3zyNsaUrMO6NPm2JzGeQFDw/edit#gid=39)।
+  
+</div>
 
 ## सिचि
 ### अन्तिमप्रत्ययाः
@@ -56,10 +68,11 @@ unicode_script: devanagari
 ## चङ्
 ### अङ्गकार्यम्
 ङित्-साधारणम्
+
 णौ चङि अङ्गकार्यम् - णिचः प्रयोगः, उपधा-ह्रस्वः।
 
 ### अभ्यासः
-अनग्लोपिषु लघ्वादिषु सन्वत्
+अन्-अग्-लोपिषु लघ्वादिषु सन्वत्
 लघु-अभ्यासस्य दीर्घः
 
 ## चिण्
