@@ -5,10 +5,8 @@ title = "Translation"
 
 THE NIRUKTA
 
-## 
-### 
 
-CHAPTER I
+## I
 
 A TRADITIONAL list (of words) has been handed down (to us). It is to be (here) explained. This same list is called Ni-ghantavas.1 
 
@@ -406,7 +404,7 @@ like a fierce animal, roaming everywhere, haunting the mountains.4 As a fierce a
 
 CHAPTEB II
 
-Now (we shall deal with) etymology. With reference to this, the words,the accent and the grammatical form of which are regular and are accom panied by an explanatory radical modification, should be derived in theordinary manner. i3ut the meaning being irrelevant, and the explanatoryradical modification being non-existent, one should always examine themwith regard to their meaning, by the analogy of some (common) course ofaction. If there be no (such) analogy, one should explain them even bythe community of a (single) syijable or letter ; l but one should never (giveup the attempt at) derivation. One should not attach (too much) importanceto the grammatical form, for tllese complex formations (w'ttayah) are (often) subject to exceptions. One should interpret inflected cases according tothe meaning. In prattam (= pra-dattam, 'given away') and avattam{ = ava-dattam from ava */do,' divided ') only the initial parts of the rootsurvive. Further, there is aphaeresis of the initial part of the verb Us(to be) in weak forms, as stah ('they two are'), santi ('they all are'), &c.Further, there is elision of the final part, as in gatvd (from Vgam,' havinggone '), yatam (Vyam, 'gone'), &c. Further, there is elision of the pen ultimate, as in jagmatuh (red. form of gam,' they two went '), and jagmuh(red. form of gam,' they all went *). 2 Moreover, there is the modification ofthe penultimate, as in raja (rdjan,' king '), dandl (dandin, a* staff-bearer '), &c. Further, there is elision of a letter, as in tatvd ydmi (= tatvdydcami), &c.
+Now (we shall deal with) etymology. With reference to this, the words,the accent and the grammatical form of which are regular and are accompanied by an explanatory radical modification, should be derived in theordinary manner. But the meaning being irrelevant, and the explanatory radical modification being non-existent, one should always examine themwith regard to their meaning, by the analogy of some (common) course ofaction. If there be no (such) analogy, one should explain them even bythe community of a (single) syijable or letter ; l but one should never (giveup the attempt at) derivation. One should not attach (too much) importanceto the grammatical form, for tllese complex formations (w'ttayah) are (often) subject to exceptions. One should interpret inflected cases according tothe meaning. In prattam (= pra-dattam, 'given away') and avattam{ = ava-dattam from ava */do,' divided ') only the initial parts of the rootsurvive. Further, there is aphaeresis of the initial part of the verb Us(to be) in weak forms, as stah ('they two are'), santi ('they all are'), &c.Further, there is elision of the final part, as in gatvd (from Vgam,' havinggone '), yatam (Vyam, 'gone'), &c. Further, there is elision of the pen ultimate, as in jagmatuh (red. form of gam,' they two went '), and jagmuh(red. form of gam,' they all went *). 2 Moreover, there is the modification ofthe penultimate, as in raja (rdjan,' king '), dandl (dandin, a* staff-bearer '), &c. Further, there is elision of a letter, as in tatvd ydmi (= tatvdydcami), &c.
 
 Moreover, there is elision of two letters, as in trca ( = tri + rca,' threestanzas '). Further, there is alteration in the initial part (of the root), as injyotih ( Vdynl,' light '), ghanah ( </han,l killer '), binduh ( i/bhid,' a drop '),
 
@@ -563,7 +561,7 @@ He, who made it, did not know of it ; it was hidden from him who saw it. Encompa
 
 region encompassed by air. This other (meaning, i. e.) a woman's womb, is derived from the same root also : it is surrounded.1 Multiplying greatly,fie reaches earth through the phenomenon of rain.2
 
-Sakapuni3 made the determination that he would know all the deities. A deity having the two characteristics 4 appeared before him. He did notknow her; he said to her,' I would like to know thee '. She referred hinto the following stanza, with the words that it was addressed to her. (Here ends the eighth section.)
+SakapunB made the determination that he would know all the deities. A deity having the two characteristics 4 appeared before him. He did notknow her; he said to her,' I would like to know thee '. She referred hinto the following stanza, with the words that it was addressed to her. (Here ends the eighth section.)
 ### 
 
 Here he snorts, covered by whom the speech, resting on a spluttering(cloud), utters a lowing sound. She indeed frightened the mortal with her(thltfedering) actions ; becoming lightning, she concealed her form.5 HeIB he thunders, surrounded by whom the speech utters a lowing sound,i.e. makes a noise, or (utters a lowing sound) like niayu, i.e. the sun.c Thisis the almosphefic speech. Resting on a spluttering7 cloud, she frightens themortal with her (thundiww^g) actions,8 deeds, and, becoming lightning, con ceals her form.9 The word vavrih is a synonym of form : because it covers(Vvr, to cover). Having overspread the earth with rain, it draws it back
@@ -1363,7 +1361,7 @@ i. e. The Mamts. Durga.10 Cf. Roth, op. cit., p. 87.
 ## 
 ### 
 
-CHAPTER IV
+## IV
 
 HOMONYMS
 
@@ -1896,7 +1894,7 @@ There is the Brahmana passage : Verily, there are seven hundred andtwenty days a
 ## 
 ### 
 
-CHAPTER V
+## V
 
 HE found the cloud in the course of the rivers.8
 
@@ -2585,7 +2583,7 @@ From the nearest place of the hook, let him come to the ripe herbs, let him come
 ## 
 ### 
 
-CHAPTER VI
+## VI
 
 O AGNI, O Sovereign lord of men, burning quickly with thy flames, thou art born, glowing with bright (days), from the waters, from withinthe flintstone, from the forest-trees, and from the herbs.7 O Agni, burning quickly with thy flames, thou (art born) with brightdays. The words dm and su are two synonyms of quick. Ksani, the latter part (of db-u-vu-ksani), is derived from (the root) ksan (to injure) : it quickly injures, or procures (sanoti) with its flames.8 8uk is derivedfrom (the root) sue (to shine). Or the nominative has been used for theablative ; this is shown by the context. The former part (of d-sumksani),
 
@@ -3410,7 +3408,7 @@ GOMI (group) and guna (quality) are (so called because) they count. All the herb
 ## 
 ### 
 
-CHAPTER VII
+## VII
 
 Now, therefore, (we shall explain) the section (of the Nighantu)relating to deities. The section, which enumerates appellations ofdeities, to whom panegyrics are primarily addressed, is called daivatam,i. e. relating to deities. The following is the detailed examination of thesame. A particular stanza is said to belong to a deity, to whom a seeraddresses his panegyrics1 with a particular desire, and from whom hewishes to obtain his object.2 The stanzas, to which reference has just beenmade,8 are of three kinds : (1) indirectly addressed, (2) directly addressed,(3) and self-invocations. Of these, the indirectly addressed stanzas arecomposed (lit. joined) in all the cases of nouns but the verb of the third
 
@@ -4168,7 +4166,7 @@ those (mentioned above) are therefore addressed to Tanunapat, to Taml napat.11
 ## 
 ### 
 
-CHAPTER IX
+## IX
 
 Now therefore we shall take up in order the terrestrial beings to which panegyrics are addressed. Of these, the horse is the foremost. Awa(horse) has been explained.1 The following stanza is addressed to him. (Here ends the first section.)
 ### 
@@ -5146,7 +5144,7 @@ On his being born, the goers (giidh) sat together and the rivers flowingby thems
 ## 
 ### 
 
-CHAPTER XI
+## XI
 
 Syemi (falcon) has been explained.3 The following stanza is addressedto him.
 
@@ -5634,7 +5632,7 @@ We invoke indeed the glorious chariot of the Maruts, wherein has stood Rodasi, b
 ## 
 ### 
 
-CHAPTER XII
+## XII
 
 Now, therefore, (we shall deal with) the celestial deities. Of these, the A6vins come first. The- AsVins 3 are (so called) because they two pervade (Vas) everything, one with moisture, the other with light.' They are called A4vins on account of their having horses (asva),' says Aurnavabha.4 Whothen are the AsVins ? According to some they are heaven and earth ; 5 day and night, according to others, Some take them to be the sun and the moon, (while) the historians regard them as two virtuous kings. Their time is after midnight, which, in consequence, is an impediment to the appearance of light. The part in the dark is the atmosphere, and the part in the light is the sun. The following stanza is addressed to them. (Here ends the first section.)
 ### 
