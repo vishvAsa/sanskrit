@@ -402,7 +402,7 @@ like a fierce animal, roaming everywhere, haunting the mountains.4 As a fierce a
 ## 
 ### 
 
-CHAPTEB II
+CHAPTER II
 
 Now (we shall deal with) etymology. With reference to this, the words,the accent and the grammatical form of which are regular and are accompanied by an explanatory radical modification, should be derived in theordinary manner. But the meaning being irrelevant, and the explanatory radical modification being non-existent, one should always examine themwith regard to their meaning, by the analogy of some (common) course ofaction. If there be no (such) analogy, one should explain them even bythe community of a (single) syijable or letter ; l but one should never (giveup the attempt at) derivation. One should not attach (too much) importanceto the grammatical form, for tllese complex formations (w'ttayah) are (often) subject to exceptions. One should interpret inflected cases according tothe meaning. In prattam (= pra-dattam, 'given away') and avattam{ = ava-dattam from ava */do,' divided ') only the initial parts of the rootsurvive. Further, there is aphaeresis of the initial part of the verb Us(to be) in weak forms, as stah ('they two are'), santi ('they all are'), &c.Further, there is elision of the final part, as in gatvd (from Vgam,' havinggone '), yatam (Vyam, 'gone'), &c. Further, there is elision of the pen ultimate, as in jagmatuh (red. form of gam,' they two went '), and jagmuh(red. form of gam,' they all went *). 2 Moreover, there is the modification ofthe penultimate, as in raja (rdjan,' king '), dandl (dandin, a* staff-bearer '), &c. Further, there is elision of a letter, as in tatvd ydmi (= tatvdydcami), &c.
 

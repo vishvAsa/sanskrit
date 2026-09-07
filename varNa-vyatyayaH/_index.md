@@ -60,6 +60,11 @@ unicode_script = "devanagari"
 केचन विकल्पाः सर्वत्रैव प्रायेणानुसृतः -  
 यद्यपि शाखान्तरे भाषायां च क्वचिद् एव विकल्पेन वर्तन्ते।
 
+> There are some subtle differences between the way mahArAShTrI and lATa taittirIyaka-s recite the shruti versus those to their south (barring the nambUtiri-s who seem polymorphic):  
+for example, Mh: tat savituH; drAviDa-s: tath savituH  
+Mh: ayakShma; drAviDa-s: ayakhShma  
+Mh: apsaras; drAviDa-s: aphsaras
+
 #### ङ्णोः कुक्टुक् शरि
 प्रत्यङ् सोमो => प्रत्यङ्+क्+सोमो  
 प्रत्यङ् षडहो => प्रत्यङ् +क् +षडहो
