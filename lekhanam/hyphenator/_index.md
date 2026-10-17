@@ -14,7 +14,7 @@ summary: "संस्कृत-पदानां समास-पद-भेद
 
 ### दोषा मार्जनीयाः
 **सावधानम्**! यन्त्रम् इदं दोषान् करोत्य् एव।  
-अल्पतरदोषदुष्टं फलं तु LLM-AI उपयुज्य लभताम् - Source: [TW](https://sanskrit.github.io/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/Sanskrit_devanAgarI_markdown)।  
+अल्पतर-दोष-दुष्टं फलं तु LLM-AI उपयुज्य लभताम् - Source: [TW](https://sanskrit.github.io/groups/dyuganga/projects/text/proofreading/editing/AI-prompt/Sanskrit_devanAgarI_markdown)।  
 
 ## परिचयः
 
@@ -24,5 +24,7 @@ summary: "संस्कृत-पदानां समास-पद-भेद
 
 ## यन्त्रांशाः
 
-- कोड्: [app.js](app.js) · [hyphenator.py](hyphenator.py) · [marisa_trie.py](marisa_trie.py) · [toml.py](toml.py) · [browser_bootstrap.py](browser_bootstrap.py) · [indic_transliteration.zip](indic_transliteration.zip)
+- तन्त्रादेशाः (कोड्):  
+  - मूलम् - [TW](https://github.com/sanskrit-coders/doc_curation/blob/master/doc_curation/sanskrit/hyphenator.py)
+  - इह [app.js](app.js) · [hyphenator.py](hyphenator.py) · [marisa_trie.py](marisa_trie.py) · [toml.py](toml.py) · [browser_bootstrap.py](browser_bootstrap.py) · [indic_transliteration.zip](indic_transliteration.zip)
 - शब्द-सञ्चयः (gzip; जालपुटे DecompressionStream-द्वारा विवृत्य पठ्यते): [sanskrit-words.bin.gz](sanskrit-words.bin.gz) · [dcs-frequency.bin.gz](dcs-frequency.bin.gz) · [ramAnujIya.bin.gz](ramAnujIya.bin.gz) · [ramAnujIya-splits.bin.gz](ramAnujIya-splits.bin.gz) · [ramAnujIya-ngram.bin.gz](ramAnujIya-ngram.bin.gz) · [ramAnujIya-surfaces.bin.gz](ramAnujIya-surfaces.bin.gz)
