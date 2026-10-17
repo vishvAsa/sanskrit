@@ -4,6 +4,10 @@
  * the module, its marisa-trie shim and the exported trie data are page
  * resources next to this script; indic_transliteration is vendored as a zip
  * that is extracted into the Pyodide filesystem on first load.
+ *
+ * The theme re-renders/clones the article content after this script starts,
+ * so element references are resolved lazily and clicks are handled by
+ * delegation - never bind or cache DOM nodes here.
  */
 (function () {
   "use strict";
@@ -27,14 +31,20 @@
     "ramAnujIya-surfaces.bin.gz",
   ];
 
-  var statusEl = document.getElementById("hyph-status");
-  var runBtn = document.getElementById("hyph-run");
-  var inputEl = document.getElementById("hyph-in");
-  var outEl = document.getElementById("hyph-out");
-  var copyBtn = document.getElementById("hyph-copy");
+  function el(id) {
+    return document.getElementById(id);
+  }
 
   function setStatus(msg) {
-    if (statusEl) statusEl.textContent = msg;
+    var s = el("hyph-status");
+    if (s) s.textContent = msg;
+  }
+
+  function setButtonsDisabled(disabled) {
+    var b = el("hyph-run");
+    if (b) b.disabled = disabled;
+    b = el("hyph-copy");
+    if (b) b.disabled = disabled;
   }
 
   function loadScript(src) {
@@ -60,10 +70,10 @@
   }
 
   var hyphenate = null;
+  var busy = false;
 
   async function init() {
-    if (runBtn) runBtn.disabled = true;
-    copyBtn.disabled = true;
+    setButtonsDisabled(true);
     setStatus("Pyodide लोड भवति (≈10 MB)...");
     await loadScript(PYODIDE_BASE + "pyodide.js");
     var pyodide = await loadPyodide({ indexURL: PYODIDE_BASE });
@@ -72,10 +82,9 @@
     pyodide.FS.mkdirTree("/app/data");
 
     for (var i = 0; i < FILES.length; i++) {
-      var name = FILES[i][0], dest = FILES[i][1];
-      setStatus("यन्त्रांश-सञ्चयः: " + name);
-      var bytes = await fetchBytes(BASE + name);
-      pyodide.FS.writeFile(dest, bytes);
+      setStatus("यन्त्रांश-सञ्चयः: " + FILES[i][0]);
+      var bytes = await fetchBytes(BASE + FILES[i][0]);
+      pyodide.FS.writeFile(FILES[i][1], bytes);
     }
     for (var j = 0; j < DATA.length; j++) {
       setStatus("शब्द-कोशः: " + DATA[j] + " (" + (j + 1) + "/" + DATA.length + ")");
@@ -94,17 +103,20 @@
       "globals()['hyphenate'] = browser_bootstrap.hyphenate\n");
     hyphenate = pyodide.globals.get("hyphenate");
     setStatus("");
-    if (runBtn) runBtn.disabled = false;
-    copyBtn.disabled = false;
+    setButtonsDisabled(false);
   }
 
   function run() {
-    if (!hyphenate) return;
+    if (!hyphenate || busy) return;
+    var inputEl = el("hyph-in");
+    var outEl = el("hyph-out");
+    if (!inputEl || !outEl) return;
     var text = inputEl.value;
     if (!text.trim()) {
       outEl.textContent = "";
       return;
     }
+    busy = true;
     setStatus("पद-भेदः क्रियते...");
     window.setTimeout(function () {
       try {
@@ -114,11 +126,13 @@
         setStatus("दोषः: " + err);
         console.error(err);
       }
+      busy = false;
     }, 0);
   }
 
-  if (runBtn) runBtn.addEventListener("click", run);
-  if (copyBtn) copyBtn.addEventListener("click", async function () {
+  async function copyOut() {
+    var outEl = el("hyph-out");
+    if (!outEl) return;
     try {
       await navigator.clipboard.writeText(outEl.textContent);
       setStatus("Copy ok");
@@ -131,6 +145,13 @@
       setStatus("Select + Ctrl+C");
     }
     window.setTimeout(function () { setStatus(""); }, 2000);
+  }
+
+  document.addEventListener("click", function (ev) {
+    var t = ev.target;
+    if (!t || !t.id) return;
+    if (t.id === "hyph-run") run();
+    else if (t.id === "hyph-copy") copyOut();
   });
 
   init().catch(function (err) {
