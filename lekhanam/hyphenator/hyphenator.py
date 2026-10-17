@@ -584,7 +584,7 @@ def _build_ra_ngram_trie(split_votes, plain_counts):
   return trie
 
 
-def _build_ra_surfaces_trie(counts, plain_counts, smap):
+def _build_ra_surfaces_trie(counts, plain_counts, split_votes, smap):
   """Corpus surface tokens (hyphen pieces + unhyphenated tokens) -> trie.
 
   The prastuti convention's own vocabulary of *surfaces*: this is what may
@@ -592,11 +592,23 @@ def _build_ra_surfaces_trie(counts, plain_counts, smap):
   ``शब्दैर्``).  Dictionary root entries (``सर्व्``), exotic headwords
   (``अपास्``) and stem inferences (``तसम्``) that never surface in the
   corpus as such are vetoed instead.
+
+  A piece that the corpus itself uses as the left member of a join with an
+  inflected (e/o) final - ``गणे-श्वरम्``, ``पङ्के-रुह`` - is marked with
+  bit 0x8000: those, and only those, may take a samAsa cut after an e/o
+  final (``लोके-ष्विदं`` style case-form joins are vetoed).
   """
   merged = {}
   for table in (counts, plain_counts):
     for dev, n in table.items():
       merged[dev] = merged.get(dev, 0) + n
+  joined_lefts = set()
+  for forms in split_votes.values():
+    for form in forms:
+      parts = form.split("-")
+      for pc in parts[:-1]:
+        if pc.endswith(("\u0947", "\u094b")):
+          joined_lefts.add(pc)
   entries = []
   for dev, n in merged.items():
     try:
@@ -604,7 +616,8 @@ def _build_ra_surfaces_trie(counts, plain_counts, smap):
     except Exception:
       continue
     if hk:
-      entries.append((hk, (min(n, 0xFFFF),)))
+      val = min(n, 0x7FFF) | (0x8000 if dev in joined_lefts else 0)
+      entries.append((hk, (val,)))
   trie = marisa_trie.RecordTrie("H", entries)
   os.makedirs(_DATA_DIR, exist_ok=True)
   tmp = _RA_SURFACES_TRIE_PATH + ".tmp"
@@ -699,7 +712,7 @@ def _invalidate_trie_caches():
             _CACHE_STEM_BASE_PIECE, _CACHE_YAN_LEFT, _CACHE_TOKEN,
             _CACHE_VIS_RESTORE, _CACHE_YAN_RESTORE, _CACHE_WITNESS,
             _CACHE_RA_FORM, _CACHE_MEMO_PIECE, _CACHE_MEMO_SEPS,
-            _CACHE_SURFACE):
+            _CACHE_SURFACE, _CACHE_ELEFT, _CACHE_DICT):
     c.clear()
 
 
@@ -734,7 +747,7 @@ def rebuild_ra_trie():
   _TRIE_RA_FORMS = _build_ra_forms_trie(split_votes, plain_counts)
   _TRIE_RA_NGRAM = _build_ra_ngram_trie(split_votes, plain_counts)
   _TRIE_RA_SURFACES = _build_ra_surfaces_trie(counts, plain_counts,
-                                              _get_scheme_map())
+                                              split_votes, _get_scheme_map())
   _LAYERED = None
   _invalidate_trie_caches()
   return _TRIE_RA
@@ -788,8 +801,9 @@ def _load_words():
     rt_surfaces = marisa_trie.RecordTrie("H")
     rt_surfaces.load(_RA_SURFACES_TRIE_PATH)
   else:
-    counts, _, plain_counts = _extract_ra_corpus()
-    rt_surfaces = _build_ra_surfaces_trie(counts, plain_counts, smap)
+    counts, split_votes, plain_counts = _extract_ra_corpus()
+    rt_surfaces = _build_ra_surfaces_trie(counts, plain_counts, split_votes,
+                                          smap)
   _TRIE = _WordTrie(rt_words)
   _TRIE_DCS = _WordTrie(rt_dcs)
   _TRIE_RA = _WordTrie(rt_ra)
@@ -843,6 +857,52 @@ def _surface_attested(hk_piece):
     hit = hk_piece in trie
     _CACHE_SURFACE[hk_piece] = hit
   return hit
+
+
+def _joined_left_attested(hk_piece):
+  """The corpus itself joins this inflected (e/o-final) piece to a following
+  member (``गणे-श्वरम्``, ``पङ्के-रुह``, ``मनो-बुद्धि``) - bit 0x8000."""
+  _load_words()
+  trie = _TRIE_RA_SURFACES
+  if trie is None:
+    return True
+  hit = _CACHE_ELEFT.get(hk_piece)
+  if hit is None:
+    rec = trie.get(hk_piece)
+    hit = bool(rec) and bool(rec[0][0] & 0x8000)
+    _CACHE_ELEFT[hk_piece] = hit
+  return hit
+
+
+def _dict_attested(dev_word):
+  """rAmAnujIya corpus or DCS dictionary contains this Devanagari word."""
+  hit = _CACHE_DICT.get(dev_word)
+  if hit is None:
+    _load_words()
+    try:
+      hk_word = sanscript.transliterate(dev_word, sanscript.DEVANAGARI,
+                                        sanscript.HK)
+    except Exception:
+      hk_word = None
+    hit = bool(hk_word) and (
+        hk_word in _TRIE_RA or (_TRIE_DCS is not None and hk_word in _TRIE_DCS))
+    _CACHE_DICT[dev_word] = hit
+  return hit
+
+
+def _junction_dict_ok(left, right):
+  """A new boundary must sit against real words: the left fragment must end
+  with a rAmAnujIya/DCS word (अनेकार्थ in शब्दस्यानेकार्थ) or the right one
+  must begin with one (शब्द in शब्दस्यानेकार्थ..., मध्ये itself)."""
+  n = min(len(left), 20)
+  for L in range(n, 3, -1):
+    if _dict_attested(left[-L:]):
+      return True
+  n = min(len(right), 20)
+  for L in range(n, 3, -1):
+    if _dict_attested(right[:L]):
+      return True
+  return False
 
 
 def _prefix_in_dict(s):
@@ -1023,6 +1083,8 @@ _CACHE_RA_FORM = {}
 _CACHE_MEMO_PIECE = {}
 _CACHE_MEMO_SEPS = {}
 _CACHE_SURFACE = {}
+_CACHE_ELEFT = {}
+_CACHE_DICT = {}
 
 
 def _memo_form_seps(form):
@@ -1086,11 +1148,13 @@ def _core_valid(hk_piece, piece_mode=False):
   """Core validation (no upasarga strip, no length guard)."""
   words = _load_words()
   if hk_piece in words:
-    if (piece_mode and len(hk_piece) <= 4 and hk_piece[-1] in ("M", "m")
-        and hk_piece not in _PRONOUNS and hk_piece not in _AVYAYAS
-        and hk_piece not in _UPASARGAS):
-      # inflected shards like naM/vaM are not usable as split pieces
-      return (None, hk_piece)
+    if piece_mode and len(hk_piece) <= 4 and hk_piece[-1] in ("M", "m"):
+      # inflected shards like naM/vaM are not usable as split pieces - but
+      # the anusvAra spelling of listed pronouns/avyayas (idaM = idam) is.
+      base = hk_piece[:-1] + "m" if hk_piece.endswith("M") else hk_piece
+      if (base not in _PRONOUNS and base not in _AVYAYAS
+          and base not in _UPASARGAS):
+        return (None, hk_piece)
     return ("exact", hk_piece)
   if hk_piece.startswith("'"):
     rest = hk_piece[1:]
@@ -1598,6 +1662,7 @@ def _merger_chain_uncached(hk):
   n = len(hk)
   if n < 4:
     return False
+  words = _load_words()
   seen = set()
   stack = [(0, "", 0, 0, 0, 0)]
   while stack:
@@ -1635,7 +1700,11 @@ def _merger_chain_uncached(hk):
             stack.append((r + mlen, rv2, 0, wild, junc + 1, apo2))
           elif (q > 0 and wild == 0 and junc + 1 <= 3 and 2 <= r - q <= 8
                 and not any(c in "AIUeo" for c in hk[q:r])
-                and "ai" not in hk[q:r] and "au" not in hk[q:r]):
+                and "ai" not in hk[q:r] and "au" not in hk[q:r]
+                and base in words):
+            # the one tolerated unattested middle word must still be a
+            # dictionary surface somewhere (chanda|o|uviSayatv|A|annA is
+            # no merger chain: uviSayatv is nothing at all)
             stack.append((r + mlen, rv2, 1, 1, junc + 1, apo2))
   return False
 
@@ -1839,6 +1908,7 @@ def _segment(hk, strict):
       # boundary kind computed on char strings:
       if i > 0:
         lhk = hk[:coff[i]]
+        lpiece = info[i][0]
         rhk = piece
         bkind = _boundary_kind(lhk, rhk)
         lkind = info[i][2] if info[i] else None
@@ -1862,15 +1932,35 @@ def _segment(hk, strict):
             continue
           if kind not in ("exact", "stem", "merger", "visarga", "yan", "memo"):
             continue
+          # A vibhakti-final form (लोके) is no samAsa member: an e/o-final
+          # left piece only compounds where the corpus itself joins it
+          # (गणे-श्वरम्, पङ्के-रुह) or as the -as compounding stem
+          # (mano-, tejo-, svato- = manaH, tejaH, svataH).
+          if lpiece[-1] in ("e", "o"):
+            if not _joined_left_attested(lpiece):
+              if not (lpiece[-1] == "o"
+                      and (lpiece[:-1] + "aH") in _load_words()):
+                continue
+          # Visarga-r ambiguity: a vowel-final left + r-initial right must
+          # not steal the H-placeholder r from the "…ir eva" reading
+          # (ज्योति-रेव is wrong; ज्योतिर् एव is the convention) - unless the
+          # r-initial piece is itself a corpus surface (मिथ्या-रूपम्).
+          if (piece.startswith("r") and piece[1:2] in _VOWELS
+              and _has_visarga_restore(lpiece + "r")
+              and _valid_piece_kind(piece[1:], piece_mode=True)[0] is not None
+              and not _surface_attested(piece)):
+            continue
         elif bkind == "m-vowel":
           pass
         elif bkind in ("visarga", "visarga-o"):
           if kind == "merger":
             # merged units (asyaiva) never begin at a visarga joint
             continue
-          if lkind not in ("visarga", "visarga-o", "memo") and not _has_visarga_restore(lhk):
+          # the sandhi witness is the left *piece* (jyotir -> jyotiH), never
+          # the accumulated prefix (AdityAdijyotir is no word)
+          if lkind not in ("visarga", "visarga-o", "memo") and not _has_visarga_restore(lpiece):
             continue
-          if strict and lkind == "exact" and not lhk.endswith("s"):
+          if strict and lkind == "exact" and not lpiece.endswith("s"):
             continue
           if strict and lkind in ("visarga", "visarga-o"):
             # weak H-restores (duSprakRter->duSprakRtiH) are still fine when
@@ -1880,8 +1970,10 @@ def _segment(hk, strict):
               base = _stem_base_piece(lu)
               if not base or _count_of(base) < _STEM_BASE_MIN:
                 continue
-          # H -> r only before vowels; s/z/S before vowels is not a sandhi.
-          if rhk[:1] in _VOWELS and not lhk.endswith("r"):
+          # H -> r only before vowels; s/z/S before a vowel (including ऋ,
+          # which is why pUrvakas|RSTy misreads सृष्ट्यादि) is not a sandhi.
+          if ((rhk[:1] in _VOWELS or rhk[:1] == "R")
+              and not lpiece.endswith("r")):
             continue
         elif bkind == "yan":
           if lkind not in ("yan", "memo") and not _has_yan_restore(lhk):
@@ -2041,12 +2133,16 @@ def _ngram_votes_hyphen(wleft, wright):
   Requires at least 2 split occurrences per plain one; a backoff to a
   shorter-than-available context additionally needs ``_RA_NGRAM_MIN_SUPPORT``
   instances (one-off witnesses like ``विपरीत|व्याप्तो`` must not generalise
-  to ``ग्रहीतव्यः``).
+  to ``ग्रहीतव्यः``).  A lone 1-letter context is never enough - ``ष|श्``
+  in ``ज्योतिषश्`` (the visarga placeholder) must not ride on corpus joins
+  like ``दोष-शमन``.
   """
   hit = _ngram_cell(wleft, wright)
   if hit is None:
     return False
   (ns, nn), k, kmax = hit
+  if k < 2:
+    return False
   if k < kmax and ns + nn < _RA_NGRAM_MIN_SUPPORT:
     return False
   return ns >= _RA_NGRAM_MIN_SPLITS and ns >= _RA_NGRAM_RATIO * nn
@@ -2091,6 +2187,12 @@ def _ngram_refine(word, hk, out):
       continue
     wleft, wright = word[max(0, p - K):p], word[p:p + K]
     if not _ngram_votes_hyphen(wleft, wright):
+      continue
+    # The n-gram vote alone never suffices: the new boundary must sit
+    # against rAmAnujIya/DCS dictionary words.
+    lstart = max((q for q in cuts if q < p), default=0)
+    rend = min((q for q in cuts if q > p), default=len(word))
+    if not _junction_dict_ok(word[lstart:p], word[p:rend]):
       continue
     try:
       pre = sanscript.transliterate(word[:p], sanscript.DEVANAGARI,
