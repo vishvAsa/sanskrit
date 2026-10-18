@@ -19,16 +19,29 @@
     ["marisa_trie.py", "/app/marisa_trie.py"],
     ["toml.py", "/app/toml.py"],
     ["browser_bootstrap.py", "/app/browser_bootstrap.py"],
-    ["hyphenator.py", "/app/hyphenator.py"],
+    ["hyphenator/__init__.py", "/app/hyphenator/__init__.py"],
+    ["hyphenator/constants.py", "/app/hyphenator/constants.py"],
+    ["hyphenator/tries.py", "/app/hyphenator/tries.py"],
+    ["hyphenator/corpus_ra.py", "/app/hyphenator/corpus_ra.py"],
+    ["hyphenator/seps.py", "/app/hyphenator/seps.py"],
+    ["hyphenator/validate.py", "/app/hyphenator/validate.py"],
+    ["hyphenator/segment.py", "/app/hyphenator/segment.py"],
     ["indic_transliteration.zip", "/app/indic_transliteration.zip"],
+    ["misc_hyphenator_data.toml", "/app/data/misc_hyphenator_data.toml"],
+    ["misc-vocab.toml", "/app/data/misc-vocab.toml"],
   ];
   var DATA = [
-    "sanskrit-words.bin.gz",
-    "dcs-frequency.bin.gz",
+    "padas.bin.gz",
+    "nominal-stems.bin.gz",
+    "verb-stems.bin.gz",
+    "avyayas.bin.gz",
+    "dcs-stems.bin.gz",
     "ramAnujIya.bin.gz",
     "ramAnujIya-splits.bin.gz",
     "ramAnujIya-ngram.bin.gz",
-    "ramAnujIya-surfaces.bin.gz",
+    "ramAnujIya-attestations.bin.gz",
+    "ramAnujIya-badsplits.bin.gz",
+    "ramAnujIya-seps.bin.gz",
   ];
 
   function el(id) {
@@ -80,6 +93,7 @@
     setStatus("पाइथन्-सञ्चयौ: regex, tqdm...");
     await pyodide.loadPackage(["regex", "tqdm"]);
     pyodide.FS.mkdirTree("/app/data");
+    pyodide.FS.mkdirTree("/app/hyphenator");
 
     for (var i = 0; i < FILES.length; i++) {
       setStatus("यन्त्रांश-सञ्चयः: " + FILES[i][0]);
