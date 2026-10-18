@@ -641,8 +641,14 @@ def _reliable(hk, depth=2):
 
 def _piece_reliable(piece, kind, under):
   if kind == "exact" and piece in T._load_words():
+    if not _attested(piece) and _count_of(piece) < 3:
+      return False  # a workbook relic (AkA cnt=2, zasi cnt=2) is no word
     return True  # a listed dictionary word is usable even when the counted
     # layers hold none of it (tUktaM lives only in a corpus-forms layer)
+  if kind == "yan" and under:
+    if not (_attested(under) or _count_of(under) >= 3
+            or merger_chain_valid(under)):
+      return False  # a yaN restore with no witness (zasy -> zasi cnt=2)
   if kind == "merger":
     return True
   if kind == "yan" and under and merger_chain_valid(under):
@@ -901,15 +907,21 @@ def merger_chain_valid(hk):
   return res
 
 
+_MERGER_GLUE = ("eva", "adhi")
+
+
 def _chain_word_ok(s):
   """Merger-chain component: a well-attested word, never a closed-class or
   suffix shard.  Short components need proportionally more attestation
   (ape/Iti/naM do not qualify, eka/Adi do) - except the short closed-class
-  joiners ca/vA (cAdhyAtmam = ca + adhyAtmam)."""
+  joiners ca/vA (cAdhyAtmam = ca + adhyAtmam) and the merging particles
+  eva/adhi (prANAdevAdhi = prANAd eva adhi)."""
   n = len(s)
   if n < 3:
     return s in ("ca", "vA", "tu")
-  if s in C._BARE_SUFFIXES or s in C._AVYAYAS or s.lower() in C._UPASARGAS:
+  if (s in C._BARE_SUFFIXES
+      or (s in C._AVYAYAS and s not in _MERGER_GLUE)
+      or (s.lower() in C._UPASARGAS and s not in _MERGER_GLUE)):
     return False
   if s in C._PRONOUNS and n < 4:
     return False
@@ -920,6 +932,57 @@ def _chain_word_ok(s):
   if n == 3:
     return cnt >= 20
   return cnt >= _MERGER_MIN
+
+
+_FINITE_VERB_TAILS = ("ante", "anti", "ate", "nti", "nte", "te", "ti")
+
+
+def _samasa_head_ok(hk, under=None):
+  """A non-final samAsa member: a nominal stem / particle / upasarga may
+  head a compound, an inflected verb form or a bare dhAtu never may."""
+  cands = []
+  for s in (under, hk):
+    if s and s not in cands:
+      cands.append(s)
+  for s in cands:
+    if (s in C._TRIE_NOMINAL_STEMS or s in C._AVYAYAS
+        or s in C._PRONOUNS or s.lower() in C._UPASARGAS):
+      return True
+  for s in cands:
+    if s in C._TRIE_VERB_STEMS:
+      return False  # a bare verb stem heads no samAsa
+    if (s.endswith(_FINITE_VERB_TAILS) and s in T._load_words()
+        and len(s) >= 4):
+      return False  # a tiG-anta is a pada, never a member
+  return True
+
+
+def merger_first_word(hk):
+  """First merged component of a chain piece (evAdhi -> eva, asyAmRtam ->
+  asya): the component may consume a merged long vowel at its end."""
+  if not hk:
+    return None
+  for r in range(2, min(7, len(hk))):
+    cand = hk[:r]
+    if cand[-1] not in "AIU":
+      continue
+    cand = cand[:-1] + {"A": "a", "I": "i", "U": "u"}[cand[-1]]
+    if cand in T._load_words():
+      return cand
+  return None
+
+
+def _stolen_final_shard(hk, piece):
+  """The strong vc window (sarva|rasaH) must not cut a single inflected
+  word whose base's final consonant starts the right piece: viSayaiH
+  (base viSaya, stem-final y) is no viSa + yaiH."""
+  base = _stem_base_piece(hk)
+  if not base:
+    return False
+  stem = base.rstrip("aAiIuUfFxXeEoO")
+  if not stem:
+    return False
+  return piece.startswith(stem[-1])
 
 
 def _chain_end_ok(base, apo):

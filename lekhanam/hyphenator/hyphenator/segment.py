@@ -167,9 +167,13 @@ def _segment(hk, strict, strong_vc=False):
                    and V._base_attested(V._stem_base_piece(under or piece)))
           and not (kind == "stem" and piece.endswith("m")
                    and V.merger_chain_valid(V._stem_base_piece(piece) or ""))
-          and not (kind == "t-assim" and V._attested(under))):
+          and not (kind == "t-assim" and V._attested(under))
+          and not (kind == "t-assim"
+                   and V._stem_valid_piece(under or "")
+                   and V._base_attested(V._stem_base_piece(under or "")))):
         continue  # a t-assim piece is witnessed by its attested restore
-        # (zravaNAn <- zravaNAt, corpus-attested)
+        # (zravaNAn <- zravaNAt, corpus-attested) or a stem base
+        # (prANAd <- prANAt, ablative of the well-attested prANa)
       if (j < m and kind == "exact" and len(piece) <= 3
           and (under in C._AVYAYAS or under.lower() in C._UPASARGAS)
           and piece not in C._PRONOUNS
@@ -238,8 +242,11 @@ def _segment(hk, strict, strong_vc=False):
           if strict and not (strong_vc and lkind == "exact"
                              and kind == "exact"
                              and V._count_of(lhk) >= 10
-                             and V._count_of(piece) >= 10):
-            continue  # upasarga wholes (AkAzayati) never take this cut
+                             and V._count_of(piece) >= 10
+                             and not V._stolen_final_shard(hk, piece)):
+            continue  # upasarga wholes (AkAzayati) never take this cut,
+            # and the window must not chop an inflected single word
+            # (viSayaiH is no viSa + yaiH)
           if lkind not in ("exact", "stem", "merger"):
             continue
           if kind not in ("exact", "stem", "merger", "visarga", "yan",
@@ -315,6 +322,12 @@ def _segment(hk, strict, strong_vc=False):
             if not (under or piece).startswith(C._COMPOUND_SUFFIXES):
               continue
         elif bkind in ("t-assim", "cons-vowel"):
+          if (bkind == "cons-vowel" and lhk.endswith("t")
+              and not rhk.startswith("'")):
+            # a surface t before a vowel is never a word-final t (that would
+            # voice to d): it is a ta+A merger (bhUtAkAzaM = bhUta+AkAzaM) or
+            # the right word's own -t- suffix (etAvatA).  Cut stays blocked.
+            continue
           if lkind != "memo" and not V._left_final_witness(lhk):
             continue
           if strict:
@@ -347,6 +360,12 @@ def _segment(hk, strict, strong_vc=False):
         extra += 60
       if piece in C._PRONOUNS or piece in C._AVYAYAS:
         extra -= 4  # independent particles/pronouns favour a clean cut
+      if (i > 0 and bkind == "vowel-cons" and lpiece.endswith("A")
+          and lpiece not in C._TRIE_NOMINAL_STEMS
+          and (lpiece[:-1] + "aH") in T._load_words()
+          and V._count_of(lpiece[:-1] + "aH") >= 5):
+        extra += 20  # a nom.pl "-A(H)" surface (prANA, devA) is a finished
+        # pada, never a samAsa head: the restore reading prANAd eva adhi wins
       if i > 0:
         if bkind in _HIGH_KINDS:
           extra -= 10  # bonus for genuine sandhi boundary
@@ -425,7 +444,9 @@ def _hyphenate_hk_token_uncached(hk):
   if whole in ("stem", "upasarga") and len(hk) >= 24:
     whole = None
   if whole is not None:
-    res = _segment(hk, strict=True, strong_vc=(whole == "stem"))
+    res = _segment(hk, strict=True,
+                   strong_vc=(whole == "stem"
+                              and not SP._finite_verb_piece(hk)))
     if res is None:
       return hk
   else:
@@ -580,6 +601,10 @@ def _ngram_refine(word, hk, out):
     lft_restore = (lft_dev[:-1] + "उ") if lft_dev.endswith("व") else lft_dev
     if lft_restore.endswith(("षु", "सु")):
       continue
+    # A finished ablative pada (…ād/…āt) can't head a samAsa: the junction
+    # is a pada boundary (तल्लिङ्गाद् ब्रह्मण), never a hyphen.
+    if lft_dev.endswith(("ाद्", "ात्")):
+      continue
     # पुरुषस्|याप्यति: the y stole the genitive स्य (my sya guard covers the
     # DP, the refine needs its own).
     if lft_dev.endswith("स्") and rgt_dev.startswith("य"):
@@ -598,6 +623,10 @@ def _ngram_refine(word, hk, out):
       if (SP._finite_verb_piece(lhk_piece)
           and SP._finite_verb_piece(rhk_piece)):
         continue
+      word_hk = sanscript.transliterate(word, sanscript.DEVANAGARI,
+                                        sanscript.HK)
+      if V._stolen_final_shard(word_hk, rhk_piece):
+        continue  # viSayaiH is no viSa|yaiH: the y is the base's own
     except Exception:
       pass
     if not V._junction_dict_ok(word[lstart:p], word[p:rend]):
