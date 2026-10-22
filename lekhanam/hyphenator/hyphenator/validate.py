@@ -132,7 +132,7 @@ def _piece_ending_ok(hk, end):
   A single vowel case ending (anugrAhake <- anugrAhaka) is fine over a long
   base - the outer check still demands the listed base word."""
   if len(end) >= 2:
-    return len(hk) > len(end) + 2
+    return len(hk) > len(end) + 1
   if end in ("M", "H", "m"):
     return len(hk) > len(end) + 3
   return False
@@ -653,8 +653,10 @@ def _piece_reliable(piece, kind, under):
     return False  # tiSyate: an unattested tiG-form shard stands for no stem
   if kind == "exact" and piece in T._load_words():
     if not _attested(piece) and _count_of(piece) < 5:
-      return False  # a workbook relic (AkA cnt=2, zasi cnt=2, vaga cnt=4)
-      # is no word
+      base = _stem_base_piece(piece)
+      if not (base and base.endswith(tuple(C._BARE_SUFFIXES))):
+        return False  # a workbook relic (AkA cnt=2, zasi cnt=2, vaga cnt=4)
+        # is no word; a real suffix form (tvena <- tva) stays
     return True  # a listed dictionary word is usable even when the counted
     # layers hold none of it (tUktaM lives only in a corpus-forms layer)
   if kind == "yan" and under:
@@ -667,6 +669,11 @@ def _piece_reliable(piece, kind, under):
       return False  # a yaN restore with no witness (zasy -> zasi cnt=2)
   if kind == "avagraha" and under:
     return _attested(under) or under in T._load_words() or _reliable(under)
+  if (kind == "stem" and not _attested(piece)):
+    base = _stem_base_piece(piece)
+    if (base and base.endswith(tuple(C._BARE_SUFFIXES))
+        and not _attested(base)):
+      return False  # dAtvena (dA + tva): a bare-suffix base is no member
   if kind == "merger":
     return True
   if kind == "yan" and under and merger_chain_valid(under):

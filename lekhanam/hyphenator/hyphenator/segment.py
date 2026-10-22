@@ -188,7 +188,9 @@ def _segment(hk, strict, strong_vc=False):
         # but a connective pronoun (yat|tUktam) or a yaN-restored particle
         # (apy|AdhAra = api) does
       if i > 0 and V.is_veto_split(hk, coff[i]):
-        continue
+        if not (SP._boundary_kind(hk[:coff[i]], piece) == "m-vowel"
+                and V._attested(info[i][0]) and V._attested(piece)):
+          continue  # a plain param|eva (m + vowel) is no parama+iva merger
       bad = 0
       if (i > 0 and V._count_of(info[i][0]) == 0
           and len(info[i][0]) <= _RA_BADSPLITS_MAX_PIECE):
@@ -264,6 +266,11 @@ def _segment(hk, strict, strong_vc=False):
           if (piece in C._SHORT_OK and not V._attested(lpiece)
               and lkind not in ("memo", "visarga", "visarga-o", "yan")):
             continue  # …opadizya|te: an unattested shard takes no particle
+          if (piece.startswith(("tvaM", "tvam", "tvena", "tvasya", "tvAt",
+                                "tvAya", "tve", "tvAni"))
+              and lpiece[-1:] in _VOWELS):
+            continue  # the -tva suffix tail binds to its member
+            # (maryAdA-tvena stays maryAdAtvena)
           if (piece.startswith(("mAnaM", "mAnam", "mAnasya", "mAnAH",
                                 "mAnaH", "mAnA", "mAne", "mAnena", "mAnAt"))
               and lpiece[-1:] in _VOWELS):
@@ -465,7 +472,9 @@ def _segment_assemble(hk, coff, idx, pieces, unders, kinds):
   sub-segmentation.  Returns (pieces, seps) or None."""
   for k in range(1, len(idx)):
     if V.is_veto_split(hk, coff[idx[k][0]]):
-      return None
+      if not (SP._boundary_kind(hk[:coff[idx[k][0]]], pieces[k]) == "m-vowel"
+              and V._attested(pieces[k - 1]) and V._attested(pieces[k])):
+        return None  # same m-vowel exemption as the DP (param|eva)
   seps = []
   for k in range(len(pieces) - 1):
     seps.append(SP._sep(pieces[k], pieces[k + 1], unders[k], unders[k + 1],
@@ -700,6 +709,10 @@ def _ngram_refine(word, hk, out):
       if (rhk_piece in C._SHORT_OK or rhk_piece in C._AVYAYAS
           or rhk_piece in C._PRONOUNS):
         continue  # a particle is a pada of its own, never a hyphen member
+      if (rhk_piece.startswith(("tvaM", "tvam", "tvena", "tvasya", "tvAt",
+                                "tvAya", "tve", "tvAni"))
+          and lhk_piece[-1:] in "aAiIuUfFxXeEoO"):
+        continue  # the -tva suffix tail binds to its member
       if (rhk_piece.startswith(("mAnaM", "mAnam", "mAnasya", "mAnAH",
                                 "mAnaH", "mAnA", "mAne", "mAnena", "mAnAt"))
           and lhk_piece[-1:] in "aAiIuUfFxXeEoO"):
