@@ -222,9 +222,12 @@ def _segment(hk, strict, strong_vc=False):
             and lkind not in ("t-assim", "visarga", "visarga-o", "memo")
             and lpiece not in C._PRONOUNS and lpiece not in C._AVYAYAS
             and lpiece.lower() not in C._UPASARGAS
-            and V._prefix_in_dict(lpiece + "y")):
+            and (V._prefix_in_dict(lpiece + "y")
+                 or V.merger_chain_valid(lpiece))):
           continue  # inside a single dictionary word the y belongs to the
-          # word (vid|yAH steals vidyA, viSa|yaiH steals viSayaiH); a real
+          # word (vid|yAH steals vidyA, viSa|yaiH steals viSayaiH) and a
+          # merged left is no internal member (bhUtAda, = bhUta+Ada);
+          # a real
           # pada join like tad|yathA stays
 
         if (rhk.startswith(("sya", "syA", "syo"))
@@ -253,8 +256,16 @@ def _segment(hk, strict, strong_vc=False):
         # Sandhi-witness requirement - a boundary may only be cut when it is
         # phonologically witnessed by the sandhi type.
         if bkind == "vowel-cons":
+          if (piece in ("saH", "sA") and not lpiece.endswith(("H", "r", "s"))):
+            continue  # cchanda|saH: the -as stem is cchandas, saH is no
+            # samAsa head
+          if kind == "exact" and V._merged_token_shard(piece):
+            continue  # tasyApi is a merged token (tasya+api), no member
+          if (piece in C._SHORT_OK and not V._attested(lpiece)
+              and lkind not in ("memo", "visarga", "visarga-o", "yan")):
+            continue  # …opadizya|te: an unattested shard takes no particle
           if (piece.startswith(("mAnaM", "mAnam", "mAnasya", "mAnAH",
-                                "mAnaH", "mAnA"))
+                                "mAnaH", "mAnA", "mAne", "mAnena", "mAnAt"))
               and lpiece[-1:] in _VOWELS):
             continue  # the verbal -mAna tail (adhyasyamAna, gamyamAna)
             # binds to its root: asya|mAnam is no word boundary
@@ -266,7 +277,7 @@ def _segment(hk, strict, strong_vc=False):
             continue  # upasarga wholes (AkAzayati) never take this cut,
             # and the window must not chop an inflected single word
             # (viSayaiH is no viSa + yaiH)
-          if lkind not in ("exact", "stem", "merger"):
+          if lkind not in ("exact", "stem", "merger", "avagraha"):
             continue
           if kind not in ("exact", "stem", "merger", "visarga", "yan",
                           "memo", "t-assim"):
@@ -330,6 +341,20 @@ def _segment(hk, strict, strong_vc=False):
               and not lpiece.endswith("r")):
             continue
         elif bkind == "yan":
+          if (lkind == "exact" and V._merged_token_shard(lpiece)):
+            continue  # ityAdy|Asu: ityAdy (= iti+Ady) is no left pada
+          if kind == "merger":
+            fw = V.merger_first_word(piece)
+            if not (fw and (fw in C._AVYAYAS or fw in C._PRONOUNS
+                            or V._attested(fw))
+                    or (V._yan_restored_left(lpiece) or "") in ("iti",)):
+              continue  # praty|abhijJAyamAne: an unattested merge head is
+              # no yaN right (asyaiva, ity|AdyAsu are; iti opens a pada)
+          if (piece.lower() in C._UPASARGAS
+              and (V._yan_restored_left(lpiece) or "").lower()
+              in C._UPASARGAS):
+            continue  # praty|abhi: a prefix never begins a pada after
+            # another prefix (api + a noun, apy|AdhAra, still splits)
           if lkind not in ("yan", "memo") and not V._has_yan_restore(lhk):
             # ... or the left piece is itself a prastuti surface whose yaN
             # restore is a closed-class particle (अप्य् अविरोधात्: the corpus
@@ -670,8 +695,13 @@ def _ngram_refine(word, hk, out):
       if (SP._finite_verb_piece(lhk_piece)
           and SP._finite_verb_piece(rhk_piece)):
         continue
+      if rhk_piece.startswith("'"):
+        continue  # the avagraha already marks the junction (ceto'rpaNa)
+      if (rhk_piece in C._SHORT_OK or rhk_piece in C._AVYAYAS
+          or rhk_piece in C._PRONOUNS):
+        continue  # a particle is a pada of its own, never a hyphen member
       if (rhk_piece.startswith(("mAnaM", "mAnam", "mAnasya", "mAnAH",
-                                "mAnaH", "mAnA"))
+                                "mAnaH", "mAnA", "mAne", "mAnena", "mAnAt"))
           and lhk_piece[-1:] in "aAiIuUfFxXeEoO"):
         continue  # the verbal -mAna tail binds to its root (adhyasyamAna)
       if (rhk_piece in C._PRONOUNS and lhk_piece.endswith(("y", "v"))
@@ -715,10 +745,16 @@ def _ngram_refine(word, hk, out):
   return "".join(out)
 
 
+_AVAGRAHA_LOST_RE = regex.compile(r"ोर्(?=[\u0915-\u0939])")
+
+
 def hyphenate_word(word):
   """Hyphenate a single Devanagari word (no spaces). Idempotent."""
   if not word or len(word) < 2:
     return word
+  if "ोर्" in word:
+    word = _AVAGRAHA_LOST_RE.sub("ोऽर्", word)  # cetoर्पण -> चेतोऽर्पण
+
   memo = T._ra_split_form(word)
   if memo is not None:
     if not memo:

@@ -503,6 +503,9 @@ def _left_final_witness(lhk):
   elif c in ("l", "T"):
     # tad + l/T assimilation surface (talliGga, taTTIkA): de-assimilates to tad
     res = (lhk[:-1] + "d") in words or (lhk[:-1] + "t") in words
+  elif c == "k":
+    # a k-final pada kept before s (prastuti ऋक् स…): the unsandhied form
+    res = lhk in words
   else:
     res = False
   _CACHE_WITNESS[lhk] = res
@@ -662,6 +665,8 @@ def _piece_reliable(piece, kind, under):
     if not (_attested(under) or _count_of(under) >= 3
             or merger_chain_valid(under)):
       return False  # a yaN restore with no witness (zasy -> zasi cnt=2)
+  if kind == "avagraha" and under:
+    return _attested(under) or under in T._load_words() or _reliable(under)
   if kind == "merger":
     return True
   if kind == "yan" and under and merger_chain_valid(under):
@@ -1003,6 +1008,31 @@ def _pada_ok(piece, under, kind):
       return True
     if (s not in C._TRIE_NOMINAL_STEMS
         and (C._TRIE_DCS is None or s not in C._TRIE_DCS)):
+      return True
+  return False
+
+
+def _merged_token_shard(s):
+  """An exact dictionary token that is itself a closed-class-led sandhi
+  merge (ityAdy = iti + Ady): using it as an internal piece hides a word
+  boundary."""
+  if not s or len(s) < 5:
+    return False
+  fw = merger_first_word(s)
+  if fw and len(fw) < len(s) - 1:
+    rest = s[len(fw):]
+    heads = [rest, "a" + rest, "A" + rest]
+    if rest[:1] in ("A", "I", "U"):
+      heads.append({"A": "a", "I": "i", "U": "u"}[rest[0]] + rest[1:])
+    for head in heads:
+      if head and (head in C._AVYAYAS or head in C._PRONOUNS):
+        return True
+  for L in range(3, min(7, len(s) - 1)):
+    if s[L - 1] not in ("y", "v"):
+      continue  # only a yaN-shaped prefix (ity = iti + Ady); a plain
+      # particle-led compound (prati-sambandhi) is a normal member
+    restored = _yan_restored_left(s[:L])
+    if restored and (restored in C._AVYAYAS or restored in C._PRONOUNS):
       return True
   return False
 
