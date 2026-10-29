@@ -347,15 +347,24 @@ def _core_valid(hk_piece, piece_mode=False):
       cand = hk_piece[:-1] + v
       if cand in words:
         return ("yan", cand)
-      if piece_mode and merger_chain_valid(cand):
-        return ("yan", cand)
+      if piece_mode:
+        if merger_chain_valid(cand) and (len(cand) <= 12 or _attested(cand)):
+          return ("yan", cand)  # a long unattested chain is a sponge:
+          # vijJeyendra|stuty hides a compound boundary
+        base = _stem_base_piece(cand)
+        if base and len(base) >= 4 and _base_attested(base):
+          return ("yan", cand)
   if len(hk_piece) >= 3 and hk_piece.endswith("v"):
     for v in ("u", "U"):
       cand = hk_piece[:-1] + v
       if cand in words:
         return ("yan", cand)
-      if piece_mode and merger_chain_valid(cand):
-        return ("yan", cand)
+      if piece_mode:
+        if merger_chain_valid(cand) and (len(cand) <= 12 or _attested(cand)):
+          return ("yan", cand)
+        base = _stem_base_piece(cand)
+        if base and len(base) >= 4 and _base_attested(base):
+          return ("yan", cand)
   if len(hk_piece) >= 3 and hk_piece.endswith("o"):
     cand = hk_piece[:-1] + "aH"
     if cand in words:
@@ -378,9 +387,13 @@ def _core_valid(hk_piece, piece_mode=False):
     cand = hk_piece[:-1] + "t"
     if cand in words:
       return ("t-assim", cand)
+    if _stem_valid_piece(cand) if piece_mode else _stem_valid(cand):
+      return ("t-assim", cand)
   if len(hk_piece) >= 3 and hk_piece.endswith("c"):
     cand = hk_piece[:-1] + "t"
     if cand in words:
+      return ("t-assim", cand)
+    if _stem_valid_piece(cand) if piece_mode else _stem_valid(cand):
       return ("t-assim", cand)
   # de-aspiration of an initial (tad+dhi -> tad dhi from tad+hi)
   if len(hk_piece) >= 3 and hk_piece.startswith("dh"):
@@ -496,7 +509,8 @@ def _left_final_witness(lhk):
   if c in ("d", "t", "n"):
     res = True
   elif c in ("j", "c"):
-    res = (lhk[:-1] + "t") in words
+    cand = lhk[:-1] + "t"
+    res = cand in words or _stem_valid_piece(cand)
   elif c in ("g", "D", "b"):
     flip = {"g": "k", "D": "T", "b": "p"}[c]
     res = (lhk[:-1] + flip) in words
@@ -654,9 +668,13 @@ def _piece_reliable(piece, kind, under):
   if kind == "exact" and piece in T._load_words():
     if not _attested(piece) and _count_of(piece) < 5:
       base = _stem_base_piece(piece)
-      if not (base and base.endswith(tuple(C._BARE_SUFFIXES))):
+      if not (base and (base.endswith(tuple(C._BARE_SUFFIXES))
+                        or (len(base) >= 4 and _count_of(base) >= 3))):
         return False  # a workbook relic (AkA cnt=2, zasi cnt=2, vaga cnt=4)
-        # is no word; a real suffix form (tvena <- tva) stays
+        # is no word; a real suffix form (tvena <- tva) or an inflection of
+        # a real, non-tiny base (ahanam <- ahana, tvASTram <- tvASTra)
+        # stays - but a two/three-letter base (AnaH <- An, canAni <- can)
+        # is a shard
     return True  # a listed dictionary word is usable even when the counted
     # layers hold none of it (tUktaM lives only in a corpus-forms layer)
   if kind == "yan" and under:
@@ -665,8 +683,11 @@ def _piece_reliable(piece, kind, under):
       return False  # a short yaN piece is a particle shard (ity/apy);
       # atv <- atu / asy <- asi are verb-form shards, no samAsa members
     if not (_attested(under) or _count_of(under) >= 3
-            or merger_chain_valid(under)):
-      return False  # a yaN restore with no witness (zasy -> zasi cnt=2)
+            or merger_chain_valid(under)
+            or (_stem_valid_piece(under)
+                and _base_attested(_stem_base_piece(under)))):
+      return False  # a yaN restore with no witness (zasy -> zasi cnt=2);
+      # a solid inflected restore (sAhasAni <- sAhasa) is a witness
   if kind == "avagraha" and under:
     return _attested(under) or under in T._load_words() or _reliable(under)
   if (kind == "stem" and not _attested(piece)):
@@ -951,8 +972,14 @@ def _chain_word_ok(s):
   if s in C._PRONOUNS and n < 4:
     return False
   if n >= 4 and not _attested(s):
+    base = _stem_base_piece(s)
+    if base and len(base) >= 4 and _base_attested(base):
+      return True  # a solid inflected member (arthatvena <- arthatva)
+    if s in T._load_words() and _count_of(s) >= _MERGER_MIN:
+      return True  # a real dictionary word (pravibhajya)
     return False  # a synthesised surface (zravaNA, Anna, apya) is no word
     # (short Vedic particles like evA pass on frequency alone)
+
   cnt = _count_of(s)
   if n == 3:
     return cnt >= 20
@@ -974,8 +1001,10 @@ def _samasa_head_ok(hk, under=None):
         or s in C._PRONOUNS or s.lower() in C._UPASARGAS):
       return True
   for s in cands:
-    if s in C._TRIE_VERB_STEMS:
-      return False  # a bare verb stem heads no samAsa
+    if (s in C._TRIE_VERB_STEMS
+        and not (_attested(s) and _count_of(s) >= 100)):
+      return False  # a bare verb stem heads no samAsa; a homonymous,
+      # well-attested noun (jIva, bhU) does
     if (s.endswith(_FINITE_VERB_TAILS) and s in T._load_words()
         and len(s) >= 4):
       return False  # a tiG-anta is a pada, never a member
@@ -1026,7 +1055,11 @@ def _merged_token_shard(s):
   if not s or len(s) < 5:
     return False
   fw = merger_first_word(s)
-  if fw and len(fw) < len(s) - 1:
+  if (fw and len(fw) < len(s) - 1
+      and (fw in C._AVYAYAS or fw in C._PRONOUNS
+           or fw.lower() in C._UPASARGAS)):
+    # bhUtaH is no bhu + taH merge: only a closed-class lead makes an
+    # exact token a shard hiding a word boundary (ityAdy, tasyApi).
     rest = s[len(fw):]
     heads = [rest, "a" + rest, "A" + rest]
     if rest[:1] in ("A", "I", "U"):
