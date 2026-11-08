@@ -13,28 +13,6 @@ unicode_script = "devanagari"
 
 [[Pii]]
 
-प्रकाशनम् -  
-संस्कृतभारती  
-'अक्षरम्', ८ उपमार्गः, २ घट्टः  
-गिरिनगरम्, बेङ्गलूरु - ५६० ०८५  
-
-© प्रकाशकस्य एव
-
-प्रथमं मुद्रणम् - २००४ - ५,०००  
-द्वितीयं मुद्रणम् - २००८ - ५,०००  
-
-मूल्यम् - रू. ७०.००  
-
-मुद्रणम् -  
-वागर्थ  
-एन्. आर्. कालोनी  
-बेङ्गलूरु - ५६० ०१९  
-
-ISBN 978-81-88220-45-0
-
-SHUDDHI KOUMUDEE - An elucidative book on common errors in Samskrit. Prepared by Janardana Hegde Publisher - SAMSKRITA BHARATI - 'Aksharam', 8th Cross, 2nd Phase, Girinagar, Bangalore - 560 085.  
-Pages - xviii + 314 Price - Rs. 70-00 Second Print - June - 2008  
-Printed at - Vagartha, N. R. Colony, Bangalore - 560 019
 
 [[Piii]]
 
