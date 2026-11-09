@@ -3,6 +3,7 @@ title = "+३ कृदन्तप्रकरणम्"
 unicode_script = "devanagari"
 
 +++
+Source: [TW](https://archive.org/details/astadhyayisahajabodhaiiidr.pushpadixit_202002)
 
 अष्टाध्यायी सहजबोध तृतीय भाग : कृदन्तप्रकरणम्
 AATRIORITERALS
