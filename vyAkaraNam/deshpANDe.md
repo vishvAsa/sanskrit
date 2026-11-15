@@ -2,6 +2,8 @@
 title = "M Deshpande"
 
 +++
+Source: [TW](https://dn790000.ca.archive.org/0/items/DeshpandeASanskritPrimer/Deshpande%20-%20A%20Sanskrit%20Primer.pdf)
+
 ## 0
 SAMSKRTA-SUBODHINI  
 or  A Sanskrit Primer
