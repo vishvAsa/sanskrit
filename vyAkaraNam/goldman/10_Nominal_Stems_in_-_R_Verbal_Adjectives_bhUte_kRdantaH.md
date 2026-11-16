@@ -1,631 +1,684 @@
 +++
-title = "10 Nominal Stems in - ऋ; Verbal Adjectives; भूते कृदन्तः"
+title = "10 Nominal Stems in - ऋ; Verbal Adjectives; भूते कृदन्त"
 short_title = "10 Nominal Stems in ऋ;"
 
 +++
-10 Nominal Stems in - ऋ; Verbal Adjectives; भूते कृदन्तः
+10 Nominal Stems in - ऋ; Verbal Adjectives; भूते कृदन्त
 
 
 10.0
 
-There is relatively small but important group of nouns whose stems end in the vowel -- (). This group is divisible into two closely similar subgroups with slightly different declensions. Nouns of these declensions are unlike other nouns in final vow els in that they show the system of stem strength typical of consonant final stems. i. The first, and much more restricted, of these subgroups con
+There is relatively small but important group of nouns whose stems end in the vowel -ऋ (ṛ). This group is divisible into two closely similar subgroups with slightly different declensions. Nouns of these declensions are unlike other nouns in final vowels in that they show the system of stem strength typical of consonant final stems.
 
-sists almost wholly of terms for kinship relations such as: gleg (duhitr) (f) daughter the (pits) (m) father HCL (bhrāts) (m) brother
+i. The first, and much more restricted, of these subgroups consists almost wholly of terms for kinship relations such as:
 
-HTCL (māts) (f) mother ii. The second, and larger, group consists of a series of quasi
+दुहितृ (duhitṛ) (f) daughter
 
-adjectival agent nouns formed from many verbal roots by the addition of the suffix - (-tr), similar in meaning to the English agentive suffix -er. This suffix is either added directly to the verbal root or in some cases, is separated from the root by the vowel 5 (i). (See 13.1.a, 16.1.) In either case the root vowel takes ju if possible. Examples: root
+पितृ (pitṛ) (m) father
 
-agent noun (Vkr) (8P) do
+भ्रातृ (bhrātṛ) (m) brother
 
-ce(karty) doer, grammatical
+मातृ (mātṛ) (f) mother
 
-subject f (Vji) (1P) win
+ii. The second, and larger, group consists of a series of quasi-adjectival agent nouns formed from many verbal roots by the addition of the suffix -तृ (-tṛ), similar in meaning to the English agentive suffix -er. This suffix is either added directly to the verbal root or in some cases, is separated from the root by the vowel इ (i). (See 13.1.a, 16.1.) In either case the root vowel takes गुण if possible.
 
-stę (jetr) winner, victor 74 (Vgam) (1P) go
+Examples:
 
-(gants) goer (Vbhuj) (7P) eat WTEE (bhokty) eater 24 (Vraks) (1P) protect o r (rakṣit;) protector This group also contains two kinship terms: 7 (naptr [m]-grandson) and FCE (svasr [f]—sister).
+| root | agent noun |
+| कृ (√kṛ) (8P) do | कर्तृ (kartṛ) doer, grammatical subject |
+| जि (√ji) (1P) win | जेतृ (jetṛ) winner, victor |
+| गम् (√gam) (1P) go | गन्तृ (gantṛ) goer |
+| भुज् (√bhuj) (7P) eat | भोक्तृ (bhoktṛ) eater |
+| रक्ष् (√rakṣ) (1P) protect | रक्षितृ (rakṣitṛ) protector |
 
-174
+This group also contains two kinship terms: नप्तृ (naptṛ [m]—grandson) and स्वसृ (svasṛ [f]—sister).
 
 10.1
 
+Gender of Stems in -ऋ (-ṛ)
+
+a. The stems of group one (kinship terms) are पुल्लिङ्ग or स्त्रीलिङ्ग according to the natural gender of the family member named. This group contains no nouns of the नपुंसकलिङ्ग.
+
+b. The agentive nouns of group two, however, are quasi-adjectival in that they may take on the gender of a person or thing with which they are in apposition. When स्त्रीलिङ्ग forms occur the ending -तृ (-tṛ) is replaced by the ending -त्री (-trī). These forms are then declined regularly according to the paradigm for stems in -ई (ī) given at 7.1. Thus, one has to learn new declensions only for पुल्लिङ्ग and the less common नपुंसकलिङ्ग. The kinship term स्वसृ (svasṛ—sister) is, of course, स्त्रीलिङ्ग.
+
 10.2
 
-Gender of Stems in - (-r) a. The stems of group one (kinship terms) are grensor Files
+Declension of Stems in -ऋ (-ṛ)
 
-according to the natural gender of the family member
+a. All stems of group one and पुल्लिङ्ग stems (plus स्वसृ—svasṛ) of group two have very similar declensions with only two basic differences:
 
-named. This group contains no nouns of the नपुंसकलिङ्ग. b. The agentive nouns of group two, however, are quasi-ad
+i. Except for the प्रथम एक°, where all these forms show the ending -आ (-ā), the two groups differ in the strong forms (8.1); nouns of group one showing गुण of the stem final -अर् (-ar), nouns of group two showing वृद्धि -आर् (-ār).
 
-jectival in that they may take on the gender of a person or thing with which they are in apposition. When Faircas forms occur the ending - (-tr) is replaced by the ending - (-trī). These forms are then declined regularly accord ing to the paradigm for stems in - $ (ī) given at 7.1. Thus, one has to learn new declensions only for ytes and the less common नपुंसकलिङ्ग. The kinship term स्वसृ (svasr
+ii. स्त्रीलिङ्ग nouns of group one and the noun स्वसृ (svasṛ—sister) of group two have as their द्वितीया बहु° ending -ऋः (-ṝḥ) in contrast to the corresponding ending -ऋन् (-ṝn) for पुल्लिङ्ग nouns of both groups.
 
-sister) is, of course, Fritos. Declension of Stems in- (-) a. All stems of group one and yies stems (plus Fox-svasy)
-
-of group two have very similar declensions with only two basic differences: i. Except for the gen 16°, where all these forms show
-
-the ending -371 (-ā), the two groups differ in the strong forms (8.1); nouns of group one showing you of the stem final -37C (-ar), nouns of group two showing area
-
--3173 (-ār). ii. स्त्रीलिङ्ग nouns of grouponeand the noun स्वसृ (svasr
-
-sister) of group two have as their frien og ending -#: (-th) in contrast to the corresponding ending -727
-
-(ện) for tos nouns of both groups. b. Final - 7 (-1) of ayantes nouns of group two is treated as
-
-regards length) exactly as is the final -3 (-u) of the a ss
-
-nouns in final 3 (-u) (see 6.1.d). Paradigms of - 7 (-r) Stem Nouns a. The following paradigm shows the declension of fre (pitr
-
-father) a typical is noun of group one. In addition the प्रथमा and द्वितीया विभक्ति-s of कर्तृ (kartr doer), a पुंलिङ्ग noun of group two, and of HTĘ (māts—mother) representing a Files noun of group one are given. Their parent through सप्तमी forms will follow the paradigm for पितृ.
+b. Final -ऋ (-ṛ) of नपुंसकलिङ्ग nouns of group two is treated (as regards length) exactly as is the final -उ (-u) of the नपुंसकलिङ्ग nouns in final -उ (-u) (see 6.1.d).
 
 10.3
 
-175
+Paradigms of -ऋ (-ṛ) Stem Nouns
 
-i. पुंलिङ्ग; पितृ (pitr-father)
+a. The following paradigm shows the declension of पितृ (pitṛ—father) a typical पुल्लिङ्ग noun of group one. In addition the प्रथमा and द्वितीया विभक्ति-s of कर्तृ (kartṛ—doer), a पुल्लिङ्ग noun of group two, and of मातृ (mātṛ—mother) representing a स्त्रीलिङ्ग noun of group one are given. Their तृतीया through सप्तमी forms will follow the paradigm for पितृ.
 
-एक
+i. पुल्लिङ्ग; पितृ (pitṛ—father)
 
-बहु
+| | एक° | द्वि° | बहु° |
+| 1. | पिता | पितरौ | पितरः |
+| | pitā | pitarau | pitaraḥ |
+| 2. | पितरम् | पितरौ | पितॄन् |
+| | pitaram | pitarau | pitṝn |
+| 3. | पित्रा | पितृभ्याम् | पितृभिः |
+| | pitrā | pitṛbhyām | pitṛbhiḥ |
+| 4. | पित्रे | पितृभ्याम् | पितृभ्यः |
+| | pitre | pitṛbhyām | pitṛbhyaḥ |
+| 5. | पितुः/पितुर् (see 3.40) | पितृभ्याम् | पितृभ्यः |
+| | pituḥ/pitur | pitṛbhyām | pitṛbhyaḥ |
+| 6. | पितुः/पितुर् | पित्रोः | पितॄणाम् |
+| | pituḥ/pitur | pitroḥ | pitṝṇām |
+| 7. | पितरि | पित्रोः | पितृषु |
+| | pitari | pitroḥ | pitṛṣu |
+| सम्° | पितः/पितर् (see 3.40) | पितरौ | पितरः |
+| | pitaḥ/pitar | pitarau | pitaraḥ |
 
-पितरः
+ii. पुल्लिङ्ग; कर्तृ (kartṛ—doer, agent, grammatical subject)
 
-pitā
+| | एक° | द्वि° | बहु° |
+| 1. | कर्ता | कर्तारौ | कर्तारः |
+| | kartā | kartārau | kartāraḥ |
+| 2. | कर्तारम् | कर्तारौ | कर्तॄन् |
+| | kartāram | kartārau | kartṝn |
 
-पित्रे
+iii. स्त्रीलिङ्ग; मातृ (mātṛ—mother)
 
-पिता
+| | एक° | द्वि° | बहु° |
+| 1. | माता | मातरौ | मातरः |
+| | mātā | mātarau | mātaraḥ |
+| 2. | मातरम् | मातरौ | मातॄः |
+| | mātaram | mātarau | mātṝḥ |
 
-पितरौ
+b. नपुंसकलिङ्ग; दातृ (dātṛ—giver, giving)
 
-pitarau pitarah पितरम् पितरौ पितृन् pitaram pitarau pitín पित्रा
+| | एक° | द्वि° | बहु° |
+| 1. | दातृ | दातृणी | दातॄणि |
+| | dātṛ | dātṛṇī | dātṝṇi |
+| 2. | दातृ | दातृणी | दातॄणि |
+| | dātṛ | dātṛṇī | dātṝṇi |
+| 3. | दातृणा | दातृभ्याम् | दातृभिः |
+| | dātṛṇā | dātṛbhyām | dātṛbhiḥ |
+| 4. | दातृणे | दातृभ्याम् | दातृभ्यः |
+| | dātṛṇe | dātṛbhyām | dātṛbhyaḥ |
+| 5. | दातृणः | दातृभ्याम् | दातृभ्यः |
+| | dātṛṇaḥ | dātṛbhyām | dātṛbhyaḥ |
+| 6. | दातृणः | दातृणोः | दातॄणाम् |
+| | dātṛṇaḥ | dātṛṇoḥ | dātṝṇām |
+| 7. | दातृणि | दातृणोः | दातृषु |
+| | dātṛṇi | dātṛṇoḥ | dātṛṣu |
+| सम्° | दातृ | दातृणी | दातॄणि |
+| | dātṛ | dātṛṇī | dātṝṇi |
 
-पितृभ्याम्
-
-पितृभिः pitrā
-
-pitbhyām pitřbhiḥ
-
-पितृभ्याम् पितृभ्यः pitre
-
-pitsbhyām pitsbhyaḥ पितुः/पितुर्
-
-पितृभ्याम् पितभ्यः pituh/pitur pitȚbhyām pit;bhyah (see 3.40) पितुः/पितुर
-
-पित्रोः
-
-पितृणाम् pituh/pitur pitroḥ pitīņām
-
-पितृषु pitari pitroh pitļşu पितः/पितर
-
-पितरौ
-
-पितरः pitah/pitar pitarau pitaraḥ
-
-(see 3.40) ii. पुंलिङ्ग; कर्तृ (kartr-doer, agent, grammatical
-
-subject)
-
-पितरि
-
-पित्रोः
-
-एक
-
-बहु कर्तारः
-
-कर्ता kartā कर्तारम् kartāram
-
-कर्तारौ kartārau कर्तारौ kartārau
-
-kartārah कर्तृन् kartīn
-
-iii. स्त्रीलिङ्ग; मातृ (matr-mother)
-
-एक
-
-बहु
-
-माता mātā
-
-मातरौ mātarau
-
-मातरः mātarah
-
-मातरम्
-
-मातरौ
-
-मात
-
-mātaram
-
-mātarau
-
-mātsh
-
-176
-
-द्वि
-
-दातृ
-
-b. नपुंसकलिङ्ग; दातृ (dātrgiver, giving)
-
-एक
-
-दातणी दातृणि dāts
-
-dātīņi dātīmi दातृ
-
-दातृणी दातृणि dāts
-
-dātrņi dātīņi दातृणा
-
-दातृभ्याम् दातृभिः dātrnā dātņbhyām dātņbhiḥ दातृणे दातृभ्याम् दातभ्यः dātsne dātņbhyām dātņbhyaḥ दातृणः दातृभ्याम् दातृभ्यः dātrnah dātņbhyām dātņbhyah दातृणः दातृणोः दातृणाम् dātsṇaḥ dātņņoh dātīņām दातृणि दातृणोः dātrņi dātīnoh dātņşu
-
-दातृ
-
-दातणी दातणि dāts
-
-dātri dātini
-
-दातृषु
-
-or
-
-दातः/दातर dātah/dātar (see 3.40)
+or दातः/दातर् dātaḥ/dātar (see 3.40)
 
 10.4
 
-Verbal Adjectives: Sanskrit Participles Despite its possession of a rich and complex system of verbal conjugations, or perhaps because of this, Sanskrit shows a marked proclivity for nominalization the substitution of nomi nal forms (सुबन्त-s) for finite verbal forms (तिङन्त-s). This is done through the use of a variety of declinable and indeclin able words, which are derived from the verbal roots. Perhaps the most versatile and useful of these words are the participles (कृदन्त-s). These words are remarkable in that they are adjecti val in form but verbal in function. As a result of this peculiar dual nature it is often possible for one word, formally a simple
+Verbal Adjectives: Sanskrit Participles
 
-177
+Despite its possession of a rich and complex system of verbal conjugations, or perhaps because of this, Sanskrit shows a marked proclivity for nominalization—the substitution of nominal forms (सुबन्त-s) for finite verbal forms (तिङन्त-s). This is done through the use of a variety of declinable and indeclinable words, which are derived from the verbal roots. Perhaps the most versatile and useful of these words are the participles (कृदन्त-s). These words are remarkable in that they are adjectival in form but verbal in function. As a result of this peculiar dual nature it is often possible for one word, formally a simple adjective, to replace virtually an entire clause. Beginning students are particularly fond of these forms as, through their use, they are frequently able to substitute an easily declinable adjective for a possibly obscure and almost certainly forgotten finite verb. Participles, like any nominal forms, may be negated by the prefixing of -अ or before initial vowels, -अन् (see 6.21).
 
-adjective, to replace virtually an entire clause. Beginning stu dents are particularly fond of these forms as, through their use, they are frequently able to substitute an easily declinable adjective for a possibly obscure and almost certainly forgot ten finite verb. Participles, like any nominal forms, may be negated by the prefixing of -37 or before initial vowels, -371 (see 6.21). Example:
+Example:
 
-(vśru) (5P) hear a (śruta) heard
+श्रु (√śru) (5P) hear श्रुत (śruta) heard
 
-Pra (aśruta) unheard
+अश्रुत (aśruta) unheard
 
 10.5
 
+The भूते कृदन्त (Bhūte Kṛdanta): Past-passive Participle
+
+Now that the कर्मणि प्रयोग has been introduced, it is advisable to learn, in conjunction with it, the so-called past-passive participle of Sanskrit. This participle is very common and useful. It is formed from virtually any धातु, or verbal root, and depending mainly on the transitivity of the root, has two basic applications.
+
 10.6
 
-R (Bhūte Krdanta): Past-passive Participle Now that the shit has been introduced, it is advisable to learn, in conjunction with it, the so-called past-passive parti ciple of Sanskrit. This participle is very common and useful. It is formed from virtually any , or verbal root, and de pending mainly on the transitivity of the root, has two basic applications. a. From Hash (transitive) roots, it forms adjectives that indi
+a. From सकर्मक (transitive) roots, it forms adjectives that indicate that the nouns that they modify are the कर्मन्-s (direct objects) of the action expressed by the धातु, or verbal root. Such a verbal adjective, agreeing (here as regards case, number, and gender) with the कर्मन् of its root, is of course a nominalization of the कर्मणि प्रयोग. As such, its subject, if expressed, must be in the तृतीया विभक्ति.
 
-cate that the nouns that they modify are the 24-s (direct objects) of the action expressed by the ET, or verbal root. Such a verbal adjective, agreeing (here as regards case, number, and gender) with the of its root, is of course a nominalization of the cito pirt. As such, its subject, if expressed, must be in the aire fauft. Examples:
-
-राक्षसो हतो रामेण । Vhan (2P) (kill) rākşaso hato rāmeņa.
-
-(The demon is (was) killed by Rāma.)
+Examples:
 
 हन्
 
-पठ् Vpath (1P) (read)
+√han (2P) (kill) राक्षसो हतो रामेण । rākṣaso hato rāmeṇa. (The demon is [was] killed by Rāma.)
 
-तत्पुस्तकं न मया पठितम् । tat pustakam na mayā pațhitam. (That book is (was) not read by me.) (I didn't read the book.)
+पठ्
 
-178
+√paṭh (1P) (read) तत्पुस्तकं न मया पठितम् । tat pustakam na mayā paṭhitam. (That book is [was] not read by me.) (I didn't read the book.)
 
-तानि पुस्तकान्यपठितानि । tāni pustakāny aparhitāni. (Those books have not been read.) त्यक्तां कन्यां पश्यामि । tyaktām kanyām paśyāmi. (I see the abandoned girl.)
+तानि पुस्तकान्यपठितानि । tāni pustakāny apaṭhitāni. (Those books have not been read.)
 
-त्यज
+त्यज्
 
-Ntyaj (1P) (abandon);
+√tyaj (1P) (abandon); त्यक्तां कन्यां पश्यामि । tyaktām kanyām paśyāmi. (I see the abandoned girl.)
 
 छिद्
 
-Vchid (7P) (cut)
+√chid (7P) (cut) किं नश्छिन्नम् । kim naś chinnam? (What of ours is cut? [i.e., What's it to me?])
 
-किं नश्छिन्नम् । kim naś chinnam? (What of ours is cut? [i.e., What's it to me?])
+Note that the action expressed by this usage of the भूते कृदन्त is not necessarily "past." Rather one might say that it is "perfective" in that it is completed and not still in process regardless of the tense of the clause in which it appears.
 
-Note that the action expressed by this usage of the
+b. From अकर्मक (intransitive) धातु-s, or verbal roots, it forms adjectives that indicate that the nouns modified are the कर्तृ-s (subjects) of the action of the धातु, verbal root. This action is frequently in the past. In other words, the participle serves as a nominalization of a simple past tense (e.g., लङ्) in the कर्तरि प्रयोग.
 
-a is not necessarily "past." Rather one might say that it is "perfective" in that it is completed and not still in process regardless of the tense of the clause in which it
+Examples:
 
-appears. b. From 37274 (intransitive) UTC -s, or verbal roots, it
-
-forms adjectives that indicate that the nouns modified are the e-s (subjects) of the action of the Ung, verbal root. This action is frequently in the past. In other words, the participle serves as a nominalization of a simple past tense
-
-(e.g., 5.) in the chair in Examples: i. This usage is especially common with verbs of motion,
-
-which, although they have their locus of motion in the द्वितीया विभक्ति (see 4.38,41), are treated as अकर्मक धातु-s (intransitive roots).
-
-रामो वनं गतः । सीतापि तत्र गता । Vgam (1P) (go) rāmo vanam gataḥ. (Rāma
-
-went to the forest.) sītāpi tatra gatā. (Sītā also went there.)
+i. This usage is especially common with verbs of motion, which, although they have their locus of motion in the द्वितीया विभक्ति (see 4.38, 41), are treated as अकर्मक धातु-s (intransitive roots).
 
 गम्
 
-311 + 91 ā + Vyā (2P) (come)
+√gam (1P) (go) रामो वनं गतः । सीतापि तत्र गता । rāmo vanam gataḥ. (Rāma went to the forest.) sītāpi tatra gatā. (Sītā also went there.)
 
-अहमप्यायातः । aham apy āyātaḥ. (I also came.)179
+आ + या
 
-ii. From other 37931 roots the participle may be an ad
+ā + √yā (2P) (come) अहमप्यायातः । aham apy āyātaḥ. (I also came.)
 
-jective with no particular reference to time.
+ii. From other अकर्मक roots the participle may be an adjective with no particular reference to time.
 
 स्था
 
-बहवो मुनयो वने स्थिताः । Vsthā (1P) (stand) bahavo munayo vane sthitā).
+√sthā (1P) (stand) बहवो मुनयो वने स्थिताः । bahavo munayo vane sthitāḥ. (Many sages are standing (located) in the forest.)
 
-(Many sages are standing (located) in the forest.)
+कुप्
 
-कुप् Vkup (4P) (be angry)
+√kup (4P) (be angry) अतीव कुपितौ तौ द्वौ मुनी । atīva kupitau tau dvau munī. (The two muni-s are extremely angry.)
 
-अतीव कुपितौ तौ द्वौ मुनी । atīva kupitau tau dvau munī. (The two muni-s are extremely angry.)
+मृ
 
-Vmț (6Ā) (die)
-
-सर्वे वीरा मृताः । sarve vīrā mrtāḥ. (All the heroes are dead.)
+√mṛ (6Ā) (die) सर्वे वीरा मृताः । sarve vīrā mṛtāḥ. (All the heroes are dead.)
 
 जन्
 
-Njan (4Ā) (be born)
+√jan (4Ā) (be born) त्वं कुत्र जातः । tvam kutra jātaḥ. (Where were you born?)
 
-त्वं कुत्र जातः । tvam kutra jātaḥ. (Where were you born?)
+By extension, such adjectives may come to be used as nouns in their own right.
 
-NY
+Examples:
 
-By extension, such adjectives may come to be used as nouns in their own right. Examples:
+बुध्
 
-बुद्ध । बुद्धस्य नाम गौतम इति । Vbudh (1P) (be
+√budh (1P) (be enlightened) बुद्ध । बुद्धस्य नाम गौतम इति । buddha (enlightened); buddhasya nāma gautama iti. (The Buddha's name was Gautama.)
 
-buddha (enlightened); enlightened)
+वृध्
 
-buddhasya nāma gautama iti. (The Buddha's name was Gautama.)
-
-वृध
-
-Vvrdh (1Ā) (grow)
-
-TE I TEGI flaga vsddha (fully grown, old); vệddhā kim avadat. (What did the old woman say?)
-
-180
+√vṛdh (1Ā) (grow) वृद्ध । वृद्धा किमवदत् । vṛddha (fully grown, old); vṛddhā kim avadat. (What did the old woman say?)
 
 10.7
 
-The formation of this useful participle is generally quite simple. The participle is invariably an -37 stem adjective. It is usually formed by the suffixation of the syllable - directly to the धातु, or verbal root. a. The root normally shows no strength.
+The formation of this useful participle is generally quite simple. The participle is invariably an -अ stem adjective. It is usually formed by the suffixation of the syllable -त directly to the धातु, or verbal root.
 
-किं त्वया कृतम् । Vkr (8)
+a. The root normally shows no strength.
 
-kim tvaya krtam. (What have you done?)
+कृ
 
-Viru (5)
+√kṛ (8) किं त्वया कृतम् । kim tvayā kṛtam. (What have you done?)
 
-एवं मया श्रुतम् । evam mayā śrutam. (Thus have I heard.)
+श्रु
 
-वि + स्मृ vi + Vsmr (1)
+√śru (5) एवं मया श्रुतम् । evam mayā śrutam. (Thus have I heard.)
 
-अद्यापि सा न मया विस्मृता । adyāpi sā na mayā vismrtā. (Even today, I don't forget her.)
+वि + स्मृ
 
-अभि + भू abhi + vbhū (1)
+vi + √smṛ (1) अद्यापि सा न मया विस्मृता । adyāpi sā na mayā vismṛtā. (Even today, I don't forget her.)
 
-शिवः कथमभिभूतः पार्वत्या । śivah katham abhibhūtaḥ pārvatyā. (How was Siva overcome by Parvati?)
+अभि + भू
 
-b. If the root has a weaker form, the suffix is added to that
+abhi + √bhū (1) शिवः कथमभिभूतः पार्वत्या । śivaḥ katham abhibhūtaḥ pārvatyā. (How was Śiva overcome by Pārvatī?)
 
-(cf.7.1.5.a). Examples:
+b. If the root has a weaker form, the suffix is added to that (cf. 7.1.5.a).
 
-दशति
+Examples:
 
-दष्ट Vdams (1) dasati (bite) dasta (bitten)7.18.c
+दंश्
 
-दंश
+√daṃś (1) दशति daśati (bite) दष्ट daṣṭa (bitten) 7.18.c
 
-बन्ध
+बन्ध्
 
-बध्नाति
-
-बद्ध Vbandh (9) badhnāti (bind) baddha (bound)
+√bandh (9) बध्नाति badhnāti (bind) बद्ध baddha (bound)
 
 This applies also to those roots which are weakened in the कर्मणि प्रयोग (9.27.d).
 
 Examples:
 
-इष्ट Vyaj(1) (sacrifice) ista (sacrificed)
+यज्
 
-य
+√yaj (1) (sacrifice) इष्ट iṣṭa (sacrificed)
 
-181
+वच्
 
-वच
+√vac (2) (speak) उक्त ukta (spoken, said)
 
-उक्त ukta (spoken, said)
+NOTE: The extremely common root √वच् is especially common in कर्मणि forms, and its भूते कृदन्त, उक्त, may refer either to something that was said or to a person addressed. This is often confusing. A good clue is that when the former is meant (something said), it is usually in the नपुंसकलिङ्ग whereas a person addressed will require the participle to be in the gender proper to that person (पुल्लिङ्ग, स्त्रीलिङ्ग).
 
-vvac (2) (speak)
+Examples:
 
-NOTE: The extremely common root va is especially common in 10 forms, an
+यत्त्वयोक्तं तदसत्यमेव । yat tvayoktam, tad asatyam eva. (What you said, is surely false.)
 
-न्त, उक्त, may refer either to something that was said or to a person addressed. This is often confusing. A good clue is that when the former is meant (something said), it is usually in the 794455 whereas a person addressed will require the participle to be in the gender proper to that person (gless, Fifs). Examples: यत्त्वयोक्तं तदसत्यमेव । yat tvayoktam, tad asatyam eva. (What you said, is surely false.)
+एवमुक्ता राक्षसेन सीता भीताभवत् । evam uktā rākṣasena sītā bhītābhavat. (Addressed thus by the demon, Sītā became frightened.)
 
-एवमुक्ता राक्षसेन सीता भीताभवत् । evam uktā rākşasena sītā bhītābhavat. (Addressed thus by the demon, Sītā became frightened.)
+c. A group of roots, some of them very common, ending in nasals, lose the final nasal before the ending -त.
 
-c. A group of roots, some of them very common, ending in
+Examples:
 
-nasals, lose the final nasal before the ending - Examples:
+गम् (√gam) (1) go गत (gata) went
 
-1H (Vgam) (1) go
+यम् (√yam) (1) restrain यत (yata) restrained
 
-Ta (gata) went 44 (Vyam) (1) restrain ya (yata) restrained 74 (Vnam) (1) bend, bow Ta (nata) bent <H (Vram) (1) delight, be a (rata) delighted
+नम् (√nam) (1) bend, bow नत (nata) bent
 
-content & (Vhan) (2) kill 66 (hata) killed The following sound changes should be learned: a. In general, root final -371 or complex vowels become -
+रम् (√ram) (1) delight, be content रत (rata) delighted
 
-before the ending -A. Examples: 4 (Vpā) (1) drink
+हन् (√han) (2) kill हत (hata) killed
 
-1a (pita) drunk (Vgai) (1) sing
+10.8
 
-afta (gita) sung; गीता (gitā) song
+The following sound changes should be learned:
 
-182
+a. In general, root final -आ or complex vowels become -ई before the ending -त.
 
-b.
+Examples:
 
-But, the following important exceptions must be memo rized: i. Ti (Viña) (9) know if (jñāta) known ii. Fell (Vsthā) (1) stand fra (sthita) stood iii. a (1dā) (3) give GF (datta) given iv. UT (Vdhā) (3) place foa (hita) placed A root final voiced aspirate is deaspirated before 7, and the ais voiced and aspirated. (7.26.b) Examples:
+पा (√pā) (1) drink पीत (pīta) drunk
 
-4 (Vbudh) (1) awaken + a (ta) → 96 (buddha)
+गै (√gai) (1) sing गीत (gīta) sung; गीता (gītā) song
 
-awakened FI (Vkşubh) (4) shake + a (ta) → gol (kșubdha)
+But, the following important exceptions must be memorized:
 
-shaken (vlabh) (1) obtain +a (ta) → ou (labdha)
+i. ज्ञा (√jñā) (9) know ज्ञात (jñāta) known
 
-obtained
+ii. स्था (√sthā) (1) stand स्थित (sthita) stood
 
-d.
+iii. दा (√dā) (3) give दत्त (datta) given
 
-C. The roots CE (1) (Vdah—burn) and GE (2) (Vduh—milk)
+iv. धा (√dhā) (3) place हित (hita) placed
 
-are treated as if they were Ge (dagh) and 54 (dugh) re spectively, and the root F (4) (Vnah-bind) as if it were 74 (nadh). GE (Vdah) burn + a (ta) → GU (dagdha) burned
+b. A root final voiced aspirate is deaspirated before त, and the त् is voiced and aspirated. (7.26.b)
 
-€ (duh) milk +a (ta) → Ghu (dugdha) milked TE (Vnah) bind + a (ta) → 76 (naddha) bound Several other roots with final are treated peculiarly: The root final before -a becomes and the is lost. A preceding or 3 vowel is lengthened. In the roots HE (1) (Vsah-endure, bear), and 16 (1) (Vvah-carry), the 37 vowel becomes 371. (See 20.6.i.) Examples: fase (Vlih) (2) lick → m (līdha) licked
+Examples:
 
-E (Vruh) (1) climb, mount → 56 (rūdha) climbed,
+बुध् (√budh) (1) awaken + त (ta) → बुद्ध (buddha) awakened
 
-mounted HE (Vsah) (1) endure → HC (sodha) endured TE (Vvah) (1) carry → ale (vodha) carried
+क्षुभ् (√kṣubh) (4) shake + त (ta) → क्षुब्ध (kṣubdha) shaken
 
-183
+लभ् (√labh) (1) obtain + त (ta) → लब्ध (labdha) obtained
 
-e. See 7.18.e and 34.b for the treatment of the aloog root
+c. The roots दह् (1) (√dah—burn) and दुह् (2) (√duh—milk) are treated as if they were दघ् (dagh) and दुघ् (dugh) respectively, and the root नह् (4) (√nah—bind) as if it were नध् (nadh).
 
-finals and 3 before-a. Note also the change of 7 to after (7.18.b). 7 before or everywhere becomes Examples: y (Vyuj) (7) join F (yukta) joined fan (Ndvis) (2) hate → førse (dvişța) hated C (Ndré) see →
+दह् (√dah) burn + त (ta) → दग्ध (dagdha) burned
 
-See (drsta) seen
+दुह् (√duh) milk + त (ta) → दुग्ध (dugdha) milked
+
+नह् (√nah) bind + त (ta) → नद्ध (naddha) bound
+
+d. Several other roots with final ह् are treated peculiarly: The root final ह् before -त becomes ढ् and the त् is lost. A preceding इ or उ vowel is lengthened. In the roots सह् (1) (√sah—endure, bear), and वह् (1) (√vah—carry), the अ vowel becomes ओ. (See 20.6.i.)
+
+Examples:
+
+लिह् (√lih) (2) lick → लीढ (līḍha) licked
+
+रुह् (√ruh) (1) climb, mount → रूढ (rūḍha) climbed, mounted
+
+सह् (√sah) (1) endure → सोढ (soḍha) endured
+
+वह् (√vah) (1) carry → वोढ (voḍha) carried
+
+e. See 7.18.e and 34.b for the treatment of the तालव्य root finals च् and ज् before -त. Note also the change of त् to द् after ष् (7.18.b). श् before त् or थ् everywhere becomes ष्.
+
+Examples:
+
+युज् (√yuj) (7) join → युक्त (yukta) joined
+
+द्विष् (√dviṣ) (2) hate → द्विष्ट (dviṣṭa) hated
+
+दृश् (√dṛś) see → दृष्ट (dṛṣṭa) seen
 
 10.9
 
-Certain roots are set off from the - ending by the vowel 5. There is no comprehensive set of rules covering all cases of this use of 5. There are, however, certain root finals which generally require it. a. Root final conjuncts.
+Certain roots are set off from the -त ending by the vowel इ. There is no comprehensive set of rules covering all cases of this use of इ. There are, however, certain root finals which generally require it.
 
-Examples: Parc (Wnind) (1) blame → Arca (nindita) blamed gra (Vcumb) (1) kiss → gfaa (cumbita) kissed
+a. Root final conjuncts.
 
-(vśañk) (1) doubt → iga (sañkita) doubted
+Examples:
 
-b. Root final UR consonants.
+निन्द् (√nind) (1) blame → निन्दित (nindita) blamed
 
-Examples: 48 (Vpath) (1) read → od (pathita) read 494 (Vbhāş) (1) speak — WIE (bhāșita) spoken at (Vvas) (1) → (34uş) ► 31 (ușita) dwelt
+चुम्ब् (√cumb) (1) kiss → चुम्बित (cumbita) kissed
 
-dwell
+शङ्क् (√śaṅk) (1) doubt → शङ्कित (śaṅkita) doubted
 
-c. Root final (1) or (v).
+b. Root final मूर्धन्य consonants.
 
-Examples: as (Vcal) (1) move → sita (Njiv) (1) live → Ha (Vsev) (1) serve →
+Examples:
 
-efca (calita) moved sillata (jivita) lived, enlivened Naa (sevita) served
+पठ् (√paṭh) (1) read → पठित (paṭhita) read
+
+भाष् (√bhāṣ) (1) speak → भाषित (bhāṣita) spoken
+
+वस् (√vas) (1) dwell → (उष्—uṣ) → उषित (uṣita) dwelt
+
+c. Root final ल् (l) or व् (v).
+
+Examples:
+
+चल् (√cal) (1) move → चलित (calita) moved
+
+जीव् (√jīv) (1) live → जीवित (jīvita) lived, enlivened
+
+सेव् (√sev) (1) serve → सेवित (sevita) served
 
 d. Root final nonvoiced aspirates.
 
-Examples: free (Vlikh) (6) write → Praa (likhita) written
+Examples:
 
-184
+लिख् (√likh) (6) write → लिखित (likhita) written
 
-All 10th 14 roots take 5, which is added to the strength ened stem. fan (Vcint) (10) think → Papera (cintita) thought
+e. All 10th गण roots take इ, which is added to the strengthened stem.
 
-(Vcur) (10) steal alia (corita) stolen
+चिन्त् (√cint) (10) think → चिन्तित (cintita) thought
 
-10.10 Many other finals may require $. These should simply be
+चुर् (√cur) (10) steal → चोरित (corita) stolen
 
-learned as they are encountered. The following are important examples:
+10.10
 
-(Vpar) (1) fall → upda (patita) fallen C (Vkhād) (1) eat → CUCI (khādita) eaten 4 (Vkup) (4) be angry → Satua (kupita) angry 4 (Vbādh) (1) oppress → alta (bādhita) oppressed
+Many other finals may require इ. These should simply be learned as they are encountered. The following are important examples:
+
+पत् (√pat) (1) fall → पतित (patita) fallen
+
+खाद् (√khād) (1) eat → खादित (khādita) eaten
+
+कुप् (√kup) (4) be angry → कुपित (kupita) angry
+
+बाध् (√bādh) (1) oppress → बाधित (bādhita) oppressed
 
 10.11
 
+The root ग्रह् (9P) (√grah—take hold of) inserts ई before the ending. The correct form, then, is गृहीत (gṛhīta—taken).
+
 10.12
 
-The root T (9P) (Vgrah-take hold of) inserts $ before the ending. The correct form, then, is Tata (gshita—taken). A few roots form the EGR with the suffix -7. The largest class of these are roots ending inc. The before the 7 of the ending is peculiar in that it assimilates completely and be comes 7. Examples:
+A few roots form the भूते कृदन्त with the suffix -न. The largest class of these are roots ending in द्. The द् before the न् of the ending is peculiar in that it assimilates completely and becomes न्.
 
-FOG (Ichid) (7) cut → Pes (chinna) cut
+Examples:
 
-PTG (Vbhid) (7) split → (bhinna) separated, split
+छिद् (√chid) (7) cut → छिन्न (chinna) cut
 
-· (Vpad) (4) move → 45 (panna) moved There are other roots which take this ending and which are simply learned as encountered. Examples:
+भिद् (√bhid) (7) split → भिन्न (bhinna) separated, split
 
-(Vp7) (9) fill →
+पद् (√pad) (4) move → पन्न (panna) moved
 
-pūrņa) full, filled (Vin) (4) waste away → stof (jirņa) wasted, aged (Vli) (4) cling →
+There are other roots which take this ending and which are simply learned as encountered.
 
-लीन (lina)attached ET (Whā) (3) abandon → ta (hina) abandoned
+Examples:
 
-(VF) (1) cross →
+पृ (√pṝ) (9) fill → पूर्ण (pūrṇa) full, filled
 
-auf (tirņa) crossed
+जॄ (√jṝ) (4) waste away → जीर्ण (jīrṇa) wasted, aged
 
-inue to
+ली (√lī) (4) cling → लीन (līna) attached
 
-185
+हा (√hā) (3) abandon → हीन (hīna) abandoned
+
+तृ (√tṝ) (1) cross → तीर्ण (tīrṇa) crossed
 
 EXERCISES
 
-A.
+A. Translate the reading into English.
 
-Translate the reading into English. Translate the following into Sanskrit using th wherever possible.
+B. Translate the following into Sanskrit using the भूते कृदन्त wherever possible.
 
-1. I think that Siva and Vişnu are the (two) fathers of the
+1. I think that Śiva and Viṣṇu are the (two) fathers of the world.
 
-world. 2. If all the rākşasas are slain by Rāma, how then do we see
+2. If all the rākṣasas are slain by Rāma, how then do we see them in the hermitage?
 
-them in the hermitage? 3. Lakşmaņa never abandons his dear brother. If a brother
+3. Lakṣmaṇa never abandons his dear brother. If a brother is slain, whence comes another?
 
-is slain, whence comes another? 4. Sītā said, "If I am abandoned by my husband, how will I
+4. Sītā said, "If I am abandoned by my husband, how will I stay in Ayodhyā?"
 
-stay in Ayodhyā?" 5. Gautama's daughter is desired by the aged victor. 6. Bound and bowed, he was abandoned in the prison by
+5. Gautama's daughter is desired by the aged victor.
 
-mother and daughter, like an old pot 7. The jewel was acquired by my brother, but in the course
+6. Bound and bowed, he was abandoned in the prison by mother and daughter, like an old pot.
 
-of time, it was forgotten by him. 8. The land was shaken by Indra's thunder, and the people
+7. The jewel was acquired by my brother, but in the course of time, it was forgotten by him.
 
-were overcome with fear. 9. The words were spoken to her father, but their truth was
+8. The land was shaken by Indra's thunder, and the people were overcome with fear.
 
-doubted by him. 10. The queen was served by my mother, and to her was given
+9. The words were spoken to her father, but their truth was doubted by him.
 
-a gem as brilliant as the sun. Memorize the following verse.
+10. The queen was served by my mother, and to her was given a gem as brilliant as the sun.
 
-as
-
-C.
+C. Memorize the following verse.
 
 चितां प्रज्वलितां दृष्ट्वा वैद्यो विस्मयमागतः ।
 
 नाहं गतो न मे भ्राता कस्येदं हस्तलाघवम् ॥
 
-Seeing the blazing funeral pyre, the doctor is greatly aston ished, “I didn't attend him, nor did my brother. Whose skill, then, has accomplished this?"
-
-186
+Seeing the blazing funeral pyre, the doctor is greatly astonished, "I didn't attend him, nor did my brother. Whose skill, then, has accomplished this?"
 
 READING
 
-यदा दशरथस्याज्ञा जनैः श्रुता तदायोध्यानन्देन पूर्णेवाभवत् । नगरस्य मार्गेषु लोका गायन्ति नृत्यन्ति च । तेन च स्वर्गे ऽपि देवास्तुष्टा अभवन् । अहो वृद्धेन पित्रा राघवो राजा कृत इत्युक्तं तैः । किं बहुना । अभिषेकस्य श्रवणादयोध्यानन्दस्य सागरे निसग्नेवाभवत् । पितुर्वचनं श्रूयते रामेणापि । तेन वचनेन प्रमुदितो ऽपि स दुःखस्य लेशमन्वभवत् । यदि राज्यं मया क्रियते तर्हि प्रियः पिता वनं गच्छति । तदा भ्रातृभिः सह कथमिह तिष्ठाम्यहमिति ॥
-
-187
+यदा दशरथस्याज्ञा जनैः श्रुता तदायोध्यानन्देन पूर्णेवाभवत् । नगरस्य मार्गेषु लोका गायन्ति नृत्यन्ति च । तेन च स्वर्गे ऽपि देवास्तुष्टा अभवन् । अहो वृद्धेन पित्रा राघवो राजा कृत इत्युक्तं तैः । किं बहुना । अभिषेकस्य श्रवणादयोध्यानन्दस्य सागरे निमग्नेवाभवत् । पितुर्वचनं श्रूयते रामेणापि । तेन वचनेन प्रमुदितो ऽपि स दुःखस्य लेशमन्वभवत् । यदि राज्यं मया क्रियते तर्हि प्रियः पिता वनं गच्छति । तदा भ्रातृभिः सह कथमिह तिष्ठाम्यहमिति ॥
 
 GLOSSARY
 
-अभि +भू abhi + Vbhū (1P)-overcome
+अभि + भू
 
-गर्जनम् garjanam (n)--thunder गै (गायति) Vgai (1P) (gāyati)—sing
+abhi + √bhū (1P)—overcome
 
-अभिभूत abhibhūta (adj) overcome
+गर्जनम्
+
+garjanam (n)—thunder
+
+गै (गायति)
+
+√gai (1P) (gāyati)—sing
+
+अभिभूत
+
+abhibhūta (adj)—overcome
 
 गौतमः
 
-इन्द्रः indrah (m prop)—Indra
+gautamaḥ (m prop)—Gautama
 
-gautamah (m prop)
+इन्द्रः
 
-Gautama
+indraḥ (m prop)—Indra
 
 जीर्ण
 
-इष्ट ista (adj)-desired
+jīrṇa (adj)—old, aged
+
+इष्ट
+
+iṣṭa (adj)—desired
 
 इह
 
-jīrņa (adj) old, aged
-
-जीवित | jivita (adj)-living
-
 iha (ind)—here
 
-Vjf (1P)—waste away, age (also | 4P जीर्यति—jiryati)
+जीवित
 
-जेतु | jetr (m)-victor, conqueror
+jīvita (adj)—living
 
-त्यज
+जॄ
 
-Vtyaj(1P) abandon
+√jṝ (1P)—waste away, age (also 4P जीर्यति—jīryati)
 
-उक्त ukta (adj)-spoken, spoken to,
+उक्त
 
-addressed (see 10.7.b) कर्तृ kartr (m)–doer, agent,
+ukta (adj)—spoken, spoken to, addressed (see 10.7.b)
 
-grammatical subject किं बहुना kim bahunā (idiom)—'why
+जेतृ
 
-continue on' (e.g., किं बहुना प्रलापेन_'what is the use of prattling on,' see 4.42.b) कृत krta (adj) done, made
+jetṛ (m)—victor, conqueror
 
-कुम्भः kumbhaḥ (m)-pot क्षुब्ध kşubdha (adj)—agitated, shaken
+त्यज्
 
-त्यक्त tyakta (adj)—abandoned दीप्त dipta (adj)-shining, brilliant दुहितु duhitr (f)-daughter
+√tyaj (1P)—abandon
 
-नगरम् nagaram (n)-city
+कर्तृ
+
+kartṛ (m)—doer, agent, grammatical subject
+
+किं बहुना
+
+kim bahunā (idiom)—'why continue on' (e.g., किं बहुना प्रलापेन—'what is the use of prattling on,' see 4.42.b)
+
+कृत
+
+kṛta (adj)—done, made
+
+कुम्भः
+
+kumbhaḥ (m)—pot
+
+क्षुब्ध
+
+kṣubdha (adj)—agitated, shaken
+
+त्यक्त
+
+tyakta (adj)—abandoned
+
+दीप्त
+
+dīpta (adj)—shining, brilliant
+
+दुहितृ
+
+duhitṛ (f)—daughter
+
+नगरम्
+
+nagaram (n)—city
 
 नत
 
-| nata (adj)
+nata (adj)—bowed, bent
 
-bowed, bent
+भर्तृ
 
-188
+bhartṛ (m)—husband, lord (belongs to the class of agent nouns despite the fact that it seems like a kinship term)
 
-| भर्तृ
+नद्ध
 
-नद्ध naddha (adj)—bound
+naddha (adj)—bound
 
-नम् Vnam (1P)—bow, bend
+नम्
 
-bhartr (m)-husband, lord
+√nam (1P)—bow, bend
 
-(belongs to the class of agent nouns despite the fact that it seems like a kinship term)
+नह्
 
-नह
+√nah (4P)—bind
 
 भ्रातृ
 
-Vnah (4P)—bind निमग्न nimagna (adj) —sunk
+bhrātṛ (m)—brother
 
-vni (1P)—lead
+निमग्न
+
+nimagna (adj)—sunk
+
+नी
+
+√nī (1P)—lead
+
+भीतिः
+
+bhītiḥ (f)—fear
 
 नृत्
 
-bhrātr (m) brother भीतिः bhītiḥ (f)-fear भूमिः bhumih (f)—land, earth मणिः
+√nṛt (4Ā)—dance
 
-manih (m)-jewel मातृ māt? (f)-mother
+भूमिः
 
-vnrt (4A)-dance
+bhūmiḥ (f)—land, earth
 
-netr (m)-leader
+मणिः
+
+maṇiḥ (m)—jewel
+
+मातृ
+
+mātṛ (f)—mother
+
+नेतृ
+
+netṛ (m)—leader
 
 पत्
 
-Vpat (1P)-fall
+√pat (1P)—fall
 
 मार्गः
 
-पित
+mārgaḥ (m)—path, road
 
-margah (m)-path, road
+पितृ
 
-ल
+pitṛ (m)—father
+
+लभ्
+
+√labh (1Ā)—acquire, gain
 
 पूर्ण
 
-pitr (m)-father
+pūrṇa (adj)—full
 
-Vlabh (1Ā)—acquire, gain pūrņa (adj)—full
+लब्ध
 
-लब्ध प्रमुदित
+labdha (adj)—acquired, gained
 
-labdha (adj)—acquired, gained pramudita (adj)-delighted, लेशः
+प्रमुदित
 
-pleased
+pramudita (adj)—delighted, pleased
 
-leśaḥ (m)-little, small bit, trace बन्धनागारः bandhanāgāraḥ (m)-prison Vsank (1Ā) doubt
+लेशः
+
+leśaḥ (m)—little, small bit, trace
+
+बन्धनागारः
+
+bandhanāgāraḥ (m)—prison
+
+शङ्क्
+
+√śaṅk (1Ā)—doubt
 
 बुद्ध
 
-शङ्कित buddha (adj)-awake, enlighten; | sankita (adj)-doubted
+buddha (adj)—awake, enlighten; -ḥ (m)—the Buddha
 
--h (m)—the Buddha
+शङ्कित
 
-श्रवणम् Sravanam (n) hearing
+śaṅkita (adj)—doubted
 
-शङ्क189
+श्रवणम्
 
-श्रुत śruta (adj)-heard
+śravaṇam (n)—hearing
 
-सत्य satya (adj)-real, true; -m (n)
+श्रुत
 
-reality, truth
+śruta (adj)—heard
 
-सागरः sāgarah (m)—ocean
+सागरः
 
-सेव Vsev (1Ā)-attend on, serve सेवित sevita (adj)—served
+sāgaraḥ (m)—ocean
+
+सत्य
+
+satya (adj)—real, true; -m (n)—reality, truth
+
+सेव्
+
+√sev (1Ā)—attend on, serve
+
+सेवित
+
+sevita (adj)—served

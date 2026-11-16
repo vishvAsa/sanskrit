@@ -5,6353 +5,8924 @@ short_title = "GLOSSARY"
 +++
 GLOSSARY
 
+-अ-
 
--अ
-
--a
+-a-
 
 (Arabic Numerals following definitions refer to Lessons.)
 
-अ- अन्
+अ- अन्-
 
-अङ्गीकृ a-, an--negative prefix for nomi- angikr (8P) accept, agree to (20)
+a-, an-—negative prefix for nominal or indeclinable forms: un-, non-, without-, -less (14)
 
-nal or indeclinable forms: un-, | अचिरान non-, without-, -less (14)
+अकम्पनः
 
-acirāt (ind)—shortly, soon (12) अकम्पनः
+akampanaḥ (m prop)—name of a rākṣasa (20)
 
-अजित akampanah (m prop)-name of a
+अकृत
 
-ajita (adj)—unconquered (14) raksasa (20)
+akṛta (adj)—undone
 
-अञ्जलिः अकृत
+अक्षरम्
 
-anjalih (m)–gesture of reverence akrta (adj)—undone
+akṣaram (n)—syllable, sound, word (15)
 
-or supplication made by plac अक्षरम्
+अगम्य
 
-ing the palms together (16) aksaram (n)-syllable, sound, अन.
+agamya (adj)—to be avoided (9 verse)
 
-word (15)
+अग्निः
 
-ataḥ (ind)—from this, hence, अगम्य
+agniḥ (m)—fire (15)
 
-therefore (21) . agamya (adj)—to be avoided (9
+अग्निसाक्षिक
 
-verse)
-
-ati (ind)—a prefix used with ad अग्निः
-
-jectives and adverbs meaning agnih (m)-fire (15)
-
-'very,' 'too,' or 'excessively' अग्निसाक्षिक
-
-(13) agnisaksika (adj)—having fire for | | अति + क्रम्
-
-a witness (22)
-
-ati + Vkram (1P)—transgress
-
-अति + पत् agra (adj)—first (19)
-
-ati + Vpat (1P)-skip over
-
-अग्रतः
-
-अतीव agrataḥ-in front of (20)
-
-ativa (ind) exceedingly, very (4) अङ्कित
-
-अत्र ankita—marked (18 verse) atra (ind)—here, just now
-
-अति
+agnisākṣika (adj)—having fire for a witness (22)
 
 अग्र
 
-436
+agra (adj)—first (19)
 
-अथ
+अग्रतः
 
-अद्य
+agrataḥ—in front of (20)
+
+अङ्कित
+
+aṅkita—marked (18 verse)
+
+अङ्गीकृ
+
+aṅgīkṛ (8P)—accept, agree to (20)
+
+अचिरात्
+
+acirāt (ind)—shortly, soon (12)
+
+अजित
+
+ajita (adj)—unconquered (14)
+
+अञ्जलिः
+
+añjaliḥ (m)—gesture of reverence or supplication made by placing the palms together (16)
+
+अतः
+
+ataḥ (ind)—from this, hence, therefore (21)
+
+अति
+
+ati (ind)—a prefix used with adjectives and adverbs meaning 'very,' 'too,' or 'excessively' (13)
+
+अति + क्रम्
+
+ati + √kram (1P)—transgress
+
+अति + पत्
+
+ati + √pat (1P)—skip over
+
+अतीव
+
+atīva (ind)—exceedingly, very (4)
+
+अत्र
+
+atra (ind)—here, just now
 
 अत्रभवन्त्
 
-अध्यापकः atrabhavant (m)—2nd or 3rd per-adhyāpakah (m)—teacher
+atrabhavant (m)—2nd or 3rd person pronoun: he, you (verb always in 3rd, term of extreme respect) (11)
 
-son pronoun: he, you (verb al
+अत्यन्तम्
 
-अनघ ways in 3rd, term of extremere
+atyantam (ind)—exceedingly
 
-anagha (adj)—sinless (22) spect) (11)
+अथ
 
-अनन्तरम् अत्यन्तम्
+atha (ind)—now, then (6)
 
-anantaram (ind)-after (9) atyantam (ind)—exceedingly
+अद्
+
+√ad (2P)—eat
+
+अद्य
+
+adya (ind)—today (13)
+
+अधिक
+
+adhika (adj)—greater (with पञ्चमी—greater than) (7 verse)
+
+अधि + कृ
+
+adhi + √kṛ (8P)—authorize
+
+अधि + गम्
+
+adhi + √gam (1P)—attain (9)
+
+अधिपः
+
+adhipaḥ (m)—ruler (16)
+
+अधिपतिः
+
+adhipatiḥ (m)—king
+
+अधिराजः
+
+adhirājaḥ (m)—overlord, king (19)
+
+अधी (अधि + इ)
+
+adhī (adhi + √i) (2Ā)—learn
+
+अधुना
+
+adhunā (ind)—now, at present (11)
+
+अध्यापकः
+
+adhyāpakaḥ (m)—teacher
+
+अनघ
+
+anagha (adj)—sinless (22)
+
+अनन्तरम्
+
+anantaram (ind)—after (9)
 
 अनिलः
 
-anilah (m)-wind atha (ind)—now, then (6)
+anilaḥ (m)—wind
 
-अनिलात्मजः अद्
+अनिलात्मजः
 
-anilātmajah (m)—son of the wind, Vad (2P)—eat
+anilātmajaḥ (m)—son of the wind, Hanumān (13 verse)
 
-__Hanuman (13 verse)
+अनिवर्तिन्
 
-अनिवर्तिन् adya (ind)—today (13)
+anivartin (adj)—not turning back (20)
 
-anivartin (adj)—not turning back अधिक
+अनुकथनम्
 
-(20) adhika (adj)-greater (with | अनकथनम
+anukathanam (n)—account, tale (22)
 
-पञ्चमी—greater than) (7 verse)
+अनु + कृ
 
-anukathanam (n)—account, tale अधि + कृ
+anu + √kṛ (8P)—imitate
 
-(22) adhi + Vkp (8P)-authorize
+अनुगृहीत
 
-अनु + कृ अधि+ गम्
+anugṛhīta (adj)—gratified, indebted
 
-anu + Vkļ (8P)—imitate adhi + Vgam (1P)—attain (9)
+अनुचरः
 
-अनुगृहीत अधिपः
+anucaraḥ (m)—servant, attendant
 
-anugļhita (adj)-gratified, in adhipah (m)—ruler (16)
+अनुजः
 
-debted अधिपतिः
+anujaḥ (m)—'born after' i.e., younger brother (17)
 
-अनुचरः adhipatih (m)-king
+अनु + जन्
 
-anucarah (m) servant, attendant अधिराजः
-
-अनुजः adhirajah (m) overlord, king (19) | anujah (m)—'born after' i.e., अधी (अधि+ इ)
-
-younger brother (17)
-
-adhi (adhi + Vi) (2A)-learn अनु + जन्
-
-anu + Vjan (4P)—be born after अधुना adhunā (ind)—now, at present (11)
-
-in
-
-437
+anu + √jan (4P)—be born after
 
 अनु + ज्ञा
 
-| अनुवर्तिन् anu + vjñā (9P)—permit (9) anuvartin (adj)-obedient (20) अनुज्ञा
+anu + √jñā (9P)—permit (9)
 
-अनु + सृ anujñā (f)-permission (7) anu + Vsr (1P)-follow अनु + नी
+अनुज्ञा
 
-अनु + स्मृ anu + Vni (1P)—conciliate, win anu + Vamp (1P)—recall, remem
+anujñā (f)—permission (7)
 
-over (11 verse)
+अनु + नी
 
-ber (11) अनु + प्र + आप
+anu + √nī (1P)—conciliate, win over (11 verse)
 
-अन्तः anu + pra + Vāp (5P)—obtain, get antaḥ (m)-end (16)
+अनु + प्र + आप्
 
-(22)
+anu + pra + √āp (5P)—obtain, get (22)
 
-अन्तःपुरम् अनु + भू
+अनु + भू
 
-antahpuram (n)-inner apartment, anu + Vbhū(1P)-experience, feel | esp., women's chambers (14)
+anu + √bhū (1P)—experience, feel (4)
 
-(4)
+अनु + मानय्
 
-अन्तकः अनु + मानय्
+anu + mānay (णिजन्त of अनु + √मन्)—reassure (22)
 
-antakah (m)-death (lit., "ender") anu + mānay (forts of 317 + ___ (20)
+अनु + या
 
-1471) reassure (22)
+anu + √yā (2P)—follow (11 verse)
 
-अन्ततः अनु + या
+अनु + रञ्ज्
 
-antataḥ (ind)—finally (8) anu + Vyā (2P)—follow (11 verse)
+anu + √rañj (4Ā)—be fond of, like (8)
 
-अन्तरम् अनु + रञ्ज
+अनुरूप
 
-antaram (n)-interior, inside; anu + Vranij(4A)—be fond of, like | अन्तरात् (ind)—from inside, from
+anurūpa (adj)—conformable, suitable (19)
 
-out of (21) अनुरूप
+अनुरूपक
 
-अन्तर् + गम् anurūpa (adj) conformable, suit- antar + Vgam (1P)—insinuate
+anurūpaka (adj)—like, the same as (21)
 
-able (19)
+अनु + वद्
 
-अन्तर् +धा अनुरूपक
+anu + √vad (1P)—repeat
 
-antar + Vdhā (3P) hide (9) anurūpaka (adj)—like, the same as
+अनुवर्तिन्
 
-अन्तिम (21)
+anuvartin (adj)—obedient (20)
 
-antima (adj)-final, last अनु+वद्
+अनु + सृ
 
-अन्त्य anu + Vvad (1P)-repeat
+anu + √sṛ (1P)—follow
+
+अनु + स्मृ
+
+anu + √smṛ (1P)—recall, remember (11)
+
+अन्तः
+
+antaḥ (m)—end (16)
+
+अन्तःपुरम्
+
+antaḥpuram (n)—inner apartment, esp., women's chambers (14)
+
+अन्तकः
+
+antakaḥ (m)—death (lit., "ender") (20)
+
+अन्ततः
+
+antataḥ (ind)—finally (8)
+
+अन्तरम्
+
+antaram (n)—interior, inside; अन्तरात् (ind)—from inside, from out of (21)
+
+अन्तर् + गम्
+
+antar + √gam (1P)—insinuate
+
+अन्तर् + धा
+
+antar + √dhā (3P)—hide (9)
+
+अन्तिम
+
+antima (adj)—final, last
+
+अन्त्य
 
 antya (adj)—final, last (20 verse)
 
-(8)
-
-438
-
-अपि
-
-अप्
-
-अपूज्य
-
 अन्य
 
-अपहर्तव्य anya (adj) other (declined pro- | apahartavya (adj) to be abducted
-
-nominally; see 5.7) (5)
-
-(21)
+anya (adj)—other (declined pronominally; see 5.7) (5)
 
 अन्यथा
 
-अप + हृ anyathā (ind) otherwise (19) | apa + Vhr (1P) abduct (21)
+anyathā (ind)—otherwise (19)
 
-अन्यदा anyadā (ind)—another time api (ind)—also, too, even; question
+अन्यदा
 
-marker, indefinite marker (with
+anyadā (ind)—another time
+
+अप्
 
 ap (f pl only)—waters (22)
 
-interrogative pronouns; see
+अपक्रान्त
 
-6.19) (4) अपक्रान्त
+apakrānta (adj)—gone away (21)
 
-अपि च apakrānta (adj) gone away (21)
+अपण्डित
 
-api ca (ind)—moreover (9) अपण्डित apandita (adj)-unwise, foolish
+apaṇḍita (adj)—unwise, foolish
 
-apūjya (adj)—dishonorable (lit., अप+नी
+अप + नी
 
-not to be worshipped) (9 verse) apa + Vni (1P)-remove, lead
+apa + √nī (1P)—remove, lead away
 
-अप्रज away
+अप + नुद्
 
-apraja (adj)-childless (from अप + नुद्
+apa + √nud (6P)—drive away
 
-अप्रजा; as बहुव्रीहि) apa + Vnud (6P)-drive away
+अपर
 
-अप्सरस् अपर
+apara (adj)—other, another (9, 17) (declined like a pronoun see 5.7)
 
-apsaras (f)—heavenly nymph apara (adj)—other, another (9, 17) (declined like a pronoun see 5.7)
+अपराधः
+
+aparādhaḥ (m)—sin, offence (13)
+
+अप + वद्
+
+apa + √vad (1P)—revile (8)
+
+अपवाहय्
+
+apavāhay (णिजन्त of अप + √वह्)—lure away (22)
+
+अपहर्तव्य
+
+apahartavya (adj)—to be abducted (21)
+
+अप + हृ
+
+apa + √hṛ (1P)—abduct (21)
+
+अपि
+
+api (ind)—also, too, even; question marker, indefinite marker (with interrogative pronouns; see 6.19) (4)
+
+अपि च
+
+api ca (ind)—moreover (9)
+
+अपूज्य
+
+apūjya (adj)—dishonorable (lit., not to be worshipped) (9 verse)
+
+अप्रज
+
+apraja (adj)—childless (from अप्रजा; as बहुव्रीहि)
+
+अप्सरस्
+
+apsaras (f)—heavenly nymph
 
 अभयम्
 
-abhayam (n)-security (19verse) अपराधः aparadhah (m)-sin, offence (13)
+abhayam (n)—security (19 verse)
 
 अभि + गम्
 
-abhi + Vgam (1P)—approach (8) अप+ वद्
+abhi + √gam (1P)—approach (8)
 
-अभि + जि apa + Vvad (1P)-revile (8)
+अभि + जि
 
-abhi + vji (1P)-win (8) अपवाहय् apavāhay (णिजन्त of अप + Vवह्)
+abhi + √ji (1P)—win (8)
 
 अभि + ज्ञा
 
-lure away (22)
+abhi + √jñā (9P)—recognize
 
-abhi + Vjñā (9P)-recognize
+अभिज्ञात
 
-अभिज्ञात abhijnata (adj) recognized, known439
+abhijñāta (adj)—recognized, known
 
-अर्थः
+अभि + धा
 
-अभि+धा
+abhi + √dhā (3P)—say, tell, name
 
-अयोध्या abhi + Vdhā (3P)—say, tell, name ayodhyā (f prop)-Ayodhyā, Dasa अभि + भाष
+अभि + भाष्
 
-ratha's capital city (5) abhi + Vbhās (1A)-speak, say अरण्यम्
+abhi + √bhāṣ (1Ā)—speak, say
 
 अभि + भू
 
-aranyam (n)—forest (7) abhi + Vbhū(1P) overcome (10) | अरिः
+abhi + √bhū (1P)—overcome (10)
 
 अभिभूत
 
-arih (m) enemy (19)
+abhibhūta (adj)—overcome (10)
 
-अर्णवः abhibhūta (adj) overcome (10)
+अभि + षिच्
 
-arnavah (m) sea, ocean (16, 22) अभि + षिच abhi + Vsic (6P)-anoint, conse
+abhi + √ṣic (6P)—anoint, consecrate (17)
 
-arthah (m) meaning (13) crate (17) अभिषेकः
+अभिषेकः
+
+abhiṣekaḥ (m)—consecration, coronation (9); ablution, ritual bath (19)
+
+अभि + हन्
+
+abhi + √han (2P)—annihilate, slay
+
+अभिहत
+
+abhihata (adj)—slain, annihilated (5 verse, 20)
+
+अमर
+
+amara (adj)—immortal (21); (m)—a god
+
+अम्बरम्
+
+ambaram (n)—garment (20)
+
+अम्बा
+
+ambā (f)—mother (irregular संबोधनम्—अम्ब) (11)
+
+अयम्
+
+ayam (pr)—this, that (see 19.1)
+
+अयोध्या
+
+ayodhyā (f prop)—Ayodhyā, Daśaratha's capital city (5)
+
+अरण्यम्
+
+araṇyam (n)—forest (7)
+
+अरिः
+
+ariḥ (m)—enemy (19)
+
+अर्णवः
+
+arṇavaḥ (m)—sea, ocean (16, 22)
+
+अर्थः
+
+arthaḥ (m)—meaning (13)
 
 अर्थम्
 
-artham (ind)—'for the sakeof' (at abhisekah (m) consecration, coro nation (9); ablution, ritual bath
+artham (ind)—'for the sake of' (at end of compound) (20 verse)
 
-___end of compound) (20 verse)
+अर्ह्
 
-(19)
+√arh (1P)—be fit, worthy; auxiliary with infinitive forms, polite imperative (13)
 
 अर्ह
-
-अभि+ हन्
-
-Varh (1P)—be fit, worthy; auxil abhi + Vhan (2P)—annihilate, slay
-
-iary with infinitive forms, polite
-
-imperative (13) अभिहत abhihata (adj)—slain, annihilated
-
-(5 verse, 20)
 
 arha (adj)—worthy
 
-अलम् अमर amara (adj)-immortal (21);
+अलम्
 
-alam (ind)—enough, sufficient;
+alam (ind)—enough, sufficient; with instrumental, 'enough of' (15)
 
-with instrumental, 'enough of - (m)—a god
+अलम् + कृ
 
-(15) अम्बरम्
+alam + √kṛ (8P)—adorn
 
-अलम् + कृ ambaram (n)-garment (20)
+अलंकृत
 
-alam + Vk? (8P)—adorn अम्बा
+alaṃkṛta (adj)—ornamented (8 verse, 19 verse)
 
-अलंकृत amba (f)-mother (irregular
+अल्पोदरी
 
-संबोधनम्-अम्ब) (11)
+alpodarī (f)—having a small belly (19)
 
-| alamkrta (adj) ornamented (8
+अव + गम्
 
-verse, 19 verse) अयम् ayam (pr)—this, that (see 19.1)
-
-अर्ह
-
-440
-
-अस्
-
-अह
-
-अल्पोदरी alpodari (f)—having a small belly Vas (2P)—to be (4)
-
-(19)
-
-असंशयम् अव+ गम्
-
-asamayam (ind)-doubtlessly ava + Vgam (1P)—understand (6)
+ava + √gam (1P)—understand (6)
 
 अवन्द्य
 
-असिः avandya (adj)—not to be praised, asih (m)-sword
+avandya (adj)—not to be praised, blameworthy (9 verse)
 
-blameworthy (9 verse)
+अव + बुध्
 
-असुरः अव+बुध्
-
-asurah (m)-asura, demon, titan ava+ Vbudh (4A)-understand (7 __ (21)
-
-verse)
+ava + √budh (4Ā)—understand (7 verse)
 
 अवश्यम्
 
-Vah (only in लिट्)-say, tell avaśyam (ind) certainly, neces- अहः
+avaśyam (ind)—certainly, necessarily
 
-sarily
+अवाप् (अव + आप्)
 
-ahah (n)–day (see 21.3.g) अवाप् (अव + आप्)
+avāp (ava + √āp) (5P)—obtain (22)
 
-अहम् avap (ava+Vap) (5P) obtain (22) | aham (pr)—I (4.46)
+अष्टन्
 
-अष्टन astan (adj) eight (see 19.6) aho (ind)—"aha!" अशनिः aśaniḥ (f)—bolt of lightning (11)
+aṣṭan (adj)—eight (see 19.6)
 
--आ
+अशानिः
 
-अशोकवनिका asokavanika(1)-agrove of Asoka | आ + कर्णय
+aśaniḥ (f)—bolt of lightning (11)
 
-trees, scene of Sita's confine
+अशोकवनिका
 
-a+vkarnay (नामधातु)-hear (21) ment (22)
-
-आकाशाम्
-
-ākāśam (n)—sky (16) aśru (n)—tear (13)
-
-आकुल अश्रुत
-
-ākula (adj)-distressed, agitated asruta (adj)-unheard
-
-(12); confused (22) अश्वः asvah (m)—horse
-
-अहो
+aśokavanikā (f)—a grove of Aśoka trees, scene of Sītā's confinement (22)
 
 अश्रु
 
-441
+aśru (n)—tear (13)
+
+अश्रुत
+
+aśruta (adj)—unheard
+
+अश्वः
+
+aśvaḥ (m)—horse
+
+अस्
+
+√as (2P)—to be (4)
+
+असंशयम्
+
+asaṃśayam (ind)—doubtlessly (21)
+
+असिः
+
+asiḥ (m)—sword
+
+असुरः
+
+asuraḥ (m)—asura, demon, titan (21)
+
+अह्
+
+√ah (only in लिट्)—say, tell
+
+अहः
+
+ahaḥ (n)—day (see 21.3.g)
+
+अहम्
+
+aham (pr)—I (4.46)
+
+अहो
+
+aho (ind)—"aha!"
+
+-आ-
+
+-ā-
+
+आ + कर्णय्
+
+ā + √karṇay (नामधातु)—hear (21)
+
+आकाशम्
+
+ākāśam (n)—sky (16)
+
+आकुल
+
+ākula (adj)—distressed, agitated (12); confused (22)
 
 आक्रान्त
 
-आदितः akrānta (adj)-occupied, taken aditah (ind) from the beginning
+ākrānta (adj)—occupied, taken over (18 verse)
 
-over (18 verse)
+आ + ख्या
 
-(17,22) आ + ख्या
-
-| आदित्यः ā + Vkhyā (2P)—tell, relate (22) ādityaḥ (m)—sun (22)
+ā + √khyā (2P)—tell, relate (22)
 
 आख्यानम्
 
-आननम् ākhyānam (n)-story, episode (22) ānanam (n)—face (13)
+ākhyānam (n)—story, episode (22)
 
 आ + गम्
 
-आनन्दः ā + Vgam (1P)—come (4) ānandaḥ (m)-joy, bliss (6)
+ā + √gam (1P)—come (4)
 
 आ + चर्
 
-आ + नी ā + Vcar (1P)-practice (7) a + Vni (1P)—bring, fetch (17)
+ā + √car (1P)—practice (7)
 
 आच्छादित
 
-आप acchādita (adj)-covered, envel- | Vap (5P)—obtain (7)
+ācchādita (adj)—covered, enveloped (19)
 
-oped (19)
+आ + ज्ञा
 
-आ+या आ + ज्ञा
+ā + √jñā (9P)—know; णिजन्त—order, command (21)
 
-| a + Vya (2P)—come (7, 22) a + vjna (9P)-know; णिजन्त-or- |
+आज्ञा
 
-आयुष्य der, command (21) .
+ājñā (f)—order, command (9)
 
-āyusya (adj)—conducive to long आज्ञा
+आत्मजः
 
-_life (22) ājñā (f)-order, command (9)
+ātmajaḥ (m)—son (22)
 
-आ + र आत्मजः
+आत्मन्
 
-ā + Vrabh (1Ā)—begin, undertake ātmajah (m)—son (22)
+ātman (m)—self, Self (7 verse, 8); commonly used as reflexive.
 
-आरब्ध आत्मन्
+आदरः
 
-ārabdha (adj)—undertaken, at ātman (m)self, Self (7 verse, 8); tempted
+ādaraḥ (m)—honor, respect
 
-commonly used as reflexive.
+आ + दा
 
-आ + रुह आदरः
-
-ā + Vruh (1P)—ascend (to) (15) adarah (m)—honor, respect
-
-आ+दा
-
-ārta (adj)-afflicted with (20) ā + Vdā (3P)--take, assume (21) आर्यः
+ā + √dā (3P)—take, assume (21)
 
 आदिः
 
-aryah (m)-sir (term of address; ādiḥ (m)—beginning (15) | lit., noble person) (11)
+ādiḥ (m)—beginning (15)
+
+आदितः
+
+āditaḥ (ind)—from the beginning (17, 22)
+
+आदित्यः
+
+ādityaḥ (m)—sun (22)
+
+आननम्
+
+ānanam (n)—face (13)
+
+आनन्दः
+
+ānandaḥ (m)—joy, bliss (6)
+
+आ + नी
+
+ā + √nī (1P)—bring, fetch (17)
+
+आप्
+
+√āp (5P)—obtain (7)
+
+आ + या
+
+ā + √yā (2P)—come (7, 22)
+
+आयुष्य
+
+āyuṣya (adj)—conducive to long life (22)
+
+आ + रभ्
+
+ā + √rabh (1Ā)—begin, undertake
+
+आरब्ध
+
+ārabdha (adj)—undertaken, attempted
+
+आ + रुह्
+
+ā + √ruh (1P)—ascend (to) (15)
 
 आर्त
 
-442 आर्यपुत्रः
+ārta (adj)—afflicted with (20)
 
-| आ + ह āryaputraḥ(m)—“my Lord"; hon- ā + Vhf (1P)—bring
+आर्यः
 
-orific commonly used by wife to husband
+āryaḥ (m)—sir (term of address; lit., noble person) (11)
 
-आवह āvaha (adj)—bringing, conveying
+आर्यपुत्रः
 
-(common at end of compound) (14) आवेदित avedita (adj) made known (22)
+āryaputraḥ (m)—"my Lord"; honorific commonly used by wife to husband
 
-आश्रमः asramah (m)—hermitage, ashram
+आवह
 
-(6) आ + श्रि ā + Vári (1P)—have recourse to, _be subject to (17)
+āvaha (adj)—bringing, conveying (common at end of compound) (14)
 
-आस् Vas (2A)-sit
+आवेदित
 
-Vi (2P)—go (18)
+āvedita (adj)—made known (22)
 
-इतः itah (ind)—here; इतः. . .ततः
+आश्रमः
 
-here...there (21); इतः...परतः here...elsewhere (7 verse)
+āśramaḥ (m)—hermitage, ashram (6)
 
-इति
+आ + श्रि
 
-iti (ind)—quotation mark (4) इतिहासः itihāsah (m)—history, chronicle इदानीम् idānīm (ind)—now (7)
+ā + √śri (1P)—have recourse to, be subject to (17)
 
-आसनम् āsanam (n) —seat (18)
+आस्
 
-induh (m)-moon (14)
+√ās (2Ā)—sit
+
+आसनम्
+
+āsanam (n)—seat (18)
 
 आ + स्फुट्
 
-इन्द्रः a + Vsphut (6P)—burst; णिजन्त
+ā + √sphuṭ (6P)—burst; णिजन्त—clap the hands on the chest, strike the upper arms (18 verse)
 
-| indrah (m prop)-Indra (10); clap the hands on the chest, strike
+आ + स्था
 
-(m)—lord of, best of (at end of
+ā + √sthā (1P)—assume, have recourse to, take (21)
 
-the upper arms (18 verse)
+आहवः
 
-compound) (21)
+āhavaḥ (m)—battle (20)
 
-आ+ स्था
+आ + ह्वे
+
+ā + √hū (4Ā)—call, summon (12)
+
+आ + हृ
+
+ā + √hṛ (1P)—bring
+
+-इ-
+
+-i-
+
+इ
+
+√i (2P)—go (18)
+
+इतः
+
+itaḥ (ind)—here; इतः...ततः—here...there (21); इतः...परतः—here...elsewhere (7 verse)
+
+इति
+
+iti (ind)—quotation mark (4)
+
+इतिहासः
+
+itihāsaḥ (m)—history, chronicle
+
+इदानीम्
+
+idānīm (ind)—now (7)
+
+इन्दुः
+
+induḥ (m)—moon (14)
+
+इन्द्रः
+
+indraḥ (m prop)—Indra (10); (m)—lord of, best of (at end of compound) (21)
 
 इन्द्रजित्
 
-ā + Vsthā (1P)—assume, have re
+indrajit (m)—'conqueror of Indra;' proper name of a rākṣasa
 
-indrajit (m)—'conqueror of Indra;'
+इन्द्रियम्
 
-_course to, take (21)
-
-proper name of a rākşasa
-
-इन्द्रियम् आहवः āhavaḥ (m)—battle (20)
-
-indriyam (n)-sense, organ of sense
-
-(14,22) आ + हू a+ Vhu (4A)-call, summon (12) |
-
-443
-
-इष्ट
-
-इह
+indriyam (n)—sense, organ of sense (14, 22)
 
 इव
 
-उग्र iva (ind)—like, as (follows word | ugra (adj)—fierce, terrible (20) ___ to which it refers)(4)
+iva (ind)—like, as (follows word to which it refers) (4)
 
-उज्ज्वल इष्
+इष्
 
-ujjvala (adj)—shining (8 verse) Viş (6P)—desire, wish, want (8)
+√iṣ (6P)—desire, wish, want (8)
 
-उत् + कृत्
+इषुः
 
-ut+ Vkrt (6P)-tear to pieces (20) isuh (m) arrow (7)
+iṣuḥ (m)—arrow (7)
 
-उत्तम इष्ट
+इष्ट
 
-uttama (adj)-supreme, excellent ista (adj) desired (from Vis) (10)| (8)
+iṣṭa (adj)—desired (from √iṣ) (10)
 
-उत्तर ista (adj) sacrificed (from Vyaj)
+इष्ट
 
-uttara (adj) later, superior; उत्तरम्
+iṣṭa (adj)—sacrificed (from √yaj)
 
-(n)—answer, reply (17)
+इह
 
 iha (ind)—here (7)
 
-उत्+ था (=उत् + स्था) ut + Vsthā (1P)—stand up (8) उत् + पत् ut + Vpat (1P)—jump up, fly
+-ई-
 
-उत्पत्तिः ईदृश
+-ī-
 
-utpattih (1) birth (20 verse) īdṛśa (adj) —such, of this kind (14)
+ईदृश
 
-उत् + पद् ईप्सा
+īdṛśa (adj)—such, of this kind (14)
 
-ut + Vpad (4A)—be born, arise īpsā (f)—desire to get
+ईप्सा
 
-उत्पन्न ईशः
+īpsā (f)—desire to get
 
-utpanna (adj)—arisen, sprung up isah (m)—lord, Siva (19)
+ईशः
 
-(13) ईश्वरः
+īśaḥ (m)—lord, Śiva (19)
 
-उत्पादय् isvarah (m)—lord, god (21)
+ईश्वरः
 
-utpaday (णिजन्त)-stir up, arouse,
+īśvaraḥ (m)—lord, god (21)
 
-produce (20) -उ
+-उ-
 
-उदकम् -u
-
-udakam (n)-water (12)
+-u-
 
 उक्त
 
+ukta (adj)—spoken, spoken to, addressed (10)
+
+उग्र
+
+ugra (adj)—fierce, terrible (20)
+
+उज्ज्वल
+
+ujjvala (adj)—shining (8 verse)
+
+उत् + कृत्
+
+ut + √kṛt (6P)—tear to pieces (20)
+
+उत्तम
+
+uttama (adj)—supreme, excellent (8)
+
+उत्तर
+
+uttara (adj)—later, superior; उत्तरम् (n)—answer, reply (17)
+
+उत् + था (=उत् + स्था)
+
+ut + √sthā (1P)—stand up (8)
+
+उत् + पत्
+
+ut + √pat (1P)—jump up, fly
+
+उत्पत्तिः
+
+utpattiḥ (f)—birth (20 verse)
+
+उत् + पद्
+
+ut + √pad (4Ā)—be born, arise
+
+उत्पन्न
+
+utpanna (adj)—arisen, sprung up (13)
+
+उत्पादय्
+
+utpāday (णिजन्त)—stir up, arouse, produce (20)
+
+उदकम्
+
+udakam (n)—water (12)
+
 उदधिः
 
-ukta (adj)-spoken, spoken to, | udadhih (m) ocean (14)
-
-addressed (10)
-
-444
+udadhiḥ (m)—ocean (14)
 
 उदरम्
 
-उपम udaram (n)-belly (12)
+udaram (n)—belly (12)
 
-upama (adj)—like, equal to (at end
+उद् + आ + हृ
 
-उद् + आ + ह
-
-of compound) ud + a + Vhr (1P) announce, call
-
-out (21)
-
-upamā (f)-similarity, simile (13)
+ud + ā + √hṛ (1P)—announce, call out (21)
 
 उद् + दिश्
 
-उप + लभ ud + Vdiś (6P)-point out (13) upa + Vlabh (1Ā)-attain (9) उद्दिश्य
+ud + √diś (6P)—point out (13)
 
-उप + विश् uddiśya (ind)—with reference to upa + Vvis (6P)—sit (11)
+उद्दिश्य
 
-(gerund of उद् + Vदिश) (13)
+uddiśya (ind)—with reference to (gerund of उद् + √दिश्) (13)
 
-उपविष्ट उद् + भू
+उद् + भू
 
-upavista (adj)-seated (19) ud + vbhū(1P)-arise, come to be
+ud + √bhū (1P)—arise, come to be (5)
 
-उपहासः (5)
+उद् + विज्
 
-upahāsaḥ (m)—satirical laughter, उद् + विज्
+ud + √vij (6Ā)—tremble (6, 17)
 
-ridicule (15) ud + vvij (6A)—tremble (6, 17)
+उद् + हृ
 
-उपायः उद्+ह
+ud + √hṛ (1P)—lift (5 verse, 6)
 
-upāyaḥ (m)—means, device, stra ud + Vhr (1P)—lift (5 verse, 6)
+उन्मत्त
 
-____tagem (21) उन्मत्त
+unmatta (adj)—mad, crazy, drunk (19); -ḥ (m)—madman
 
-उपास् (उप + आस्) unmatta (adj)—mad, crazy, drunk upās (upa + Vās) (2A)—wait upon,
+उपकारः
 
-(19); -h (m)-madman
+upakāraḥ (m)—assistance, favor (11)
 
-serve (22) उपकारः
+उपगत
 
-उभ upakāraḥ (m) assistance, favor ubha (adj)—both (21)
+upagata (adj)—drawn near (18)
 
-(11)
+उप + गम्
 
-__-क्र
+upa + √gam (1P)—approach (8); attain (a state) (22)
 
-उपगत upagata (adj)—drawn near (18) उप + गम् upa + Vgam (1P)—approach (8);
+उप + दिश्
 
-attain (a state) (22) उप + दिश् upa + Vdis (6P) teach
+upa + √diś (6P)—teach
 
-ऋग्वेदः rgvedah (m prop) —theRgveda (19
+उपम
 
-verse) ऋते rte (ind)-except, with the excep
+upama (adj)—like, equal to (at end of compound)
 
-445
+उपमा
 
-tion of ... (with thing excluded | in द्वितीया) (22)
+upamā (f)—similarity, simile (13)
 
-ऋषभः rsabhah (m)—bull; 'best of . . .'
+उप + लभ्
 
-(at end of compound) (18) ऋषिः rșih (m)—sage, seer (6)
+upa + √labh (1Ā)—attain (9)
 
-कण्टकः kantakah (m)-thorn; fig., 'some
+उप + विश्
 
-thing irritating' (19)
+upa + √viś (6P)—sit (11)
 
-कण्ठः kanthah (m)-throat (17) कत्थनम् katthanam (n)—boasting (18)
+उपविष्ट
 
-कथम् katham (ind)—how?
+upaviṣṭa (adj)—seated (19)
 
-how is it...? (4) कथमपि (-चित्, -चन) kathamapi (-cit, cana) (ind)
+उपहासः
 
-somehow or other, barely
+upahāsaḥ (m)—satirical laughter, ridicule (15)
+
+उपायः
+
+upāyaḥ (m)—means, device, stratagem (21)
+
+उपास् (उप + आस्)
+
+upās (upa + √ās) (2Ā)—wait upon, serve (22)
+
+उभ
+
+ubha (adj)—both (21)
+
+-ऋ-
+
+-ṛ-
+
+ऋग्वेदः
+
+ṛgvedaḥ (m prop)—the Ṛgveda (19 verse)
+
+ऋते
+
+ṛte (ind)—except, with the exception of ... (with thing excluded in द्वितीया) (22)
+
+ऋषभः
+
+ṛṣabhaḥ (m)—bull; 'best of ...' (at end of compound) (18)
+
+ऋषिः
+
+ṛṣiḥ (m)—sage, seer (6)
+
+-ए-
+
+-e-
 
 एक
 
-eka (adj)—one (see 5.7) (5) एकदा ekada (ind)—once, one time (4)
+eka (adj)—one (see 5.7) (5)
 
-एकमनः ekamanah (adj)-having an atten
+एकदा
 
-tive mind (21)
+ekadā (ind)—once, one time (4)
 
-ए
+एकमनः
 
-Vedh (1A)-grow (17) एनम् = तम् enam = tam (pr) (21)
+ekamanaḥ (adj)—having an attentive mind (21)
 
-कथ् Vkath (10P)—tell (22)
+एध्
 
-कथा kathā (f)-story (15) कदली kadali (f)—plantain or banana tree
+√edh (1Ā)—grow (17)
+
+एनम् = तम्
+
+enam = tam (pr) (21)
 
 एव
 
-(14)
+eva (ind)—emphatic particle, emphasizes preceding word (6)
 
-eva (ind) emphatic particle,em
+एवम्
 
-phasizes preceding word (6)
+evam (ind)—thus, in this way (4); एवंरूपम् (idiom)—of such kind, of such a sort (20); एवंविध (adj)—of such a sort
+
+-क-
+
+-k-
+
+कण्टकः
+
+kaṇṭakaḥ (m)—thorn; fig., 'something irritating' (19)
+
+कण्ठः
+
+kaṇṭhaḥ (m)—throat (17)
+
+कत्थनम्
+
+katthanam (n)—boasting (18)
+
+कथम्
+
+katham (ind)—how? how is it ...? (4)
+
+कथमपि (-चित्, -चन)
+
+kathamapi (-cit, -cana) (ind)—somehow or other, barely
+
+कथ्
+
+√kath (10P)—tell (22)
+
+कथा
+
+kathā (f)—story (15)
+
+कदली
+
+kadalī (f)—plantain or banana tree (14)
 
 कदा
 
 kadā (ind)—when?
 
-एवम् evam (ind)—thus, in this way (4);
+कन्दरम्
 
-एवंरूपम् (idiom) of such kind, of such a sort (20); एवंविध (adj) of such a sort
+kandaram (n)—cave (17)
 
-कन्दरम् kandaram (n)-cave (17) कन्या kanyā (f) daughter (7)
+कन्या
 
-446
+kanyā (f)—daughter (7)
 
 कपिः
 
-| कर्मन् kapih (m)-monkey (13, 18 verse) | karman (n)-action, religious ac
+kapiḥ (m)—monkey (13, 18 verse)
 
 कबन्धः
 
-tivity, grammatical object (8) kabandhah (m prop)-Kabandha, | कल्मषम्
-
-name of rāksasa (22)
-
-kalmasam (n)-moral taint (22)
+kabandhaḥ (m prop)—Kabandha, name of rākṣasa (22)
 
 कमलम्
 
-कल्यम् kamalam (n)-lotus (16)
+kamalam (n)—lotus (16)
 
-kalyam (ind)—at daybreak (21)
+कम्प्
 
-कम्प
-
-कवचः Vkamp (1Ā)-tremble (6) kavacaḥ (m)—armor (18)
+√kamp (1Ā)—tremble (6)
 
 कम्पनम्
 
-कविता kampanam (n)-trembling, shak- kavitā (f)—poetry (15)
+kampanam (n)—trembling, shaking (21)
 
-ing (21)
+कम्पित
 
-काकः कम्पित
+kampita (adj)—trembling (21)
 
-kākah (m)—crow kampita (adj) trembling (21)
+कर
 
-काकुत्स्थः कर
+kara (adj; f -ई)—who or what does, makes, or causes (generally at end of compound) (20 verse); करः (m)—hand
 
-kākutsthaḥ (m)—Kākutstha, epi kara (adj;f-$)—who or what does, thet of Rāma (20)
+करुणा
 
-makes, or causes (generally at
+karuṇā (f)—pity, compassion (12)
 
-काञ्चन end of compound) (20 verse);
+कर्तृ
 
-kāñcana (adj)-golden (21) करः (m)—hand
+kartṛ (adj)—done, made (10)
 
-कामः करुणा
+करेणुः
 
-kāmaḥ (m)-desire (15) karuņā (f)—pity, compassion (12)
+kareṇuḥ (m)—elephant (19)
 
-कामदेवः कर्तृ
+कर्कश
 
-kāmadevaḥ (m)—Kāma, the god kartr (adj) done, made (10)
+karkaśa (adj)—rough, harsh (16)
 
-of love (19) करेणुः
+कर्णः
 
-कामरूपिन् karenuh (m)-elephant (19) kāmarūpin (adj)—taking any form कर्कश
+karṇaḥ (m)—ear (19)
 
-at will (19) karkasa (adj)-rough, harsh (16) | कामिन् कर्णः
+कर्मन्
 
-kamin (m)-lover (21)
+karman (n)—action, religious activity, grammatical object (8)
 
-karnah (m)-ear (19)
+कल्मषम्
 
-कायः kāyah (m)-body (20)
+kalmaṣam (n)—moral taint (22)
 
-447
+कल्यम्
 
-कारिन्
+kalyam (ind)—at daybreak (21)
 
-| कुञ्जरः
+कवचः
 
-कुत्र
+kavacaḥ (m)—armor (18)
 
-किम्
+कविता
+
+kavitā (f)—poetry (15)
+
+काकः
+
+kākaḥ (m)—crow
+
+काकुत्स्थः
+
+kākutsthaḥ (m)—Kākutstha, epithet of Rāma (20)
+
+काञ्चन
+
+kāñcana (adj)—golden (21)
+
+कामः
+
+kāmaḥ (m)—desire (15)
+
+कामदेवः
+
+kāmadevaḥ (m)—Kāma, the god of love (19)
+
+कामरूपिन्
+
+kāmarūpin (adj)—taking any form at will (19)
+
+कामिन्
+
+kāmin (m)—lover (21)
+
+कायः
+
+kāyaḥ (m)—body (20)
 
 कारणम्
 
-कीर्तिः kāraṇam (n) cause, reason (15) kīrtiḥ (f)—fame, good name (11
+kāraṇam (n)—cause, reason (15)
 
-verse)
+कारिन्
 
-kārin (adj)-agent, producer of, -
-
-etc.
-
-ku (prefix)—a prefix implying
+kārin (adj)—agent, producer of, etc.
 
 कालः
 
-___ 'badness' (19)
-
-kalah (m)-time, death, the god of | T
-
-death (5,21)
-
-kunjarah (m) elephant (14)
+kālaḥ (m)—time, death, the god of death (5, 21)
 
 कालेन
 
-कुतः
-
-kālena (ind) in the course of time
-
-| kutah (ind)—whence? why?
-
-(5)
+kālena (ind)—in the course of time (5)
 
 काष्ठम्
 
-kutra (ind)—where?
+kāṣṭham (n)—log (14)
 
-kāstham (n)-log (14)
+किम्
+
+kim (n. interrogative pr)—who? what? which? (कः [m]; का [f]) (see 6.3, and 5.5); किमिति (ind)—why? (13); किंतु (ind)—but, however (5); किंपुनः (ind)—how much (more or less) (20); किम् (with instrumental of a noun)—what is the use of, what is the purpose of (cf. 4.42.b); किं बहुना 'why continue on' (e.g., किं बहुना प्रलापेन—'what is the use of prattling on') (9)
+
+किष्किन्धा
+
+kiṣkindhā (f prop)—Kiṣkindhā, capital city of the monkeys (22)
+
+कीर्तिः
+
+kirtiḥ (f)—fame, good name (11 verse)
+
+कु-
+
+ku (prefix)—a prefix implying 'badness' (19)
+
+कुञ्जरः
+
+kuñjaraḥ (m)—elephant (14)
+
+कुतः
+
+kutaḥ (ind)—whence? why?
+
+कुत्र
+
+kutra (ind)—where?
 
 कुप्
 
-Vkup (4P)—be angry (7) kim (n. interrogative pr) who? | कुपित
+√kup (4P)—be angry (7)
 
-what? which? (कः [m]; का [f]) | kupita (adj) enraged, angry (4) (see 6.3, and 5.5); किमिति (ind)
+कुपित
 
-कुमारः why? (13); किंतु (ind) but, how
+kupita (adj)—enraged, angry (4)
 
-kumāraḥ (m)—boy (13) ever (5); किंपुनः (ind) how much
+कुमारः
 
-कुम्भः (more or less) (20); किम् (with in
+kumāraḥ (m)—boy (13)
 
-kumbhah (m) pot (10) strumental of a noun)—what is the use of, what is the purpose of (cf. 4.42.b); किं बहुना 'why con
+कुम्भः
 
-kurūpa (adj)—ugly, deformed (19) tinue on' (e.g., किंबहुना प्रलापेन कुलम् 'what is the use of prattling on') | kulam (n)-family (16) (9)
-
-कुसुमम् किष्किन्धा
-
-kusumam (n)-flower (8 verse) kiskindha (f prop) Kiskindha, Ja
-
-कूज capital city of the monkeys (22)
-
-(22)|vkuj (1P)-warble (15)
-
-kiilt
+kumbhaḥ (m)—pot (10)
 
 कुरूप
 
-448
+kurūpa (adj)—ugly, deformed (19)
+
+कुलम्
+
+kulam (n)—family (16)
+
+कुसुमम्
+
+kusumam (n)—flower (8 verse)
+
+कूज्
+
+√kūj (1P)—warble (15)
+
+कृ
+
+√kṛ (8P)—do, make, conduct, etc. (5)
+
+कृत्
+
+kṛt (adj)—doer, causer (from √कृ, see 12.17)
+
+कृतयुगम्
+
+kṛtayugam (n)—the golden age of the world (22)
+
+कृते
+
+kṛte (ind)—on account of, for the sake of (used with genitive or at end of compound) (12, 17)
+
+कृप्
+
+√kḷp (1Ā)—be arranged
+
+केयूरः
+
+keyūraḥ (m)—a bracelet, an armlet (8 verse)
+
+केवलम्
+
+kevalam (ind)—only (12)
+
+कैकेयी
+
+kaikeyī (f prop)—Kaikeyī, Bharata's mother (11)
+
+कैलासः
+
+kailāsaḥ (m prop)—Kailāsa, name of Śiva's mountain home
+
+कोकिलः
+
+kokilaḥ (m)—Koil, Indian cuckoo (15)
+
+कोपः
+
+kopaḥ (m)—anger, rage (14)
+
+कोमल
+
+komala (adj)—tender (16)
+
+कौतूहलम्
+
+kautūhalam (n)—curiosity (13)
+
+कौसल्या
+
+kausalyā (f prop)—Kausalyā, Rāma's mother (11)
+
+क्रीड्
+
+√krīḍ (1P)—play, amuse oneself (18 verse, 21)
+
+क्रीडा
+
+krīḍā (f)—play, sport (12)
 
 क्रुध्
 
-| कोमल Vkr (8P)—do, make, conduct, etc. komala (adj)—tender (16)
+√krudh (4P)—be angry, become angry (7)
 
-(5)
+क्रुद्ध
 
-कौतूहलम् कृत्
-
-kautūhalam (n) curiosity (13) krt (adj)-doer, causer (from vकृ, कौसल्या
-
-see 12.17)
-
-kausalyā (f prop)—Kausalyā, Rā कृतयुगम्
-
-ma's mother (11) krtayugam (n)—the golden age of | क्रीड्
-
-the world (22)
-
-Vkrīd (1P)-play, amuse oneself कृते
-
-(18 verse,21)
-
-krte (ind)-on account of, for the | क्रीडा
-
-sake of (used with genitive or at | krida (f)-play, sport (12)
-
-end of compound) (12,17) कृप
-
-Vkrudh (4P)—be angry, become Vkļp (17)—be arranged
-
-angry (7) केयूरः keyūraḥ (m)—a bracelet, an arm- kruddha (adj)—angry
-
-let (8 verse) केवलम्
-
-krūra (adj)cruel, terrible (12) kevalam (ind) only (12)
-
-क्रोधः कैकेयी
-
-krodhaḥ (m)—anger (13) kaikeyi (f prop)—Kaikeyī, Bha
-
-rata's mother (11)
-
-kva (ind)—where? कैलासः kailasah (mprop)—Kailasa, name |
-
-ksanah (m)—a moment, instant of Siva's mountain home कोकिलः
-
-क्षत्रियः kokilah (m)-Koil, Indian cuckoo
-
-ksatriyah (m) Ksatriya, a mem (15)
-
-ber of the warrior class कोपः kopaḥ (m)—anger, rage (14)
+kruddha (adj)—angry
 
 क्रूर
 
-| क्व
+krūra (adj)—cruel, terrible (12)
 
-क्षणव
+क्रोधः
 
-(11)449
+krodhaḥ (m)—anger (13)
 
---
+क्व
 
-खगः
+kva (ind)—where?
 
-| खर
+क्षणः
+
+kṣaṇaḥ (m)—a moment, instant (11)
+
+क्षत्रियः
+
+kṣatriyaḥ (m)—Kṣatriya, a member of the warrior class
+
+क्षम्
+
+√kṣam (1Ā)—forgive, pardon
+
+क्षम
+
+kṣama (adj)—able, competent (9); favorable, suitable (21)
+
+क्षमा
+
+kṣamā (f)—tolerance
+
+क्षयः
+
+kṣayaḥ (m)—destruction (18)
+
+क्षि
+
+√kṣi (1P)—decay, waste; क्षीय (कर्मणि)—to waste away, fade (8 verse)
 
 क्षिप्
 
-क्षम् Vksam (1A)-forgive, pardon
+√kṣip (6P)—throw (20)
 
--kh
+क्षिप्रम्
 
-क्षम kşama (adj)—able, competent (9);
-
-khagah (m)—bird (12) favorable, suitable (21)
-
-खगः क्षमा
-
-khadgah (m) sword (19) kşamā (f)—tolerance
-
-खन् ksayah (m) destruction (18)
-
-| Nkhan (1P) –dig
-
-खम्
-
-Vksi (1P)-decay, waste; क्षीय
-
-. भीय | kham (n)-air, sky (12)
-
-(कर्मणि) to waste away, fade (8 verse)
-
-khara (adj)—harsh, cruel (20)
-
-खरः Vksip (6P)—throw (20)
-
-kharah (m prop)—Khara, a great क्षिप्रम्
-
-rākşasa chief, brother of Rāvana
-
-and sister of Surpanakha (19); ksipram (ind) quickly, immedi
-
-ately (21)
-
-(m)-ass, donkey (21)
-
-खलु ksut (f)—hunger (22)
-
-khalu (ind)-certainly, surely,
-
-__now then (8 verse) क्षुब्ध ksubdha (adj) shaken (10)
-
-खाद् Vkhad (1P)—eat
-
-खादित Vkşubh (17)—shake, tremble
-
-khādita (adj)— eaten क्षेत्रम्
-
-खेदः ksetram (n)-field
-
-khedah (m)-sadness, depression क्षोभय्
-
-(13) ksobhay (णिजन्त of Vक्षुभ्) agitate,
-
-cause to tremble (22)
+kṣipram (ind)—quickly, immediately (21)
 
 क्षुत्
 
-क्षुम्
+kṣut (f)—hunger (22)
 
-450
+क्षुब्ध
 
-गर्दा Vgarj (1P)-roar, bellow (22) गर्जनम्
+kṣubdha (adj)—shaken (10)
 
-garjanam (n)—thunder (10) -ga (adj)-going, moving (in, on,
+क्षुभ्
 
-गर्दभः __to) (from /गम् ; see 12.18) (12)
+√kṣubh (1Ā)—shake, tremble
 
-gardabhah (m)-donkey (18) गङ्गा
+क्षेत्रम्
 
-गर्वित gangā (f prop)—Ganges, name of
+kṣetram (n)—field
 
-a famous river (18)
+क्षोभय्
 
-garvita (adj)-proud (8)
+kṣobhay (णिजन्त of √क्षुभ्)—agitate, cause to tremble (22)
+
+-ख-
+
+-kh-
+
+खगः
+
+khagaḥ (m)—bird (12)
+
+खड्गः
+
+khaḍgaḥ (m)—sword (19)
+
+खन
+
+√khan (1P)—dig
+
+खम्
+
+kham (n)—air, sky (12)
+
+खर
+
+khara (adj)—harsh, cruel (20)
+
+खरः
+
+kharaḥ (m prop)—Khara, a great rākṣasa chief, brother of Rāvaṇa and sister of Śūrpaṇakhā (19); (m)—ass, donkey (21)
+
+खलु
+
+khalu (ind)—certainly, surely, now then (8 verse)
+
+खाद्
+
+√khād (1P)—eat
+
+खादित
+
+khādita (adj)—eaten
+
+खेदः
+
+khedaḥ (m)—sadness, depression (13)
+
+-ग-
+
+-g-
+
+-ग
+
+-ga (adj)—going, moving (in, on, to) (from √गम्; see 12.18) (12)
+
+गङ्गा
+
+gaṅgā (f prop)—Ganges, name of a famous river (18)
 
 गणः
 
-गात्रम्
-
-ganah (m)-host, entourage (22);in
-
-gātram (n)—limb (7, 18 verse) grammar-conjugational class FIR:
-
-girih (m)-mountain (21)
+gaṇaḥ (m)—host, entourage (22); in grammar—conjugational class (7)
 
 गजः
 
-गिरिराजपुत्री gajah (m) elephant (18) girirājputri (f)—'daughter of the
+gajaḥ (m)—elephant (18)
 
 गत
 
-king of the mountains,' i.e.,
+gata (adj)—gone (7)
 
-Parvati (19) gata (adj)-gone (7)
+गतिः
 
-गीत गतिः gatih (f)-way, "alternative," state
+gatiḥ (f)—way, "alternative," state of existence, condition (6, 20 verse)
 
-gīta (adj)—sung of existence, condition (6, 20| गीता verse)
+गन्धर्वः
 
-gītā (f)—song गन्धर्वः
+gandharvaḥ (m)—a kind of celestial being (20)
 
-गुणः gandharvah (m) a kind of celes- gunah (m) excellence, quality,
+गम्
 
-tial being (20)
-
-___virtue (5, 11 verse) गम् vgam (1P)—go (4)
-
-guru (adj)-heavy (8); -uh (m)
+√gam (1P)—go (4)
 
 गमनम्
 
-teacher gamanam (n)-going (13) गुहा
+gamanam (n)—going (13)
 
 गरुडः
 
-guhā (f) cave, cavern (18, 22)
+garuḍaḥ (m prop)—Garuḍa, mythical bird, Viṣṇu's mount
 
-garudah (m prop)-Garuda, | गृध्रः ।
+गर्ज्
 
-mythical bird, Visnu's mount grdhrah (m)-vulture (22)
+√garj (1P)—roar, bellow (22)
 
-451
+गर्जनम्
 
-गहम्
+garjanam (n)—thunder (10)
 
-grham (n)—house, home (4)
+गर्दभः
 
-गृहस्थः grhasthah (m)—householder
+gardabhaḥ (m)—donkey (18)
 
-ca (ind) and
+गर्वित
 
-Vgai (1P)—sing (10, 18 verse)
+garvita (adj)—proud (8)
 
-चक्षुः
+गात्रम्
 
-cakṣuḥ (n)-eye (9) गोदावरी godāvari (f prop)—Godāvari,
+gātram (n)—limb (7, 18 verse)
 
-चतुर् ()
+गिरिः
 
-name of a river (19)
+giriḥ (m)—mountain (21)
 
-catur (h) (adj)—four (see 19.6)
+गिरिराजपुत्री
+
+girirājputrī (f)—'daughter of the king of the mountains,' i.e., Pārvatī (19)
+
+गीत
+
+gita (adj)—sung
+
+गीता
+
+gītā (f)—song
+
+गुणः
+
+guṇaḥ (m)—excellence, quality, virtue (5, 11 verse)
+
+गुरु
+
+guru (adj)—heavy (8); -uḥ (m)—teacher
+
+गुहा
+
+guhā (f)—cave, cavern (18, 22)
+
+गृध्रः
+
+gṛdhraḥ (m)—vulture (22)
+
+गृहम्
+
+gṛham (n)—house, home (4)
+
+गृहस्थः
+
+gṛhasthaḥ (m)—householder
+
+गै
+
+√gai (1P)—sing (10, 18 verse)
+
+गोदावरी
+
+godāvarī (f prop)—Godāvarī, name of a river (19)
 
 गोविन्दः
 
-चतुर्थ
+govindaḥ (m prop)—Govinda, name of Kṛṣṇa
 
-govindah (m prop)-Govinda,
+गोष्पदीकृ
 
-caturtha (adj)-fourth (17) name of Krşņa
+goṣpadīkṛ (च्वि प्रत्यय)—to turn into a cow's hoofprint (13 verse)
 
-चतुर्दश गोष्पदीक
+गौ
 
-caturdaśa (adj)—fourteen (15) gospadikr (च्चि प्रत्यय)—to turn into | चतष्टयम्
+gau (f)—cow (for declension see 21.3)
 
-a cow's hoofprint (13 verse) catustayam (n)-foursome, set of
+गौतमः
 
-four (5)
+gautamaḥ (m prop)—Gautama, name of a famous sage (10)
 
-Pat
+ग्रह् → गृह्णाति
 
-)
-
--
-
-gau (f)-cow (for declension see / चन
-
-21.3)
-
-cana (ind)–(indefinite marker, गौतमः
-
-see 6.19)
-
-gautamaḥ (m prop)—Gautama, ergo
-
-name of a famous sage (10) candrah (m)-moon (8 verse, 16) ग्रह → गृह्णाति
-
-चमः grah — gļhņāti (9P)—seize, grasp camūḥ (f)—army (5 verse, 18)
-
-(16)
-
-चर्
-
-Vcar (1P)-move, walk (15) grīvā (f)—throat, neck
-
-चरितम् caritam (n)—adventure, life story
+grah → gṛhṇāti (9P)—seize, grasp (16)
 
 ग्रीवा
 
-घ
+grīvā (f)—throat, neck
 
-(4)
+-घ-
 
--gh
+-gh-
 
-चल Vcal (1P)—move
+घोर
 
-घोर ghora (adj)—terrible (12)
+ghora (adj)—terrible (12)
 
-452
+-च-
 
-चुर्
+-c-
+
+च
+
+ca (ind)—and
+
+चक्षुः
+
+cakṣuḥ (n)—eye (9)
+
+चतुर् (ः)
+
+catur (ḥ) (adj)—four (see 19.6)
+
+चतुर्थ
+
+caturtha (adj)—fourth (17)
+
+चतुर्दश
+
+caturdaśa (adj)—fourteen (15)
+
+चतुष्टयम्
+
+catuṣṭayam (n)—foursome, set of four (5)
+
+चन
+
+cana (ind)—(indefinite marker, see 6.19)
+
+चन्द्रः
+
+candraḥ (m)—moon (8 verse, 16)
+
+चमूः
+
+camūḥ (f)—army (5 verse, 18)
+
+चर्
+
+√car (1P)—move, walk (15)
+
+चरितम्
+
+caritam (n)—adventure, life story (4)
+
+चल्
+
+√cal (1P)—move
 
 चलित
 
-चुम्बित calita (adj)—moved
+calita (adj)—moved
 
-cumbita (adj) kissed चापः cāpah (m)—bow (8)
+चापः
 
-vcur (10P) steal चारिन्
+cāpaḥ (m)—bow (8)
 
-चेत carin (m)-roamer, wanderer (11) | cet (ind)-if (placed after the word चिकीर्षु
+चारिन्
 
-__to which it refers) cikirşu (adj) desirous of doing चेतः (18)
+cārin (m)—roamer, wanderer (11)
 
-cetah (n)-intellect (9)
+चिकीर्षु
 
-चित
+cikīrṣu (adj)—desirous of doing (18)
 
-cit (ind) (indefinite marker, see
+चित्
 
-6.19)
-
--ch
+cit (ind)—(indefinite marker, see 6.19)
 
 चिता
 
-छिद् citā (f)-funeral pyre (10 verse)
+citā (f)—funeral pyre (10 verse)
 
-| Nchid (7P) –cut, cut off चित्तम्
+चित्तम्
 
-छिन्न cittam (n)-heart, mind (12); chinna (adj)-cut (14)
+cittam (n)—heart, mind (12); thought, will (20)
 
-thought, will (20) चित्तलयः cittalayah (m)—'mind devoted to'
+चित्तलयः
 
-(lit., "devotion of the mind") with locative (5 verse)
+cittalayaḥ (m)—'mind devoted to' (lit., "devotion of the mind") with locative (5 verse)
 
--ज चिन्त
+चिन्त्
 
--ja (adj)—born from, produced (at Vcint (10P)—think, consider (4) |
-
-end of compound) (18)
+√cint (10P)—think, consider (4)
 
 चिन्ता
 
-जगत् cintā (f)-care, anxiety, wory (7)
+cintā (f)—care, anxiety, worry (7)
 
-jagat (n)-world, universe (6
+चित्र
 
-verse, 20 verse) चित्र
+citra (adj)—spotted, speckled (21)
 
-जटा citra (adj) spotted, speckled (21)
+चिरम्
 
-jatā (f)—braided topknot, a sym चिरम्
+ciram (adj)—long (of time) (14)
 
-bol of asceticism wom by Rāma ciram (adj)—long (of time) (14)
+चुम्ब्
 
-during his exile (22) चुम्ब् Vcumb (1P)— kiss (18 verse)
+√cumb (1P)—kiss (18 verse)
 
-453
+चुम्बित
 
-जन्
+cumbita (adj)—kissed
+
+चुर्
+
+√cur (10P)—steal
+
+चेत्
+
+cet (ind)—if (placed after the word to which it refers)
+
+चेतः
+
+cetaḥ (n)—intellect (9)
+
+-छ-
+
+-ch-
+
+छिद्
+
+√chid (7P)—cut, cut off
+
+छिन्न
+
+chinna (adj)—cut (14)
+
+-ज-
+
+-j-
+
+-ज
+
+-ja (adj)—born from, produced (at end of compound) (18)
+
+जगत्
+
+jagat (n)—world, universe (6 verse, 20 verse)
+
+जटा
+
+jaṭā (f)—braided topknot, a symbol of asceticism worn by Rāma during his exile (22)
 
 जटायुस्
 
-जालम् jatayus (m prop)—Jatayus, king of jalam (n)-net, snare (12)
+jaṭāyus (m prop)—Jaṭāyus, king of the vultures (20, 22)
 
-the vultures (20, 22)
+जन्
 
-Vji (1P)—win (9) Vjan (4A)—be bom, arise (irregu- | जिज्ञास
+√jan (4Ā)—be born, arise (irregular present stem, जाय) (14)
 
-lar present stem, जाय) (14)
+जनः
 
-jijñāsu (adj) curious जनः
+janaḥ (m)—person; as collective noun—people; plural—folks (4, 15)
 
--जित् janah (m) person; as collective |
+जनकः
 
--jit (adj)—conquering (from VEST, noun-people; plural—folks
+janakaḥ (m prop)—Janaka, king of Mithilā (8)
 
-___see 12.17) (12) (4, 15)
+जनस्थानम्
+
+janasthānam (n prop)—Janasthāna, a portion of the Daṇḍakāraṇya, headquarters of Khara (19)
+
+जन्तुः
+
+jantuḥ (m)—creature, living being (15)
+
+जन्मन्
+
+janman (n)—birth (14)
+
+जरा
+
+jarā (f)—old age (16)
+
+जलम्
+
+jalam (n)—water (16)
+
+जात
+
+jāta (adj)—born, arisen (13)
+
+जालम्
+
+jālam (n)—net, snare (12)
+
+जि
+
+√ji (1P)—win (9)
+
+जिज्ञासु
+
+jijñāsu (adj)—curious
+
+-जित्
+
+-jit (adj)—conquering (from √जि, see 12.17) (12)
 
 जित
 
-जनकः janakah (mprop)-Janaka, king of
+jita (adj)—conquered, subdued (14)
 
-Mithila (8)
+जीमूतः
 
-jita (adj)-conquered, subdued
-
-(14) जीमूतः jimutah (m)-cloud (20)
-
-जनस्थानम् janasthānam (n prop)-Jana
-
-sthāna, a portion of the Danda kāranya, headquarters of Khara
+jīmūtaḥ (m)—cloud (20)
 
 जीर्ण
 
-(19)
+jīrṇa (adj)—old, aged (10)
 
-जन्तुः jantuh (m)—creature, living being
+जीव्
 
-(15)
+√jīv (6P)—live, survive (4)
 
-jima (adj)-old, aged (10) जीव् Vjiv (6P)—live, survive (4) जीवित jivita (adj)—living (10)
+जीवित
 
-जीवितम् jīvitam (n) life (21)
+jīvita (adj)—living (10)
 
-जन्मन् janman (n) birth (14)
+जीवितम्
 
-जरा jarā (f) old age (16) जलम् jalam (n)-water (16)
+jīvitam (n)—life (21)
 
-VjF (1P)—waste away, age (10) जेतृ jetr (m)-victor, conqueror (10)
+जॄ
+
+√jṝ (1P)—waste away, age (10)
+
+जेतृ
+
+jetṛ (m)—victor, conqueror (10)
 
 -ज्ञ
 
-जात jāta (adj)—born, arisen (13)
-
--jña (adj)—knowing (from Fil; see | 12.18) (12)
-
-454
+-jña (adj)—knowing (from ज्ञा; see 12.18) (12)
 
 ज्ञा
 
-तथा Vjñā (9P)—know (6)
-
-tathā (ind)—thus
+√jñā (9P)—know (6)
 
 ज्ञानम्
 
-तथापि jñānam (n)—knowledge (12) tathāpi (ind)—even so (8) ज्येष्ठ
+jñānam (n)—knowledge (12)
 
-तदनन्तरम् jyestha (adj)—eldest (5) tadanantaram (ind)—after that (9)
+ज्येष्ठ
+
+jyeṣṭha (adj)—eldest (5)
 
 ज्वरः
 
-तदा jvarah (m)-feverish disease (22) tadā (ind)—then (6)
+jvaraḥ (m)—feverish disease (22)
 
-तनयः ज्वल Vjval (1Ā)—shine (21)
+ज्वल्
 
-tanayaḥ (m)—son (15)
+√jval (1Ā)—shine (21)
 
-तनया ज्वलनः jvalanah (m)-fire (22)
+ज्वलनः
 
-tanaya (f)-daughter (15)
+jvalanaḥ (m)—fire (22)
 
-तप
+-झ-
 
-Vtap (1P/A)—burn, be hot, suffer,
+-jh-
 
-especially undergo or practice
+झटिति
 
-religious austerities झटिति
+jhaṭiti (ind)—at once
 
-तपः jhatiti (ind)—at once
+-त-
 
-tapah (n)-austerity, asceticism
-
-(9) तपस्विन tapasvin (m;f-fa-it-ascetic (12)
-
-तरुण tat (pr n)—this, that (6)
-
-taruna (adj)-young (18 verse)
-
-ततः
-
-तर्हि tatah (ind)—hence, then (5) | tarhi (ind)—then (6)
-
-तत्त्वम्
-
-तलम् tattvam (n) truth (21)
-
-talam (n)-surface, plane (12) तत्र
-
-तस्करः tatra (ind)—there, in that place (4) | taskarah (m)—thief (22)
-
--jh
+-t-
 
 तत्
 
-455
+tat (pr n)—this, that (6)
 
-तुष्
+ततः
 
-तुष्ट
+tataḥ (ind)—hence, then (5)
 
-तात:
+तत्त्वम्
 
-तुल्य tatah (m)-1) father, 2) a term of | tulya (adj) equal (19)
+tattvam (n)—truth (21)
 
-affection applied to any person, but usually to inferiors or jun
+तत्र
 
-| Vtus (4P)—be happy (8) iors, 'my child,' 'my son,' dear one,' etc. (14)
+tatra (ind)—there, in that place (4)
 
-tusta (adj)—content, happy (8) तादृश tadrsa (adj) such (12)
+तथा
 
-तृणम्
+tathā (ind)—thus
 
-tīņam (n)-blade of grass, a straw, तापसः
+तथापि
 
-often used metaphorically for tāpasaḥ (m)—ascetic (20)
+tathāpi (ind)—even so (8)
 
-something of little consequence तारा
+तदनन्तरम्
 
-or value (8) tārā (f prop)-Tārā, queen of the
+tadanantaram (ind)—after that (9)
 
-तृप् monkeys (22)
+तदा
 
-Vtrp (4P/A)—be satisfied (19) ताराधिपः
+tadā (ind)—then (6)
 
-तृष्णा tārādhipah (m)—lord of the stars,
+तनयः
 
-trsna (f)-desire, craving (11 the moon
+tanayaḥ (m)—son (15)
 
-___verse, 18 verse)
+तनया
+
+tanayā (f)—daughter (15)
+
+तप्
+
+√tap (1P/Ā)—burn, be hot, suffer, especially undergo or practice religious austerities
+
+तपः
+
+tapaḥ (n)—austerity, asceticism (9)
+
+तपस्विन्
+
+tapasvin (m; f -विनी)—ascetic (12)
+
+तरुण
+
+taruṇa (adj)—young (18 verse)
+
+तर्हि
+
+tarhi (ind)—then (6)
+
+तलम्
+
+talam (n)—surface, plane (12)
+
+तस्करः
+
+taskaraḥ (m)—thief (22)
+
+तातः
+
+tātaḥ (m)—1) father, 2) a term of affection applied to any person, but usually to inferiors or juniors, 'my child,' 'my son,' 'dear one,' etc. (14)
+
+तादृश
+
+tādṛśa (adj)—such (12)
+
+तापसः
+
+tāpasaḥ (m)—ascetic (20)
+
+तारा
+
+tārā (f prop)—Tārā, queen of the monkeys (22)
+
+ताराधिपः
+
+tārādhipaḥ (m)—lord of the stars, the moon
 
 तावत्
 
-tāvat (ind)—so long, to the extent
-
-that, meanwhile (6)
+tāvat (ind)—so long, to the extent that, meanwhile (6)
 
 तीरम्
 
-Vtr (1P) cross over तेजः tejah (n) splendor (9)
+tīram (n)—bank, shore (22)
 
-tīram (n)-bank, shore (22)
+तीक्ष्ण
 
-तीक्ष्ण tiksna (adj)-sharp (4)
+tīkṣṇa (adj)—sharp (4)
+
+तु
+
+tu (ind)—but (11)
+
+तुङ्ग
+
+tuṅga (adj)—tall (21)
+
+तुरंगमः
+
+turaṃgamaḥ (m)—horse
+
+तुल्य
+
+tulya (adj)—equal (19)
+
+तुष्
+
+√tuṣ (4P)—be happy (8)
+
+तुष्ट
+
+tuṣṭa (adj)—content, happy (8)
+
+तृणम्
+
+tṛṇam (n)—blade of grass, a straw, often used metaphorically for something of little consequence or value (8)
+
+तृप्
+
+√tṛp (4P/Ā)—be satisfied (19)
+
+तृष्णा
+
+tṛṣṇā (f)—desire, craving (11 verse, 18 verse)
+
+तॄ
+
+√tṝ (1P)—cross over
+
+तेजः
+
+tejaḥ (n)—splendor (9)
 
 तेजस्विन्
 
-tejasvin (adj; f-इनी) glorious (18) तोयम् toyam (n)—water (16)
+tejasvin (adj; f -इनी)—glorious (18)
 
-tu (ind)—but (11)
+तोयम्
+
+toyam (n)—water (16)
 
 त्रस्त
 
 trasta (adj)—frightened (20)
 
-tunga (adj)—tall (21) तुरंगमः turamgamah (m)—horse
+त्रि
 
-tri (adj)-three (see 19.6)
-
-456
-
-त्रैलोक्यम्
+tri (adj)—three (see 19.6)
 
 त्रिलोचनः
 
-| दंश् → दशति trilocanaḥ (m)-having three Vdams — daśati (1P)—bite
+trilocanaḥ (m)—having 'three eyes,' epithet of Śiva
 
-eyes,' epithet of Siva
+त्रैलोक्यम्
 
-dasa (adj)—ten (see 19.6) trailokyam (n)—the three
+trailokyam (n)—the 'three worlds': heaven, earth, hell; the universe (22)
 
-दशग्रीवः worlds': heaven, earth, hell; the
+त्यक्त
 
-daśagrīvaḥ (m)—'having ten universe (22)
+tyakta (adj)—abandoned (10)
 
-necks,' epithet of Rāvaņa (19) त्यक्त
+त्यज्
 
-दशबलः tyakta (adj)—abandoned (10)
+√tyaj (1P)—abandon (10)
 
-dasabalah (m)—'having ten pow त्यज
+त्वम्
 
-ers,' epithet of the Buddha Vtyaj (1P)—abandon (10)
+tvam (pr)—you (4)
 
-दशरथः त्वम्
+-द-
 
-dasarathah (m prop)—Dasaratha, tvam (pr)—you (4)
-
-Rāma's father (4)
-
-दष्ट
-
-dasta (adj)—bitten
-
-दह
+-d-
 
 -द
 
-Vdah (1P)—bum (18)
+-da (adj)—giving, causing, giving rise to (at end of compound) (14)
 
--da (adj)-giving, causing, giving | दा
+दग्ध
 
-rise to (at end of compound) (14) | Nda (3P)—give (9) दग्ध
+dagdha (adj)—burnt
 
-दानम् dagdha (adj)—burnt
+दण्डकम्
 
-dānam (n)-giving, granting दण्डकम्
-
-दारः dandakam (n prop)-name of a dāraḥ (m)—wife, wives (occurs
-
-forest (13)
-
-only in plural) (21)
-
-दारिद्रयम् datta (adj)-given
-
-dāridryam (n)-poverty (6 verse, दया
-
-14) dayā (f)-compassion (11 verse) दर्शनम्
-
-dāruņa (adj)—fierce, cruel, severe
-
-(13) darśanam (n)-sight, view
+daṇḍakam (n prop)—name of a forest (13)
 
 दत्त
 
-457
+datta (adj)—given
+
+दया
+
+dayā (f)—compassion (11 verse)
+
+दर्शनम्
+
+darśanam (n)—sight, view
+
+दंश् → दशति
+
+√daṃś → daśati (1P)—bite
+
+दश
+
+daśa (adj)—ten (see 19.6)
+
+दशग्रीवः
+
+daśagrīvaḥ (m)—'having ten necks,' epithet of Rāvaṇa (19)
+
+दशबलः
+
+daśabalaḥ (m)—'having ten powers,' epithet of the Buddha
+
+दशरथः
+
+daśarathaḥ (m prop)—Daśaratha, Rāma's father (4)
+
+दष्ट
+
+daṣṭa (adj)—bitten
+
+दह्
+
+√dah (1P)—burn (18)
+
+दा
+
+√dā (3P)—give (9)
+
+दानम्
+
+dānam (n)—giving, granting
+
+दाराः
+
+dārāḥ (m)—wife, wives (occurs only in plural) (21)
+
+दारिद्र्यम्
+
+dāridryam (n)—poverty (6 verse, 14)
+
+दारुण
+
+dāruṇa (adj)—fierce, cruel, severe (13)
 
 दासः
 
-| दुहितु
+dāsaḥ (m)—servant, slave (5 verse, 19)
 
-दूतः
+दिग्ध
+
+digdha (adj)—smeared (20)
 
 दिनः
 
-Sorro
+dinaḥ (m)—day
 
-see
+दिश् (दिक्)
 
-n
-
-देवः
-
-dāsah (m)—servant, slave (5 verse, | duhitr (f)-daughter (10)
-
-19) दिग्ध
-
-dūtaḥ (m)-messenger, envoy digdha (adj)—smeared (20)
-
-दूरम्
-
-dūram (ind)—far, a long way (21, dinaḥ (m) day
-
-22) दिश् (दिक्)
-
-दुषणः dis (dik)(1)-cardinal point, direc- | dusanah (m prop) Dusana,brother
-
-tion, quarter (20, 22 verse) ___of Khara (19)
+diś (dik) (f)—cardinal point, direction, quarter (20, 22 verse)
 
 दुःखम्
 
-दृश् duhkham (n) sorrow, misery (4) drs-see, seem, appear (non दुःखित
+duḥkham (n)—sorrow, misery (4)
 
-present form of 4D) (11) duḥkhita (adj)—unhappy (6)
+दुःखित
 
-devaḥ(m)-god, a title of respect दुर्गा
+duḥkhita (adj)—unhappy (6)
 
-__ful address to a king (6, 10) durgā (f prop)—Durgā, name of
+दुर्गा
 
-Parvati, Siva's wife (15)
+durgā (f prop)—Durgā, name of Pārvatī, Śiva's wife (15)
 
-devi (1) lady, queen, goddess (6) दुर्जनः durjanah (m)-evil person (19
+दुर्जनः
 
-देशः
+durjanaḥ (m)—evil person (19 verse)
 
-desah (m)-place, region (6) verse) दुर्मुखी durmukhi (f)-having an ugly face
+दुर्मुखी
 
-dehah (m)-body (21 verse)
-
-(19)
-
-देहिन्
+durmukhī (f)—having an ugly face (19)
 
 दुष्कृतम्
 
-dehin (adj) having a body; (m)
+duṣkṛtam (n)—evil act (4)
 
-duskrtam (n) evil act (4)
+दुष्ट
 
-soul (21 verse)
+duṣṭa (adj)—vicious, uncontrolled
 
-दैवतम् दुष्ट dusta (adj)-vicious, uncontrolled |
+दुह्
 
-daivatam (n)-god, divinity (22)
+√duh (2P)—milk
 
-दोषः दुह् Nduh (2P)—milk
+दुहितृ
 
-dosah (m)—fault, dis-advantage
+duhitṛ (f)—daughter (10)
+
+दूतः
+
+dūtaḥ (m)—messenger, envoy
+
+दूरम्
+
+dūram (ind)—far, a long way (21, 22)
+
+दूषणः
+
+dūṣaṇaḥ (m prop)—Dūṣaṇa, brother of Khara (19)
+
+दृश्
+
+dṛś—see, seem, appear (non-present form of पश्) (11)
+
+देवः
+
+devaḥ (m)—god, a title of respectful address to a king (6, 10)
 
 देवी
 
--
+devī (f)—lady, queen, goddess (6)
 
-458
+देशः
 
-द्रुमः
+deśaḥ (m)—place, region (6)
+
+देहः
+
+dehaḥ (m)—body (21 verse)
+
+देहिन्
+
+dehin (adj)—having a body; (m)—soul (21 verse)
+
+दैवतम्
+
+daivatam (n)—god, divinity (22)
+
+दोषः
+
+doṣaḥ (m)—fault, dis-advantage
 
 द्रव्यम्
 
-धनुः dravyam (n)—thing, thing of dhanuh (n)—bow (9) _value, wealth (18)
+dravyam (n)—thing, thing of value, wealth (18)
 
-धनुर्वेदः
+द्रु
 
-dhanurvedah (m)-science of ar
+√dru (1P)—run (either of a person, or of a liquid or melting solid) (19)
 
-Vdru (1P)—run (either of a person,
+द्रुमः
 
-_chery (6) or of a liquid or melting solid) | धनुष्मन्त् (19)
-
-dhanusmant (adj)—having a bow
-
-(21) drumah (m) tree (18)
-
-धन्य
+drumaḥ (m)—tree (18)
 
 द्वन्द्वम्
 
-dhanya (adj)—fortunate (16)
+dvandvam (n)—pair; (m)—type of compound
 
-dvandvam (n)-pair; (m) type of | धरा
+द्वारम्
 
-compound
+dvāram (n)—gate, door, entrance
 
-dharā (f) earth (12)
+द्वि (stem = द्व)
 
-द्वारम् dvāram (n)-gate, door, entrance dharmaḥ (m)-law, duty, right द्वि (stem = द्व)
+(number)—two, treated as an अ stem noun, in dual only (see 19.6.b) (9, 11)
 
-__ (12)
+द्विजः
 
-(number)—two, treated as an 34
+dvijaḥ (m)—"twice-born," brāhman, bird (6)
 
-stem noun, in dual only (see dharmacārin (adj)—righteous (22) 19.6.b) (9, 11)
+द्वितीय
 
-Vdhā (3P)—to put or place (16) द्विजः
-
-dvijah(m)—"twice-born,” brah
-
-धान्यम् man, bird (6)
-
-dhānyam (n)-grain (16) द्वितीय
-
-धार्मिक dvitīya (adj) second (11)
-
-dharmika (adj)—righteous (4)
-
-धर्मः
-
-धा
+dvitīya (adj)—second (11)
 
 द्विष्
 
-धिक्
+√dviṣ (2P/Ā)—hate
 
-Vdvis (2PIA)—hate
+-ध-
 
--- -dh
-
-dhik (ind)—particle expressing
-
-anger or contempt (17) धीः dhih (f)—thought
+-dh-
 
 धनम्
 
-| Ndhr (10P/A)—bear, possess, as dhanam (n)—wealth (9 verse, 16)
+dhanam (n)—wealth (9 verse, 16)
 
-| sume (8 verse)459
+धनुः
+
+dhanuḥ (n)—bow (9)
+
+धनुर्वेदः
+
+dhanurvedaḥ (m)—science of archery (6)
+
+धनुष्मन्त्
+
+dhanuṣmant (adj)—having a bow (21)
+
+धन्य
+
+dhanya (adj)—fortunate (16)
+
+धरा
+
+dharā (f)—earth (12)
+
+धर्मः
+
+dharmaḥ (m)—law, duty, right (12)
+
+धर्मचारिन्
+
+dharmacārin (adj)—righteous (22)
+
+धा
+
+√dhā (3P)—to put or place (16)
+
+धान्यम्
+
+dhānyam (n)—grain (16)
+
+धार्मिक
+
+dhārmika (adj)—righteous (4)
+
+धिक्
+
+dhik (ind)—particle expressing anger or contempt (17)
+
+धीः
+
+dhīḥ (f)—thought
+
+धृ
+
+√dhṛ (10P/Ā)—bear, possess, assume (8 verse)
 
 धृष्
 
-नन्दनः Vdhțs (5P)—be bold, courageous | nandanah (n)—causer of joy (16)
+√dhṛṣ (5P)—be bold, courageous (20)
 
-(20)
+धैर्यम्
 
-नन्दिः धैर्यम्
+dhairyam (n)—fortitude, courage (20)
 
-nandih (m prop)-Nandi (or dhairyam (n) fortitude, courage ____Nandin), Siva's bull (19)
+ध्या
 
-(20)
+√dhyā (4Ā)—meditate
 
-नन्दिग्रामः ध्या
+ध्यानम्
 
-nandigrāmah (m prop)-Nandi Vdhyā (4A)-meditate
-
-grāma, village outside Ayodhyā ध्यानम्
-
-where Bharata, acting as regent,
-
-dhyānam (n) meditation (7)
-
-awaited Rāma's return (22)
-
-नन्दित
-
-Vdhyai (4P)—be rapt in thought
-
-nandita (adj)—overjoyed (11) (22)
-
-नम् Vnam (1P)—bow, bend (10)
-
-नमः namah (n) reverence, homage (5
-
-verse, 9)
+dhyānam (n)—meditation (7)
 
 ध्यै
 
-ܢܢܼܲ
+√dhyai (4P)—be rapt in thought (22)
 
-ܒܼܲ
+-न्-
 
-...
+-n-
 
-.
+न
 
-na (ind)-negative particle (4) नगरम् nagaram (n) city (10)
+na (ind)—negative particle (4)
 
-नत nata (adj)—bowed, bent (10)
+नगरम्
 
-नयनम् nayanam (n)-eye (14)
+nagaram (n)—city (10)
 
-नरः narah (m)—man (17, 18 verse)
+नत
 
-नरकः narakah (m)—hell (17)
+nata (adj)—bowed, bent (10)
 
 नद्
 
+√nad (1P)—roar (19)
+
+नदी
+
+nadī (f)—river (19)
+
+नद्ध
+
+naddha (adj)—bound (10)
+
+नन्द्
+
+√nand (1P)—rejoice (18 verse)
+
+नन्दनः
+
+nandanaḥ (n)—causer of joy (16)
+
+नन्दिः
+
+nandiḥ (m prop)—Nandi (or Nandin), Śiva's bull (19)
+
+नन्दिग्रामः
+
+nandigrāmaḥ (m prop)—Nandigrāma, village outside Ayodhyā where Bharata, acting as regent, awaited Rāma's return (22)
+
+नन्दित
+
+nandita (adj)—overjoyed (11)
+
+नम्
+
+√nam (1P)—bow, bend (10)
+
+नमः
+
+namaḥ (n)—reverence, homage (5 verse, 9)
+
+नयनम्
+
+nayanam (n)—eye (14)
+
+नरः
+
+naraḥ (m)—man (17, 18 verse)
+
+नरकः
+
+narakaḥ (m)—hell (17)
+
 नलः
 
-Vnad (1P) roar (19) नदी nadi (f) river (19)
+nalaḥ (m prop)—Nala, a monkey, chief architect of the bridge whereby Rāma's forces crossed the sea to Laṅkā (22)
 
-नद्ध naddha (adj)—bound (10)
+नवन्
 
-nalah (m prop)—Nala, a monkey,
-
-chief architect of the bridge whereby Rāma's forces crossed the sea to Lankā (22)
-
-नन्द Vnand (1P)—rejoice (18 verse)
-
-नवन् navan (adj)-nine ( see 19.6)
-
-460
+navan (adj)—nine (see 19.6)
 
 नव
 
-(4)
-
-नष्ट
-
-नह
-
-(4)
-
-निः + श्वस् nava (adj)—new (21 verse) niḥ + Vớvas (2P)—sigh (15)
+nava (adj)—new (21 verse)
 
 नश्
 
-निःसपत्न Vnaś (4P)—perish, be destroyed niḥsapatna (adj)-having no rival
+√naś (4P)—perish, be destroyed (4)
 
-(19)
+नष्ट
 
-नि + क्षिप् nasta (adj)-ruined, destroyed (6) | ni + Vksip (6)—throw down, en
+naṣṭa (adj)—ruined, destroyed (6)
 
-trust, place (9) Vnah (4P)—bind (10)
+नह्
 
-नि+ ग्रह
+√nah (4P)—bind (10)
 
 नादः
 
-ni + Vgrah (9P)—imprison (16) nādaḥ (m)-roar (15 verse, 22) नित्यम्
+nādaḥ (m)—roar (15 verse, 22)
 
 नाम
 
-nityam (ind)—always, constantly nāma (ind)—"by name," namely
-
-__ (21)
-
-नि+ दर्शय्
+nāma (ind)—"by name," namely (4)
 
 नामधेयम्
 
-ni + Vdarsay (णिजन्त of नि+Vदृश)
+nāmadheyam (n)—name (5)
 
-nāmadheyam (n)-name (5)
+नामन्
 
-___show, point out (18)
+nāman (n)—name (8)
 
-निद्रा नामन्
+नायकः
 
-nidra (f)-sleep (12) nāman (n)-name (8)
+nāyakaḥ (m)—leader (17)
 
-निन्द् नायक:
+नारी
 
-Vnind (1P)—blame, revile nayakah (m) leader (17) नारी
+nārī (f)—woman (6)
+
+नाशकः
+
+nāśakaḥ (m)—destroyer (21)
+
+नासा
+
+nāsā (f)—nose (19)
+
+निः-
+
+niḥ (ind)—without, devoid of (only as first member of compound) (14)
+
+निः + श्वस्
+
+niḥ + √śvas (2P)—sigh (15)
+
+निःसपत्न
+
+niḥsapatna (adj)—having no rival (19)
+
+नि + क्षिप्
+
+ni + √kṣip (6)—throw down, entrust, place (9)
+
+नि + ग्रह्
+
+ni + √grah (9P)—imprison (16)
+
+नित्यम्
+
+nityam (ind)—always, constantly (21)
+
+नि + दर्शय्
+
+ni + √darśay (णिजन्त of नि + √दृश्)—show, point out (18)
+
+निद्रा
+
+nidrā (f)—sleep (12)
+
+निन्द्
+
+√nind (1P)—blame, revile
 
 निन्दित
 
-nindita (adj)-blamed, reviled nari (f)-woman (6)
+nindita (adj)—blamed, reviled
 
-नि+ पत् नाशकः nāśakah (m) destroyer (21)
+नि + पत्
 
-ni + Vpat (1P)—fall, sink down
-
-(18) नासा nasa (1)—nose (19)
+ni + √pat (1P)—fall, sink down (18)
 
 निपुण
 
-nipuna (adj) clever (6) निः
+nipuṇa (adj)—clever (6)
 
-निमग्न nih (ind)—without, devoid of (only as first member of compound)
+निमग्न
 
 nimagna (adj)—sunk (10)
 
-(14)
+नि + युज्
 
-461
+ni + √yuj (7P)—install, appoint (with चतुर्थी or सप्तमी विभक्ति) (17 verse)
 
-नि + युज
+नियोजित
 
-| vented (णिजन्त—निवारय्) (19) ni + vyuj (7P)-install, appoint | निवत
+niyojita (adj)—appointed (20)
 
-(with चतुर्थी or सप्तमी विभक्ति) (17
+नि + रुह्
 
-ni + Vvrt (14) turn back (20) verse)
+ni + √ruh (1P)—climb up (18 verse)
 
-नि+ शम् नियोजित
+नि + रूप्
 
-ni + Všam (4P)-hear, listen (20) niyojita (adj)—appointed (20)
+ni + √rūp—perceive, notice (15)
 
-निशाचरः नि + रुह
+निर्गत
 
-nisacarah (m)—lit., night-roamer,' ni + Vruh (1P)—climb up (18
+nirgata (adj)—departed (7)
 
-arāksasa (5 verse, 7) ___verse)
+निर् + गम्
 
-निश्चित नि + रूप
+nir + √gam (1P)—go forth (22)
 
-niścita (adj)-decided, settled; ni + Vrūp-perceive, notice (15)
+निर्मनुष्य
 
-(ind) certainly, surely (14) निर्गत
+nirmanuṣya (adj)—devoid of people, uninhabited
 
-निषण्ण nirgata (adj) departed (7)
+निर्वासित
 
-nisanna (adj)-dejected (12) निर् + गम्
+nirvāsita (adj)—exiled (17)
 
-नि+ हन् nir + Vgam (1P)-go forth (22)
+नि + वस्
 
-ni + Vhan (2P)—kill निर्मनुष्य
+ni + √vas (1P)—live, dwell (20)
 
-निहत nirmanusya (adj)-devoid of | nihata (adj)-slain (19)
+निवासः
 
-people, uninhabited निर्वासित
+nivāsaḥ (m)—dwelling (21)
 
-Vni (1P)—lead (10) nirvasita (adj) exiled (17)
+नि + विद्
 
-नील नि+ वस्
+ni + √vid (2P)—be informed (णिजन्त—निवेदय्, with dative) (14, 19)
 
-nila (adj)-dark, blue-black (20) ni + Vvas (1P)—live, dwell (20)
+नि + वृ
 
-नीलकण्ठः निवासः
+ni + √vṛ (5P/Ā)—be blocked, prevented (णिजन्त—निवारय्) (19)
 
-nilakanthah (n)—'having a blue nivāsaḥ (m)-dwelling (21)
+नि + वृत्
 
-throat,' epithet of Siva नि + विद् ni + Vvid (2P)—be informed Vnột (4P/Ā) dance (10)
+ni + √vṛt (1Ā)—turn back (20)
 
-(णिजन्त निवेदय्, with dative) (14, 19)
+नि + शम्
 
-nrpah (m)—king (4)
+ni + √śam (4P)—hear, listen (20)
 
-नृपतिः ni + Vvr (5PIA) be blocked, pre- |
+निशाचरः
 
-| nrpatih (m) king (13)
+niśācaraḥ (m)—lit., 'night-roamer,' a rākṣasa (5 verse, 7)
+
+निश्चित
+
+niścita (adj)—decided, settled; (ind)—certainly, surely (14)
+
+निषण्ण
+
+niṣaṇṇa (adj)—dejected (12)
+
+नि + हन्
+
+ni + √han (2P)—kill
+
+निहत
+
+nihata (adj)—slain (19)
+
+नी
+
+√nī (1P)—lead (10)
+
+नील
+
+nīla (adj)—dark, blue-black (20)
+
+नीलकण्ठः
+
+nīlakaṇṭhaḥ (n)—'having a blue-throat,' epithet of Śiva
 
 नृत्
 
-नि+
+√nṛt (4P/Ā)—dance (10)
 
-462
+नृपः
 
-नेत netr (m)-leader (10)
+nṛpaḥ (m)—king (4)
 
-न्यस्त nyasta (adj)—set down (18)
+नृपतिः
 
-पतिः patih (m) lord, husband (irregu
+nṛpatiḥ (m)—king (13)
 
-lar declension, see 21.3.b) (12) पतित patita (adj)—fallen
+नेतृ
 
-पत्नी
+netṛ (m)—leader (10)
 
--p
+न्यस्त
 
-patni (f)—wife
+nyasta (adj)—set down (18)
 
-पत्रम्
+-प-
+
+-p-
 
 -प
 
--प -pa (adj)—drinker (from 191 1P, patram (n)-leaf (8)
+-pa (adj)—drinker (from √पा 1P, see 12.17)
 
-see 12.17)
+-प
 
-पत्ररथः
+-pa (adj)—protector (from √पा 2P, see 12.17)
 
-patrarathah (m)—bird (20) -pa (adj)-protector (from vपा 2P, | पदवी ___see 12.17)
+पच्
 
-padavi (f) path; with अनु+ गम्
-
-पच
-
-follow in someone's footsteps Vpac (1P) cook
-
-(21)
+√pac (1P)—cook
 
 पञ्चन्
 
-पम्पा pañcan (adj)—five ( see 19.6) (19) pampā (f prop)-Pampā, name of
+pañcan (adj)—five (see 19.6) (19)
 
-a lake, scene of Rāma's first पञ्चत्वम् pancatvam (n)—fiveness,' disso
+पञ्चत्वम्
 
-__meeting with Hanuman (21) lution, death (20)
-
-पयः
-
-payah (n)—milk Vpath (1P)-read (15) पठित
-
-para (adj)—other, highest (15); pathita (adj)—read
-
-supreme (22); परतः (ind) else
-
-पण्डितः
-
-where (see इतः) (7 verse); परतर
-
-panditaḥ (m)—wise man, learned
-
-(adj)-greater than (with पञ्चमी)
-
-___one (7)
-
-(5 verse) (See 5.7.)
-
-परम Vpat (1P)—fall (10)
-
-parama (adj)-supreme (6, 17)
+pañcatvam (n)—'fiveness,' dissolution, death (20)
 
 पठ्
 
-पर
+√paṭh (1P)—read (15)
+
+पठित
+
+paṭhita (adj)—read
+
+पण्डितः
+
+paṇḍitaḥ (m)—wise man, learned one (7)
 
 पत्
 
-463
+√pat (1P)—fall (10)
+
+पतिः
+
+patiḥ (m)—lord, husband (irregular declension, see 21.3.b) (12)
+
+पतित
+
+patita (adj)—fallen
+
+पत्नी
+
+patnī (f)—wife
+
+पत्रम्
+
+patram (n)—leaf (8)
+
+पत्ररथः
+
+patrarathaḥ (m)—bird (20)
+
+पदवी
+
+padavī (f)—path; with अनु + √गम्—follow in someone's footsteps (21)
+
+पम्पा
+
+pampā (f prop)—Pampā, name of a lake, scene of Rāma's first meeting with Hanumān (21)
+
+पयः
+
+payaḥ (n)—milk
+
+पर
+
+para (adj)—other, highest (15); supreme (22); परतः (ind)—elsewhere (see इतः) (7 verse); परतर (adj)—greater than (with पञ्चमी) (5 verse) (See 5.7.)
+
+परम
+
+parama (adj)—supreme (6, 17)
 
 परमेश्वरः
 
-| परिवृत parameśvaraḥ (m)- 'supreme | parivrta (adj) surrounded (17)
+parameśvaraḥ (m)—'supreme lord,' epithet of Śiva
 
-lord,' epithet of Siva
+परशुः
 
-परि + व्रज परशुः
-
-pari + Vvraj (IP)—wander (as a parasuh (m) axe (14)
-
-mendicant)
+paraśuḥ (m)—axe (14)
 
 पराक्रमः
 
-परिव्राजकः parākramah (m)—valor (21) parivrājakaḥ (m)—wandering as पराजि (परा + जि)
+parākramaḥ (m)—valor (21)
 
-cetic parāji (parā + Vji) (1P) conquer, RAISA
+पराजि (परा + जि)
 
-subdue (14)
+parāji (parā + √ji) (1P)—conquer, subdue (14)
 
-Vparisāntv (10P)—calm, soothe परायण (पर + अयण)
+परायण (पर + अयण)
 
-(18) parayana (para + ayana) (adj) | परि + स्वज्
+parāyaṇa (para + ayaṇa) (adj)—attached to, devoted to; (n)—last resort or recourse (5 verse)
 
-attached to, devoted to; (n)—last | pari + Vsvaj (14) embrace (15) resort or recourse (5 verse)
+परिघः
 
-परिहासः परिघः
+parighaḥ (m)—iron bar, massive club (20)
 
-parihāsaḥ (m)—joke, jest (19) parighah (m)—iron bar, massive
+परिणामः
 
-club (20)
+pariṇāmaḥ (m)—change, alteration
 
-pari + Vhr (1P) avoid, shun (19 परिणामः
+परिणी (परि + नी)
 
-verse) pariņāmaḥ (m)—change, alter- uten
+pariṇī (pari + √nī) (1P)—marry (8)
 
-ation
+परि + त्यज्
 
-parīkņā (f)—test परिणी (परि + नी)
+pari + √tyaj (1P)—abandon (9)
 
-परुष parini (pari + Vni) (1P)-marry (8)
+परिपूर्ण
 
-parusa (adj)—harsh परि + त्य
+paripūrṇa (adj)—full
 
-परुषम् pari + Vtyaj (1P)—abandon (9)
+परिवर्तनम्
 
-parusam (n) harsh speech (22) परिपूर्ण
+parivartanam (n)—whirling about, change, reversal (12)
 
-पर्णम् paripūrņa (adj)—full
+परिवृत
 
-pamam (n)—leaf (19) परिवर्तनम्
+parivṛta (adj)—surrounded (17)
 
-पर्याकुल parivartanam (n)—whirling about,
+परि + व्रज्
 
-paryakula (adj) frightened, con change, reversal (12)
+pari + √vraj (1P)—wander (as a mendicant)
 
-fused (21)
+परिव्राजकः
 
-परि + ह
+parivrājakaḥ (m)—wandering ascetic
 
-464
+परिसान्त्व्
+
+√parisāntv (10P)—calm, soothe (18)
+
+परि + स्वज्
+
+pari + √svaj (1Ā)—embrace (15)
+
+परिहासः
+
+parihāsaḥ (m)—joke, jest (19)
+
+परि + हृ
+
+pari + √hṛ (1P)—avoid, shun (19 verse)
+
+परीक्षा
+
+parīkṣā (f)—test
+
+परुष
+
+paruṣa (adj)—harsh
+
+परुषम्
+
+paruṣam (n)—harsh speech (22)
+
+पर्णम्
+
+parṇam (n)—leaf (19)
+
+पर्याकुल
+
+paryākula (adj)—frightened, confused (21)
 
 पर्युत्सुक
 
-पादुका paryutsuka (adj)—restless pādukā (f)—sandal (18) पला +इ
+paryutsuka (adj)—restless
 
-पापम् palā + Vi (1Ā)-flee (conjugate pāpam (n)-sin, evil; (adj)evil,
+पला + इ
 
-like an "a" गण root from stem __nasty (11 verse, 12) पलाय) (7)
+palā + √i (1Ā)—flee (conjugate like an "a" गण root from stem पलाय) (7)
 
-पापजनः पलितम्
+पलितम्
 
-papajanah (m)-sinful person palitam (n)-grey hair (18 verse) पापिन् पवित्र
+palitam (n)—grey hair (18 verse)
 
-papin (m; f -इनी)-sinner pavitra (adj)—pure, holy (22)
+पवित्र
 
-पारः पश्
+pavitra (adj)—pure, holy (22)
 
-parah (m)-lit., "far shore," with Vpaś (4P)—see (used in present VITA excel at, fully compre
+पश्
 
-system only, see दृश्) (4) hend (6)
+√paś (4P)—see (used in present system only, see दृश्) (4)
 
-पार्थिवः Vpā (1P)-drink (15)
+पा
 
-pārthivah (m)—king (5)
+√pā (1P)—drink (15)
 
-पार्वती Vpā (2P) protect (18)
+पा
 
-parvati (f prop)-Parvati, Siva's
+√pā (2P)—protect (18)
 
 पाचकः
 
-wife pācakaḥ (m) cook
-
-पाल
+pācakaḥ (m)—cook
 
 पाणिः
 
-Vpāl (10P)-protect (11) panih (m)-hand; at end of com- | पालित
-
-pound—'having ... in hand' pālita (adj) under the protection (20)
-
-of (22)
+pāṇiḥ (m)—hand; at end of compound—'having ... in hand' (20)
 
 पाण्डवः
 
-पाशः pandavah (m prop)—Pandava, | pasah (m)—noose (19)
+pāṇḍavaḥ (m prop)—Pāṇḍava, descendant of king Pāṇḍu
 
-descendant of king Pāndu
+पादः
 
-पितरौ पादः
+pādaḥ (m)—foot (16 verse)
 
-pitarau (m nom dual of पितृ)_"el pādah (m)—foot (16 verse) lipticaldual" of मातृपितरौ, 'mother पादपः
+पादपः
 
-and father,' parents
+pādapaḥ (m)—tree
 
-pādapah (m)-tree
+पादुका
 
-465
+pādukā (f)—sandal (18)
 
-पूज
+पापम्
 
-पूजा
+pāpam (n)—sin, evil; (adj)—evil, nasty (11 verse, 12)
 
-पीत
+पापजनः
+
+pāpajanaḥ (m)—sinful person
+
+पापिन्
+
+pāpin (m; f -इनी)—sinner
+
+पारः
+
+pāraḥ (m)—lit., "far shore," with √गम्—excel at, fully comprehend (6)
+
+पार्थिवः
+
+pārthivaḥ (m)—king (5)
+
+पार्वती
+
+pārvatī (f prop)—Pārvatī, Śiva's wife
+
+पाल्
+
+√pāl (10P)—protect (11)
+
+पालित
+
+pālita (adj)—under the protection of (22)
+
+पाशः
+
+pāśaḥ (m)—noose (19)
+
+पितरौ
+
+pitarau (m nom dual of पितृ)—"elliptical dual" of मातृपितरौ, 'mother and father,' parents
 
 पितृ
 
-| पुष्पित pitr (m)-father, ancestor (10, 19) puspita (adj) flowery (19) पिपासा
+pitṛ (m)—father, ancestor (10, 19)
 
-पुस्तकम् pipāsā (f)—thirst (18)
+पिपासा
 
-pustakam (n)—book (13, 15)
+pipāsā (f)—thirst (18)
 
 पिशाचः
 
-piśācaḥ (m)-piśāca, type of de- Vpū (9P/A) purify (19)
+piśācaḥ (m)—piśāca, type of demon
 
-mon पीडित
+पीडित
 
-Vpūj (10P)—worship, revere (9
-
-pidita (adj)-oppressed, afflicted
-
-verse, 19)
-
-(4)
-
-pūjā (f)—worship, reverence (15) pita (adj)-drunk (as a liquid is) पूर्ण
-
-pūrņa (adj)—full (10)
-
-pita (adj)-yellow पीताम्बरः
-
-pūrva (adj)-previous, former (de
-
-pītāmbaraḥ(m)—'having a yellow
-
-clined pronominally, see 5.7)
-
-garment,' epithet of Vişņu
-
-((ind)—previously; with पञ्चमी— before' (15)
-
-| पूर्वजः puccham (n)—tail (18 verse)
-
-purvajah (m)—'born-previously,'
-
-elder brother putrah (m) son (4)
-
-पृथिवी पुनः
-
-prthivi (f)-earth (14) punah (ind)-again (4)
+pīḍita (adj)—oppressed, afflicted (4)
 
 पीत
 
+pīta (adj)—drunk (as a liquid is)
+
+पीत
+
+pīta (adj)—yellow
+
+पीताम्बरः
+
+pītāmbaraḥ (m)—'having a yellow garment,' epithet of Viṣṇu
+
 पुच्छम्
+
+puccham (n)—tail (18 verse)
 
 पुत्रः
 
-Vpr (9P)—fill
+putraḥ (m)—son (4)
 
-purā (ind)—previously, long ago
+पुनः
 
-(13)
+punaḥ (ind)—again (4)
+
+पुरा
+
+purā (ind)—previously, long ago (13)
+
+पुरी
+
+purī (f)—city (22)
+
+पुरुषः
+
+puruṣaḥ (m)—man, person (6)
+
+पुष्पित
+
+puṣpita (adj)—flowery (19)
+
+पुस्तकम्
+
+pustakam (n)—book (13, 15)
+
+पू
+
+√pū (9P/Ā)—purify (19)
+
+पूज्
+
+√pūj (10P)—worship, revere (9 verse, 19)
+
+पूजा
+
+pūjā (f)—worship, reverence (15)
+
+पूर्ण
+
+pūrṇa (adj)—full (10)
+
+पूर्व
+
+pūrva (adj)—previous, former (declined pronominally, see 5.7) (5); पूर्वम् (ind)—previously; with पञ्चमी—'before' (15)
+
+पूर्वजः
+
+pūrvajaḥ (m)—'born-previously,' elder brother
+
+पृथिवी
+
+pṛthivī (f)—earth (14)
+
+पॄ
+
+√pṝ (9P)—fill
 
 पौत्रः
 
-pautrah (m)-grandson (22) प्रकाशः
+pautraḥ (m)—grandson (22)
 
-prakasah (m)—light (21)
+प्रकाशः
 
-puri (f)-city (22) पुरुषः puruṣaḥ (m)-man, person (6)
-
-466
+prakāśaḥ (m)—light (21)
 
 प्रकृतिः
 
-प्रति + ज्ञा prakrtih (f) nature (18 verse) prati + Vina (9P)-vow, promise
+prakṛtiḥ (f)—nature (18 verse)
 
-(8) प्रख्यात prakhyāta (adj)-famous (19)
+प्रख्यात
 
-प्रतिज्ञात
+prakhyāta (adj)—famous (19)
 
 प्रचोदित
 
-pratijñāta (adj)—vowed, promised
+pracodita (adj)—urged (21)
 
-(12) pracodita (adj)—urged (21)
+प्रच्छ्
 
-प्रच्छ
+√pracch (6P)—ask (6)
 
-प्रतिदिनम् Vpracch (6P)—ask (6)
+प्र + छद्
 
-pratidinam (ind) every day, daily
+pra + √chad (10P)—cover, conceal (11 verse)
 
-प्र+छद्
+प्रजा
 
-प्रति + नि + वृत् pra + Vchad (10P)—cover, conceal prati + ni + Vvịt (1Ā)-return (18)
+prajā (f)—offspring, children, people of a kingdom or realm (5)
 
-(11 verse)
+प्रज्ञा
 
-| प्रतिपत्तिः प्रजा
+prajñā (f)—intellect
 
-pratipattiḥ (f)-attainment of praja (f)-offspring, children, knowledge
+प्रज्वलित
 
-people of a kingdomorrealm (5) प्रतिपादय प्रज्ञा
-
-prati + pāday (णिजन्त of प्रति + prajñā (f)—intellect
-
-196)-install (22) प्रज्वलित
-
-प्रति + पाल् prajvalita (ad)—blazing (10 verse) prati + Vpāl (10P)—wait, watch,
+prajvalita (adj)—blazing (10 verse)
 
 प्रणयः
 
-protect (18) pranayah (m)-love (22) | प्रति + वच् प्रति
+praṇayaḥ (m)—love (22)
 
-prati + Vvac (2P)-answer (18)
+प्रति
 
-prati (ind)-to, with respect to/ प्रति + सान्त्व्
+prati (ind)—to, with respect to (preposition with द्वितीया); each, every (as first member of अव्ययीभाव) (6, 14)
 
-(preposition with fariell); each, prati + Vsāntv (10P) calm, soothe every (as first member of अव्ययी- (18) भाव) (6, 14)
+प्रति + गम्
 
-प्रति + स्था प्रति + गम्
+prati + √gam (1P)—go back (9)
 
-prati + Vsthā (1P)-establish (18) prati + vgam (1P) –go back (9)
+प्रति + ग्रह्
 
-प्रतोदः प्रति + ग्रह
+prati + √grah (9P)—take (18)
 
-pratodah (m)-goad (19) prati + vgrah (9P)—take (18)
+प्रति + ज्ञा
 
-467
+prati + √jñā (9P)—vow, promise (8)
+
+प्रतिज्ञात
+
+pratijñāta (adj)—vowed, promised (12)
+
+प्रतिदिनम्
+
+pratidinam (ind)—every day, daily
+
+प्रति + नि + वृत्
+
+prati + ni + √vṛt (1Ā)—return (18)
+
+प्रतिपत्तिः
+
+pratipattiḥ (f)—attainment of knowledge
+
+प्रति + पादय्
+
+prati + pāday (णिजन्त of प्रति + √पद्)—install (22)
+
+प्रति + पाल्
+
+prati + √pāl (10P)—wait, watch, protect (18)
+
+प्रति + वच्
+
+prati + √vac (2P)—answer (18)
+
+प्रति + सान्त्व्
+
+prati + √sāntv (10P)—calm, soothe (18)
+
+प्रति + स्था
+
+prati + √sthā (1P)—establish (18)
+
+प्रतोदः
+
+pratodaḥ (m)—goad (19)
 
 प्रत्यनन्तर
 
-प्र + मुद् pratyanantara (adj)—being in the pra + Vmud (1P)—rejoice (22)
+pratyanantara (adj)—being in the immediate neighborhood (20)
 
-immediate neighborhood (20)
+प्रत्याया (प्रति + आ + या)
 
-पत्याया (प्रति + आ + या)
+pratyāyā (prati + ā + √yā) (2P)—come back to, return (17)
 
-pramudita (adj)-delighted, pratyāyā (prati + ā + Vyā) (2P)-| pleased (10)
+प्रथम
 
-come back to, return (17)
-
-प्र+ यत् प्रथम
-
-pra + Vyat (1Ā)—attempt, try, ex prathama (adj)—first (11) ___ert oneself (8)
+prathama (adj)—first (11)
 
 प्रभावः
 
-प्रयत्नः prabhāvaḥ (m)-power (8,9 prayatnaḥ (m)-effort (12)
+prabhāvaḥ (m)—power (8, 9 verse)
 
-verse)
+प्र + भाष्
 
-प्र+ या प्र + भाष
+pra + √bhāṣ (1Ā)—speak
 
-pra + Vya (2P)–go (22) pra + Vbhāş (1Ā)—speak
+प्र + भू
 
-प्र + लप् प्र + भू
+pra + √bhū (1P)—be powerful
 
-pra + Vlap (1P)-prattle pra + Vbhū (1P)—be powerful
+प्रभृति
 
-प्रलयः प्रभृति
+prabhṛti (ind)—starting from (at end of compound, after indeclinable or पञ्चमी) (17)
 
-pralayah (m)-cosmicdissolution prabhrti (ind)-starting from (at (21)
+प्र + मथ्
 
-end of compound, after indeclin
+pra + √math (1P)—harass, torment, annoy (21)
 
-प्रलापः able or पञ्चमी) (17)
+प्रमदा
 
-pralāpaḥ (m)-prattling, talk प्र+मथ
+pramadā (f)—a beautiful young woman (20)
 
-प्र + लोभय् pra + Vmath (1P)—harass, tor
+प्रमुख
 
-tor- | pra + lobhay (णिजन्तof प्र+Vलुभ) ment, annoy (21)
+pramukha (adj)—foremost (17 verse)
 
-infatuate प्रमदा
+प्रमुखे
 
-प्र+ विश् pramadā (f)—a beautiful young pra+ Vviś (6P)—enter (11)
+pramukhe (ind)—in front of, before the eyes (21)
 
-woman (20)
+प्र + मुद्
 
-प्र+ वृत् प्रमुख
+pra + √mud (1P)—rejoice (22)
 
-pra + Vvrt (1A)-proceed, take pramukha (adj)—foremost (17)
+प्रमुदित
 
-place (13) verse)
+pramudita (adj)—delighted, pleased (10)
 
-प्र + शास् प्रमुखे
+प्र + यत्
 
-pra + Vas (2P)-rule, reign (13) pramukhe (ind)-in front of, be
+pra + √yat (1Ā)—attempt, try, exert oneself (8)
 
-fore the eyes (21)
+प्रयत्नः
 
-468
+prayatnaḥ (m)—effort (12)
+
+प्र + या
+
+pra + √yā (2P)—go (22)
+
+प्र + लप्
+
+pra + √lap (1P)—prattle
+
+प्रलयः
+
+pralayaḥ (m)—cosmic dissolution (21)
+
+प्रलापः
+
+pralāpaḥ (m)—prattling, talk
+
+प्र + लोभय्
+
+pra + lobhay (णिजन्त of प्र + √लुभ्)—infatuate
+
+प्र + विश्
+
+pra + √viś (6P)—enter (11)
+
+प्र + वृत्
+
+pra + √vṛt (1Ā)—proceed, take place (13)
+
+प्र + शास्
+
+pra + √śās (2P)—rule, reign (13)
 
 प्रश्नः
 
-प्रातर् (=प्रातः) prasnah (m)-question (19) prātar (=prātaḥ) (ind)-in the
+praśnaḥ (m)—question (19)
 
-प्र+सद्
+प्र + सद्
 
-_morning (21) pra + Vsad (1P)—be pleased, ap- | प्राप् (प्र+ आप)
-
-peased, be pacified (13) | prap (pra + Vap) (5P) obtain, re
+pra + √sad (1P)—be pleased, appeased, be pacified (13)
 
 प्रसन्न
 
-_ceive, get, come, arrived (11,16) prasanna (adj)—calm (21) प्रापित प्रसादः
+prasanna (adj)—calm (21)
 
-prāpita (adj) obtained, got (12)
+प्रसादः
 
-prasādah (m)-grace, favor (6| प्राय
-
-verse)
-
-prāya (adj)—for the most part,
+prasādaḥ (m)—grace, favor (6 verse)
 
 प्रसादक
 
-generally, nearly (at end of com
+prasādaka (adj)—propitiating (17 verse)
 
-prasādaka (adj)—propitiating (17
+प्रसिद्ध
 
-pound) (21)
+prasiddha (adj)—famous (19 verse)
 
-verse)
+प्र + स्था
 
-प्रायशः प्रसिद्ध
+pra + √sthā (1P)—set out (18)
 
-prāyaśaḥ (ind)-practically,
+प्र + स्थापय्
 
-prasiddha (adj)-famous (19
+pra + sthāpay (णिजन्त of प्र + √स्था)—send, dispatch (22)
 
-virtually
+प्रहर्षः
 
-___verse)
+praharṣaḥ (m)—joy (18)
 
-प्रा + रम् (प्र + आ + रम)
+प्र + हस्
 
-प्र+स्था
-
-prā + Vrabh (pra + a + Vrabh)
-
-pra + vstha (1P)-set out (18)
-
-(1Ā)—undertake
-
-प्रारब्ध प्र+स्थापय् pra+ sthāpay (णिजन्तof प्र+ स्था)
-
-prārabdha (adj)—prepared send, dispatch (22)
-
-प्रासादः
-
-prāsādaḥ (m)-palace (12) praharsah (m)-joy (18) प्रिय
-
-प्र+हस्
-
-priya (adj)-dear, beloved (6) pra + Vhas (1P)—ridicule (8) प्रियम्
+pra + √has (1P)—ridicule (8)
 
 प्रहृष्ट
 
-priyam (n)-good or pleasant prahrsta (adj)-delighted (20)
+prahṛṣṭa (adj)—delighted (20)
 
-___tiding (22)
+प्राणः
 
-| प्रीत प्राणः pranah (m)—the breath; प्रानान् +
+prāṇaḥ (m)—the breath; प्राणान् + √त्यज्—"abandon life breaths," die (16)
 
-| prita (adj) pleased (22) 12451"abandon life breaths," | प्रे (प्र + इ) die (16)
+प्रातर् (=प्रातः)
 
-| pre (pra + vi) die, depart (22)
+prātar (=prātaḥ) (ind)—in the morning (21)
 
-प्रहर्षः469
+प्राप् (प्र + आप्)
+
+prāp (pra + √āp) (5P)—obtain, receive, get, come, arrived (11, 16)
+
+प्रापित
+
+prāpita (adj)—obtained, got (12)
+
+प्राय
+
+prāya (adj)—for the most part, generally, nearly (at end of compound) (21)
+
+प्रायशः
+
+prāyaśaḥ (ind)—practically, virtually
+
+प्रा + रभ् (प्र + आ + रभ्)
+
+prā + √rabh (pra + ā + √rabh) (1Ā)—undertake
+
+प्रारब्ध
+
+prārabdha (adj)—prepared
+
+प्रासादः
+
+prāsādaḥ (m)—palace (12)
+
+प्रिय
+
+priya (adj)—dear, beloved (6)
+
+प्रियम्
+
+priyam (n)—good or pleasant tiding (22)
+
+प्रीत
+
+prīta (adj)—pleased (22)
+
+प्रे (प्र + इ)
+
+pre (pra + √i)—die, depart (22)
 
 प्रेक्ष् (प्र + ईक्ष्)
 
-बन्ध preks (pra + Viks) (1A)-see, be- | Vbandh (9P)—bind (17)
+prekṣ (pra + √īkṣ) (1Ā)—see, behold (19)
 
-hold (19)
+प्रेरित
 
-बन्धनागारः प्रेरित
+prerita (adj)—urged, impelled (21)
 
-bandhanāgārah (m)—prison (10) prerita (adj) urged, impelled (21)
+प्रेष् (प्र + इष्) → प्रेषयति
 
-बलम् प्रेष् (प्र + इष)→ प्रेषयति
-
-balam (n)-power, strength (17 pres (pra + Vis) → presayati (caus- | ____verse, 19)
-
-ative, conjugated as 10P)—send,
-
-बलवन्त _dispatch (6)
-
-balavant (adj)-mighty (21)
+preṣ (pra + √iṣ) → preṣayati (causative, conjugated as 10P)—send, dispatch (6)
 
 प्रोक्त
 
+prokta (adj)—addressed, spoken to (19)
+
+प्लु
+
+√plu (1Ā)—jump, leap (22)
+
+-फ-
+
+-ph-
+
+फलम्
+
+phalam (n)—fruit (16)
+
+फुल्ल
+
+phulla (adj)—blooming (16)
+
+फेनः
+
+phenaḥ (m)—foam (20)
+
+-ब-
+
+-b-
+
+बद्ध
+
+baddha (adj)—bound (17)
+
+बन्ध्
+
+√bandh (9P)—bind (17)
+
+बन्धनागारः
+
+bandhanāgāraḥ (m)—prison (10)
+
+बलम्
+
+balam (n)—power, strength (17 verse, 19)
+
+बलवन्त्
+
+balavant (adj)—mighty (21)
+
 बलिन्
 
-prokta (adj) addressed, spoken to
-
-(19)
-
-balin (adj) —strong, powerful (20)
+balin (adj)—strong, powerful (20)
 
 बहिः
 
-Vplu (1A)-jump, leap (22)
+bahiḥ (ind)—outside (18)
 
--फ्
+बहु
 
-bahih (ind) outside (18)
+bahu (adj)—many (7)
 
-बहु bahu (adj)—many (7)
+बहुमत
 
-बहुमत bahumata (adj)-respected
+bahumata (adj)—respected
 
-बहुवारम् bahuvāram (ind)-many times
+बहुवारम्
 
--ph
+bahuvāram (ind)—many times (18)
 
-(18)
+बाढम्
 
-फलम् phalam (n)-fruit (16) फुल्ल phulla (adj)—blooming (16) फेनः phenah (m)-foam (20)
+bāḍham (ind)—excellent, good idea! (21)
 
-बाढम् bādham (ind)—excellent, good
+बाणः
 
-idea! (21)
-
-बाणः banah (m) arrow (6)
-
--b
+bāṇaḥ (m)—arrow (6)
 
 बाध्
 
-बद्ध baddha (adj)—bound (17)
+√bādh (1Ā)—harass (7)
 
-Vbādh (1A)-harass (7) बाधित bādhita (adj)-afflicted, oppressed
+बाधित
 
-(6)
-
-470
+bādhita (adj)—afflicted, oppressed (6)
 
 बान्धवः
 
-ब्रह्मन् bāndhavah (m)-friend, relative | brahman (n)—Brahma, Absolute
-
-(18)
-
-Reality(9); (m)—thegod Brahma
+bāndhavaḥ (m)—friend, relative (18)
 
 बालकः
 
-(12) balakah (m)—boy, youth (4, 17) | ब्रह्मघ्न
+bālakaḥ (m)—boy, youth (4, 17)
 
 बाष्पः
 
-brahmaghna (adj)—killer of brāh
-
-baspah (m)-tears (14)
-
-mans (20)
+bāṣpaḥ (m)—tears (14)
 
 बिन्दुः
 
-ब्रह्मलोकः
+binduḥ (m)—drop, spot (18)
 
-binduh (m)-drop, spot (18)
+बीभत्सा
 
-brahmalokah (m)-Brahma's
+bībhatsā (f)—repulsion
 
-world—the highest heaven (22) बीभत्सा
+बुध्
 
-बाह्मणः bibhatsa (f)—repulsion
+√budh (4Ā)—be awake, enlighten
 
-brahmanah (m)-a brahman (4)
+बुद्ध
 
-बुध
+buddha (adj)—awake, enlightened (10); (m)—the Buddha
 
-Vbudh (4A)—be awake, enlighten
+बुद्धिः
 
-Vbrū (2P)-speak, tell (11) बुद्ध buddha (adj) awake,enlightened
+buddhiḥ (f)—wit, intelligence (11)
 
-(10); (m)—the Buddha
+बुद्धिमन्त्
 
-___-bh बुद्धिः buddhih (f)-wit, intelligence (11) भक्ष् बुद्धिमन्त्
-
-Vbhaks (10PIA)-eat (19) buddhimant (adj; f -3teft)—wise
-
-भक्षः (11)
-
-bhaksah (m)-food (18)
+buddhimant (adj; f -अती)—wise (11)
 
 बुभुक्षा
 
-भगवद्गीता bubhuksā (f)—hunger
+bubhukṣā (f)—hunger
 
-bhagavadgītā (f prop)—Bha बृहन्त
+बृहन्त्
 
-gavadgitā
+bṛhant (adj)—great
 
-brhant (adj)-great
+बोधः
 
-भगवन्त् बोधः
+bodhaḥ (m)—enlightenment (20 verse)
 
-bhagavant (adj)—blessed one (13) bodhaḥ (m)-enlightenment (20 भगिनी
+ब्रह्मन्
 
-verse)
+brahman (n)—Brahma, Absolute Reality (9); (m)—the god Brahmā (12)
 
-bhagini (f)-sister (19)
+ब्रह्मघ्न
 
-भग्न bhagna (adj)—broken (18)
+brahmaghna (adj)—killer of brāhmans (20)
 
-471
+ब्रह्मलोकः
 
-(9)
+brahmalokaḥ (m)—Brahmā's world—the highest heaven (22)
 
-भाष्
+ब्राह्मणः
+
+brāhmaṇaḥ (m)—a brāhman (4)
+
+ब्रू
+
+√brū (2P)—speak, tell (11)
+
+-भ-
+
+-bh-
+
+भक्ष्
+
+√bhakṣ (10P/Ā)—eat (19)
+
+भक्षः
+
+bhakṣaḥ (m)—food (18)
+
+भगवद्गीता
+
+bhagavadgītā (f prop)—Bhagavadgītā
+
+भगवन्त्
+
+bhagavant (adj)—blessed one (13)
+
+भगिनी
+
+bhaginī (f)—sister (19)
+
+भग्न
+
+bhagna (adj)—broken (18)
 
 भज्
 
-ceiving truth), fortunate (20 verse) Vbhaj (1P/Ā)—worship (5 verse); have recourse to, betake oneself
+√bhaj (1P/Ā)—worship (5 verse); have recourse to, betake oneself to (18)
 
-Vbhā (2P)-appear, seem (13); to (18)
+भञ्ज्
 
-shine (22) भञ्ज
+√bhañj (7P)—break (8)
 
-भारः Vbhanj (7P)—break (8)
+भण्
 
-bhārah (m)—load, weight, burden भण् Vbhan (1P)—say. (21)
+√bhaṇ (1P)—say (21)
 
-भार्या भद्रम्
+भद्रम्
 
-bhāryā (f)—wife (5) bhadram (n)—auspicious thing
+bhadram (n)—auspicious thing
 
 भयङ्कर
 
-Vbhās (1Ā)-speak, say (4) bhayankara (adj)-terrible, भाषा
+bhayaṅkara (adj)—terrible, fearsome (19 verse)
 
-fearsome (19 verse)
+भयम्
 
-bhāsā (f)—description, speech भयम्
+bhayam (n)—fear, alarm (16)
 
-भाषित bhayam (n)—fear, alarm (16)
+भरतः
 
-bhasita (adj)—uttered, spoken भरतः bharatah (m prop)—Bharata, one |
+bharataḥ (m prop)—Bharata, one of Rāma's brothers (5)
 
-Vbhid (7P)—split (20) of Rāma's brothers (5)
+भर्तृ
+
+bhartṛ (m)—husband, lord (10)
+
+भवः
+
+bhavaḥ (m)—existence, worldly-existence, the world (20 verse)
+
+भवनम्
+
+bhavanam (n)—palace (13)
+
+भवन्त्
+
+bhavant (m)—you (polite form of मध्यम pronoun)
+
+भव्य
+
+bhavya (adj)—true, capable (of perceiving truth), fortunate (20 verse)
+
+भा
+
+√bhā (2P)—appear, seem (13); shine (22)
+
+भारः
+
+bhāraḥ (m)—load, weight, burden (9)
+
+भार्या
+
+bhāryā (f)—wife (5)
+
+भाष्
+
+√bhāṣ (1Ā)—speak, say (4)
+
+भाषा
+
+bhāṣā (f)—description, speech
+
+भाषित
+
+bhāṣita (adj)—uttered, spoken
+
+भिद्
+
+√bhid (7P)—split (20)
 
 भिन्न
 
-bhinna (adj)-split bhartr (m) husband, lord (10)
+bhinna (adj)—split
 
-भिद
+भी
 
-Vbhi (3P)—fear (7)
-
-भवः bhavah (m)-existence, worldly
-
-existence, the world (20 verse)
+√bhī (3P)—fear (7)
 
 भीत
 
-भवनम् bhavanam (n)-palace (13)
+bhīta (adj)—afraid (4)
 
-भवन्त bhavant (m)-you (polite form of
+भीतिः
 
-मध्यम pronoun)
+bhītiḥ (f)—fear (10)
 
-bhita (adj) afraid (4) भीतिः bhitih (f)-fear (10)
+भीम
 
-भीम bhima (adj)—terrible (20)
+bhīma (adj)—terrible (20)
 
-भव्य bhavya (adj)—true, capable (of per
+भुज्
 
-भुज् Vbhuj (7P)-eat (8)
+√bhuj (7P)—eat (8)
 
-472
+भू
 
-| भोगः
+√bhū (1P)—be, become (4)
 
-bhogah (m)-sensual enjoyment
+भूतम्
 
-(16) भोजनम् bhojanam (n)-food (11)
+bhūtam (n)—creature, being
 
-Vbhū (1P)—be, become (4)
+भूमिः
 
-भूतम् bhūtam (n) creature, being भूमिः bhūmih (f)—land, earth (10) भूमिपः bhāmipah (m)-king (4)
+bhūmiḥ (f)—land, earth (10)
+
+भूमिपः
+
+bhūmipaḥ (m)—king (4)
+
+भूष्
+
+√bhūṣ (10P)—adorn
+
+भूषणम्
+
+bhūṣaṇam (n)—ornament (8 verse)
+
+भूषित
+
+bhūṣita (adj)—ornamented (18, 19 verse)
+
+भृ
+
+√bhṛ (3P)—carry, bear
+
+भृत्
+
+bhṛt (adj)—bearing, carrying (at end of compound) (21)
+
+भृशम्
+
+bhṛśam (adj)—extremely (14)
+
+भैरव
+
+bhairava (adj)—terrible, fearsome (19)
+
+भोः
+
+bhoḥ (ind)—hail or greeting "hey" (6)
+
+भोगः
+
+bhogaḥ (m)—sensual enjoyment (16)
+
+भोजनम्
+
+bhojanam (n)—food (11)
 
 भ्रम्
 
-Vbhram (1P)—wander (19)
+√bhram (1P)—wander (19)
 
-भष्ट bhrasta (adj) lost, destroyed
+भ्रष्ट
 
-भूष Vbhūş (10P)—adorn
+bhraṣṭa (adj)—lost, destroyed
 
 भ्रातृ
 
-bhrātr (m)-brother (10)
+bhrātṛ (m)—brother (10)
 
--म्
+-म्-
 
--m
+-m-
 
-भूषणम् bhāsanam (n)-ornament (8
+मक्षिका
 
-verse) भूषित bhāsita (adj) ornamented (18, 19
-
-verse)
-
-मक्षिका makșikā (f)—fly, mosquito (21)
+makṣikā (f)—fly, mosquito (21)
 
 मणिः
 
-manih (m)-jewel (10)
-
-भ Vbhr (3P) carry, bear
+maṇiḥ (m)—jewel (10)
 
 मत
 
-मृत् bhrt (adj) bearing, carrying (at | mata (adj)—thought, considered
+mata (adj)—thought, considered
 
-end of compound) (21)
+मतिः
 
-मतिः भृशम्
+matiḥ (f)—mind (6)
 
-matih (f)—mind (6) -bhrsam (adj)-extremely (14)
+मत्स्यः
 
-मत्स्यः भैरव
+matsyaḥ (m)—fish (16)
 
-matsyaḥ (m)—fish (16) bhairava (adj)-terrible, fearsome
+मदः
 
-मदः (19)
+madaḥ (m)—drunkenness, excessive delight (11 verse)
 
-madaḥ (m)—drunkenness, exces
+मधुर
 
-sive delight (11 verse) bhoh(ind)—hail or greeting "hey"
+madhura (adj)—sweet (15)
 
-मधुर (6)
+मधुरम्
 
-| madhura (adj)-sweet (15)
-
-473
-
-महन्त्
-
-मधुरम् madhuram (ind)—sweetly (15) mahant (adj)-great, large (11)
+madhuram (ind)—sweetly (15)
 
 मध्यः
 
-महापुरी madhyah (m)-middle, waist (19) | mahapuri (f)-great city (21)
+madhyaḥ (m)—middle, waist (19)
 
 मन्
 
-(9)
-
-m
-
-महाबाहुः Vman (4Ā)—think (4); 41-4 (for mahābāhuḥ (adj)-great-armed
-
-जन्त)—honor, esteem (11 verse) (22)
+√man (4Ā)—think (4); मानय् (णिजन्त)—honor, esteem (11 verse)
 
 मनः
 
-महीयते manah (n)-mind, mental faculty | mahiyate (नामधातु of महि [adj]
-
-great)-rejoice to grow great
+manaḥ (n)—mind, mental faculty (9)
 
 मनुष्यः
 
-महोदधिः manusyah (m)-man, mortal (6) । mahodadhih (m)-ocean (22) मनस्विन
+manuṣyaḥ (m)—man, mortal (6)
 
-महोदरी manasvin (adj)—wise, intelligent mahodari (f)—having a big belly मनोहर
+मनस्विन्
 
-(19) manohara (adj)-charming, fasci
+manasvin (adj)—wise, intelligent
 
-nating (21)
+मनोहर
 
-mā (ind)-negative used with im मन्दिरम्
+manohara (adj)—charming, fascinating (21)
 
-perative and injunctive (see 19.18)
+मन्दिरम्
 
-mandiram (n)-house, palace (17)
+mandiram (n)—house, palace (17)
 
-(11)
+मन्युः
 
-मांसम् मन्युः manyuh (m)—anger, rage (14)
-
-mamsam (n)—flesh (20)
+manyuḥ (m)—anger, rage (14)
 
 मरणम्
 
+maraṇam (n)—death, dying (18)
+
+मर्मन्
+
+marman (n)—vital spot (20)
+
+मशकः
+
+maśakaḥ (m)—fly, mosquito
+
+मशकीकृ
+
+maśakīkṛ (च्वि प्रत्यय)—to turn into a fly or mosquito (13 verse)
+
+महन्त्
+
+mahant (adj)—great, large (11)
+
+महापुरी
+
+mahāpurī (f)—great city (21)
+
+महाबाहुः
+
+mahābāhuḥ (adj)—great-armed (22)
+
+महीयते
+
+mahīyate (नामधातु of महि [adj] great)—rejoice to grow great
+
+महोदधिः
+
+mahodadhiḥ (m)—ocean (22)
+
+महोदरी
+
+mahodarī (f)—having a big belly (19)
+
+मा
+
+mā (ind)—negative used with imperative and injunctive (see 19.18) (11)
+
+मांसम्
+
+māṃsam (n)—flesh (20)
+
 मातृ
 
-maranam (n)-death, dying (18)
+mātṛ (f)—mother (10)
 
-māt; (f)—mother (10)
+मातुलः
 
-मर्मन
+mātulaḥ (m)—maternal uncle (17)
 
-मातुलः marman (n)—vital spot (20)
+मानय्
 
-mātulah (m)-maternal uncle (17)
+mānay (णिजन्त of √मन्)—respect, esteem (11 verse)
 
-मानय् मशकः
+मानव
 
-masakah (m)—fly, mosquito
-
-mānay (णिजन्त of (मन्) respect,
-
-esteem (11 verse) मशकीकृ
-
-मानव masakikr (च्चि प्रत्यय) to turn into |
-
-a fly or mosquito (13 verse)
-
-mānava (adj)-relating to Manu;
-
-(m)-man, human (20)
-
-474
+mānava (adj)—relating to Manu; (m)—man, human (20)
 
 मानुष
 
-मिथुनम् manusa (adj)—human; (m)—man, | mithunam (n)-coupling, sexual
-
-human (20)
-
-intercourse
+mānuṣa (adj)—human; (m)—man, human (20)
 
 मान्य
 
-मिथ्या mānya (adj)—to be respected, mithyā (ind)—unreal, false (9)
+mānya (adj)—to be respected, worthy of respect (11 verse)
 
-worthy of respect (11 verse)
+मामक
 
-मीमांसा मामक
+māmaka (adj)—belonging to me, mine
 
-mināmsā (f)-inquiry, Mimāņsā māmaka (adj)—belonging to me,
+माया
 
-school of philosophy mine
+māyā (f)—illusion, magic (21)
+
+मायाविन्
+
+māyāvin (adj)—possessing माया, or illusory power (22)
+
+मारीचः
+
+mārīcaḥ (m prop)—Mārīca, name of a rākṣasa (21)
+
+मार्ग्
+
+√mārg (1Ā)—search for (22)
+
+मार्गः
+
+mārgaḥ (m)—path, road (10)
+
+माला
+
+mālā (f)—garland, necklace (13 verse)
+
+मित्रम्
+
+mitram (n)—friend (14)
+
+मिथिला
+
+mithilā (f prop)—city of Mithilā (7)
+
+मिथुनम्
+
+mithunam (n)—coupling, sexual intercourse
+
+मिथ्या
+
+mithyā (ind)—unreal, false (9)
+
+मीमांसा
+
+mīmāṃsā (f)—inquiry, Mīmāṃsā school of philosophy
 
 मुक्त
 
-mukta (adj) released, liberated
+mukta (adj)—released, liberated
 
-मुखम् mukham (n)-face (13)
+मुखम्
+
+mukham (n)—face (13)
 
 मुच्
 
-माया māyā (f)-illusion, magic (21) मायाविन्
+√muc (6P)—release (20)
 
-mayavin (adj)-possessing माया, or
+मुदित
 
-illusory power (22) मारीचः
-
-maricah (m prop)-Marica, name
-
-of a rāksasa (21) मार्ग Vmārg (1Ā)—search for (22) मार्गः mārgaḥ (m)—path, road (10)
-
-Vmuc (6P)-release (20) मुदित mudita (adj)—delighted
+mudita (adj)—delighted
 
 मुनिः
 
-muniḥ (m)—sage (6) मुहूर्तम्
+muniḥ (m)—sage (6)
 
-muhurtam (n)-moment, instant
+मुहूर्तम्
 
-(20)
+muhūrtam (n)—moment, instant (20)
 
-माला mālā (f)-garland, necklace (13
+मूढ
 
-verse) मित्रम्
+mūḍha (adj)—stupefied (11)
 
-mitram (n)-friend (14) मिथिला
+मूढमतिः
 
-mithila (f prop)-city of Mithila
+mūḍhamatiḥ (m)—fool
 
-(7)
+मूर्खः
 
-मूढ mūdha (adj)-stupefied (11) मूढमतिः
+mūrkhah (m)—fool (4)
 
-mudhamatih (m)-fool मूर्खः mūrkhaḥ (m)fool (4) मूर्च्छित mūrcchita (adj)—stupefied, sense
+मूर्च्छित
 
-less (18)
-
-475
+mūrchita (adj)—stupefied, senseless (18)
 
 मूर्धन्
 
-मेदिनी mūrdhan (m)-head, forefront (of medini (f) earth (20)
+mūrdhan (m)—head, forefront (of battle) (20)
 
-battle) (20)
+मूर्धजः
 
-मैथिली मूर्धजः
+mūrdhajaḥ (m)—hair, coiffure (8 verse)
 
-maithili (f prop)-lady of Mithila, murdha jah (m)—hair, coiffure (8 | i.e., Sita (21)
+मूषिकः
 
-verse)
+mūṣikaḥ (m)—mouse, rat
 
-मोक्षः मूषिकः
+मूषिकवाहनः
 
-moksah (m)—liberation (14) mūşikaḥ (m)-mouse, rat
+mūṣikavāhanaḥ (m)—'having a rat for a mount,' epithet of Gaṇeṣa
 
-मोहः मूषिकवाहनः
+मृ
 
-mohah (m)-delusion (19) mūşikavāhanaḥ(m)—'having a rat मोहित
+√mṛ (1P)—die (16)
 
-for a mount,' epithet of Gaņeșa
+मृगः
 
-mohita (adj)-deluded (16)
+mṛgaḥ (m)—deer (4, 6)
 
-मौनम् Vmr (1P) die (16)
+मृगशावकः
 
-maunam (n)-silence मृगः
-
-mrgah (m) deer (4, 6) मृगशावकः
-
--y mțgaśāvakaḥ (m)-fawn (19)
+mṛgaśāvakaḥ (m)—fawn (19)
 
 मृत
 
-mrta (adj)-dead (17)
-
-sa
+mṛta (adj)—dead (17)
 
 मृत्युः
 
-mrtyuh (m)-death, (m prop)
+mṛtyuḥ (m)—death, (m prop)—god of death (21)
 
-god of death (21)
+मृष्
 
-| yah (m pr)—who (relative) (6)
+√mṛṣ (4Ā)—bear, endure (22)
 
-यज् Vyaj (1P/Ā) sacrifice (17) यज्ञः yajnah (m)—ritual offering to the
+मेखला
 
-gods, a Vedic sacrifice (5) यत् (-द्) yat (-d) (n pr) what (relative) (6);
+mekhalā (f)—girdle
 
-(ind)—used to introduce direct or indirect discourses, used with or without sta at the end (7,8)
+मेघः
 
-Vmrs (4A)—bear, endure (22) मेखला
+meghaḥ (m)—cloud (21)
 
-mekhala (f)-girdle मेघः
+मेदिनी
 
-meghah (m)-cloud (21)
+medinī (f)—earth (20)
 
-476
+मैथिली
+
+maithilī (f prop)—lady of Mithilā, i.e., Sītā (21)
+
+मोक्षः
+
+mokṣaḥ (m)—liberation (14)
+
+मोहः
+
+mohaḥ (m)—delusion (19)
+
+मोहित
+
+mohita (adj)—deluded (16)
+
+मौनम्
+
+maunam (n)—silence
+
+-य-
+
+-y-
+
+यः
+
+yaḥ (m pr)—who (relative) (6)
+
+यज्
+
+√yaj (1P/Ā)—sacrifice (17)
+
+यज्ञः
+
+yajñaḥ (m)—ritual offering to the gods, a Vedic sacrifice (5)
+
+यत् (-द्)
+
+yat (-d) (n pr)—what (relative) (6); (ind)—used to introduce direct or indirect discourses, used with or without इति at the end (7, 8)
 
 यत
 
-| यदि
-
 yata (adj)—restrained
-
-yadi (ind)—if (6)
-
-यशः
-
-या
 
 यतः
 
-यदृच्छया yatah (ind)—whence, since (rela- yadrcchayā (ind)—by chance (19)
+yataḥ (ind)—whence, since (relative) (6)
 
-tive) (6)
+यत्र
 
-यम् यत्र
+yatra (ind)—where (relative) (6)
 
-Vyam (1P) control, give (11) yatra (ind)—where (relative) (6)
+यथा
 
-| यमः यथा
+yathā (ind)—as, like (relative) (6)
 
-yamah (m prop)—Yama, god of yathā (ind)—as, like (relative) (6) death (12) यथाकामम्
+यथाकामम्
 
-यमलोकः yathākāmam (ind)—in accordance yamalokaḥ (m)-Yama's realm,
+yathākāmam (ind)—in accordance with desire, at will (15)
 
-with desire, at will (15)
+यथाविधि
 
-death यथाविधि yathāvidhi (ind)-in accordance yaśaḥ (n)-fame
+yathāvidhi (ind)—in accordance with custom (15)
 
-with custom (15) यथाशक्ति
+यथाशक्ति
 
-yā (f pr)—who (relative) (6)
-
-yathasakti (ind)-in accordance
-
-या
-
-.
-
-with ability
-
-Vya (2P)-go (15)
+yathāśakti (ind)—in accordance with ability
 
 यथाशास्त्रम्
 
-यावत् yathāśāstram (ind)—in accordance yāvat (ind)—so long as, to the ex
-
-with śāstra
-
-tent that (6)
+yathāśāstram (ind)—in accordance with śāstra
 
 यथासुखम्
 
-यावज्जीवनम् yathāsukham (ind)-according to yāvajjīvanam (ind)—for the dura
+yathāsukham (ind)—according to pleasure (19)
 
-pleasure (19)
+यथेष्टम्
 
-tion of life यथेष्टम्
-
-यावत्संवत्सरम् yathestam (ind) according tode-yavatsamvatsaram (ind) for a
-
-sire, as you wish (21)
+yatheṣṭam (ind)—according to desire, as you wish (21)
 
 यदा
 
-युक्त yadā (ind)—when (relative) (6) yukta (adj)—joined, fumished with
+yadā (ind)—when (relative) (6)
 
-(19); proper
+यदि
 
-year
+yadi (ind)—if (6)
 
-477
+यदृच्छया
 
-यौवराज्यम् yauvarājyam (n)-state of being
+yadṛcchayā (ind)—by chance (19)
 
-heir apparent (15)
+यम्
 
-युगम् yugam (n)—a cosmic era (19) युगान्तमेघः yugāntameghah (m) cloud gath
+√yam (1P)—control, give (11)
 
-ering at the end of the cosmic cycle (20)
+यमः
 
-युज Vyuj (7P/Ā)—join (18)
+yamaḥ (m prop)—Yama, god of death (12)
 
-रकारः rakāraḥ (m)—the syllable 'ra,' i.e., __the letter 'r' (21)
+यमलोकः
+
+yamalokaḥ (m)—Yama's realm, death
+
+यशः
+
+yaśaḥ (n)—fame
+
+या
+
+yā (f pr)—who (relative) (6)
+
+या
+
+√yā (2P)—go (15)
+
+यावत्
+
+yāvat (ind)—so long as, to the extent that (6)
+
+यावज्जीवनम्
+
+yāvajjīvanam (ind)—for the duration of life
+
+यावत्संवत्सरम्
+
+yāvatsaṃvatsaram (ind)—for a year
+
+युक्त
+
+yukta (adj)—joined, furnished with (19); proper
+
+युगम्
+
+yugam (n)—a cosmic era (19)
+
+युगान्तमेघः
+
+yugāntameghaḥ (m)—cloud gathering at the end of the cosmic cycle (20)
+
+युज्
+
+√yuj (7P/Ā)—join (18)
 
 युत
 
-yuta (adj)—endowed with (6); full
+yuta (adj)—endowed with (6); full of, associated with (22)
 
-of, associated with (22)
+युद्धम्
 
-rakta (adj)-reddened; (n -म्)
+yuddham (n)—battle (20)
 
-blood (14, 17)
+युध्
 
-युद्धम् yuddham (n)—battle (20) युध् Vyudh (4Ā)—fight
+√yudh (4Ā)—fight
 
-रक्ष
-
-युध
+युध्
 
 yudh (f)—battle (20)
 
-युयुत्सु yuyutsu (adj)—wishing to fight यूथम् yūtham (n)-herd, group (20)
+युयुत्सु
 
-Vraks (1P) protect रक्षः raksah (n)-rāksasa (20) रक्षक: rakṣakaḥ (m)-protector (6) रक्षणम् raksanam (n)-protection (7)
+yuyutsu (adj)—wishing to fight
+
+यूथम्
+
+yūtham (n)—herd, group (20)
 
 योगः
 
-raghuh (m prop)—Raghu, ances
+yogaḥ (m)—yoga
 
-tor of Rāma
+योगिन्
 
-yogah (m)-yoga योगिन् yogin (m; f -5ft)—yogi योजनम् yojanam (n)-a unit of distance
+yogin (m; f -इनी)—yogi
 
-(22)
+योजनम्
 
-रजतम् rajatam (n)-silver (21)
+yojanam (n)—a unit of distance (22)
 
-रज्जुः rajjuh (f) rope (17)
+यौवराज्यम्
 
-478
+yauvarājyam (n)—state of being heir apparent (15)
 
-रणम् ranam (n)—battle (19)
+-र्-
 
-राक्षसी rākşasi (f)—a rākṣasa woman, a
+-r-
 
-female demon (19)
+रकारः
+
+rakāraḥ (m)—the syllable 'ra,' i.e., the letter 'r' (21)
+
+रक्त
+
+rakta (adj)—reddened; (n -म्)—blood (14, 17)
+
+रक्ष्
+
+√rakṣ (1P)—protect
+
+रक्षः
+
+rakṣaḥ (n)—rākṣasa (20)
+
+रक्षकः
+
+rakṣakaḥ (m)—protector (6)
+
+रक्षणम्
+
+rakṣaṇam (n)—protection (7)
+
+रघुः
+
+raghuḥ (m prop)—Raghu, ancestor of Rāma
+
+रजतम्
+
+rajatam (n)—silver (21)
+
+रज्जुः
+
+rajjuḥ (f)—rope (17)
+
+रणम्
+
+raṇam (n)—battle (19)
 
 रत
 
-रम्
+rata (adj)—delighted, attached (emotionally)
 
-rata (adj)-delighted, attached 799:
+रतिः
 
-(emotionally)
-
-rāghavaḥ (m)-Rāghava, descen रतिः
-
-dant of “Raghu" e.g., Rama (7)
-
-ratih (1) pleasure, delight (11 | राज्
-
-verse)
-
-Vraj (1P/A) shine (19)
+ratiḥ (f)—pleasure, delight (11 verse)
 
 रत्नम्
 
-राजकर्त ratnam (n)-jewel (13 verse) rajakartr (m) king-maker (18)
+ratnam (n)—jewel (13 verse)
 
 रथः
 
-राजगृहम् rathah (m) chariot (17) | rajagrham (n)—Rajagrha, city of
+rathaḥ (m)—chariot (17)
 
-Bharata's maternal uncle (17) Vram (1Ā) enjoy, make love (21) 154 रमणीय
+रम्
 
-rājan (m)—king (8) ramaṇīya (adj)—beautiful (7) राजमणिः रमणीयता
+√ram (1Ā)—enjoy, make love (21)
 
-rajamanih (m)-jewel among ramaniyatā (f)—beauty, charm
+रमणीय
 
-kings (5 verse) (18)
+ramaṇīya (adj)—beautiful (7)
 
-| राजर्षिः रमेशः
+रमणीयता
 
-rajarsih (m)-sage-king, royal ramesah (m)—lordof Rama (Sita). I seer (12)
+ramaṇīyatā (f)—beauty, charm (18)
 
-= Rāma (5 verse)
+रमेशः
 
-राज्यम् रहित
+rameśaḥ (m)—lord of Ramā (Sītā), = Rāma (5 verse)
 
-rājyam (n)—kingly rule, kingdom rahita (adj)-devoid of, missing
+रहित
 
-(5); राज्यं + (8PIA)—torule
-
-(especially at end of compound) (16)
-
-rāmaḥ (m prop)-Rāma
+rahita (adj)—devoid of, missing (especially at end of compound) (16)
 
 राक्षसः
 
-रामायणम् raksasah (m)-rāksasa,demon (6) | ramayanam (n prop)—the Ram
+rākṣasaḥ (m)—rākṣasa, demon (6)
 
-āyana
+राक्षसी
 
-| रामः479
+rākṣasī (f)—a rākṣasa woman, a female demon (19)
+
+राघवः
+
+rāghavaḥ (m)—Rāghava, descendant of "Raghu" e.g., Rāma (7)
+
+राज्
+
+√rāj (1P/Ā)—shine (19)
+
+राजकर्तृ
+
+rājakartṛ (m)—king-maker (18)
+
+राजगृहम्
+
+rājagṛham (n)—Rājagṛha, city of Bharata's maternal uncle (17)
+
+राजन्
+
+rājan (m)—king (8)
+
+राजमणिः
+
+rājamaṇiḥ (m)—jewel among kings (5 verse)
+
+राजर्षिः
+
+rājarṣiḥ (m)—sage-king, royal-seer (12)
+
+राज्यम्
+
+rājyam (n)—kingly rule, kingdom (5); राज्यं + √कृ (8P/Ā)—to rule
+
+रामः
+
+rāmaḥ (m prop)—Rāma
+
+रामायणम्
+
+rāmāyaṇam (n prop)—the Rāmāyaṇa
 
 रावणः
 
-लक्ष्मणः ravanah (m prop)-Ravana, king | laksmanah (m prop)—Laksmana,
+rāvaṇaḥ (m prop)—Rāvaṇa, king of the rākṣasa-s (21)
 
-of the rākşasa-s (21)
+राशिः
 
-___one of Rama's brothers (5) राशिः
-
-लक्ष्मी rasih (m)—heap, mass, collection | laksmi (f)-fortune, prosperity,
+rāśiḥ (m)—heap, mass, collection
 
 राष्ट्रम्
 
-the goddess Laksmi (17) rastram (n)—kingdom (16) लक्ष्यम्
+rāṣṭram (n)—kingdom (16)
 
-| laksyam (n) target (20) Vruc (1A)—be agreeable to (ob- | लङ्का
+रुच्
 
-ject in dative) (14)
-
-lanka (f prop) Lanka, name of
+√ruc (1Ā)—be agreeable to (object in dative) (14)
 
 रुद्
 
-Ravana's capital (20)
-
-Vrud (2P)—weep (17)
-
-लङ्केश्वरः
+√rud (2P)—weep (17)
 
 रूपम्
 
-lankeśvaraḥ (m prop)-lord of
+rūpam (n)—form (literal and figurative), a beautiful body (19)
 
-rūpam (n)—form (literal and figu
+रूपिन्
 
-Lankā, epithet of Rāvana (21)
+rūpin (adj; f -इनी)—possessed of form
 
-rative), a beautiful body (19) लब्ध रूपिन्
+रेणुः
 
-labdha (adj)-acquired, gained rupin (adj; f -इनी) possessed of
+reṇuḥ (m)—dust (19)
 
-form
+रोगः
 
-लभ् Vlabh (1Ā)—acquire, gain (10)
+rogaḥ (m)—disease (14)
 
-|
+रोदनम्
 
-(10)
+rodanam (n)—crying (20)
+
+-ल्-
+
+-l-
+
+लक्षणम्
+
+lakṣaṇam (n)—mark, sign, token (11 verse)
+
+लक्ष्मणः
+
+lakṣmaṇaḥ (m prop)—Lakṣmaṇa, one of Rāma's brothers (5)
+
+लक्ष्मी
+
+lakṣmī (f)—fortune, prosperity, the goddess Lakṣmī (17)
+
+लक्ष्यम्
+
+lakṣyam (n)—target (20)
+
+लङ्का
+
+laṅkā (f prop)—Laṅkā, name of Rāvaṇa's capital (20)
+
+लङ्केश्वरः
+
+laṅkeśvaraḥ (m prop)—lord of Laṅkā, epithet of Rāvaṇa (21)
+
+लब्ध
+
+labdha (adj)—acquired, gained (10)
+
+लभ्
+
+√labh (1Ā)—acquire, gain (10)
 
 लम्ब
 
-renuh (m)- dust (19) रोगः rogah (m)-disease (14) रोदनम् rodanam (n)-crying (20)
+lamba (adj)—hanging (12)
 
-lamba (adj)—hanging (12) लम्बोदरी lambodari (f)-potbellied (19) लय laya (adj)-sticking, clinging;
+लम्बोदरी
 
-(m)-1) devotion, concentration,
+lambodarī (f)—potbellied (19)
 
-2) place of rest, abode
+लय
 
-लवण lavana (adj) salty (22)
+laya (adj)—sticking, clinging; (m)—1) devotion, concentration, 2) place of rest, abode
 
-ल
+लवण
 
-लक्षणम् laksanam (n)-mark, sign, token
+lavaṇa (adj)—salty (22)
 
-(11 verse)
+लिख्
 
-480
+√likh (6P)—write
 
-लिख
+लिखित
 
-| लोपय् Vlikh (6P)—write
+likhita (adj)—written (15)
 
-lopay (णिजन्त of Vलुप्) neglect, लिखित
+लिह्
 
-violate (18) likhita (adj)—written (15)
+√lih (6P—लिहति; 2P—लेढि)—lick
 
-__-व् लिह
+ली
 
-Vlih (6P—लिहति; 2P—लेढि)—lick
+√lī (4Ā)—cling
+
+लीढ
+
+līḍha (adj)—licked
+
+लीन
+
+līna (adj)—attached
+
+लीला
+
+līlā (f)—play, sport (8)
+
+लुप्
+
+√lup (6Ā)—break, destroy; (लोपय्—णिजन्त)—neglect, violate (18)
+
+लेशम्
+
+leśam (n)—little, small bit or portion (10)
+
+लोकः
+
+lokaḥ (m)—world; host, army, people (9, 21)
+
+लोचनम्
+
+locanam (n)—eye (13)
+
+लोपः
+
+lopaḥ (m)—loss, damage, violation (18)
+
+लोपय्
+
+lopay (णिजन्त of √लुप्)—neglect, violate (18)
+
+-व्-
+
+-v-
 
 वंशः
 
-Vli (4Ā)cling
+vaṃśaḥ (m)—race, lineage (12)
 
-vamsah (m)-race, lineage (12) लीढ
+वक्र
 
-वक्र lidha (adj)—licked
+vakra (adj)—crooked (21)
 
-vakra (adj)-crooked (21) लीन
+वक्षः
 
-वक्षः lina (adj)-attached
+vakṣaḥ (n)—chest (20)
 
-vakṣaḥ (n)-chest (20) लीला
+वच्
 
-वच līlā (f)-play, sport (8) Vvac (2P) —speak लुप्
+√vac (2P)—speak
 
-वचः Vlup (67)—break, destroy; vacaḥ (n)-speech (13)
+वचः
 
-(लोपय–णिजन्त) neglect, violate
+vacaḥ (n)—speech (13)
 
-वचनम् (18)
+वचनम्
 
-vacanam (n)-speech, words (5) लेशम्
+vacanam (n)—speech, words (5)
 
-वजूम् lesam (n)—little, small bitor por
+वज्रम्
 
-vajram (n)—thunderbolt, Indra's tion (10)
+vajram (n)—thunderbolt, Indra's weapon (12)
 
-weapon (12) लोकः
+वत्
 
-वत् lokaḥ (m)—world; host, army,
+vat (ind)—like (at end of compound) (12)
 
-vat (ind)—like (at end of com people (9, 21)
+वत्सः
 
-pound) (12) लोचनम्
+vatsaḥ (m)—calf, son; in vocative—term of endearment, "my dear child" (16)
 
-वत्सः locanam (n) eye (13)
+वद्
 
-vatsah (m)-calf, son; in voca लोपः
-
-tive-term of endearment, “my lopah (m)-loss, damage, viola- dear child” (16)
-
-tion (18)
-
-वद् | Nvad (1P)— speak (4)
-
-481
+√vad (1P)—speak (4)
 
 वदनम्
 
-वलिः vadanam (n)-face (15)
+vadanam (n)—face (15)
 
-valih (m)-wrinkle (18 verse)
+वध्
 
-वध
-
-वल्मीकः Vvadh (IP)—kill, slay (20) valmikah (m)_ant hill (20)
+√vadh (1P)—kill, slay (20)
 
 वधः
 
-वशः vadhaḥ (m)—killing, slaughter vaśaḥ (m)-power, control, influ
-
-(21)
-
-_ence (14)
+vadhaḥ (m)—killing, slaughter (21)
 
 वध्य
 
-वशगतः vadhya (adj)—to be killed (21) vasagatah (adj)-under the influ
+vadhya (adj)—to be killed (21)
 
 वनम्
 
-ence of (14) vanam (n)—forest (4)
-
-वस्
-
-Vvas (1P)—dwell (4) Vvand (1A)-praise, extol (9 | वसतिः
-
-verse, 13 verse, 15)
-
-vasatih (f) dwelling
-
-वन्यम्
-
-वसिष्ठः vanyam (n)—forest-food, i.e., vasisthah (m prop)—Vasistha,one
-
-gathered as opposed to culti- of the great brāhman sages of vated (16)
-
-Indian tradition (17 verse) वपुः
-
-वस्तुतः vapuh (n) body, form
-
-vastutah (ind)-in fact (11)
-
-वर
-
-वस्त्रम् vara (adj)—best, excellent, most vastram (n)-garment, clothing
-
-precious, beautiful (17, 19)
-
-(16)
+vanam (n)—forest (4)
 
 वन्द्
 
-वा
+√vand (1Ā)—praise, extol (9 verse, 13 verse, 15)
+
+वन्यम्
+
+vanyam (n)—forest-food, i.e., gathered as opposed to cultivated (16)
+
+वपुः
+
+vapuḥ (n)—body, form
+
+वर
+
+vara (adj)—best, excellent, most precious, beautiful (17, 19)
+
+वरः
+
+varaḥ (m)—boon, wish (11)
 
 वर्णः
 
-वरः varah (m)—boon, wish (11) vā (ind) or (placed after words
+varṇaḥ (m)—color, hue (20)
 
-as is च) (7) vamah (m)-color, hue (20) वाच (क) वर्षम्
+वर्षम्
 
-vāc (k) (f)—speech (8 verse, 21.1.a) varsam (n)-year; in द्वितीया 'for a | वाक्यम्
+varṣam (n)—year; in द्वितीया 'for a year' (15)
 
-year' (15)
+वलिः
 
-vākyam (n)-speech (14)
+valiḥ (m)—wrinkle (18 verse)
 
-482
+वल्मीकः
 
-वाहनम्
+valmīkaḥ (m)—ant hill (20)
 
-वारि
+वशः
+
+vaśaḥ (m)—power, control, influence (14)
+
+वशगतः
+
+vaśagataḥ (adj)—under the influence of (14)
+
+वस्
+
+√vas (1P)—dwell (4)
+
+वसतिः
+
+vasatiḥ (f)—dwelling
+
+वसिष्ठः
+
+vasiṣṭhaḥ (m prop)—Vasiṣṭha, one of the great brāhman sages of Indian tradition (17 verse)
+
+वस्तुतः
+
+vastutaḥ (ind)—in fact (11)
+
+वस्त्रम्
+
+vastram (n)—garment, clothing (16)
+
+वा
+
+vā (ind)—or (placed after words as is च) (7)
+
+वाच् (क्)
+
+vāc (k) (f)—speech (8 verse, 21.1.a)
+
+वाक्यम्
+
+vākyam (n)—speech (14)
 
 वाणी
 
-वासिन् vāņi(f)-speech (8 verse, 20 verse) vāsin (m, n; f-suitdweller (13)
+vāṇī (f)—speech (8 verse, 20 verse)
 
-वातः vātaḥ (m)—wind (22)
+वातः
 
-vāhanam (n)-vehicle, mount
+vātaḥ (m)—wind (22)
 
 वानरः
 
-विकत vānarah (m)-monkey (13) vikrta (adj)-deformed (22)
+vānaraḥ (m)—monkey (13)
 
 वायुः
 
-विगत vāyuh (m)—wind (13)
+vāyuḥ (m)—wind (13)
 
-vigata (adj)-gone, departed (14) वार् (6)
+वार् (ः)
 
-वि+ चर् vār (h) (n)—water
+vār (ḥ) (n)—water
 
-vi+ Vcar (1P)—think about, reflect वाराशिः
+वाराशिः
 
-(7 verse); wander (19) varasih (m)-ocean (वार् + राशिः) (13 | विचारः
+vārāśiḥ (m)—ocean (वार् + राशिः) (13 verse)
 
-verse)
+वारि
 
-vicārah (m) deliberation, hesita
-
-tion (13)
-
-vari (n)-water
-
-विच्छिन्न
+vāri (n)—water
 
 वालिन्
 
-vicchinna (adj)severed (19) vālin (m prop)—Vālin, king of the | वि + जि
+vālin (m prop)—Vālin, king of the monkeys, elder brother of Sugrīva (22)
 
-monkeys, elder brother of Su- vi + Vji (17) conquer, subdue (5
+वाल्मीकिः
 
-griva (22)
+vālmīkiḥ (m prop)—Vālmīki, a famous sage, first poet, author of the Rāmāyaṇa (15)
 
-verse) वाल्मीकिः
+वासः
 
-वि+ ज्ञा valmikih (m prop)—Valmiki, avi + Vjna (9A)-realize (16)
+vāsaḥ (m)—dwelling (16)
 
-famous sage, first poet, author of the Rāmāyaṇa (15)
+वासः
 
-vijvara (adj)—free from anxiety वासः
+vāsaḥ (n)—clothing, garment (21)
 
-(22) vāsaḥ (m)-dwelling (16)
+वासनम्
 
-वित्रासः वासः
+vāsanam (n)—dwelling, abode (18)
 
-vitrāsaḥ (m)—terror (21) vasah (n) clothing, garment (21)| -विद् वासनम्
+वासिन्
 
--vid (adj) (from vrac)—knower vāsanam (n)-dwelling, abode (12.17)
+vāsin (m, n; f -इनी)—dweller (13)
 
-(18)
+वाहनम्
 
-483
+vāhanam (n)—vehicle, mount
 
-on
+विकृत
 
-11
+vikṛta (adj)—deformed (22)
+
+विगत
+
+vigata (adj)—gone, departed (14)
+
+वि + चर्
+
+vi + √car (1P)—think about, reflect (7 verse); wander (19)
+
+विचारः
+
+vicāraḥ (m)—deliberation, hesitation (13)
+
+विच्छिन्न
+
+vicchinna (adj)—severed (19)
+
+वि + जि
+
+vi + √ji (1Ā)—conquer, subdue (5 verse)
+
+वि + ज्ञा
+
+vi + √jñā (9Ā)—realize (16)
+
+विज्वर
+
+vijvara (adj)—free from anxiety (22)
+
+वित्रासः
+
+vitrāsaḥ (m)—terror (21)
+
+-विद्
+
+-vid (adj) (from √विद्)—knower (12.17)
 
 विद्
 
-| वि + भूष् Nvid (2P)—know
-
-vi + Vbhūs (10P)-adorn (8 verse)
+√vid (2P)—know
 
 विद्या
 
-वि+ भ्रम् vidyā (f)—knowledge, learning vi + Vbhram (1P)—wander
+vidyā (f)—knowledge, learning (19 verse)
 
-(19 verse)
+विद्वांस्
 
-वियोगः विद्वांस्
+vidvāṃs (m)—learned man, wise; विद्वज्जनः (m)—wise people (11 verse) (See 17.24.b)
 
-viyogah (m)-separation vidvams (m)—learned man, wise; वि+ रज
+विद्विषः
 
-vi + Vraj (1P)—become dispas verse) (See 17.24.b)
+vidviṣaḥ (m)—enemy (11 verse)
 
-sionate विद्विषः
+विधिः
 
-विरहित vidvisah (m) enemy (11 verse)
+vidhiḥ (m)—rule, custom (15)
 
-virahita (adj) deserted, separated विधिः
+वि + नश्
 
-from (16) vidhih (m)-rule, custom (15)
+vi + √naś (4P)—be destroyed (20)
 
-विरूप वि+ नश्
+विना
 
-virūpa (adj)-ugly (19) vi+ Vnas (4P)—be destroyed (20) विरूपणम् विना
+vinā (ind)—without (4)
 
-virūpaņam (n)-disfigurement vinā (ind)—without (4)
+विनाशनम्
 
-(19) विनाशनम्
+vināśanam (n)—destruction
 
-विरूपय vināśanam (n) destruction virupaya (नामधातु)-disfigure (19) वि + नि + वृत्
+वि + नि + वृत्
 
-विरूपित vi + ni + Vvịt (1Ā)—turn back, virūpita (adj)-disfigured, muti
+vi + ni + √vṛt (1Ā)—turn back, return (18)
 
-return (18)
+विपरीत
 
-lated (19) विपरीत
+viparīta (adj)—perverse, contrary, false (17)
 
-विरूपिन् viparīta (adj)—perverse, contrary, virūpin (adj)—ugly (19)
+विभीषणः
 
-false (17)
+vibhīṣaṇaḥ (m prop)—Vibhīṣaṇa, a rākṣasa, younger brother of Rāvaṇa (22)
 
-वि+ लप विभीषणः
+वि + भूष्
 
-vi + Vlap (1P)—lament (14, 17 vibhisanah (m prop)—Vibhisana, ___verse)
+vi + √bhūṣ (10P)—adorn (8 verse)
 
-a rāksasa, younger brother of विलेपनम Rāvana (22)
+वि + भ्रम्
 
-| vilepanam (n) ointment (8 verse)
+vi + √bhram (1P)—wander
 
-484
+वियोगः
 
-विश
+viyogaḥ (m)—separation
 
-वि + लोक
+वि + रञ्ज्
 
-वि + सृज् vi+ Vlok (10P)-look at, perceive | vi + Vsrj (6P)—release, give up
+vi + √raj (1P)—become dispassionate
 
-(20 verse)
+विरहित
 
-__ (16) विवर्ण
+virahita (adj)—deserted, separated from (16)
 
-विस्तीर्ण vivarņa (adj) devoid of color, vistīrņa (ad)—broad (22)
+विरूप
 
-pale (13)
+virūpa (adj)—ugly (19)
 
-विस्मयः विवासित
+विरूपणम्
 
-vismayah (m) amazement (10 __vivasita (adj)-exiled (17) ___verse, 21)
+virūpaṇam (n)—disfigurement (19)
+
+विरूपय
+
+virūpaya (नामधातु)—disfigure (19)
+
+विरूपित
+
+virūpita (adj)—disfigured, mutilated (19)
+
+विरूपिन्
+
+virūpin (adj)—ugly (19)
+
+वि + लप्
+
+vi + √lap (1P)—lament (14, 17 verse)
+
+विलेपनम्
+
+vilepanam (n)—ointment (8 verse)
+
+वि + लोक्
+
+vi + √lok (10P)—look at, perceive (20 verse)
+
+विवर्ण
+
+vivarṇa (adj)—devoid of color, pale (13)
+
+विवासित
+
+vivāsita (adj)—exiled (17)
 
 विवाहः
 
-वि + स्मृ vivāhah (m)marriage (7) vi + Vsmr (1P)-forget (5) विवाहित
+vivāhaḥ (m)—marriage (7)
 
-विस्मृत vivahita (adj)-married (12) vismrta (adj)-forgotten
+विवाहित
 
-वि+हा vvis (6P)-enter (22)
+vivāhita (adj)—married (12)
 
-vi + Vhā (3P)-give up, discard विशालाक्षी
+विश्
 
-(21 verse) viśālākṣi (adj f)—having large FEIRA
+√viś (6P)—enter (22)
 
-eyes (19)
+विशालाक्षी
 
-vihārin (adj) - delighting in (20) विशेषतः
+viśālāksī (adj f)—having large eyes (19)
 
-वि+ह visesatah (ind) especially (5) । | vi + Vhr (1P) take away, abduct
+विशेषतः
 
-वीरः visva (adj) all (declined pro- | virah (m)—hero (5)
-
-nominally)
-
-वीर्यम् विश्वस्त
-
-vīryam (n)—valor (14) viśvasta (adj)—reassured, confi
-
-_dent (22)
-
-Nvr (9Ā)-choose (as a boon) (11) विषण्ण visanna (adj)-dejected (13)
-
-vrksah (m) tree (11)
-
-वृत् visam (n)-poison (15)
-
-Vvst (1Ā)—is, exists (5)
+viśeṣataḥ (ind)—especially (5)
 
 विश्व
 
-वृक्षः
+viśva (adj)—all (declined pronominally)
+
+विश्वस्त
+
+viśvasta (adj)—reassured, confident (22)
+
+विषण्ण
+
+viṣaṇṇa (adj)—dejected (13)
 
 विषम्
 
-485
+viṣam (n)—poison (15)
 
-वत
+वि + सृज्
+
+vi + √sṛj (6P)—release, give up (16)
+
+विस्तीर्ण
+
+vistīrṇa (adj)—broad (22)
+
+विस्मयः
+
+vismayaḥ (m)—amazement (10 verse, 21)
+
+वि + स्मृ
+
+vi + √smṛ (1P)—forget (5)
+
+विस्मृत
+
+vismṛta (adj)—forgotten
+
+वि + हा
+
+vi + √hā (3P)—give up, discard (21 verse)
+
+विहारिन्
+
+vihārin (adj)—delighting in (20)
+
+वि + हृ
+
+vi + √hṛ (1P)—take away, abduct
+
+वीरः
+
+vīraḥ (m)—hero (5)
+
+वीर्यम्
+
+vīryam (n)—valor (14)
+
+वृ
+
+√vṛ (9Ā)—choose (as a boon) (11)
+
+वृक्षः
+
+vṛkṣaḥ (m)—tree (11)
+
+वृत्
+
+√vṛt (1Ā)—is, exists (5)
+
+वृत
+
+vṛta (adj)—chosen (11)
 
 वृत्त
 
-| वैरम् vrta (adj)-chosen (11)
+vṛtta (adj)—occurred, happened (17); (n)—news, story, report; (fig.)—slender (19)
 
-vairam (n)-hostility (22)
+वृत्तान्तः
 
-वैराग्यम् vrtta (adj)-occurred, happened | vairagyam (n) aversion to world
+vṛttāntaḥ (m)—report, news, story (14)
 
-(17); (n)-news, story, report; ly things (fig.)-slender (19)
+वृत्रः
 
-वैश्रवणः वृत्तान्तः
+vṛtraḥ (m prop)—Vṛtra, name of a demon
 
-vaiśravaṇaḥ(m prop)—Vaiśravana, vrttāntah (m)-report, news, story ___son of Visravana, Ravana (20) ... (14)
+वृत्रहन्
 
-वैश्व वृत्रः
+vṛtrahan (m prop)—'slayer of Vṛtra,' Indra
 
-vaiśva (adj)—universal vrtrah (m prop)—Vrtra, name of a व्यक्त
+वृद्ध
 
-demon
+vṛddha (adj)—old (9)
 
-vyakta (adj)-clear (18) वृत्रहन्
+वृध्
 
-व्यथ् vrtrahan (m prop)—'slayer of |
+√vṛdh (1Ā)—grow
 
-Vvyath (1A)—be agitated (13) ___Vrtra,' Indra
+वृषभः
 
-व्यपे (वि + अप + इ) वृद्ध
+vṛṣabhaḥ (m)—bull (19)
 
-vyape (vi + apa + Vi) (2P) —sepa vrddha (adj) old (9)
+वेगः
 
-rate, drift apart
+vegaḥ (m)—speed (13)
 
-व्यवसायः Vvrdh (1Ā)-grow
+वेदः
 
-vyavasāyaḥ (m)-resolution वृषभः
+vedaḥ (m)—veda (6)
 
-व्यसनम् vrsabhah (m)—bull (19)
+वैदेही
 
-vyasanam (n)-disaster (14) वेगः
+vaidehī (f prop)—lady of Videha, Sītā (16)
 
-व्याघ्रः vegah (m)-speed (13)
+वैद्यः
 
-vyāghraḥ (m)—tiger (16) वेदः
+vaidyaḥ (m)—doctor (10 verse)
 
-व्याघी vedah (m)—veda (6)
+वैरम्
 
-vyāghrī (f)—tigress (19) वैदेही
+vairam (n)—hostility (22)
 
-व्रज् vaidehi (f prop)—lady of Videha,
+वैराग्यम्
 
-Vvraj (1P)-move, walk Sita (16)
+vairāgyam (n)—aversion to worldly things
 
-व्रीडा वैद्यः
+वैश्रवणः
 
-vrīdā (f)—shame (22) vaidyah (m)-doctor (10 verse)
+vaiśravaṇaḥ (m prop)—Vaiśravaṇa, son of Viśravaṇa, Rāvaṇa (20)
 
-486
+वैश्व
 
-वीहिः vrihiḥ (m)—rice
+vaiśva (adj)—universal
 
-शप Vsap (1P)-curse (4) शबरी Sabari (f prop)—Sabari, a female
+व्यक्त
 
-ascetic who aids Rāma (22)
+vyakta (adj)—clear (18)
+
+व्यथ्
+
+√vyath (1Ā)—be agitated (13)
+
+व्यपे (वि + अप + इ)
+
+vyape (vi + apa + √i) (2P)—separate, drift apart
+
+व्यवसायः
+
+vyavasāyaḥ (m)—resolution
+
+व्यसनम्
+
+vyasanam (n)—disaster (14)
+
+व्याघ्रः
+
+vyāghraḥ (m)—tiger (16)
+
+व्याघ्री
+
+vyāghrī (f)—tigress (19)
+
+व्रज्
+
+√vraj (1P)—move, walk
+
+व्रीडा
+
+vrīḍā (f)—shame (22)
+
+व्रीहिः
+
+vrīhiḥ (m)—rice
+
+-श-
+
+-ś-
 
 शंस्
 
+√śaṃs (1P)—relate (22)
+
+शक्
+
+√śak (5P)—be able (13)
+
+शकुन्तला
+
+śakuntalā (f prop)—Śakuntalā
+
 शक्त
 
-शब्दः Vsams (1P)-relate (22)
+śakta (adj)—competent
 
-Sabdah (m)-sound (18) शक्
+शक्तिः
 
-शम् Vsak (5P)—be able (13)
+śaktiḥ (f)—power, ability (20)
 
-Vsam (4A)—be calm, quiet शकुन्तला
+शक्य
 
-शम्भुः sakuntalā (f prop)—Sakuntalā
+śakya (adj)—capable of being (with infinitive) (21)
 
-Sambhuh (m prop)—Sambhu, Siva
+शङ्क्
 
-(8) Sakta (adj) –competent
+√śaṅk (1Ā)—doubt (10)
 
-शरः शक्तिः
+शङ्कित
 
-Sarah (m)-arrow (4) Śaktiḥ (f)—power, ability (20) | शरीरम् शक्य
+śaṅkita (adj)—doubted (10)
 
-śarīram (n)-body (20) śakya (adj)-capable of being
+शतम्
 
-शल्यम् (with infinitive) (21)
+śatam (n)—hundred (see 19.5.b)
 
-Salyam (n) arrow, spear (16)
+शत्रुः
 
-शशिन् vśañk (1Ā) doubt (10)
+śatruḥ (m)—enemy (12)
 
-Sasin (m)—having a hare (Sasah), शङ्कित
+शत्रुघ्नः
 
-the moon Sankita (adj)-doubted (10)
+śatrughnaḥ (m prop)—Śatrughna, one of Rāma's brothers (5)
 
-शस्त्रम् शतम्
+शप्
 
-śastram (n)—weapon (18) śatam (n)-hundred (see 19.5.b)
+√śap (1P)—curse (4)
 
-शाखा शत्रुः
+शबरी
 
-Sakhā (f)—branch (15) Satruh (m)—enemy (12)
+śabarī (f prop)—Śabarī, a female ascetic who aids Rāma (22)
 
-शान्त शत्रुघ्नः
+शब्दः
 
-śānta (adj) calm, peaceful (5,9) Satrughnah (m prop)—Satrughna,
+śabdaḥ (m)—sound (18)
 
-शापः one of Rāma's brothers (5)
+शम्
+
+√śam (4Ā)—be calm, quiet
+
+शम्भुः
+
+śambhuḥ (m prop)—Śambhu, Śiva (8)
+
+शरः
+
+śaraḥ (m)—arrow (4)
+
+शरीरम्
+
+śarīram (n)—body (20)
+
+शल्यम्
+
+śalyam (n)—arrow, spear (16)
+
+शशिन्
+
+śaśin (m)—having a hare (śaśaḥ), the moon
+
+शस्त्रम्
+
+śastram (n)—weapon (18)
+
+शाखा
+
+śākhā (f)—branch (15)
+
+शान्त
+
+śānta (adj)—calm, peaceful (5, 9)
+
+शापः
 
 śāpaḥ (m)—curse (5)
 
-शङ्क
+शारद
 
-487
+śārada (adj)—autumnal (16)
 
-शारद śārada (adj)—autumnal (16)
+शालः
 
-शीघम् śīghram (adv)-quickly (6)
-
-शुकः
-
-शाल: śālah (m)—a kind of tree (18)
-
-Sukah (m) parrot
-
-शुष्क
+śālaḥ (m)—a kind of tree (18)
 
 शाला
 
-शुच śālā (f)-room, chamber, house, Vsuc (1P)—grieve (15)
-
-hut (16)
+śālā (f)—room, chamber, house, hut (16)
 
 शास्
 
-śuddha (adj)-pure (13) Všās (22)—rule (18)
+√śās (2Ā)—rule (18)
 
-शुभ शासनम्
+शासनम्
 
-vśubh (1Ā)—shine, be beautiful śāsanam (n)-sovereignty, rule
+śāsanam (n)—sovereignty, rule (18)
 
-(18)
+शास्त्रम्
 
-śușka (adj) dried up (16) शास्त्रम्
+śāstram (n)—scholarly text (14)
 
-शूरः śāstram (n)-scholarly text (14)
+शिखरम्
 
-śūraḥ (m)-hero शिखरम्
+śikharam (n)—peak, pinnacle (18)
 
-शूर्पणखा śikharam (n)-peak, pinnacle (18)
+शिथिल
 
-| Surpanakha (f prop) Surpanakha, शिथिल
+śithila (adj)—loose, slack, weak (18 verse)
 
-sister of Rāvaņa (19) sithila (adj)-loose, slack, weak
+शिरः
 
-शूलम् (18 verse)
+śiraḥ (n)—head (18 verse)
 
-śūlam (n)-lance (20) शिरः
+शिल्पिन्
 
-शोकः Sirah (n)—head (18 verse)
+śilpin (m)—artisan (18)
 
-śokaḥ (m) grief (4) शिल्पिन्
+शिवः
 
-शोणितम् silpin (m)—artisan (18)
+śivaḥ (m prop)—Śiva
 
-śoṇitam (n)-blood (19) शिवः
+शिष्यः
 
-शौर्यम् śivaḥ (m prop)—Śiva
-
-Sauryam (n)-valor (21) शिष्यः
-
-श्याम sisyah (m)-student (17)
-
-śyāma (adj)-dark (21)
-
-श्यामा Vsi (2A)—lie down
-
-śyāmā (f)—a young woman (who
-
-has not had children) (21)
+śiṣyaḥ (m)—student (17)
 
 शी
 
-488
+√śī (2Ā)—lie down
 
-संयत
+शीघ्रम्
+
+śīghram (adv)—quickly (6)
+
+शुकः
+
+śukaḥ (m)—parrot
+
+शुच्
+
+√śuc (1P)—grieve (15)
+
+शुद्ध
+
+śuddha (adj)—pure (13)
+
+शुभ्
+
+√śubh (1Ā)—shine, be beautiful
+
+शुष्क
+
+śuṣka (adj)—dried up (16)
+
+शूरः
+
+śūraḥ (m)—hero
+
+शूर्पणखा
+
+śūrpaṇakhā (f prop)—Śūrpaṇakhā, sister of Rāvaṇa (19)
+
+शूलम्
+
+śūlam (n)—lance (20)
+
+शोकः
+
+śokaḥ (m)—grief (4)
+
+शोणितम्
+
+śoṇitam (n)—blood (19)
+
+शौर्यम्
+
+śauryam (n)—valor (21)
+
+श्याम
+
+śyāma (adj)—dark (21)
+
+श्यामा
+
+śyāmā (f)—a young woman (who has not had children) (21)
 
 श्रमः
 
-सम् + अलं + कृ śramah (m)—toil, effort (15) sam + alam + Vkr (8P/A) adorm
+śramaḥ (m)—toil, effort (15)
 
 श्रवणम्
 
-(8 verse)
+śravaṇam (n)—hearing (10)
 
-Sravanam (n)—hearing (10) श्रीरामः
+श्रीरामः
 
-sah (pr m)—he (4) sriramah (m prop)—“glorious Ra- | __ma" (4)
+śrīrāmaḥ (m prop)—"glorious Rāma" (4)
 
-samyata (adj)-restrained, con
+श्रु
 
-trolled śru (5P)—hear, hear about (5) |सं+ या
+√śru (5P)—hear, hear about (5)
 
-sam + Vyā (2P)—attain
+श्रुत
 
 śruta (adj)—heard
 
-संरब्ध
-
 श्रेष्ठ
 
-samrabdha (adj)-infuriated (20) śreştha (adj)—best (5)
-
-संवत्सरः
+śreṣṭha (adj)—best (5)
 
 श्वः
 
-samvatsarah (m)-year (14)
+śvaḥ (ind)—tomorrow (16)
 
-śvah (ind)—tomorrow (16)
+-ष-
 
-संवत samvrta (adj) surrounded (19)
+-ṣ-
 
-सं+ शम्
+षष्
 
-sam + Vsam (4Ā) be extinguished षष्
+ṣaṣ (adj)—six (see 19.6)
 
-(18) şaş (adj)—six (see 19.6) षोडश
+षोडश
+
+ṣoḍaśa (adj)—sixteen (see 19.6)
+
+-स-
+
+-s-
+
+स-
+
+sa- (ind)—with, together with (used only as prior member of a compound) (14)
+
+सम् + अलं + कृ
+
+sam + alam + √kṛ (8P/Ā)—adorn (8 verse)
+
+सः
+
+saḥ (pr m)—he (4)
+
+संयत
+
+saṃyata (adj)—restrained, controlled
+
+सं + या
+
+saṃ + √yā (2P)—attain
+
+संरब्ध
+
+saṃrabdha (adj)—infuriated (20)
+
+संवत्सरः
+
+saṃvatsaraḥ (m)—year (14)
+
+संवृत
+
+saṃvṛta (adj)—surrounded (19)
+
+सं + शम्
+
+saṃ + √śam (4Ā)—be extinguished (18)
 
 संसद्
 
-şodaśa (adj)—sixteen (see 19.6)
+saṃsad (f)—assembly (22)
 
-samsad (f)—assembly (22) संस्कृत samskrta (adj)-refined (8 verse) सकामम् sakāmam (ind)—with desire
+संस्कृत
 
-सकोपम् sa- (ind)—with, together with (used only as prior member of a
+saṃskṛta (adj)—refined (8 verse)
+
+सकामम्
+
+sakāmam (ind)—with desire
+
+सकोपम्
 
 sakopam (ind)—angrily
 
-compound) (14)
+सखि
 
-सखि sakhi (m)-friend (21)
+sakhi (m)—friend (21)
 
-S
+सख्यम्
 
-स489
+sakhyam (n)—friendship, alliance (22)
 
-सत्य
+संकृत्त
 
-सख्यम् sakhyam (n)—friendship, alliance satya (adj)-real, true; (n)-truth,
+saṃkṛtta (adj)—pierced (20)
 
-(22)
+संक्रुद्ध
 
-reality (10, 11 verse) संकृत्त
-
-सद् samkrtta (adj)-pierced (20) Vsad (1P)_sit (see 7.15.c) (7) संक्रुद्ध
-
-सदनम् samkruddha (adj)-angry (15)
-
-sadanam (n)-palace (12)
+saṃkruddha (adj)—angry (15)
 
 संख्यम्
 
-सदा
-
-samkhyam (n)-battle (20)
-
-sadā (ind)—always (5 verse)
+saṃkhyam (n)—battle (20)
 
 संगत
 
-सदृश samgata (adi)—ioined, united with sadrsa (adj) —like, fit, suitable (14)
-
-(20); met with (22)
-
-सन्त्
+saṃgata (adj)—joined, united with (20); met with (22)
 
 सचराचर
 
-sant (m)-good or virtuous man
-
-sacarācara (adj)-'together with
-
-(11 verse) moveable and immovable things,' | संतप्त entire (22)
-
-samtapta (adj)-oppressed, af
+sacarācara (adj)—'together with moveable and immovable things,' entire (22)
 
 सज्ज
 
-flicted (22) .
-
 sajja (adj)—ready (18)
 
-संत्रस्त
+सं + चर्
 
-सं+ चर्
+saṃ + √car (1P)—go, walk (15)
 
-samtrasta (adj)—terrified (21) sam + Vcar (1P)-go, walk (15) सं+ दृश् संज्ञा
+संज्ञा
 
-sam + Vdrs (1P)-see (22) samjñā (f)—consciousness (12) सं+ धा
-
-sam + vdhā (3P)—join, bring to
-
-sat (n)—truth
-
-gether (8)
-
-सनिभ सततम् satatam (ind)—always (8 verse)
-
-sannibha (adj)-like (20)
-
-सप्त
-
-sati (f)—a virtuous wife (22)
-
-sapta (adj)—seven (see 19.6)
+saṃjñā (f)—consciousness (12)
 
 सत्
 
+sat (n)—truth
+
+सततम्
+
+satatam (ind)—always (8 verse)
+
 सती
 
-490
+satī (f)—a virtuous wife (22)
+
+सत्य
+
+satya (adj)—real, true; (n)—truth, reality (10, 11 verse)
+
+सद्
+
+√sad (1P)—sit (see 7.15.c) (7)
+
+सदनम्
+
+sadanam (n)—palace (12)
+
+सदा
+
+sadā (ind)—always (5 verse)
+
+सदृश
+
+sadṛśa (adj)—like, fit, suitable (14)
+
+सन्त्
+
+sant (m)—good or virtuous man (11 verse)
+
+संतप्त
+
+saṃtapta (adj)—oppressed, afflicted (22)
+
+संत्रस्त
+
+saṃtrasta (adj)—terrified (21)
+
+सं + दृश्
+
+saṃ + √dṛś (1P)—see (22)
+
+सं + धा
+
+saṃ + √dhā (3P)—join, bring together (8)
+
+सन्निभ
+
+sannibha (adj)—like (20)
+
+सप्त
+
+sapta (adj)—seven (see 19.6)
 
 सभा
 
-समानी (सम् + आ + नी) sabhā (f)-assembly (8)
-
-samānī (sam + a + Vni) (1P)—as
+sabhā (f)—assembly (8)
 
 सम
 
-semble (22) sama (adj)— same, equal (14) समाश्रि (सम् + आ + श्रि) समयः
+sama (adj)—same, equal (14)
 
-samāśri (sam + ā + Vśri) (1P)— samayah-period of time, time
+समयः
 
-resort to
+samayaḥ—period of time, time (11)
 
-(11)
+समरः
 
-समासद् (सम् + आ + सद्)
-
-samāsad (sam +ã + Vsad) (10P)— ...समरः
-
--samaraḥ (m)—battle (20)
-
-reach (22)
+samaraḥ (m)—battle (20)
 
 समर्थ
 
-सम् +इ
-
-samartha (adj)—capable, compe
-
-sam + Vi (2P)—come together, _tent (6)
-
-meet (14)
+samartha (adj)—capable, competent (6)
 
 समविभक्ताङ्गी
 
-समीपम् samavibhaktāñgi (f)—a woman of samipam (n)-nearness, vicinity
+samavibhaktāṅgī (f)—a woman of symmetrical limbs (21)
 
-(11) symmetrical limbs (21) समवे (सम् + अव + इ)
+समवे (सम् + अव + इ)
 
-समुत्पन्न
-
-samave (sam + ava + Vi) (2P)
-
-samutpanna (adj)—arisen (13)
-
-convene, come together (22)
+samave (sam + ava + √i) (2P)—convene, come together (22)
 
 समागत
 
-sampanna (adj)—endowed with samāgata (adj)--come together
-
-| (atend of compound) (20)
-
-सम्पातिः
+samāgata (adj)—come together (22)
 
 समागम् (सम् + आ + गम्)
 
-sampātiḥ (m prop)-Sampāti, samāgam (sam +ā + Vgam) (1P)—
-
-name of a vulture (22)
-
-assemble (7) .
-
-संपूर्ण
+samāgam (sam + ā + √gam) (1P)—assemble (7)
 
 समागमः
 
-sampūrņa (adj)—filled (18) samāgamaḥ (m)-meeting (18) संप्राप्त समाज्ञा (सम् + आ + ज्ञा)
+samāgamaḥ (m)—meeting (18)
 
-samprāpta (adj)—arrived (18) samajna (sam + a + vjnā) (9P)- | संप्रेक्ष् (सम् + प्र + ईक्ष)
+समाज्ञा (सम् + आ + ज्ञा)
 
-know (18); णिजन्त—order, com- | sampreks (sam + pra + Niks) mand (18)
+samājñā (sam + ā + √jñā) (9P)—know (18); णिजन्त—order, command (18)
 
-(6A)-see, regard (13)
+समानी (सम् + आ + नी)
+
+samānī (sam + ā + √nī) (1P)—assemble (22)
+
+समाश्रि (सम् + आ + श्रि)
+
+samāśri (sam + ā + √śri) (1P)—resort to
+
+समासद् (सम् + आ + सद्)
+
+samāsad (sam + ā + √sad) (10P)—reach (22)
+
+सम् + इ
+
+sam + √i (2P)—come together, meet (14)
+
+समीपम्
+
+samīpam (n)—nearness, vicinity (11)
+
+समुत्पन्न
+
+samutpanna (adj)—arisen (13)
 
 संपन्न
 
-(22)
+sampanna (adj)—endowed with (at end of compound) (20)
 
-491
+सम्पातिः
 
-साधु
+sampātiḥ (m prop)—Sampāti, name of a vulture (22)
+
+संपूर्ण
+
+sampūrṇa (adj)—filled (18)
+
+संप्राप्त
+
+samprāpta (adj)—arrived (18)
+
+संप्रेक्ष् (सम् + प्र + ईक्ष्)
+
+samprekṣ (saṃ + pra + √ikṣ) (6Ā)—see, regard (13)
 
 संभाष् (सम् + भाष्)
 
-सहित sambhās (sam + Vbhās) (1Ā) | sahita (adj) along with (22)
+sambhāṣ (sam + √bhāṣ) (1Ā)—speak
 
-speak
+संभ्रान्त
 
-सागरः संभ्रान्त
+sambhrānta (adj)—confused (21)
 
-sāgaraḥ (m)ocean (10) sambhrānta (adj) confused (21)
+संमित
 
-सादरम् संमित
-
-sādaram (ind)—with respect sammita (adj) equal to (22)
+sammita (adj)—equal to (22)
 
 सम्यक्
 
-sadhu (adj)-righteous (11 verse); samyak (adv)—fully, properly (21) (ind) directly (21); as excla
+samyak (adv)—fully, properly (21)
 
 सरः
 
-mation —"wonderful!"
+saraḥ (n)—lake (16)
 
-sarah (n)—lake (16)
+सरित्
 
-साधुः सरित्
+sarit (f)—stream; सरितां पतिः—ocean (22)
 
-sādhuḥ (m)—sage, holy man (9) sarit (f)—stream; सरितां पतिः—ocean | सानन्दम्
+सर्पः
 
-(22)
-
-sānandam (ind)—joyfully (5) सर्पः
-
-सान्त्व sarpah (m) snake (19 verse, 20) | Vsāntv (10P)pacify, appease (15)
-
-सारथिः sarva (adj)-each, all, every (see | sarathih (m)—charioteer (21)
-
-5.7)
-
-सिंहः सर्वदा
-
-simhah (m)—lion (15) sarvadā (ind)—always (7)
-
-सिंहासनम् सह
-
-simhāsanam (n)-lion-seat, throne sah (1A) bear, endure
-
-(18)
-
-सह
-
-सिद्ध saha (ind)—with (5)
-
-siddha (adj) endowed with su
-
-pernatural or magical powers (6
-
-sahasā (ind)—suddenly, at once
-
-verse) (19)
-
-सीता
-
-sītā (f prop)—Sitā (6) सहस्रम् sahasram (n)—a thousand (16)
+sarpaḥ (m)—snake (19 verse, 20)
 
 सर्व
 
+sarva (adj)—each, all, every (see 5.7)
+
+सर्वदा
+
+sarvadā (ind)—always (7)
+
+सह्
+
+sah (1Ā)—bear, endure
+
+सह
+
+saha (ind)—with (5)
+
 सहसा
 
-492
+sahasā (ind)—suddenly, at once (19)
 
-सुलभ
+सहस्रम्
 
-सुकुमार sukumāra (adj)-lovely (12) sulabha (adj) easy (8) सुखम्
+sahasram (n)—a thousand (16)
 
-सुसंक्रुद्ध sukha (n) happiness, joy; (ind) | susamkruddha (adj) furious (19)
+सहित
 
-—happily सुखित
+sahita (adj)—along with (22)
 
-sūryah (m)—sun (9) sukhita (adj)-happy (5)
+सागरः
 
-Vsrj (6P) release (16) sugrīvaḥ (m prop)—Sugrīva, younger brother of Vālin, ally of
+sāgaraḥ (m)—ocean (10)
 
-Vsrp (1P)—move (16) Rāma (22)
+सादरम्
 
-सेतः सुतः
+sādaram (ind)—with respect
 
-setuh (m)—bridge, causeway (22) sutaḥ (m)—son (12)
+साधु
 
-सज
+sādhu (adj)—righteous (11 verse); (ind)—directly (21); as exclamation—"wonderful!"
+
+साधुः
+
+sādhuḥ (m)—sage, holy man (9)
+
+सानन्दम्
+
+sānandam (ind)—joyfully (5)
+
+सान्त्व्
+
+√sāntv (10P)—pacify, appease (15)
+
+सारथिः
+
+sārathiḥ (m)—charioteer (21)
+
+सिंहः
+
+siṃhaḥ (m)—lion (15)
+
+सिंहासनम्
+
+siṃhāsanam (n)—lion-seat, throne (18)
+
+सिद्ध
+
+siddha (adj)—endowed with supernatural or magical powers (6 verse)
+
+सीता
+
+sītā (f prop)—Sītā (6)
+
+सुकुमारा
+
+sukumārā (adj)—lovely (12)
+
+सुखम्
+
+sukha (n)—happiness, joy; (ind)—happily
+
+सुखित
+
+sukhita (adj)—happy (5)
 
 सुग्रीवः
 
-सप्
+sugrīvaḥ (m prop)—Sugrīva, younger brother of Vālin, ally of Rāma (22)
 
-सेना
+सुतः
 
-(4)
+sutaḥ (m)—son (12)
 
 सुता
 
-senā (f) army (17) sutā (f)—daughter
+sutā (f)—daughter
 
-संव सुदारुण
+सुदारुण
 
-Vsev (1A)-attend on, serve (10, sudaruna (adj)—very terrible (19)
+sudāruṇa (adj)—very terrible (19)
 
-___11 verse) सुन्दर
+सुन्दर
 
-सेवकः sundara (adj; f—सुन्दरी)—beautiful
+sundara (adj; f—सुन्दरी)—beautiful (4)
 
-sevakah (m) attendant (12)
+सुमध्यमा
 
-सेवा सुमध्यमा
+sumadhyamā (f)—woman with a beautiful waist (21)
 
-sevā (f)-service sumadhyamā (f)—woman with a
+सुमित्रा
 
-| सेवित beautiful waist (21)
+sumitrā (f prop)—Sumitrā name of the mother of Lakṣmaṇa and Śatrughna
 
-sevita (adj)-served (10) सुमित्रा
+सुमुख
 
-सोढ sumitra (f prop)- Sumitra
+sumukha (adj)—handsome (19)
 
-sodha (adj) endured, borne name of the mother of Laks
+सुलभ
 
-| सोमः maņa and Satrughna
+sulabha (adj)—easy (8)
 
-somaḥ(m)—soma सुमुख
+सुसंक्रुद्ध
 
-सौमित्रिः sumukha (adj)—handsome (19)
+susaṃkruddha (adj)—furious (19)
 
-saumitrih (m prop)-son of
+सूर्यः
 
-Sumitra, Laksmana (18)
+sūryaḥ (m)—sun (9)
 
-493
+सृज्
+
+√sṛj (6P)—release (16)
+
+सृप्
+
+√sṛp (1P)—move (16)
+
+सेतुः
+
+setuḥ (m)—bridge, causeway (22)
+
+सेना
+
+senā (f)—army (17)
+
+सेव्
+
+√sev (1Ā)—attend on, serve (10, 11 verse)
+
+सेवकः
+
+sevakaḥ (m)—attendant (12)
+
+सेवा
+
+sevā (f)—service
+
+सेवित
+
+sevita (adj)—served (10)
+
+सोढ
+
+soḍha (adj)—endured, borne
+
+सोमः
+
+somaḥ (m)—soma
+
+सौमित्रिः
+
+saumitriḥ (m prop)—son of Sumitrā, Lakṣmaṇa (18)
 
 सौम्य
 
-स्नानम् saumya (adj) gentle, pleasant; as snānam (n)—bath, bathing, ablu
+saumya (adj)—gentle, pleasant; as संबोधन "my friend," "my good man" (20)
 
-संबोधन “my friend," "my good ___tion (8 verse, 19)
+सौवर्ण
 
-man" (20)
+sauvarṇa (adj)—golden (21)
 
-स्निह सौवर्ण
+सौहृदम्
 
-Vsnih (4P)—love (object of love sauvarma (adj) golden (21) ___in सप्तमी) (5) सौहृदम्
+sauhṛdam (n)—friendship (21)
 
-स्नेहः sauhrdam (n)-friendship (21) snehah (m)—love, affection
+स्तब्ध
 
-स्म
-
-स्मि
-
-स्त्री
-
--स्थ
-
-स्तब्ध stabdha (adj)-paralyzed, frozen | sma (ind)—used after लट् to form
+stabdha (adj)—paralyzed, frozen
 
 स्तम्भः
 
-___simple past tense (see 4.47) (4)
+stambhaḥ (m)—post (18 verse)
 
-stambhah (m) post (18 verse)
+स्तु
 
-Vsmi (1P/A)-smile (19) Vstu (2P)-praise (9)
+√stu (2P)—praise (9)
 
-स्मितपूर्वम्
+स्त्री
 
-smitapūrvam (ind)—with a smile stri (f)-woman (21)
+strī (f)—woman (21)
 
-(19)
+-स्थ
 
-स्म -stha (adj)-standing (from /स्था) | Vsmr (1P) remember
-
-(17)
-
-स्मृतिः
+-stha (adj)—standing (from √स्था) (17)
 
 स्था
 
-smrtih (f) memory, a class of Vsthā (1P)-stand, remain (7)
-
-texts
+√sthā (1P)—stand, remain (7)
 
 स्थानम्
 
-स्मृतिमन्त् sthānam (n)place (18)
+sthānam (n)—place (18)
 
-smrtimant (adj)-possessed of
+स्थित
 
-memory, well-versed in smrti स्थित
+sthita (adj)—standing; stabilized (14)
 
-(11) sthita (adj)-standing; stabilized
+स्ना
 
-(14)
+√snā (2P)—bathe (18)
 
-Vsru (1P) flow, run (19) स्ना Vsnā (2P)—bathe (18)
+स्नानम्
 
-| sva (adj)-one's own (declined
+snānam (n)—bath, bathing, ablution (8 verse, 19)
 
-494
+स्निह्
 
-हन्
+√snih (4P)—love (object of love in सप्तमी) (5)
 
-स्वयम्
+स्नेहः
 
-like पर, see 5.7, but optionally fol- | हत्या lows masculine in -a) (7 verse, 9, | hatya (f)-murder, slaying 17, 18 verse)
+snehaḥ (m)—love, affection
 
--हन् स्वजनः
+स्म
 
--han (adj) slayer (from Vहन्, see svajanah (m)—kin (21)
+sma (ind)—used after लट् to form simple past tense (see 4.47) (4)
 
-12.17)
+स्मि
 
-स्वनः svanaḥ (m)-sound, cry (19) Vhan (2P)—kill, strike (4)
+√smi (1P/Ā)—smile (19)
+
+स्मितपूर्वम्
+
+smitapūrvam (ind)—with a smile (19)
+
+स्मृ
+
+√smṛ (1P)—remember
+
+स्मृतिः
+
+smṛtiḥ (f)—memory, a class of texts
+
+स्मृतिमन्त्
+
+smṛtimant (adj)—possessed of memory, well-versed in smṛti (11)
+
+स्रु
+
+√sru (1P)—flow, run (19)
+
+स्व
+
+sva (adj)—one's own (declined like पर, see 5.7, but optionally follows masculine in -a) (7 verse, 9, 17, 18 verse)
+
+स्वजनः
+
+svajanaḥ (m)—kin (21)
+
+स्वनः
+
+svanaḥ (m)—sound, cry (19)
 
 स्वप्
 
-हननम् Vsvap (2P)—sleep
+√svap (2P)—sleep
+
+स्वयम्
+
+svayam (ind)—to, for, by oneself (4, 8)
+
+स्वयंवरः
+
+svayaṃvaraḥ (m)—lit., "self choice," the name of a ceremony at which a princess chooses a husband or has one chosen by contest (8)
+
+स्वरः
+
+svaraḥ (m)—sound, cry (19)
+
+स्वर्गः
+
+svargaḥ (m)—heaven (6, 17 verse)
+
+स्वर्गत
+
+svargata (adj)—gone to heaven (22)
+
+-ह-
+
+-h-
+
+हत
+
+hata (adj)—killed (4)
+
+हत्या
+
+hatyā (f)—murder, slaying
+
+-हन्
+
+-han (adj)—slayer (from √हन्, see 12.17)
+
+हन्
+
+√han (2P)—kill, strike (4)
+
+हननम्
 
 hananam (n)—killing (6)
 
-हनुमन्त् svayam (ind)—to, for, by oneself hanumant (opt. हनूमन्त्) (m prop)
+हनुमन्त्
 
-(4,8)
+hanumant (opt. हनूमन्त्) (m prop)—Hanumān (22)
 
-Hanumān (22) स्वयंवरः
+हरिः
 
-हरिः svayamvarah (m)-lit., “self | harih (m prop)-Hari (Visnu);
+hariḥ (m prop)—Hari (Viṣṇu); (m)—monkey (19 verse)
 
-choice," the name of a ceremony (m)-monkey (19 verse) at whicha princess chooses ahus- | हरिवर band or has one chosen by con-he
+हरिवर
 
-| harivara (adj)—best of monkeys test (8)
+harivara (adj)—best of monkeys (22)
 
-(22) स्वरः
+हरीश्वरः
 
-हरीश्वरः svarah (m) sound, cry (19)
+harīśvaraḥ (m)—lord of monkeys (22)
 
-harisvarah (m)—lord of monkeys स्वर्गः
+हविः
 
-(22) svargah (m)-heaven (6,17verse) | इतिः स्वर्गत
+haviḥ (n)—oblation
 
-havih (n) oblation svargata (adj)-gone to heaven
+हस्
 
-(22)
+√has (1P)—laugh (12)
 
-Vhas (1P)—laugh (12)
+हस्तः
 
-हस्तः hastah (m)—hand
+hastaḥ (m)—hand
 
-हस्तलाघवम् हत
+हस्तलाघवम्
 
-hastalāghavam (n)-skill, manual hata (adj)-killed (4)
+hastalāghavam (n)—skill, manual dexterity (10 verse)
 
-dexterity (10 verse)
+हस्तिन्
 
-no
-
-495
-
-हीन
-
-हस्तिन् hastin (m)-elephant
-
-hina (adj)-devoid of, missing
-
-(esp. at end of compound) (16)
+hastin (m)—elephant
 
 हा
 
-hā (ind)—vocative particle ex
+hā (ind)—vocative particle expressing grief (4)
 
-pressing grief (4)
+हा
 
-Vhu (3P) offer (9)
+√hā (3P)—abandon (7)
 
-Vhị (1P)-abduct, carry off (22)
+हारः
 
-Vhā (3P)—abandon (7)
+hāraḥ (m)—necklace (8 verse)
 
-ar: hāraḥ (m)-necklace (8 verse)
+हासः
 
-ETH: hāsaḥ (m)-laughter (19)
+hāsaḥ (m)—laughter (19)
 
-hţta (adj)—abducted (22)
+हि
 
-हृदयम् hțdayam (n) heart (14) हृदये + कृ hệdaye + Vkp (idiom)take seri
+hi (ind)—indeed, surely (19)
 
-ously,(14); + VII (idiom)– "placed in the heart” (16)
+हिंसा
 
-hi (ind)—indeed, surely (19) हिंसा hiņsā (f)—violence, injury (20)
+hiṃsā (f)—violence, injury (20)
 
-hřsta (adj) delighted (21)
+हिंस्र
 
-I IV
+hiṃsra (adj)—injurious, fierce (15)
 
-hiņsra (adj)-injurious, fierce
+हितः
 
-(15) fea: hitaḥ (m)—welfare, benefit (20
+hitaḥ (m)—welfare, benefit (20 verse, 21)
 
-verse, 21)
+हीन
+
+hīna (adj)—devoid of, missing (esp. at end of compound) (16)
+
+हु
+
+√hu (3P)—offer (9)
+
+हृ
+
+√hṛ (1P)—abduct, carry off (22)
+
+हृत
+
+hṛta (adj)—abducted (22)
+
+हृदयम्
+
+hṛdayam (n)—heart (14)
+
+हृदये + कृ
+
+hṛdaye + √kṛ (idiom)—take seriously,(14); + √धा (idiom)—"placed in the heart" (16)
+
+हृष्ट
+
+hṛṣṭa (adj)—delighted (21)
+
+हे
 
 he (ind)—vocative particle (4)
 
-47 heman (n)-gold (18) हेमपिङ्गल hemapiñgala (adj)-golden
+हेमन्
 
-yellow (22)
+heman (n)—gold (18)
+
+हेमपिङ्गल
+
+hemapiṅgala (adj)—golden-yellow (22)
 
 ENGLISH-SANSKRIT GLOSSARY (This glossary was designed for reference to particular usages and meanings in the readings and exercises of this primer. It is not
 
 intended for use as a general Sanskrit dictionary.)
 
-affection-स्नेहः (m)
+-A-
 
-afflicted—पीडित (adj) (4); बाधित abandon—415 (1P) (10); TR+ (adj) (6); Hati (adj) (22);
+abandon—त्यज् (1P) (10); परि + त्यज् (1P) (9); हा (3P) (7); abandoned—त्यक्त (adj) (10)
 
-YE(1P) (9); ET (3P) (7); afflicted with—37701 (adj) (20) abandoned-4 (adj) (10) afraid ta (adj) (4) abduct-379 + & (1P) (21); fa + & after—37ky (ind) (9); after
+abduct—अप + हृ (1P) (21); वि + हृ (1P); हृ (1P) (22); abducted—हृत (adj) (22); to be abducted—अपहर्तव्य (adj) (21)
 
-(1P); & (1P) (22); abducted - 1 that-AG H (ind) (9) EG (adj) (22); to be abducted- again-47: (ind) (4) 31468104 (adj) (21)
+ability—शक्तिः (f) (20); in accordance with ability—यथाशक्ति (ind)
 
-age—5 (1P) (10): agedsiluf ability- TRT: (f) (20); in accor
+able, be—शक् (5P) (13); able—क्षम (adj) (9)
 
-(adj) (10) dance with ability-यथाशक्ति | agent-कारिन् (adj) (ind)
+ablution—अभिषेकः (m) (19); स्नानम् (n) (8 verse, 19)
 
-agitate (22); be agitated able, be—3108 (5P) (13); able- 0214(17) (13); agitated—311
+abode—लयः (m); वासनम् (n) (18)
 
-47 (adj) (9)
+absolute reality—ब्रह्मन् (n) (9)
 
-(adj) (12) ablution—3714 : (m) (19); agree to—37575 (8P) (20)
+accept—अङ्गीकृ (8P) (20)
 
-ERA (n) (8 verse, 19)
+account—अनुकथनम् (n) (22)
 
-agreeable to, be—60(1A) (14) abode-लयः (m); वासनम् (n) (18) aha!—3€ (ind) absolute reality- 6 (n) (9) air—44 (n) (12) accept—31913 (8P) (20) Akampanaḥ—3799+47: (m prop) account—37798494 (n) (22) (20) acquire- |(1Ā) (10); (5841 alam—74 (n) (16)
+acquire—लभ् (1Ā) (10); लब्ध (adj) (10)
 
-(adj) (10)
+activity—कर्मन् (n) (8)
 
-alliance सख्यम् (n) (22) activity-- (n) (8)
+addressed—उक्त (adj) (10); प्रोक्त (adj) (19)
 
-all-fall (adj); Hd (adj) (see 5.7) addressed3+ (adj) (10); LITTO along with Hica (adj) (22)
+adorn—अलम् + कृ (8P); भूष् (10P); वि + भूष् (10P) (8 verse); सम् + अलं + कृ (8P/Ā) (8 verse)
 
-(adj) (19)
+adventure—चरितम् (n) (4)
 
-also—3119 (ind) (4) adom—37674 +(8P); 19 (10P); Jalteration—परिणामः (m)
+affection—स्नेहः (m)
 
-a + (10P) (8 verse); 84 + alternative— a: (f) (6, 20 verse)
+afflicted—पीडित (adj) (4); बाधित (adj) (6); संतप्त (adj) (22); afflicted with—आर्त (adj) (20)
 
-3706 + (8P/Ā) (8 verse) | always—नित्यम् (ind) (21); सततम् adventure—ara (n) (4)
+afraid—भीत (adj) (4)
 
-(ind) (8 verse); HGT (ind) (5 verse); Hdci (ind) (7)
+after—अनन्तरम् (ind) (9); after that—तदनन्तरम् (ind) (9)
 
-498
+again—पुनः (ind) (4)
 
-amazement-विस्मयः (m) (10 (5); जन् (4A) (14); arisen उत्पन्न ___verse, 21)
+age—जॄ (1P) (10); aged—जीर्ण (adj) (10)
 
-(adj) (13); जात (adj) (13); amuse oneself-क्रीड् (1P) (18
+agent—कारिन् (adj)
 
-समुत्पन (adj) (13) verse, 21), वि + ह (1P) | armlet—केयूरः (m) (8 verse) ancestor—पितृ (m) (10, 19) amor-कवचः (m) (18) and—च (ind)
+agitate—क्षोभय् (22); be agitated—व्यथ् (1Ā) (13); agitated—आकुल (adj) (12)
 
-army-चमूः (f) (5 verse, 18); लोकः angry, be—कुप् (4P) (7); क्रुद्ध (4P) | (m) (9, 21); सेना (f) (17)
+agree to—अङ्गीकृ (8P) (20)
 
-(7); anger-कोपः (m) (14); क्रोधः
+agreeable to, be—रुच् (1Ā) (14)
 
-arouse उत्पादय् (णिजन्त) (20) (m) (13); मन्युः (m) (14); arranged, be—कुप् (1A) angrily सकापम् (ind); angry- arrived—प्राप् (प्र + आप्) (5P) (16); कुपित (adj) (4); क्रुद्ध (adj); संक्रुद्ध | संप्राप्त (adj) (18) (adj) (15);
+aha!—अहो (ind)
 
-arrow—इषुः (m) (7); बाणः (m) annihilate-अभि+ हन् (2P);
+air—खम् (n) (12)
 
-(6); शरः (m) (4); शल्यम् (n) (16); annihilated—अभिहत (adj) (5 artisan -शिल्पिन् (m) (18) verse, 20)
+Akampanaḥ—अकम्पनः (m prop) (20)
 
-as-इव (ind) (4); यथा (ind) (6) announce—उद् + आ + ह (1P) (21)
+alarm—भयम् (n) (16)
 
-ascend (to)—आ + रुह (1P) (15) annoy—प्र + मथ् (1P) (21)
+alliance—सख्यम् (n) (22)
 
-ascetic-तापसः (m) (20); तपस्विन् anoint-अभि + षिच् (6P) (17)
+all—विश्व (adj); सर्व (adj) (see 5.7)
 
-(m; f-विनी) (12) another-अपर (adj) (9, 17); अन्य
+along with—सहित (adj) (22)
 
-asceticism 14: (n) (9) (adj) (5)
+also—अपि (ind) (4)
 
-| Asokagrove-अशोकवनिका (1) another time-अन्यदा (ind)
+alteration—परिणामः (m)
 
-(22) answer-प्रति + वच् (2P) (18);
+alternative—गतिः (f) (6, 20 verse)
 
-ashram-आश्रमः (m) (6) उत्तरम् (n) (17)
+always—नित्यम् (ind) (21); सततम् (ind) (8 verse); सदा (ind) (5 verse); सर्वदा (ind) (7)
 
-ask—प्रच्छ (6P) (6) ant hill-वल्मीकः (m) (20)
+amazement—विस्मयः (m) (10 verse, 21)
 
-ass-खरः (m) (21) anxiety-Farli (f) (7); free from
+amuse oneself—क्रीड् (1P) (18 verse, 21), वि + हृ (1P)
 
-assemble समागम् (सम् + आ + गम्) ___anxiety-विज्वर (adj) (22)
+ancestor—पितृ (m) (10, 19)
 
-(1P) (7); समानी (सम् + आ + नी) appear-दृश् (non-present form
+and—च (ind)
 
-(1P) (22) of /पश्) (11); भा (2P) (13); | assembly संसद् (1) (22); सभा (1) appease—सान्त्व् (10P) (15); प्र + (8)
+angry, be—कुप् (4P) (7); क्रुध् (4P) (7); anger—कोपः (m) (14); क्रोधः (m) (13); मन्युः (m) (14); angrily—सकोपम् (ind); angry—कुपित (adj) (4); क्रुद्ध (adj); संक्रुद्ध (adj) (15)
 
-सद् (1P) (13)
+annihilate—अभि + हन् (2P); annihilated—अभिहत (adj) (5 verse, 20)
 
-assistance उपकारः (m) (11) appoint—नि + युज् (7P) (17 associated with—युत (adj) (22)
+announce—उद् + आ + हृ (1P) (21)
 
-verse); appointed—नियोजित
+annoy—प्र + मथ् (1P) (21)
 
-assume-आ + दा (3P) (21); आ + (adj) (20)
+anoint—अभि + षिच् (6P) (17)
 
-स्था (1P) (21); धू (10PIA) (8 approach—अभि + गम् (1P) (8); उप | verse) __ + गम् (1P) (8)
+another—अपर (adj) (9, 17); अन्य (adj) (5)
 
-at once सहसा (ind) (19) arise—उत्+ पद् (4A); उद् + भू(1P) | at present-अधुना (ind) (11)499
+another time—अन्यदा (ind)
 
-attached- 19 (adj); attached
+answer—प्रति + वच् (2P) (18); उत्तरम् (n) (17)
 
-to- R4U ( +374141) (adj); attached (emotionally)—a
+ant hill—वल्मीकः (m) (20)
 
-(adj) attain—37121 + 274 (1P) (9); 34 +
+anxiety—चिन्ता (f) (7); free from anxiety—विज्वर (adj) (22)
 
-M (1Ā) (9); # + 2 (2P); attain (a state)_34 + 14 (1P) (22); attainment of knowl
+appear—दृश् (non-present form of √पश्) (11); भा (2P) (13); appease—सान्त्व् (10P) (15); प्र + सद् (1P) (13)
 
-edge— ayfa: (f) attempt—9+ 6(1Ā) (8);
+appoint—नि + युज् (7P) (17 verse); appointed—नियोजित (adj) (20)
 
-attempted—आरब्ध (adj) attend on (1Ā) (10, 11
+approach—अभि + गम् (1P) (8); उप + गम् (1P) (8)
 
-verse); attendant 375108: (m);
+arise—उत् + पद् (4Ā); उद् + भू (1P) (5); जन् (4Ā) (14); arisen—उत्पन्न (adj) (13); जात (adj) (13); समुत्पन्न (adj) (13)
 
-- 90: (m) (12) auspicious thing—454(n) austerity—14: (n) (9) authorize—37729 + (8P) autumnal—IRG (adj) (16) aversion to worldly things
+armlet—केयूरः (m) (8 verse)
 
-apr (n) avoid—9R +(1P) (19 verse);
+armor—कवचः (m) (18)
 
-370113 (adj) (9 verse) awake, be—4 (4Ā); awake
+army—चमूः (f) (5 verse, 18); लोकः (m) (9, 21); सेना (f) (17)
 
-96 (adj) (10) axe—4: (m) (14) Ayodhyā—37127l (f prop) (5)
+arouse—उत्पादय् (णिजन्त) (20)
 
-(19); T4 (f) (20); JGA(n) (20); H44 (n) (20); HR: (m) (20) be—378 (2P) (4); (1P) (4);
+arranged, be—क्लृप् (1Ā)
 
-(1Ā) bear-4 (3P);ų (10P/A) (8
+arrived—प्राप् (प्र + आप्) (5P) (16); संप्राप्त (adj) (18)
 
-verse); - (adj) (21); bear (endure) (4A) (22); HE
+arrow—इषुः (m) (7); बाणः (m) (6); शरः (m) (4); शल्यम् (n) (16)
 
-(1Ā) beautiful, be—TH(1Ā); <0p
+artisan—शिल्पिन् (m) (18)
 
-(adj) (7); R (ad) (17, 19);
+as—इव (ind) (4); यथा (ind) (6)
 
-frac (adj) (4); 427 (f) beautiful young woman—9461
+ascend (to)—आ + रुह् (1P) (15)
 
-(f) (20) beauty—240ff4al (f) (18); —44
+ascetic—तापसः (m) (20); तपस्विन् (m; f -विनी) (12)
 
-(n) (19) become—4(1P) (4) before the eyes (lit., before, in
+asceticism—तपः (n) (9)
 
-front of the face) (ind)
+Aśoka grove—अशोकवनिका (f) (22)
 
-(21) begin—371 +7(1Ā); begin
+ashram—आश्रमः (m) (6)
 
-ning—3|: (m) (15); from the beginning—31119a: (ind)
+ask—प्रच्छ् (6P) (6)
 
-(17,22) behold-99 (9+ $81) (1Ā) (19) being-भूतम् (n) bellow—15 (1P) (22) belly-36 (n) (12), having a
+ass—खरः (m) (21)
 
-small belly—316416Ti (f) (19) beloved—94 (adj) (6) bend—74 (1P) (10); bent—70
+assemble—समागम् (सम् + आ + गम्) (1P) (7); समानी (सम् + आ + नी) (1P) (22)
 
-(adj) (10) benefit—fer: (m) (20 verse, 21) best-of (adj) (17, 19); 18 (ad)
+assembly—संसद् (f) (22); सभा (f) (8)
 
-(5) best of—55: (m) (21), (lit.,
+assistance—उपकारः (m) (11)
 
-Indra among ...) at the end of compound
+associated with—युत (adj) (22)
 
--B
+assume—आ + दा (3P) (21); आ + स्था (1P) (21); धृ (10P/Ā) (8 verse)
 
-bad—5- (prefix) (19) banana tree-(f) (14) bank-di(n) (22) barely—aserhia (FET, -27) (ind) batheFI (2P) (18); bath
+at once—सहसा (ind) (19)
 
-FIRA (n) (8 verse, 19) battle—31169: (m) (20); 414 (n)
+at present—अधुना (ind) (11)
 
-500
+attached—लीन (adj); attached to—परायण (पर + अयन) (adj); attached (emotionally)—रक्त (adj)
 
-Bhagavadgitā—Hlagiat (f prop) bound-re (adj) (17); TG (adj) Bharata— : (m prop) (5)
+attain—अधि + गम् (1P) (9); उप + लभ् (1Ā) (9); सं + या (2P); attain (a state)—उप + गम् (1P) (22); attainment of knowledge—प्रतिपत्तिः (f)
 
-(10) big belly, having—HETTI (f adj) | bow—214: (m) (8); 7 (n) (9);
+attempt—प्र + यत् (1Ā) (8); attempted—आरब्ध (adj)
 
-(19)
+attend on—सेव् (1Ā) (10, 11 verse); attendant—अनुचरः (m); सेवकः (m) (12)
 
-bow-wielder-W704 (adj) bind— (9P) (17); TE (4P) (21)
+auspicious thing—भद्रम् (n)
 
-(10)
+austerity—तपः (n) (9)
 
-bow—(1P) (10); bowed—72 bird—<+1: (m) (12); fs: (m) (adj) (10)
+authorize—अधि + कृ (8P)
 
-(6); carrion bird—954: (m) boy_010 : (m) (4, 17); FHR: (20)
+autumnal—शारद (adj) (16)
 
-(m) (13) birth—31-47 (n) (14); 3eyfa: (f) bracelet — : (m) (8 verse)
+aversion to worldly things—वैराग्यम् (n)
 
-(20 verse)
+avoid—परि + हृ (1P) (19 verse); अगम्य (adj) (9 verse)
 
-Brahman, the god—6 bite—GRI (1P); bitten (adj)-GE (SET)(m) (12); Brahman's blade of grass 2014 (n) (8) world— ent: (m) (22); blame—ARG(1P); blamed
+awake, be—बुध् (4Ā); awake—बुद्ध (adj) (10)
 
-Absolute reality- E (GE) FRGS (adj); blameworthy- (n) (9)
+axe—परशुः (m) (14)
 
-319-El (adj) (9 verse)
+Ayodhyā—अयोध्या (f prop) (5)
 
-brāhman— ku: (m) (4); fast: blazing—yorsa (adj) (10 verse) (m) (6); brāhman killer— EVER blessed one—HIR (adj) (13) (adj) (20) bliss—31747-4: (m) (6)
+-B-
 
-branch-Riral (f) (15) blocked—A+ą (5P/Ā) (19) break—H25C(7P) (8); 34(62) blood—274 (n) (14, 17); 2014 breath-14: (m); "abandon life
+bad—कु- (prefix) (19)
 
-(n) (19)
+banana tree—कदली (f) (14)
 
-breath," die—9F + V2451 blooming- (adj) (16)
+bank—तीरम् (n) (22)
 
-(16) blue-black— i (adj)
+barely—कथमपि (-चित्, -चन) (ind)
 
-bridge-HE: (m) (22) boasting-core (n) (18)
+bathe—स्ना (2P) (18); bath—स्नानम् (n) (8 verse, 19)
 
-bring-311+ (1P) (17); 371 + E body_0514: (m) (20); CE: (m) (1P); bringing-3110€ (adj)
+battle—आहवः (m) (20); रणम् (n) (19); युध् (f) (20); युद्धम् (n) (20); संरव्यम् (n) (20); समरः (m) (20)
 
-(21 verse); 94: (n); RRA (n) (14); bring together— + UT (20); having a body—
+be—अस् (2P) (4); भू (1P) (4); वृत् (1Ā)
 
-(3P) (8) (adj)
+bear—भृ (3P); धृ (10P/Ā) (8 verse); -भृत् (adj) (21); bear (endure)—मृष् (4Ā) (22); सह् (1Ā)
 
-broad-failut (adj) (22) book-stro (n) (13, 15)
+beautiful, be—शुभ् (1Ā); रमणीय (adj) (7); वर (adj) (17, 19); सुन्दर (adj) (4); सुन्दरी (f)
 
-brokenH . (adj) (18) boon–02: (m) (11)
+beautiful young woman—प्रमदा (f) (20)
 
-brother— (m) (10); younger born, be—371+ 4G (4Ā); 37 (4A) brother—3775: (m) (17); elder
+beauty—रमणीयता (f) (18); रूपम् (n) (19)
 
-(14); bom—3|ld (adj) (13);
+become—भू (1P) (4)
 
-brother—995: (m) born from— -3 (adj) (18);
+before the eyes (lit., before, in front of the face)—प्रमुखे (ind) (21)
 
-Buddha-96 (m) born after, be—37 + 7 (4) bull—75994: (m) (18); 294: (m) borne-HIC (adj)
+begin—आ + रभ् (1Ā); beginning—आदिः (m) (15); from the beginning—आदितः (ind) (17, 22)
 
-(19) both—34 (adj) (21)
+behold—प्रेक्ष् (प्र + ईक्ष्) (1Ā) (19)
 
-burden—HR: (m) (9)
+being—भूतम् (n)
 
-501
+bellow—गर्ज् (1P) (22)
 
-burn—74 (1P/Ā); GE (2P) (18);
+belly—उदरम् (n) (12), having a small belly—अल्पोदरी (f) (19)
 
-burnt (adj)—GHET burst—371 + 7 (6P) (18 verse) but-pa (ind) (5); (ind) (11)
+beloved—प्रिय (adj) (6)
 
-calf—dea: (m) (16) call—371 + < (4A) (12); call
+bend—नम् (1P) (10); bent—नत (adj) (10)
 
-out-3G + 371 + < (1P) (21) calm, be — T4 (4Ā); RHO
+benefit—हितः (m) (20 verse, 21)
 
-(10P) (18); calm-4 (adj)
+best—वर (adj) (17, 19); श्रेष्ठ (adj) (5)
 
-(21); PIR (adj) (5,9) capable—H48 (adj) (6); capable
+best of—इन्द्रः (m) (21), (lit., Indra among . . .) at the end of compound
 
-of being—2704 (adj) (21); capable (of perceiving truth)—
+Bhagavadgītā—भगवद्गीता (f prop)
 
-Hou (adj) (20 verse) cardinal point-faz (Raca) (f)
+Bharata—भरतः (m prop) (5)
 
-(20, 22 verse) care—fen (f) (7) carrion bird— FR4: (m) (20) carry— (3P); carry off-E (1P)
+big belly, having—महोदरी (f adj) (19)
 
-(22); carrying—7 (adj) (21) cause— RUTH (n) (15); causing
+bind—बन्ध् (9P) (17); नह् (4P) (10)
 
-(i.e., giving rise to) (adj) (at end of compound)—-&(14) cause to tremble- R (22) causer—(adj; f-$) (20 verse);
+bird—खगः (m) (12); द्विजः (m) (6); carrion bird—पत्रथः (m) (20)
 
-कृत् (adj) causer of joy— -6 (n) (16) causeway He: (m) (22) cave—are (n) (17); TET (f)
+birth—जन्मन् (n) (14); उत्पत्तिः (f) (20 verse)
 
-(18, 22) cavern-TET (f) (18, 22) celestial being— : (m) (20) certain-A (adj); certainly
+bite—दंश् (1P); bitten (adj)—दष्ट
 
-379324 (ind); RICH (ind)
+blade of grass—तृणम् (n) (8)
 
-chamber-21 (f) (16) change—RU14: (m); Rada (n)
+blame—निन्द् (1P); blamed—निन्दित (adj); blameworthy—अनवद्य (adj) (9 verse)
 
-(12) chariot—74: (m) (17) charioteer—HR12: (m) (21) charm-AURIAI (f) (18);
+blazing—प्रज्वलित (adj) (10 verse)
 
-charming-HATET (adj) (21) chest—94: (n) (20) childless—31451 (adj) children—4511(f) (5) choose (as a boon)ą (9Ā) (11);
+blessed one—भगवन्त् (adj) (13)
 
-Ta (adj) (11) chronicle-इतिहासः (m) citizens—4511(f) (5) city-yei (f) (22); TR4 (n) (10) clearou (adj) (18) clever—Ayur (adj) (6) climb up—A + B (1P) (18
+bliss—आनन्दः (m) (6)
 
-verse) cling— (4Ā); clinging
+blocked—नि + वृ (5P/Ā) (19)
 
-(adj); clung to— 1 (adj) clothing_aen (n) (16): alH: (n) cloud—5114: (m) (20); 44: (m)
+blood—रक्तम् (n) (14, 17); शोणितम् (n) (19)
 
-(21); clouds gathering at the end of the cosmic cycle T ha: (m) (20) club974: (m) (20) coiffure-25: (m) (8 verse)
+blooming—फुल्ल (adj) (16)
 
-(lit., 'born from the head,
+blue-black—नील (adj)
 
-hair') collection—IRT: (m) color_qui: (m) (20); colorless
+boasting—कत्थनम् (n) (18)
 
-faquf (adj) (13) come—31 + 7(1P) (4); 371 + 91
+body—कायः (m) (20); देहः (m) (21 verse); वपुः (n); शरीरम् (n) (20); having a body—देहिन् (adj)
 
-(2P) (7, 22); 414 (9+ 3140 (5P) (16)
+book—पुस्तकम् (n) (13, 15)
 
-502
+boon—वरः (m) (11)
 
-come back to 4RI (ufa + 31+ contrary-fakta (adj) (17)
+born, be—उत् + पद् (4Ā); जन् (4Ā) (14); born—जात (adj) (13); born from— -ज (adj) (18); born after, be—अनु + जन् (4P)
 
-211) (2P) (17)
+borne—सोढ (adj)
 
-control_44 (1P) (11); 21: (m) come to be 3G + (1P) (5) (14); controlled (adj) come together—+4 +5 (2P) convene-40 (H4 + 3a + 3)
+both—उभ (adj) (21)
 
-(14); H40 (H4 + 370 + 3) (2P) (2P) (22) (22); H4ra (adj) (22)
+bound—बद्ध (adj) (17); नद्ध (adj) (10)
 
-conveying—377976 (adj) (14) command—311511(f) (9)
+bow—चापः (m) (8); धनुः (n) (9); bow-wielder—धनुष्मन्त् (adj) (21)
 
-cook—पच् (1P); पाचकः (m) compassion-07241 (f) (12); 1 coronation—3717994: (m) (9)
+bow—नम् (1P) (10); bowed—नत (adj) (10)
 
-(f) (11 verse)
+boy—बालकः (m) (4, 17); कुमारः (m) (13)
 
-cosmic dissolution—4024: (m) competent-47 (9); + (adj); cosmic era-401(n) (19)
+bracelet—केयूरः (m) (8 verse)
 
-H4 (adj) (6)
+Brahman, the god—ब्रह्मन् (ब्रह्मा) (m) (12); Brahman's world—ब्रह्मलोकः (m) (22); Absolute reality—ब्रह्मन् (ब्रह्म) (n) (9)
 
-coupling—#974 (n) conceal—9 +36 (10P) (11 courage—Ep 14 (n) (20)
+brāhman—ब्राह्मणः (m) (4); द्विजः (m) (6); brāhman killer—ब्रह्मघ्न (adj) (20)
 
-verse)
+branch—शाखा (f) (15)
 
-courageous, be— (5P) (20) consecration—37744: (m) (9) cover-9 + 3G (10P) (11 verse); conciliate—37 + (1P)
+break—भञ्ज् (7P) (8); लुप् (6Ā)
 
-covered—37178iga (adj) (19) condition—ufa: (f) (6, 20 verse cow— : (f); to turn into a cow's conduct-5 (8P) (5)
+breath—प्राणः (m); "abandon life breath," die—प्राणान् + √त्यज् (16)
 
-hoofprint_1164gio (13 verse) confident-rapat (adj) (22) craving- Sul (f) (11 verse, 18 conformable—37744 (adj) (19) verse) confused—3779 (adj) (22); crazy-3 (adj) (19)
+bridge—सेतुः (m) (22)
 
-Pico (adj) (21); HR (adj) creature— (m) (15); 104(n) (21)
+bring—आ + नी (1P) (17); आ + हृ (1P); bringing—आवह (adj) (14); bring together—सं + धा (3P) (8)
 
-crooked—05 (adj) (21) conjugational class in
+broad—विस्तीर्ण (adj) (22)
 
-cross over- (1P) grammar—14: (m) (7)
+broken—भग्न (adj) (18)
 
-crow—काकः (m) conqueredia (adj) (14);
+brother—भ्रातृ (m) (10); younger brother—अनुजः (m) (17); elder brother—पूर्वजः (m)
 
-cruel-F (adj) (12); R (adj) conquer—RIG (RT + F51) (1P) (20); Grau (adj) (13) (14); â + FT (1Ā) (5 verse); 5ą | cry-F94: (m) (19); FOR: (m) (m) (10); conquering--ISTES (19); crying—276974 (n) (20) (adj) (12) (at end of com- cuckoo_of: (m) (15) pound)
+Buddha—बुद्धः (m)
 
-curiosity--LESA (n) (13); consciousness Hell (f) (12)
+bull—ऋषभः (m) (18); वृषभः (m) (19)
 
-SISIHI (f) consecrate—377 + 19 (6P) (17)
+burden—भारः (m) (9)
 
-curious—fising (ad) consider-चिन्त् (10P) (4); मन्
+burn—तप् (1P/Ā); दह् (2P) (18); burnt (adj)—दग्ध
 
-curse— 4 (1P) (4); 2114: (m) (5) (4Ā); considered—48 (adj)
+burst—आ + स्फुट् (6P) (18 verse)
 
-custom-fafa: (m) (15); in constantly-f14 (ind) (21)
+but—किंतु (ind) (5); तु (ind) (11)
 
-accordance with custom content, be 14 (4P)(8);
+-C-
 
-यथाविधि (ind) (15) content 7€ (adj) (8)
+calf—वत्सः (m) (16)
 
-503
+call—आ + ह्वे (4Ā) (12); call out—उद् + आ + हृ (1P) (21)
 
--D
+calm, be—शम् (4Ā); परिसान्त्व् (10P) (18); calm—प्रसन्न (adj) (21); शान्त (adj) (5, 9)
 
-cut-FOG (7P); FE (7P); for (adj); delighting in-AER
+capable—समर्थ (adj) (6); capable of being—शक्य (adj) (21); capable (of perceiving truth)—भव्य (adj) (20 verse)
 
-(adj) (14); FA (adj)
+cardinal point—दिश् (दिक्) (f) (20, 22 verse)
 
-(adj) (20) delusion_HTE: (m) (19);
+care—चिन्ता (f) (7)
 
-deluded—HITE (adj) (16)
+carrion bird—पत्रथः (m) (20)
 
-demon—374(m) (21); 78: (m) daily-प्रतिदिनम् (ind)
+carry—भृ (3P); carry off—हृ (1P) (22); carrying—भृत् (adj) (21)
 
-(6); female demon—TH (f) damage— 14: (m) (18)
+cause—कारणम् (n) (15); causing (i.e., giving rise to) (adj) (at end of compound)— -द (14)
 
-(19); PARIER: (m)(lit., night dance-T (4P/Ā) (10)
+cause to tremble—क्षोभय् (22)
 
-roamer) dark-off (adj) (20); 214 (adj) depart—FR + 74; departed—
+causer—कर (adj; f -ई) (20 verse); कृत् (adj)
 
-(21)
+causer of joy—नन्दनः (n) (16)
 
-Arra (adj) (7); farra (adj) (14) Dasaratha, Rāma's father — depression—a: (m) (13)
+causeway—सेतुः (m) (22)
 
-GORY: (m prop) (4)
+cave—कन्दरम् (n) (17); गुहा (f) (18, 22)
 
-deserted—acter (adj) (16) daughter-oppll () (7); JR
+cavern—गुहा (f) (18, 22)
 
-desire-54 (6P) (8); 074: (m) (15); GEÇ (f) (10)
+celestial being—गन्धर्वः (m) (20)
 
-(15); loun (f) (11 verse, 18 day—36: (n) (see 21.3.g); Fat: verse); with desire H9144
+certain—निश्चित (adj); certainly—अवश्यम् (ind); निश्चितम् (ind)
 
-(m)
+chamber—शाला (f) (16)
 
-(ind); in accordance with daybreak—2014 (ind) (21) desire_941142144 (ind) (15); dear-1921 (adj)
+change—परिणामः (m); परिवर्तनम् (n) (12)
 
-desired—ş€ (adj) (10) dear one-ala: (m) (14); 11 (f) desire to get-S4 (f) death—470704 (n) (20); 2014 destroy (6A); destroyed,
+chariot—रथः (m) (17)
 
-(n) (18); god of death—3772:
+charioteer—सारथिः (m) (21)
 
-be—7 (4P); fd + 7 (4P) (m) (20); opes: (m) (5,21); 44: (20); destroyed—HE (adj); 7€ (m); 44: (m); Yama's realm-|
+charm—रमणीयता (f) (18); charming—मनोहर (adj) (21)
 
-(adj) (6); destroyer — 21:(m) 74010: (m); dead— Ta (adj) (21); destruction-AARAA (n); (17)
+chest—वक्षः (n) (20)
 
-14: (m) (18) decay—a (1P)
+childless—अप्रज (adj)
 
-devoid of — : (ind) (14); <tea decided— निश्चित (adj)
+children—प्रजा (f) (5)
 
-(adj) (16); A (adj) (16) deer–4: (m) (4, 6)
+choose (as a boon)—वृ (9Ā) (11); वृत (adj) (11)
 
-devotion (m); devoted to - deformed- 4 (adj) (1
+chronicle—इतिहासः (m)
 
-KRU (Q + 3Riu) (adj); (adj) (22)
+citizens—प्रजा (f) (5)
 
-devoted mind-चित्तलयः (m) (5 dejected—Aquul (adj) (12); faqat
+city—पुरी (f) (22); नगरम् (n) (10)
 
-verse) (adj) (13)
+clear—व्यक्त (adj) (18)
 
-die— (9 + 3) (22); 4(1P) (16) deliberation-TER: (m) (13)
+clever—निपुण (adj) (6)
 
-dig— (1P) delight— fa: (f) (11 verse);
+climb up—नि + रुह् (1P) (18 verse)
 
-direction-faci (fa) (f) (20, 22 delighted— 1C (adj) (10);
+cling—ली (4Ā); clinging—लय (adj); clung to—लीन (adj)
 
-verse) YECT (adj) (20); for (adj); za
+clothing—वस्त्रम् (n) (16); वासः (n)
 
-directly—HTY (ind) (21)
+cloud—जीमूतः (m) (20); मेघः (m) (21); clouds gathering at the end of the cosmic cycle—युगान्तमेघः (m) (20)
 
-504
+club—परिघः (m) (20)
 
-drop-forg: (m) (18) drunk-3-47 (adj) (19) drunk (as a liquid is)—41a (adj) drunkenness—46: (m) (11 verse) duration of life, for the
+coiffure—मूर्धजः (m) (8 verse) (lit., 'born from the head, hair')
 
-assiida (ind) Durgā—Geli (f prop) (15) Dūşaņa — 4: (m prop) (19) dust24: (m) (19) duty— : (m) (12) dwell—À + (1P) (20);
+collection—राशिः (m)
 
-dwelling—AA: (m) (21); aufa: (f); 14: (m); alhah (n) (18); dweller—alth (m, n; f
+color—वर्णः (m) (20); colorless—विवर्ण (adj) (13)
 
-5 t) (13) dying—ARUA (n) (18)
+come—आ + गम् (1P) (4); आ + या (2P) (7, 22); प्राप् (प्र + आप्) (5P) (16)
 
--E
+come back to—प्रत्याया (प्रति + आ + या) (2P) (17)
 
-disaster_o (n) (14) discard—a + T (3P) (21 verse) disease—T: (m) (14) disfigure— 44 (714410) (19);
+come to be—उद् + भू (1P) (5)
 
-disfigured—विरूपित (adj) (19); disfigurement विरूपणम् (n)
+come together—सम् + इ (2P) (14); समवे (सम् + अव + इ) (2P) (22); समागत (adj) (22)
 
-(19) dishonorable—31434 (adj) (9
+command—आज्ञा (f) (9)
 
-verse) dispassionate, become + 5
+compassion—करुणा (f) (12); दया (f) (11 verse)
 
-(1P) dispatch—9 + 7411424 (IST)(22) dissolution—458704 (n) (20) distance unit_31544 (n) (22) distressed—311 90 (adj) (12) divinity-दैवतम् (n) (22) do F (8P) (5); doer —c* (adj; f
+competent—क्षम (9); शक (adj); समर्थ (adj) (6)
 
-$) (20 verse); done - (adj); desirous of doing चिकीर्षु (adj)
+conceal—प्र + छद् (10P) (11 verse)
 
-(18) doctor-aa: (m) (10 verse) doer—are (see lesson 11) done— (adj) (10) donkey-164: (m)(18);—OR:
+consecration—अभिषेकः (m) (9)
 
-(m) (21) door द्वारम् (n) doubt (1Ā) (10) doubted— d (adj) (10) doubtlessly—3782244 (ind) (21) drawn near-34476 (adj) (18) dried up—15 (adj) (16) drift apart_o44 (a +374 + 3)
+conciliate—अनु + नी (1P)
 
-(2P) drink—41(1P) (15) drinker--4 (adj) (at end of
+condition—गतिः (f) (6, 20 verse
 
-compound) drive away—374 + TE (6P)
+conduct—कृ (8P) (5)
 
-each—yfa (ind) (6, 14); H(adj)
+confident—विश्वस्त (adj) (22)
 
-(see 5.7) ear—280 (m) (19) earth—ERT () (12); qtaret (f)
+conformable—अनुरूप (adj) (19)
 
-(14); #: (f) (10); Afari (f)
+confused—आकुल (adj) (22); पर्याकुल (adj) (21); संभ्रान्त (adj) (21)
 
-(20) easy my (adj) (8) eat—अद् (2P); खाद् (1P); भक्ष
+conjugational class in grammar—गणः (m) (7)
 
-(10P/A) (19); FEL(7P) (8); eaten-खादित (adj) effort- 464: (m) (12); 84: (m)
+conquered—जित (adj) (14); conquer—पराजि (परा + जि) (1P) (14); वि + जि (1Ā) (5 verse); जेतृ (m) (10); conquering— -जित् (adj) (12) (at end of compound)
 
-(15) eight—389 (adj) (19) eldest—548(adj) (5) elephant—करेणुः (m) (19); कुञ्जरः
+consciousness—संज्ञा (f) (12)
 
-(m) (14); 75: (m) (18); EFRI
+consecrate—अभि + षिच् (6P) (17)
 
-(m) elsewhere—42: (ind) (7 verse)
+consider—चिन्त् (10P) (4); मन् (4Ā); considered—मत (adj)
 
-505
+constantly—नित्यम् (ind) (21)
 
-1
+content, be—तुष् (4P) (8); content—तुष्ट (adj) (8)
 
-)
+contrary—विपरीत (adj) (17)
 
-embrace_4f + F5 (1Ā) (15 end—37-41: (m) (16) ender—3779: (m) (20), endowed with—fa (adj) (6); H146
+control—यम् (1P) (11); वशः (m) (14); controlled—संयत (adj)
 
-(adj) (20) endure— (4A) (22); FE (1Ā);
+convene—समवे (सम् + अव + इ) (2P) (22)
 
-endured—HIG (adj) enemy—318: (m) (19); Parca: (m)
+conveying—आवह (adj) (14)
 
-(11 verse); RTE: (m) (12) enjoy—<4(17) (21) enlighten- 4(4A);
+cook—पच् (1P); पाचकः (m)
 
-enlightened-86 (adj) (10); enlightenment-14: (m) (20
+coronation—अभिषेकः (m) (9)
 
-verse) enough—37654 (ind) (15) (with
+cosmic dissolution—प्रलयः (m)
 
-तृतीया) enraged—gara (adj) (4) enter—9 + fal (6P) (11); fa21
+cosmic era—युगम् (n) (19)
 
-(6P) (22) entourage—-101: (m) (22) entrance-द्वारम् (n) entrust-A+fm (6P) (9) enveloped-31 Tollca (adj) (19) envoy-ça: (m) episode—372 (n) (22) equal ge4 (adj) (19); H4 (adj)
+coupling—मिथुनम् (n)
 
-(14); HTC (adj) (22) especially-faziea: (ind) (5) establish— fa + F4 (1P) (18) esteem_4674(11 verse) even—319 (ind) (4); even so—
+courage—धैर्यम् (n) (20)
 
-gent (ind) (8) every—yfa (ind) (6, 14); Hd (adj)
+courageous, be—धृष् (5P) (20)
 
-(see 5.7) evil—4144 (n); 414 (adj) (11
+cover—प्र + छद् (10P) (11 verse); covered—आच्छादित (adj) (19)
 
-verse, 12); evil person– 5:
+cow—गौः (f); to turn into a cow's hoofprint—गोष्पदीकृ (13 verse)
 
-(m) (19 verse); evil act —
+craving—तृष्णा (f) (11 verse, 18 verse)
 
-go (n) (4) exceedingly—taila (ind) (4);
+crazy—उन्मत्त (adj) (19)
 
-Br (ind) excellence—44: (m) (5, 11
+creature—जन्तुः (m) (15); भूतम् (n)
 
-verse); excellent_3714 (adj) (8); GIGH (ind) (21); QR (adj)
+crooked—वक्र (adj) (21)
 
-(17, 19) except—F (ind) (22) (generally
+cross over—तॄ (1P)
 
-takes 404) excessively—31fd (ind) (13) exert oneself-9 + TL (1Ā) (8) exiled farta (adj) (17);
+crow—काकः (m)
 
-facilha (adj) (17) existence—44: (m) (20 verse);
+cruel—क्रूर (adj) (12); खर (adj) (20); दारुण (adj) (13)
 
-state of existence—ala: (f) (6,
+cry—स्वनः (m) (19); स्वरः (m) (19); crying—रोदनम् (n) (20)
 
-20 verse) exists—(1A) (5) experience—371 + 1(1P) (4) extinguished, be-8 + 74 (4Ā)
+cuckoo—कोकिलः (m) (15)
 
-(18) extol--(1Ā) (9 verse, 13
+curiosity—कौतूहलम् (n) (13); जिज्ञासा (f)
 
-verse, 15) extremely—4274 (adj) (14) eye—a: (n) (9); RAM (n) (14);
+curious—जिज्ञासु (adj)
 
-1944 (n) (13); having large eyes-farinat (adj f) (19)
+curse—शप् (1P) (4); शापः (m) (5)
 
--F
+custom—विधिः (m) (15); in accordance with custom—यथाविधि (ind) (15)
 
-face—3167074 (n) (13); Ra(n)
+cut—छिद् (7P); भिद् (7P); छिन्न (adj) (14); भिन्न (adj)
 
-(13); 96574 (n) (15) fadeffe (8 verse) fall—47(1P) (10); A +(1P)
+-D-
 
-(18); fallen— da (adj) false—1942ta (adj) (17);
+daily—प्रतिदिनम् (ind)
 
-(ind) (9)
+damage—लोपः (m) (18)
 
-506
+dance—नृत् (4P/Ā) (10)
 
-fame-ala: (f) (11 verse); 42: fit-HÇET (adj) (14)
+dark—नील (adj) (20); श्याम (adj) (21)
 
-(n)
+Daśaratha, Rāma's father—दशरथः (m prop) (4)
 
-five—450 (adj) (19); fivefold family— (n) (16)
+daughter—कन्या (f) (7); तनया (f) (15); दुहितृ (f) (10)
 
-state, death—450794 (n) (20) famous—प्रख्यात (adj) (19); प्रसिद्ध | flee—पला + इ (1A) (7)
+day—अहः (n) (see 21.3.g); दिनः (m)
 
-(adj) (19 verse)
+daybreak—कल्यम् (ind) (21)
 
-flesh-मांसम् (n) (20) far—(4 (ind) (21, 22)
+dear—प्रिय (adj)
 
-flow—&(1P) (19) fascinating—HATE (adj) (21)
+dear one—तातः (m) (14); प्रिया (f)
 
-flower— (n) (8 verse); father— : (m) (14); fua (m) flowery-154a (adj) (19)
+death—पञ्चत्वम् (n) (20); मरणम् (n) (18); god of death—अन्तकः (m) (20); कालः (m) (5, 21); मृत्युः (m); यमः (m); Yama's realm—यमलोकः (m); dead—मृत (adj) (17)
 
-(10, 19)
+decay—क्षि (1P)
 
-fly_font (f) (21) fault-a4: (m)
+decided—निश्चित (adj)
 
-fly, to 361 +46(1P); favor-34972: (m) (11); YHTG: (m)
+deer—मृगः (m) (4, 6)
 
-foam-7: (m) (20) (6 verse); favorable—17 (21)
+deformed—कुरूप (adj) (19); विकृत (adj) (22)
 
-folks—54: (m) (4, 15) fawn—421100: (m) (19)
+dejected—निषण्ण (adj) (12); विषण्ण (adj) (13)
 
-follow—371 + 2 (2P) (11 verse); fear— (3P) (7); 474 (n) (16);
+deliberation—विचारः (m) (13)
 
-371 + (1P) Hifa: (f) (10); fearsome
+delight—रतिः (f) (11 verse); delighted—प्रमुदित (adj) (10); प्रहृष्ट (adj) (20); मुदित (adj); रत (adj); delighting in—विहारिन् (adj) (20)
 
-fond of—371 +351 (4A) (8) (adj) (19 verse); ** (adj) (19)
+delusion—मोहः (m) (19); deluded—मोहित (adj) (16)
 
-food—14: (m) (18); 75AH (n) feel—371 + (1P) (4)
+demon—असुरः (m) (21); राक्षसः (m) (6); female demon—राक्षसी (f) (19); निशाचरः (m) (lit., night roamer)
 
-(11); forest-food-R14 (n) fetch-311+ (1P) (17)
+depart—निर् + गम्; departed—निर्गत (adj) (7); विगत (adj) (14)
 
-(16) fever, feverish disease—50R: (m) fool_46Hfa: (m); 42: (m) (4);
+depression—खेदः (m) (13)
 
-(22)
+deserted—विरहित (adj) (16)
 
-foolish—3141058 (adj) field- 514 (n)
+desire—इष् (6P) (8); कामः (m) (15); तृष्णा (f) (11 verse, 18 verse); with desire—सकामम् (ind); in accordance with desire—यथाकामम् (ind) (15); desired—इष्ट (adj) (10)
 
-foot—416: (m) (16 verse) fierce (adj) (20); Chou (adj for the sake of- (ind) (12)
+desire to get—ईप्सा (f)
 
-(13); Pea (adj) (15)
+destroy—लुप् (6Ā); destroyed, be—नश् (4P); वि + नश् (4P) (20); destroyed—भ्रष्ट (adj); नष्ट (adj) (6); destroyer—नाशकः (m) (21); destruction—विनाशनम् (n); क्षयः (m) (18)
 
-(with 4 or HATHR) fight—94(4A); wishing to forefront (of battle)477 (m)
+devoid of—निः (ind) (14); रहित (adj) (16); हीन (adj) (16)
 
-fight-युयुत्सु (adj)
+devotion—लय (m); devoted to—परायण (पर + अयण) (adj); devoted mind—चित्तलयः (m) (5 verse)
 
-(20) fill—I (9P); filled Fiqui (adj) foremost— 425 (adj) (17 verse)
+die—प्रे (प्र + इ) (22); मृ (1P) (16)
 
-(18)
+dig—खन् (1P)
 
-forest—3R0MA(n) (7); A4 (n) final अन्तिम (adj); अन्त्य (adj)
+direction—दिश् (दिक्) (f) (20, 22 verse)
 
-(20 verse); finally—37RTA: forget-fa + (1P) (5); (ind) (8)
+directly—साधु (ind) (21)
 
-___forgotten-विस्मृत (adj) fire—3714: (m) (15); 5004: (m) forgive (1Ā)
+disaster—व्यसनम् (n) (14)
 
-(22); having fire as witness- form (literal and figurative) 544 31ffame (adj)
+discard—वि + हा (3P) (21 verse)
 
-(n) (19); form (body)ay: (n); first—371 (adj) (19); 994 (adj) taking any form at will,
+disease—रोगः (m) (14)
 
-(11)
+disfigure—विरूपय (नामधातु) (19); disfigured—विरूपित (adj) (19); disfigurement—विरूपणम् (n) (19)
 
-1461471 (adj) (19) fish—HRT: (m) (16)
+dishonorable—अपूज्य (adj) (9 verse)
 
-former-4 (adj) (5) fortitude—R14 (n) (20)
+dispassionate, become—वि + रञ्ज् (1P)
 
-(4)
+dispatch—प्र + स्थापय् (णिजन्त) (22)
 
-507
+dissolution—पञ्चत्वम् (n) (20)
 
-fortunate धन्य (adj) (16); भव्य gate द्वारम् (n)
+distance unit—योजनम् (n) (22)
 
-(adj) (20 verse)
+distressed—आकुल (adj) (12)
 
-Gautama—11614: (m prop) (10) fortune—लक्ष्मी (f) (17)
+divinity—दैवतम् (n) (22)
 
-generally-प्राय (adj) (21) four-चतुर् (adj)(19)
+do—कृ (8P) (5); doer—कर (adj; f -ई) (20 verse); done—कृत् (adj); desirous of doing—चिकीर्षु (adj) (18)
 
-gentle—ATRI (adj) (20) foursome-चतुष्टयम् (n)
+doctor—वैद्यः (m) (10 verse)
 
-get-अनु + प्र + आप् (5P) (22); प्राप् fourteenचतुर्दशन् (adj) (15) । (प्र + आप्) (5P) (16) fourth-चतुर्थ (adj) (17) (fem.- | girdle-मेखला (1)
+doer—कर्तृ (see lesson 11)
 
-चतुर्थी)
+done—कृत (adj) (10)
 
-give—दा (3P) (9); यम् (1P) (11); free-मुच (6P)
+donkey—गर्दभः (m) (18); खरः (m) (21)
 
-give up—वि + सृज् (6P) (16); वि friend-बान्धवः (m) (18); मित्रम् (n)
+door—द्वारम् (n)
 
-+ हा (3P) (21 verse); given (14); सखि (m) (21);
+doubt—शङ्क् (1Ā) (10)
 
-(adj) दत्त; giving-दानम् (n), friendship सख्यम् (n) (22);
+doubted—शङ्कित (adj) (10)
 
--द (adj) (14) (समासान्त) सौहृदम् (n) (21)
+doubtlessly—असंशयम् (ind) (21)
 
-| glorious तेजस्विन् (adj; f-इनी) frightened—त्रस्त (adj) (20);
+drawn near—उपगत (adj) (18)
 
-(18) पर्याकुल (adj) (21); भीत (adj)(4)
+dried up—शुष्क (adj) (16)
 
-go—इ (2P) (18); गम् (1P) (4); प्र + from this—31a: (ind) (21)
+drift apart—व्यपे (वि + अप + इ) (2P)
 
-या (2P) (22); या (2P) (15); सं+ front of—see 'in front of
+drink—पा (1P) (15)
 
-चर् (1P) (15);go back—प्रति + fruit—404 (n) (16)
+drinker— -प (adj) (at end of compound)
 
-गम् (1P) (9); go forth-निर् + गम् full_परिपूर्ण (adj); पूर्ण (adj) (10);
+drive away—अप + नुद् (6P)
 
-(1P) (22); going-गमनम् (n) fully—सम्यक् (adv) (21); full
+drop—बिन्दुः (m) (18)
 
-(13); -ग (adj) (12) (समासान्त); of-युत (adj) (22)
+drunk—उन्मत्त (adj) (19)
 
-gone—गत (adj) (7); विगत (adj) furious सुसंक्रुद्ध (adj) (19)
+drunk (as a liquid is)—पीत (adj)
 
-(14); gone away—3749AIR (adj) furnished with—युक्त (adj) (19)
+drunkenness—मदः (m) (11 verse)
 
-(21);gone to heaven स्वर्गत
+duration of life, for the—यावज्जीवनम् (ind)
 
-(adj) (22) goad-प्रतोदः (m) (19)
+Durgā—दुर्गा (f prop) (15)
 
-god—अमरः (m); ईश्वरः (m) (21); gain-लम् (1A) (10); gained
+Dūṣana—दूषणः (m prop) (19)
 
-देवः (m) (6, 10); दैवतम् (n) (22); लब्ध (adj) (10)
+dust—रेणुः (m) (19)
 
-भगवन्त (m); god of death Ganesa (lord of hosts),
+duty—धर्मः (m) (12)
 
-कालः (m) (5,21); मृत्युः (m prop) गणेशः,गणपतिः; having arat for a
+dwell—नि + वस् (1P) (20); dwelling—निवासः (m) (21); वसतिः (f); वासः (m); वासनम् (n) (18); dweller—वासिन् (m, n; f -इनी) (13)
 
-(21); यमः (m prop) (12); mount'—मूषिकवाहनः (m)
+dying—मरणम् (n) (18)
 
-| Godavari—गोदावरी (f prop) (19) Ganges—गङ्गा (f prop) (18)
+-E-
 
-| goddess—देवी (1) (6) garland_HICT (f) (13 verse)
+each—प्रति (ind) (6, 14); सर्व (adj) (see 5.7)
 
-| gold हेमन् (n) (18); golden garment-अम्बरम् (n) (20); वस्त्रम्
+ear—कर्णः (m) (19)
 
-काञ्चन (adj) (21); सौवर्ण (adj) (n) (16); वासः (n)
+earth—धरा (f) (12); पृथिवी (f) (14); भूमिः (f) (10); मेदिनी (f) (20)
 
-(21); golden-yellow हेमपिङ्गल Garuda-गरुडः (m prop)
+easy—सुलभ (adj) (8)
 
-(adj) (22)
+eat—अद् (2P); खाद् (1P); भक्ष् (10P/Ā) (19); भुज् (7P) (8); eaten—खादित (adj)
 
-508
+effort—प्रयत्नः (m) (12); श्रमः (m) (15)
 
-golden age of the world-
+eight—अष्टन् (adj) (19)
 
-(n) (22) good idea!—0164 (ind) (21) good man-HR (m) (11 verse) good name—ail: (f) (11 verse) good or pleasant tiding—4274 (n)
+eldest—ज्येष्ठ (adj) (5)
 
-(22) got—19a (adj) (12) Govinda—Jira: (m prop) grace-प्रसादः (m) grain—9R14 (n) (16) grammatical object_2077 (n) (8) grandson—915: (m) (22) granting-दानम् (n) grasp— TE → Taifa (9P) (16) gratified—अनुगृहीत (adj) great-बृहन्त् (adj); महन्त् (adj)
+elephant—करेणुः (m) (19); कुञ्जरः (m) (14); गजः (m) (18); हस्तिन् (m)
 
-(11); great-armed-4610F: (adj) (22); great city—HELYT (f) (21); greater than- HR (adj) (5 verse); 31 (adj) (7
+elsewhere—परतः (ind) (7 verse)
 
-verse) (with 404) grey hair—1944 (n) (18 verse) grieve—79(1P) (15); grief
+embrace—परि + स्वञ्ज् (1Ā) (15)
 
-1104: (m) (4) group (n) (20) grow—TH(1A) (17); L4(1Ā);
+end—अन्तः (m) (16)
 
-grow great-महीयते
+ender—अन्तकः (m) (20)
 
-hanging-mt (adj) (12) Hanuman-311-Och 51: (m) (13
+endowed with—युत (adj) (6); संपन्न (adj) (20)
 
-verse); 654 (m prop) (22) happened— (adj) (17) happy, be—79 (4P) (8); Joe (adj)
+endure—मृष् (4Ā) (22); सह् (1Ā); endured—सोढ (adj)
 
-(8); Hea (adj); Traa (adj) (5); happiness- a (n); happily
+enemy—अरिः (m) (19); विद्विषः (m) (11 verse); शत्रुः (m) (12)
 
-सुखम् (ind) harass— 14 (1Ā) (7);4 + HY(1P) Hari (Vişnu)ER: (m prop) harsh—667 (adj) (16); R (adj)
+enjoy—रम् (1Ā) (21)
 
-(20); 479 (adj) hateau (2P/Ā) he-8: (pr m) (4) (see 5.5) head- (m) (20); RR: (n) (18
+enlighten—बुध् (4Ā); enlightened—बुद्ध (adj) (10); enlightenment—बोधः (m) (20 verse)
 
-verse) heap— IRT: (m) hear–A+ 14 (4P); (5P) (5);
+enough—अलम् (ind) (15) (with तृतीया)
 
-371 + Out (21); hear about (5P) (5); heard- a (adj);
+enraged—कुपित (adj) (4)
 
-hearing— 2014 (n) (10) heart-f9714 (n) (12); EG44 (n)
+enter—प्र + विश् (6P) (11); विश् (6P) (22)
 
-(14) heat 74 (1P/Ā) heaven Fa: (m) (6, 17 verse);
+entourage—गणः (m) (22)
 
-highest heaven-ब्रह्मलोकः (m) (22); heaven, gone to Faria
+entrance—द्वारम् (n)
 
-(adj) (22) heavy-T (adj) (8) heir apparent-युवराजः; state of
+entrust—नि + क्षिप् (6P) (9)
 
-being,_JA541 (n) (15) hell_RO: (m) (17) hence—3781: (ind) (21); da: (ind)
+enveloped—आच्छादित (adj) (19)
 
-(5) herd9994 (n) (20) here-अत्र (ind); इतः (ind); इह
+envoy—दूतः (m)
 
-(ind) (7); here ... elsewhere
+episode—आख्यानम् (n) (22)
 
--H
+equal—तुल्य (adj) (19); सम (adj) (14); समित (adj) (22)
 
-hail—+1(ind) (6) hair—44731: (m) (8 verse) hand- R: (m); 41101: (m) (20);
+especially—विशेषतः (ind) (5)
 
-Sta: (m) handsome free (adj; f
+establish—प्रति + स्था (1P) (18)
 
-Gratis(4);999 (adj) (19)509
+esteem—मानय् (11 verse)
 
-şd... : (7 verse); here ...
+even—अपि (ind) (4); even so—तथापि (ind) (8)
 
-there—58... 08: (21) hermitage-31734: (m) (6) hero-ak: (m) (5); R: (m) hesitation-faER: (m) (13) hey—HT: (ind) (6) hide—377 + ET (3P) (9) highest—(adj) (15); history-5101674: (m) holy—9195 (adj) (22) holy man-HT4: (m) (9) homage_774: (n) (5 verse, 9) home—JEH (n) (4) honor— HERE (fortal of 4-0 (11
+every—प्रति (ind) (6, 14); सर्व (adj) (see 5.7)
 
-verse); 34G: (m) horse-अश्वः (m); तुरंगमः (m) host—374: (m) (22); $109: (m) (9,
+evil—पापम् (n); पाप (adj) (11 verse, 12); evil person—दुर्जनः (m) (19 verse); evil act—दुष्कृतम् (n) (4)
 
-21) hostility-a (n) (22) house–TEH (n) (4); 4f-424 (n)
+exceedingly—अतीव (ind) (4); अत्यन्तम् (ind)
 
-(17); 116T (f) (16) householder-गृहस्थः (m) how?_0621 (ind) (4); how much
+excellence—गुणः (m) (5, 11 verse); excellent—उत्तम (adj) (8); बाढम् (ind) (21); वर (adj) (17, 19)
 
-(more or less) 9 (ind) (20); how is it..._0214 (ind)
+except—ऋते (ind) (22) (generally takes पञ्चमी)
 
-364 (pr) (see 4.46) if—(ind); alfa (ind) (6); if...
+excessively—अति (ind) (13)
 
-then— fa...ale illusion—HRI (f) (21);
+exert oneself—प्र + यत् (1Ā) (8)
 
-possessing API, or illusory
+exiled—निर्वासित (adj) (17); विवासित (adj) (17)
 
-power—4TIC (adj) (22) imitate—371 + (8P) immediate neighborhood, in
+existence—भवः (m) (20 verse); state of existence—गतिः (f) (6, 20 verse)
 
-प्रत्यनन्तर (adj) (20) immediately—1844 (ind) (21);
+exists—वृत् (1Ā) (5)
 
-tu (ind) (6) immortal—379 (adj) (21) impelled-Ra (adj) (21) imprison- + E (9P) (16) in fact—ofa: (ind) (11) in front of—3744: (ind) (20);
+experience—अनु + भू (1P) (4)
 
-Tea (ind) (21) (with st) | indebted—अनुगृहीत (adj) indeed— (ind) (19) Indra-5-5: (m prop) (10);
+extinguished, be—सं + शम् (4Ā) (18)
 
-'slayer of Vstra'—EET (m prop); 'conqueror of Indra' —
+extol—वन्द् (1Ā) (9 verse, 13 verse, 15)
 
-55151 (m) infatuate + HRY influence—a21: (m) (14); under the influence of_ar: (adj)
+extremely—भृशम् (adj) (14)
 
-(14) informed (forslag of +
+eye—चक्षुः (n) (9); नयनम् (n) (14); लोचनम् (n) (13); having large eyes—विशालाक्षी (adj f) (19)
 
-PG) (14, 19) infuriated Hou (adj) (20) injury—FÉHI (f) (20); injurious—
+-F-
 
-fH (adj) (15) inner apartment—377 (n)
+face—आननम् (n) (13); मुखम् (n) (13); वदनम् (n) (15)
 
-(14)
+fade—क्षीय (8 verse)
 
-(4)
+fall—पत् (1P) (10); नि + पत् (1P) (18); fallen—पतित (adj)
 
-however — Parig (ind) (5) hue—24: (m) (20) human—41474: (m) (20); 4169
+false—विपरीत (adj) (17); मिथ्या (ind) (9)
 
-(m) (20); 4199 (adj) hundred—144 (n) (see 19.5.b) hunger (f) (22); Tal (f) husband-Ha (m) (10); fa: (m)
+fame—कीर्तिः (f) (11 verse); यशः (n)
 
-(12, see 21.3.b) hut—16 (f) (16)
+family—कुलम् (n) (16)
 
-510
+famous—प्रख्यात (adj) (19); प्रसिद्ध (adj) (19 verse)
 
--K
+far—दूरम् (ind) (21, 22)
 
-Nam
+fascinating—मनोहर (adj) (21)
 
-inquiry_414141 (f) inside-3764 (n); from inside,
+father—तातः (m) (14); पितृ (m) (10, 19)
 
-from out of—37RT (ind) (21) Kabandha-papa: (m prop) (22) insinuate-37 +31 (1P)
+fault—दोषः (m)
 
-Kaikeyi- i (f prop) (11) install—A + (7P) (17 verse); Kailāsa— ta: (m prop)
+favor—उपकारः (m) (11); प्रसादः (m) (6 verse); favorable—क्षम (21)
 
-ufa +9164 (22)
+fawn—मृगशावकः (m) (19)
 
-Kākutstha, name of Rāma instant- 14 (n) (20)
+fear—भी (3P) (7); भयम् (n) (16); भीतिः (f) (10); fearsome—भयङ्कर (adj) (19 verse); भैरव (adj) (19)
 
-A FT: (m) (20) intellectea: (n) (9); 4511 (f) Kāma, god of love_01462: (m) intelligence—54: (f) (11);
+feel—अनु + भू (1P) (4)
 
-(19) intelligent-मनस्विन् (adj)
+fetch—आ + नी (1P) (17)
 
-karma—0A(n) (8) interior-3764 (n); from
+fever, feverish disease—ज्वरः (m) (22)
 
-Kausalyā—Piel (f prop) (11) inside, from out of—37RTCI
+field—क्षेत्रम् (n)
 
-Khara—R: (m prop) (19) (ind) (21)
+fierce—उग्र (adj) (20); दारुण (adj) (13); हिंस्र (adj) (15)
 
-kill—A + (2P); 24 (1P) (20); iron bar—9R4: (m) (20)
+fight—युध् (4Ā); wishing to fight—युयुत्सु (adj)
 
-(2P) (4); killed-58 (adj) (4); to be killed—ata (adj) (21); killing—94: (m) (21);
+fill—पृ (9P); filled—संपूर्ण (adj) (18)
 
-66 (n) (6) Janaka-3140: (m prop) (8) kin-F954: (m) (21) Janasthāna—JAFF (n prop) king-अधिपतिः (m); अधिराजः (m)
+final—अन्तिम (adj); अनन्त्य (adj) (20 verse); finally—अनन्ततः (ind) (8)
 
-(19)
+fire—अग्निः (m) (15); ज्वलनः (m) (22); having fire as witness—अग्निसाक्षिक (adj)
 
-(19); 74: (m) (4); J4fa: (m) Jațāyus—5278 (m prop) (20, (13); fa: (m) (5); 144: (m)
+first—अग्र (adj) (19); प्रथम (adj) (11)
 
-22)
+fish—मत्स्यः (m) (16)
 
-(4); <T5F (m) (8); king jest—RETH: (m) (19)
+fit—सदृश (adj) (14)
 
-maker—275190 (m) (18; jewel jewel—HT: (m) (10); <6014 (n)
+five—पञ्चन् (adj) (19); fivefold state, death—पञ्चत्वम् (n) (20)
 
-among kings—27514101: (m) (5 (13 verse)
+flee—पला + इ (1Ā) (7)
 
-verse) join—5 (7P/A) (18); À + 1
+flesh—मांसम् (n) (20)
 
-kingdom—27547 (n) (5); 1954 (3P) (8); joined—(adj)
+flow—स्रु (1P) (19)
 
-(n) (16); kingly rule— 1944 (n) (19); da (adj) (20)
+flower—कुसुमम् (n) (8 verse); flowery—पुष्पित (adj) (19)
 
-(5) joke—YREIH: (m) (19)
+fly—मक्षिका (f) (21)
 
-Kiskindhā—fotoappal (f prop) joy—376-: (m); 464: (m) (18); | (22)
+fly, to—उत् + पत् (1P)
 
-Gear(n); joyfully-HARGA kiss— (1P) (18 verse); (ind) (5)
+foam—फेनः (m) (20)
 
-kissed—चुम्बित (adj) jump— (1Ā) (22); jump up- know— 7 (9P) (6); fac (2P);
+folks—जनः (m) (4, 15)
 
-36 + 4 (1P)
+follow—अनु + या (2P) (11 verse); अनु + सृ (1P)
 
-HHIETI (A4+ 371 + ) (9P) (18); just_59 (ind) (6)
+fond of—अनु + रञ्ज् (4Ā) (8)
 
-known-अभिज्ञात (adj); आवेदित (adj) (22); knowing — (adj)
+food—भक्षः (m) (18); भोजनम् (n) (11); forest-food—वन्यम् (n) (16)
 
-511
+fool—मूढमतिः (m); मूर्खः (m) (4); foolish—अपण्डित (adj)
 
--L
+foot—पादः (m) (16 verse)
 
-(12) (HH1H ); knowledge- wise people-fag 554: (m) (11 344 (n) (12); knower-10 verse)
+for the sake of—कृते (ind) (12) (with षष्ठी or समासान्त)
 
-(adj) (end of cmpd.)(12.17) letter-CAR: (m) (21) koil— allo : (m)
+forefront (of battle)—मूर्धन् (m) (20)
 
-liberate—79 (6P); liberation ksatriya क्षत्रियः (m)
+foremost—प्रमुख (adj) (17 verse)
 
-H&: (m) (14); liberated—4
+forest—अरण्यम् (n) (7); वनम् (n) (4)
 
-(adj) lick-FE (6P); C (2P);
+forget—वि + स्मृ (1P) (5); forgotten—विस्मृत (adj)
 
-licked 16 (adj) lady-01 (f) (7); FR (f) (6) lie down— (2A) lake—H: (n) (16)
+forgive—क्षम् (1Ā)
 
-life- 14 (n) (21) Laksmana 3&44: (m prop) (5); life story—ata (n) (4)
+form (literal and figurative)—रूपम् (n) (19); form (body) वपुः (n); taking any form at will—कामरूपिन् (adj) (19)
 
-son of Sumitra- सौमित्रिः (m
+former—पूर्व (adj) (5)
 
-lift 3G + (1P) (5 verse, 6) prop) (18)
+fortitude—धैर्यम् (n) (20)
 
-light—HRT: (m) (21) lament- + 4(1P) (14, 17
+fortunate—धन्य (adj) (16); भव्य (adj) (20 verse)
 
-lightning bolt— RIA: (f) (11) verse)
+fortune—लक्ष्मी (f) (17)
 
-like—377*45 (adj) (21); 50 (ind) lance—104(n) (20)
+four—चतुर् (adj) (19)
 
-(4); 34 (adj); - (ind) (12); land— : (f) (10)
+foursome—चतुष्टयम् (n)
 
-HGT (adj) (14); H (adj) Lankā, name of Rāvana's capital
+fourteen—चतुर्दशन् (adj) (15)
 
-(20); (relative)— (ind) (6) city-miş (f prop) (20)
+fourth—चतुर्थ (adj) (17) (fem.—चतुर्थी)
 
-| like, be fond of —371 +3-51 (47) large—HER (adj) (11)
+free—मुच् (6P)
 
-(8) last—31127 (adj); 32(adj) (20 limb—JEH (n) (7, 18 verse)
+friend—बान्धवः (m) (18); मित्रम् (n) (14); सखि (m) (21); friendship—सख्यम् (n) (22); सौहृदम् (n) (21)
 
-verse); last resort-4141414 (
+frightened—त्रस्त (adj) (20); पर्याकुल (adj) (21); भीत (adj) (4)
 
-lineage_021: (m) (12) + 3244140 (n) (5 verse)
+from this—अतः (ind) (21)
 
-lion—HE: (m) (15) later-उत्तर (adj)
+front of—see 'in front of'
 
-listen-+(4P) (20); }(5P) laugh—66 (1P) (12); laughter
+fruit—फलम् (n) (16)
 
-(5); 311 + Jourd (21) 614: (m) (19)
+full—परिपूर्ण (adj); पूर्ण (adj) (10); fully—सम्यक् (adv) (21); full of—युत (adj) (22)
 
-little-ball (n) (10) law (m) (12)
+furious—सुसंक्रुद्ध (adj) (19)
 
-live-511(6P) (4); f +(1P) lead— (1P) (10); lead away
+furnished with—युक्त (adj) (19)
 
-(20); living-sifaa (adj) (10) 379 + (1P); leader—ar: living being-51 (m) (15) (m) (17); }(m) (10)
+-G-
 
-load—HR: (m) (9) leaf—954 (n) (8); yum (n) (19)
+gain—लभ् (1Ā) (10); gained—लब्ध (adj) (10)
 
-log2164 (n) (14) leap (1Ā) (22)
+Gaṇeśa (lord of hosts), गणेशः; गणपतिः; 'having a rat for a mount'—मूषिकवाहनः (m)
 
-long-(of time)—forf (adj) (14) leam—372 (31791 + ) (2A);
+Ganges—गङ्गा (f prop) (18)
 
-(of distance) —524 (ind) (21, leaming-fael (f) (19 verse) learned—1958 (adj) (7); learned long ago 27 (ind) (13)
+garland—माला (f) (13 verse)
 
-man—1054: (m); (7) Fagia (m); long life, conducive to—3779
+garment—अम्बरम् (n) (20); वस्त्रम् (n) (16); वासः (n)
 
-(adj) (22)
+Garuḍa—गरुडः (m prop)
 
-22)
+gate—द्वारम् (n)
 
-512
+Gautama—गौतमः (m prop) (10)
 
-12
+generally—प्राय (adj) (21)
 
-look at–fà + (10P) (20
+gentle—सौम्य (adj) (20)
 
-verse) loose—RTES (adj) (18 verse) lord—$27: (m) (19); $8: (m)
+get—अनु + प्र + आप् (5P) (22); प्राप् (प्र + आप्) (5P) (16)
 
-1: (m) (12)(see 21.3.b);
+girdle—मेखला (f)
 
-(10); lord of—5-5: (m) (21)(HHIHIRI) loss014: (m) (18) lost—40€ (adj) lotus_04874 (n) (16) love-PFTE (4P) (5); 3) + 351
+give—दा (3P) (9); यम् (1P) (11); give up—वि + सृज् (6P) (16); वि + हा (3P) (21 verse); given (adj)—दत्त; giving—दानम् (n), -द (adj) (14) (समासान्त)
 
-(47) (8); fup: (m) (22); FRE: (m); lover-41144 (m) (21); make love-24 (1Ā) (21) lovely 4R (adj) (12) lure away—379 + 916 (22)
+glorious—तेजस्विन् (adj; f -इनी) (18)
 
-(णिजन्त of अप + वह)
+go—इ (2P) (18); गम् (1P) (4); प्र + या (2P) (22); या (2P) (15); सं + चर् (1P) (15); go back—प्रति + गम् (1P) (9); go forth—निर् + गम् (1P) (22); going—गमनम् (n) (13); -ग (adj) (12) (समासान्त); gone—गत (adj) (7); विगत (adj) (14); gone away—अपक्रान्त (adj) (21); gone to heaven—स्वर्गत (adj) (22)
 
--M
+goad—प्रतोदः (m) (19)
 
-mark—681414 (n) (11 verse) marked—31f5a (adj) (18 verse) marry- Ruit (4R+ ft) (1P) (8);
+god—अमरः (m); ईश्वरः (m) (21); देवः (m) (6, 10); दैवतम् (n) (22); भगवन्त् (m); god of death—कालः (m) (5, 21); मृत्युः (m prop) (21); यमः (m prop) (12)
 
-marriage-fe: (m) (7);
+Godāvarī—गोदावरी (f prop) (19)
 
-married—failes (adj) (12) mass—RIRT: (m) meaning—3781: (m) (13); ‘for the
+goddess—देवी (f) (6)
 
-sake of_37077 (ind) (20 verse)
+gold—हेमन् (n) (18); golden—काञ्चन (adj) (21); सौवर्ण (adj) (21); golden-yellow—हेमपिङ्गल (adj) (22)
 
-(at end of compound) means—3474: (m) (21) meanwhile—ald (ind) (6) meditate—&I (4Ā);
+golden age of the world—कृतयुगम् (n) (22)
 
-meditation—E264 (n) (7) meet-H4 + (2P) (14); meet
+good idea!—बाढम् (ind) (21)
 
-ing-HARTH: (m) (18) memory
+good man—सन्त् (m) (11 verse)
 
-; possessed of memory ay (adj) (11) mental faculty—49: (n) (9) mere— (ind) (8 verse) messenger— : (m) met with—HR (adj) (22) middle—HEZ: (m) (19) mighty_oort (adj) (21) milk, to—GE (2P); milk—94: (n) Mimāmsā school of philoso ___phy-मीमांसा (1)
+good name—कीर्तिः (f) (11 verse)
 
-mind_at" (n) (12); HT: (i) (6);
+good or pleasant tiding—प्रियम् (n) (22)
 
-47: (n) (9) mine-मामक (adj) misery—:44 (n) (4) missing—fen (adj) (16); A
+got—प्रापित (adj) (12)
 
-(adj) (16) Mithilā—FARMI (f prop) (7) moment—444 (n); echt (n)
+Govinda—गोविन्दः (m prop)
 
-(20); for a moment—HT (ind) (11)
+grace—प्रसादः (m)
 
-mad3-431 (adj) (19); mad
+grain—धान्यम् (n) (16)
 
-man-उन्मत्तः (m) magic—HR41(f) (21); endowed
+grammatical object—कर्मन् (n) (8)
 
-with magical power—fac (adj)
+grandson—पौत्रः (m) (22)
 
-(6 verse) (lit., "accomplished") make-5 (8P) (5); made —
+granting—दानम् (n)
 
-(adj) (10); maker_opt man—: (m) (17, 18 verse);
+grasp—ग्रह् → गृह्णाति (9P) (16)
 
-934: (m) (6); 4924: (m) (6);
+gratified—अनुगृहीत (adj)
 
-4179: (m) (20); 4119 (m) (20) Manu, relating to 469 (ad))
+great—बृहन्त् (adj); महन्त् (adj) (11); great-armed—महाबाहुः (adj) (22); great city—महापुरी (f) (21); greater than—परतर (adj) (5 verse); अधिक (adj) (7 verse) (with पञ्चमी)
 
-manual readiness-हस्तलाघवम् (n)
+grey hair—पलितम् (n) (18 verse)
 
-(10 verse) many—6 (adj) (7); many
+grieve—शुच् (1P) (15); grief—शोकः (m) (4)
 
-times—aE9RH (ind) (18) Mārica—HRIE: (m prop) (21)
+group—यूथम् (n) (20)
 
-513
+grow—एध् (1Ā) (17); वृध् (1Ā); grow great—महीयते
 
-(1)
+-H-
 
-monkey_calu (m) (13, 18
+hail—भोः (ind) (6)
 
-verse); 147: (m) (13); ER: (m) (19 verse); best of monkeys ARR: (m) (22); lord of mon
+hair—मूर्धजः (m) (8 verse)
 
-keys&IR (adj) (22) moon—5-6: (m) (14); 2-5: (m)
+hand—करः (m); पाणिः (m) (20); हस्तः (m)
 
-(8 verse, 16); aritu14: (m) (lit.,
+handsome—सुन्दर (adj; f—सुन्दरी) (4); सुमुख (adj) (19)
 
-"lord of the stars"); IF (m) moral taint-00444 (n) (22) moreover-3119 a (ind) (9) morning, in the — (=915:)
+hanging—लम्ब (adj) (12)
 
-(ind) (21) mortal—504: (m) (6) mosquito—HR795: (m); to turn
+Hanumān—अनिलात्मजः (m) (13 verse); हनुमन्त् (m prop) (22)
 
-into a mosquito— HRVAT (13
+happened—वृत्त (adj) (17)
 
-verse) mother—3476|1 (f) (11); HTL (f)
+happy, be—तुष् (4P) (8); तुष्ट (adj) (8); सुख (adj); सुखित (adj) (5); happiness—सुख (n); happily—सुखम् (ind)
 
-(10) mount-वाहनम् (n) mountain—AIR: (m) (21)
+harass—बाध् (1Ā) (7); प्र + मथ् (1P)
 
-mouse-मूषिकः (m) moveo (1P); R (1P) (15);
+Hari (Viṣṇu)—हरिः (m prop)
 
-251 (1P); 24 (1P) (16); moved—aica (adj); moving
+harsh—कर्कश (adj) (16); खर (adj) (20); परुष (adj)
 
-- (adj) (12) mule— R: (m) (21) murder Efel (f) mutilated—facta (adj) (19)
+hate—द्विष् (2P/Ā)
 
-Nandi (or Nandin)—afa: (m
+he—सः (pr m) (4) (see 5.5)
 
-prop) (19) | Nandigrāma-नन्दिग्रामः (m prop)
+head—मूर्धन् (m) (20); शिरः (n) (18 verse)
 
-(22) nasty—4144 (adj) (11 verse, 12) nature-Testa: (f) (18 verse) nearly-971 (adj) (21) nearness—H4144 (n) (11) necessarily—379244 (ind) neck— al (f) necklace—HIOT (f) (13 verse);
+heap—राशिः (m)
 
-ar: (m) (8 verse) neglect- (18) neighborhood, in the immediate
+hear—नि + शम् (4P); शृ (5P) (5); आ + कर्णय् (21); hear about—शृ (5P) (5); heard—श्रुत (adj); hearing—श्रवणम् (n) (10)
 
-of_464 (adj) (20) net—3110 (n) (12) new_219 (adj) (21 verse) news-वृत्त (n); वृत्तान्तः (m) (14) night-roamer—FRIER: (m) nine—7071 (adj) (for declension
+heart—चित्तम् (n) (12); हृदयम् (n) (14)
 
-see 19.6) no (negative particle) — (ind)
+heat—तप् (1P/Ā)
 
-(4); 41-(ind) (11, 19) (with imperative and aorist injunc
+heaven—स्वर्गः (m) (6, 17 verse); highest heaven—ब्रह्मलोकः (m) (22); heaven, gone to—स्वर्गत (adj) (22)
 
-tive) non-—37-, 37- (14) noose—YR: (m) (19) nose—HHH (f) (19) notice—A + 4 (10P/Ā) (15) now—379 (ind); 3TYFI (ind) (11);
+heavy—गुरु (adj) (8)
 
-GRA (ind)(7) nymph—374HCEL (1)
+heir apparent—युवराजः; state of being,—यौवराज्यम् (n) (15)
 
--N
+hell—नरकः (m) (17)
 
-Nala—785: (m prop) (22) name, to3777 + (3P); name
+hence—अतः (ind) (21); ततः (ind) (5)
 
-77747214 (n) (5); 7147 (n) (8); namely, "by name"_H (ind) (4)
+herd—यूथम् (n) (20)
 
-obedient—37galt (adj) (20) oblation-fa: (n)
+here—अत्र (ind); इतः (ind); इह (ind) (7); here . . . elsewhere—इतः . . . परतः (7 verse); here . . . there—इतः . . . ततः (21)
 
-514
+hermitage—आश्रमः (m) (6)
 
-(10)
+hero—वीरः (m) (5); शूरः (m)
 
-obtain-आप (5P) (7); अनुप्राप् (अनु | otherwise-अन्यथा (ind) (19)
+hesitation—विचारः (m) (13)
 
-+ 9 + 314) (5P) (22); 379114 outside— 16 (ind) (18) (379 + 3114) (5P) (22); ob- overcome—3772 +4 (1P) (10); tained—9194 (adj) (12)
+hey—भोः (ind) (6)
 
-3177F (adj) (10) occupied—31 (adj) (18 overjoyed— CC (adj) (11)
+hide—अन्तर् + धा (3P) (9)
 
-verse)
+highest—पर (adj) (15)
 
-overlord—3TTERI3: (m) (19) occurred-(adj) (17) ocean—301a: (m) (16, 22); 3974:
+history—इतिहासः (m)
 
--P (m) (14); HEIGT: (m) (22); ar11:(m) (13 verse); HPR: (m) pacify-HTO (10P) (15); be (10)
+holy—पवित्र (adj) (22)
 
-pacified—9+ C (1P) (13) offense-3742T47: (m) (13)
+holy man—साधुः (m) (9)
 
-pair द्वन्द्वम् (n) offer—5 (3P) (9)
+homage—नमः (n) (5 verse, 9)
 
-palace-TAG: (m) (12); 4944 (n) offspring—451(f) (5)
+home—गृहम् (n) (4)
 
-(13); 4f-424 (n) (17); H6774 (n) ointment-fac3474 (n) (8 verse) old—fluf (adj) (10); TE (adj) (9); pale-aqui (adj) (13)
+honor—मानय् (णिजन्त of मन्) (11 verse); आदरः (m)
 
-old age—5R1 (f) (16)
+horse—अश्वः (m); तुरंगमः (m)
 
-palms together (held in re on account of_opa (ind) (12) spect)—310511: (m) (16)
+host—गणः (m) (22); लोकः (m) (9, 21)
 
-(with 987 or at end of cmpd.) Pampā—4+41 (f prop) (21) once-एकदा (ind) (4)
+hostility—वैरम् (n) (22)
 
-Pāndava—41054: (m prop) once, at—झटिति (ind)
+house—गृहम् (n) (4); मन्दिरम् (n) (17); शाला (f) (16)
 
-paralyzed स्तब्ध (adj) one—15 (adj) (5,19)
+householder—गृहस्थः (m)
 
-pardon (1Ā) one's own Fa (adj) (7 verse, 17, parents—THARI (m nom dual of
+how?—कथम् (ind) (4); how much (more or less)—किं पुनः (ind) (20); how is it . . .—कथम् (ind) (4)
 
-18 verse)
+however—किंतु (ind) (5)
 
-PE) oneself स्वयम् (ind) (4,8) parrot-14: (m) only—केवलम् (ind) (12) | Parvati—पार्वती (f prop); गिरिराजपुत्री oppressed—पीडित (adj) (4); बाधित (f) (19)
+hue—वर्णः (m) (20)
 
-(adj) (6); Haki (adj) (22) path—460 (f) (21); 41: (m) or—al (ind) (7)
+human—मानवः (m) (20); मानुषः (m) (20); मानुष (adj)
 
-(10) order—317511 (f) (9)
+hundred—शतम् (n) (see 19.5.b)
 
-peaceful— (adj) (5,9) ornament-49414 (n) (8 verse) peak-Rrer(n) (18) ornamented—37 (adj) (8 people—54: (m) (4, 15); 105:
+hunger—क्षुत् (f) (22); बुभुक्षा (f)
 
-verse, 19 verse); 194 (adj) (18,(m) (9, 21) 19 verse)
+husband—भर्तृ (m) (10); पतिः (m) (12, see 21.3.b)
 
-perceive—A +54 (10P/Ā)(15); other—3771 (adj) (5); 374 (adj)
+hut—शाला (f) (16)
 
-1 fa + ta (10P) (20 verse) (9, 17); 42 (adj) (15)
+-I-
 
-period of time—844: (m) (11)
+I—अहम् (pr) (see 4.46)
 
-515
+if—चेत् (ind); यदि (ind) (6); if . . . then—यदि . . . तर्हि
 
-perish— RI (4P) (4) permit—371 + T (4P) (9);
+illusion—माया (f) (21); possessing माया, or illusory power—मायाविन् (adj) (22)
 
-permission—31 (f) (7) person—54: (m); T : (m) (6) perverse-facta (adj) (17) pierced—H (ad) (20) pinnacle—RRACH (n) (18) piśāca, type of demon—192114
+imitate—अनु + कृ (8P)
 
-(m) pity_ Cul (f) (12) place, to- + 1419 (6P) (9);
+immediate neighborhood, in—प्रत्यनन्तर (adj) (20)
 
-place-देशः (m) (6); स्थानम् (n)
+immediately—क्षिप्रम् (ind) (21); शीघ्रम् (ind) (6)
 
-(18); place of rest— 4: (m) plane- 0 (n) (12)
+immortal—अमर (adj) (21)
 
-plantain tree-कदली (f) (14) play—*15 (1P) (18 verse, 21);
+impelled—प्रेरित (adj) (21)
 
-IST (f) (12); TT (f) (8) pleasantha (ad) (20) pleased, be—9+ HC (1P) (13);
+imprison—नि + ग्रह् (9P) (16)
 
-pleased—41 (ad) (10);
+in fact—वस्तुतः (ind) (11)
 
-प्रीतप्रीत (adj) (22) pleasure—ofa: (f) (11 verse);
+in front of—अग्रतः (ind) (20); प्रमुखे (ind) (21) (with षष्ठी)
 
-according to pleasure —
+indebted—अनुगृहीत (adj)
 
-Jurgh (ind) (19) poet—कविः (m) poetry_कविता (f) (15) point out-JG + faal (6P) (13);
+indeed—हि (ind) (19)
 
-A + Get (18) poison—994 (n) (15) portion—852194 (n) (10) possess—Y (10P/A) (8 verse) possessed of form- (m; f -
+Indra—इन्द्रः (m prop) (10); 'slayer of Vṛtra'—वृत्रहन् (m prop); 'conqueror of Indra'—इन्द्रजित् (m)
 
-pot-bellied— FRIGT (adj),
+infatuate—प्र + लोभय्
 
-37614 (f adj) (19) poverty-GiRG214 (n) (6 verse,
+influence—वशः (m) (14); under the influence of—वशगतः (adj) (14)
 
-14) power—9479: (m) (8, 9 verse);
+informed—निवेदय् (णिजन्त of नि + विद्) (14, 19)
 
-6874 (n) (17 verse, 19); 21: (m)
+infuriated—संरब्ध (adj) (20)
 
-(14); aft: (f) (20) powerful, be—9+ 4(1P);
+injury—हिंसा (f) (20); injurious—हिंस्र (adj) (15)
 
-powerful— 16 (adj) (20) practically-YPR: (ind) practice—311 + R (1P) (7) praise- - (1A) (9 verse, 13
+inner apartment—अन्तःपुरम् (n) (14)
 
-verse, 15); FE (2P) (9) prattleg + 754 (1P); prattling
+inquiry—मीमांसा (f)
 
-45514: (m) precious— (adj) (17, 19) prepared-प्रारब्ध (adj) prevented—A+ą (5P/A) (19) previous" (adj) (5);
+inside—अन्तरम् (n); from inside, from out of—अन्तरात् (ind) (21)
 
-previously—पुरा (ind); पूर्वम्
+insinuate—अन्तर् + गम् (1P)
 
-(ind) (15) prison—GRAMR: (m) (10) proceed—+ (1A) (13) produced from—-3 (adj) (18)
+install—नि + युज् (7P) (17 verse); प्रति + पादय (22)
 
-(HHTHIRA) producer of—कारिन् (adj) promise—yfa + TI (9P) (8); | promised (adj) (12) proper—*(adj); properly
+instant—मुहूर्तम् (n) (20)
 
-Arlon (adv) (21) proper wife—Hot (f) (22) propitiating—THIGA (adj) (17
+intellect—चेतः (n) (9); प्रज्ञा (f)
 
-verse) prosperity—5&(f) (17) protect—41 (2P) (18); 48 (10P)
+intelligence—बुद्धिः (f) (11); intelligent—मनस्विन् (adj)
 
-(11); protector—-9 (adj)
+interior—अन्तरम् (n); from inside, from out of—अन्तरात् (ind) (21)
 
-gri)
+iron bar—परिघः (m) (20)
 
-post-F74: (m) (18 verse) pot-074: (m) (10)
+-J-
 
-516
+Janaka—जनकः (m prop) (8)
 
-(HATHT); 75: (m) (6); protection—8414(n) (7); protected by—qeyd (adj) (22) proud—alda (adj) (8) purify-9 (9P/Ā) (19); pure
+Janasthāna—जनस्थानम् (n prop) (19)
 
-fa (adj) (22); MG (adj) (13) pyre-fall (f) (10 verse)
+Jaṭāyus—जटायुस् (m prop) (20, 22)
 
--Q
+jest—परिहासः (m) (19)
 
-quality—14: (m) (5, 11 verse) queen—a (f) (7) question-24: (m) (19) question marker—31f9 (ind) (4) quickly—994 (ind) (21); fra
+jewel—मणिः (m) (10); रत्नम् (n) (13 verse)
 
-(adv) (6) quiet—274 (4A) quotation mark—stà (ind) (4)
+join—युज् (7P/Ā) (18); सं + धा (3P) (8); joined—युक्त (adj) (19); संगत (adj) (20)
 
-Ramayana-रामायणम् (n prop) rapt in thought— (4P) (22) rat—4194: (m) Rāvaņa— R: (m prop) (21);
+joke—परिहासः (m) (19)
 
-(94: (m prop) (21) reach—HHIHE (H4 + 371 + HG)
+joy—आनन्दः (m); प्रहर्षः (m) (18); सुखम् (n); joyfully—सानन्दम् (ind) (5)
 
-(10P) (22) read—(1P) (15); for (adj) ready-H557 (adj) (18) real—H14 (n) (10, 11 verse) realize—a + FT (9Ā) (16) reason- CRU (n) (15) reassure—371 +41 (22);
+jump—प्लु (1Ā) (22); jump up—उत् + पत् (1P)
 
-reassured-at (adj) (22) recall—37+ (1P) (11) receive—914 (9+ 3114 (5P) (16) recognize—3774+ J1 (9P);
+just—एव (ind) (6)
 
-recognized-3 (adj) recourse (n) Pur4 (+
+-K-
 
-321414) (n)(5 verse) recourse to—15 (1P/A) (18) reddened—<+ (adj) reference to, with—31E2 (ind)
+Kabandha—कबन्धः (m prop) (22)
 
-(13) refined Hegoa (adj) (8 verse) reflect—a + ER (1P) (7 verse) regard (H4 + 9 + $8) (6Ā)
+Kaikeyī—कैकेयी (f prop) (11)
 
-(13) region—927: (m) (6) reign-9 + QTTE (2P) (13) rejoiceG (1P) (18 verse); 9+
+Kailāsa—कैलासः (m prop)
 
-5 (1P) (22) relate—371 + Toll (2P) (22); TH
+Kākutstha, name of Rāma—काकुत्स्थः (m) (20)
 
-(1P) (22) relative—apa: (m) (18) release-T (6P) (20); ET (6P)
+Kāma, god of love—कामदेवः (m) (19)
 
--R
+karma—कर्मन् (n) (8)
 
-race—RT: (m) (12) rage— 14: (m) (14); RF: (m)
+Kausalyā—कौसल्या (f prop) (11)
 
-(14) Rāghava—2799: (m prop) (7) Raghu—24: (m prop) Rajagrha-राजगृहम् (n) (17) rākşasa—27&H: (m) (6); 78: (n)
+Khara—खरः (m prop) (19)
 
-(20); rākşasa woman—Tara
+kill—नि + हन् (2P); वध् (1P) (20); हन् (2P) (4); killed—हत (adj) (4); to be killed—वध्य (adj) (21); killing—वधः (m) (21); हननम् (n) (6)
 
-Rama-रामः (m prop); दाशरथिः
+kin—स्वजनः (m) (21)
 
-(lit., son of Daśaratha); 109: (lit., descendant of Raghu);
+king—अधिपतिः (m); अधिराजः (m) (19); नृपः (m) (4); नृपतिः (m) (13); पार्थिवः (m) (5); भूमिपः (m) (4); राजन् (m) (8); king-maker—राजकर्तृ (m) (18; jewel among kings—राजमणिः (m) (5 verse)
 
-- 21: (m) (5 verse) (lit., lord of Ramā); greet: (lit., descendant of Kakutstha) (20)
+kingdom—राज्यम् (n) (5); राष्ट्रम् (n) (16); kingly rule—राज्यम् (n) (5)
 
-517
+Kiṣkindhā—किष्किन्धा (f prop) (22)
 
-(16); वि + सृज् (6P) (16); | rice-व्रीहिः (m) released—मुक्त (adj)
+kiss—चुम्ब् (1P) (18 verse); kissed—चुम्बित (adj)
 
-ridicule उपहासः (m) (15); प्र + हस् religious austerities—14: (n); (1P) (8)
+know—ज्ञा (9P) (6); विद् (2P); समाज्ञा (सम् + आ + ज्ञा) (9P) (18); known—अभिज्ञात (adj); आवेदित (adj) (22); knowing—ज्ञ (adj) (12) (समासान्त); knowledge—ज्ञानम् (n) (12); knower—विद् (adj) (end of cmpd.)(12.17)
 
-practice of—014 (1P/Ā) right -धर्मः (m) (12) remain_स्था (1P) (7)
+koil—कोकिलः (m)
 
-righteous-धर्मचारिन् (adj) (22); remember स्मृ (1P); अनु + स्मृ
+kṣatriya—क्षत्रियः (m)
 
-धार्मिक (adj) (4); साधु (adj) (11 (1P) (11)
+-L-
 
-verse) remove-अप + नी (1P)
+lady—देवी (f) (7); नारी (f) (6)
 
-ritual bath—37744: (m) (19) repeat-अनु + वद् (1P)
+lake—सरः (n) (16)
 
-ritual offering to the gods—451: reply-उत्तरम् (n) (17)
+Lakṣmaṇa—लक्ष्मणः (m prop) (5); son of Sumitrā—सौमित्रिः (m prop) (18)
 
-(m) (5) report-वृत्तम् (n); वृत्तान्तः (m) (14)
+lament—वि + लप् (1P) (14, 17 verse)
 
-| river नदी (f) (19) repulsion-बीभत्सा (1)
+lance—शूलम् (n) (20)
 
-road—मार्गः (m) (10) resolution-व्यवसायः (m)
+land—भूमिः (f) (10)
 
-roamer—EIR (m) (11) resort, last-परायणम् (पर + अयणम्)
+Laṅkā, name of Rāvaṇa's capital city—लङ्का (f prop) (20)
 
-| roar-गर्छ (1P) (22); नद् (1P) (n) (5 verse)
+large—महन्त् (adj) (11)
 
-__ (19); नादः (m)(15 verse, 22) resort to—समाश्रि (सम् + आ + श्रि) room-शाला (1) (16)
+last—अन्तिम (adj); अनन्त्य (adj) (20 verse); last resort—परायणम् (पर + अयणम्) (n) (5 verse)
 
-(1P)
+later—उत्तर (adj)
 
-rope-रज्जुः (1) (17) respect-आदरः (m); मानय (11 rough-कर्कश (adj) (16)
+laugh—हस् (1P) (12); laughter—हासः (m) (19)
 
-verse); with respect-सादरम् royal sage-राजर्षिः (m) (12) (ind); respected-बहुमत (adj); ruined—700 (adj) (6) to be respected—मान्य (adj) (11 | | rule-प्र+ शास् (2P) (13); शास् (2A)
+law—धर्मः (m) (12)
 
-verse)
+lead—नी (1P) (10); lead away—अप + नी (1P); leader—नायकः (m) (17); नेतृ (m) (10)
 
-(18); विधिः (m) (15); शासनम् (n) resting place-874: (m)
+leaf—पत्रम् (n) (8); पर्णम् (n) (19)
 
-(18); rule a kingdom-राज्यं + restless—पर्युत्सुक (adj)
+leap—प्लु (1Ā) (22)
 
-5 (8P/Ā); ruler-317974: (m) restrain, to—यम् (1A); re
+learn—अधी (अधि + इ) (2Ā); learning—विद्या (f) (19 verse)
 
-(16) strained—यत (adj); संयत (adj) run-द्रु (1P) (19); स्रु (1P) (19) returm—प्रति + नि + वृत् (1A) (18);
+learned—पण्डित (adj) (7); learned man—पण्डितः (m) (7); विद्वांस् (m); wise people—विद्वज्जनः (m) (11 verse)
 
-पत्याया (प्रति + आ + या) (2P) (17);
+letter—कारः (m) (21)
 
--S वि+ नि + वृत् (1A) (18) revere-पूज् (10P) (9 verse, 19);
+liberate—मुच् (6P); liberation—मोक्षः (m) (14); liberated—मुक्तः (adj)
 
-sacrifice-यज (1P/A) (17); जज्ञः reverence—:14: (n)(5 verse,
+lick—लिह् (6P); लेहि (2P); licked—लीढ (adj)
 
-(m) (5); sacrificed—इष्ट (adj) 9); पूजा (f) (15)
+lie down—शी (2Ā)
 
-sadness—206: (m) (13) reversal-परिवर्तनम् (n) (12) sage—ऋषिः (m) (6); मुनिः (m) (6); revile-अप + वद् (1P) (8); निन्द् साधुः (m) (9)
+life—जीवितम् (n) (21)
 
-(1P); reviled—निन्दित (adj) salty-लवण (adj) (22) Rgveda-ऋग्वेदः (m prop) (19 same सम (adj) (14); same as
+life story—चरितम् (n) (4)
 
-verse)
+lift—उद् + हृ (1P) (5 verse, 6)
 
-__ अनुरूपक (adj)
+light—प्रकाशः (m) (21)
 
-518
+lightning bolt—अशनिः (f) (11)
 
-Sampati सम्पातिः (m prop) (22) | send—प्र + स्थापय् (22); प्रेष् (प्र + sandal_पादुका () (18)
+like—अनुरूपक (adj) (21); इव (ind) (4); उपम (adj); -वत् (ind) (12); सदृश (adj) (14); सन्निभ (adj) (20); (relative)—यथा (ind) (6)
 
-__इष) (6) satirical laughter-34614: (m) | sense-इन्द्रियम् (n) (14, 22);
+like, be fond of—अनु + रञ्ज् (4Ā) (8)
 
-(15)
+limb—गात्रम् (n) (7, 18 verse)
 
-___senseless—मूर्छित (adj) satisfied, be-तृप (4P/A) (19) | sense organ-इन्द्रियम् (n) (14,22) Saumitri, son of Sumitrā, sensual enjoyment-भोगः (m)
+lineage—वंशः (m) (12)
 
-Laksmana-सौमित्रिः (m
+lion—सिंहः (m) (15)
 
-(16) prop)(19)
+listen—नि + शम् (4P) (20); शृ (5P) (5); आ + कर्णय् (21)
 
-separate-व्यपे (वि + अप + इ) say—अह; अभिधा (अभि + धा) (3P); | (2P); separated from—विरहित
+little—लेशम् (n) (10)
 
-अभिभाष (अभि + भाष) (1A); भण्
+live—जीव् (6P) (4); नि + वस् (1P) (20); living—जीवित (adj) (10)
 
-(adj) (16); separation—वियोगः (1P) (21); भाष् (1A) (4); प्र+भाष (m) (1A); बू(2P) (11); भाष् (1A) (4); | servant-अनुचरः (m); दासः (m) (5 वच् (2P); वद् (1P) (4); संभाष् (सम् | verse, 19) + भाष) (1A)
+living being—जन्तुः (m) (15)
 
-| serve-उपास् (उप + आस्) (2A) scholarly text_शास्त्रम् (n) (14) | (22); सेव् (1A) (10, 11 verse); science of archery धनुर्वेदः (m) served सेवित (adj) (10);
+load—भारः (m) (9)
 
-(6)
+log—काष्ठम् (n) (14)
 
-service सेवा (f) search for—मार्ग (1A) (22)
+long—(of time)—चिरम् (adj) (14) (of distance)—दूरम् (ind) (21, 22)
 
-set down न्यस्त (adj) (18) sea—अर्णवः (m) (16, 22); उदधिः | set of four चतुष्टयम् (n) (5)
+long ago—पुरा (ind) (13)
 
-(m) (14); महोदधिः (m) (22); | set out-प्र+स्था (1P) (18) वाराशिः (m) (13 verse); सागरः (m) | settled—निश्चित (adj) (10)
+long life, conducive to—आयुष्य (adj) (22)
 
-seven सप्तन् (adj) (19) seat-आसनम् (n) (18); seated—
+look at—वि + लोक् (10P) (20 verse)
 
-severe-दारुण (adj).(13) उपविष्ट (adj) (19)
+loose—शिथिल (adj) (18 verse)
 
-severed—विच्छिन्न (adj).(19) second-द्वितीय (adj) (11) sexual intercourse-मिथुनम् (n) security—374274 (n) (19 verse) | Sabari- शबरी (f prop) (22) see-दृश् (non-present form of shake—कम्प (1A) (21); क्षुभ् (1A); ___पश्) (11); पश् (4P) (4); प्रेक्ष् (प्र + |
+lord—ईशः (m) (19); ईश्वरः (m) (21); पतिः (m) (12)(see 21.3.b); भर्तृ (m) (10); lord of—इन्द्रः (m) (21)(समासान्त)
 
-shaken क्षुब्ध (adj) (10); ईक्ष) (1A) (19); सं + दृश् (1P) shaking कम्पनम् (n) (21) (22); संप्रेक्ष् (सम् + प्र + ईक्ष),(6A) | Sakuntala-शकुन्तला (f prop) (13)
+loss—लोपः (m) (18)
 
-Salah tree शालः (m) (18) seem-दृश् (non-present form of | Sambhu—शम्भुः (m prop) (8)
+lost—भ्रष्ट (adj)
 
-पश्) (11); भा (2P) (13) shame—व्रीडा (f) (22) seer-ऋषिः (m) (6)
+lotus—कमलम् (n) (16)
 
-sharp तीक्ष्ण (adj) (4) seize—ग्रह → गृह्णाति (9P) (16)
+love—स्निह् (4P) (5); अनु + रञ्ज् (4Ā) (8); प्रणयः (m) (22); स्नेहः (m); lover—कामिन् (m) (21); make love—रम् (1Ā) (21)
 
-śāstra, in accordance with self—31724 (m) (7 verse, 8) यथाशास्त्रम् (ind)519
+lovely—सुकुमार (adj) (12)
 
-Satrughna शत्रुघ्नः (m prop) (5) | Sita_मैथिली (f prop) (21); वैदेही shine—5023 (1Ā) (21); 11 (2P) / (f prop) (16); Fid (f prop) (6)
+lure away—अप + वाहय् (22) (णिजन्त of अप + वह्)
 
-(22); राज् (1P/A); शुभ (1A); six षष् (adj) (see 19.6)
+-M-
 
-shining-उज्ज्व ल (adj) (8 verse) sixteen-91521 (adj) (see 19.6) Siva, 'supreme lord'—परमेश्वरः skill-हस्तलाघवम् (n) (10 verse)
+mad—उन्मत्त (adj) (19); madman—उन्मत्तः (m)
 
-(m); ईशः (m) (19); शिवः (m skip over_अति + पत् (1P) prop); त्रिलोचनः (m) (lit., three- | sky-आकाशाम् (n) (16); खम् (n) eyed); नीलकण्ठः (n) (lit., blue- (12)
+magic—माया (f) (21); endowed with magical power—सिद्ध (adj) (6 verse) (lit., "accomplished")
 
-necked); शम्भुः (m prop) (8) slack-शिथिल (adj) (18 verse) shore-तीरम् (n) (22)
+make—कृ (8P) (5); made—कृत (adj) (10); maker—कर्तृ
 
-slaughter—74: (m) (21) shortly—3FERIT (ind)
+man—नरः (m) (17, 18 verse); पुरुषः (m) (6); मनुष्यः (m) (6); मानवः (m) (20); मानुषः (m) (20)
 
-slave—ald: (m) (5 verse, 19) show–नि + दर्शय (णिजन्त of नि + | slay-अभि + हन् (2P); वध् (1P)
+Manu, relating to—मानव (adj)
 
-दृश्)(18)
+manual readiness—हस्तलाघवम् (n) (10 verse)
 
-(20); slain—अभिहत (adj) (5 shun—परि + ह (1P) (19 verse) verse, 20); निहत (adj) (19); Śūrpaņakhā—24ural (f prop) slayer—हन्(adj) (12); slay
+many—बहु (adj) (7); many times—बहुवारम् (ind) (18)
 
-(19)
+Mārīca—मारीचः (m prop) (21)
 
-ing—हत्या (1) sigh— निः + श्वस् (2P) (15) sleep स्वप् (2P); निद्रा (f) (12) sight-दर्शनम् (n)
+mark—लक्षणम् (n) (11 verse)
 
-slender-वृत्त (fig) (19) sign-लक्षणम् (n) (11 verse) small bit-लशम् (n) (10) silence —मौनम् (n)
+marked—अङ्कित (adj) (18 verse)
 
-smeared-दिग्ध (adj) (20) silver_रजतम् (n) (21)
+marry—परिणी (परि + नी) (1P) (8); marriage—विवाहः (m) (7); married—विवाहित (adj) (12)
 
-smile—f (1P/A) (19); with a similarity-उपमा (f) (13) _smile-स्मितपूर्वम् (ind) (19) simile-उपमा (f) (13)
+mass—राशिः (m)
 
-snake—H4: (m) (19 verse, 20) sin अपराधः (m) (13); पापम् (n); snare—जालम् (n) (12)
+meaning—अर्थः (m) (13); 'for the sake of'—अर्थम् (ind) (20 verse) (at end of compound)
 
-sinful person—41454: (m); so long-तावत् (ind) (6); so long sinner—पापिन् (m; f-इनी); as—यावत् (ind) (6)
+means—उपायः (m) (21)
 
-sinless—3779 (adj) (22) soma HTH: (m) since (relative)—44: (ind) (6) somehow or other-कथमपि (-चित, sing-गै (1P) (10, 18 verse); -चन) (ind)
+meanwhile—तावत् (ind) (6)
 
-sung-गीत
+meditate—ध्या (4Ā); meditation—ध्यानम् (n) (7)
 
-son-आत्मजः (m) (22); तनयः (m) sink down–नि + पत् (1P) (18) (15); पुत्रः (m) (4); वत्सः (m) (16); sir—371: (m) (11); “my lord”— सुतः (m) (12)
+meet—सम् + इ (2P) (14); meeting—समागमः (m) (18)
 
-आर्यपुत्रः (11)
+memory—स्मृतिः (f); possessed of memory—स्मृतिमन्त् (adj) (11)
 
-song-गीता (1) sister-भगिनी (f) (19)
+mental faculty—मनः (n) (9)
 
-soon—अचिरात् (ind) (12) sit—आस् (2A); उप + विश् (6P) soothe—परिसान्त्व् (10P) (18)
+mere—खलु (ind) (8 verse)
 
-(11); सद् (1P) (see 7.15.c) (7)
+messenger—दूतः (m)
 
-520
+met with—संगत (adj) (22)
 
-4
+middle—मध्यः (m) (19)
 
-sorrow-दुःखम् (n) (4)
+mighty—बलवन्त् (adj) (21)
 
-stir up_उत्पादय् (20) soul-देहिन् (m) (21 verse) story-आख्यानम् (n) (22); कथा (1) sound-अक्षरम् (n); शब्दः (m) (18); . (15); वृत्त (n); वृत्तान्तः (m) (14)
+milk, to—दुह् (2P); milk—पयः (n)
 
-स्वनः (m) (19); स्वरः (m) (19) | stratagem—उपायः (m) (21) sovereignty शासनम् (n) (18) straw-तृणम् (n) (8) speak—अह; अभिधा (अभि+ धा) stream—सरित (f); ocean सरितां
+Mīmāṃsā school of philosophy—मीमांसा (f)
 
-(3P); अभिभाष (अभि + भाष्)(1A); पतिः (lit., lord of streams) (22) भण् (1P) (21); भाष् (1A) (4); प्र + | strength-बलम् (n) (17 verse, 19)
+mind—चित्तम् (n) (12); मतिः (f) (6); मनः (n) (9)
 
-भाष (1A); बू(2P) (11); भाष् (1A) strike हन् (2P) (4) - (4); वच् (2P); वद् (1P) (4); संभाष strong-बलिन् (adj) (20)
+mine—मामक (adj)
 
-(सम् + भाष्) (1A)
+misery—दुःखम् (n) (4)
 
-student-शिष्यः (m) (17) spear शल्यम् (n) (16)
+missing—रहित (adj) (16); हीन (adj) (16)
 
-stupefied-मूढ (adj) (11); मूर्छित speckled—चित्र (adj) (21)
+Mithilā—मिथिला (f prop) (7)
 
-(adj) speech भाषा (f); वचः (n) (13); | subdue—पराजि (परा + जि) (1P)
+moment—क्षणम् (n); मुहूर्तम् (n) (20); for a moment—क्षणम् (ind) (11)
 
-वचनम् (n) (5); वाच (क) (f) (8
+monkey—कपिः (m) (13, 18 verse); वानरः (m) (13); हरिः (m) (19 verse); best of monkeys—हरिवरः (m) (22); lord of monkeys—हरीश्वर (adj) (22)
 
-(14); वि + जि (1A) (5 verse); verse,21.1.a); वाक्यम् (n) (14); subdued जित (adj) (14)
+moon—इन्दुः (m) (14); चन्द्रः (m) (8 verse, 16); ताराधिपः (m) (lit., "lord of the stars"); शशिन् (m)
 
-वाणी (f) (8 verse, 20 verse) subject to 371 + P(1P) (17) speed— वेगः (m) (13)
+moral taint—कल्मषम् (n) (22)
 
-such-ईदृश (adj) (14); तादृश (adj) splendor-तेजः (n) (9)
+moreover—अपि च (ind) (9)
 
-(12); of such a kind, of such a split—भिद् (7P) (20)
+morning, in the—प्रातर् (=प्रातः) (ind) (21)
 
-sort—एवंरूपम् (idiom) (20) split-भिन्न (adj)
+mortal—मनुष्यः (m) (6)
 
-suddenly सहसा (ind) (19) spoken उक्त (adj) (10); भाषित suffer —तप् (1P/A)
+mosquito—मशकः (m); to turn into a mosquito—मशकीकृ (13 verse)
 
-(adj); spoken to—उक्त (adj)
+mother—अम्बा (f) (11); मातृ (f) (10)
 
-sufficient—अलम् (ind) (15) (with (10); प्रोक्त (adj) (19)
+mount—वाहनम् (n)
 
-तृतीया) sport-क्रीडा (f) (12); लीला (1) (8) | Sugriva-सुग्रीवः (m prop) (22)
+mountain—गिरिः (m) (21)
 
-spot-बिन्दुः (m) (18); spotted- suitable-अनुरुप (adj) (19); क्षम * चित्र (adj) (21)
+mouse—मूषिकः (m)
 
-(21); सदृश (adj) (14) sprung up उत्पन्न (adj) (13) Sumitra सुमित्रा (f prop) stabilized-स्थित (adj) (14) summon—आहू (आ + हू) (4A) (12) stand—स्था (1P) (7); stand up
+move—चल् (1P); चर् (1P) (15); व्रज् (1P); सृप् (1P) (16); moved—चलित (adj); moving— -ग (adj) (12)
 
-| sun—आदित्यः (m) (22); सूर्यः (m) उत्+स्था (1P) (8); standing
+mule—खरः (m) (21)
 
-(9) -स्थ (adj) (17) (cmpd.); stand
+murder—हत्या (f)
 
-sung—afta (adj) ing, stood—स्थित (adj) (14)
+mutilated—विरूपित (adj) (19)
 
-sunk-निमग्न (adj) (10) starting from—प्रभृति (ind) (17)
+-N-
 
-superior-उत्तर (adj) steal-चुर् (10P)
+Nala—नलः (m prop) (22)
 
-supreme उत्तम (adj) (8); पर (adj) sticking—लय (adj)
+name, to—अभि + धा (3P); name—नामधेयम् (n) (5); नामन् (n) (8); namely, "by name"—नाम (ind) (4)
 
-(22); परम (adj) (6, 17)
+Nandi (or Nandin)—नन्दिः (m prop) (19)
 
-521
+Nandigrāma—नन्दिग्रामः (m prop) (22)
 
-surely—निश्चित (ind) (14); हि (ind) | tell_अभिधा (अभि + धा) (3P); अह;
+nasty—पापम्(adj) (11 verse, 12)
 
-(19)
+nature—प्रकृतिः (f) (18 verse)
 
-आख्या (आ + ख्या) (2P) (22); कथ् surface—तलम् (n) (12)
+nearly—प्राय (adj) (21)
 
-(10P) (22); बू (2P) (11) surrounded—परिवृत (adj) (17); | ten—दशन् (adj) (19.6)
+nearness—समीपम् (n) (11)
 
-संवृत (adj) (19)
+necessarily—अवश्यम् (ind)
 
-tender कोमल (adj) (16) survive—5119 (6P) (4)
+neck—ग्रीवा (f)
 
-terrible उग्र (adj) (20); क्रूर (adj) sweet-मधुर (adj) (15); sweetly | __(12); घोर (adj) (12); भयङ्कर (adj)
+necklace—माला (f) (13 verse); हारः (m) (8 verse)
 
-मधुरम् (ind) (15)
+neglect—लोपय् (18)
 
-(19 verse); भीम (adj) (20); भैरव sword—314: (m); 45: (m) (19) | (adj) (19); very terrible syllable-अक्षरम् (n)(15); -कारः सुदारुण (adj) (19)
+neighborhood, in the immediate of—प्रत्यनन्तर (adj) (20)
 
-(m) (21) (at end of word, e.g., | terror-वित्रासः (m) (21);
+net—जालम् (n) (12)
 
-अकारः, “the letter or syllable terrified संत्रस्त (adj) (21) 'a'")
+new—नव (adj) (21 verse)
 
-test_परीक्षा (1)
+news—वृत्त (n); वृत्तान्तः (m) (14)
 
-that—असौ (m,)(19); अदः(n) -T
+night-roamer—निशाचरः (m)
 
-(19); सः (m); तत् (n) (6); सा (f)
+nine—नवन् (adj) (for declension see 19.6)
 
-(6) tail—पुच्छम् (n) (18 verse)
+no (negative particle)—न (ind) (4); मा- (ind) (11, 19) (with imperative and aorist injunctive)
 
-| then-अथ (ind) (6); ततः (ind) take-आ + दा (3P) (21); आ +स्था
+non- —अ-, अन- (14)
 
-___(5); तदा (ind) (6); तर्हि (ind) (6) (1P) (21); प्रति + ग्रह (9P) (18)
+noose—पाशः (m) (19)
 
-there-तत्र (ind) (4) take away-विह (वि + हृ) (1P)
+nose—नासा (f) (19)
 
-therefore-अतः (ind) (21) take place-प्रवृत् (प्र + वृत्) (1A)
+notice—नि + रूप् (10P/Ā) (15)
 
-thief-तस्करः (m) (22); चोरः (m) (13)
+now—अथ (ind); अधुना (ind) (11); इदानीम् (ind)(7)
 
-thing-5074 (n) (18) take seriously हृदये + कृ (idiom)
+nymph—अप्सरस् (f)
 
-| think—चिन्त (10P) (4); मन् (4A) (14)
+-O-
 
-(4); think about—विचर् (वि+ taken over-आक्रान्त (adj) (18
+obedient—अनुवर्तिन् (adj) (20)
 
-चर्) (1P) (7 verse) verse)
+oblation—हविः (n)
 
-thirst-पिपासा (f) (18) (सनन्त of पा) tale-अनुकथनम् (n) (22)
+obtain—आप् (5P) (7); अनुप्राप् (अनु + प्र + आप्) (5P) (22); अवाप् (अव + आप्) (5P) (22); obtained—प्रापित (adj) (12)
 
-this—इदम् (n) (19); अयम् (m); इयम् talk—4014: (m)
+occupied—आक्रान्त (adj) (18 verse)
 
-(n) (19); एषः (m) (6); एतत् (n) tall-तुङ्ग (adj) (21)
+occurred—वृत्त (adj) (17)
 
-(6);एषा (f) (6) Tara-तारा (f prop) (22)
+ocean—अर्णवः (m) (16, 22); उदधिः (m) (14); महोदधिः (m) (22); वाराशिः (m) (13 verse); सागरः (m) (10)
 
-thom—कण्टकः (m) (19) target-लक्ष्यम् (n) (20)
+offense—अपराधः (m) (13)
 
-| thought-चित्तम् (n) (20); धीः (1); teach-उपदिश (उप + दिश) (6P)
+offer—हु (3P) (9)
 
-__ मत (adj) teacher-3722114: (m); : (m)
+offspring—प्रजा (f) (5)
 
-thousand सहस्रम् (n) (16) tear —37] (n) (13); tears—31104:
+ointment—विलेपनम् (n) (8 verse)
 
-three-त्रि (adj) (see 19.6) (m) (14)
+old—जीर्ण (adj) (10); वृद्ध (adj) (9); old age—जरा (f) (16)
 
-three worlds: heaven, earth, tear to pieces_उत्कृत (उत् + कृत)
+on account of—कृते (ind) (12) (with षष्ठी or at end of cmpd.)
 
-hell- त्रैलोक्यम् (n) (22) (6P) (20)
+once—एकदा (ind) (4)
 
-।
+once, at—झटिति (ind)
 
-522
+one—एक (adj) (5,19)
 
--U.
+one's own—स्व (adj) (7 verse, 17, 18 verse)
 
-throat—कण्ठः (m) (17); ग्रीवा (1) truth-तत्त्वम् (n) (21); सत्यम् (n) throne-सिंहासनम् (n) (18)
+oneself—स्वयम् (ind) (4, 8)
 
-(10, 11 verse) throw—क्षिप् (6P) (20); throw try—प्रयत् (प्र + यत्) (1A) (8) ___down—नि + क्षिप् (6P) (9) turn back—निवृत् (नि + वृत्) (1A) thunder-गर्जनम् (n) (10); (20); विनिवृत् (वि + नि + वृत) (1A)
+only—केवलम् (ind) (12)
 
-thunderbolt_0574 (n) (12) (18) thus—एवम् (ind); तथा (ind) | twice-bom-द्विजः (m) (6) tiger_04114: (m) (16); tigress
+oppressed—पीडित (adj) (4); बाधित (adj) (6); संतप्त (adj) (22)
 
-two; only in dual-द्वि (adj) _ व्याघी () (19)
+or—वा (ind) (7)
 
-(11,19) : time-कालः (m) (5, 21); समयः (m) ... (11); in the course of time .. कालेन (ind) (5)
+order—आज्ञा (f) (9)
 
-titan-असुरः (m) (21)
+ornament—भूषणम् (n) (8 verse)
 
-ugly—कुरूप (adj) (19); विरूप (adj) to—प्रति (ind) (6, 14)
+ornamented—अलंकृत (adj) (8 verse, 19 verse); भूषित (adj) (18, 19 verse)
 
-(19); विरूपिन् (adj) (19); ugly
+other—अन्य (adj) (5); अपर (adj) (9, 17); पर (adj) (15)
 
-faced—दुर्मुखी (f) (19) to the extent that-तावत् (ind) (6);
+otherwise—अन्यथा (ind) (19)
 
-यावत् (ind) (6)
+outside—बहिः (ind) (18)
 
-un- -अ-, अन्- (14) today—अद्य (ind) (13)
+overcome—अभि + भू (1P) (10); अभिभूत (adj) (10)
 
-uncle, maternal-मातुलः (m) (17)
+overjoyed—नन्दित (adj) (11)
 
-toil-श्रमः (m) (15)
+overlord—अधिराजः (m) (19)
 
-unconquered—अजित (adj) (14) token-लक्षणम् (n) (11 verse)
+-P-
 
-understand-अवगम् (अव + गम्)
+pacify—सान्त्व् (10P) (15); be pacified—प्र + सद् (1P) (13)
 
-(1P) (6); अवबुध् (अव + बुध्) tolerate-मृष (4A); सह (1A);
+pair—द्वन्द्वम् (n)
 
-(4A) (7 verse) tolerance क्षमा (1);
+palace—प्रासादः (m) (12); भवनम् (n) (13); मन्दिरम् (n) (17); सदनम् (n) (12)
 
-undertake-आरम् (आ + रम्) (1A); tomorrow-श्वः (ind) (16)
+pale—विवर्ण (adj) (13)
 
-प्रा + रम् (प्र + आ + रम) (1A); too—अति (ind); अपि (ind) (4)
+palms together (held in respect)—अञ्जलिः (m) (16)
 
-undertaken-आरब्ध (adj) topknot-जटा (1) (22)
+Pampā—पम्पा (f prop) (21)
 
-undone-अकृत (adj) torment—प्र+ मथ् (1P) (21)
+Pāṇḍava—पाण्डवः (m prop)
 
-unhappy-दुःखित (adj) (6) towards—प्रति (ind) (6, 14)
+paralyzed—स्तब्ध (adj)
 
-unheard-अश्रुत (adj) - transgress—अतिक्रम् (अति + क्रम्)
+pardon—क्षम् (1Ā)
 
-uninhabited-निर्मनुष्य (adj) (1P)
+parents—पितरौ (m nom dual of पितृ)
 
-united with-संगत (adj) (20) tree-द्रुमः (m); पादपः (m); वृक्षः (m)
+parrot—शुकः (m)
 
-universal वैश्व (adj) (11)
+Pārvatī—पार्वती (f prop); गिरिराजपुत्री (f) (19)
 
-universe-जगत् (n) (6 verse, 20 tremble उद् + विज् (6A) (6, 17);
+path—पदवी (f) (21); मार्गः (m) (10)
 
-क्षुभ् (1A); कम्प् (1A) (6);
+peaceful—शान्त (adj) (5, 9)
 
-___verse); त्रैलोक्यम् (n) (22)
+peak—शिखरम् (n) (18)
 
-| unreal-मिथ्या (ind) (9) trembling-0374.74 (n) (21);
+people—जनः (m) (4, 15); लोकः (m) (9, 21)
 
-unwise—319105 (adj) trembled कम्पित (adj) (21)
+perceive—नि + रूप् (10P/Ā)(15); वि + लोक् (10P) (20 verse)
 
-| urged—प्रचोदित (adj) (21); प्रेरित true भव्य (adj) (20 verse)
+period of time—समयः (m) (11)
 
-(adj) (21)
+perish—नश् (4P) (4)
 
-.v.
+permit—अनु + ज्ञा (4P) (9); permission—अनुज्ञा (f) (7)
 
-Vaiśravana-aay: (m prop)
+person—जनः (m); पुरुषः (m) (6)
 
-(20) Vālin—a (m prop) (22) Vālmiki_alshift: (m prop) (15) valor— 194: (m) (21); art (n)
+perverse—विपरीत (adj) (17)
 
-(14); 2114 (n) (21) valuable thing-50444 (n) (18) Vasiştha—aths: (m prop) (17
+pierced—संकुत्त (adj) (20)
 
-verse) veda-a: (m) (6) Vedic sacrifice_451: (m) (5) vehicle-वाहनम् (n) very—31fa (ind); 3761a (ind) (4);
+pinnacle—शिखरम् (n) (18)
 
-(ind) (6) Vibhisana— 194: (m prop)
+piśāca, type of demon—पिशाचः (m)
 
-(22) vicinity—8414 (n) (11) vicious—goe (adj) victor—ta (m) (10) view—दर्शनम् (n) violate-0144 (18); violation
+pity—करुणा (f) (12)
 
-19: (m) (18) violence—fon (f) (20) virtually-RRT: (ind) virtue— 494: (m) (5, 11 verse) vital spot— ** (n) (20) vow-ufa + FT (9P) (8); vowed
+place, to—नि + क्षिप् (6P) (9); place—देशः (m) (6); स्थानम् (n) (18); place of rest—लयः (m)
 
-fata (adj) (12) vulture—T4: (m) (22) Vịtra— : (m prop)
+plane—तलम् (n) (12)
 
-523
+plantain tree—कदली (f) (14)
 
-wait-tayres (fa + 4165) (18);
+play—क्रीड् (1P) (18 verse, 21); क्रीडा (f) (12); लीला (f) (8)
 
-wait upon—3414 (34 + 31741)
+pleasant—सौम्य (adj) (20)
 
-(2A) (22) walk_o (1P) (15); 95 (1P);
+pleased, be—प्र + सद् (1P) (13); pleased—प्रमुदित (adj) (10); प्रीतप्रीत (adj) (22)
 
-HER ( + 0) (1P) (15) wander—44 (1P) (19); for (fa
+pleasure—रतिः (f) (11 verse); according to pleasure—यथासुखम् (ind) (19)
 
-2) (1P) (19); fant (fa + 47)
+poet—कविः (m)
 
-(1P); wanderer-alk (m) (11) wander (as a mendicant)—Ras!
+poetry—कविता (f) (15)
 
-(4 +950) (1P); wandering
+point out—उद् + दिश् (6P) (13); नि + दर्शय् (18)
 
-ascetic-परिव्राजकः (m) want—54 (6P) (8); wanted—SE warble (1P) (15) waste-a(1P) waste away—(1P) (10) water-3444 (n) (12); 564 (n)
+poison—विषम् (n) (15)
 
-(16); 144 (n) (16); aR (n);
+portion—लेशम् (n) (10)
 
-waters—374 (f pl only) (22) way—ala: (f) (6,20 verse) weak— RIS (adj) (18 verse) wealth-द्रव्यम् (n) (18); धनम् (n)
+possess—धृ (10P/Ā) (8 verse)
 
-(9 verse, 16) weapon—164 (n) (18) weep57 (2P) (17) weight—HR: (m) (9) welfare-red: (m) (20 verse, 21) what (relative)—46 (-a) (n pr)
+possessed of form—रूपिन् (m; f -इनी)
 
-(6); what?—1964 (n. interroga tive pr); + चित् (ind), चन (ind)— indefinite pronoun, see
+post—स्तम्भः (m) (18 verse)
 
-6.19) when (relative) G (ind) (6);
+pot—कुम्भः (m) (10)
 
-when?—076 (ind) whence— 8: (ind) (6);
+pot-bellied—लम्बोदर (adj), लम्बोदरी (f adj) (19)
 
-whence?-71: (ind) where (relative) (ind) (6);
+poverty—दारिद्र्यम् (n) (6 verse, 14)
 
--W
+power—प्रभावः (m) (8, 9 verse); बलम् (n) (17 verse, 19); वशः (m) (14); शक्तिः (f) (20)
 
-waist_4224: (m) (19)
+powerful, be—प्र + भू (1P); powerful—बलिन् (adj) (20)
 
-524
+practically—प्रायशः (ind)
 
-woman (who has not had
+practice—आ + चर् (1P) (7)
 
-children)-74141(f) (21) wonderful!—ANY (ind) word—109:; words (as
+praise—वन्द् (1Ā) (9 verse, 13 verse, 15); स्तु (2P) (9)
 
-collective)—0974 (n) (5) world— rel (n) (6 verse, 20
+prattle—प्र + लप् (1P); prattling—प्रलापः (m)
 
-verse); 19: (m) (20 verse); 10:
+precious—वर (adj) (17, 19)
 
-(m) (9,21) worldly-existence—H4: (m) (20
+prepared—प्रारब्ध (adj)
 
-verse)
+prevented—नि + वृ (5P/Ā) (19)
 
-where?- (ind); 2 (ind) which?—94 (n. interrogative pr) whirling about_qRad 4 (n) (12) who (relative)—4: (m pr) (6); 4
+previous—पूर्व (adj) (5); previously—पुरा (ind); पूर्वम् (ind) (15)
 
-(f pr) (6); who?—994 (n.
+prison—बन्धनागारः (m) (10)
 
-interrogative pr) why?—किमिति (ind) (13); कुतः
+proceed—प्र + वृत् (1Ā) (13)
 
-(ind) wife-46 (f); -rf (f) (5); GRI:
+produced from— -ज (adj) (18) (समासान्त)
 
-(only occurs in plural) will— FERIH (n) (20); at will
+producer of—कारिन् (adj)
 
-9414144 (ind) win-34 (37 + Fil
+promise—प्रति + ज्ञा (9P) (8); promised—प्रतिज्ञात (adj) (12)
 
-) (1P) (8); FS (1P) (9) win over—37H (37 + )(1P)
+proper—युक्त (adj); properly—सम्यक् (adv) (21)
 
-(11 verse) wind-अनिलः (m); वातः (m) (22);
+proper wife—सती (f) (22)
 
-ar: (m) (13) wise बुद्धिमन्त् (adj; f -अती) (11);
+propitiating—प्रसादक (adj) (17 verse)
 
-मनस्विन् (adj); विद्वांस (m); wise people-fag 554: (m) (11 verse); wise man—1054: (m)
+prosperity—लक्ष्मी (f) (17)
 
-worry-Famill (f) (7) worship5 (10P) (9 verse, 19);
+protect—पा (2P) (18); पाल् (10P) (11); protector— -प (adj) (समासान्त), रक्षकः (m) (6); protection—रक्षणम् (n) (7); protected by—पालित (adj) (22)
 
-H5(1P/A) (5 verse); 951 (f) worthy-346 (1P) (13); 376 (ad) wrinkle—af: (m) (18 verse) write-fresca (6P); written askea
+proud—गर्वित (adj) (8)
 
-(adj) (15)
+purify—पू (9P/Ā) (19); pure—पवित्र (adj) (22); शुद्ध (adj) (13)
 
--Y
+pyre—चिता (f) (10 verse)
 
-(7)
+-Q-
 
-wish—54 (6P) (8); QRT: (m) (11);
+quality—गुणः (m) (5, 11 verse)
 
-according to your wish
+queen—देवी (f) (7)
 
-72024.(ind) (21) wit-16: (f) (11) with—H- (ind) (only as first
+question—प्रश्नः (m) (19)
 
-member of compound) (14);
+question marker—अपि (ind) (4)
 
-HE (ind) (5) with respect to-fa (ind) (6, 14) without- 31-, 37- (14); A: (ind) 1
+quickly—क्षिप्रम् (ind) (21); शीघ्रम् (adv) (6)
 
-(only as first member of
+quiet—शम् (4Ā)
 
-compound) (14); faal (ind) (4) woman-ari (f) (6); (f) (21);
+quotation mark—इति (ind) (4)
 
-Yama_44: (m prop) (12);
+-R-
 
-Yama's realm—446014: (m) year-2844 (n) (15); BACH: (m)
+race—वंशः (m) (12)
 
-(14); for a year — Hache
+rage—कोपः (m) (14); मन्युः (m) (14)
 
-(ind) yellow-fra (adj); 'having a
+Rāghava—राघवः (m prop) (7)
 
-yellow garment,' epithet of
+Raghu—रघुः (m prop)
 
-Visnu—पीताम्बरः (m) yoga_T1: (m) yogi योगिन् (m; f-इनी) you— 3 AR (m) (polite) (11); 694 (pr) (see 4.46.b); (m)
+Rājagṛha—राजगृहम् (n) (17)
 
-(f -at) (polite) (see 11.2.b) young—(adj) (18 verse);
+rākṣasa—राक्षसः (m) (6); रक्षः (n) (20); rākṣasa woman—राक्षसी (f)
 
-youth—al00: (m) (4, 17)
+Rāma—रामः (m prop); दाशरथिः (lit., son of Daśaratha); राघवः (lit., descendant of Raghu); रमेशः (m) (5 verse) (lit., lord of Ramā); काकुत्स्थः (lit., descendant of Kakutstha) (20)
+
+Rāmāyaṇa—रामायणम् (n prop)
+
+rapt in thought—ध्यै (4P) (22)
+
+rat—मूषिकः (m)
+
+Rāvaṇa—लङ्केश्वरः (m prop) (21); रावणः (m prop) (21)
+
+reach—समासद् (सम् + आ + सद्) (10P) (22)
+
+read—पठ् (1P) (15); पठित (adj)
+
+ready—सज्ज (adj) (18)
+
+real—सत्यम् (n) (10, 11 verse)
+
+realize—वि + ज्ञा (9Ā) (16)
+
+reason—कारणम् (n) (15)
+
+reassure—अनु + मानय् (22); reassured—विश्वस्त (adj) (22)
+
+recall—अनु + स्मृ (1P) (11)
+
+receive—प्राप् (प्र + आप्) (5P) (16)
+
+recognize—अभि + ज्ञा (9P); recognized—अभिज्ञात (adj)
+
+recourse (n)—परायणम् (पर + अयणम्) (n) (5 verse)
+
+recourse to—भज् (1P/Ā) (18)
+
+reddened—रक्त (adj)
+
+reference to, with—उद्दिश्य (ind) (13)
+
+refined—संस्कृत (adj) (8 verse)
+
+reflect—वि + चर् (1P) (7 verse)
+
+regard—संप्रेक्ष् (सम् + प्र + ईक्ष्) (6Ā) (13)
+
+region—देशः (m) (6)
+
+reign—प्र + शास् (2P) (13)
+
+rejoice—नन्द् (1P) (18 verse); प्र + मुद् (1P) (22)
+
+relate—आ + ख्या (2P) (22); शंस् (1P) (22)
+
+relative—बान्धवः (m) (18)
+
+release—मुच् (6P) (20); सृज् (6P) (16); वि + सृज् (6P) (16); released—मुक्त (adj)
+
+religious austerities—तपः (n); practice of—तप् (1P/Ā)
+
+remain—स्था (1P) (7)
+
+remember—स्मृ (1P); अनु + स्मृ (1P) (11)
+
+remove—अप + नी (1P)
+
+repeat—अनु + वद् (1P)
+
+reply—उत्तरम् (n) (17)
+
+report—वृत्तम् (n); वृत्तान्तः (m) (14)
+
+repulsion—बीभत्सा (f)
+
+resolution—व्यवसायः (m)
+
+resort, last—परायणम् (पर + अयणम्) (n) (5 verse)
+
+resort to—समाश्रि (सम् + आ + श्रि) (1P)
+
+respect—आदरः (m); मानय् (11 verse); with respect—सादरम् (ind); respected—बहुमत (adj); to be respected—मान्य (adj) (11 verse)
+
+resting place—लयः (m)
+
+restless—पर्युत्सुक (adj)
+
+restrain, to—यम् (1Ā); restrained—यत (adj); संयत (adj)
+
+return—प्रति + नि + वृत् (1Ā) (18); प्रत्याया (प्रति + आ + या) (2P) (17); वि + नि + वृत् (1Ā) (18)
+
+revere—पूज् (10P) (9 verse, 19); reverence—नमः (n) (5 verse, 9); पूजा (f) (15)
+
+reversal—परिवर्तनम् (n) (12)
+
+revile—अप + वद् (1P) (8); निन्द् (1P); reviled—निन्दित (adj)
+
+Ṛgveda—ऋग्वेदः (m prop) (19 verse)
+
+rice—व्रीहिः (m)
+
+ridicule—उपहासः (m) (15); प्र + हस् (1P) (8)
+
+right—धर्मः (m) (12)
+
+righteous—धर्मचारिन् (adj) (22); धार्मिक (adj) (4); साधु (adj) (11 verse)
+
+ritual bath—अभिषेकः (m) (19)
+
+ritual offering to the gods—यज्ञः (m) (5)
+
+river—नदी (f) (19)
+
+road—मार्गः (m) (10)
+
+roamer—चारिन् (m) (11)
+
+roar—गर्ज् (1P) (22); नद् (1P) (19); नादः (m)(15 verse, 22)
+
+room—शाला (f) (16)
+
+rope—रज्जुः (f) (17)
+
+rough—कर्कश (adj) (16)
+
+royal sage—राजर्षिः (m) (12)
+
+ruined—नष्ट (adj) (6)
+
+rule—प्र + शास् (2P) (13); शास् (2Ā) (18); विधिः (m) (15); शासनम् (n) (18); rule a kingdom—राज्यं + कृ (8P/Ā); ruler—अधिपः (m) (16)
+
+run—द्रु (1P) (19); सृ (1P) (19)
+
+-S-
+
+sacrifice—यज् (1P/Ā) (17); यज्ञः (m) (5); sacrificed—इष्ट (adj)
+
+sadness—खेदः (m) (13)
+
+sage—ऋषिः (m) (6); मुनिः (m) (6); साधुः (m) (9)
+
+salty—लवण (adj) (22)
+
+same—सम (adj) (14); same as—अनुरूपक (adj)
+
+Sampāti—सम्पातिः (m prop) (22)
+
+sandal—पादुका (f) (18)
+
+satirical laughter—उपहासः (m) (15)
+
+satisfied, be—तृप् (4P/Ā) (19)
+
+Saumitri, son of Sumitrā, Lakṣmaṇa—सौमित्रिः (m prop)(19)
+
+say—अह्; अभिधा (अभि + धा) (3P); अभिभाष् (अभि + भाष्)(1Ā); भण् (1P) (21); भाष् (1Ā) (4); प्र + भाष् (1Ā); ब्रू (2P) (11); भाष् (1Ā) (4); वच् (2P); वद् (1P) (4); संभाष् (सम् + भाष्) (1Ā)
+
+scholarly text—शास्त्रम् (n) (14)
+
+science of archery—धनुर्वेदः (m) (6)
+
+search for—मार्ग् (1Ā) (22)
+
+sea—अर्णवः (m) (16, 22); उदधिः (m) (14); महोदधिः (m) (22); वाराशिः (m) (13 verse); सागरः (m) (10)
+
+seat—आसनम् (n) (18); seated—उपविष्ट (adj) (19)
+
+second—द्वितीय (adj) (11)
+
+security—अभयम् (n) (19 verse)
+
+see—दृश् (non-present form of पश्) (11); पश् (4P) (4); प्रेक्ष् (प्र + ईक्ष्) (1Ā) (19); सं + दृश् (1P) (22); संप्रेक्ष् (सम् + प्र + ईक्ष्) (6Ā) (13)
+
+seem—दृश् (non-present form of पश्) (11); भा (2P) (13)
+
+seer—ऋषिः (m) (6)
+
+seize—ग्रह् → गृह्णाति (9P) (16)
+
+self—आत्मन् (m) (7 verse, 8)
+
+send—प्र + स्थापय् (22); प्रेष् (प्र + इष्) (6)
+
+sense—इन्द्रियम् (n) (14, 22); senseless—मूर्च्छित (adj)
+
+sense organ—इन्द्रियम् (n) (14, 22)
+
+sensual enjoyment—भोगः (m) (16)
+
+separate—व्यपे (वि + अप + इ) (2P); separated from—विरहित (adj) (16); separation—वियोगः (m)
+
+servant—अनुचरः (m); दासः (m) (5 verse, 19)
+
+serve—उपास् (उप + आस्) (2Ā) (22); सेव् (1Ā) (10, 11 verse); served—सेवित (adj) (10); service—सेवा (f)
+
+set down—न्यस्त (adj) (18)
+
+set of four—चतुष्टयम् (n) (5)
+
+set out—प्र + स्था (1P) (18)
+
+settled—निश्चित (adj)
+
+seven—सप्तन् (adj) (19)
+
+severe—दारुण (adj) (13)
+
+severed—विच्छिन्न (adj) (19)
+
+sexual intercourse—मिथुनम् (n)
+
+Śabarī—शबरी (f prop) (22)
+
+shake—कम्प् (1Ā) (21); क्षुभ् (1Ā); shaken—क्षुब्ध (adj) (10); shaking—कम्पनम् (n) (21)
+
+Śakuntalā—शकुन्तला (f prop)
+
+śālaḥ tree—शालः (m) (18)
+
+Śambhu—शम्भुः (m prop) (8)
+
+shame—व्रीडा (f) (22)
+
+sharp—तीक्ष्ण (adj) (4)
+
+śāstra, in accordance with—यथाशास्त्रम् (ind)
+
+Śatrughna—शत्रुघ्नः (m prop) (5)
+
+shine—ज्वल् (1Ā) (21); भा (2P) (22); राज् (1P/Ā); शुभ् (1Ā); shining—उज्ज्वल (adj) (8 verse)
+
+Śiva, 'supreme lord'—परमेश्वरः (m); ईशः (m) (19); शिवः (m prop); त्रिलोचनः (m) (lit., three-eyed); नीलकण्ठः (n) (lit., blue-necked); शम्भुः (m prop) (8)
+
+shore—तीरम् (n) (22)
+
+shortly—अचिरात् (ind)
+
+show—नि + दर्शय् (णिजन्त of नि + दृश्)(18)
+
+shun—परि + हृ (1P) (19 verse)
+
+Śūrpaṇakhā—शूर्पणखा (f prop) (19)
+
+sigh—नि + श्वस् (2P) (15)
+
+sight—दर्शनम् (n)
+
+sign—लक्षणम् (n) (11 verse)
+
+silence—मौनम् (n)
+
+silver—रजतम् (n) (21)
+
+similarity—उपमा (f) (13)
+
+simile—उपमा (f) (13)
+
+sin—अपराधः (m) (13); पापम् (n); sinful person—पापजनः (m); sinner—पापिन् (m; f -इनी); sinless—अनघ (adj) (22)
+
+since (relative)—यतः (ind) (6)
+
+sing—गै (1P) (10, 18 verse); sung—गीत
+
+sink down—नि + पत् (1P) (18)
+
+sir—आर्यः (m) (11); "my lord"—आर्यपुत्रः (11)
+
+sister—भगिनी (f) (19)
+
+sit—आस् (2Ā); उप + विश् (6P) (11); सद् (1P) (see 7.15.c) (7)
+
+Sitā—मैथिली (f prop) (21); वैदेही (f prop) (16); सीता (f prop) (6)
+
+six—षष् (adj) (see 19.6)
+
+sixteen—षोडश (adj) (see 19.6)
+
+skill—हस्तलाघवम् (n) (10 verse)
+
+skip over—अति + पत् (1P)
+
+sky—आकाशम् (n) (16); खम् (n) (12)
+
+slack—शिथिल (adj) (18 verse)
+
+slaughter—वधः (m) (21)
+
+slave—दासः (m) (5 verse, 19)
+
+slay—अभि + हन् (2P); वध् (1P) (20); slain—अभिहत (adj) (5 verse, 20); निहत (adj) (19); slayer—हन् (adj) (12); slaying—हत्या (f)
+
+sleep—स्वप् (2P); निद्रा (f) (12)
+
+slender—वृत्त (fig) (19)
+
+small bit—लेशम् (n) (10)
+
+smeared—दिग्ध (adj) (20)
+
+smile—स्मि (1P/Ā) (19); with a smile—स्मितपूर्वम् (ind) (19)
+
+snake—सर्पः (m) (19 verse, 20)
+
+snare—जालम् (n) (12)
+
+so long—तावत् (ind) (6); so long as—यावत् (ind) (6)
+
+soma—सोमः (m)
+
+somehow or other—कथमपि (-चित्, -चन) (ind)
+
+son—आत्मजः (m) (22); तनयः (m) (15); पुत्रः (m) (4); वत्सः (m) (16); सुतः (m) (12)
+
+song—गीता (f)
+
+soon—अचिरात् (ind) (12)
+
+soothe—परिसान्त्व् (10P) (18)
+
+sorrow—दुःखम् (n) (4)
+
+soul—देहिन् (m) (21 verse)
+
+sound—अक्षरम् (n); शब्दः (m) (18); स्वनः (m) (19); स्वरः (m) (19)
+
+sovereignty—शासनम् (n) (18)
+
+speak—अह्; अभिधा (अभि + धा) (3P); अभिभाष् (अभि + भाष्)(1Ā); भण् (1P) (21); भाष् (1Ā) (4); प्र + भाष् (1Ā); ब्रू (2P) (11); भाष् (1Ā) (4); वच् (2P); वद् (1P) (4); संभाष् (सम् + भाष्) (1Ā)
+
+spear—शल्यम् (n) (16)
+
+speckled—चित्र (adj) (21)
+
+speech—भाषा (f); वचः (n) (13); वचनम् (n) (5); वाच् (क्) (f) (8 verse, 21.1.a); वाक्यम् (n) (14); वाणी (f) (8 verse, 20 verse)
+
+speed—वेगः (m) (13)
+
+splendor—तेजः (n) (9)
+
+split—भिद् (7P) (20)
+
+split—भिन्न (adj)
+
+spoken—उक्त (adj) (10); भाषित (adj); spoken to—उक्त (adj) (10); प्रोक्त (adj) (19)
+
+sport—क्रीडा (f) (12); लीला (f) (8)
+
+spot—बिन्दुः (m) (18); spotted—चित्र (adj) (21)
+
+sprung up—उत्पत्न (adj) (13)
+
+stabilized—स्थित (adj) (14)
+
+stand—स्था (1P) (7); stand up—उत् + स्था (1P) (8); standing— -स्थ (adj) (17) (cmpd.); standing, stood—स्थित (adj) (14)
+
+starting from—प्रभृति (ind) (17)
+
+steal—चुर् (10P)
+
+sticking—लय (adj)
+
+stir up—उत्पादय् (20)
+
+story—आख्यानम् (n) (22); कथा (f) (15); वृत्त (n); वृत्तान्तः (m) (14)
+
+stratagem—उपायः (m) (21)
+
+straw—तृणम् (n) (8)
+
+stream—सरित् (f); ocean—सरितां पतिः (lit., lord of streams) (22)
+
+strength—बलम् (n) (17 verse, 19)
+
+strike—हन् (2P) (4)
+
+strong—बलिन् (adj) (20)
+
+student—शिष्यः (m) (17)
+
+stupefied—मूढ (adj) (11); मूर्च्छित (adj)
+
+subdue—पराजि (परा + जि) (1P) (14); वि + जि (1Ā) (5 verse); subdued—जित (adj) (14)
+
+subject to—आ + श्रि (1P) (17)
+
+such—ईदृश (adj) (14); तादृश (adj) (12); of such a kind, of such a sort—एवरूपम् (idiom) (20)
+
+suddenly—सहसा (ind) (19)
+
+suffer—तप् (1P/Ā)
+
+sufficient—अलम् (ind) (15) (with तृतीया)
+
+Sugrīva—सुग्रीवः (m prop) (22)
+
+suitable—अनुरूप (adj) (19); क्षम (21); सदृश (adj) (14)
+
+Sumitrā—सुमित्रा (f prop)
+
+summon—आहू (आ + हू) (4Ā) (12)
+
+sun—आदित्यः (m) (22); सूर्यः (m) (9)
+
+sung—गीत (adj)
+
+sunk—निमग्न (adj) (10)
+
+superior—उत्तर (adj)
+
+supreme—उत्तम (adj) (8); पर (adj) (22); परम (adj) (6, 17)
+
+surely—निश्चित (ind) (14); हि (ind) (19)
+
+surface—तलम् (n) (12)
+
+surrounded—परिवृत (adj) (17); संवृत (adj) (19)
+
+survive—जीव् (6P) (4)
+
+sweet—मधुर (adj) (15); sweetly—मधुरम् (ind) (15)
+
+sword—असिः (m); खड्गः (m) (19)
+
+syllable—अक्षरम् (n)(15); -कारः (m) (21) (at end of word, e.g., अकारः, "the letter or syllable 'a' ")
+
+-T-
+
+tail—पुच्छम् (n) (18 verse)
+
+take—आ + दा (3P) (21); आ + स्था (1P) (21); प्रति + ग्रह् (9P) (18)
+
+take away—विह् (वि + हृ) (1P)
+
+take place—प्रवृत् (प्र + वृत्) (1Ā) (13)
+
+take seriously—हृदये + कृ (idiom) (14)
+
+taken over—आक्रान्त (adj) (18 verse)
+
+tale—अनुकथनम् (n) (22)
+
+talk—प्रलापः (m)
+
+tall—तुङ्ग (adj) (21)
+
+Tārā—तारा (f prop) (22)
+
+target—लक्ष्यम् (n) (20)
+
+teach—उपदिश् (उप + दिश्) (6P)
+
+teacher—अध्यापकः (m); गुरुः (m)
+
+tear—अश्रु (n) (13); tears—बाष्पः (m) (14)
+
+tear to pieces—उत्कृत् (उत् + कृत्) (6P) (20)
+
+tell—अभिधा (अभि + धा) (3P); अह्; आख्य (आ + ख्या) (2P) (22); कथ् (10P) (22); ब्रू (2P) (11)
+
+ten—दशन् (adj) (19.6)
+
+tender—कोमल (adj) (16)
+
+terrible—उग्र (adj) (20); क्रूर (adj) (12); घोर (adj) (12); भयङ्कर (adj) (19 verse); भीम (adj) (20); भैरव (adj) (19); very terrible—सुदारुण (adj) (19)
+
+terror—वित्रासः (m) (21); terrified—संत्रस्त (adj) (21)
+
+test—परीक्षा (f)
+
+that—असौ (m,f)(19); अदः(n) (19); सः (m); तत् (n) (6); सा (f) (6)
+
+then—अथ (ind) (6); ततः (ind) (5); तदा (ind) (6); तर्हि (ind) (6)
+
+there—तत्र (ind) (4)
+
+therefore—अतः (ind) (21)
+
+thief—तस्करः (m) (22); चोरः (m)
+
+thing—द्रव्यम् (n) (18)
+
+think—चिन्त् (10P) (4); मन् (4Ā) (4); think about—विचर् (वि + चर्) (1P) (7 verse)
+
+thirst—पिपासा (f) (18) (सन्नन्त of पा)
+
+this—इदम् (n) (19); अयम् (m); इयम् (n) (19); एषः (m) (6); एतत् (n) (6); एषा (f) (6)
+
+thorn—कण्टकः (m) (19)
+
+thought—चित्तम् (n) (20); धीः (f); मत (adj)
+
+thousand—सहस्रम् (n) (16)
+
+three—त्रि (adj) (see 19.6)
+
+three worlds: heaven, earth, hell—त्रैलोक्यम् (n) (22)
+
+throat—कण्ठः (m) (17); ग्रीवा (f)
+
+throne—सिंहासनम् (n) (18)
+
+throw—क्षिप् (6P) (20); throw down—नि + क्षिप् (6P) (9)
+
+thunder—गर्जनम् (n) (10); thunderbolt—वज्रम् (n) (12)
+
+thus—एवम् (ind); तथा (ind)
+
+tiger—व्याघ्रः (m) (16); tigress—व्याघ्री (f) (19)
+
+time—कालः (m) (5, 21); समयः (m) (11); in the course of time—कालेन (ind) (5)
+
+titan—असुरः (m) (21)
+
+to—प्रति (ind) (6, 14)
+
+to the extent that—तावत् (ind) (6); यावत् (ind) (6)
+
+today—अद्य (ind) (13)
+
+toil—श्रमः (m) (15)
+
+token—लक्षणम् (n) (11 verse)
+
+tolerate—मृष् (4Ā); सह् (1Ā); tolerance—क्षमा (f);
+
+tomorrow—श्वः (ind) (16)
+
+too—अति (ind); अपि (ind) (4)
+
+topknot—जटा (f) (22)
+
+torment—प्र + मथ् (1P) (21)
+
+towards—प्रति (ind) (6, 14)
+
+transgress—अतिक्रम् (अति + क्रम्) (1P)
+
+tree—द्रुमः (m); पादपः (m); वृक्षः (m) (11)
+
+tremble—उद् + विज् (6Ā) (6, 17); क्षुभ् (1Ā); कम्प् (1Ā) (6); trembling—कम्पनम् (n) (21); trembled—कम्पित (adj) (21)
+
+true—भव्य (adj) (20 verse)
+
+truth—तत्त्वम् (n) (21); सत्यम् (n) (10, 11 verse)
+
+try—प्रयत् (प्र + यत्) (1Ā) (8)
+
+turn back—निवृत् (नि + वृत्) (1Ā) (20); विनिवृत् (वि + नि + वृत्) (1Ā) (18)
+
+twice-born—द्विजः (m) (6)
+
+two; only in dual—द्वि (adj) (11,19)
+
+-U-
+
+ugly—कुरूप (adj) (19); विरूप (adj) (19); विरूपिन् (adj) (19); ugly faced—दुर्मुखी (f) (19)
+
+un- —अ-, अन- (14)
+
+uncle, maternal—मातुलः (m) (17)
+
+unconquered—अजित (adj) (14)
+
+understand—अवगम् (अव + गम्) (1P) (6); अनुबुध् (अव + बुध्) (4Ā) (7 verse)
+
+undertake—आरभ् (आ + रभ्) (1Ā); प्रा + रभ् (प्र + आ + रभ्) (1Ā); undertaken—आरब्ध (adj)
+
+undone—अकृत (adj)
+
+unhappy—दुःखित (adj) (6)
+
+unheard—अश्रुत (adj)
+
+uninhabited—निर्मनुष्य (adj)
+
+united with—संगत (adj) (20)
+
+universal—वैश्व (adj)
+
+universe—जगत् (n) (6 verse, 20 verse); त्रैलोक्यम् (n) (22)
+
+unreal—मिथ्या (ind) (9)
+
+unwise—अपण्डित (adj)
+
+urged—प्रचोदित (adj) (21); प्रेरित (adj) (21)
+
+-V-
+
+Vaiśravaṇa—वैश्रवणः (m prop) (20)
+
+Vālin—वालिन् (m prop) (22)
+
+Vālmīki—वाल्मीकिः (m prop) (15)
+
+valor—पराक्रमः (m) (21); वीर्यम् (n) (14); शौर्यम् (n) (21)
+
+valuable thing—द्रव्यम् (n) (18)
+
+Vasiṣṭha—वसिष्ठः (m prop) (17 verse)
+
+veda—वेदः (m) (6)
+
+Vedic sacrifice—यज्ञः (m) (5)
+
+vehicle—वाहनम् (n)
+
+very—अति (ind); अतीव (ind) (4); एव (ind) (6)
+
+Vibhīṣaṇa—विभीषणः (m prop) (22)
+
+vicinity—समीपम् (n) (11)
+
+vicious—दुष्ट (adj)
+
+victor—जेतृ (m) (10)
+
+view—दर्शनम् (n)
+
+violate—लोपय् (18); violation—लोपः (m) (18)
+
+violence—हिंसा (f) (20)
+
+virtually—प्रायशः (ind)
+
+virtue—गुणः (m) (5, 11 verse)
+
+vital spot—मर्मन् (n) (20)
+
+vow—प्रति + ज्ञा (9P) (8); vowed—प्रतिज्ञात (adj) (12)
+
+vulture—गृध्रः (m) (22)
+
+Vṛtra—वृत्रः (m prop)
+
+-W-
+
+waist—मध्यः (m) (19)
+
+wait—प्रतिपाल् (प्रति + पाल्) (18); wait upon—उपास् (उप + आस्) (2Ā) (22)
+
+walk—चर् (1P) (15); व्रज् (1P); संचर् (सं + चर्) (1P) (15)
+
+wander—भ्रम् (1P) (19); विचर् (वि + चर्) (1P) (19); विभ्रम् (वि + भ्रम्) (1P); wanderer—चारिन् (m) (11)
+
+wander (as a mendicant)—परिव्रज् (परि + व्रज्) (1P); wandering ascetic—परिव्राजकः (m)
+
+want—इष् (6P) (8); wanted—इष्ट
+
+warble—कूज् (1P) (15)
+
+waste—क्षि (1P)
+
+waste away—जॄ (1P) (10)
+
+water—उदकम् (n) (12); जलम् (n) (16); तोयम् (n) (16); वार् (n); waters—अप् (f pl only) (22)
+
+way—गतिः (f) (6, 20 verse)
+
+weak—शिथिल (adj) (18 verse)
+
+wealth—द्रव्यम् (n) (18); धनम् (n) (9 verse, 16)
+
+weapon—शस्त्रम् (n) (18)
+
+weep—रुद् (2P) (17)
+
+weight—भारः (m) (9)
+
+welfare—हितः (m) (20 verse, 21)
+
+what (relative)—यत् (-द्) (n pr) (6) ; what?—किम् (n. interrogative pr); + चित् (ind), चन (ind)—(indefinite pronoun, see 6.19)
+
+when (relative)—यदा (ind) (6); when?—कदा (ind)
+
+whence—यतः (ind) (6); whence?—कुतः (ind)
+
+where (relative)—यत्र (ind) (6); where?—कुत्र (ind); क्व (ind)
+
+which?—किम् (n. interrogative pr)
+
+whirling about—परिवर्तनम् (n) (12)
+
+who (relative)—यः (m pr) (6); या (f pr) (6); who?—किम् (n. interrogative pr)
+
+why?—किमिति (ind) (13); कुतः (ind)
+
+wife—पत्नी (f); भार्या (f) (5); दाराः (only occurs in plural)
+
+will—चित्तम् (n) (20); at will—यथाकामम् (ind)
+
+win—अभिजि (अभि + जि) (1P) (8); जि (1P) (9)
+
+win over—अनुनी (अनु + नी) (1P) (11 verse)
+
+wind—अनिलः (m); वातः (m) (22); वायुः (m) (13)
+
+wise—बुद्धिमन्त् (adj; f -मती) (11); मनस्विन् (adj); विद्वांस् (m); wise people—विद्वज्जनः (m) (11 verse); wise man—पण्डितः (m) (7)
+
+wish—इष् (6P) (8); वरः (m) (11); according to your wish—यथेष्टम् (ind) (21)
+
+wit—बुद्धिः (f) (11)
+
+with—स- (ind) (only as first member of compound) (14); सह (ind) (5)
+
+with respect to—प्रति (ind) (6, 14)
+
+without- —अ-, अन- (14); निः (ind) (only as first member of compound) (14); विना (ind) (4)
+
+woman—नारी (f) (6); स्त्री (f) (21); woman (who has not had children)—श्यामा (f) (21)
+
+wonderful!—साधु (ind)
+
+word—शब्दः; words (as collective)—वचनम् (n) (5)
+
+world—जगत् (n) (6 verse, 20 verse); भवः (m) (20 verse); लोकः (m) (9, 21)
+
+worldly-existence—भवः (m) (20 verse)
+
+worry—चिन्ता (f) (7)
+
+worship—पूज् (10P) (9 verse, 19); भज् (1P/Ā) (5 verse); पूजा (f)
+
+worthy—अर्ह् (1P) (13); अर्ह (adj)
+
+wrinkle—वलिः (m) (18 verse)
+
+write—लिख् (6P); written—लिखित (adj) (15)
+
+-Y-
+
+Yama—यमः (m prop) (12); Yama's realm—यमलोकः (m)
+
+year—वर्षम् (n) (15); संवत्सरः (m) (14); for a year—यावत्संवत्सरम् (ind)
+
+yellow—पीत (adj); 'having a yellow garment,' epithet of Viṣṇu—पीताम्बरः (m)
+
+yoga—योगः (m)
+
+yogi—योगिन् (m; f -इनी)
+
+you— अत्रभवन्त् (m) (polite) (11); त्वम् (pr) (see 4.46.b); भवन्त् (m) (f -ती) (polite) (see 11.2.b)
+
+young—तरुण (adj) (18 verse); youth—बालकः (m) (4, 17)
 
 INDEX
 
-a-aorist, see aorist abhyāsa, see reduplication ablative case (pañcamī), 61, 80-81 absolute constructions (sati saptami
+a-aorist, see aorist
 
-/ satah şasthi), 265-267: see also genitive absolute, locative absolute absolute final position, 31-32 abstract construction, see bhāve
+abhyāsa, see reduplication
 
-prayoga accusative (dvitiyā), 60, 67 action nouns, see derivational
+ablative case (pañcamī), 61, 80-81
 
-suffixes ad or second gaña, 120-123:
+absolute constructions (sati saptamī / sataḥ ṣaṣṭhī), 265-267: see also genitive absolute, locative absolute
 
-examples of, 121-122; internal consonant sandhi of, 120-121; irregular roots of, 122-123; see
+absolute final position, 31-32
 
-also non-a ganas adah, “that," 343 adjectival karmadhāraya com
+abstract construction, see bhāve prayoga
 
-pounds, 212 adjectival application of com
+accusative (dvitīyā), 60, 67
 
-pounds, see bahuvrihi adjectives (višeşaņas): in -in, 207
+action nouns, see derivational suffixes
 
-208, 386; made from desidera tives, 327-328; mahant, "great," 192; negation of, 106; suffixes - mant and -vant, 193-194; that
+ad or second gaṇa, 120-123: examples of, 121-122; internal consonant sandhi of, 120-121; irregular roots of, 122-123, see also non-a gaṇas
 
-follow pronominal declension, 85 87; verbal, 176-177; see also
+adah, "that," 343
 
-participles adverbs (avyayapadas), 99-102,
+adjectival karmadhāraya compounds, 212
 
-407-409: see also indeclinables; suffixes, 406-409— -dhā, 407 408; -dā, 99,102; -śaḥ, 408; -tah, 99,102,407; tham, 99, 102; -tha,
+adjectival application of compounds, see bahuvrīhi
 
-99, 102; -tra, 99, 102; -vat, 407 adyatanabhūte luñ, see aorist
+adjectives (viśeṣaṇas): in -in, 207-208, 386; made from desideratives, 327-328; mahant, "great," 192; negation of, 106; suffixes -mant and -vant, 193-194; that follow pronominal declension, 85-87; verbal, 176-177; see also participles
 
-systems affixes, derivational (pratyaya), see
+adverbs (avyayapadas), 99-102, 407-409: see also indeclinables; suffixes, 406-409— -dhā, 407-408; -dā, 99,102; -śaḥ, 408; -taḥ, 99,102,407; -tham, 99, 102; -thā, 99, 102; -tra, 99, 102; -vat, 407
 
-derivational suffixes and adverbs
+adyatanabhūte luṅ, see aorist systems
 
-āgama (preterite augment), 142,
+affixes, derivational (pratyaya), see derivational suffixes and adverbs
 
-352, 353 a-ganas, 115: of lat, 118-120, 126,
+āgama (preterite augment), 142, 352, 353
 
-129, 132; of lan, 143-144; of liñ (ātmanepada), 249; of liñ (parasmaipada) 247-248; of loț,
+a-gaṇas, 115: of laṭ, 118-120, 126, 129, 132; of laṅ, 143-144; of liṅ (ātmanepada), 249; of liṅ (parasmaipada) 247-248; of loṭ, 197-200; see also gaṇas
 
-197-200; see also ganas agent nouns, see derivational
+agent nouns, see derivational suffixes
 
-suffixes agentive suffix in -ts, 170-176, 375
+agentive suffix in -tṛ, 170-176, 375-376: guṇa of, 173
 
-376: guņa of, 173 aghoșa, see nonvoicing aham, “I," paradigm of, 71 akarmaka-dhātus, “intransitive
+aghoṣa, see nonvoicing
 
-roots," 65: bhūte krdanta of, see bhūte kļdanta; of causatives, see
+aham, "I," paradigm of, 71
 
-causative akşaras, see syllables alpaprāņa, see non-aspiration anādare şaşthi (genitive of disre
+akarmaka-dhātus, "intransitive roots," 65: bhūte kṛdanta of, see bhūte kṛdanta; of causatives, see causative
 
-spect), 266 anadyatanabhavisyatkāle luț, see
+akṣaras, see syllables
 
-periphrastic future anadyatanabhūte lan, see imperfect anit roots, 273-274 antaḥsthas, see semivowels anusvāra, 4: pronunciation of, 8, 18 aorist (adyatanabhūte lun) systems,
+alpaprāṇa, see non-aspiration
 
-251-259: a-aorist, 353; as injunctive, 358; augment of, 352, 353 karmaņi (passive") of, 358; reduplicated aorist, 357-358; root aorist, 352-353; sibilant aorists, 353-357—"s" aorist, 354-355; "is" aorist, 355-356; "sis" aorist, 356; “sa" aorist, 356; simple,
+anādare ṣaṣṭhī (genitive of disrespect), 266
 
-352-353; types of, 353 api: as indefinite marker, 105; as
+anadyatanabhaviṣyatkāle luṭ, see periphrastic future
 
-question marker, 95; with present
+anadyatanabhūte laṅ, see imperfect
 
-participle, 263 appositional karmadhāraya com
+aniṭ roots, 273-274
 
-526
+antaḥsthas, see semivowels
 
-pound, 212-213 artha, see mode as, “to be,” 57: paradigm of, 58 asau, "that," 343 āśir liñ, see benedictive aspiration (mahāprāņa), 3, 4 assimilation, progressive, 38 assimilation, regressive, 38 atipattau lịm, see conditional ātmanepada, see voice: and
+anusvāra, 4: pronunciation of, 8, 18
 
-nāmadhātu, 333-334 augment, preterite (āgama), 142, - 352, 353
+aorist (adyatanabhūte luṅ) systems, 251-259: a-aorist, 353; as injunctive, 358; augment of, 352, 353 karmaṇi ("passive") of, 358; reduplicated aorist, 357-358; root aorist, 352-353; sibilant aorists, 353-357—"s" aorist, 354-355; "iṣ" aorist, 355-356; "siṣ" aorist, 356; "sa" aorist, 356—; simple, 352-353; types of, 353
 
-avagraha (separation), 19 avyayapadas, see indeclinables avyayīpada samāsas (indeclinable
+api: as indefinite marker, 105; as question marker, 95; with present participle, 263
 
-compounds), 244-245 ayam, “this," 343
+appositional karmadhāraya compound, 212-213
 
-ganas bhūte krdanta, 177-184: formation
+artha, see mode
 
-of, 180-184; in compounds, 215 216; of akarmaka (intransitive) roots, 178-179; of causative, 320 321; of sakarmaka (transitive) roots, 177-178; of tenth or cur gana, 184; sandhi in formation of,
+as, "to be," 57: paradigm of, 58
 
-181-183 boundaries of syllables, 18-19
+asau, "that," 343
 
-bahuvacana (plural), see number bahuvrihi application of compounds
+āśīr liṅ, see benedictive
 
-(samāsas), 227-236: as names and epithets, 235; English examples of, 228; gender of, 230-231; identification of, 229-230; length of, 234-235; of dvigu ("two-cow") samāsas, 235; structure of, 229; vigraha (analysis) of, 228, 231 233; with karmadhārayas, 233
+aspiration (mahāprāṇa), 3, 4
 
-234; with tatpuruṣas, 234 benedictive (āśir lin), 249-250 bhāve prayoga (abstract construc
+assimilation, progressive, 38
 
-tion), 163-164: formation of, 166 168; imperative of (lot), 201; imperfect (lan) of, 165; kart; of, 163-164; of vartamāne kşdanta (present participle), 262-263; see
+assimilation, regressive, 38
 
-also karmaņi prayoga bhavisyatkāle, see future bhavișyatkāle kşdanta, see future
+atipattau lṛṅ, see conditional
 
-participle bhū or first gaña, 118-120: irregular
+ātmanepada, see voice: and nāmadhātu, 333-334
 
-roots of, 118-119; see also a
+augment, preterite (āgama), 142, 352, 353
 
-"ca" varga, see palatal sounds, 2 cana, as indefinite marker, 105 cardinal numbers, see numbers,
+avagraha (separation), 19
 
-cardinal case (vibhakti), 60-61: ablative
+avyayapadas, see indeclinables
 
-(pañcami), 61, 80-81; accusative (dvitīyā), 60, 67-68; dative (caturthi), 60, 80; instrumental (tȚtiyā), 60, 68-69; genitive (şaşthi), 61, 69—as absolute construction, 265-267; as subject of gerundive, 281—; locative (saptami), 61, 81-82—as absolute construction, 265-267—; nomina tive (prathamā), 60, 66-67; typical endings of, 138-139; vocative
+avyayīpada samāsas (indeclinable compounds), 244-245
 
-(sambodhana), 61 caturthi, see dative case causative (nic, nijanta), 314-324:
+ayam, "this," 343
 
-aorist of, 357-358; see also reduplicated aorist; formation of, 316-318; forms of—bhūte kşdanta of, 320-321; future of, 323; gerund, 321; gerundive, 322; infinitive, 322; karmaṇi of, 319 320; perfect of, 323; present system of, 318-319; uses of, 323 324; karts of, 314-316of akarmaka dhātus (intransitive roots), 315; of sakarmaka dhātus (transitive roots), 315-316 ; stem strength in, 316-318
+bahuvacana (plural), see number
 
-527
+bahuvrīhi application of compounds (samāsas), 227-236: as names and epithets, 235; English examples of, 228; gender of, 230-231; identification of, 229-230; length of, 234-235; of dvigu ("two-cow") samāsas, 235; structure of, 229; vigraha (analysis) of, 228, 231-233; with karmadhārayas, 233-234; with tatpuruṣas, 234
 
-cit as indefinite marker, 105 citation of nouns, 61-62 classes (ganas) of the present
+benedictive (āśīr liṅ), 249-250
 
-system, see ganas of the present
+bhāve prayoga (abstract construction), 163-164: formation of, 166-168; imperative of (loṭ), 201; imperfect (laṅ) of, 165; kartṛ of, 163-164; of vartamāne kṛdanta (present participle), 262-263; see also karmaṇi prayoga
 
-system clauses, correlative, 97-98; subordi
+bhaviṣyatkāle, see future
 
-nate, 97 coalescence (of vowels), 24-25: of
+bhaviṣyatkāle kṛdanta, see future participle
 
-similar vowels, 24; of dissimilar
+bhū or first gaṇa, 118-120: irregular roots of, 118-119; see also a-gaṇas
 
-vowels, 25 comparative (utkarşavācaka):
+bhūte kṛdanta, 177-184: formation of, 180-184; in compounds, 215-216; of akarmaka (intransitive) roots, 178-179; of causative, 320-321; of sakarmaka (transitive) roots, 177-178; of tenth or cur gaṇa, 184; sandhi in formation of, 181-183
 
-declension of, 405-406; in- iyah, 387; in -tara, 386-387; irregular
+boundaries of syllables, 18-19
 
-forms of, 387 complex vowels, external sandhi of,
+"ca" varga, see palatal sounds, 2
 
-27-28 compounds, nominal (samāsa) 208
+cana, as indefinite marker, 105
 
-219; 227-236; 241-245: adjectival application of, 227-236; analysis of, 210-211; bahuvrihi application of, 227-236; bhūte kşdantas in, 215-216; formation of, 215-218; identification of, 217, pronouns in, 218; reduced or altered forms in, 217-218; techniques of, 211; types of—avyayipada samāsas (indeclinable compounds), 244 245; dvandva (copulative), 241- 243; dvigu ("two-cow"), 235-236; ekaśeşa (elliptical dual), 243-244; karmadhāraya, 212-214; tatpuruşa, 214-215; upapada (reduced word), 219, 369—; word
+cardinal numbers, see numbers, cardinal
 
-order in, 209-210 conjugation of verbs cited in
+case (vibhakti), 60-61: ablative (pañcamī), 61, 80-81; accusative (dvitīyā), 60, 67-68; dative (caturthī), 60, 80; instrumental (tṛtīyā), 60, 68-69; genitive (ṣaṣṭhī), 61, 69—as absolute construction, 265-267; as subject of gerundive, 281—; locative (saptamī), 61; 81-82—as absolute construction, 265-267—; nominative (prathamā), 60, 66-67; typical endings of, 138-139; vocative (sambodhana), 61
 
-grammar: as, “to be," (lat) 57; bhāş, "to speak," (lat) 55; bhū, "to be" (lut), 280; bhū, "to be," (lun), 353; diś, to point," (lun), 357; dā, "to give,” (luñ), 353; gam, "to go,” (luñ), 353; han, "to kill” (lat), 123; sam, "to calm," (luñ), 357; vac, “to speak," (luñ), 353; vad
+caturthī, see dative case
 
-"to speak," (lat) 55; vid, “to
+causative (ṇic, ṇijanta), 314-324: aorist of, 357-358; see also reduplicated aorist; formation of, 316-318; forms of—bhūte kṛdanta of, 320-321; future of, 323; gerund, 321; gerundive, 322; infinitive, 322; karmaṇi of, 319-320; perfect of, 323; present system of, 318-319; uses of, 323-324—; kartṛ of, 314-316—of akarmaka dhātus (intransitive roots), 315; of sakarmaka dhātus (transitive roots), 315-316—; stem strength in, 316-318
 
-know," (yanluganta), 332 conjugations, secondary: causative
+cit as indefinite marker, 105
 
-(nic), 313-324; denominative (nāmadhātu), 333-336; desiderative (sannanta), 324-329; intensive (yananta, yaņluganta),
+citation of nouns, 61-62
 
-329-333 conditional (atipattau lịñ), 279 consonants (vyañjanas), 1ff:
+classes (gaṇas) of the present system, see gaṇas of the present system
 
-absolute final position of, 30-32; conjuncts of, 16-18; external sandhi of-absolute final position of, 30-32; final position of, 30; general principles of, 38-39; of nasals, 40-42; of original final “r", 37-38; of original final “s”, 32-37; of stops (sparśas), 38-40; progres sive assimilation of, 38; regressive assimilation of, 38—; final position of, 30; intemal sandhi of, see sandhi, internal; initial
+clauses, correlative, 97-98; subordinate, 97
 
-position of, 29 copulative compound, see dvandva
+coalescence (of vowels), 24-25: of similar vowels, 24; of dissimilar vowels, 25
 
-samāsa correlative clauses (independent
+comparative (utkarṣavācaka): declension of, 405-406; in -īyaḥ, 387; in -tara, 386-387; irregular forms of, 387
 
-clauses), 97-98 cur or tenth gana, 132: strength of,
+complex vowels, external sandhi of, 27-28
 
-132 cvipratyaya, 388-389
+compounds, nominal (samāsa) 208-219; 227-236; 241-245: adjectival application of, 227-236; analysis of, 210-211; bahuvrīhi application of, 227-236; bhūte kṛdantas in, 215-216; formation of, 215-218; identification of, 217; pronouns in, 218; reduced or altered forms in, 217-218; techniques of, 211; types of—avyayīpada samāsas (indeclinable compounds), 244-245; dvandva (copulative), 241-243; dvigu ("two-cow"), 235-236; ekaśeṣa (elliptical dual), 243-244; karmadhāraya, 212-214; tatpuruṣa, 214-215; upapada (reduced word), 219, 369—; word order in, 209-210
 
-danta, see teeth dantya varga, see dental sounds dative case (cathurthi), 60: infini
+conjugation of verbs cited in grammar: as, "to be," (laṭ) 57; bhāṣ, "to speak," (laṭ) 55; bhū, "to be" (luṭ), 280; bhū, "to be," (luṅ), 353; diś, "to point," (luṅ), 357; dā, "to give," (luṅ), 353; gam, "to go," (luṅ), 353; han, "to kill" (laṭ), 123; śam, "to calm," (luṅ), 357; vac, "to speak," (luṅ), 353; vad "to speak," (laṭ) 55; vid, "to know," (yaṅluganta), 332
 
-tive, 226-227 declension, see noun declensions cited in grammar: aham
+conjugations, secondary: causative (ṇic), 313-324; denominative (nāmadhātu), 333-336; desiderative (sannanta), 324-329; intensive (yaṅanta, yaṅluganta), 329-333
 
-(mat), "I," 71; ahan, "day," 405; akşi, "eye,” 404; ātman, "soul, self," 139; ayam, "this,” (mascu line), 343; bhagavant, "blessed," 191; catur, “four," 349; dāts, "giver," 176; devi, "queen, lady,"
+conditional (atipattau lṛṅ), 279
 
-528
+consonants (vyañjanas), 1ff: absolute final position of, 30-32; conjuncts of, 16-18; external sandhi of—absolute final position of, 30-32; final position of, 30; general principles of, 38-39; of nasals, 40-42; of original final "r", 37-38; of original final "s", 32-37; of stops (sparśas), 38-40; progressive assimilation of, 38; regressive assimilation of, 38—; final position of, 30; internal sandhi of, see sandhi, internal; initial position of, 29
 
-114; dhanuḥ, "bow," 159; dhiḥ, "thought,” 405; gatiḥ, "way, path," 92; gauḥ, “bull, cow," 404; haviḥ, "oblation," 158; idam, "this,” (neuter), 343; iyam, "this,” (feminine), 343-344; kanyā, "girl," 79; karma, "action,” 140 141; kart, “doer," 175; madhu, "honey," 93-94; maghavan, “Maghavan," 404-405; māts, “mother," 175; muniḥ, “muni, sage,” 91; nāman, “name,” 141; nau, "boat,” 402; pathin, “road," 404; patih, "husband, lord," 403; pits, "father," 175; puruṣaḥ, "man,” 62; pustakam, "book," 63; rājan, “king," 140; rūpin, “pos sessed of form," 208; sakhi, "friend,” 403; saḥ, “he, that,” 83; sā, "she, that,” 84; şaş, "six,” 350; śāstrabhịt, "weapon bearer,” 402; śatruḥ, “enemy," 93; śreyāms, "better,” 406; tapah, "austerities," 157; tat, “it, that,” 83-84; tvam (tvat), "you," 72; vidvāms, "learned,” 306; viśvassj, “creator of the universe," 402; vāc, "speech,” 401; yogin, “yogi,”
+copulative compound, see dvandva samāsa
 
-207-208 demonstrative pronouns, see
+correlative clauses (independent clauses), 97-98
 
-pronouns denominative (nāmadhātu), 333
+cur or tenth gaṇa, 132: strength of, 132
 
-336: ātmanepada of, 333-334; formation of, 333; parasmaipada
+cvipratyaya, 388-389
 
-of, 334; use of, 335-336 dental sounds (dantya varga, "ta"
+danta, see teeth
 
-varga), 2: pronunciation of, 7 derivational suffixes (pratyaya),
+dantya varga, see dental sounds
 
-368-387: examples of, 390-393; krt pratyayas (primary suffixes)
+dative case (cathurthī), 60: infinitive, 226-227
 
--a (action nouns), 370; -ā (action nouns), 371-372; -aka (agent nouns), 376; -ana (action.
+declension, see noun
 
-nouns, agent nouns), 372; -aḥ (actions nouns), 373; -kvip (action nouns), 369, as upapada, 369; -- man (action nouns), 374; -ti (action nouns), 373-374; - tp (agent nouns), 170-176, 376-377; -tra (instrument or means of action) 374-375—; taddhita (secondary derivations) — abstract nouns of, 377-378; derivative adjectives of, 377-378 internal sandhi of, 378 379; meanings of, 379; praksti (base) of, 377; pratyayas of — -a, 379-381; -aka, 385; comparative/ superlative (utkarşavācaka), 386 387;-eya, 383; -i, 384; -ika, 385; - in, 207-208, 386; -iya, 382; -īya, 383; -ka, 384-385; -mant, 193 194,386; -maya, 385-386; -tva, 384; -tā, 384; -vant, 193-194,386; -vat, 387; -vin, 207-208, 386; -ya, 381-381—; vşddhi as marker of,
+declensions cited in grammar: aham (mat), "I," 71; ahan, "day," 405; akṣi, "eye," 404; ātman, "soul, self," 139; ayam, "this," (masculine), 343; bhagavant, "blessed," 191; catur, "four," 349; dātṛ, "giver," 176; devī, "queen, lady," 114; dhanuḥ, "bow," 159; dhīḥ, "thought," 405; gatiḥ, "way, path," 92; gauḥ, "bull, cow," 404; haviḥ, "oblation," 158; idam, "this," (neuter), 343; iyam, "this," (feminine), 343-344; kanyā, "girl," 79; karma, "action," 140-141; kartṛ, "doer," 175; madhu, "honey," 93-94; maghavan, "Maghavan," 404-405; mātṛ, "mother," 175; muniḥ, "muni, sage," 91; nāman, "name," 141; nau, "boat," 402; pathin, "road," 404; patiḥ, "husband, lord," 403; pitṛ, "father," 175; puruṣaḥ, "man," 62; pustakam, "book," 63; rājan, "king," 140; rūpin, "possessed of form," 208; sakhi, "friend," 403; saḥ, "he, that," 83; sā, "she, that," 84; ṣaṣ, "six," 350; śastrabhṛt, "weapon bearer," 402; śatruḥ, "enemy," 93; śreyāṃs, "better," 406; tapaḥ, "austerities," 157; tat, "it, that," 83-84; tvam (tvat), "you," 72; vidvāṃs, "learned," 306; viśvasṛj, "creator of the universe," 402; vāc, "speech," 401; yogin, "yogi," 207-208
 
-378 desiderative (sannanta): adjectival
+demonstrative pronouns, see pronouns
 
-forms of, 327-328; formation of, 325-327; karmaņi prayoga of, 329; nouns made from, 327-329; of causative, 329; reduplication
+denominative (nāmadhātu), 333-336: ātmanepada of, 333-334; formation of, 333; parasmaipada of, 334; use of, 335-336
 
-in, 325-327 devanāgari, see script dhātus, see verbs, roots of div or fourth gaña, 126: sign of, 126;
+dental sounds (dantya varga, "ta" varga), 2: pronunciation of, 7
 
-strength of, 12; see also a-ganas direct object, “karma," 65 dissimilar vowels, external sandhi
+derivational suffixes (pratyaya), 368-387: examples of, 390-393; kṛt pratyayas (primary suffixes)—a (action nouns), 370; -ā (action nouns), 371-372; -aka (agent nouns), 376; -ana (action nouns, agent nouns), 372; -aḥ (actions nouns), 373; -kvip (action nouns), 369, as upapada, 369; -man (action nouns), 374; -ti (action nouns), 373-374; -tṛ (agent nouns), 170-176, 376-377; -tra (instrument or means of action) 374-375—; taddhita (secondary derivations)— abstract nouns of, 377-378; derivative adjectives of, 377-378 internal sandhi of, 378-379; meanings of, 379; prakṛti (base) of, 377; pratyayas of— -a, 379-381; -aka, 385; comparative/ superlative (utkarṣavācaka), 386-387; -eya, 383; -i, 384; -ika, 385; -in, 207-208, 386; -iya, 382; -īya, 383; -ka, 384-385; -mant, 193-194, 386; -maya, 385-386; -tva, 384; -tā, 384; -vant, 193-194, 386; -vat, 387; -vin, 207-208, 386; -ya, 381-381—; vṛddhi as marker of, 378
 
-of, 26 dual (dvivacana), see number dvandva (copulative) samāsa
+desiderative (sannanta): adjectival forms of, 327-328; formation of, 325-327; karmaṇi prayoga of, 329; nouns made from, 327-329; of causative, 329; reduplication in, 325-327
 
-(compound), 241-243: gender of, 241-242; in extended compounds, 242; vigraha of, 242; word order
+devanāgarī, see script
 
-in, 242-243 dvigu ("two-cow") samāsa (com529
+dhātus, see verbs, roots of
 
-pound), 235-236 dvitīyā, accusative case 60, 67 dvivacana (dual), see number
+div or fourth gaṇa, 126: sign of, 126; strength of, 12; see also a-gaṇas
 
-krtya), 281-286; of causative,
+direct object, "karma," 65
 
-322; see also gerundive future tense (bhavișyatkāla), see
+dissimilar vowels, external sandhi of, 26
 
-tense
+dual (dvivacana), see number
 
-eka, "one," as pronominal adjec
+dvandva (copulative) samāsa (compound), 241-243: gender of, 241-242; in extended compounds, 242; vigraha of, 242; word order in, 242-243
 
-tive, 85-86 ekaśesa (elliptical dual) samāsa,
+dvigu ("two-cow") samāsa (compound), 235-236
 
-243-244 ekavacana (singular), see number elliptical dual compound, see
+dvitīyā, accusative case 60, 67
 
-ekašeşa samāsa enclitic pronouns, 72 endings: nominal (see also declen
+dvivacana (dual), see number
 
-sions, paradigms) consonantal, 138-139; verbal-of lat (present indicative), 53-54; of lañ (imper fect), 143; of lit (perfect), 301; of lot (imperative), 196; primary, 53
+eka, "one," as pronominal adjective, 85-86
 
-54, 165; secondary, 143, 165, 354 etat, "this," 85 etvam, 297-298, 300: see also
+ekaśeṣa (elliptical dual) samāsa, 243-244
 
-perfect, reduplication of euphonic combinations, see sandhi external sandhi, see sandhi, external
+ekavacana (singular), see number
 
-gaņas (classes) of the present
+elliptical dual compound, see ekaśeṣa samāsa
 
-system, 114-132: a-, 115, 143 144, 197-198, 200, 245, 247-248, 249, see also a-ganas: chart of, 116-117; eighth or tan, 127-128, 198 (see also tan gana); fifth or su, 127-128, 198 (see also su gaña); first or bhū, 118-120 (see also bhū gaña); fourth or div, 126, (see also div gana); ninth or kri, 131-132, 198 see also kri gaña); non-a, 115, 144-145, 198-199, 199, 248-249 (see also non-a gaņas); second or ad, 120-123, (see also ad gana); seventh or rudh, 129-131,198 (see also rudh gana); sixth or tud, 129 (see also tud gaña); strong and weak forms in, 115; tenth or cur gaña, 132— bhūte kļdanta of, 184; perfect of, 305; -tvānta of, 196—(see also cur gana)—; third or hu, 123-126,
+enclitic pronouns, 72
 
-198, 200, see also hu gaña gender of nouns, (liñga), 59:
+endings: nominal (see also declensions, paradigms)—consonantal, 138-139; verbal—of laṭ (present indicative), 53-54; of laṅ (imperfect), 143; of liṭ (perfect), 301; of loṭ (imperative), 196; primary, 53-54, 165; secondary, 143, 165, 354
 
-feminine (strilinga), 59; masculine
+etat, "this," 85
 
-(pumlinga), 59 genitive absolute (satah şaşthi), 265-.
+etvam, 297-298, 300: see also perfect, reduplication of
 
-267: of disrespect (anādare şasthi), 266; special problems of,
+euphonic combinations, see sandhi
 
-266-267 genitive case (şaşthi), 61 gerund (tvānta, lyabanta), 194-197:
+external sandhi, see sandhi, external
 
-in-tvā, 195-196; in-ya, 196-197;
+fear, objects of, 81
 
-of causative, 321-322 gerundive or the future passive
+feminine gender (strīliṅga), 59
 
-participle (kệtya), 281-286: formation of, 283-285- in - aniya, 285-286; in -tavya, 285; in
+final position of sounds, 30
 
-fear, objects of, 81 feminine gender (strīlinga), 59 final position of sounds, 30 finite verb, see verbs, finite first person (uttamapuruşa), see
+finite verb, see verbs, finite
 
-person future (Irt, lut), 274-281: simple
+first person (uttamapuruṣa), see person
 
-(sāmānyabhavisyatkāle lst), 274 278— formation of, 274-275; guna in, 274; important roots of, 277-278; karmaņi prayoga of, 275; of causative, 323; sandhi in, 275-277; use of, 278—; participle (bhavișyatkāle kdanta), 278; periphrastic (anadyatana bhavisyatkāle lut) — formation of, 279-81; of causative, 323—; passive participle of, (gerundive,
+future (lṛṭ, luṭ), 274-281: simple (sāmānyabhaviṣyatkāle lṛṭ), 274-278— formation of, 274-275; guṇa in, 274; important roots of, 277-278; karmaṇi prayoga of, 275; of causative, 323; sandhi in, 275-277; use of, 278—; participle (bhaviṣyatkāle kṛdanta), 278; periphrastic (anadyatana-bhaviṣyatkāle luṭ)— formation of, 279-81; of causative, 323—; passive participle of, (gerundive, kṛtya), 281-286; of causative, 322; see also gerundive
 
-530
+future tense (bhaviṣyatkāla), see tense
 
--ya, 283-285—; of causative, 322; endings of, 142; karmaṇi of, 165; strength of, 284-287; karts of, in non-a ganas of, 144-145; preterite sixth (şaşthi), 281
+gaṇas (classes) of the present system, 114-132: a-, 115, 143-144, 197-198, 200, 245, 247-248, 249, see also a-gaṇas: chart of, 116-117; eighth or tan, 127-128, 198 (see also tan gaṇa); fifth or su, 127-128, 198 (see also su gaṇa); first or bhū, 118-120 (see also bhū gaṇa); fourth or div, 126, (see also div gaṇa); ninth or krī, 131-132, 198 see also krī gaṇa); non-a, 115, 144-145, 198-199, 199, 248-249 (see also non-a gaṇas); second or ad, 120-123, (see also ad gaṇa); seventh or rudh, 129-131,198 (see also rudh gaṇa); sixth or tud, 129 (see also tud gaṇa); strong and weak forms in, 115; tenth or cur gaṇa, 132—bhūte kṛdanta of, 184; perfect of, 305; -tvānta of, 196—(see also cur gaṇa)—; third or hu, 123-126, 198, 200, see also hu gaṇa
 
-augment of (āgama), 142 guņa, 25-26: exceptions to, 119-120; indeclinable compounds
+gender of nouns, (liṅga), 59: feminine (strīliṅga), 59; masculine (puṃlliṅga), 59
 
-of bhū or first gana, 118; of ad or (avyayīpada samāsas), 244-245 second gaña, 120; of hu or third indeclinables (avyayapadas), 47, 95, gaña, 125; of su or fifth gaña, 127; 99-102), 407-409, see also of tan or eighth gana, 127; of cur adverbs: api, 95 or tenth gaña, 132; of third gana indefinite constructions, 105-106 lan, 144; as sign of kşdanta
+genitive absolute (sataḥ ṣaṣṭhī), 265-267: of disrespect (anādare ṣaṣṭhī), 266; special problems of, 266-267
 
-infinitive (tumannanta), 225-227: (primary derivation), 368, 372- dative, 226-227; formation of 376; of agent nouns (-tr), 173; of 225-236; guņa of, 225; of caus infinitive (tumannanta), 225; of ative, 322; with auxiliary verbs, future (Irt), 274; of gerundive, 226, 227 284-85; in perfect (lit), 297-301; initial position, of sounds, 29-30 in causative (nijanta), 316-317; in injunctive, 358, see also imperative, desiderative (sannanta), 326; in negative of, 201 sibilant aorist, 354-356
+genitive case (ṣaṣṭhī), 61
 
-instrumental case (tļtīyā), 60, 68-69 guru, "heavy, ” 296, 304, 317, 357: intensive (yañanta, yañluganta),
+gerund (tvānta, lyabanta), 194-197: in -tvā, 195-196; in -ya, 196-197; of causative, 321-322
 
-see also guņa, exceptions to
+gerundive or the future passive participle (kṛtya), 281-286: formation of, 283-285— in -anīya, 285-286; in -tavya, 285; in -ya, 283-285—; of causative, 322; strength of, 284-287; kartṛ of, in sixth (ṣaṣṭhī), 281
 
-329-332: abhyāsa of, 329-331;
+guṇa, 25-26: exceptions to, 119-120; of bhū or first gaṇa, 118; of ad or second gaṇa, 120; of hu or third gaṇa, 125; of su or fifth gaṇa, 127; of tan or eighth gaṇa, 127; of cur or tenth gaṇa, 132; of third gaṇa laṅ, 144; as sign of kṛdanta (primary derivation), 368, 372-376; of agent nouns (-tṛ), 173; of infinitive (tumunnanta), 225; of future (lṛṭ), 274; of gerundive, 284-85; in perfect (liṭ), 297-301; in causative (ṇijanta), 316-317; in desiderative (sannanta), 326; in sibilant aorist, 354-356
 
-yañanta, formation of, 332; hard palate (mūrdhan), see palate 3 yanluganta, formation of, 332 heavy, "guru," syllables, 296, 317, internal sandhi, see sandhi, internal
+guru, "heavy," 296, 304, 317, 357: see also guṇa, exceptions to
 
-304, 357: see also guņa, excep- interrogative sentences, 95: api, as tions to
+hard palate (mūrdhan), see palate 3
 
-marker of, 95; with the “K” series, hiatus in vowel sandhi, 29 hu or third gana: guņa of, 125; intransitive roots, "akarmaka
+heavy, "guru," syllables, 296, 317, 304, 357: see also guṇa, exceptions to
 
-irregular roots of, 125-125;
+hiatus in vowel sandhi, 29
 
-dhātus," 65: bhūte kşdanta of, see reduplication (abhyāsa) of, 124- bhūte kşdanta; of causatives, see 125; strong forms of, 125
+hu or third gaṇa: guṇa of, 125; irregular roots of, 125-125; reduplication (abhyāsa) of, 124-125; strong forms of, 125
 
-causative hypothesis, in optative mode, 246- “iş" aorist, see aorist, sibilant
+hypothesis, in optative mode, 246-247
 
-247
+"I," see "aham"
+
+idam, "this," 343
+
+imperative (loṭ), 197-201: bhāve of, 201; endings of, 197; karmaṇi of, 201; mā as negative, 201; madhyama puruṣa of, 197-199; negation of, 201—see also injunctive; stem strength in, 198
+
+imperfect (adyatanabhūte laṅ), 142-145, 294: a-gaṇas of, 143-144; endings of, 142; karmaṇi of, 165; non-a gaṇas of, 144-145; preterite augment of (āgama), 142
+
+indeclinable compounds (avyayīpada samāsas), 244-245
+
+indeclinables (avyayapadas), 47, 95, 99-102), 407-409, see also adverbs: api, 95
+
+indefinite constructions, 105-106
+
+infinitive (tumannanta), 225-227: dative, 226-227; formation of, 225-236; guṇa of, 225; of causative, 322; with auxiliary verbs, 226, 227
+
+initial position, of sounds, 29-30
+
+injunctive, 358, see also imperative, negative of, 201
+
+instrumental case (tṛtīyā), 60, 68-69
+
+intensive (yaṇanta, yaṇluganta), 329-332: abhyāsa of, 329-331; yaṇanta, formation of, 332; yaṇluganta, formation of, 332
+
+internal sandhi, see sandhi, internal
+
+interrogative sentences, 95: api, as marker of, 95; with the "k" series, 95
+
+intransitive roots, "akarmaka-dhātus," 65: bhūte kṛdanta of, see bhūte kṛdanta; of causatives, see causative
+
+"iṣ" aorist, see aorist, sibilant
 
 iti, use of, 73
 
-iyam, “this," 343 “I," see "aham" idam, “this," 343
+iyam, "this," 343
 
-“ka" varga, see velar sounds imperative (lot), 197-201: bhāve of, kantha, see velum
+"ka" varga, see velar sounds
 
-201; endings of, 197; karmaṇi of, kanthya varga, see velar sounds 201; mā as negative, 2017
+kaṇṭha, see velum
 
-kāla, see tense madhyama purusa of, 197-199; karma, "action, direct object," 65: of negation of, 201—see also
+kaṇṭhya varga, see velar sounds
 
-causative, of causative, 314-316 injunctive; stem strength in, 198 karmadhāraya compounds, 212-214: imperfect (adyatanabhūte lan), 142- adjectival, 212; analysis (vigra
+kāla, see tense
 
-145, 294: a-ganas of, 143-144; has) of, 212, 213-214; apposi
+karma, "action, direct object," 65: of causative, of causative, 314-316
 
-tional, 212-213; bahuvrihi
+karmadhāraya compounds, 212-214: adjectival, 212; analysis (vigrahas) of, 212, 213-214; appositional, 212-213; bahuvrīhi application of, 233-234; formation of, 215-218; samānādhikaraṇa (case agreement) in, 213-214
 
-95
+karmaṇi prayoga (Sanskrit 'passive'), 161-168: formation of, 166-168; imperative (loṭ) of, 201; imperfect (laṅ) of, 165; karma (object) of, 161-163; kartṛ (subject) of, 161-163; of aorist, 358; of causative, 319-320; of desiderative, 329; of future (lṛṭ), 275; of vartamāne kṛdanta (present participle), 262-263; samprasāraṇa in, 168; transformation of, to kartari, 165; see also bhāve prayoga
 
-531
+kartari prayoga (active constructions), see also present system: transformation of, to karmaṇi, 164
 
-application of, 233-234; formation of, 215-218; samānādhikarana
+kartṛ, "doer, subject," 64: of causative, 314-316
 
-(case agreement) in, 213-214 karmaṇi prayoga (Sanskrit 'pas
+kṛ, or "do," in eighth gaṇa, 127-128
 
-sive'), 161-168: formation of, 166-168; imperative (lot) of, 201; imperfect (lan) of, 165; karma (object) of, 161-163; kart; (subject) of, 161-163; of aorist, 358; of causative, 319-320; of desiderative, 329; of future (līt), 275; of vartamāne kşdanta (present participle), 262-263; samprasārana in, 168 ; transfor- mation of, to kartari, 165; see also
+kṛdantas (primary derivations), 176-177: see also bhūte kṛdanta, causative, derivational suffixes, future participle, gerundive (future passive particle), participles, perfect participle, verbal adjectives
 
-bhāve prayoga kartari prayoga (active construc
+krī or ninth gaṇa, 131-132: important roots of, 132; loṭ of, 199; marker of, 131
 
-tions), see also present system:
+kriyāpada, "action word, verb," see verb,
 
-transformation of, to karmaņi, 164 kartự, "doer, subject,” 64: of
+ktavatu (past active participle), 194
 
-causative, 314-316 kr, or "do," in eighth gaña, 127-128 krdantas (primary derivations), 176
+"k-y-t" series 95-99: important roots of, 131-132; usage of, 103-106; see also clauses, interrogative sentences.
 
-177: see also bhūte kşdanta, causative, derivational suffixes, future participle, gerundive (future passive particle), parti ciples, perfect participle, verbal
+labial sounds (oṣṭhya varga, "pa" varga), 2-3: pronunciation of, 7, 13
 
-adjectives kri or ninth gana, 131-132: impor
+laghu, "light," syllables, 296, 316, 357: see also guṇa, exceptions to
 
-tant roots of, 132; lot of, 199;
+laṅ, see imperfect
 
-marker of, 131 kriyāpada, "action word, verb," see
+laṭ (vartamāne laṭ), see present indicative
 
-verb, ktavatu (past active participle), 194 "k-y-t" series 95-99: important roots
+light, "laghu," syllables, 296, 316, 357: see also guṇa, exceptions to
 
-of, 131-132; usage of, 103-106; see also clauses, interrogative sentences.
+liṅ (vidhi liṅ), see optative mode
 
-357: see also guņa, exceptions to lan, see imperfect lat (vartamāne lat), see present
+liṅga, see gender
 
-indicative light, “laghu," syllables, 296, 316,
+lipi, see script, devanāgarī
 
-357: see also guņa, exceptions to liñ (vidhi lin), see optative mode liñga, see gender lipi, see script, devanāgarī lips (oştha), 2 lit (parokşabhūte lit), see perfect locative absolute (sati saptamī), 265
+lips (oṣṭha), 2
 
-267: special problems of, 266-267 locative case (saptami vibhakti), 61,
+liṭ (parokṣabhūte liṭ), see perfect
 
-81-82 lot, see imperative love, objects of 82 lín, see conditional lịt, see future, simple lun, see aorist systems luț, see future, periphrastic lyabanta, gerund in-ya, 196-197
+locative absolute (sati saptamī), 265-267: special problems of, 266-267
 
-madhyamapuruṣa, see person: of loț,
+locative case (saptamī vibhakti), 61, 81-82
 
-197-199; see also person -mant: as adjectival suffix, 193-194;
+loṭ, see imperative
 
-see also derivational suffixes masculine gender (pumlinga), 59 memorization of paradigms, 63-64 mode (artha), of verbs, 47, 48, 51:
+love, objects of 82
 
-benedictive (āśīr liñ), see bendictive; imperative (lot), see imperative: optative (vidhi lin),
+lṛṅ, see conditional
 
-see optative mood, see mode mūrdhan, see hard palate mūrdhanya varga, see retroflexed
+lṛṭ, see future, simple
 
-sounds
+luṅ, see aorist systems
 
-labial sounds (oşthya varga, "pa"
+luṭ, see future, periphrastic
 
-varga), 2-3: pronunciation of, 7,
+lyabanta, gerund in -ya, 196-197
 
-nāgarī, see devanāgarī, script nāmadhātu, see denominative napumsakalinga, see neuter gender nasals: absolute final position of,
+madhyamapuruṣa, see person: of loṭ, 197-199; see also person
 
-13
+-mant: as adjectival suffix, 193-194; see also derivational suffixes
 
-laghu, “light,” syllables, 296, 316,
+masculine gender (pumliṅga), 59
 
-532
+memorization, of paradigms, 63-64
 
-31; external sandhi of, 40-42;
+mode (artha), of verbs, 47, 48, 51: benedictive (āśīr liṅ), see bendictive; imperative (loṭ), see imperative: optative (vidhi liṅ), see optative
 
-pronunciation of 6-8 negation: of adjectives, 106; of
+mood, see mode
 
-imperative, 201; of nouns, 106; of
+mūrdhan, see hard palate
 
-sentences, 106; of terms, 106 neuter gender (napumsakalinga), 59 nic, see causative nijanta, see causative nipātas, "particles,” 73 nominal composition (samāsa), see
+mūrdhanya varga, see retroflexed sounds
 
-compounds nominative case (prathamā), 60, 66
+nāgarī, see devanāgarī, script
 
-67
+nāmadhātu, see denominative
 
-non-a gaņas, 115: of lat, 120-126,
+napuṃsakaliṅga, see neuter gender
 
-127-128, 129-131, of lañ 14-45; of liñ (ātmanepada), 249; of liñ (parasmaipada) 248-249; of log,
+nasals: absolute final position of, 31; external sandhi of, 40-42; pronunciation of 6-8
 
-198-200; see also ganas non-aspiration (alpaprāna), 3,4 non-gaņa conjugations: anit roots of,
+negation: of adjectives, 106; of imperative, 201; of nouns, 106; of sentences, 106; of terms, 106
 
-273-274; causative (nic), 313-324; conditional (lm), 279, denomina tive (nāmadhātu), 333-336; desiderative (sannanta), 324-329; future (Irt, lut), 273-281; intensive (yaşanta, yaņluganta), 329-333; perfect (lit), 293-305; set roots of,
+neuter gender (napuṃsakaliṅga), 59
 
-273-274; vet roots of, 273-274 nonvoicing (aghoṣa), 3,4 nouns (nāmans, subantas), 59-64,
+ṇic, see causative
 
-93-95: citation of, 61-62; declen sions, of cited, see declensions cited; endings of, see endings; gender of (liñga), 59—feminine gender (strīlinga), 59, 79-80; masculine (pumlinga), 59, 62; neuter gender (napuņsakalinga), 59,63; irregular declensions of, 402-406; made from desiderative stems, 327-328; negation of, 106; number of, 47, 59—dual (dvivacana), 59-60; plural (bahuvacana), 59-60; singular
+ṇijanta, see causative
 
-(ekavacana), 59-60—; stem strength of, 137-38; stems ending in-a- , masculine, 62, neuter, 63; ā-, feminine, 79; -an mascu
+nipātas, "particles," 73
 
-line 139,140; neuter 140-141; -ant masculine (bhavant, bhagavant)
+nominal composition (samāsa), see compounds
 
-191, neuter 192, feminine 191; -aḥ neuter 157, masculine 157-158, feminine 157-158; i- masculine 91, feminine 92, neuter 94; -in masculine 207-208, neuter 208, feminine -ini 208; -iḥ neuter, 158; monosyllabic consonant final, 401-402—k [c], 401;-t, 402; - [j], 402—; monosyllabic vowel final— -au, 402—; -; masculine kinship 175, masculine agentive 175, feminine kinship 174, 175, neuter agentive, 176;u - masculine 93, neuter 93-94, feminine 94; 1 feminine, strīlinga, 113; -uh neuter, 159; -vāms masculine 306, -vat neuter 306, -usī feminine 306; -} masculine kinship 175, masculine agentive 175, feminine kinship 174,175, neuter agentive 176—; typical case endings of,
+nominative case (prathamā), 60, 66-67
 
-138-139 number. dual (dvivacana), of nouns,
+non-a gaṇas, 115: of laṭ, 120-126, 127-128, 129-131; of laṅ 14-45; of liṅ (ātmanepada), 249; of liṅ (parasmaipada) 248-249; of loṭ, 198-200; see also gaṇas
 
-47, 59-60; of verbs, 47, 48, 50; plural (bahuvacana) —nouns, 59 60; verbs, 50—; singular (ekavacana) — nouns, 59-60;
+non-aspiration (alpaprāṇa), 3,4
 
-verbs, 50 numbers (sāmkhyā): cardinal, 346
+non-gaṇa conjugations: aniṭ roots of, 273-274; causative (ṇic), 313-324; conditional (lṛṅ), 279; denominative (nāmadhātu), 333-336; desiderative (sannanta), 324-329; future (lṛṭ, luṭ), 273-281; intensive (yaṇanta, yaṇluganta), 329-333; perfect (liṭ), 293-305; seṭ roots of, 273-274; veṭ roots of, 273-274
 
-350—1-19, 346-347; catur (4), 349; declension of, 347-350; dvi (2), 348; eka (1), 347-348; pañca navadaśa (5-19), 349-350; şaş, 350; tri (3), 348-349—; chart of, 345-346; in compounds, see divgu ("two-cow") samāsa; in devanāgari script, 19; ordinal,
+nonvoicing (aghoṣa), 3,4
 
-533
+nouns (nāmans, subantas), 59-64, 93-95: citation of, 61-62; declensions, of cited, see declensions cited; endings of, see endings; gender of (liṅga), 59—feminine gender (strīliṅga), 59, 79-80; masculine (pumliṅga), 59, 62; neuter gender (napuṃsakaliṅga), 59, 63—; irregular declensions of, 402-406; made from desiderative stems, 327-328; negation of, 106; number of, 47, 59—dual (dvivacana), 59-60; plural (bahuvacana), 59-60; singular (ekavacana), 59-60—; stem strength of, 137-38; stems ending in— a-, masculine, 62, neuter, 63; ā-, feminine, 79; -an masculine 139,140; neuter 140-141; -ant masculine (bhavant, bhagavant) 191, neuter 192, feminine 191; -aḥ neuter 157, masculine 157-158, feminine 157-158; i- masculine 91, feminine 92, neuter 94; -in masculine 207-208, neuter 208, feminine -inī 208; -iḥ neuter, 158; monosyllabic consonant final, 401-402—k [c], 401; -t, 402; -ṭ [j], 402—; monosyllabic vowel final— -au, 402—; -ṛ masculine kinship 175, masculine agentive 175, feminine kinship 174,175, neuter agentive, 176; u- masculine 93, neuter 93-94, feminine 94; ī- feminine, strīliṅga, 113; -uḥ neuter, 159; -vāṃs masculine 306, -vat neuter 306, -uṣī feminine 306; -ṛ masculine kinship 175, masculine agentive 175, feminine kinship 174,175, neuter agentive 176—; typical case endings of, 138-139
 
-350-351 one (ekavacana): as pronominal
+number: dual (dvivacana), of nouns, 47, 59-60; of verbs, 47, 48, 50; plural (bahuvacana)—nouns, 59-60; verbs, 50—; singular (ekavacana)— nouns, 59-60; verbs, 50
 
-adjective, 85-86; number, 347
+numbers (saṃkhyā): cardinal, 346-350—1-19, 346-347; catur (4), 349; declension of, 347-350; dvi (2), 348; eka (1), 347-348; pañcanavadaśa (5-19), 349-350; ṣaṣ, 350; tri (3), 348-349—; chart of, 345-346; in compounds, see dvigu ("two-cow") samāsa; in devanāgarī script, 19; ordinal, 350-351
 
-348 optative mode (vidhi lin), 245-249:
+one (ekavacana): as pronominal adjective, 85-86; number, 347-348
 
-ātmanepada of a-gaņas, 249; ātmanepada of non-a gañas, 249; hypothesis, 246-247; mode sign of, 247-249; parasmaipada of a ganas, 247-248; parasmaipada of non-a gaņas, 248-249; prescrip
+optative mode (vidhi liṅ), 245-249: ātmanepada of a-gaṇas, 249; ātmanepada of non-a gaṇas, 249; hypothesis, 246-247; mode sign of, 247-249; parasmaipada of a-gaṇas, 247-248; parasmaipada of non-a gaṇas, 248-249; prescription, 245, 246
 
-tion, 245, 246 ordinal numbers, see numbers,
+ordinal numbers, see numbers, ordinal
 
-ordinal original finals, 30 oștha, see lips osthya varga, see labial sounds
+original finals, 30
 
-"pa" varga, see labial sounds pada, see voice palatal sounds (tālavya varga, "ca"
+oṣṭha, see lips
 
-varga), 2: pronunciation of, 6-7;
+oṣṭhya varga, see labial sounds
 
-dhanuh, "bow," 159, 114; dhih, *thought," 405; dāts, "giver," 176;
+"pa" varga, see labial sounds
 
-gatiḥ, "way, path," 92 ;gauḥ, "bull, cow," 404; havih, obla tion," 158; idam, "this," (neuter), 343; iyam, "this," (feminine), 343-344; kanyā, "girl,” 79; karma, "action," 140-141; karts, "doer," 175; madhu, "honey,” 93-94; maghavan, “Maghavan," 404-405; māts, “mother," 175; muniḥ, "muni, sage," 91; nāman, "name,"
+pada, see voice
 
-141; nau, “boat," 402; pathin, "road," 404; patiḥ, “husband, lord,” 403; pitr, "father," 175; puruṣaḥ, "man,"62; pustakam, "book," 63; rājan, “king," 140; rūpin,"possessed of form," 208; sakhi, “friend,” 403; saḥ, “he, that," 83; sā, “she, that," 84; şaş, *six," 350; śāstrabhịt, "weapon bearer," 402; satruḥ, "enemy," 93; śreyāms, “better," 406; tapaḥ, "austerities," 157; tat, "it, that," 83-84; tvam (tvat), "you," 72; vidvāms, "learned,” 306; visvasựj, "creator of the universe," 402; . vāc, "speech," 401; yogin, "yogi,"
+palatal sounds (tālavya varga, "ca" varga), 2: pronunciation of, 6-7; 13
 
-207-208 parasmaipada (also see voice), 52:
+palate: hard (mūrdhan), 3; soft (tālu), 3
 
-present indicative of (vartamāne
+pañcamī, see ablative case
 
-lat), 53; of nāmadhātu, 334 parokşabhūte lit, see perfect participles 176-177: see also verbal
+paradigms: memorization of, 63, 64; verbs— as, "to be," (laṭ), 58; bhāṣ, "to speak," (laṭ), 55; bhū, "to be" (luṭ), 280; bhū, "to be," (luṅ), 353; dā, "to give," (luṅ), 353; diś, "to point," (luṅ), 357; gam, "to go," (luṅ), 353; han, "to kill" (laṭ), 123; śam, "to calm," (luṅ), 357; vac, "to speak," (luṅ), 353; vad, "to speak," (laṭ), 55; vid, "to know," (yaṅluganta), 332—; nouns— aham (mat), "I," 71; ahan, "day," 405; akṣi, "eye," 404; ātman, "soul, self," 139; ayam, "this," (masculine), 343; bhagavant, "blessed," 191; catur, "four," 349; devī, "queen, lady," dhanuḥ, "bow," 159; 114; dhīḥ, "thought," 405; dātṛ, "giver," 176; gatiḥ, "way, path," 92; gauḥ, "bull, cow," 404; haviḥ, "oblation," 158; idam, "this," (neuter), 343; iyam, "this," (feminine), 343-344; kanyā, "girl," 79; karma, "action," 140-141; kartṛ, "doer," 175; madhu, "honey," 93-94; maghavan, "Maghavan," 404-405; mātṛ, "mother," 175; muniḥ, "muni, sage," 91; nāman, "name," 141; nau, "boat," 402; pathin, "road," 404; patiḥ, "husband, lord," 403; pitṛ, "father," 175; puruṣaḥ, "man," 62; pustakam, "book," 63; rājan, "king," 140; rūpin, "possessed of form," 208; sakhi, "friend," 403; saḥ, "he, that," 83; sā, "she, that," 84; ṣaṣ, "six," 350; śastrabhṛt, "weapon bearer," 402; śatruḥ, "enemy," 93; śreyāṃs, "better," 406; tapaḥ, "austerities," 157; tat, "it, that," 83-84; tvam (tvat), "you," 72; vidvāṃs, "learned," 306; viśvasṛj, "creator of the universe," 402; vāc, "speech," 401; yogin, "yogi," 207-208
 
-adjectives, kşdantas: bhūte kļdanta, 177-184; future (bhavisyatkāle krdanta), 278; gerundive or future passive participle (kstya), 281-286; indeclinable— gerund (tvānta, lyabanta), 194-197,321-322; infinitive (tumannanta), 225 227— past active participle
+parasmaipada (also see voice), 52: present indicative of (vartamāne laṭ), 53; of nāmadhātu, 334
 
-13
+parokṣabhūte liṭ, see perfect
 
-palate: hard (mūrdhan), 3; soft
+participles 176-177: see also verbal adjectives, kṛdantas: bhūte kṛdanta, 177-184; future (bhaviṣyatkāle kṛdanta), 278; gerundive or future passive participle (kṛtya), 281-286; indeclinable— gerund (tvānta, lyabanta), 194-197,321-322; infinitive (tumannanta), 225-227—; past active participle (ktavatu), 194; perfect participle, 305-306; present (vartamāne kṛdanta), 255-267
 
-(tālu), 3 pancami, see ablative case paradigms: memorization of, 63, 64;
+particles (nipātas), 73: iti, 73; sma, 73
 
-verbs- as, "to be," (lat), 58; bhāş, "to speak,” (lat), 55; bhū, "to be" (lut), 280; bhū, "to be," (luñ), 353; dā, "to give," (lun), 353; diś, “to point,” (lun), 357; gam, "to go," (lun), 353; han, “to kill” (lat), 123; śam, “to calm," (luñ), 357, vac, “to speak,” (lun), 353; vad, "to speak," (lat), 55; vid, “to know," (yanluganta), 332—; nouns-aham (mat), “I," 71; ahan, "day," 405; akşi, "eye," 404; ātman, “soul, self," 139; ayam, "this,” (masculine), 343; bhagavant, "blessed," 191; catur, "four," 349; devi, "queen, lady,"
+parts of speech, 48-73, 64-73
 
-534
+passive, see karmaṇi prayoga
 
-15
+past active participle (ktavatu), 194
 
-(ktavatu), 194; perfect participle, hard palate (mūrdhan), 2; lips 305-306; present (vartamāne
+past passive participle, see bhūte kṛdanta
 
-(oștha), 2; soft palate (tālu); teeth krdanta), 255-267
+past tense (bhūtakāla), see also tense: ktavatu, past active participle as, 194; laṅ has present system as basis of, 113-114; laṅ, see imperfect; liṭ, see perfect; sma as marker of, 73
 
-(danta), 2; velum (kantha), 2 particles (nipātas), 73: iti, 73; sma, post-consonantal forms of vowels,
+perfect (parokṣabhūte liṭ), 293-305: endings of, 301-303; examples of, 303-304; formation of, 294-303; of causative, 323; periphrastic, 304-305— formation of, 304-305—; reduplication (abhyāsa) in, 295-297—of consonants, 295; of root medial vowels, 295-296; of root final vowels, 295-296; of root initial vowels, 296-297; exceptions to, 297-298; loss of (abhyāsalopa), 297-298; etvam, 297-298, 300—; stem strength in, 298-301; use of, 293-294
 
-73 parts of speech, 48-73, 64-73
+periphrastic: future (luṭ), see future, periphrastic; perfect (liṭ), see perfect, periphrastic
 
-pragphya vowels, 29 passive, see karmaņi prayoga prakrti (base), of taddhita (second past active participle (ktavatu), 194 ary derivation), see derivational past passive participle, see bhūte suffixes
+person: of verbs, 47,48,49-50; first person (uttamapuruṣa), 49-50; second person (madhyamapuruṣa), 49-50— of loṭ, 197-199—; third person (prathamapuruṣa), 49-50—of loṭ, 199-200
 
-krdanta
+personal pronouns, see pronouns, personal
 
-prathamă vibhakti, see nominative past tense (bhūtakāla), see also
+phonology, 1ff
 
-case, 60, 66-67 tense: ktavatu, past active
+plural (bahuvacana), see number
 
-prathamapuruṣa, see person participle as, 194; lañ has present pratyaya, see derivational suffixes system as basis of, 113-114; lan, preraka, see causative see imperfect; lit, see perfect; sma prescription in optative mode, 245, as marker of, 73
+points of articulation (sthāna-s), 2: hard palate (mūrdhan), 2; lips (oṣṭha), 2; soft palate (tālu); teeth (danta), 2; velum (kaṇṭha), 2
 
-246 perfect (parokşabhūte lit), 293-305: present indicative (vartamāne lat),
+post-consonantal forms of vowels, 15
 
-endings of, 301-303; examples of, 53-58, 113-114: ātmanepada of, 303-304; formation of, 294-303; 54; characteristic clues to, 54-55; of causative, 323; periphrastic, endings of, 53-54; has present 304-305— formation of, 304- system as basis of, 113-114; 305—; reduplication (abhyāsa) in, internal sandhi of, 56-57; 295-297- of consonants, 295; of parasmaipada of, 53; strong forms root medial vowels, 295-296; of of, 115; weak forms of, 115 root final vowels, 295-296; of root present participle (vartamāne initial vowels, 296-297; excep- kşdanta), 255-267: absolute tions to, 297-298; loss of
+pragrhya vowels, 29
 
-constructions (sati saptami / sataḥ (abhyāsalopa), 297-298; etvam, şaşthī) and, 265-267, bhāve of, 297-298, 300—; stem strength in, 262-263; formation of, 259-264; 298-301; use of, 293-294
+prakṛti (base), of taddhita (secondary derivation), see derivational suffixes
 
-karmaṇi of, 262-263; of periphrastic: future (lut), see future, ātmanepada roots, 262; of
+prathamā vibhakti, see nominative case, 60, 66-67
 
-periphrastic; perfect (lit), see parasmaipada roots, 259-61– perfect, periphrastic
+prathamapuruṣa, see person
 
-masculine, 259-260; feminine, person: of verbs, 47,48,49-50; first 261; neuter, 261-262—; special
+pratyaya, see derivational suffixes
 
-person (uttamapuruṣa), 49-50; applications of, 263-264; use of, second person (madhyama
+preraka, see causative
 
-255-259 puruṣa), 49-50 of lot, 197- present stem: as basis of lañ, 142; 1996; third person (prathama- formation of, 118-32
+prescription in optative mode, 245, 246
 
-puruşa), 49-50of loț, 199-200 present system, 113-132: as basis of personal pronouns, see pronouns, the lat, lañ, liñ, and lot, 113-114;
+present indicative (vartamāne laṭ), 53-58, 113-114: ātmanepada of, 54; characteristic clues to, 54-55; endings of, 53-54; has present system as basis of, 113-114; internal sandhi of, 56-57; parasmaipada of, 53; strong forms of, 115; weak forms of, 115
 
-personal
+present participle (vartamāne kṛdanta), 255-267: absolute constructions (sati saptamī / sataḥ ṣaṣṭhī) and, 265-267; bhāve of, 262-263; formation of, 259-264; karmaṇi of, 262-263; of ātmanepada roots, 262; of parasmaipada roots, 259-61— masculine, 259-260; feminine, 261; neuter, 261-262—; special applications of, 263-264; use of, 255-259
 
-classes of, see ganas; ganas phonology, 1ff
+present stem: as basis of laṅ, 142; formation of, 118-32
 
-(classes) of, see ganas; imperative plural (bahuvacana), see number (lot) of, see imperative; of points of articulation (sthāna-s), 2:
+present system, 113-132: as basis of the laṭ, laṅ, liṅ, and loṭ, 113-114; classes of, see gaṇas; gaṇas (classes) of, see gaṇas; imperative (loṭ) of, see imperative; of causative, 318-319; optative (vidhi liṅ) of, see optative; past tense of, see imperfect (laṅ); present indicative (laṭ) of, see present indicative; present participle (vartamāne kṛdanta) of, see present participle; verbal base of, 114
 
-535
+present tense (vartamāne kāla), see tense
+
+preterite augment (āgama), 142, 352, 353
+
+primary derivations (kṛdanata), see kṛdanta, derivational suffixes
+
+progressive assimilation, 30
+
+pronouns (sarvanāmans): adjectives that follow pronominal declensions, 85-87; bhavant, "you polite," 192-193; demonstrative, 82-87—masculine (pumliṅga), 83, 343-345; neuter (napuṃsakaliṅga), 83-84, 343-345; feminine (strīliṅga), 84, 343-345—; etat, "this," 85; in compound, 218; personal, 71-73— prathamapuruṣa, "first person=third person," 82-87—masculine, saḥ, "he," 83; neuter, tat, "it," 83-84; feminine, sā, "her," 84—; madhyamapuruṣa, "middle person," tvam, "you," 72; uttamapuruṣa, "last person=first person" aham, "I," 71—; possessive, 73, 383; reflexive—ātman, 139; sva, 172, 310
+
+pronunciation, 4-8: of anusvāra, 8; of consonants (vyañjanas), 5-8; of semivowels (antaḥsthas),7; of sibilants (ūṣmans), 7; of stops (sparśas), 5-7; of visarga, 8; of vowels (svaras), 5
+
+pumliṅga, see masculine gender
+
+puruṣa, see person
 
 quotes, see "iti"
 
-.
+reduplication (abhyāsa): general rules of, 124; loss of (abhyāsalopa), 297-298; of aorist, 357; of desiderative, 325-327; of intensive, 329-331; of perfect (liṭ), 295-297; of third gaṇa, 124-125
 
-.
+reflexive pronoun, see pronoun, reflexive
 
-.
+regressive assimilation, 38
 
-.
+retroflexed sounds (mūrdhanya varga, "ṭ" varga), 2: pronunciation of, 6; 13
 
-.
+root aorist, see aorist
 
-causative, 318-319; optative (vidhi lin) of, see optative; past tense of, see imperfect (lan); present indicative (lat) of, see present indicative; present participle (vartamāne krdanta) of, see present participle; verbal base of, 114 present tense (vartamāne kāla), see
+roots, verbal (dhātus): akarmaka, "intransitive," 65; and secondary conjugations— causative (ṇic), 313-324; desiderative (sannanta), 324-329; intensive (yaṇanta, yaṇluganta), 329-333; denominative (nāma-dhātu), 333-336—; and tertiary conjugations, 329; and present system, 114; aniṭ, 273-274; classes (gaṇas) of, 114-132; of motion, 65; sakarmaka, "transitive," 65; samprasāraṇa (reduction) of, 168; seṭ, 273-274; veṭ, 273-274; see also verbs, of
 
-tense preterite augment (āgama), 142,
+rudh or seventh gaṇa, 129-131: marker of, 129; internal consonant sandhi of, 130; examples of, 131
 
-352, 353 primary derivations (kļdanata), see
+"s" aorist, see aorist, sibilant
 
-kşdanta, derivational suffixes progressive assimilation, 30 pronouns (sarvanāmans): adjectives
+"sa" aorist, see aorist, sibilant
 
-that follow pronominal declen sions, 85-87; bhavant, "you polite," 192-193; demonstrative, 82-87—masculine (puslinga), 83, 343-345; neuter (napumsaka liñga), 83-84, 343-345; feminine (strīlinga), 84, 343-345— etat, "this," 85; in compound, 218; personal, 71-73 prathama puruşa, "first person=third person," 82-87—masculine, saḥ, "he," 83; neuter, tat, "it," 83-84; feminine, sā, "her," 84 madhyamapuruṣa, "middle person," tvam, "you,” 72; uttamapuruşa, "last person=first person" aham, “I," 71%; posses sive, 73, 383; reflexive-ātman,
+sakarmaka-dhātus, "transitive roots," 65: bhūte kṛdanta of, see bhūte kṛdanta; of causatives, see causative; of karmaṇi prayoga, see karmaṇi prayoga
 
-139; sva, 172, 310 pronunciation, 4-8: of anusvāra, 8;
+sāmānyabhaviṣyatkāle lṛṭ, see future simple
 
-of consonants (vyañjanas), 5-8; of semivowels (antaḥsthas),7; of sibilants (ūşmans), 7; of stops (sparśas), 5-7; of visarga, 8; of
-
-vowels (svaras), 5 pumlinga, see masculine gender puruşa, see person
-
-reduplication (abhyāsa): general
-
-rules of, 124; loss of (abhyāsa lopa), 297-298; of aorist, 357; of desiderative, 325-327; of inten sive, 329-33.1; of perfect (lit),
-
-295-297; of third gaña, 124-125 reflexive pronoun, see pronoun,
-
-reflexive regressive assimilation, 38 retroflexed sounds (mūrdhanya
-
-varga, "x" varga), 2: pronunciation
-
-of, 6; 13 root aorist, see aorist roots, verbal (dhātus): akarmaka,
-
-“intransitive," 65; and secondary conjugations- causative (pic), 313-324; desiderative (sannanta), 324-329; intensive (yaşanta, yaņluganta), 329-333; denomina tive (nāma-dhātu), 333-336 ; and tertiary conjugations, 329; and present system, 1:14; anit, 273-274; classes (gaņas) of, 1:14 132; of motion, 65; sakarmaka, "transitive," 65; samprasāraņa (reduction) of, 168; set, 273-274;
-
-veț, 273-274; see also verbs, of rudh or seventh gana, 129-131:
-
-marker of, 129; internal consonant sandhi of, 130; examples of, 131
-
-"s" aorist, see aorist, sibilant "sa" aorist, see aorist, sibilant sakarmaka-dhātus,'transitive
-
-roots," 65: bhūte kşdanta of, see bhūte kļdanta; of causatives, see causative; of karmaņi prayoga, see
-
-karmaņi prayoga sāmānyabhavișyatkāle lrt, see future
-
-simple samāsa, see compounds
-
-536
+samāsa, see compounds
 
 sambodhana, see vocative 61
 
-forms of vowels in, 15-16; special sāmkhyā, see numbers
+sāṃkhyā, see numbers
 
-conjuncts in, 17-18; syllable samprasāraņa (reduction), in
+samprasāraṇa (reduction), in karmaṇi, 168
 
-boundaries in, 18-19; vowel “a” karmaņi, 168
+sandhi, external, 23-42: of consonants— absolute final position of, 30-32; final position of, 30; general principals of, 38-39; initial position of 29; of nasals, 40-42; of original final "r", 37-38; of original final "s," 32-37; of stops (sparśas), 38-40; progressive assimilation of, 38; regressive assimilation of, 38—; of vowels— absolute final position of, 32; coalescence (of vowels), 24-25; coalescence of dissimilar vowels, 25; coalescence of similar vowels, 24; final position of, 30; hiatus in, 29; initial position of, 30; of complex vowels, 27-28; of dissimilar vowels, 26; pragṛhya vowels, 29; word final position of, 30
 
-in, 13 sandhi, external, 23-42: of conso- secondary conjugations, see:
+sandhi, internal, 25, 42-44: consonant of (verbs), 120-121, 130-131; consonant, in reference to bhūte kṛdanta,181-183; guṇa, 25-26; in future, 275-277; of n> ṇ, 43-44; of present indicative (vartamāne laṭ), 56, 57; of s>ṣ, 43; of taddhitas (secondary derivations), 378-379; samprasāraṇa, 168; vowel strength in, 25; vṛddhi, 25-26
 
-nants- absolute final position of, causative (nic), 313-324; denomi 30-32; final position of, 30;
+sannanta, see desiderative
 
-native (nāmadhātu), 333-336; general principals of, 38-39;
+saptamī, see locative case
 
-desiderative (sannanta), 324-329; initial position of 29; of nasals, intensive (yaşanta, yaņluganta), 40-42; of original final “r", 37-38; 329-333 of original final “s," 32-37; of secondary derivation (taddhita), see stops (sparśas), 38-40; progressive derivational affixes assimilation of, 38; regressive secondary endings, see endings, assimilation of, 38—; of vowels- secondary absolute final position of, 32; semivowels (antaḥsthas), 4: pronun coalescence (of vowels), 24-25; ciations of, 7, 13 coalescence of dissimilar vowels, sentences: active construction 25; coalescence of similar vowels (kartari prayoga) of, 64-65; bhāve 24; final position of, 30; hiatus in, prayoga (abstract construction) of, 29; initial position of, 30; of
+sarvanāmans, see pronouns
 
-see bhāve prayoga; clauses of, 97 complex vowels, 27-28; of
+sati saptamī (locative absolute), 265-267
 
-98; complex, 95-106; indefinite dissimilar vowels, 26; pragshya constructions in, 105-106; vowels, 29; word final position of, interrogative, 95-97; karmaņi
+script (lipi), devanāgarī, 1, 13ff: avagraha (separation), 19; consonant conjuncts in, 16-18; numbers in, 19; post-consonantal forms of vowels in, 15-16; special conjuncts in, 17-18; syllable boundaries in, 18-19; vowel "a" in, 13
 
-prayoga (Sanskrit “passive"), see sandhi, internal, 25, 42-44: conso- karmaņi prayoga; kartari prayoga
+secondary conjugations, see: causative (ṇic), 313-324; denominative (nāmadhātu), 333-336; desiderative (sannanta), 324-329; intensive (yaṇanta, yaṇluganta), 329-333
 
-nant of (verbs), 120-121, 130-131; (active construction), 64-65, 164; consonant, in reference to bhūte main parts of, 64-65; negation of, kşdanta, 181-183; guņa, 25-26; in 106; passive constructions, see future, 275-277; of n>ņ, 43-44; of karmaṇi prayoga; word order in, present indicative (vartamāne lat), 70 56, 57, of s>s, 43; of taddhitas seț roots, 273-274 (secondary derivations), 378-379; şaşthi, see genitive case 61 samprasārana, 168; vowel
+secondary derivation (taddhita), see derivational affixes
 
-şaşthi sataḥ (genitive absolute), 265 strength in, 25; v;ddhi, 25-26
+secondary endings, see endings, secondary
 
-267 sannanta, see desiderative
+semivowels (antaḥsthas), 4: pronunciations of, 7, 13
 
-sibilant aorist, see aorist saptamī, see locative case
+sentences: active construction (kartari prayoga) of, 64-65; bhāve prayoga (abstract construction) of, see bhāve prayoga; clauses of, 97-98; complex, 95-106; indefinite constructions in, 105-106; interrogative, 95-97; karmaṇi prayoga (Sanskrit "passive"), see karmaṇi prayoga; kartari prayoga (active construction), 64-65, 164; main parts of, 64-65; negation of, 106; passive constructions, see karmaṇi prayoga; word order in, 70
 
-sibilants (üşmans), 4: absolute final sarvanāmans, see pronouns
+seṭ roots, 273-274
 
-position of, 31; pronunciation of sati saptami (locative absolute), 265- 7; 13; sandhi of original final “s,"
+ṣaṣṭhī, see genitive case 61
 
-267
+ṣaṣṭhī sataḥ (genitive absolute), 265-267
 
-. 32-37 script (lipi), devanāgari, 1, 13ff: simple aorists, see aorist
+sibilant aorist, see aorist
 
-avagraha (separation), 19; singular (ekavacana), see number consonant conjuncts in, 16-18; "siş" aorist, see aorist, sibilant numbers in, 19; post-consonantalsma, as marker of past tense, 73
+sibilants (ūṣmans), 4: absolute final position of, 31; pronunciation of 7; 13; sandhi of original final "s," 32-37
 
-30
+simple aorists, see aorist
 
-537
+singular (ekavacana), see number
 
-svara-s, see vowels syllables (akşaras), 18: anusvāra in,
+"siṣ" aorist, see aorist, sibilant
 
-18; boundaries of, 18-19; heavy, "guru," 357; light, "laghu," 357;
+sma, as marker of past tense, 73
 
-visarga in, 18 syntactic compounds, see tatpurușa
+soft palate (tālu), 2
 
-compounds syntax, see sentences, clauses
+sounds: absolute final position of, 30-32; final position of, 30; initial position of, 29; original finals, 30
 
-"ta" varga, see retroflexed sounds "ta" varga, see dental sounds taddhitas (secondary derivations),
+sparśas, see stops
 
-see derivational affixes tālavya varga, see palatal sounds tālu, see soft palate tan or eighth gaña, 127-128:
+sthāna, see points of articulation
 
-important roots of, 127; root kr in, 127-128; rules for, 127; strong
+stops (sparśas or points of contact), 2, 3: external sandhi of, 38-40; in absolute final position, 31; pronunciation of, 5-7; 13
 
-forms of, 127 tat, "that," see pronouns, demonstra
+strength: in imperative (loṭ), 198; of sibilant aorist, 354-356; of agent nouns (-tṛ), 173; of future (lṛṭ), 274; of gerundive (kṛtya), 284-287; of infinitive (tumannanta), 225; of kṛdantas (primary derivations), 368, 370, 372-376; of liṭ (perfect), 297-301; of ṇijanta (causative), 316-318; of nouns stems, 137, 173; of sannanta (desiderative), 326; of taddhitas (secondary derivations), 378, 380, 381, 383-385, of verbal roots (dhātus), 118, 120, 125, 127, 129, 132, 248, 249, 274, 316-318, 297-301, 316-318; of vidhi liṅ (optative), 248, 249; of vowels, see also guṇa, vṛddhi; of reduplicated syllables (intensive), 330
 
-tive
+stress, 9
 
-soft palate (tālu), 2 sounds: absolute final position of,
+strīliṅga, see feminine gender
 
-30-32; final position of, 30; initial
+strong forms of verbs: of laṭ, 115; of liṭ, 297-301; see also guṇa, strength
 
-position of, 29; original finals, 30 sparsas, see stops sthāna, see points of articulation stops (sparsas or points of contact),
+su or fifth gaṇa, 127-128: important roots of, 127; rules for, 127; strong forms of, 127
 
-2, 3: external sandhi of, 38-40; in absolute final position, 31;
+subantas, see nouns
 
-pronunciation of, 5-7; 13 strength: in imperative (lot), 198; of
+subject (kartṛ) as part of speech, 64
 
-sibilant aorist, 354-356; of agent nouns (-tr), 173; of future (Irt), 274; of gerundive (krtya), 284- 287; of infinitive (tumannanta), 225; of kȚdantas (primary deriva- tions), 368, 370, 372-376; of lig (perfect), 297-301; of ņijanta (causative), 316-318; of nouns stems, 137, 173; of sannanta (desiderative), 326; of taddhitas (secondary derivations), 378, 380, 381, 383-385, of verbal roots (dhātus), 118, 120, 125, 127, 129, 132, 248, 249, 274, 316-318, 297 301, 316-318; of vidhi lin (optative), 248, 249; of vowels, see also guņa, vặddhi; of redupli-
+subordinate clauses, 97
 
-cated syllables (intensive), 330 stress, 9 striliñga, see feminine gender strong forms of verbs: of lat, 115; of
+superlative suffix (utkarṣavācaka): in -iṣṭa, 387; in -tama, 386-387; irregular forms of, 387
 
-lit, 297-301; see also guņa,
+svara-s, see vowels
 
-strength su or fifth gaña, 127-128: important
+syllables (akṣaras), 18: anusvāra in, 18; boundaries of, 18-19; heavy, "guru," 357; light, "laghu," 357; visarga in, 18
 
-roots of, 127; rules for, 127;
+syntactic compounds, see tatpuruṣa compounds
 
-strong forms of, 127 subantas, see nouns subject (karts) as part of speech, 64 subordinate clauses, 97 superlative suffix (utkarşavācaka):
+syntax, see sentences, clauses
 
-in -ista, 387; in-tama, 386-387; irregular forms of, 387
+"ṭa" varga, see retroflexed sounds
 
-tatpuruşa (syntactic) compounds,
+"ta" varga, see dental sounds
 
-214-215: bahuvrīhi application of, 234; formation of, 215-218;
+taddhitas (secondary derivations), see derivational affixes
 
-vigrahas of, 214 teeth (danta), 2 tense (kāla), of verbs, 47, 48, 51 tertiary verbs (e.g., desiderative of
+tālavya varga, see palatal sounds
 
-the causative), 329 that, "asau, adaḥ," 343-344: see
+tālu, see soft palate
 
-also pronouns, demonstrative;
+tan or eighth gaṇa, 127-128: important roots of, 127; root kṛ in, 127-128; rules for, 127; strong forms of, 127
 
-this, "ayam, idam, iyam" that, "tat": feminine (strīlinga), 84; - masculine (pumlinga), 83; neuter (napuņsakalinga), 83-84; see also
+tat, "that," see pronouns, demonstrative
 
-pronouns, demonstrative this, “etat," 85 this, "ayam, idam, iyam,” 343 tiñantas, see verbs transitive roots, "sakarmaka
+tatpuruṣa (syntactic) compounds, 214-215: bahuvrīhi application of, 234; formation of, 215-218; vigrahas of, 214
 
-dhātus," 65: bhūte krdanta of, see bhūte kȚdanta; of causatives, see causative
+teeth (danta), 2
 
-538
+tense (kāla), of verbs, 47, 48, 51
 
-tļtīyā (instrumental), 60, 68-69 tud or sixth gana, 129: common
+tertiary verbs (e.g., desiderative of the causative), 329
 
-roots of, 129; rules for, 129 tumannanta, see infinitive tvam, “you," paradigm of, 72 tvānta, gerund in tvā, 195-196
+that, "asau, adaḥ," 343-344: see also pronouns, demonstrative; this, "ayam, idam, iyam"
 
-ubhayapada (also see voice), 52 upapada (reduced word) com
+that, "tat": feminine (strīliṅga), 84; masculine (pumliṅga), 83; neuter (napuṃsakaliṅga), 83-84; see also pronouns, demonstrative
 
-pounds, 219 upasargas, see verbal prefixes ūşmans ("heated" sounds), see
+this, "etat," 85
 
-sibilants utkarşavācaka, see comparative,
+this, "ayam, idam, iyam," 343
 
-superlative uttamapuruşa, see person
+tiṅantas, see verbs
 
-vacana, see number vad, (lat) paradigm of, 55 -vant: as adjectival suffix, 193-194;
+transitive roots, "sakarmaka-dhātus," 65: bhūte kṛdanta of, see bhūte kṛdanta; of causatives, see causative
 
-as ktavatu, past active participle,
+tṛtīyā (instrumental), 60, 68-69
 
-194 vargas (sets of sounds), 2, 3, 4 vartamāne kāla (present tense), see
+tud or sixth gaṇa, 129: common roots of, 129; rules for, 129
 
-tense vartamāne kşdanta, see present
+tumannanta, see infinitive
 
-participle vartamāne lat (present indicative),
+tvam, "you," paradigm of, 72
 
-53-58" -vat: as adjectival suffix (pratyaya),
+tvānta, gerund in tvā, 195-196
 
-387, as adverb, 407 velar sounds (kanthya varga, “ka"
+ubhayapada (also see voice), 52
 
-varga), 2: pronunciation of, 7, 13 velum (kantha), 2 verbal adjectives, see adjectives,
+upapada (reduced word) compounds, 219
 
-verbal and participles verbal prefixes (upasargas), 144
+upasargas, see verbal prefixes
 
-152: analytic, 145; chart of, 146 151; idiomatic, 145-146; place ment of, 152; pleonastic, 145 verbs (tiñantas, kriyāpada), 47-58, 64-65: aorist (luñ) systems of, 251-259; ātmanepada, 52;
+ūṣmans ("heated" sounds), see sibilants
 
-benedictive (āśīr lin), 249-250; conditional (Iță), see conditional; conjugation of (see also conjuga tion of verbs), 53-60; endings of-primary, 53-54; secondary, 143—; finite, 48-49; future (Irt, luț), see future; ganas of, 114 132-eighth or tan, 127-128; fifth or su, 127-128; first or bhū, 118 120; fourth or div, 126; ninth or krī, 131-132; second or ad, 120 123; seventh or rudh, 129-131; sixth or tud, 129; tenth or cur, 132; third or hu, 123-126 ; imperfect (adyantanabhūte lan), see imperfect; karmaņi prayoga (Sanskrit “passive") of, see karmaņi prayoga; mode (artha), 47, 48, 51; mood of, see mode of; number (vacana), 47, 48, 50; of motion, 65, 67; parasmaipada, 52; passive of, see karmaņi prayoga; person (puruşa), 47, 48, 49-50; prefixes of, see verbal prefixes (upasargas); present indicative (vartamāne lat), 53-58— ātmane pada of, 54; characteristic clues to, 54-55; internal sandhi of, 56 57; parasmaipada of, 53; strong and weak forms in, 115—; present system of, 114-132, see also present system; roots of (dhātus), 47-48,64—-akarmaka, "intransi tive," 65; sakarmaka,"transitive," 65—; secondary conjugations of- causative (nic), 313-324; denominative (nāmadhātu), 333 336; desiderative (sannanta), 324 329; intensive (yaņanta, yaņlug anta), 329-333; strong and weak forms of, 115; tertiary, 329; tense (kāla), 47, 48, 51; ubhaya pada, 52; voice (pada), 47, 48, 52539
+utkarṣavācaka, see comparative, superlative
 
-verses cited: asphotayāmāsa
+uttamapuruṣa, see person
 
-pronunciation of, 8; writing of, 14 cucumba puccham, 337; bho višeşaņas, see adjectives dāridryam, 107; bodhāya jāto 'smi vocalic !, pronunciation of, 13 jagaddhitārtham, 394; citām voice of verbs (pada), 47, 48, 52: prajvalitām drstvā, 185; dhaniyā ātmanepada, 52; parasmaipada, draksyanti rāmasya, 287;
+vacana, see number
 
-52; ubhayapada, 52 dharmakşetre kuruksetre, 328; voicing (ghosa), 3,4 durjanah parihartavyo, 360; vowels (svaras), 1-2, 13: coales dvandvo digur api, 220;
+vad, (laṭ) paradigm of, 55
 
-cence of, 24-25; pragļhya, 29; gospadīkệtavārāśim, 237; ito na pronunciation of, 5; sandhi of kimcit, 133; keyūrā na
+-vant: as adjectival suffix, 193-194; as ktavatu, past active participle, 194
 
-complex, 27-28; sandhi of vibhūşayanti puruşam, 153;
+vargas (sets of sounds), 2, 3, 4
 
-dissimilar, 26; samyukta (com kūjantam rāma rāmeti, 268;
+vartamāne kāla (present tense), see tense
 
-plex), 2; śuddha (simple), 2; niyujyamāno rājyasya, 307;
+vartamāne kṛdanta, see present participle
 
-strength of (guņa, vặddhi), 25-26 pūjyate yad apūjo 'pi, 170; rājā (see also guņa, vsddhi); writing daśarathaḥ svargam, 307; rāmo of, 13,15-16 rājamaṇiḥ sadā vijayate, 88; vỊddhi, 25-26: as sign of taddhita tsşņam chinddhi bhaja kşamām (secondary derivation), 378-379, jahi madam, 203; valibhir
+vartamāne laṭ (present indicative), 53-58
 
-381, 383-385; of causative mukham ākrāntam, 337; vālmiker (ni janta), 317; of gerundives, 284; munisimhasya, 268; yathā kāstam of sibilant aorist, 354 ca kāştam ca, 247
+-vat: as adjectival suffix (pratyaya), 387, as adverb, 407
 
-vyañjanas: aspiration of, 3,4; non veț roots, 273-274
+velar sounds (kaṇṭhya varga, "ka" varga), 2: pronunciation of, 7, 13
 
-aspiration, 3,4; nonvoicing of, 3,4; vibhakti, see case 60-61: caturthi pronunciation of, 5-8; voicing of,
+velum (kaṇṭha), 2
 
-(dative), 60; dvitīyā (accusative), 3,4; writing of, 13-14, 16-18; see 60, 67; pañcami, (ablative), 61; also consonants
+verbal adjectives, see adjectives, verbal and participles
 
-prathamā (nominative), 60, 66-67; sapatmi (locative), 61; sambodha- weak forms of verbs, 115: of vidhi na (vocative), 61; şaşthi (geni- liñ (optative), 248, 249 tive), 61, 69; třtiyā (instrumental), word final positions of sounds, 30 60, 68-69
+verbal prefixes (upasargas), 144-152: analytic, 145; chart of, 146-151; idiomatic, 145-146; placement of, 152; pleonastic, 145
 
-word order: in sentences, 70; in vidhi liñ, see optative mode
+verbs (tiṅantas, kriyāpada), 47-58, 64-65: aorist (luṅ) systems of, 251-259; ātmanepada, 52; benedictive (āśīr liṅ), 249-250; conditional (lṛṅ), see conditional; conjugation of (see also conjugation of verbs), 53-60; endings of—primary, 53-54; secondary, 143—; finite, 48-49; future (lṛṭ, luṭ), see future; gaṇas of, 114-132—eighth or tan, 127-128; fifth or su, 127-128; first or bhū, 118-120; fourth or div, 126; ninth or krī, 131-132; second or ad, 120-123; seventh or rudh, 129-131; sixth or tud, 129; tenth or cur, 132; third or hu, 123-126—; imperfect (adyantanabhūte laṅ), see imperfect; karmaṇi prayoga (Sanskrit "passive") of, see karmaṇi prayoga; mode (artha), 47, 48, 51; mood of, see mode of; number (vacana), 47, 48, 50; of motion, 65, 67; parasmaipada, 52; passive of, see karmaṇi prayoga; person (puruṣa), 47, 48, 49-50; prefixes of, see verbal prefixes (upasargas); present indicative (vartamāne laṭ), 53-58— ātmanepada of, 54; characteristic clues to, 54-55; internal sandhi of, 56-57; parasmaipada of, 53; strong and weak forms in, 115—; present system of, 114-132, see also present system; roots of (dhātus), 47-48, 64—akarmaka, "intransitive," 65; sakarmaka, "transitive," 65—; secondary conjugations of— causative (ṇic), 313-324; denominative (nāmadhātu), 333-336; desiderative (sannanta), 324-329; intensive (yaṇanta, yaṇluganta), 329-333—; strong and weak forms of, 115; tertiary, 329; tense (kāla), 47, 48, 51; ubhayapada, 52; voice (pada), 47, 48, 52
 
-compounds (tatpurusas, vigrahas (analysis) of compounds, karmadhārayas), 209-210; in
+verses cited: āsphoṭayāmāsa cucumba puccham, 337; bho dāridryam, 107; bodhāya jāto 'smi jagaddhitārtham, 394; citāṃ prajvalitāṃ dṛṣṭvā, 185; dhanyā drakṣyanti rāmasya, 287; dharmakṣetre kurukṣetre, 328; durjanaḥ parihartavyo, 360; dvandvo digur api, 220; gospadikṛtavārāśim, 237; ito na kimcit, 133; keyūrā na vibhūṣayanti puruṣam, 153; kūjantaṃ rāma rāmeti, 268; niyujyamāno rājyasya, 307; pūjyate yad apūjo 'pi, 170; rājā daśarathaḥ svargam, 307; rāmo rājamaṇiḥ sadā vijayate, 88; tṛṣṇaṃ chinddhi bhaja kṣamāṃ jahi madam, 203; valibhir mukham ākrāntam, 337; vālmīker munisimhasya, 268; yathā kāṣṭaṃ ca kāṣṭaṃ ca, 247
 
-216-217: of bahuvrihis, 228, 231- dvandvas, 242-243 233; of dvandvas, 242; of karmadhārayas, 212, 213-214; of yañanta, see intensive tatpurusas, 214
+veṭ roots, 273-274
 
-yanluganta, see intensive virāma, 14,
+vibhakti, see case 60-61: caturthī (dative), 60; dvitīyā (accusative), 60, 67; pañcamī, (ablative), 61; prathamā (nominative), 60, 66-67; saptamī (locative), 61; sambodhana (vocative), 61; ṣaṣṭhī (genitive), 61, 69; tṛtīyā (instrumental), 60, 68-69
 
-"you," see tvam visarga, 4: as part of syllable, 18;
+vidhi liṅ, see optative mode
 
-кег
+vigrahas (analysis) of compounds, 216-217: of bahuvrīhis, 228, 231-233; of dvandvas, 242; of karmadhārayas, 212, 213-214; of tatpuruṣas, 214
+
+virāma, 14,
+
+visarga, 4: as part of syllable, 18; pronunciation of, 8; writing of, 14
+
+viśeṣaṇas, see adjectives
+
+vocalic l, pronunciation of, 13
+
+voice of verbs (pada), 47, 48, 52: ātmanepada, 52; parasmaipada, 52; ubhayapada, 52
+
+voicing (ghoṣa), 3,4
+
+vowels (svaras), 1-2, 13: coalescence of, 24-25; pragṛhya, 29; pronunciation of, 5; sandhi of complex, 27-28; sandhi of dissimilar, 26; samyukta (complex), 2; śuddha (simple), 2; strength of (guṇa, vṛddhi), 25-26 (see also guṇa, vṛddhi); writing of, 13,15-16
+
+vṛddhi, 25-26: as sign of taddhita (secondary derivation), 378-379, 381, 383-385; of causative (ṇijanta), 317; of gerundives, 284; of sibilant aorist, 354
+
+vyañjanas: aspiration of, 3,4; non-aspiration, 3,4; nonvoicing of, 3,4; pronunciation of, 5-8; voicing of, 3,4; writing of, 13-14, 16-18; see also consonants
+
+weak forms of verbs, 115: of vidhi liṅ (optative), 248, 249
+
+word final positions of sounds, 30
+
+word order: in sentences, 70; in compounds (tatpuruṣas, karmadhārayas), 209-210; in dvandvas, 242-243
+
+yaṇanta, see intensive
+
+yaṇluganta, see intensive
+
+"you," see tvam

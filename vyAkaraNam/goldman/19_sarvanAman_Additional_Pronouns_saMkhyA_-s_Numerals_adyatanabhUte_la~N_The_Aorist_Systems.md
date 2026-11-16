@@ -1,881 +1,1143 @@
 +++
-title = "19 सर्वनामन् (Additional Pronouns); संख्या -s (Numerals); अद्यतनभूते लङ् (The Aorist Systems)"
+title = "19 सर्वनामन् (Additional Pronouns); संख्या-s (Numerals); अद्यतनभूते लुङ् (The Aorist Systems)"
 short_title = "19 सर्वनामन् (Additional"
 
 +++
-19 सर्वनामन् (Additional Pronouns); संख्या -s (Numerals); अद्यतनभूते लङ् (The Aorist Systems)
+19 सर्वनामन् (Additional Pronouns); संख्या-s (Numerals); अद्यतनभूते लुङ् (The Aorist Systems)
 
 
 19.0
 
+Additional Pronouns
+
+In addition to the pronominal stem तत् (सः, तत् , सा) (5.5ff.), Sanskrit has two important pronominal paradigms which you must learn. Both are like तत् etc., in that they are demonstrative, construe with verbs in the प्रथमपुरुष, and may serve in the senses of "the," "this," and "that."
+
 19.1
 
-Additional Pronouns In addition to the pronominal stem तत् (सः, तत् , सा) (5.5ff.), Sanskrit has two important pronominal paradigms which you
+The stems are:
 
-must leam. Both are like तत् etc., in that they are demonstra tive, construe with verbs in the प्रथमपुरुष, and may serve in the senses of "the," "this," and "that." The stems are: 1) अयम् (m), इदम् (n), इयम् (f), and 2) असौ (m), अदः (n), असौ (f). Of the two, the first is the more common. The second, 3tal, when it is used, usually conveys a sense of remoteness, as in "that" (as opposed to "this"). 3714 may indicate something less remote or be used generally. The paradigms are as fol lows: a. i. अयम् (पुंलिङ्ग); इदम् (नपुंसकलिङ्ग)
+1) अयम् (m), इदम् (n), इयम् (f), and
 
-एक०
+2) असौ (m), अदः (n), असौ (f).
 
-बहु प्र. अयम् (m), इदम् (n) इमौ (m), इमे (n) इमे (m), इमानि (n)
+Of the two, the first is the more common. The second, असौ, when it is used, usually conveys a sense of remoteness, as in "that" (as opposed to "this"). अयम् may indicate something less remote or be used generally. The paradigms are as follows:
 
-इमम् (m), इदम् (n) इमौ (m), इमे (n) इमान् (m), इमानि (n)
+a. i. अयम् (पुंलिङ्ग); इदम् (नपुंसकलिङ्ग)
 
-अनेन
+| | एक° | द्वि° | बहु° |
+| प्र° | अयम् (m), इदम् (n) | इमौ (m), इमे (n) | इमे (m), इमानि (n) |
+| द्वि° | इमम् (m), इदम् (n) | इमौ (m), इमे (n) | इमान् (m), इमानि (n) |
+| तृ° | अनेन | आभ्याम् | एभिः |
+| च° | अस्मै | आभ्याम् | एभ्यः |
+| प° | अस्मात् | आभ्याम् | एभ्यः |
+| ष° | अस्य | अनयोः | एषाम् |
+| स° | अस्मिन् | अनयोः | एषु |
 
-आभ्याम्
+ii. इयम् (स्त्रीलिङ्ग)
 
-एभिः आभ्याम्
-
-एभ्यः अस्मात्
-
-आभ्याम्
-
-एभ्यः अस्य
-
-अनयोः अस्मिन
-
-eyn
-
-अस्मै
-
-एषाम्
-
-अनयोः
-
-बहु इमाः
-
-इयम् (स्त्रीलिङ्ग)
-
-एक इयम् इमाम् अनया अस्यै
-
-इमाः
-
-yo g
-
-आभ्याम् आभ्याम्
-
-आभिः आभ्यः
-
-344
-
-___ 
-
-अस्याः
-
-अस्याः अस्याः अस्याम्
-
-आभ्याम् अनयोः अनयोः
-
-आभ्याम्
-
-आभ्यः आसाम् आसु
-
-आसाम्
-
-___स
-
-बह
+| | एक° | द्वि° | बहु° |
+| प्र° | इयम् | इमे | इमाः |
+| द्वि° | इमाम् | इमे | इमाः |
+| तृ° | अनया | आभ्याम् | आभिः |
+| च° | अस्यै | आभ्याम् | आभ्यः |
+| प° | अस्याः | आभ्याम् | आभ्यः |
+| ष° | अस्याः | अनयोः | आसाम् |
+| स° | अस्याम् | अनयोः | आसु |
 
 b. i. असौ (पुंलिङ्ग); अदः (नपुंसकलिङ्ग)
 
-एक प्र० आसौ (m), अदः (n) अमू (m, n) अमुम् (m), अदः (n) अमू (m, n)
+| | एक° | द्वि° | बहु° |
+| प्र° | असौ (m), अदः (n) | अमू (m, n) | अमी (m), अमूनि (n) |
+| द्वि° | अमुम् (m), अदः (n) | अमू (m, n) | अमून् (m), अमूनि (n) |
+| तृ° | अमुना | अमुभ्याम् | अमीभिः |
+| च° | अमुष्मै | अमुभ्याम् | अमीभ्यः |
+| प° | अमुष्मात् | अमुभ्याम् | अमीभ्यः |
+| ष° | अमुष्य | अमुयोः | अमीषाम् |
+| स° | अमुष्मिन् | अमुयोः | अमीषु |
 
-अमुना अमुभ्याम् अमुष्मै
+ii. असौ (स्त्रीलिङ्ग)
 
-अमुभ्याम् अमुष्मात् अमुभ्याम् अमुष्य
+| | एक° | द्वि° | बहु° |
+| प्र° | असौ | अमू | अमूः |
+| द्वि° | अमूम् | अमू | अमूः |
+| तृ° | अमुया | अमूभ्याम् | अमूभिः |
+| च° | अमुष्यै | अमूभ्याम् | अमूभ्यः |
+| प° | अमुष्याः | अमूभ्याम् | अमूभ्यः |
+| ष° | अमुष्याः | अमुयोः | अमूषाम् |
+| स° | अमुष्याम् | अमुयोः | अमूषु |
 
-अमुयोः अमुष्पिन् अमुयोः ii. असौ (स्त्रीलिङ्ग)
+Notice that the pronominal endings are virtually the same as those already learned.
 
-gaey !
+19.2
 
-अमी (m), अमूनि (n) अमून् (m), अमूनि (n)
+These pronouns, especially the first, are immensely useful and are used as commonly as सः, तत् , and सा.
 
-अमीभिः अमीभ्यः अमीभ्यः अमीषाम् अमीषु
+Examples:
 
-एक०
+कस्येदं गृहम् ।
 
-बहु अमूः
+(Whose house is this?)
 
-g
+अस्मिन्कलौ युगे धर्मः शिथिलायते ।
 
-असौ अमूम्
-
-अमू
-
-अमू:
-
-dey
-
-अमुया अमूभ्याम् अमूभिः अमुष्य अमूभ्याम् अमूभ्यः अमुष्याः अमूभ्याम् अमूभ्यः अमुष्याः अमुयोः
-
-अमूषाम् अमुष्याम् अमुयोः Notice that the pronominal endings are virtually the same
-
-as those already learmed.
-
-अमुवा
-
-अमूषु
-
-These pronouns, especially the first, are immensely useful and are used as commonly as सः, तत्, and सा. Examples: कस्येदं गृहम् । (Whose house is this?)
-
-अस्मिन्कलौ युगे धर्मः शिथिलायते । (Dharma grows lax in this Kali age.)
-
-345
+(Dharma grows lax in this Kali age.)
 
 किमनेन ।
 
 (What of that?)
 
-इयमतीव सुन्दरी (This one (i.e., she) is very beautiful.)
+इयमतीव सुन्दरी
 
-a. The first of these pronouns is sometimes used, especially
+(This one [i.e., she] is very beautiful.)
 
-in "politeness formulas," with a noun meaning "person, man, woman," and so forth, as a very formal equivalent to the उत्तम पुरुष pronoun. प्रथम पुरुष verbs are of course still
+a. The first of these pronouns is sometimes used, especially in "politeness formulas," with a noun meaning "person, man, woman," and so forth, as a very formal equivalent to the उत्तम पुरुष pronoun. प्रथम पुरुष verbs are of course still required.
 
-required. Example:
+Example:
 
-क्षम्यतामयं जनः । (Excuse me [lit., Let this person be excused).)
+क्षम्यतामयं जनः ।
+
+(Excuse me [lit., Let this person be excused].)
 
 19.3
 
+संख्या-s : Numerals
+
+Certain of the numerals and some techniques for numbering have already been introduced, including एक—the number one in its function as an indefinite article (see 5.7)—, the collective nouns -द्वयम् (a pair), -त्रयम् (trio), and so forth, द्विगु compounds, and the ordinal numbers applied to the grammatical categories of case and person. However, a more systematic treatment of the issue of numbering will be useful.
+
 19.4
 
-Houll-s : Numerals Certain of the numerals and some techniques for numbering have already been introduced, including the number one in its function as an indefinite article (see 5.7)—, the collec tive nouns -&44 (a pair), -7744 (trio), and so forth, fal compounds, and the ordinal numbers applied to the grammati cal categories of case and person. However, a more systematic treatment of the issue of numbering will be useful. The carri numerals are, in fact, the source of our so-called "Arabic” numeral. Both systems work in the same way. Thus, one need leam only nine figures and the sign zero in order to write out the figures for any number. The more important num bers, with their symbols, names, and arabic equivalents are:
+The देवनागरी numerals are, in fact, the source of our so-called "Arabic" numeral. Both systems work in the same way. Thus, one need learn only nine figures and the sign zero in order to write out the figures for any number. The more important numbers, with their symbols, names, and arabic equivalents are:
 
-R 0
+| ० | शून्य | 0 | ५ | पञ्चन् | 5 |
+| १ | एक | 1 | ६ | षष् | 6 |
+| २ | द्वि | 2 | ७ | सप्तन् | 7 |
+| ३ | त्रि | 3 | ८ | अष्टन् | 8 |
+| ४ | चतुर् | 4 | ९ | नवन् | 9 |
 
-904 5 9
+| १० | दशन् | 10 | ३० | त्रिंशत् | 30 (f) |
+| ११ | एकादश | 11 | ४० | चत्वारिंशत् | 40 (f) |
+| १२ | द्वादश | 12 | ५० | पञ्चाशत् | 50 (f) |
+| १३ | त्रयोदश | 13 | ६० | षष्टिः | 60 (f) |
+| १४ | चतुर्दश | 14 | ७० | सप्ततिः | 70 (f) |
+| १५ | पञ्चदश | 15 | ८० | अशीतिः | 80 (f) |
+| १६ | षोडश | 16 | ९० | नवतिः | 90 (f) |
+| १७ | सप्तदश | 17 | १०० | शतम् | 100 (n) |
+| १८ | अष्टादश | 18 | १००० | सहस्रम् | 1,000 (n) |
+| १९ | नवदश | 19 | १००००० | लक्षम् | 100,000 (n) |
+| २० | विंशतिः | 20 (f) | १००००००० | कोटिः | 10,000,000 (f) |
 
-1
+The words for the numbers intervening between decades, e.g., २१, ३३, ६४, etc., are generally formed by prefixing a form of the "unit number" to the "decade number."
 
-षष 6 2
+Examples:
 
-Hata 7
+एकविंशतिः (twenty-one)
 
-386 8 alla 4
+त्रयस्त्रिंशत् (thirty-three)
 
-H09 9
+चतुःषष्टिः (sixty-four)
 
-C WU 0
+However, for the number immediately preceding each multiple of १० (e.g., १९, २९, ३९), it is also common to construct a compound consisting of the next highest decade preceded by the adjective ऊन ("less, deficient"), which in turn may or may not be preceded by the word एक.
 
-346
+नवदश (nineteen)
 
-दशन् एकादश द्वादश त्रयोदश चतुर्दश पञ्चदश षोडश सप्तदश अष्टादश नवदश विंशतिः
+ऊनविंशतिः (twenty deficient by one) = १९ (nineteen)
 
-त्रिंशत् 30 चत्वारिंशत् 40 पञ्चाशत् 50 षष्टिः सप्ततिः अशीतिः 80
+एकोनविंशतिः (twenty deficient by one)
 
-नवतिः १०० शतम् 100
+19.5
 
-१००० सहस्रम् 1,000 (n) 19 १००००० लक्षन् 100,000 (n) 20 (1) | १००००००० कााद
+Cardinal Numbers
 
-१००००००० कोटिः 10,000,000 (1)
+a. The words for the numbers from one to nineteen are treated as adjectives. They must, insofar as their individual stems permit, agree with the noun indicating the thing numbered in case, number, and gender.
 
-11.16
+Examples:
 
-SSSESS
+कामदेवस्य पञ्चभिः पुष्पितशरैर्हतो ऽस्मि ।
 
-90
+(I am smitten by the five flowery arrows of Kāmadeva.)
 
-(n)
+रामस्य तुल्यो नास्ति त्रिषु लोकेषु ।
 
-चतुःषष्टिः
+(Rāma has no equal in the three worlds.)
 
-The words for the numbers intervening between decades, e.g., २१, ३३,६४, etc., are generally formed by prefixing a form of the "unit number" to the “decade number." Examples: एकविंशतिः
+तिसृणां दशरथभार्याणां चत्वारः पुत्रा बभूवुः ।
 
-(twenty-one) त्रयस्त्रिंशत् (thirty-three)
+(Daśaratha's three wives had four sons.)
 
-(sixty-four) However, for the number immediately preceding each mul tiple of १० (e.g., १९, २९, ३९), it is also common to construct a compound consisting of the next highest decade preceded by the adjective ऊन ("less, deficient"), which in tum may or may
+b. The words for the numbers from 20 to infinity are generally treated as nouns. They each have their own gender and construe with the thing numbered in one of two ways.
 
-not be preceded by the word एक. नवदश (nineteen) ऊनविंशतिः (twenty deficient by one)= १९ (nineteen) एकोनविंशतिः (twenty deficient by one)
+i. The item numbered is in the षष्ठी विभक्ति and is grammatically subordinated to the word indicating number.
 
-रातिः
+Examples:
 
-S
+शतं पुरुषाणामागच्छति ।
 
-Cardinal Numbers a. The words for the numbers from one to nineteen are treated
+(A hundred men come.)
 
-as adjectives. They must, insofar as their individual stems permit, agree with the noun indicating the thing numbered in case, number, and gender.
+देवानां सहस्रेष्वपि शोभन्ते राघवाः ।
 
-347
+(The Rāghavas shine even among thousands of gods.)
 
-(yarroy
+ii. The word for the number is in case apposition with the thing numbered. For example:
 
-Examples: कामदेवस्य पञ्चभिः पुष्पितशरैर्हतो ऽस्मि । (I am smitten by the five flowery arrows of Kāmadeva.) रामस्य तुल्यो नास्ति त्रिषु लोकेषु । (Rāma has no equal in the three worlds.)
+शतं देवाः
 
-तिसृणां दशरथभार्याणां चत्वारः पुत्रा बभूवः ।
-
-(Dasaratha's three wives had four sons.)
-
-b.
-
-The words for the numbers from 20 to infinity are gener ally treated as nouns. They each have their own gender and construe with the thing numbered in one of two ways. i. The item numbered is in the 481 fat and is gram
-
-matically subordinated to the word indicating number. Examples: शतं पुरुषाणामागच्छति । (A hundred men come.)
-
-देवानां सहस्रेष्वपि शोभन्ते राघवाः । (The Rāghavas shine even among thousands of gods.)
-
-The word for the number is in case apposition with the thing numbered. For example: शतं देवाः (a hundred gods)
+(a hundred gods)
 
 19.6
 
-The declension of the adjectival numbers (i.e., 9-98) requires some special attention. a. 06: This word belongs to the pronominal declension (like
+The declension of the adjectival numbers (i.e., १-१९) requires some special attention.
 
-Hd, etc.). It is also used as an indefinite article and in this usage may occur in the 48999 in the sense of "some," "certain," Examples: एकस्मिन्दिने राजा वनं ययौ । (One day the king went to the forest.)
+a. एक : This word belongs to the pronominal declension (like सर्व, etc.). It is also used as an indefinite article and in this usage may occur in the बहुवचन in the sense of "some," "certain,"
 
-348
+Examples:
 
-एके वदन्ति यत् ... (Some people say that ...) एक has no द्विवचन.
+एकस्मिन्दिने राजा वनं ययौ ।
 
-b. द्वि.except in समास, is treated as though its stem were द्व. It
+(One day the king went to the forest.)
 
-is therefore declined like any -37 stem adjective in all three genders, but only, of course, in the द्विवचन. Examples:
+एके वदन्ति यत् ...
 
-द्वौ पुरुषो जग्मतुः । (Two men went.)
+(Some people say that ...)
 
-द्वे कन्ये वदतः । (Two girls speak.)
+एक has no द्विवचन.
 
-अनयोर्द्वयोः पुस्तकयोः किं मया पठनीयम् । (Which of these two books am I to read?)
+b. द्वि, except in समास, is treated as though its stem were द्व. It is therefore declined like any -अ stem adjective in all three genders, but only, of course, in the द्विवचन.
 
-c. Numbers ३ through १९ have only बहुवचन forms. त्रि be
+Examples:
 
-haves like a regular s stem in the पुंलिङ्ग and नपुंसकलिङ्ग in all forms except the net where 74110714 would appear to be formed from a stem त्रय. Examples: इमानि त्रीणि पुस्तकानि मया पठितानि । (I read these three books.)
+द्वौ पुरुषौ जग्मतुः ।
 
-बीनाक्षसाञ्जघान । (He killed three rākşasas.)
+(Two men went.)
+
+द्वे कन्ये वदतः ।
+
+(Two girls speak.)
+
+अनयोर्द्वयोः पुस्तकयोः किं मया पठनीयम् ।
+
+(Which of these two books am I to read?)
+
+c. Numbers ३ through १९ have only बहुवचन forms. त्रि behaves like a regular इ stem in the पुंलिङ्ग and नपुंसकलिङ्ग in all forms except the षष्ठी where त्रयाणाम् would appear to be formed from a stem त्रय.
+
+Examples:
+
+इमानि त्रीणि पुस्तकानि मया पठितानि ।
+
+(I read these three books.)
+
+त्रीन्राक्षसान्जघान ।
+
+(He killed three rākṣasas.)
 
 त्रिभ्यः पुरुषेभ्य इमे त्रयो गजा देयाः ।
 
 (These three elephants are to be given to the three men.)
 
-The Filis, however, is formed from the stem fars, which is declined more or less like any - stem, except that its प्रथमा and द्वितीया show no strength and are the same (i.e:, तिस्रः), and its षष्टी has a short rather than long stem vowel (i.e., तिसृणाम्).349
+The स्त्रीलिङ्ग, however, is formed from the stem तिसृ, which is declined more or less like any -ऋ stem, except that its प्रथमा and द्वितीया show no strength and are the same (i.e., तिस्रः), and its षष्ठी has a short rather than long stem vowel (i.e., तिसृणाम्).
 
-Example: तिसृभिर्नारीभिः सेव्यमानागच्छति सीता ।
+Example:
+
+तिसृभिर्नारीभिः सेव्यमानागच्छति सीता ।
 
 (Sītā comes attended by three women.)
 
-d. चतुर् : Here again, as with -त्रि, the पुंलिङ्ग and नपुंसकलिङ्ग form
+d. चतुर् : Here again, as with -त्रि, the पुंलिङ्ग and नपुंसकलिङ्ग form from a different stem than that of the स्त्रीलिङ्ग. Unlike -त्रि, however, the पुंलिङ्ग and नपुंसकलिङ्ग forms have a strong and a weak stem. The strong stem is चत्वार् while the weak stem is चतुर् :
 
-from a different stem than that of the स्त्रीलिङ्ग. Unlike -त्रि, however, the पुंलिङ्ग and नपुंसकलिङ्ग forms have a strong and a weak stem. The strong stem is Elcar while the weak stem is चतुर् :
+| | पुंलिङ्ग | नपुंसकलिङ्ग |
+| प्र° | चत्वारः | चत्वारि |
+| द्वि° | चतुरः | चत्वारि |
 
-पुंलिङ्ग नपुंसकलिङ्ग प्र० चत्वारः चत्वारि । द्वि० चतुरः चत्वारि ,
+| तृ° | चतुर्भिः |
+| च° प° | चतुर्भ्यः |
+| ष° | चतुर्णाम् |
+| स° | चतुर्षु |
 
-चतुर्भिः चतुर्व्यः चतुर्णाम्
+Example:
 
-चतुर्यु
+यस्य चत्वारि मुखानि सन्ति तेनैव चत्वारो वेदा अवगम्यन्ते ।
 
-Example: यस्य चत्वारि मुखानि सन्ति तेनैव चत्वारो वेदा अवगम्यन्ते । (The four vedas are understood only by him who has four faces [i.e., Brahmā].)
+(The four vedas are understood only by him who has four faces [i.e., Brahmā].)
 
-The स्त्रीलिङ्ग stem is चतसृ, anditis declined exactly like तिसृ (see 19.6.c above).
+The स्त्रीलिङ्ग stem is चतसृ, and it is declined exactly like तिसृ (see 19.6.c above).
 
-e.
+e. The numbers ५ through १९ do not distinguish gender. Except for षष्, they are declined somewhat like नपुंसकलिङ्ग stems in -अन्, with the following exceptions:
 
-The numbers through 98 do not distinguish gender. Except for षष्, they are declined somewhat like नपुंसकलिङ्ग stems in -371, with the following exceptions: i. The प्रथमा and द्वितीया appear to have the forms of the
+i. The प्रथमा and द्वितीया appear to have the forms of the singular of such stems.
 
-singular of such stems. Examples: पञ्च पुरुषाः (five men) सप्त देव्यः (seven goddesses) नव रत्नानि (nine gems)
+Examples:
 
-350
+पञ्च पुरुषाः (five men)
 
-ii. The 481 is like that of a stem with a final 37.
+सप्त देव्यः (seven goddesses)
 
-Example: दशानां गुरूणां शिष्यः ...
+नव रत्नानि (nine gems)
 
-(The pupil of ten teachers ...) iii. षष् has the following declension:
+ii. The षष्ठी is like that of a stem with a final अ.
 
-प्र, द्वि
+Example:
 
-षट्
+दशानां गुरूणां शिष्यः ...
 
-षभिः च०प०
+(The pupil of ten teachers ...)
 
-षड्भ्यः षण्णाम्
+iii. षष् has the following declension:
 
-षट्तु
+| प्र°, द्वि° | षट् |
+| तृ° | षड्भिः |
+| च°, प° | षड्भ्यः |
+| ष° | षण्णाम् |
+| स° | षट्सु |
+
+19.7
+
+Ordinal Numbers
+
+Ordinal numbers, indicating numerical position in a sequence (e.g., first, second, third, etc.), correspond to the cardinal numbers. They are all adjectival in nature.
 
 19.8
 
-Ordinal Numbers Ordinal numbers, indicating numerical position in a sequence (e.g., first, second, third, etc.), correspond to the cardinal num bers. They are all adjectival in nature. The ordinals are: a. प्रथम or आद्य
+The ordinals are:
 
-(first) द्वितीय
+a. प्रथम or आद्य (first)
 
-(second) तृतीय
+द्वितीय (second)
 
-(third) चतुर्थ, तुरीय, or तुर्य (fourth) पञ्च म
+तृतीय (third)
 
-(fifth) ਬਈ
+चतुर्थ, तुरीय, or तुर्य (fourth)
 
-(sixth) सप्तम
+पञ्चम (fifth)
 
-(seventh) अष्टम
+षष्ठ (sixth)
 
-(eighth) नवम
+सप्तम (seventh)
 
-(ninth) दशम
+अष्टम (eighth)
 
-(tenth)
+नवम (ninth)
 
-b. For the numbers from 99 through 98, the ordinals are the
+दशम (tenth)
 
-same as the cardinals. For the numbers over 20, the ordinal may be of two forms: i. the suffix -414 is added to the cardinal,
+b. For the numbers from ११ through १९, the ordinals are the same as the cardinals.
 
-Examples: विंशतितम
+c. For the numbers over 20, the ordinal may be of two forms:
 
-(twentieth) त्रयस्त्रिंशत्तम (thirty-third) शततम
+i. the suffix -तम is added to the cardinal,
 
-(hundreth)
+Examples:
 
-351
+विंशतितम (twentieth)
 
-ii. reduction of the cardinal back to its final -31, and if its
+त्रयस्त्रिंशत्तम (thirty-third)
 
-final vowel is -, substitution of - 31 for -ş. Examples:
+शततम (hundreth)
 
-(twentieth) अशीत
+ii. reduction of the cardinal back to its final -अ, and if its final vowel is -इ, substitution of -अ for -इ.
 
-(eightieth) षष्ट
+Examples:
 
-(sixtieth) (do not confuse with 8
+विंश (twentieth)
 
-sixth)
+अशीत (eightieth)
 
-विंश
+षष्ट (sixtieth) (do not confuse with षष्ठ sixth)
 
 19.9
 
-illess
+All ordinals, therefore, are -अ stems.
 
-All ordinals, therefore, are -37 stems. a. 424, 31E, facrita, data, rata, and he have their
+a. प्रथम, आद्य, द्वितीय, तृतीय, तुरीय, and तुर्य have their स्त्रीलिङ्ग forms in आ.
 
-forms in 371. b. All other nouns have their fins form in $.
+b. All other nouns have their स्त्रीलिङ्ग form in ई.
 
-Examples: प्रथमा विभक्ति (nominative case) द्वितीया विभक्ति (accusative case)
+Examples:
+
+प्रथमा विभक्ति (nominative case)
+
+द्वितीया विभक्ति (accusative case)
 
 सप्तमी विभक्ति (locative case)
 
 19.10
 
-: The Aorist Sanskrit has yet another full-fledged and elaborate verbal con jugation with which the beginning student must somehow come to grips. This is the g5 , or so-called "aorist." The gs has been left for last for a reason. It occurs in the classical lan guage with much less frequency than either the 5 or fore, the other preterite tenses. In fact, its use in the classical language is restricted largely to pieces and passages in which the author wishes to show his command of obscure forms. On the other hand, certain aorist forms of particular roots are not uncom mon, and these must be learned. Moreover, there is a particular usage of aorist forms (19.18) that occurs with some frequency
+अद्यतनभूते लुङ् : The Aorist
 
-and with which one should be familiar. 19.11 As its name implies, the 3Eldar Ta 5 is yet another past tense.
+Sanskrit has yet another full-fledged and elaborate verbal conjugation with which the beginning student must somehow come to grips. This is the लुङ्, or so-called "aorist." The लुङ् has been left for last for a reason. It occurs in the classical language with much less frequency than either the लङ् or लिट्, the other preterite tenses. In fact, its use in the classical language is restricted largely to pieces and passages in which the author wishes to show his command of obscure forms. On the other hand, certain aorist forms of particular roots are not uncommon, and these must be learned. Moreover, there is a particular usage of aorist forms (19.18) that occurs with some frequency and with which one should be familiar.
 
-The term 3TEA, "of today," is meant to complement the terms 31AETA (2953), “not of today," and Pia (Re), “remote," thus
+19.11
 
-352
+As its name implies, the अद्यतनभूते लुङ् is yet another past tense. The term अद्यतन, "of today," is meant to complement the terms अनद्यतन (लङ्), "not of today," and परोक्ष (लिट्), "remote," thus distinguishing three basic kinds of past. However, as in the case of the other past tenses, no such distinction can be observed in usage. In short, the लुङ्, लङ् and लिट् are quite freely interchangeable as simple past tenses.
 
 19.12
 
+Types of लुङ्
+
+The "aorist," in fact, comprehends three basic types, several of which have subtypes of their own. It is not intended that you attempt to memorize the rules for the लुङ् formation in the way that forms like the लङ् must be learned. Therefore, the following represents a brief synopsis of the major features and usages of the aorist system. Particular usages which should be learned are stressed. The three basic types, according to the stem formation, are:
+
+1. the simple aorist
+
+2. the sibilant aorist
+
+3. the reduplicated aorist
+
 19.13
 
-distinguishing three basic kinds of past. However, as in the case of the other past tenses, no such distinction can be ob served in usage. In short, the 5, 5 and foc are quite freely interchangeable as simple past tenses. Types of The “aorist," in fact, comprehends three basic types, several of which have subtypes of their own. It is not intended that you attempt to memorize the rules for the gs formation in the way that forms like the 5 must be learned. Therefore, the follow ing represents a brief synopsis of the major features and usages of the aorist system. Particular usages which should be leamed are stressed. The three basic types, according to the stem for mation, are:
+The Simple Aorist: The Root Aorist
 
-1. the simple aorist 2. the sibilant aorist 3. the reduplicated aorist The Simple Aorist: The Root Aorist The simple aorist has two subtypes: the root-aorist and the 37 aorist. a. The root-aorist is restricted to a small number of roots with
+The simple aorist has two subtypes: the root-aorist and the अ aorist.
 
-final 31 and the root v4. It is formed as follows. i. The stem consists of the preterite augment 37 prefixed
+a. The root-aorist is restricted to a small number of roots with final आ and the root √भू. It is formed as follows.
 
-directly to the unchanged root. ii. To this stem are then added the appropriate secondary
+i. The stem consists of the preterite augment अ prefixed directly to the unchanged root.
 
-H146 endings, except in the case of 94194, CECH, where the ending -3: is used. ii. The treatment of the common root v4 differs from
+ii. To this stem are then added the appropriate secondary परस्मैपद endings, except in the case of प्रथमपुरुष, बहुवचन, where the ending -उः is used.
 
-that of the roots with final 311 in that: a. The प्रथमपुरुष, बहुवचन takes the regular secondary
+ii. The treatment of the common root √भू differs from that of the roots with final आ in that:
 
-ending -अन्. b. Before the endings beginning with a vowel (i.e.,
+a. The प्रथमपुरुष, बहुवचन takes the regular secondary ending -अन्.
 
-ge1944,699 and 3714954, oboleh) the letter is inserted after the 3 of the stem.
+b. Before the endings beginning with a vowel (i.e., प्रथमपुरुष, बहुवचन and उत्तमपुरुष, एकवचन) the letter व् is inserted after the ऊ of the stem.
 
-re:
+b. The paradigms, then, of √दा and √भू, are:
 
-a
-
-"
-
-353 b. The paradigms, then, of val and V4, are:
-
-बहु अदात् / अभूत् अदाताम् / अभूताम् अदुः / अभूवन् अदाः / अभूः अदातम् / अभूतम् अदात / अभूत अदाम् / अभूवम् अदाव / अभूव अदाम / अभूम
-
-एक
-
-द्वि०
-
-प्र०
+| | एक° | द्वि° | बहु° |
+| प्र° | अदात् / अभूत् | अदाताम् / अभूताम् | अदुः / अभूवन् |
+| म° | अदाः / अभूः | अदातम् / अभूतम् | अदात / अभूत |
+| उ° | अदाम् / अभूवम् | अदाव / अभूव | अदाम / अभूम |
 
 19.14
 
-The Simple Aorist: The 31 Aorist The 31 aorist may be made from a fairly large number of roots, but is not usually formed in the आत्मनेपद. It is formed simply by suffixing short 37 to the root, prefixing the augment, and adding the appropriate secondary endings. Only roots with final a take गुण. In short, except for a roots, the form is made exactly like the 5 of the sixth T. It is not, of course, re stricted to roots of any 14. Examples that you may see are
+The Simple Aorist: The अ Aorist
 
-गम् and Vवच्. Note particularly that Vवच् in this form takes the irregular stem form ata. Example: इदं वचनमवोचत् । (He spoke this speech.)
+The अ aorist may be made from a fairly large number of roots, but is not usually formed in the आत्मनेपद. It is formed simply by suffixing short अ to the root, prefixing the augment, and adding the appropriate secondary endings. Only roots with final ऋ take गुण. In short, except for ऋ roots, the form is made exactly like the लङ् of the sixth गण. It is not, of course, restricted to roots of any गण. Examples that you may see are √गम् and √वच्. Note particularly that √वच् in this form takes the irregular stem form वोच्.
 
-एक०
+Example:
 
-अगमत्
+इदं वचनमवोचत् ।
 
-अगमताम् अवोचताम्
+(He spoke this speech.)
 
-बहु अगमन् अवोचन्
-
-अवोचत्
-
-अगमः अवोचः
-
-अगमत अवोचत
-
-अगमतम् अवोचतम् अगमाव अवोचाव
-
-अगमम्
-
-अगमाम अवोचाम
-
-अवोचम्
+| | एक° | द्वि° | बहु° |
+| प्र° | अगमत् | अगमताम् | अगमन् |
+| | अवोचत् | अवोचताम् | अवोचन् |
+| म° | अगमः | अगमतम् | अगमत |
+| | अवोचः | अवोचतम् | अवोचत |
+| उ° | अगमम् | अगमाव | अगमाम |
+| | अवोचम् | अवोचाव | अवोचाम |
 
 19.15
 
-Sibilant Aorists This class of four subtypes is so named because the tense-sign of each either consists of or contains the consonant For The tense signs are (1) स् or ष्, (2) इष्, less commonly (3) सिष् and (4)स. All forms require the preterite augment prefixed to the roots and take, with some slight variation, the secondary end
+Sibilant Aorists
 
-354
+This class of four subtypes is so named because the tense-sign of each either consists of or contains the consonant स् or ष्. The tense signs are (1) स् or ष्, (2) इष्, less commonly (3) सिष् and (4) स. All forms require the preterite augment prefixed to the roots and take, with some slight variation, the secondary endings. Unlike the root aorist and in general the अ aorist, the sibilant forms have both परस्मैपद and आत्मनेपद conjugations. The आत्मनेपद forms serve also as the आत्मनेपद conjugation for roots of the root aorist.
 
-ings. Unlike the root aorist and in general the 31 aorist, the sibilant forms have both परस्मैपद and आत्मनेपद conjugations. The आत्मनेपद forms serve also as the आत्मनेपद conjugation for roots of the root aorist. a. The स् Aorist
+a. The स् Aorist
 
-This form is relatively common for an aorist. i. Its stem is formed by prefixing the augment to the root,
+This form is relatively common for an aorist.
 
-which usually is strengthened. His added to this strengthened root. The rules for root strength are: a. Final vowels.
+i. Its stem is formed by prefixing the augment to the root, which usually is strengthened. स् is added to this strengthened root. The rules for root strength are:
 
-Final vowels are subject to वृद्धि in परस्मैपद and गुण in 31642146. But final #s takes no strength in the आत्मनेपद.
+a. Final vowels.
 
-परस्मैपद आत्मनेपद Root
+Final vowels are subject to वृद्धि in परस्मैपद and गुण in आत्मनेपद. But final ऋ takes no strength in the आत्मनेपद.
 
-Stem
-
-Stem Vश्रु (hear) अश्रौष
-
-अश्रोष् कृ (do)
-
-अकृष्
-
-अकार्ष
+| Root | परस्मैपद Stem | आत्मनेपद Stem |
+| √श्रु (hear) | अश्रौष् | अश्रोष् |
+| √कृ (do) | अकार्ष् | अकृष् |
 
 b. Medial vowels.
 
-Medial vowels are, ‘वृद्धि-ed' (if in a लघु syllable) in परस्मैपद and unchanged in आत्मनेपद. Root
+Medial vowels are, 'वृद्धि-ed' (if in a लघु syllable) in परस्मैपद and unchanged in आत्मनेपद.
 
-परस्मैपद आत्मनेप रुध् (block) अरौत्स् अरुत्स् Vदृश (see) अद्राक्ष(cf. 13.1.b)अदृक्ष
+| Root | परस्मैपद | आत्मनेपद |
+| √रुध् (block) | अरौत्स् | अरुत्स् |
+| √दृश् (see) | अद्राक्ष्(cf. 13.1.b) | अदृक्ष् |
 
-ii. Endings: To the stem are added the normal secondary
+ii. Endings: To the stem are added the normal secondary endings with three notable exceptions:
 
-endings with three notable exceptions: a. प्र° बहु° परस्मैपद takes -3: (not -अन्) b. प्र° बहु° आत्मनेपद takes -अत (not -अन्त),
+a. प्र° बहु° परस्मैपद takes -उः (not -अन्)
 
-____and, most important,
+b. प्र° बहु° आत्मनेपद takes -अत (not -अन्त),
 
-प्रथम and मध्यम एक परस्मैपद have the vowel ई inserted between the stem and the endings. This is important as it lends a distinctive shape to these forms, which are in any case the only ones you are at all likely to see.
+and, most important,
 
-355
-
-For example:
-
-कु (do) अकार्षीत् । अकार्षीः (he/you did) Vदृश् (see) अद्राक्षीत् / अद्राक्षीः (he/you saw) Vनी (lead) अनैषीत् । अनैषीः (he/you led) Vश्रु (hear) अश्रौषीत् । अश्रौषीः (he/you heard)
-
-बहु
-
-अद्राक्षुः
-
-b.
-
-The complete paradigm of vel (see) is
-
-एक प्र. अद्राक्षीत्
-
-अद्राष्टाम् म. अद्राक्षीः अद्राष्टम्
-
-अद्राष्ट उ० अद्राक्षम्
-
-अद्राक्ष्व
-
-अद्राक्ष्म Memorize only the examples given in (c.) above. The 54 Aorist This form, less commonly encountered than the above, is of a similar formation. i. It takes the augment and adds 54 to the root, which is
-
-strengthened as follows: a. Final vowels are strengthened as with the स् aorist,
-
-but here is no exception, Example: Root
-
-परस्मैपद आत्मनेपद Vपू (cleanse) अपाविष् अपविष्
-
-b. Medial vowels have गुण in परस्मैपद and आत्मनेपद if
-
-in a my syllable,
-
-Examples: Root
-
-परस्मैपद आत्मनेपद रुच् (shine) अरोचिष अरोचिष but Visita (live) अजीविष अजीविष्
-
-___Medial -अ- is occasionally lengthened in परस्मैपद. ii. Endings: Endings are as for the al aorist. Here, too,
-
-the endings of the प्रथम, मध्यम, एकवचन परस्मैपद are, ईत, ई.. Moreover, before these two endings, the sibi lant tense marker is dropped.
-
-356
+c. प्रथम° and मध्यम° एक° परस्मैपद have the vowel ई inserted between the stem and the endings. This is important as it lends a distinctive shape to these forms, which are in any case the only ones you are at all likely to see.
 
 For example:
 
-Root Vबुध् (be awakened) अबोधीत् / अबोधीः (he [was] /
+√कृ (do) अकार्षीत् / अकार्षीः (he/you did)
 
-you (were) awakened) Do not bother to memorize this form. C. The fH Aorist
+√दृश् (see) अद्राक्षीत् / अद्राक्षीः (he/you saw)
 
-This form, rarer still than the preceding one, is made only from roots in - 341 and three roots in-374 ; 174 1P (bow); V24 1P (Heula) (reach); V4 1Ā (take pleasure). It occurs only in the परस्मैपद, its आत्मनेपद being formed like the स् aorist. It is formed exactly like the 54 aorist. Example:
+√नी (lead) अनैषीत् / अनैषीः (he/you led)
 
-प्रथम / मध्यम एक स्था (stand) अस्थासीत् / अस्थासीः (he / you stood) Do not bother to memorize this form.
+√श्रु (hear) अश्रौषीत् / अश्रौषीः (he/you heard)
 
-d. The 8 Aorist
+The complete paradigm of √दृश् (see) is
 
-This form can be made only from 23 roots, few of which are very common. These roots share the following char acteristics: i. They all end in 2.7, or sounds, which join with the
+| | एक° | द्वि° | बहु° |
+| प्र° | अद्राक्षीत् | अद्राष्टाम् | अद्राक्षुः |
+| म° | अद्राक्षीः | अद्राष्टम् | अद्राष्ट |
+| उ° | अद्राक्षम् | अद्राक्ष्व | अद्राक्ष्म |
 
-H of the tense sign to form the conjunct . ii. Their root vowels are 5, 3, or 7.
+Memorize only the examples given in (c.) above.
 
-a. His added to the augmented and unstrengthened
+b. The इष् Aorist
 
-root. b. To this are added the appropriate secondary end
+This form, less commonly encountered than the above, is of a similar formation.
 
-ings with a few exceptions which are prescribed by the grammarians but which, owing to the rarity of the form, cannot be cited from the literature. A typical paradigm is that of VII 6P (point out):
+i. It takes the augment and adds इष् to the root, which is strengthened as follows:
 
-357
+a. Final vowels are strengthened as with the स् aorist, but here ऋ is no exception,
+
+Example:
+
+| Root | परस्मैपद | आत्मनेपद |
+| √पू (cleanse) | अपाविष् | अपविष् |
+
+b. Medial vowels have गुण in परस्मैपद and आत्मनेपद if in a लघु syllable,
+
+Examples:
+
+| Root | परस्मैपद | आत्मनेपद |
+| √रुच् (shine) | अरोचिष् | अरोचिष् |
+| but √जीव् (live) | अजीविष् | अजीविष् |
+
+Medial -अ- is occasionally lengthened in परस्मैपद.
+
+ii. Endings: Endings are as for the स् aorist. Here, too, the endings of the प्रथम°, मध्यम°, एकवचन परस्मैपद are, ईत्, ईः. Moreover, before these two endings, the sibilant tense marker is dropped.
+
+For example:
+
+Root
+
+√बुध् (be awakened) अबोधीत् / अबोधीः (he [was] / you [were] awakened)
+
+Do not bother to memorize this form.
+
+c. The सिष् Aorist
+
+This form, rarer still than the preceding one, is made only from roots in -आ and three roots in -अम् ; √नम् 1P (bow); √यम् 1P (यच्छति) (reach); √रम् 1Ā (take pleasure). It occurs only in the परस्मैपद, its आत्मनेपद being formed like the स् aorist. It is formed exactly like the इष् aorist.
+
+Example:
+
+प्रथम° / मध्यम° एक°
+
+√स्था (stand) अस्थासीत् / अस्थासीः (he / you stood)
+
+Do not bother to memorize this form.
+
+d. The स Aorist
+
+This form can be made only from 23 roots, few of which are very common. These roots share the following characteristics:
+
+i. They all end in श्, ष्, or ह् sounds, which join with the स् of the tense sign to form the conjunct क्ष.
+
+ii. Their root vowels are इ, उ, or ऋ.
+
+a. स् is added to the augmented and unstrengthened root.
+
+b. To this are added the appropriate secondary endings with a few exceptions which are prescribed by the grammarians but which, owing to the rarity of the form, cannot be cited from the literature. A typical paradigm is that of √दिश् 6P (point out):
+
+| परस्मैपद | | | | आत्मनेपद | | |
+| | एक° | द्वि° | बहु° | एक° | द्वि° | बहु° |
+| प्र° | अदिक्षत् | अदिक्षताम् | अदिक्षन् | अदिक्षत | अदिक्षाताम् | अदिक्षन्त |
+| म° | अदिक्षः | अदिक्षतम् | अदिक्षत | अदिक्षथाः | अदिक्षाथाम् | अदिक्षध्वम् |
+| उ° | अदिक्षम् | अदिक्षाव | अदिक्षाम | अदिक्षि | अदिक्षावहि | अदिक्षामहि |
+
+Do not bother to memorize this form.
 
 19.16
 
-परस्मैपद
+The Reduplicated Aorist
 
-आत्मनेपद एक द्वि० बहु एक द्वि० बहु प्र° अदिक्षत् अदिक्षताम् अदिक्षन् । अदिक्षत अदिक्षाताम् अदिक्षन्त म° अदिक्षः अदिक्षतम् अदिक्षत | अदिक्षथाः अदिक्षाथाम् अदिक्षध्वम् उ० अदिक्षम् अदिक्षाव अदिक्षाम | अदिक्षि अदिक्षावहि अदिक्षामहि
+This form, also not common, is of some interest because it is the लुङ् form that corresponds in meaning (although there is no formal affinity) to the णिजन्त, or causative, conjugations. It is characterized by a peculiar and quite distinctive अभ्यास or reduplication. The अभ्यास syllable is formed according to the general rules, with अ and ऋ vowels becoming इ. What is distinctive about the form is that it always favors a contrast of लघुत्व (metrical lightness) and गुरुत्व (metrical heaviness) between the अभ्यास and root syllables. Thus, if the root syllable is लघु, the अभ्यास vowel will be lengthened to make it गुरु.
 
-Do not bother to memorize this form. The Reduplicated Aorist This form, also not common, is of some interest because it is the form that corresponds in meaning (although there is no formal affinity) to the forstol, or causative, conjugations. It is characterized by a peculiar and quite distinctive 3p24 or re duplication. The 31 21H syllable is formed according to the general rules, with 37 and # vowels becoming 3. What is distinctive about the form is that it always favors a contrast of लघुत्व (metrical lightness) and गुरुत्व (metrical heaviness) be tween the 312H and root syllables. Thus, if the root syllable is लघु, the अभ्यास vowel will be lengthened to make it गुरु. Examples: Root
+Examples:
 
-Stem Vशम् (be quiet)
+| Root | Stem |
+| √शम् (be quiet) | अशीशम् (make quiet, calm) |
+| √जन् (be born) | अजीजन् (give birth to) |
 
-अशीशम् (make quiet, calm) जन् (be born)
+If the root syllable is गुरु (i.e., long vowel or short before conjunct), the अभ्यास syllable will be light and, in this case only, an अ vowel will appear as अ in the अभ्यास. This is quite rare. The stem thus formed is given a final अ, as though it were the imperfect stem of an अ गण root, and receives the endings proper to such a root. The paradigm of √शम् is as follows:
 
-अजीजन् (give birth to)
+| परस्मैपद | | | | आत्मनेपद | | |
+| | एक° | द्वि° | बहु° | एक° | द्वि° | बहु° |
+| प्र° | अशीशमत् | अशीशमताम् | अशीशमन् | अशीशमत | अशीशमेताम् | अशीशमन्त |
+| म° | अशीशमः | अशीशमतम् | अशीशमत | अशीशमथाः | अशीशमेथाम् | अशीशमध्वम् |
+| उ° | अशीशमम् | अशीशमाव | अशीशमाम | अशीशमे | अशीशमावहि | अशीशमामहि |
 
-If the root syllable is Ts (i.e., long vowel or short before con junct), the 374 syllable will be light and, in this case only, an अ vowel will appear as अ in the अभ्यास. This is quiterare. The stem thus formed is given a final 31, as though it were the imperfect stem of an 37 root, and receives the endings proper to such a root. The paradigm of var is as follows:
+The form is not common enough to worry about, but its common metrical structure of ˘ – ˘ ˘̱ represented by the sequence: augment, heavy अभ्यास, light root, any एक° परस्मैपद ending, makes it easy enough to recognize.
 
-परस्मैपद
+Examples:
 
-आत्मनेपद एक द्वि० बह | एक द्वि० बह प्र. अशीशमत् अशीशमताम् अशीशमन् अशीशमत अशीशमेताम् अशीशमन्त म. अशीशमः अशीशमतम् अशीशमत | अशीशमथाः अशीशमेथाम् अशीशमध्वम् उ० अशीशमम् अशीशमाव अशीशमाम | अशीशमे अशीशमावहि अशीशमामहि
+कौसल्या राममजीजनत् ।
 
-358
+(Kausalyā gave birth to Rāma.)
 
-The form is not common enough to worry about, but its com mon metrical structure of
+तदा वीराः कोपाग्निमशीशमन् ।
 
-represented by the sequence: augment, heavy 37 H, light root, any 050 427446 ending, makes it easy enough to recognize. Examples: कौसल्या राममजीजनत् ।। (Kausalyā gave birth to Rāma.) तदा वीराः कोपाग्निमशीशमन् । (Then the heroes extinguished the fire of (their) anger.)
+(Then the heroes extinguished the fire of [their] anger.)
 
-19.17 gery, adeh, Hifl, 55
+19.17
 
-The aorist has various modes, none of which you need learn, and, as with any non-present form, its 31764-146 forms may be used in difer. However, there is a special, peculiar, ditur प्रयोग form, which occurs only in the प्रथम एक° and has no regular conjugation. It is formed by adding the personal ending 5 to the augmented and generally strengthened root. a. The root is strengthened as follows:
+प्रथमपुरुष, एकवचन, कर्मणि, लुङ्
 
-i. Final vowels and usually medial -34- in a light syllable
+The aorist has various modes, none of which you need learn, and, as with any non-present form, its आत्मनेपद forms may be used in कर्मणि प्रयोग. However, there is a special, peculiar, कर्मणि प्रयोग form, which occurs only in the प्रथम° एक° and has no regular conjugation. It is formed by adding the personal ending इ to the augmented and generally strengthened root.
 
-are subject to वृद्धि. ii. Other medial vowels, if in light syllables, are subject
+a. The root is strengthened as follows:
 
-to M. iii. After final 371, the consonant is placed before the
+i. Final vowels and usually medial -अ- in a light syllable are subject to वृद्धि.
 
-ending (5) Examples: Root Vदा (give) अदायि (it was given) कृ (do) अकारि (it was done)
+ii. Other medial vowels, if in light syllables, are subject to गुण.
+
+iii. After final आ, the consonant य् is placed before the ending (इ).
+
+Examples:
+
+Root
+
+√दा (give) अदायि (it was given)
+
+√कृ (do) अकारि (it was done)
 
 19.18
 
-The Injunctive There is one usage made of the g5 forms which is quite dif ferent from the basic preterite application. This is the so-called injunctive, or negative imperative, which may be formed from any 5 form by dropping the augment and using the regular359
+The Injunctive
 
-prohibitive particle (41) (see 11.18). In classical Sanskrit, this usage is perhaps more common than the preterite one. For example: Root
+There is one usage made of the लुङ् forms which is quite different from the basic preterite application. This is the so-called injunctive, or negative imperative, which may be formed from any लुङ् form by dropping the augment and using the regular prohibitive particle (मा) (see 11.18). In classical Sanskrit, this usage is perhaps more common than the preterite one. For example:
 
-In junctive कृ (do) तन्मा कार्षीः ।
-
-(Don't do that!) भू (be) भरतो राजा मा भूत् । (Let Bharata not be
-
-king!) गम् (go) हे अर्जुन । क्लैब्यं मा गमः । (O Arjuna! Do not be
-
-a weakling! [lit., Do not go to unmanliness!))
+| Root | Injunctive |
+| √कृ (do) तन्मा कार्षीः । | (Don't do that!) |
+| √भू (be) भरतो राजा मा भूत् । | (Let Bharata not be king!) |
+| √गम् (go) हे अर्जुन । क्लैब्यं मा गमः । | (O Arjuna! Do not be a weakling! [lit., Do not go to unmanliness!]) |
 
 EXERCISES
 
-A.
+A. Translate the reading up until the sentence beginning with तां कामपाश-. Isolate all लङ्, लिट् and लुङ् forms and in each case provide two finite equivalents (e.g., is the form is लुङ् give the corresponding लिट् and लङ्).
 
-B.
+B. Do the same for the passage up to शूर्पणखोवाच.
 
-॥२॥
+C. The same for the remainder of the reading.
 
-Translate the reading up until the sentence beginning with ai कामपाश-. Isolate all लङ्, लिट and लुङ् forms and in each case provide two finite equivalents (e.g., is the form is 5 give the corresponding लिट् and लङ्). Do the same for the passage up to शूर्पणखोवाच. The same for the remainder of the reading.. Translate the following sentences into English. दशरथे महायज्ञं कृतवति कौसल्यादयो राज्ञस्तिस्रो भार्याश्चतुरः सुन्दरपुत्रानजीजनन् । आगच्छतः सुसंक्रुद्धान्घोरराक्षसान्प्रेक्ष्य श्रीरामो मा भैषीरित्युक्त्वा मुनये भयमदात् । यदा राजात्मनो भार्यायाः सुदारुणवचो ऽश्रौषीत्तदा हे पापिनि किं त्वयाकारीत्यवोचत् ।
+D. Translate the following sentences into English.
 
-चतुर्पु वेदेषु कः प्रसिद्ध इति प्रश्नं श्रुत्वा सर्व ऋग्वेद इति वदेयुः । वनगमनानन्तरं राघवः किमकार्षीत् । नाहं प्रष्टव्यः । सर्वमिदं वृत्तान्तं सर्वैः पठनीयं वाल्मीकिरामायणे । Translate the following into Sanskrit, using the forms used in the chapter. (Give also equivalent 25 and to forms.)
+॥१॥ दशरथे महायज्ञं कृतवति कौसल्यादयो राज्ञस्तिस्रो भार्याश्चतुरः सुन्दरपुत्रानजीजनन् ।
 
-1. There was a terrible rāksasa in Lanka named Ravana, the
+॥२॥ आगच्छतः सुसंक्रुद्धान्घोरराक्षसान्प्रेक्ष्य श्रीरामो मा भैषीरित्युक्त्वा मुनये भयमदात् ।
 
-equal of a hundred gods in battle.
+॥३॥ यदा राजात्मनो भार्यायाः सुदारुणवचो ऽश्रौषीत्तदा हे पापिनि किं त्वयाकारीत्यवोचत् ।
 
-॥३॥
+॥४॥ चतुर्षु वेदेषु कः प्रसिद्ध इति प्रश्नं श्रुत्वा सर्व ऋग्वेद इति वदेयुः ।
 
-॥४॥
+॥५॥ वनगमनानन्तरं राघवः किमकार्षीत् । नाहं प्रष्टव्यः । सर्वमिदं वृत्तान्तं सर्वैः पठनीयं वाल्मीकिरामायणे ।
 
-॥५॥
+E. Translate the following into Sanskrit, using the forms used in the chapter. (Give also equivalent लङ् and लिट् forms.)
 
-E.
+1. There was a terrible rākṣasa in Laṅkā named Rāvaṇa, the equal of a hundred gods in battle.
 
-360
+2. In order to kill this enemy of the righteous, the gods caused Hari to be born among men.
 
-2. In order to kill this enemy of the righteous, the gods caused
+3. If a man should act like a rākṣasa (नामधातु, विधि लिङ्), then, like a night-roamer (निशाचरः), let him not see (injunctive) the glorious sun.
 
-Hari to be born among men. 3. If a man should act like a rāksasa (नामधातु, विधि लिङ्),
+F. Translate and memorize the following verse.
 
-then, like a night-roamer (FRIER:), let him not see injunc
+दुर्जनः परिहर्तव्यो विद्ययालंकृतो ऽपि सन् ।
 
-tive) the glorious sun. Translate and memorize the following verse.
-
-दुर्जनः परिहर्तव्यो विद्ययालंकृतो ऽपि सन् । मणिना भूषितः सर्पः किमसौ न भयङ्करः ॥
+मणिना भूषितः सर्पः किमसौ न भयङ्करः ॥
 
 The analogy is based on the poetic convention that snakes, particularly the deadly cobra, carry precious gems in their heads.
 
 READING
 
-अयोध्यां गतयोर्भरतशत्रुघ्नयो रामो गोदावरी नदीं प्राप्य देवपितृस्तर्पयित्वा स्नानमकार्षीत् । ततः
+अयोध्यां गतयोर्भरतशत्रुघ्नयो रामो गोदावरी नदीं प्राप्य देवपितृंस्तर्पयित्वा स्नानमकार्षीत् । ततः
 
 कृताभिषेकः स रराज रामः सीताद्वितीयः सह लक्ष्मणेन ।
 
-कृताभिषेको गिरिराजपुत्र्या रुद्रः सनन्दिर्भगवानिवेशः ॥१॥ तदा पूज्यमानो महर्षिभिः पर्णशालायां प्रियभार्यया सह सुखमुवास । अथामुष्मिन्समये काचन महती राक्षसी शूर्पणखा नाम तस्मिन्दण्डकारण्ये ऽवसत् । सा च क्रूरकर्मा विरूपा निशाचरकन्या राक्षसाधिराजस्य त्रिलोककण्टकस्य दशग्रीवस्य रावणनाम्नो भगिन्यभूत् । एकदा सा वने यदृच्छया भ्रमन्ती तौ द्वौ सूर्यचन्द्रोपमौ वीरावद्राक्षीत् ।
+कृताभिषेको गिरिराजपुत्र्या रुद्रः सनन्दिर्भगवानिवेशः ॥१॥
+
+तदा पूज्यमानो महर्षिभिः पर्णशालायां प्रियभार्यया सह सुखमुवास । अथामुष्मिन्समये काचन महती राक्षसी शूर्पणखा नाम तस्मिन्दण्डकारण्ये ऽवसत् । सा च क्रूरकर्मा विरूपा निशाचरकन्या राक्षसाधिराजस्य त्रिलोककण्टकस्य दशग्रीवस्य रावणनाम्नो भगिन्यभूत् । एकदा सा वने यदृच्छया भ्रमन्ती तौ द्वौ सूर्यचन्द्रोपमौ वीरावद्राक्षीत् ।
 
 सुमुखं दुर्मुखी रामं वृत्तमध्यं महोदरी ।
 
-प्रियरूपं विरूपा सा सुस्वरं भैरवस्वना ॥२॥ दृष्ट्वा च काममोहिता सतीदं वचनमवोचत् । भो वीर
+प्रियरूपं विरूपा सा सुस्वरं भैरवस्वना ॥२॥
 
-अहं शूर्पणखा नाम राक्षसी कामरूपिणी । रावणो नाम मे भ्राता राक्षसो राक्षसाधिपः । प्रख्यातवीर्यौ च रणे भ्रातरौ खरदूषणौ ॥३॥
+दृष्ट्वा च काममोहिता सतीदं वचनमवोचत् । भो वीर
 
-361
+अहं शूर्पणखा नाम राक्षसी कामरूपिणी ।
 
-अतो मया सहागन्तुमर्हति भवान् । इयं विरूपा न तव सदृशी । त्याज्या सा । अन्यथा मानुषीमल्पोदरीं तव भ्रातरं चाद्य भक्षयिष्यामीति । तां कामपाराबद्धराक्षसीं श्रीरामः स्मितपूर्वमिदं वचनमब्रवीत् । कृतविवाहो ऽस्मि। भ्राता तु मे ऽविवाहितो वीरो ऽनुरूपो भर्ता तव भवेदिति । एवं प्रोक्ता राघवेण कामवशगतेयं रामं सहसा परित्यज्य लक्ष्मणमवोचत् । रूपेण युक्ताहं भार्या तव भविष्यामि । मया सह सुखं दण्डकान्विचरिष्य सीति । तद्वचनं हासकारणं श्रुत्वा लक्ष्मणो हसनिवोवाच । दासो ऽस्मि वरानने ऽग्रजस्य रामस्य । रामं सेवस्व विशालाक्षि रामपत्नी भविष्यसि । को हि तवैतादृशं रूपं प्रेक्ष्येमां वृद्धां कुरूपां सीतां न त्यजेदिति । इयं तु राक्षसी कामदेवस्य पञ्चभिरिषुभिर्हता लक्ष्मणोक्तपरिहासमविजानती तद्व
+रावणो नाम मे भ्राता राक्षसो राक्षसाधिपः ।
 
-चः सत्यममन्यत । शूर्पणखोवाच च । हे राम
+प्रख्यातवीर्यौ च रणे भ्रातरौ खरदूषणौ ॥३॥
+
+अतो मया सहागन्तुमर्हति भवान् । इयं विरूपा न तव सदृशी । त्याज्या सा । अन्यथा मानुषीमल्पोदरीं तव भ्रातरं चाद्य भक्षयिष्यामीति । तां कामपाशबद्धराक्षसीं श्रीरामः स्मितपूर्वमिदं वचनमब्रवीत् । कृतविवाहो ऽस्मि। भ्राता तु मे ऽविवाहितो वीरो ऽनुरूपो भर्ता तव भवेदिति । एवं प्रोक्ता राघवेण कामवशगतेयं रामं सहसा परित्यज्य लक्ष्मणमवोचत् । रूपेण युक्ताहं भार्या तव भविष्यामि । मया सह सुखं दण्डकान्विचरिष्यसीति । तद्वचनं हासकारणं श्रुत्वा लक्ष्मणो हसन्निवोवाच । दासो ऽस्मि वरानने ऽग्रजस्य रामस्य । रामं सेवस्व विशालाक्षि रामपत्नी भविष्यसि । को हि तवैतादृशं रूपं प्रेक्ष्येमां वृद्धां कुरूपां सीतां न त्यजेदिति । इयं तु राक्षसी कामदेवस्य पञ्चभिरिषुभिर्हता लक्ष्मणोक्तपरिहासमविजानती तद्वचः सत्यममन्यत । शूर्पणखोवाच च । हे राम
 
 अद्येमां भक्षयिष्यामि पश्यतस्तव मानुषीम् ।
 
-त्वया सह चरिष्यामि निःसपत्ना यथासुखम् ॥४॥ इत्युक्त्वा सा सुसंक्रुद्धा सीतामभ्यगमद् बुभुक्षोन्मत्तव्याघी कोमलमृगशावकं यथा । रामस्तु कुपितस्तां निवारयामासोवाच च । क्रूरैरनार्यैः सौमित्रे परिहासो न कदाचित्कार्यः । इमां लम्बोदरीं राक्षसी विरूपयितुमर्हसि पुरुषव्याघेति । तच्छ्रुत्वा भयपीडितां वैदेहीं च दृष्ट्वा रामानुजः स्व खड्गमुद्धत्य राक्षस्याः कर्णनासाश्चिच्छेद । इयमपि विच्छिन्नकर्णनासा प्रतोदहतकरेणुवनदन्ती स्रवच्छोणिताच्छादितानना भ्रातरं खरं तत्सर्वं निवेदयितुं दुद्राव । जनस्थानं प्राप्य महाबलं खरं चतुर्दशसहस्रेण दारुण राक्षसानां संवृतमुपविष्टं सा विरूपिता भयमोहक्रोधमूर्च्छिता स्वविरूपणकथां निवेदयन्ती भूमौ निपपात ॥
+त्वया सह चरिष्यामि निःसपत्ना यथासुखम् ॥४॥
 
-362
+इत्युक्त्वा सा सुसंक्रुद्धा सीतामभ्यगमद् बुभुक्षोन्मत्तव्याघ्री कोमलमृगशावकं यथा । रामस्तु कुपितस्तां निवारयामासोवाच च । क्रूरैरनार्यैः सौमित्रे परिहासो न कदाचित्कार्यः । इमां लम्बोदरीं राक्षसी विरूपयितुमर्हसि पुरुषव्याघ्रेति । तच्छ्रुत्वा भयपीडितां वैदेहीं च दृष्ट्वा रामानुजः स्वखड्गमुद्धृत्य राक्षस्याः कर्णनासाश्चिच्छेद । इयमपि विच्छिन्नकर्णनासा प्रतोदहतकरेणुवन्नदन्ती स्रवच्छोणिताच्छादितानना भ्रातरं खरं तत्सर्वं निवेदयितुं दुद्राव । जनस्थानं प्राप्य महाबलं खरं चतुर्दशसहस्रेण दारुणराक्षसानां संवृतमुपविष्टं सा विरूपिता भयमोहक्रोधमूर्च्छिता स्वविरूपणकथां निवेदयन्ती भूमौ निपपात ॥
 
 GLOSSARY
 
-करेणुः (m) elephant कर्णः (m)-ear कामदेवः (m)—Kāmadeva, god of love कामरूपिन् (adj)—taking any form at will
+अग्र
 
-अग्र (adj)—first
+(adj)—first
 
-अधिराजः (m) overlord, king
+अधिराजः
 
-अनुरूप (adj)-conformable, suitable
+(m)—overlord, king
 
-अन्यथा (ind) otherwise
+अनुरूप
 
-अभयम् (n)-security
+(adj)—conformable, suitable
 
-अभिषेकः (m)—ablution, ritual bath
+अन्यथा
 
-अल्पोदरी (f)— having a small belly
+(ind)—otherwise
 
-आच्छादित (adj)—covered, enveloped
+अभयम्
 
-(ind)
+(n)—security
 
-a prefix implying badness'
+अभिषेकः
 
-कुरूप
+(m)—ablution, ritual bath
 
-(adj) ugly, deformed
+अल्पोदरी
 
-खगः
+(f)—having a small belly
+
+आच्छादित
+
+(adj)—covered, enveloped
 
 ईशः
 
-(m)—lord, Siva
+(m)—lord, Śiva
 
-उन्मत्त (adj)-crazy, drunk, maddened उपविष्ट (adj)-seated ऋग्वेदः (m)—the Rgveda
+उन्मत्त
 
-(m)-sword
+(adj)—crazy, drunk, maddened
 
-खरः (m prop)-Khara, a great rākşasa
+उपविष्ट
 
-chief, brother of Rāvana and
+(adj)—seated
 
-Śūrpanakhā गिरिराजपुत्री (f prop)—'daughter of the King of
+ऋग्वेदः
 
-the mountains,' i.e., Pārvatī'
+(m)—the Ṛgveda
 
-गोदावरी (f prop)-name of a river जनस्थानम् (n prop)— Janasthāna, portion of
+कण्टकः
 
-the Dandakāraṇya, headquarters of Khara
+(m)—thorn; fig. 'something irritating'
 
-कण्टकः (m)—thor; fig. 'something
+करेणुः
 
-irritating'
+(m)—elephant
 
-363
+कर्णः
+
+(m)—ear
+
+कामदेवः
+
+(m)—Kāmadeva, god of love
+
+कामरूपिन्
+
+(adj)—taking any form at will
+
+कु
+
+(ind)—a prefix implying 'badness'
+
+कुरूप
+
+(adj)—ugly, deformed
+
+खड्गः
+
+(m)—sword
+
+खरः
+
+(m prop)—Khara, a great rākṣasa chief, brother of Rāvaṇa and Śūrpaṇakhā
+
+गिरिराजपुत्री
+
+(f prop)—'daughter of the King of the mountains,' i.e., Pārvatī'
+
+गोदावरी
+
+(f prop)—name of a river
+
+जनस्थानम्
+
+(n prop)—Janasthāna, portion of the Daṇḍakāraṇya, headquarters of Khara
 
 तुल्य
 
-नि + विद् (adj) equal
+(adj)—equal
 
-(2P)—be informed; णिजन्त = निवेदय् Vतृप्
+√तृप्
 
-नि + वृ (4P / Ā)—be satisfied
+(4P / Ā)—be satisfied
 
-(5P/A) be blocked, prevented
+त्रि
 
-णिजन्त = निवारय् (adj)—three (see 19.6.c) निहत
+(adj)—three (see 19.6.c)
 
 दशग्रीवः
 
-(adj)-slain
-
-(m)—'having ten necks;' epithet | पञ्च
-
-of Rāvaņa
-
-(adj)-five (see 19.6)
+(m)—'having ten necks;' epithet of Rāvaṇa
 
 दासः
 
-परिहासः (m) servant, slave
+(m)—servant, slave
 
-(m)—joke, jest दुर्मुखी
+दुर्मुखी
 
-पर्णम् (f)—having an ugly face (n)-leaf दूषणः
+(f)—having an ugly face
 
-पाशः (m prop)—Dusana, brother of | (m)—noose Khara
+दूषणः
 
-द्रु
+(m prop)—Dūṣaṇa, brother of Khara
 
-(m)- ancestor (1P)—run
+√द्रु
 
-पुष्पित निद्
+(1P)—run
 
-(adj)—flowery (1P)-roar नदी
+√नद्
 
-(9P/ Ā) purify (f)—river नन्दिः
+(1P)—roar
 
-(10P)—worship, revere (m prop)-Nandi (or Nandin),
+नदी
 
-प्रख्यात Siva's bull
+(f)—river
 
-(adj)-famous नासा
+नन्दिः
 
-प्रतोदः (1)—nose
+(m prop)—Nandi (or Nandin), Śiva's bull
 
-(m)-goad निःसपत्न
+नासा
 
-प्रसिद्ध (adj)—having no rival
+(f)—nose
 
-(adj)-famous
+निःसपत्न
 
-ति
+(adj)—having no rival
 
-364
+नि + √विद्
 
-यदृच्छया (ind)—by chance युक्त (adj)-joined, furnished or
+(2P)—be informed; णिजन्त = निवेदय्
 
-endowed with (with dill or in compound)
+नि + √वृ
 
-प्रश्नः (m)-question प्रेक्ष (प्र + Vईक्ष) (6Ā)—see, behold प्रोक्त (adj)—addressed, spoken to
+(5P / Ā)—be blocked, prevented; णिजन्त = निवारय्
 
-बलम् (n)-power, strength भिक्ष (10P)-eat भगिनी (f)-sister भैरव (adj)—terrible, fearsome
+निहत
 
-युगम् (n)—a cosmic era
+(adj)—slain
 
-भ्रम्
+पञ्च
 
-रणम् (n)-battle राक्षसी (f)—a female rākşasa
+(adj)—five (see 19.6)
 
-राज् (1P/Ā)—shine
+परिहासः
 
-रावणः (m prop) Ravana रुद्रः (m prop)-Rudra, a name of Siva रूपम् (n)—form, beauty लम्बोदर (adj, f—-1)potbellied
+(m)—joke, jest
+
+पर्णम्
+
+(n)—leaf
+
+पाशः
+
+(m)—noose
+
+पितृ
+
+(m)—ancestor
+
+पुष्पित
+
+(adj)—flowery
+
+√पू
+
+(9P / Ā)—purify
+
+√पूज्
+
+(10P)—worship, revere
+
+प्रख्यात
+
+(adj)—famous
+
+प्रतोदः
+
+(m)—goad
+
+प्रसिद्ध
+
+(adj)—famous
+
+प्रश्नः
+
+(m)—question
+
+प्रेक्ष (प्र + √ईक्ष्)
+
+(6Ā)—see, behold
+
+प्रोक्त
+
+(adj)—addressed, spoken to
+
+बलम्
+
+(n)—power, strength
+
+√भक्ष्
+
+(10P)—eat
+
+भगिनी
+
+(f)—sister
+
+भैरव
+
+(adj)—terrible, fearsome
+
+√भ्रम्
 
 (1P)—wander
 
-मध्यः (m)-middle, waist महोदरी (f)—having a big belly मानुषी (adjf)-female human, woman मुगशावकः (m)—fawn मोहः (m)-delusion
+मध्यः
 
-वर
+(m)—middle, waist
 
-(adj)—best, excellent, most
+महोदरी
 
-precious वि + Vचर् (1P)—wander विच्छिन्न (adj)—severed
+(f)—having a big belly
 
-यथासुखम् (ind)—according to pleasure
+मानुषी
 
-365
+(adj f)—female human, woman
 
-व्याघी (1)—tigress
+मृगशावकः
 
-शूर्पणखा (f prop)-Surpanakhā, sister of
+(m)—fawn
 
-Rāvaņa शोणितम् (n) blood संवृत्त (adj) surrounded
+मोहः
 
-सहसा
+(m)—delusion
 
-विरूप (adj)-ugly स्नानम् (n)—bathing, ablution
+यथासुखम्
 
-स्मि (1P/A) smile स्मितपूवम् (ind)—with a smile
+(ind)—according to pleasure
 
-V (1P)—flow, run विरूपणम् (n)-disfigurement विरूपय (नामधातु)-disfigure विरूपित (adj)-disfigured, mutilated विरूपिन् (adj; f-5-1) ugly विशालाक्षी (adjf)—having large eyes
+यदृच्छया
 
-(ind)—suddenly, at once
+(ind)—by chance
 
-सुदारुण (adj)—very terrible सुमुख (adj)—handsome | सुसंक्रुद्ध
+युक्त
 
-(adj)—furious
+(adj)—joined, furnished or endowed with (with तृतीया or in compound)
 
-स्ना (2P)-bathe
+युगम्
 
-स्वनः (m)—sound, cry
-
-स्वरः (m)—sound, cry
-
-हासः (m) laughter
-
-वृत्त
-
-(adj)-(in this समास) slender
-
-वृषभः (m)—bull
-
-वेदः
-
-(m)
-
-veda
-
-(ind)—indeed, surely
-
-366
-
-ENGLISH-SANSKRIT GLOSSARY
+(n)—a cosmic era
 
 रणम्
 
-(n)
+(n)—battle
 
-शत्रु:
+राक्षसी
 
-battle enemy righteous
+(f)—a female rākṣasa
 
-Hari (Visnu) glorious
+√राज्
 
-धार्मिक
+(1P / Ā)—shine
 
-हरिः
+रावणः
 
-(m) or अरिः (m) (adj) (m prop) (adj) (m)
+(m prop)—Rāvaṇa
 
-तेजस्विन् सूर्यः
+रुद्रः
 
-sun
+(m prop)—Rudra, a name of Śiva
+
+रूपम्
+
+(n)—form, beauty
+
+लम्बोदर
+
+(adj, f -ī)—potbellied
+
+वर
+
+(adj)—best, excellent, most precious
+
+वि + √चर्
+
+(1P)—wander
+
+विच्छिन्न
+
+(adj)—severed
+
+विरूप
+
+(adj)—ugly
+
+स्नानम्
+
+(n)—bathing, ablution
+
+√स्मि
+
+(1P / Ā)—smile
+
+स्मितपूर्वम्
+
+(ind)—with a smile
+
+√स्रु
+
+(1P)—flow, run
+
+विरूपणम्
+
+(n)—disfigurement
+
+विरूपय
+
+(नामधातु)—disfigure
+
+विरूपित
+
+(adj)—disfigured, mutilated
+
+विरूपिन्
+
+(adj; f -inī)—ugly
+
+विशालाक्षी
+
+(adj f)—having large eyes
+
+वृत्त
+
+(adj)—(in this समास) slender
+
+वृषभः
+
+(m)—bull
+
+वेदः
+
+(m)—veda
+
+व्याघ्री
+
+(f)—tigress
+
+शूर्पणखा
+
+(f prop)—Śūrpaṇakhā, sister of Rāvaṇa
+
+शोणितम्
+
+(n)—blood
+
+संवृत्त
+
+(adj)—surrounded
+
+सहसा
+
+(ind)—suddenly, at once
+
+सुदारुण
+
+(adj)—very terrible
+
+सुमुख
+
+(adj)—handsome
+
+सुसंक्रुद्ध
+
+(adj)—furious
+
+√स्ना
+
+(2P)—bathe
+
+स्वनः
+
+(m)—sound, cry
+
+स्वरः
+
+(m)—sound, cry
+
+हासः
+
+(m)—laughter
+
+हि
+
+(ind)—indeed, surely
+
+ENGLISH-SANSKRIT GLOSSARY
+
+| battle | रणम् | (n) |
+| enemy | शत्रुः | (m) or अरिः (m) |
+| righteous | धार्मिक | (adj) |
+| Hari (Viṣṇu) | हरिः | (m prop) |
+| glorious | तेजस्विन् | (adj) |
+| sun | सूर्यः | (m) |
 
 GLOSSARY FOR VERSES
 
 (In order of occurrence)
 
-मणिः (m)—jewel भूषित (adj) ornamented
+दुर्जनः
 
-दुर्जनः (m) evil person परि + ह (1P)—avoid, shun
+(m)—evil person
+
+परि + √हृ
+
+(1P)—avoid, shun
 
 विद्या
 
-(f)-learning अलंकृत (adj) ornamented
+(f)—learning
+
+अलंकृत
+
+(adj)—ornamented
+
+मणिः
+
+(m)—jewel
+
+भूषित
+
+(adj)—ornamented
 
 सर्पः
 
--
+(m)—serpent
 
-(m) serpent भयङ्कर | (adj) fearsome, terrible
+भयङ्कर
+
+(adj)—fearsome, terrible
