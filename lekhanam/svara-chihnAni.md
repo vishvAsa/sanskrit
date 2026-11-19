@@ -90,7 +90,7 @@ unicode_script: devanagari
 >
 > इत्य् उज्ज्वलः꣡।
 
-> The denotation and the reciprocal influence of the accents does in general not undergo any alteration from the divisions of the pratikas, the kandikás or the brdhmanas, with the only exception that the underlineal stroke is changed into three dots in the manuscripts: त᳟त् ॥१॥ स᳘ 
+> The denotation and the reciprocal influence of the accents does in general not undergo any alteration from the divisions of the pratikas, the kandikás or the brahmanas, with the only exception that the underlineal stroke is changed into three dots in the manuscripts: त᳟त् ॥१॥ स᳘ 
 > 
 > - Weber
 
