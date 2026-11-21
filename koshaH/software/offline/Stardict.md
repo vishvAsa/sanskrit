@@ -62,11 +62,12 @@ In the order of most updated/ maintained -
 ## Recommendations for dictionary apps
 ### Android:
 
-- App being developed by prasanna.
 - Goldendict (paid): [here](https://play.google.com/store/apps/details?id=mobi.goldendict.android). (202312: Not available in latest android versions.)
 
 Free alternatives:
 
+- hdict by dhaval. [Play Store](https://play.google.com/store/apps/details?id=in.sanskritworld.hdict)
+- dADimi. [Play Store](https://play.google.com/store/apps/details?id=in.vipran.dadimi) by prasanna.
 - Qdict - [github](https://github.com/marmistrz/QDict), [install apk](https://f-droid.org/packages/com.annie.dictionary.fork/) (Look for "Download APK" link.)
 - Goldendict
   - Download apk [TW]( http://goldendict.mobi/downloads/android/paid/) (Source: [TW](https://github.com/goldendict/goldendict/issues/1700#issuecomment-2442743656))
@@ -86,6 +87,8 @@ Free alternatives:
     - Poor unicode support, rather clunky as of 2017.  
 
 ### iphone
+- hdict by dhaval. [App Store](https://apps.apple.com/in/app/hdict/id6759493062)
+
 2019 handout [here](https://drive.google.com/file/d/1C-5Nxmwtax7xWjFNDK7wbksMH60pg5gc/view), replicating aupasana.com instructions, explains how the "Dictionary Universal" app should be installed and used. 
 Note that specific dict urls are likely to be outdated. Instead, use tars.md files linked above.
 
