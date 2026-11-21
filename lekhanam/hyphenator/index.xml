@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#43;पद-भेद-कलन-यन्त्रम् on संस्कृते विश्वासटिप्पन्यः</title>
+    <link>https://vishvAsa.github.io/sanskrit/lekhanam/hyphenator/</link>
+    <description>Recent content in &#43;पद-भेद-कलन-यन्त्रम् on संस्कृते विश्वासटिप्पन्यः</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://vishvAsa.github.io/sanskrit/lekhanam/hyphenator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://vishvAsa.github.io/sanskrit/lekhanam/hyphenator/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://vishvAsa.github.io/sanskrit/lekhanam/hyphenator/test/</guid>
+      <description>&lt;textarea id=&#34;hyph-in&#34; rows=&#34;10&#34; cols=&#34;80&#34;&gt;एतदुक्तं भवति – परस्यैव ब्रह्मणो निखिलहेयप्रत्यनीकानन्तज्ञानानन्दैकस्वरूपतया सकलेतरविलक्षणस्य स्वाभाविकानविधकातिशयासङ्ख्येयकल्याणगुणगणाश्च सन्ति। जगतामुपकाराय न सा कर्मनिमित्तजा। इत्येवं सर्वप्रमाणशतैः सिद्धं सर्वज्ञत्वम् अपास्तसमस्तदोषं जगत्कारणं ब्रह्मैव।&lt;/textarea&gt;&#xA;&#xA;&lt;p&gt;&lt;button id=&#34;hyph-run&#34; type=&#34;button&#34; disabled&gt;पद-भेदं कुरु&lt;/button&gt; &lt;button id=&#34;hyph-copy&#34; type=&#34;button&#34; disabled&gt;फलं सङ्कलय (copy)&lt;/button&gt; &lt;span id=&#34;hyph-status&#34; aria-live=&#34;polite&#34;&gt;&lt;/span&gt;&#xA;&#xA;&lt;br&gt;&#xA;&lt;h2&gt;फलम्&lt;/h2&gt;&#xA;&#xA;&lt;pre id=&#34;hyph-out&#34; style=&#34;white-space: pre-wrap; overflow-wrap: break-word;&#34;&gt;&lt;/pre&gt;&#xA;&#xA;&lt;script src=&#34;app.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+  </channel>
+</rss>
