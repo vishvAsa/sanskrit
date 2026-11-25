@@ -35,3 +35,6 @@ title = true
   style = 'friendly'
   tabWidth = 2
 
+
+[security]
+  allowContent = ['.*']
